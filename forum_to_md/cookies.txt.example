@@ -1,0 +1,6 @@
+# Paste the four XenForo session cookies for your logged-in forum.jackkruse.com account
+# on the next line, in the format: key=value; key=value; key=value; ...
+# Rename this file to `cookies.txt` and fill it in (cookies.txt is gitignored).
+# See SETUP.md for the step-by-step on where to find each value.
+
+xf_user=YOUR_USER_TOKEN_HERE; xf_csrf=YOUR_CSRF_TOKEN_HERE; xf_session=YOUR_SESSION_TOKEN_HERE

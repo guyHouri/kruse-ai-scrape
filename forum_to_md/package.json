@@ -1,0 +1,36 @@
+{
+  "name": "forum_to_md",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Scrape forum.jackkruse.com (XenForo) into NotebookLM-ready markdown bundles.",
+  "homepage": "https://github.com/guyhouri/kruse-ai-scrape",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guyhouri/kruse-ai-scrape.git",
+    "directory": "forum_to_md"
+  },
+  "author": "Guy Houri <guyhouri.tech@gmail.com>",
+  "contributors": [
+    "Amit Streit"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js",
+    "discover": "node main.js --discover-only",
+    "discover-jack": "node main.js --jack-discover-only",
+    "discover-not-jack": "node main.js --not-jack-discover-only",
+    "recover": "node main.js --recover-only",
+    "extract": "node main.js --extract-only",
+    "split": "node main.js --split-only",
+    "status": "node main.js --status"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "p-limit": "^6.1.0",
+    "playwright": "^1.59.1",
+    "turndown": "^7.2.0",
+    "turndown-plugin-gfm": "^1.0.2",
+    "xlsx": "^0.18.5"
+  }
+}

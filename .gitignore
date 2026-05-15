@@ -1,0 +1,53 @@
+# =========================================================================
+# kruse-ai-scrape — root .gitignore
+# =========================================================================
+
+# --- Credentials (NEVER commit) ---
+**/cookies.txt
+**/.env
+**/.env.*
+!**/.env.example
+!**/cookies.txt.example
+
+# --- Node ---
+**/node_modules/
+**/package-lock.json
+*.log
+*.tmp
+*.pid
+
+# --- Per-item MDs (huge — bundles in processed_mds/*.md are the published artifact) ---
+**/processed_mds/threads/
+**/processed_mds/articles/
+**/processed_mds/blog/
+**/processed_mds/blog_series/
+
+# --- Scraper state (regenerable from source) ---
+**/threads.json
+**/threads.json.*.tmp
+**/articles.json
+**/articles.json.*.tmp
+**/links/
+**/raw_data/
+**/fixtures/
+
+# --- Logs ---
+**/logs/*.log
+**/logs/*.tmp
+!**/logs/.gitkeep
+
+# --- Per-tool local state (not project-relevant) ---
+.claude/
+.agents/
+.codex/
+.kiro/
+plans/
+skills-lock.json
+
+# --- Editor / OS junk ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
