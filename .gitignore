@@ -36,13 +36,13 @@
 **/logs/*.tmp
 !**/logs/.gitkeep
 
-# --- Per-tool local state (not project-relevant) ---
+# --- Per-tool local state (each contributor has their own) ---
 .claude/
 .agents/
 .codex/
 .kiro/
-plans/
-skills-lock.json
+
+# plans/ (design docs) and skills-lock.json are tracked.
 
 # --- Editor / OS junk ---
 .DS_Store
