@@ -1522,7 +1522,7 @@ God said, let there be light, so optics was born. Einstein replied, “let it be
 ### betty harrell — 2022-01-06T23:33:46+0200
 **Source:** <https://forum.jackkruse.com/threads/dha-information-theory-thermodynamics-semiconduction.26319/post-308446>
 
-Please Send me a link to your studies , I am in FL. [lutzprincess@gmail.com](mailto:lutzprincess@gmail.com)
+Please Send me a link to your studies , I am in FL. [[email redacted]](mailto:[email redacted])
 
 ### betty harrell — 2022-01-06T23:39:21+0200
 **Source:** <https://forum.jackkruse.com/threads/dha-information-theory-thermodynamics-semiconduction.26319/post-308447>
@@ -10146,7 +10146,7 @@ Hello ,
 I’m traveling to San Francisco sep27 til oct01
 Looking forward to meet great people
 this my
-email [8steveguz@gmail.com](mailto:8steveguz@gmail.com)
+email [[email redacted]](mailto:[email redacted])
 Phone: 7038269868
 
 
@@ -10163,7 +10163,7 @@ Hello ,
 I’m traveling to San Francisco sep27 til oct01
 Looking forward to meet great people
 this my
-email [8steveguz@gmail.com](mailto:8steveguz@gmail.com)
+email [[email redacted]](mailto:[email redacted])
 Phone: 7038269868
 
 
@@ -10180,7 +10180,7 @@ Hello ,
 I’m traveling to San Francisco sep27 til oct01
 Looking forward to meet great people
 this my
-email [8steveguz@gmail.com](mailto:8steveguz@gmail.com)
+email [[email redacted]](mailto:[email redacted])
 Phone: 7038269868
 
 
@@ -12081,7 +12081,7 @@ I’ve submitted support tickets and gotten no response. Still waiting to hear b
 ### Kari Dunlop — 2022-05-26T21:57:16+0300
 **Source:** <https://forum.jackkruse.com/threads/how-do-i-access-the-private-facebook-group.26501/post-313176>
 
-I had to email [info@kruseatdestin.com](mailto:info@kruseatdestin.com) with the email address I use to log into Facebook and was then emailed an invite to join the group.
+I had to email [[email redacted]](mailto:[email redacted]) with the email address I use to log into Facebook and was then emailed an invite to join the group.
 
 ### Support — 2022-05-31T17:38:41+0300
 **Source:** <https://forum.jackkruse.com/threads/how-do-i-access-the-private-facebook-group.26501/post-313256>
@@ -12092,7 +12092,7 @@ I had to email [info@kruseatdestin.com](mailto:info@kruseatdestin.com) with the 
 
 It's a private FB group - you can't subscribe to it, you must be invited.
 
-You can do this by sending your email associated with your Facebook account to [info@kruseatdestin.com](mailto:info@kruseatdestin.com). An invite will be sent to you for the Facebook Group that is related to your membership level.
+You can do this by sending your email associated with your Facebook account to [[email redacted]](mailto:[email redacted]). An invite will be sent to you for the Facebook Group that is related to your membership level.
 
 ### Support — 2022-05-31T17:39:20+0300
 **Source:** <https://forum.jackkruse.com/threads/how-do-i-access-the-private-facebook-group.26501/post-313257>
@@ -12103,7 +12103,7 @@ You can do this by sending your email associated with your Facebook account to [
 >
 > Is this group still an option? If so could someone let me know how to find it. Thanks heaps
 
-You can do this by sending your email associated with your Facebook account to [info@kruseatdestin.com](mailto:info@kruseatdestin.com). An invite will be sent to you for the Facebook Group that is related to your membership level.
+You can do this by sending your email associated with your Facebook account to [[email redacted]](mailto:[email redacted]). An invite will be sent to you for the Facebook Group that is related to your membership level.
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -15236,7 +15236,7 @@ This is exactly the effect I am looking for in my wife. Was it while wearing the
 ### JanSz — 2022-02-01T02:54:21+0200
 **Source:** <https://forum.jackkruse.com/threads/red-light-panels.26557/post-309389>
 
-> [gene@kalmens.org said:](/goto/post?id=309388)
+> [[email redacted] said:](/goto/post?id=309388)
 >
 > You said,
 > "Ended with recommendation of much longer exposure time and (surprising) healing of his macula, because he was looking directly at the light."
@@ -15284,7 +15284,7 @@ Also, we will have a conversation with her retina specialist MD about starting t
 ### JanSz — 2022-02-01T14:03:33+0200
 **Source:** <https://forum.jackkruse.com/threads/red-light-panels.26557/post-309407>
 
-> [gene@kalmens.org said:](/goto/post?id=309401)
+> [[email redacted] said:](/goto/post?id=309401)
 >
 > Thank you, [@JanSz](https://forum.jackkruse.com/members/933/), for all your advice and support! We are moving in the right direction. My concern continues to be with overdosing. It is a big change for my wife, who used to ridicule all these circadian-friendly practices. Her diagnosis made her rethink everything in one day, but I still need to instill this knowledge in her little by little. Luckily, she is now quite receptive to these ideas. We'll get there. As far as webinars, I am a patreon only. It was my big mistake not to become a member a long time ago, although when I tried more than once, the confirmation email never arrived. Definitely joining now.
 > Until we have this light therapy all set up at home, she goes to a red light salon 3 days a week, using a regimen that the red light bed developer recommended, but I am skeptical about its usefulness.
@@ -15307,7 +15307,7 @@ Non-member can't get to that place, so without the personal involvement of a sup
 
 [@caroline](https://forum.jackkruse.com/members/888/) who is a member, for whatever reason ceased being a member.
 Fife minutes later, she wants to renew her membership, no luck.
-Audrey, if you read this, possibly you may help [gene@kalmens.org](mailto:gene@kalmens.org)
+Audrey, if you read this, possibly you may help [[email redacted]](mailto:[email redacted])
 he wants to become a member, knocks on the door, nobody answers.
 
 .........
@@ -15316,7 +15316,7 @@ Also, when you pay, use a credit card with the farthest expiration day (and hope
 ### JanSz — 2022-02-01T14:28:38+0200
 **Source:** <https://forum.jackkruse.com/threads/red-light-panels.26557/post-309409>
 
-Still another story [@gene@kalmens.org](https://forum.jackkruse.com/members/246/)
+Still another story [@[email redacted]](https://forum.jackkruse.com/members/246/)
 When you are a member, and [@Jack Kruse](https://forum.jackkruse.com/members/1031/) decides to do Powwow,
 then you get an email about it.
 If you decide to participate, you must respond.
@@ -21257,7 +21257,7 @@ Jim Humble
 with Cari Lloyd
 Published by
 James V. Humble
-[sales@jhbooks.org](mailto:sales@jhbooks.org)
+[[email redacted]](mailto:[email redacted])
 
 ### JanSz — 2021-12-04T23:36:51+0200
 **Source:** <https://forum.jackkruse.com/threads/is-osteoporosis-reversible.26587/post-307068>
@@ -21269,7 +21269,7 @@ James V. Humble
 > with Cari Lloyd
 > Published by
 > James V. Humble
-> [sales@jhbooks.org](mailto:sales@jhbooks.org)
+> [[email redacted]](mailto:[email redacted])
 
 Thank you.
 Would you mind figuring it all out, (and writing it here)

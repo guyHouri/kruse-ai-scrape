@@ -13119,14 +13119,14 @@ To live we must make 7400 liters (thousands) daily of matrix water when at rest.
 ### JanSz — 2020-08-10T15:00:30+0300
 **Source:** <https://forum.jackkruse.com/threads/lacking-mental-energy-7-days-in.25160/post-291459>
 
-[https://www.facebook.com/n/?permali...wxtuPk&n\_m=janszulczb@gmail.com&lloc=new\_view](https://www.facebook.com/n/?permalink.php&story_fbid=1172323246473698&id=100010881004678&aref=1597053688999238&medium=email&mid=5ac82c03bea74G5af35e49c527G5ac8309d1ed46G318&bcode=2.1597053692.AbyX0Eoyv6mjHwxtuPk&n_m=janszulczb%40gmail.com&lloc=new_view)
+[https://www.facebook.com/n/?permali...wxtuPk&n\_m=[email redacted]&lloc=new\_view](https://www.facebook.com/n/?permalink.php&story_fbid=1172323246473698&id=100010881004678&aref=1597053688999238&medium=email&mid=5ac82c03bea74G5af35e49c527G5ac8309d1ed46G318&bcode=2.1597053692.AbyX0Eoyv6mjHwxtuPk&n_m=janszulczb%40gmail.com&lloc=new_view)
 
 ### Matt Fowler — 2020-08-10T16:30:21+0300
 **Source:** <https://forum.jackkruse.com/threads/lacking-mental-energy-7-days-in.25160/post-291461>
 
 > [JanSz said:](/goto/post?id=291459)
 >
-> [https://www.facebook.com/n/?permalink.php&story\_fbid=1172323246473698&id=100010881004678&aref=1597053688999238&medium=email&mid=5ac82c03bea74G5af35e49c527G5ac8309d1ed46G318&bcode=2.1597053692.AbyX0Eoyv6mjHwxtuPk&n\_m=janszulczb@gmail.com&lloc=new\_view](https://www.facebook.com/n/?permalink.php&story_fbid=1172323246473698&id=100010881004678&aref=1597053688999238&medium=email&mid=5ac82c03bea74G5af35e49c527G5ac8309d1ed46G318&bcode=2.1597053692.AbyX0Eoyv6mjHwxtuPk&n_m=janszulczb%40gmail.com&lloc=new_view)
+> [https://www.facebook.com/n/?permalink.php&story\_fbid=1172323246473698&id=100010881004678&aref=1597053688999238&medium=email&mid=5ac82c03bea74G5af35e49c527G5ac8309d1ed46G318&bcode=2.1597053692.AbyX0Eoyv6mjHwxtuPk&n\_m=[email redacted]&lloc=new\_view](https://www.facebook.com/n/?permalink.php&story_fbid=1172323246473698&id=100010881004678&aref=1597053688999238&medium=email&mid=5ac82c03bea74G5af35e49c527G5ac8309d1ed46G318&bcode=2.1597053692.AbyX0Eoyv6mjHwxtuPk&n_m=janszulczb%40gmail.com&lloc=new_view)
 >
 > [View attachment 16312](https://forum.jackkruse.com/attachments/16312/)
 
@@ -14566,7 +14566,7 @@ yes, she had some good info regarding EMF's at home
 
 > [John Schumacher said:](/goto/post?id=291952)
 >
-> Could Christy at [support@jackkruse.com](mailto:support@jackkruse.com) help?
+> Could Christy at [[email redacted]](mailto:[email redacted]) help?
 
 Yes I think so ....Sarah stayed with Jack for a few months because of covid.
 Also contact Phil Escot on FB - England ......Carnivore and beyond, and Humans unleashed
@@ -15355,7 +15355,7 @@ This is all very complicated. But basics are gonna be always most important. Thi
 > This is all very complicated. But basics are gonna be always most important. Thing is to take precise steps to manage this condition. First I think we need to focus on stomach. Think it is cause of loss of appetite and huge constant pain. She is almost suicidal. Its tough.
 
 You can also put in a request for a consult with Jack ->
-[info@kruseatdestin.com](mailto:info@kruseatdestin.com)
+[[email redacted]](mailto:[email redacted])
 [https://kruseatdestin.com/1-hour-skype-consult-september-2020/](https://kruseatdestin.com/1-hour-skype-consult-september-2020/)
 
 ### Tom Win — 2020-09-23T01:45:56+0300
@@ -22882,7 +22882,7 @@ Dr. Kruse, if you eventually do a Clubhouse group for or/with doctors, I would l
 Respectfully,
 
 Dr. Marcus Ettinger
-[info@advancedhealing.com](mailto:info@advancedhealing.com)
+[[email redacted]](mailto:[email redacted])
 Orange, CA
 33° N\[/QUOTE\]
 
@@ -25553,7 +25553,7 @@ forbiddenhealth.com does not work
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 mentioned in the last minute of above talk:
-[consult@lvwg.org](mailto:consult@lvwg.org)
+[[email redacted]](mailto:[email redacted])
 
 personal doctor's attention can be had (free)
 but first donate to research
@@ -26923,7 +26923,7 @@ Dr. Angel Gracia, who has studied the positive effects of seawater ingestion in 
 
 Seawater provides energy transference in an environment in perfect equilibrium. We have seen white blood cells survive in an isotonic serum made from seawater, something that doesn’t happen in hospital sterile saline solution, which is composed of just water and refined sodium chloride (salt). That explains why cells need a balanced environment, with the right amount of each element, to work correctly. According to Dr. Angel Gracia: “In a way, **we are no more than a seawater container,** since blood, excretions, and secretions
 
-79 All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means without the prior permission of the copyright owner. Email: [info@andreaskalcker.com](mailto:info@andreaskalcker.com)
+79 All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means without the prior permission of the copyright owner. Email: [[email redacted]](mailto:[email redacted])
 
 (all our fluids) in both humans and animals, are saline.” That means that you are made up of approximately 70% isotonic seawater. That should serve to make us realize that, for health matters, **we shouldn’t search for the purity** of one substance or another, but balance among them all. Isolating and separating to treat different parts of the body independently can’t yield a long-term solution because balance and harmony among all these elements are what improve health. If there is a lack of harmony or imbalance among elements, the normal functioning of the whole body is hindered or even stopped, and we enter the state known as disease. Nature doesn’t chemically isolate any substance, so this practice can’t comply with any biological compatibility pattern. Even though seawater can contain elements considered harmful, these are only present in minimal quantities. To be honest, we don’t know how harmful or useful these substances might be, because as the adage goes: “the dose makes the poison.”
 
@@ -30518,7 +30518,7 @@ Soybeans are NOT good for the thyroid!
 
 I got this e-mail today. 9/13/2022 from
 
-BodyBio <help@bodybio.com>
+BodyBio <[email redacted]>
 
 BodyBio company of dr Patricia and Ed Kane (tons of good info)
 Ed passed, and they screwed Patricia, company now is much more into advertising sales.
@@ -30881,7 +30881,7 @@ Let's hope it lasts.
 **If someone has something that works, please share it.**
 
 \--------------------------------------------------------------------
-Kyotsujigyo Support Team <support@kyotsujigyo.net>
+Kyotsujigyo Support Team <[email redacted]>
 
 Kyotsujigyo Support
 
@@ -34627,7 +34627,7 @@ I have a suspicion that above maybe rather immaterial, since whatever I am doing
 
 I spoke with someone at the company who has worked there some time and her recommendation was to take on an empty stomach and not have anything for at least 45 minutes after.
 
-Her name is Debbie, her email is: [debbie@no2u.com](mailto:debbie@no2u.com)
+Her name is Debbie, her email is: [[email redacted]](mailto:[email redacted])
 You might give a call as well: Ph: 469.553.0520
 
 ### JanSz — 2023-09-23T19:59:51+0300
@@ -36213,7 +36213,7 @@ The link to the post I included contains information on the tests that I suggest
 **Source:** <https://forum.jackkruse.com/threads/post-finasteride-ed-problem.25249/post-292513>
 
 [@bugrahan](https://forum.jackkruse.com/members/25091/) -> You may want to put in a request for a consult with Jack ->
-[info@kruseatdestin.com](mailto:info@kruseatdestin.com)
+[[email redacted]](mailto:[email redacted])
 [https://kruseatdestin.com/1-hour-skype-consult-september-2020/](https://kruseatdestin.com/1-hour-skype-consult-september-2020/)
 
 In preparation for that consultation, may I suggest - A Patient History
@@ -39579,7 +39579,7 @@ cell phone 919-949-7667
 
 **From:** Jan
 **Sent:** Monday, November 9, 2020 10:15 AM
-**To:** EUROGATOR LLC-Innovative Science <innovative-science@eurogator.com>
+**To:** EUROGATOR LLC-Innovative Science <[email redacted]>
 **Subject:** Re: Keep boosting your immune system and detox your body with 25 ppm and 50 ppm Health DEUTERIUM DEPLETED WATER
 
 [https://forum.jackkruse.com/index.p...-you-buy-this-50ppm.20927/page-12#post-293269](https://forum.jackkruse.com/index.php?threads/how-to-make-ddw-do-you-buy-this-50ppm.20927/page-12#post-293269)
@@ -39689,7 +39689,7 @@ There's also a good chapter in the book about the Spanish Flu of 1918 and radio 
 >
 > **From:** Jan
 > **Sent:** Monday, November 9, 2020 10:15 AM
-> **To:** EUROGATOR LLC-Innovative Science <innovative-science@eurogator.com>
+> **To:** EUROGATOR LLC-Innovative Science <[email redacted]>
 > **Subject:** Re: Keep boosting your immune system and detox your body with 25 ppm and 50 ppm Health DEUTERIUM DEPLETED WATER
 >
 >

@@ -12806,7 +12806,7 @@ Delivery charge (to Latvia, by air) for 36l - 260 Euro and 72l - 320 Euro.
 Langvey 50ppm, the price is 200 euro/36l.
 Moreover, this does not include costs at the airport of Riga, local costs and delivery to the recipient.
 Shall I investigate further or is this not interesting anymore?
-In order to have a tailored quotes, I would suggest you get a quote to your place by contacting Yuliya: <[y.solomovskaya@langvey.ru](mailto:y.solomovskaya@langvey.ru)\>
+In order to have a tailored quotes, I would suggest you get a quote to your place by contacting Yuliya: <[[email redacted]](mailto:[email redacted])\>
 
 ### JanSz — 2019-05-17T15:14:29+0300
 **Source:** <https://forum.jackkruse.com/threads/ddw-25.23669/post-270679>
@@ -12819,7 +12819,7 @@ In order to have a tailored quotes, I would suggest you get a quote to your plac
 > Langvey 50ppm, the price is 200 euro/36l.
 > Moreover, this does not include costs at the airport of Riga, local costs and delivery to the recipient.
 > Shall I investigate further or is this not interesting anymore?
-> In order to have a tailored quotes, I would suggest you get a quote to your place by contacting Yuliya: <[y.solomovskaya@langvey.ru](mailto:y.solomovskaya@langvey.ru)\>
+> In order to have a tailored quotes, I would suggest you get a quote to your place by contacting Yuliya: <[[email redacted]](mailto:[email redacted])\>
 
 To compare costs between different waters all costs must be included.
 When you have all costs
@@ -19827,7 +19827,7 @@ USA
 
 Ph: 888.327.9554 (toll free)
 856.825.8338 (outside the US)
-Email: [help@bodybio.com](mailto:help@bodybio.com)
+Email: [[email redacted]](mailto:[email redacted])
 Fx: 856.825.2143
 
 ### Elizabeth G — 2019-05-30T16:16:51+0300
@@ -32515,7 +32515,7 @@ I have even started a consulting practice where I use these devices and the subt
 
 Lastly I have also started a non-profit called **The Bio Energy Healing Association,** where our mission is to teach and hold events in schools and the local community on **how the physical mitochondria wisdom connects with the subtle energy healing modalities. Our goal is to have a formal program in place to bring to the local schools and community groups and hospitals**
 
-At this stage I am I am currently looking to find **board members for my association** who are familiar with Dr Kruse,s Work, or anyone who has training and an interest in energy healing modalities. If anyone wants to know more about what I am doing or interested in leaning about the non profit please feel free to email at [jennscap1@gmail.com](mailto:jennscap1@gmail.com) or call me anytime 917-568-5992
+At this stage I am I am currently looking to find **board members for my association** who are familiar with Dr Kruse,s Work, or anyone who has training and an interest in energy healing modalities. If anyone wants to know more about what I am doing or interested in leaning about the non profit please feel free to email at [[email redacted]](mailto:[email redacted]) or call me anytime 917-568-5992
 
 ### Jack Kruse — 2022-02-10T16:16:30+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-gone-from-gadolinium-poisoning-new-outlook-ahead-teaching-others.23891/post-309857>
@@ -35153,10 +35153,10 @@ It is
 [@Jack Kruse](https://forum.jackkruse.com/members/1031/)
 No success in signing in.
 I did inform
-[support@jackkruse.com](mailto:support@jackkruse.com)
+[[email redacted]](mailto:[email redacted])
 about my problem.
 
-[support@jackkruse.com](mailto:support@jackkruse.com)
+[[email redacted]](mailto:[email redacted])
 
 ### Hon Wu — 2024-11-09T07:00:41+0200
 **Source:** <https://forum.jackkruse.com/threads/50-ppm-ddw.23932/post-342121>
@@ -38456,7 +38456,7 @@ _But what I’m interested in is the effects on specific protein folding under d
 ### John Schumacher — 2022-09-01T20:04:22+0300
 **Source:** <https://forum.jackkruse.com/threads/granpa-johns-optimal-journal.23952/post-315373>
 
-[August 26, 2022](https://optimalklubs.com/what-makes-quantum-mechanics-so-queer/) by [info@kruseatdestin.com](https://optimalklubs.com/author/infokruseatdestin-com/) - WHAT MAKES QUANTUM MECHANICS SO QUEER?
+[August 26, 2022](https://optimalklubs.com/what-makes-quantum-mechanics-so-queer/) by [[email redacted]](https://optimalklubs.com/author/infokruseatdestin-com/) - WHAT MAKES QUANTUM MECHANICS SO QUEER?
 
 [https://optimalklubs.com/what-makes-quantum-mechanics-so-queer/](https://optimalklubs.com/what-makes-quantum-mechanics-so-queer/)
 
@@ -38522,7 +38522,7 @@ This perspective sees life as an ever-expanding opportunity to connect. It sees 
 
 > [John Schumacher said:](/goto/post?id=315373)
 >
-> [August 26, 2022](https://optimalklubs.com/what-makes-quantum-mechanics-so-queer/) by [info@kruseatdestin.com](https://optimalklubs.com/author/infokruseatdestin-com/) - WHAT MAKES QUANTUM MECHANICS SO QUEER?
+> [August 26, 2022](https://optimalklubs.com/what-makes-quantum-mechanics-so-queer/) by [[email redacted]](https://optimalklubs.com/author/infokruseatdestin-com/) - WHAT MAKES QUANTUM MECHANICS SO QUEER?
 >
 > [https://optimalklubs.com/what-makes-quantum-mechanics-so-queer/](https://optimalklubs.com/what-makes-quantum-mechanics-so-queer/)
 >

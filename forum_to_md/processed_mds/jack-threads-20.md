@@ -1036,7 +1036,7 @@ Andrea
 Andrea Morash
 Customer Service
 tel#800-265-1119
-[info@magneticosleep.com](mailto:info@magneticosleep.com)
+[[email redacted]](mailto:[email redacted])
 Magnetico Sleep Pads
 
 ### Terminator — 2013-08-24T07:23:20+0300
@@ -14048,7 +14048,7 @@ Do a search on varicocele testosterone and varicocele embolization. There are al
 
 ETA: Don't forget CT. Cold helps increase testosterone.
 
-### alanmjones@gmail.com — 2013-08-20T14:26:14+0300
+### [email redacted] — 2013-08-20T14:26:14+0300
 **Source:** <https://forum.jackkruse.com/threads/a-few-testosterone-replacement-quesitons.7951/post-93209>
 
 Do you have a link for the article comparing IM to subQ injections?
@@ -17238,7 +17238,7 @@ This all makes me curious about the redox of the typical Amish person. The Amish
 **Subforum:** Optimal Labs
 **Posts:** 9
 ══════════════════════════════════════════════════════════════════════
-### jim@shirreff.com — 2013-08-28T22:46:01+0300
+### [email redacted] — 2013-08-28T22:46:01+0300
 **Source:** <https://forum.jackkruse.com/threads/first-time-labs-what-do-you-think.8083/post-94103>
 
 Hi all. I am a 45 yr old male, 6' tall, 265 lbs, with an office job. Just got my first set of labs done and reviewed with my ND. ND recommends Androgel for low T, and a Leptin reset diet. I don't understand most of this.
@@ -17344,7 +17344,7 @@ Jim,
 
 Can you add the reference ranges for each test above?
 
-### jim@shirreff.com — 2013-08-29T01:15:57+0300
+### [email redacted] — 2013-08-29T01:15:57+0300
 **Source:** <https://forum.jackkruse.com/threads/first-time-labs-what-do-you-think.8083/post-94111>
 
 @ATL\_Paleo - Thanks. I have been reading the Leptin reset and CT. I will add that to my list!
@@ -17353,7 +17353,7 @@ Can you add the reference ranges for each test above?
 
 Anything other than eating epi-paleo and adding CT you would recommend?
 
-### jim@shirreff.com — 2013-08-29T01:16:40+0300
+### [email redacted] — 2013-08-29T01:16:40+0300
 **Source:** <https://forum.jackkruse.com/threads/first-time-labs-what-do-you-think.8083/post-94112>
 
 @ATL\_Paleo - Thanks. I have been reading the Leptin reset and CT. I will add that to my list!
@@ -17362,7 +17362,7 @@ Anything other than eating epi-paleo and adding CT you would recommend?
 
 Anything other than eating epi-paleo and adding CT you would recommend?
 
-### jim@shirreff.com — 2013-08-29T01:30:55+0300
+### [email redacted] — 2013-08-29T01:30:55+0300
 **Source:** <https://forum.jackkruse.com/threads/first-time-labs-what-do-you-think.8083/post-94113>
 
 @ATL\_Paleo - Thanks for the review and info. I will add those to my reading list!
@@ -17387,7 +17387,7 @@ Basically you really need to implement everything that Jack's been writing about
 
 Honey child is correct.........field effect is there and he said he qworks a desk job..........he needs to beging first the the Letin Rx reset and CT........once he has that done make sure he is straight Epi paleo........then comes EMF mitigation.
 
-### jim@shirreff.com — 2013-08-29T21:07:38+0300
+### [email redacted] — 2013-08-29T21:07:38+0300
 **Source:** <https://forum.jackkruse.com/threads/first-time-labs-what-do-you-think.8083/post-94232>
 
 Thanks to all for looking in. After re-reading all the blogs, it makes more sense when I have my own labs to reference. Leptin reset & CT - Here I go.
@@ -20849,7 +20849,7 @@ For the 10G QS we paid a touch under AU$2k when the dollar was at $1.04, we also
 >
 > I just tried to pm Nick and couldn't .....I wonder f he got kicked off when the forum went down.....I don't think I have his email either. Maybe Freesia knows?????
 
-Hi Caroline, my usual email is [nick@tourismmedia.com.au](mailto:nick@tourismmedia.com.au)
+Hi Caroline, my usual email is [[email redacted]](mailto:[email redacted])
 
 BTW I have stuck my 6yo on the Magnetico for four nights while we gave our 3yo a quick break and the difference with the 6yo has been pretty cool. He is bounding with energy all day long and looks as happy as anything. He is always pretty happy and energised but this is at another level. Lovely to see and makes me certain it wont be long before we buy another Magnetico for him so all have one.
 
@@ -21718,7 +21718,7 @@ I have this feeling that I am hard work for some people that don't get it and wo
 > Does the thickness of your mattress matter? mine is 16inches
 
 they send the same version which works in all power points worldwide, they send you an adapter
-if you wanna get one use the email [paleoosteo@gmail.com](mailto:paleoosteo@gmail.com) at checkout for $50 discount
+if you wanna get one use the email [[email redacted]](mailto:[email redacted]) at checkout for $50 discount
 
 it has an adjustable screw in the middle which amplifies the gauss so it can travel through mattresses of varying thickness.
 
@@ -21728,7 +21728,7 @@ it has an adjustable screw in the middle which amplifies the gauss so it can tra
 > [Josh (Paleo Osteo) said:](/goto/post?id=109701)
 >
 > they send the same version which works in all power points worldwide, they send you an adapter
-> if you wanna get one use the email [paleoosteo@gmail.com](mailto:paleoosteo@gmail.com) at checkout for $50 discount
+> if you wanna get one use the email [[email redacted]](mailto:[email redacted]) at checkout for $50 discount
 >
 > it has an adjustable screw in the middle which amplifies the gauss so it can travel through mattresses of varying thickness.
 
@@ -34116,7 +34116,7 @@ Thanks for the replies, I have tried posting it quite a few times but it keeps c
 ### caroline — 2013-09-29T01:10:37+0300
 **Source:** <https://forum.jackkruse.com/threads/new-to-the-forum.8283/post-96415>
 
-Welcome Healthman .....have you put in a support ticket....or better still send an email to [support@jackkruse.com](mailto:support@jackkruse.com)
+Welcome Healthman .....have you put in a support ticket....or better still send an email to [[email redacted]](mailto:[email redacted])
 
 As Dr. K. said ...the forum is a bit wonky since it got hacked ...hang in there .....and glad you are here!
 
@@ -36462,7 +36462,7 @@ FYI - I live in a very old neighbourhood with lots and lots of trees .....
 
 [http://andrewamarino.com/media/2012Interview/2012Interview.html](http://andrewamarino.com/media/2012Interview/2012Interview.html)
 
-### kjgraffin@yahoo.com — 2013-11-01T02:13:49+0200
+### [email redacted] — 2013-11-01T02:13:49+0200
 **Source:** <https://forum.jackkruse.com/threads/the-ultimate-emf-book-that-is-a-must-read.8321/post-99587>
 
 Would small conifers in the house have the same effect? My mom planted some pencil trees in pots out back. I wonder if bringing them in would be more beneficial? A house full of Christmas trees!
@@ -36922,7 +36922,7 @@ Ms. Healy, who does administrative work for her husband's orthopedics practice, 
 
 Malaz Boustani, chief operating officer of the Indiana University Center for Innovation and Implementation Science, who wasn't involved in the study, said its findings add to the evidence about brain-health concerns for ICU survivors and highlight the need for recovery programs that "coordinate the complex cognitive, functional and psychological recovery needs of Americans who survived a critical illness."
 
-Write to Laura Landro at [laura.landro@wsj.com](mailto:laura.landro@wsj.com)
+Write to Laura Landro at [[email redacted]](mailto:[email redacted])
 [http://online.wsj.com/article/SB10001424052702303492504579111361055134336.html](http://online.wsj.com/article/SB10001424052702303492504579111361055134336.html)
 
 ### Jack Kruse — 2013-10-03T17:25:22+0300

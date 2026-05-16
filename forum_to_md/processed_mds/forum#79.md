@@ -34,7 +34,7 @@ Hello everyone. In the last 2 weeks i stayed in El Salvador and thought i would 
 If anyone wants to reach out I'd be glad to help
 Guy
 +972544312639
-[guy.houri2024@gmail.con](mailto:guy.houri2024@gmail.con)
+[[email redacted]](mailto:[email redacted])
 
 ## What to do?​
 
@@ -169,7 +169,7 @@ Until next time !
 > If anyone wants to reach out I'd be glad to help
 > Guy
 > +972544312639
-> [guy.houri2024@gmail.con](mailto:guy.houri2024@gmail.con)
+> [[email redacted]](mailto:[email redacted])
 >
 >
 > ## What to do?​
@@ -341,7 +341,7 @@ One thing I would add is if you are going to ES to heal and recover, stay away f
 > If anyone wants to reach out I'd be glad to help
 > Guy
 > +972544312639
-> [guy.houri2024@gmail.con](mailto:guy.houri2024@gmail.con)
+> [[email redacted]](mailto:[email redacted])
 >
 >
 > ## What to do?​
@@ -516,7 +516,7 @@ The super selectos grocery store takes bitcoin also.
 > If anyone wants to reach out I'd be glad to help
 > Guy
 > +972544312639
-> [guy.houri2024@gmail.con](mailto:guy.houri2024@gmail.con)
+> [[email redacted]](mailto:[email redacted])
 >
 >
 > ## What to do?​
@@ -681,7 +681,7 @@ This is a wonderful description to share with everyone!! Hope lots are looking a
 > If anyone wants to reach out I'd be glad to help
 > Guy
 > +972544312639
-> [guy.houri2024@gmail.con](mailto:guy.houri2024@gmail.con)
+> [[email redacted]](mailto:[email redacted])
 >
 >
 > ## What to do?​
@@ -846,7 +846,7 @@ This is super super useful Guy, thank you
 > If anyone wants to reach out I'd be glad to help
 > Guy
 > +972544312639
-> [guy.houri2024@gmail.con](mailto:guy.houri2024@gmail.con)
+> [[email redacted]](mailto:[email redacted])
 >
 >
 > ## What to do?​
@@ -1026,7 +1026,7 @@ You missed the Bitcoin Farmer's Market!... another great MIto location you misse
 > If anyone wants to reach out I'd be glad to help
 > Guy
 > +972544312639
-> [guy.houri2024@gmail.con](mailto:guy.houri2024@gmail.con)
+> [[email redacted]](mailto:[email redacted])
 >
 >
 > ## What to do?​
@@ -1201,7 +1201,7 @@ I added the farmers market to the post, thanks.
 > If anyone wants to reach out I'd be glad to help
 > Guy
 > +972544312639
-> [guy.houri2024@gmail.con](mailto:guy.houri2024@gmail.con)
+> [[email redacted]](mailto:[email redacted])
 >
 >
 > ## What to do?​
@@ -1566,7 +1566,7 @@ Planning a trip with the family in November for 3-4 weeks. I really appreciate y
 >
 > All prices subject to change with dollar printing etc ,I will of course accept bitcoin and give slight discount for that
 
-I will be in ES on. Dec 6 - Jan 27. Am alone, Looking for a place a room in a house. Do your have one? [girafferide@gmail.com](mailto:girafferide@gmail.com). thanks Jack Lehman
+I will be in ES on. Dec 6 - Jan 27. Am alone, Looking for a place a room in a house. Do your have one? [[email redacted]](mailto:[email redacted]). thanks Jack Lehman
 
 ### Justin Goldberg — 2026-03-27T07:48:55+0200
 **Source:** <https://forum.jackkruse.com/threads/el-salvador-travel-journal.30874/post-369735>
@@ -1582,7 +1582,7 @@ I will be in ES on. Dec 6 - Jan 27. Am alone, Looking for a place a room in a ho
 > If anyone wants to reach out I'd be glad to help
 > Guy
 > +972544312639
-> [guy.houri2024@gmail.con](mailto:guy.houri2024@gmail.con)
+> [[email redacted]](mailto:[email redacted])
 >
 >
 > ## What to do?​
@@ -4133,7 +4133,7 @@ I'm leaving Canada early November.I would like to book a consult in person if yo
 >
 > sat on one the last two days thinking deeply about 2026
 
-I requested a consult by email on October 17 to [support@jackkruse.com](mailto:support@jackkruse.com)
+I requested a consult by email on October 17 to [[email redacted]](mailto:[email redacted])
 I saw the general email about a backlog on support and some technical issues. Do you have anything in place to confirm receipt of emails? Do you need more people on the job? Better automation of receipt confirmation emails? Are you hiring?
 
 ### Jack Kruse — 2025-10-21T21:49:21+0300
@@ -5680,7 +5680,7 @@ Lee Sagula, BBEC, EMRS
 EMF Professional Solutions
 West Brandywine, PA
 [EMFprofessional.com](http://www.emfprofessional.com/)
-[EMFprofessional@gmail.com](mailto:EMFprofessional@gmail.com)
+[[email redacted]](mailto:[email redacted])
 (610) 453-3736
 
 ### Jana C — 2025-05-20T01:09:59+0300
@@ -5693,7 +5693,7 @@ West Brandywine, PA
 > EMF Professional Solutions
 > West Brandywine, PA
 > [EMFprofessional.com](http://www.emfprofessional.com/)
-> [EMFprofessional@gmail.com](mailto:EMFprofessional@gmail.com)
+> [[email redacted]](mailto:[email redacted])
 > (610) 453-3736
 
 If I utilize her, I certainly will. Folks have been kind and providing me with information. So right now, I have about three different people to interview. Many thanks!
@@ -21281,7 +21281,7 @@ My wife and I have been Titanium members for 6 months now, but continue to have 
 
 We do not have access to "Ask Jack", webinars and the "Q and A". Additionally, I have tried to consolidate my email and password to be the same for all access points regarding Jack Kruse related websites, but have been unable to modify my data in my account.
 
-I have sent email to [support@jackkruse.com](mailto:support@jackkruse.com), and [info@kruseatdestin.com](mailto:info@kruseatdestin.com) SEVERAL times. I herd back once asking me for my and my wife's email addresses -which I responded to, but heard absolutely nothing in return and get no help.
+I have sent email to [[email redacted]](mailto:[email redacted]), and [[email redacted]](mailto:[email redacted]) SEVERAL times. I herd back once asking me for my and my wife's email addresses -which I responded to, but heard absolutely nothing in return and get no help.
 
 Having paid for an hour of Jack's time, taken 5 weeks off work (and cancelling my own patients), spending almost all of April in El Salvador, reading several if not most of the books Jack recommends, Hardwiring our home, and switching all the lighting to healthy bulbs in our home, not to mention listening to countless hours of podcasts, etc. I think we've clearly demonstrated "skin in the game"!
 
@@ -26022,14 +26022,14 @@ Today I received on my notifications page that the next one is July 13th, but wh
 >
 > Today I received on my notifications page that the next one is July 13th, but when I looked for the email it was gone. I have no clue where it disappeared to. (By the way I'm Gold, not Silver like my profile on forums says.)
 
-check your junk folder, that's where mine went. It's from [support@jackkruse.com](mailto:support@jackkruse.com)
+check your junk folder, that's where mine went. It's from [[email redacted]](mailto:[email redacted])
 
 ### DonnaMarie444 — 2025-07-09T22:08:26+0300
 **Source:** <https://forum.jackkruse.com/threads/when-are-the-q-a-pow-wows.31217/post-356083>
 
 > [PaigeK said:](/goto/post?id=356081)
 >
-> check your junk folder, that's where mine went. It's from [support@jackkruse.com](mailto:support@jackkruse.com)
+> check your junk folder, that's where mine went. It's from [[email redacted]](mailto:[email redacted])
 
 Thanks for the suggestion. Actually, that was the first thing I did after the notification disappeared. It wasn’t in any folder. I had no problem receiving it last month.
 
@@ -26040,23 +26040,23 @@ Thanks for the suggestion. Actually, that was the first thing I did after the no
 >
 > Thanks for the suggestion. Actually, that was the first thing I did after the notification disappeared. It wasn’t in any folder. I had no problem receiving it last month.
 
-And I also had [support@jackkruse.com](mailto:support@jackkruse.com) in my contact list so it wouldn’t go to spam
+And I also had [[email redacted]](mailto:[email redacted]) in my contact list so it wouldn’t go to spam
 
 ### Support — 2025-07-09T22:51:05+0300
 **Source:** <https://forum.jackkruse.com/threads/when-are-the-q-a-pow-wows.31217/post-356088>
 
 > [DonnaMarie444 said:](/goto/post?id=356084)
 >
-> And I also had [support@jackkruse.com](mailto:support@jackkruse.com) in my contact list so it wouldn’t go to spam
+> And I also had [[email redacted]](mailto:[email redacted]) in my contact list so it wouldn’t go to spam
 
-An email was sent to you from [info@kruseatdestin.com](mailto:info@kruseatdestin.com) with the link to register. Hope that helps!
+An email was sent to you from [[email redacted]](mailto:[email redacted]) with the link to register. Hope that helps!
 
 ### DonnaMarie444 — 2025-07-09T23:47:21+0300
 **Source:** <https://forum.jackkruse.com/threads/when-are-the-q-a-pow-wows.31217/post-356090>
 
 > [Support said:](/goto/post?id=356088)
 >
-> An email was sent to you from [info@kruseatdestin.com](mailto:info@kruseatdestin.com) with the link to register. Hope that helps!
+> An email was sent to you from [[email redacted]](mailto:[email redacted]) with the link to register. Hope that helps!
 
 Thank you! And thanks for updating my Gold status
 
@@ -26915,14 +26915,14 @@ Does anyone know how to contact the support team for more information on how to 
 ### Kirsten F — 2025-07-02T18:52:46+0300
 **Source:** <https://forum.jackkruse.com/threads/biophysics-school.31229/post-355631>
 
-I have emailed [info@kruseatdestin.com](mailto:info@kruseatdestin.com) and [support@jackkruse.com](mailto:support@jackkruse.com), but have not received a reply yet.
+I have emailed [[email redacted]](mailto:[email redacted]) and [[email redacted]](mailto:[email redacted]), but have not received a reply yet.
 
 ### magdalene1970 — 2025-07-04T18:24:02+0300
 **Source:** <https://forum.jackkruse.com/threads/biophysics-school.31229/post-355745>
 
 > [Kirsten F said:](/goto/post?id=355631)
 >
-> I have emailed [info@kruseatdestin.com](mailto:info@kruseatdestin.com) and [support@jackkruse.com](mailto:support@jackkruse.com), but have not received a reply yet.
+> I have emailed [[email redacted]](mailto:[email redacted]) and [[email redacted]](mailto:[email redacted]), but have not received a reply yet.
 
 I just reread that post and if I am correct I believe this course is for doctors not the average Joe which is likely why you didn't get a response.
 
@@ -30712,7 +30712,7 @@ Thank you, Dr. Jack!
 
 Hello,
 
-Could you please clarify the typical response time for customer support? I’ve emailed both **[info@kruseatdestin.com](mailto:info@kruseatdestin.com)** and **[support@jackkruse.com](mailto:support@jackkruse.com)** three times since June 30. Each time, I received confirmation that the messages were delivered, but I haven’t received any replies.
+Could you please clarify the typical response time for customer support? I’ve emailed both **[[email redacted]](mailto:[email redacted])** and **[[email redacted]](mailto:[email redacted])** three times since June 30. Each time, I received confirmation that the messages were delivered, but I haven’t received any replies.
 
 I'm sending messages from ProtonMail, and I’ve checked my spam folders—nothing there. I’m hesitant to keep following up unnecessarily, but I’m also unsure how else to get assistance at this point. Repeating the same approach without a response is starting to feel a bit futile.
 
@@ -33835,7 +33835,7 @@ We provide the space, you provide the ambiance.
 >
 > Hi Dr. Jack….I am having difficulty navigating your website. It seems if I go to home, I just get a page with the different options to join. I did join and am a platinum member but do not see that designation under my photo. I read about your waiting lists for some apartments but could not find the customer support tab you requested people to go to if interested.
 
-Have you tried contacting Christy at [info@jackkruse.com](mailto:info@jackkruse.com) or [info@kruseatdestin.com](mailto:info@kruseatdestin.com)
+Have you tried contacting Christy at [[email redacted]](mailto:[email redacted]) or [[email redacted]](mailto:[email redacted])
 
 ### Drscottmd — 2025-08-23T23:47:42+0300
 **Source:** <https://forum.jackkruse.com/threads/new-update-for-members-of-this-website.31374/post-358667>
@@ -36002,7 +36002,7 @@ Me learning QM: I got some pieces of how it ties to disease because learning QM 
 ### Stacey — 2025-08-02T03:41:49+0300
 **Source:** <https://forum.jackkruse.com/threads/i-cannot-create-a-klub-membership.31419/post-357369>
 
-Hi, last Sunday I signed up to platinum membership, I received an invoice and money was taken from my account. I have emailed [support@jackkruse.com](mailto:support@jackkruse.com), I received a ticket but still no response so I'm writing here to try and get some help. I would really love to be a patron the Q and A's. Last year and early this year I was a Gold but cancelled as money was tight. Hoping to have platinum membership to support clients Nutrition consultations. Thanks
+Hi, last Sunday I signed up to platinum membership, I received an invoice and money was taken from my account. I have emailed [[email redacted]](mailto:[email redacted]), I received a ticket but still no response so I'm writing here to try and get some help. I would really love to be a patron the Q and A's. Last year and early this year I was a Gold but cancelled as money was tight. Hoping to have platinum membership to support clients Nutrition consultations. Thanks
 
 
 ══════════════════════════════════════════════════════════════════════

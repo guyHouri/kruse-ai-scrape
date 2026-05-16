@@ -8370,7 +8370,7 @@ My wife and I have been Titanium members for 6 months now, but continue to have 
 
 We do not have access to "Ask Jack", webinars and the "Q and A". Additionally, I have tried to consolidate my email and password to be the same for all access points regarding Jack Kruse related websites, but have been unable to modify my data in my account.
 
-I have sent email to [support@jackkruse.com](mailto:support@jackkruse.com), and [info@kruseatdestin.com](mailto:info@kruseatdestin.com) SEVERAL times. I herd back once asking me for my and my wife's email addresses -which I responded to, but heard absolutely nothing in return and get no help.
+I have sent email to [[email redacted]](mailto:[email redacted]), and [[email redacted]](mailto:[email redacted]) SEVERAL times. I herd back once asking me for my and my wife's email addresses -which I responded to, but heard absolutely nothing in return and get no help.
 
 Having paid for an hour of Jack's time, taken 5 weeks off work (and cancelling my own patients), spending almost all of April in El Salvador, reading several if not most of the books Jack recommends, Hardwiring our home, and switching all the lighting to healthy bulbs in our home, not to mention listening to countless hours of podcasts, etc. I think we've clearly demonstrated "skin in the game"!
 
@@ -10134,14 +10134,14 @@ Today I received on my notifications page that the next one is July 13th, but wh
 >
 > Today I received on my notifications page that the next one is July 13th, but when I looked for the email it was gone. I have no clue where it disappeared to. (By the way I'm Gold, not Silver like my profile on forums says.)
 
-check your junk folder, that's where mine went. It's from [support@jackkruse.com](mailto:support@jackkruse.com)
+check your junk folder, that's where mine went. It's from [[email redacted]](mailto:[email redacted])
 
 ### DonnaMarie444 — 2025-07-09T22:08:26+0300
 **Source:** <https://forum.jackkruse.com/threads/when-are-the-q-a-pow-wows.31217/post-356083>
 
 > [PaigeK said:](/goto/post?id=356081)
 >
-> check your junk folder, that's where mine went. It's from [support@jackkruse.com](mailto:support@jackkruse.com)
+> check your junk folder, that's where mine went. It's from [[email redacted]](mailto:[email redacted])
 
 Thanks for the suggestion. Actually, that was the first thing I did after the notification disappeared. It wasn’t in any folder. I had no problem receiving it last month.
 
@@ -10152,23 +10152,23 @@ Thanks for the suggestion. Actually, that was the first thing I did after the no
 >
 > Thanks for the suggestion. Actually, that was the first thing I did after the notification disappeared. It wasn’t in any folder. I had no problem receiving it last month.
 
-And I also had [support@jackkruse.com](mailto:support@jackkruse.com) in my contact list so it wouldn’t go to spam
+And I also had [[email redacted]](mailto:[email redacted]) in my contact list so it wouldn’t go to spam
 
 ### Support — 2025-07-09T22:51:05+0300
 **Source:** <https://forum.jackkruse.com/threads/when-are-the-q-a-pow-wows.31217/post-356088>
 
 > [DonnaMarie444 said:](/goto/post?id=356084)
 >
-> And I also had [support@jackkruse.com](mailto:support@jackkruse.com) in my contact list so it wouldn’t go to spam
+> And I also had [[email redacted]](mailto:[email redacted]) in my contact list so it wouldn’t go to spam
 
-An email was sent to you from [info@kruseatdestin.com](mailto:info@kruseatdestin.com) with the link to register. Hope that helps!
+An email was sent to you from [[email redacted]](mailto:[email redacted]) with the link to register. Hope that helps!
 
 ### DonnaMarie444 — 2025-07-09T23:47:21+0300
 **Source:** <https://forum.jackkruse.com/threads/when-are-the-q-a-pow-wows.31217/post-356090>
 
 > [Support said:](/goto/post?id=356088)
 >
-> An email was sent to you from [info@kruseatdestin.com](mailto:info@kruseatdestin.com) with the link to register. Hope that helps!
+> An email was sent to you from [[email redacted]](mailto:[email redacted]) with the link to register. Hope that helps!
 
 Thank you! And thanks for updating my Gold status
 
@@ -10673,14 +10673,14 @@ Does anyone know how to contact the support team for more information on how to 
 ### Kirsten F — 2025-07-02T18:52:46+0300
 **Source:** <https://forum.jackkruse.com/threads/biophysics-school.31229/post-355631>
 
-I have emailed [info@kruseatdestin.com](mailto:info@kruseatdestin.com) and [support@jackkruse.com](mailto:support@jackkruse.com), but have not received a reply yet.
+I have emailed [[email redacted]](mailto:[email redacted]) and [[email redacted]](mailto:[email redacted]), but have not received a reply yet.
 
 ### magdalene1970 — 2025-07-04T18:24:02+0300
 **Source:** <https://forum.jackkruse.com/threads/biophysics-school.31229/post-355745>
 
 > [Kirsten F said:](/goto/post?id=355631)
 >
-> I have emailed [info@kruseatdestin.com](mailto:info@kruseatdestin.com) and [support@jackkruse.com](mailto:support@jackkruse.com), but have not received a reply yet.
+> I have emailed [[email redacted]](mailto:[email redacted]) and [[email redacted]](mailto:[email redacted]), but have not received a reply yet.
 
 I just reread that post and if I am correct I believe this course is for doctors not the average Joe which is likely why you didn't get a response.
 
@@ -14001,7 +14001,7 @@ We provide the space, you provide the ambiance.
 >
 > Hi Dr. Jack….I am having difficulty navigating your website. It seems if I go to home, I just get a page with the different options to join. I did join and am a platinum member but do not see that designation under my photo. I read about your waiting lists for some apartments but could not find the customer support tab you requested people to go to if interested.
 
-Have you tried contacting Christy at [info@jackkruse.com](mailto:info@jackkruse.com) or [info@kruseatdestin.com](mailto:info@kruseatdestin.com)
+Have you tried contacting Christy at [[email redacted]](mailto:[email redacted]) or [[email redacted]](mailto:[email redacted])
 
 ### Drscottmd — 2025-08-23T23:47:42+0300
 **Source:** <https://forum.jackkruse.com/threads/new-update-for-members-of-this-website.31374/post-358667>
@@ -25502,34 +25502,34 @@ Contact member support for both.
 >
 > Contact member support for both.
 
-I've reached out to [support@jackkruse.com](mailto:support@jackkruse.com) multiple times and haven't heard back. Is that the right member support?
+I've reached out to [[email redacted]](mailto:[email redacted]) multiple times and haven't heard back. Is that the right member support?
 
 ### Valerie888 — 2025-10-09T02:57:31+0300
 **Source:** <https://forum.jackkruse.com/threads/jeremy-and-eduardo.31707/post-360708>
 
 > [Bahu said:](/goto/post?id=360649)
 >
-> I've reached out to [support@jackkruse.com](mailto:support@jackkruse.com) multiple times and haven't heard back. Is that the right member support?
+> I've reached out to [[email redacted]](mailto:[email redacted]) multiple times and haven't heard back. Is that the right member support?
 
-I have also emailed [support@jackkruse.com](mailto:support@jackkruse.com) a couple of times since Friday and not heard back (my login for the dashboard is no longer working, and I can't get my password reset). That was the email address provided in the welcome video for support questions. Maybe something happened to the person who is supposed to respond? But I got an automated email from that address after somebody replied to one of my forum posts, so I don't know if that is a manned address after all.
+I have also emailed [[email redacted]](mailto:[email redacted]) a couple of times since Friday and not heard back (my login for the dashboard is no longer working, and I can't get my password reset). That was the email address provided in the welcome video for support questions. Maybe something happened to the person who is supposed to respond? But I got an automated email from that address after somebody replied to one of my forum posts, so I don't know if that is a manned address after all.
 
 ### Valerie888 — 2025-10-09T03:10:23+0300
 **Source:** <https://forum.jackkruse.com/threads/jeremy-and-eduardo.31707/post-360709>
 
 > [Valerie888 said:](/goto/post?id=360708)
 >
-> I have also emailed [support@jackkruse.com](mailto:support@jackkruse.com) a couple of times since Friday and not heard back (my login for the dashboard is no longer working, and I can't get my password reset). That was the email address provided in the welcome video for support questions. Maybe something happened to the person who is supposed to respond? But I got an automated email from that address after somebody replied to one of my forum posts, so I don't know if that is a manned address after all.
+> I have also emailed [[email redacted]](mailto:[email redacted]) a couple of times since Friday and not heard back (my login for the dashboard is no longer working, and I can't get my password reset). That was the email address provided in the welcome video for support questions. Maybe something happened to the person who is supposed to respond? But I got an automated email from that address after somebody replied to one of my forum posts, so I don't know if that is a manned address after all.
 
-Trying [info@kruseatdestin.com](mailto:info@kruseatdestin.com) (found that in another email) and will let you know what happens.
+Trying [[email redacted]](mailto:[email redacted]) (found that in another email) and will let you know what happens.
 
 ### Valerie888 — 2025-10-09T10:09:33+0300
 **Source:** <https://forum.jackkruse.com/threads/jeremy-and-eduardo.31707/post-360735>
 
 > [Valerie888 said:](/goto/post?id=360709)
 >
-> Trying [info@kruseatdestin.com](mailto:info@kruseatdestin.com) (found that in another email) and will let you know what happens).
+> Trying [[email redacted]](mailto:[email redacted]) (found that in another email) and will let you know what happens).
 >
-> > [Info@kruseatdestin.com](mailto:Info@kruseatdestin.com) works (I received a response within a few hours from someone who fixed the problem with my login)
+> > [[email redacted]](mailto:[email redacted]) works (I received a response within a few hours from someone who fixed the problem with my login)
 
 ### Bahu — 2025-10-09T17:44:17+0300
 **Source:** <https://forum.jackkruse.com/threads/jeremy-and-eduardo.31707/post-360760>
@@ -38333,7 +38333,7 @@ What is the website?
 ### JenniferM — 2026-01-11T23:32:48+0200
 **Source:** <https://forum.jackkruse.com/threads/living-in-california-recovering-from-mrsa-with-company-and-chlorine-dioxide.32111/post-365171>
 
-It's been over 6yrs ago probably. Can't find it now but I still get emails from him at [office@andrewkaufmanmd.com](mailto:office@andrewkaufmanmd.com). Maybe email him?
+It's been over 6yrs ago probably. Can't find it now but I still get emails from him at [[email redacted]](mailto:[email redacted]). Maybe email him?
 
 ### janisu — 2026-01-14T01:37:20+0200
 **Source:** <https://forum.jackkruse.com/threads/living-in-california-recovering-from-mrsa-with-company-and-chlorine-dioxide.32111/post-365289>

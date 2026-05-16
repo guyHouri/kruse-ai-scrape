@@ -3884,7 +3884,7 @@ You do not have to participate in webinar.
 They will send you link to the recording.
 \========================================
 
-the DUTCH Test® <marketing@dutchtest.com>
+the DUTCH Test® <[email redacted]>
 COVID-19 Could Have Long Lasting Effects on Reproductive and Adrenal Hormones
 
 [https://r20.rs6.net/tn.jsp?f=001oUJ...hg01CutWCIQSSxbbMG0RQbNqNt-x3QX6C9DIg8fP4AQ==](https://r20.rs6.net/tn.jsp?f=001oUJwA1rYt1zC1P5F9m1b7dcfQ-SjDBX67I7xATAoEBmJNQs2ZFRo_OCsW3BUmpOb8aRGhKAuSK6uxmr59ua4gUAipc4LKoO9svtzlAfvvRviV16M5oE_80YxyiLUxeVrLA0t1tNbwrVvuNgczmbaa5bKdHO_hQ4ljSQAr2uBdtmGqldGaB1PlTr0yCQRrDZ6o1MIRcQySs8A_ND3afbhFG3vEMLK6UJ39_9Q_Nm7FKRtAtCfaKV7tA==&c=67ArKtEEZZ8npMh8cPZSUCo_oTXGHJ65fqhHRcu8bFKjvRI_kucV8g==&ch=3_PbnrlTy_5hg01CutWCIQSSxbbMG0RQbNqNt-x3QX6C9DIg8fP4AQ==)
@@ -22437,7 +22437,7 @@ Hi Inger, you sound well (I EXPECTED YOU TO BE) i am a bit suspicious that it is
 >
 > /////////
 
-Posted on [October 1, 2020](https://optimalklubs.com/cpc-50-our-social-dilemma-does-how-we-communicate-give-bad-ideas-the-aura-of-truth/) by [info@kruseatdestin.com](https://optimalklubs.com/author/infokruseatdestin-com/)
+Posted on [October 1, 2020](https://optimalklubs.com/cpc-50-our-social-dilemma-does-how-we-communicate-give-bad-ideas-the-aura-of-truth/) by [[email redacted]](https://optimalklubs.com/author/infokruseatdestin-com/)
 **CPC #50: OUR SOCIAL DILEMMA: DOES HOW WE COMMUNICATE GIVE BAD IDEAS THE AURA OF TRUTH?**
 
 Do **predatory publishing and social media** have something in common that breeds the facade that bad ideas and science can, on the surface contain the **aura** of truth?
@@ -30918,7 +30918,7 @@ Same for me in ground floor govt offices, downtown, Bend, OR--almost passed out-
 
 Injectable Body Sensors Take Personal Chemistry to a Cell Phone Closer to Reality
 March 19, 2018
-Editor’s Note: The American Chemical Society is also issuing a press release today embargoed for 5am Eastern Time that can be requested at [newsroom@acs.org](mailto:newsroom@acs.org) or call 504-670-6721.
+Editor’s Note: The American Chemical Society is also issuing a press release today embargoed for 5am Eastern Time that can be requested at [[email redacted]](mailto:[email redacted]) or call 504-670-6721.
 NEW ORLEANS, March 19, 2018 — Up until now, local inflammation and scar tissue from the so-called “foreign body response” has prevented the development of in-body sensors capable of continuous, long-term monitoring of body chemistry. But today scientists are presenting results showing tiny biosensors that become one with the body have overcome this barrier, and stream data to a mobile phone and to the cloud for personal and medical use.
 “While fitness trackers and other wearables provide insights into our heart rate, respiration and other physical measures, they don’t provide information on the most important aspect of our health: our body’s chemistry,” explained Natalie Wisniewski, Ph.D. “Based on our ongoing studies, tissue-integrated sensor technology has the potential to enable wearables to live up to the promise of personalized medicine, revolutionizing the management of health in wellness and disease.” Dr. Wisniewski, who leads the team of biosensor developers, is the chief technology officer and co-founder of Profusa Inc., a San Francisco Bay Area-based life science company.
 The researchers are presenting their results today at the 255th National Meeting & Exposition of the American Chemical Society (ACS). ACS, the world’s largest scientific society, is holding the meeting here through Thursday. It features more than 13,000 presentations on a wide range of science topics.
@@ -44601,7 +44601,7 @@ I was tanning naked with my best German friend today.. haha.. he is an ex lover 
 >
 > And ....we are out every morning for sunrise and walking and then to the beach. We are out about 4 hours and often use a public toilet. These toilets are cleaned every day and very thoroughly......
 
-Hope you are feeling better. I forgot last night (tired) to mention that the CDS I've used is shipped from Australia. You can write to them at "[support@healthy-action.com](mailto:support@healthy-action.com)". I ordered from them (info@mmshealthy4life.com)--Took awhile shipping from Australia to Oregon. Andreas Kalcker has a very informative website. Plus, I found lots of folks on Telegram who talked about using MMS/CDS with great results. I did a lot of research before trying. I chose to use the CDS (activated solution) vs the MMS that requires you to mix the sodium chlorite with HCL. It does feel pretty amazing. If we lived next door, I'd bring you some because I believe it would help you.
+Hope you are feeling better. I forgot last night (tired) to mention that the CDS I've used is shipped from Australia. You can write to them at "[[email redacted]](mailto:[email redacted])". I ordered from them ([email redacted])--Took awhile shipping from Australia to Oregon. Andreas Kalcker has a very informative website. Plus, I found lots of folks on Telegram who talked about using MMS/CDS with great results. I did a lot of research before trying. I chose to use the CDS (activated solution) vs the MMS that requires you to mix the sodium chlorite with HCL. It does feel pretty amazing. If we lived next door, I'd bring you some because I believe it would help you.
 
 ### Penny — 2021-07-27T02:14:10+0300
 **Source:** <https://forum.jackkruse.com/threads/mms-chlordioxide.26206/post-301576>
@@ -44632,7 +44632,7 @@ Thanks
 
 > [Alex97232 said:](/goto/post?id=301574)
 >
-> Hope you are feeling better. I forgot last night (tired) to mention that the CDS I've used is shipped from Australia. You can write to them at "[support@healthy-action.com](mailto:support@healthy-action.com)". I ordered from them (info@mmshealthy4life.com)--Took awhile shipping from Australia to Oregon. Andreas Kalcker has a very informative website. Plus, I found lots of folks on Telegram who talked about using MMS/CDS with great results. I did a lot of research before trying. I chose to use the CDS (activated solution) vs the MMS that requires you to mix the sodium chlorite with HCL. It does feel pretty amazing. If we lived next door, I'd bring you some because I believe it would help you.
+> Hope you are feeling better. I forgot last night (tired) to mention that the CDS I've used is shipped from Australia. You can write to them at "[[email redacted]](mailto:[email redacted])". I ordered from them ([email redacted])--Took awhile shipping from Australia to Oregon. Andreas Kalcker has a very informative website. Plus, I found lots of folks on Telegram who talked about using MMS/CDS with great results. I did a lot of research before trying. I chose to use the CDS (activated solution) vs the MMS that requires you to mix the sodium chlorite with HCL. It does feel pretty amazing. If we lived next door, I'd bring you some because I believe it would help you.
 
 thanks Alex - I will check it out and let you know.
 
@@ -45553,14 +45553,14 @@ Send & receive money instantly.
 
 **Whats Up:** + 503 76705598
 
-**Email:** [jeremyfranramos@gmail.com](mailto:jeremyfranramos@gmail.com)
+**Email:** [[email redacted]](mailto:[email redacted])
 
 **Twitter:** @JeremyFranramos
 
 **Jeremy's Price list
 
 1\. Tour guide services: All inclusive for 24 hour service: $250.00 (all prices in USD and paid in advanced via Strike/Muun/Blue/BitcoinBeach/Chivo wallet)
-a. Strike user name wallet is [jeremyfranco@strike.me](mailto:jeremyfranco@strike.me) This is the PREFERRED METHOD of payment. If you do not have strike sign up for it using this link:
+a. Strike user name wallet is [[email redacted]](mailto:[email redacted]) This is the PREFERRED METHOD of payment. If you do not have strike sign up for it using this link:
 
 ### [Better money](https://invite.strike.me/BOZNFA)​
 

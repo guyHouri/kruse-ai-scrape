@@ -4354,7 +4354,7 @@ Thanks Jack!
 >
 > I hope some of you guys join up with Erwan on the beach for some vagal nerve breathwork
 
-> [erwan@movnat.com said:](/goto/post?id=331471)
+> [[email redacted] said:](/goto/post?id=331471)
 >
 > Thanks Jack!
 
@@ -6319,7 +6319,7 @@ Hillsdale Colledge
 
 In the meantime, you may order their publication.
 
-[imprimis@hillsdale.edu](mailto:imprimis@hillsdale.edu)
+[[email redacted]](mailto:[email redacted])
 
 (800)437-2268
 
@@ -14460,7 +14460,7 @@ No, unfortunately. She likes a normal iPad.
 >
 > No, unfortunately. She likes a normal iPad.
 
-Are you willing to get rid of it? I'm interested in acquiring one but 730 is a little steep. If so, communicate with me at [nickhenrytokar@gmail.com](mailto:nickhenrytokar@gmail.com)
+Are you willing to get rid of it? I'm interested in acquiring one but 730 is a little steep. If so, communicate with me at [[email redacted]](mailto:[email redacted])
 
 ### thinkwin — 2025-12-30T01:10:34+0200
 **Source:** <https://forum.jackkruse.com/threads/daylight-phone-to-go-with-your-daylight-computer.28664/post-364351>
@@ -19315,7 +19315,7 @@ Anthony the Rivas family owns a hotel where I had the Age of Light event and the
 >
 > Anthony the Rivas family owns a hotel where I had the Age of Light event and they would like to buy many of the switches because they are renovating. I think you should give them a ring and then maybe plan a trip down if the order is large enough.
 
-Thank you Jack, could you email me contact info: [Anthony@EMFSafeInc.com](mailto:Anthony@EMFSafeInc.com)
+Thank you Jack, could you email me contact info: [[email redacted]](mailto:[email redacted])
 
 ### Anthony Smith — 2024-04-12T21:59:03+0300
 **Source:** <https://forum.jackkruse.com/threads/anthony-smith-emf-posts-photos-for-family-friends.28747/post-333554>
@@ -19418,7 +19418,7 @@ I bought this app - didnt think to use while sleeping! Makes sense thank you!
 ### Anthony Smith — 2024-05-21T20:53:30+0300
 **Source:** <https://forum.jackkruse.com/threads/anthony-smith-emf-posts-photos-for-family-friends.28747/post-334967>
 
-Hi everyone in El Salvador, I will be there next week (May 27th - June 2nd). I will have all my measuring gear with me, anyone interested in an in home EMF assessment? Or just getting together for a visit/drink/meal? Message here or Text/phone 972-849-9500 [Anthony@EMFSafeInc.com](mailto:Anthony@EMFSafeInc.com)
+Hi everyone in El Salvador, I will be there next week (May 27th - June 2nd). I will have all my measuring gear with me, anyone interested in an in home EMF assessment? Or just getting together for a visit/drink/meal? Message here or Text/phone 972-849-9500 [[email redacted]](mailto:[email redacted])
 
 ### thejessallen — 2024-05-21T22:02:52+0300
 **Source:** <https://forum.jackkruse.com/threads/anthony-smith-emf-posts-photos-for-family-friends.28747/post-334968>
@@ -19429,7 +19429,7 @@ Hi everyone in El Salvador, I will be there next week (May 27th - June 2nd). I w
 >
 > > [Anthony Smith said:](/goto/post?id=334967)
 > >
-> > Hi everyone in El Salvador, I will be there next week (May 27th - June 2nd). I will have all my measuring gear with me, anyone interested in an in home EMF assessment? Or just getting together for a visit/drink/meal? Message here or Text/phone 972-849-9500 [Anthony@EMFSafeInc.com](mailto:Anthony@EMFSafeInc.com)
+> > Hi everyone in El Salvador, I will be there next week (May 27th - June 2nd). I will have all my measuring gear with me, anyone interested in an in home EMF assessment? Or just getting together for a visit/drink/meal? Message here or Text/phone 972-849-9500 [[email redacted]](mailto:[email redacted])
 >
 > Hi Anthony - I will be here - would love to meetup... only visiting for now so not sure I need an EMF assessment... although curious about living in a town called Berlin - which is near geo thermal mining of volcanic energy and it produces a lot of el salvador's energy. very curious how to assess if the "town" is severally negatively affected by the nnEMF... it wasn't in my travel plans to visit up there next week, but plans can always change
 
@@ -32532,7 +32532,7 @@ I am really excited to start with Jacks principles( I think it will be easy to d
 
 Welcome.
 
-Membership is [info@kruseatdestin.com](mailto:info@kruseatdestin.com)
+Membership is [[email redacted]](mailto:[email redacted])
 
 Gold is probably best for a newbie with faster ramp up
 

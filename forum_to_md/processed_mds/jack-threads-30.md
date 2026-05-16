@@ -7619,7 +7619,7 @@ I would love to share room with you Yew! I really wish more information too, tho
 
 Food is included on a cruise........it is one of the cheapest ways to travel. If you want more info you should call Cathy.
 
-### patgrif@hotmail.com — 2015-01-14T17:21:25+0200
+### [email redacted] — 2015-01-14T17:21:25+0200
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-152744>
 
 > [yewwei.tan said:](/goto/post?id=152719)
@@ -7685,7 +7685,7 @@ But seriously, I would love to go! I want to meet everybody!
 ### yewwei.tan — 2015-01-14T23:40:06+0200
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-152767>
 
-> [patgrif@hotmail.com said:](/goto/post?id=152744)
+> [[email redacted] said:](/goto/post?id=152744)
 >
 > I would be fine sharing a room with you Yew..............in fact I would feel honored. Plus it might give my rusty brain a badly need 'tune up'. I am serious and if it saves money of course yes I would be up for it.............
 
@@ -7732,7 +7732,7 @@ If y'all are smart put 4-6 in room (suite and really go for it)
 
 NOLA has plenty of oysters..........50 cents a piece
 
-### patgrif@hotmail.com — 2015-01-15T02:42:30+0200
+### [email redacted] — 2015-01-15T02:42:30+0200
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-152786>
 
 > [Jack Kruse said:](/goto/post?id=152784)
@@ -7753,7 +7753,7 @@ OK, more info.
 
 Quad rooms are available on request, but payment has to be confirmed by <22-Jan-2015>
 
-For each non-related (not family) person sharing a room, you need to pay a US$250 deposit via Credit Card and complete a form to confirm the room. The forms are available on request from Catherine, who can be reached at [trvlbyedesign@comcast.net](mailto:trvlbyedesign@comcast.net)
+For each non-related (not family) person sharing a room, you need to pay a US$250 deposit via Credit Card and complete a form to confirm the room. The forms are available on request from Catherine, who can be reached at [[email redacted]](mailto:[email redacted])
 
 If you're travelling as a family, then there only needs to be a single form and single US$250 deposit per room.
 
@@ -7816,7 +7816,7 @@ I am going to start consolidating information on a Wiki page -- [http://jackkrus
 
 Any suggestions and contributions welcome  (you can either post here on the forum, or actually send a membership application to edit the wiki)
 
-### patgrif@hotmail.com — 2015-01-17T10:03:58+0200
+### [email redacted] — 2015-01-17T10:03:58+0200
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-153119>
 
 I am looking for someone to share a room with on the Cruise. I am a 62 y.o. man so any women can be assured I am very well behaved and it is not a problem for me at all. Of course a man is probably more appropriate and less problematic all the way around but either is fine with me. Anyway time is passing and if I don't hear from anybody I suppose I will just have to go ahead and book a room by myself. I really would like to save some money. I am sorry if this is not the right place to 'advertise' but don't know what else to do................
@@ -7848,7 +7848,7 @@ My CPAP machine makes a gentle, constant hiss when I use it at night, so that mi
 
 My family is finally booked….Catherine is great to work with for anyone who has questions….
 
-### patgrif@hotmail.com — 2015-01-26T03:14:58+0200
+### [email redacted] — 2015-01-26T03:14:58+0200
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-153849>
 
 > [Optimalbound said:](/goto/post?id=153804)
@@ -7900,7 +7900,7 @@ Won't you let me take you on a "**See Kruse**"!!_ LOL ​
 
 I booked too...really exciting!
 
-### patgrif@hotmail.com — 2015-01-26T09:18:04+0200
+### [email redacted] — 2015-01-26T09:18:04+0200
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-153870>
 
 > [SeaHorse said:](/goto/post?id=153855)
@@ -7946,7 +7946,7 @@ Really, those are the two biggest questions I have. My 22nd wedding anniversary 
 ### Jack Kruse — 2015-01-29T15:32:38+0200
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-154195>
 
-I have a solution for seasickness. Email Cathy for [details..........cwparnell@comcast.net](mailto:details..........cwparnell@comcast.net)
+I have a solution for seasickness. Email Cathy for [[email redacted]](mailto:[email redacted])
 
 ### cantweight — 2015-01-29T17:12:13+0200
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-154202>
@@ -8471,7 +8471,7 @@ all enjoy each others company......and if not we can just open more wine.
 > Inger why dont you Sarah and Yew do a three pack.........Sarah would be great to have on the cruise because she asks great questions.........it will be informal so I think we will
 > all enjoy each others company......and if not we can just open more wine.
 
-That would suit me fine. Please feel free to contact me directly by email - [sarah.turner@neshealth.com](mailto:sarah.turner@neshealth.com), or phone 831 291 1374 Sarah
+That would suit me fine. Please feel free to contact me directly by email - [[email redacted]](mailto:[email redacted]), or phone 831 291 1374 Sarah
 
 ### cinnamon — 2015-04-17T02:47:55+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-161479>
@@ -8696,7 +8696,7 @@ I would love one....
 >
 > I would love one....
 
-@[Josh](https://forum.jackkruse.com/members/8791/), could you email me ([kateatowler@gmail.com](mailto:kateatowler@gmail.com)): mailing address, wrist size, colors, charms- if any (such as a starfish, etc)... Once I have your mailing address I can give you a price.. Thanks!
+@[Josh](https://forum.jackkruse.com/members/8791/), could you email me ([[email redacted]](mailto:[email redacted])): mailing address, wrist size, colors, charms- if any (such as a starfish, etc)... Once I have your mailing address I can give you a price.. Thanks!
 
 ### bionaut — 2015-05-19T02:41:36+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-164648>
@@ -8793,7 +8793,7 @@ I like the green...
 >
 > I like the green...
 
-Josh, you want one?? email me: [kateatowler@gmail.com](mailto:kateatowler@gmail.com)
+Josh, you want one?? email me: [[email redacted]](mailto:[email redacted])
 
 ### Shijin13 — 2015-05-23T16:34:09+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-165120>
@@ -8857,7 +8857,7 @@ Just made our hotel reservations for that weekend at the St. Marie on Toulouse S
 
 For some reason I have Michael Berry show's Friday afternoon commute song in my head, "I can feel a good one comin' on..."
 
-### patgrif@hotmail.com — 2015-06-02T16:58:47+0300
+### [email redacted] — 2015-06-02T16:58:47+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-166266>
 
 I want to 'announce' BFD right?..............that I will be going to the Kruse Cruise. Anyway wanted to let people know and especially our little 'group' Cinnamon, Inger and Yew and Josh I think (sleeping on the floor!) . Thanks for all the encouragement I tend to get 'cold feet' whenever I am doing something 'new' and have a tendency to back out - so it all helped.
@@ -8869,7 +8869,7 @@ I hope you can find the time to watch it or of course anyone else too. But I tho
 ### Josh — 2015-06-02T17:52:47+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-166274>
 
-> [patgrif@hotmail.com said:](/goto/post?id=166266)
+> [[email redacted] said:](/goto/post?id=166266)
 >
 > I want to 'announce' BFD right?..............that I will be going to the Kruse Cruise. Anyway wanted to let people know and especially our little 'group' Cinnamon, Inger and Yew and Josh I think (sleeping on the floor!) . Thanks for all the encouragement I tend to get 'cold feet' whenever I am doing something 'new' and have a tendency to back out - so it all helped.
 >
@@ -8888,7 +8888,7 @@ So glad you are coming, Patrick
 ### Jack Kruse — 2015-06-03T01:47:48+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-166351>
 
-> [patgrif@hotmail.com said:](/goto/post?id=166266)
+> [[email redacted] said:](/goto/post?id=166266)
 >
 > I want to 'announce' BFD right?..............that I will be going to the Kruse Cruise. Anyway wanted to let people know and especially our little 'group' Cinnamon, Inger and Yew and Josh I think (sleeping on the floor!) . Thanks for all the encouragement I tend to get 'cold feet' whenever I am doing something 'new' and have a tendency to back out - so it all helped.
 >
@@ -8899,12 +8899,12 @@ So glad you are coming, Patrick
 
 Hameroff makes a lot more sense when you listen to the June 2015 webinar too...........
 
-### patgrif@hotmail.com — 2015-06-03T04:57:10+0300
+### [email redacted] — 2015-06-03T04:57:10+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-166369>
 
 Today I watched the Hameroff lecture having watched the interview with him yesterday.............then I watched the June webinar about light, time, gravity, consciousness etc and not that it is a competition or anything but my verdict is "Hameroff is Kruse for beginners!!"
 
-### patgrif@hotmail.com — 2015-06-03T05:03:23+0300
+### [email redacted] — 2015-06-03T05:03:23+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-166370>
 
 Since both Hameroff especially takes about anesthesia but also Dr Kruse at least implicitly I tried to describe below my last expierience of general anesthesia about 5 years ago
@@ -8916,7 +8916,7 @@ _So it was not like sleeping or dreaming or the state between wake and sleep. I 
 
 Pat.......now think about what people say about the end of your life.......it seems to speed up and you see your life flash........WHy? because ubiquitin rates in MT are speeding at crazy rates........in anesthesia it is reversed. All ubiquitin all the time because of the action of light on the atoms of water in your brain.
 
-### patgrif@hotmail.com — 2015-06-03T16:59:32+0300
+### [email redacted] — 2015-06-03T16:59:32+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-166435>
 
 > [Jack Kruse said:](/goto/post?id=166376)
@@ -8936,7 +8936,7 @@ I dont think anesthesia is optimal.........but it is necessary. This is why elec
 ### Josh (Paleo Osteo) — 2015-06-08T07:54:13+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-167011>
 
-> [patgrif@hotmail.com said:](/goto/post?id=166370)
+> [[email redacted] said:](/goto/post?id=166370)
 >
 > Since both Hameroff especially takes about anesthesia but also Dr Kruse at least implicitly I tried to describe below my last expierience of general anesthesia about 5 years ago
 >
@@ -9607,7 +9607,7 @@ If you signed up for the cruise you got that email already. If not put a ticket 
 ### Jack Kruse — 2015-06-18T14:56:49+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-168740>
 
-Terrier Mom you need to send an email to [skruse613@gmail.com](mailto:skruse613@gmail.com) because we do not have your email or name.
+Terrier Mom you need to send an email to [[email redacted]](mailto:[email redacted]) because we do not have your email or name.
 
 ### bionaut — 2015-06-18T15:26:24+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-168748>
@@ -9648,7 +9648,7 @@ Have a fantastic trip everyone! Can't wait to hear about it all when you return.
 Bon Voyage all you sailing people....
 Here's a song from Van Morrison that made me think of you all heading down to the sea....I think he may have written a song for pretty much all occasions of life over his lifetime....I still love to hear his voice
 
-### patgrif@hotmail.com — 2015-06-19T03:38:15+0300
+### [email redacted] — 2015-06-19T03:38:15+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-168851>
 
 > [SeaHorse said:](/goto/post?id=168848)
@@ -9758,7 +9758,7 @@ Welcome back !! Tell.....all....
 
 We know what we give to others but...............but we rarely know what others received from the interaction. Key lesson I learned the last 8 days. Night.
 
-### patgrif@hotmail.com — 2015-06-29T08:52:24+0300
+### [email redacted] — 2015-06-29T08:52:24+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-169847>
 
 > [JMO said:](/goto/post?id=169776)
@@ -10161,7 +10161,7 @@ OH so wish I could be there...too many school grads for which i would have never
 
 I gave you all a thought eating my first dose of Swedish Surströmming... This i would have brought for you all to taste.
 
-### patgrif@hotmail.com — 2015-06-30T18:02:10+0300
+### [email redacted] — 2015-06-30T18:02:10+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-170096>
 
 > [Jack Kruse said:](/goto/post?id=169978)
@@ -10493,7 +10493,7 @@ Or 2^64 = 18,446,744,073,709,551,616.
 
 Lol I have this book, I bought it some twenty eight years ago as an angst ridden teenager when I bought occult books from the local second hand book store and smoked and read in secret in a grotto at my local park. I don't recall reading it - it's pretty old 1920s..
 
-### patgrif@hotmail.com — 2015-07-06T16:12:45+0300
+### [email redacted] — 2015-07-06T16:12:45+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-171145>
 
 > [Jack Kruse said:](/goto/post?id=170974)
@@ -10525,7 +10525,7 @@ RobH
 
 See Pat........I am a balanced Irishman........must be the 3/4 German in me huh? LOL
 
-### patgrif@hotmail.com — 2015-07-06T20:22:42+0300
+### [email redacted] — 2015-07-06T20:22:42+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-171166>
 
 > [Jack Kruse said:](/goto/post?id=171160)
@@ -10534,7 +10534,7 @@ See Pat........I am a balanced Irishman........must be the 3/4 German in me huh?
 
 Good point..............being 'all' Irish can be a setup for disaster in the modern world...........the German 'brain' is smart enough to see some pitfalls.............I only 'read' the Germans not the same as being one.................
 
-### patgrif@hotmail.com — 2015-07-06T20:24:44+0300
+### [email redacted] — 2015-07-06T20:24:44+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-171167>
 
 > [cantweight said:](/goto/post?id=171153)
@@ -10596,7 +10596,7 @@ well....... I think this is HUGE.........
 
 I really am blessed in that John (DH) is both my bestfriend, lover, husband, and partner. we bring each other up, and balance each other out. its truly amazing how it works. I love everything about our relationship, including when we disagree, argue and fight - as while it tests us, it strengthens us as a unit. We're both anodes and cathodes in each other's life.
 
-> [patgrif@hotmail.com said:](/goto/post?id=171166)
+> [[email redacted] said:](/goto/post?id=171166)
 >
 > Good point..............being 'all' Irish can be a setup for disaster in the modern world...........the German 'brain' is smart enough to see some pitfalls.............I only 'read' the Germans not the same as being one.................
 
@@ -10662,7 +10662,7 @@ RobH
 ### Josh (Paleo Osteo) — 2015-07-08T01:16:04+0300
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-cruise-thread.12344/post-171298>
 
-> [patgrif@hotmail.com said:](/goto/post?id=171145)
+> [[email redacted] said:](/goto/post?id=171145)
 >
 > Dr K. I can't be the only one who wonders about that................how do you avoid 'burnout'? To continue the Irish theme my feeling is be careful to avoid giving too much of yourself. People tend to just take what is given and not give a thought to what it costs you. I know a bit of what I speak here.............I did that too until I had little or nothing left and IMO it's worth keeping in mind most of the world is not "Irish" (that can stand for any indigenous people) and in a world of 'every man for himself' people just tend to take and take.................until there is nothing left.
 
@@ -11318,7 +11318,7 @@ That's the three legged stool recipe isn't it you're doing it in spades
 yes this is all in oschman's book energy medicine - the scientific basis (2000)
 described differently of course
 
-### info@sorrentinodental.com — 2014-12-15T03:07:38+0200
+### [email redacted] — 2014-12-15T03:07:38+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-12-blog-is-live-comments-welcome.12381/post-150143>
 
 In college I took a chronobioloogy class taught by Frank Sulzman , I also worked in his lab. This was my fist exposure to chronobiology and it was a good one. (If you do not know who he is google his Wikopedia page)
@@ -11905,7 +11905,7 @@ IR lights on please.
 Anyway sorry for spamming but my time on this machine is limited ( right hand already looking ten years older) . And I am so sorry I can't really have a conversation with you guys.
 Have a Happy Solstice
 
-### patgrif@hotmail.com — 2014-12-21T20:18:48+0200
+### [email redacted] — 2014-12-21T20:18:48+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-12-blog-is-live-comments-welcome.12381/post-150741>
 
 I have been behind from my 4 months vacation in Ireland so now up to Tensegrity 6 about Hydrogen and hydrogen bonds etc. This thing about protons seems huge and am I correct in thinking that is often what is very much missed in biology. I mean a lot of attention of course is paid to electrons and the whole basis of bio-chemistry and chemistry is the swapping, sharing, losing, gaining etc of elctrons. Different kinds of electron bonds etc etc
@@ -11933,7 +11933,7 @@ Dr Kruse has said bacteria etc were based more on protons. We I supposed are bas
 
 Silence is golden and they didn't build the pyramids for no reason. But someone with an iPhone would tell you we built them for no reason.
 
-### patgrif@hotmail.com — 2014-12-21T23:22:40+0200
+### [email redacted] — 2014-12-21T23:22:40+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-12-blog-is-live-comments-welcome.12381/post-150748>
 
 Still catching up waded through Tensegrity 9 & 10. I have to admit I am stumped completely by 'quantum entanglement' one in that even in the world of quantum physics ( an already weird world) it is even weirder. But also I have no idea what Dr Kruse is driving at in terms of it's application to biology. It seems to be connected to free radicals and trying to follow the logic here the electron of a free radical molecule is 'unpaired' as others are. So what happens...............they are somehow 'entangled' I have no idea of the significance of this. Or how practically it manifests itself. Are they now in different cells (possibly!?!) but 'entangled' somehow do they 'stay' entangled and if not for how long on and on I have only questions and no idea where this is going or what it's importance is. I am not trying to be difficult I imagine a lot of others must be confused too, I am usually able to follow along but this one stumps me completly
@@ -11948,7 +11948,7 @@ Totally random image from Ultrafacts : [http://ultrafactsblog.com/post/105799075
 ### Da-mo — 2014-12-21T23:33:46+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-12-blog-is-live-comments-welcome.12381/post-150750>
 
-> [patgrif@hotmail.com said:](/goto/post?id=150748)
+> [[email redacted] said:](/goto/post?id=150748)
 >
 > Still catching up waded through Tensegrity 9 & 10. I have to admit I am stumped completely by 'quantum entanglement' one in that even in the world of quantum physics ( an already weird world) it is even weirder. But also I have no idea what Dr Kruse is driving at in terms of it's application to biology. It seems to be connected to free radicals and trying to follow the logic here the electron of a free radical molecule is 'unpaired' as others are. So what happens...............they are somehow 'entangled' I have no idea of the significance of this. Or how practically it manifests itself. Are they now in different cells (possibly!?!) but 'entangled' somehow do they 'stay' entangled and if not for how long on and on I have only questions and no idea where this is going or what it's importance is. I am not trying to be difficult I imagine a lot of others must be confused too, I am usually able to follow along but this one stumps me completly
 
@@ -11957,7 +11957,7 @@ If one entangled particle is in the CSF and the other in any other part of your 
 ### yewwei.tan — 2014-12-21T23:55:51+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-12-blog-is-live-comments-welcome.12381/post-150753>
 
-> [patgrif@hotmail.com said:](/goto/post?id=150741)
+> [[email redacted] said:](/goto/post?id=150741)
 >
 > I have been behind from my 4 months vacation in Ireland so now up to Tensegrity 6 about Hydrogen and hydrogen bonds etc. This thing about protons seems huge and am I correct in thinking that is often what is very much missed in biology. I mean a lot of attention of course is paid to electrons and the whole basis of bio-chemistry and chemistry is the swapping, sharing, losing, gaining etc of elctrons. Different kinds of electron bonds etc etc
 >
@@ -11978,7 +11978,7 @@ The 4th section talks about DNA and RNA (which are also enzymes). The paper on D
 ### bionaut — 2014-12-22T00:29:28+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-12-blog-is-live-comments-welcome.12381/post-150755>
 
-> [patgrif@hotmail.com said:](/goto/post?id=150748)
+> [[email redacted] said:](/goto/post?id=150748)
 >
 > Still catching up waded through Tensegrity 9 & 10. I have to admit I am stumped completely by 'quantum entanglement' one in that even in the world of quantum physics ( an already weird world) it is even weirder. But also I have no idea what Dr Kruse is driving at in terms of it's application to biology. It seems to be connected to free radicals and trying to follow the logic here the electron of a free radical molecule is 'unpaired' as others are. So what happens...............they are somehow 'entangled' I have no idea of the significance of this. Or how practically it manifests itself. Are they now in different cells (possibly!?!) but 'entangled' somehow do they 'stay' entangled and if not for how long on and on I have only questions and no idea where this is going or what it's importance is. I am not trying to be difficult I imagine a lot of others must be confused too, I am usually able to follow along but this one stumps me completly
 
@@ -11988,7 +11988,7 @@ Don't try and have it make sense in the world you know and live in. This is a qu
 
 At small levels things are connected without any wires in between.
 
-### patgrif@hotmail.com — 2014-12-22T02:52:55+0200
+### [email redacted] — 2014-12-22T02:52:55+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-12-blog-is-live-comments-welcome.12381/post-150759>
 
 > [yewwei.tan said:](/goto/post?id=150753)
@@ -12009,7 +12009,7 @@ Thanks Yew, yes I had watched that and I found it very helpful and actually show
 
 On the proton taking on a neutron Jack did say that was speculative and that I can kind of see what he is driving at. Protons kind of 'degrade' down to deuterium. I was not clear though if that was 'pathological' or just a normal process of aging. Though I suppose one is the same as the other just in illness it happening faster than it should
 
-### patgrif@hotmail.com — 2014-12-22T02:56:00+0200
+### [email redacted] — 2014-12-22T02:56:00+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-12-blog-is-live-comments-welcome.12381/post-150760>
 
 > [bionaut said:](/goto/post?id=150755)
@@ -13144,7 +13144,7 @@ I got the wine covered.............
 
 and yes consciousness 1 is already penned
 
-### patgrif@hotmail.com — 2014-12-19T02:50:02+0200
+### [email redacted] — 2014-12-19T02:50:02+0200
 **Source:** <https://forum.jackkruse.com/threads/december-2014-q-a.12385/post-150576>
 
 I would be curious if Dr Kruse or Neil or Josh (both) or anyone really might have an opinion on this. It is coming from a different direction from most of the inquiry here. But I like to think there is maybe at this point some 'synergies' there that maybe are yet to be explored. I am not 'promoting' Dr Janov or his ideas though I am very familiar with them and I am curious if anybody has a take on this? Maybe to try to put in a simple way do people think 'traumatic memory' from childhood in particular or in another parlance PTSD from a more 'adult' perspective can have a profound effect on 'health' I feel it can and it does.
@@ -13168,7 +13168,7 @@ None of us have a responsibility to live up to what other people think you ought
 ### SeaHorse — 2014-12-19T03:46:12+0200
 **Source:** <https://forum.jackkruse.com/threads/december-2014-q-a.12385/post-150580>
 
-> [patgrif@hotmail.com said:](/goto/post?id=150576)
+> [[email redacted] said:](/goto/post?id=150576)
 >
 > I would be curious if Dr Kruse or Neil or Josh (both) or anyone really might have an opinion on this. It is coming from a different direction from most of the inquiry here. But I like to think there is maybe at this point some 'synergies' there that maybe are yet to be explored. I am not 'promoting' Dr Janov or his ideas though I am very familiar with them and I am curious if anybody has a take on this? Maybe to try to put in a simple way do people think 'traumatic memory' from childhood in particular or in another parlance PTSD from a more 'adult' perspective can have a profound effect on 'health' I feel it can and it does.
 >
@@ -13185,7 +13185,7 @@ None of us have a responsibility to live up to what other people think you ought
 ### Da-mo — 2014-12-19T03:53:03+0200
 **Source:** <https://forum.jackkruse.com/threads/december-2014-q-a.12385/post-150582>
 
-> [patgrif@hotmail.com said:](/goto/post?id=150576)
+> [[email redacted] said:](/goto/post?id=150576)
 >
 > I would be curious if Dr Kruse or Neil or Josh (both) or anyone really might have an opinion on this. It is coming from a different direction from most of the inquiry here. But I like to think there is maybe at this point some 'synergies' there that maybe are yet to be explored. I am not 'promoting' Dr Janov or his ideas though I am very familiar with them and I am curious if anybody has a take on this? Maybe to try to put in a simple way do people think 'traumatic memory' from childhood in particular or in another parlance PTSD from a more 'adult' perspective can have a profound effect on 'health' I feel it can and it does.
 >
@@ -13237,7 +13237,7 @@ Consciousness is that, whatever that is, which is perceiving these words on this
 
 I
 
-> [patgrif@hotmail.com said:](/goto/post?id=150576)
+> [[email redacted] said:](/goto/post?id=150576)
 >
 > I would be curious if Dr Kruse or Neil or Josh (both) or anyone really might have an opinion on this. It is coming from a different direction from most of the inquiry here. But I like to think there is maybe at this point some 'synergies' there that maybe are yet to be explored. I am not 'promoting' Dr Janov or his ideas though I am very familiar with them and I am curious if anybody has a take on this? Maybe to try to put in a simple way do people think 'traumatic memory' from childhood in particular or in another parlance PTSD from a more 'adult' perspective can have a profound effect on 'health' I feel it can and it does.
 >
@@ -13409,7 +13409,7 @@ Is future me hookin' a brotha up? Someone's tapping me on the shoulder (..brain?
 
 She has a couple more week's of these IV's and I have off work for a while, so I will attempt to continue replicating this, ha.
 
-### patgrif@hotmail.com — 2014-12-20T04:08:11+0200
+### [email redacted] — 2014-12-20T04:08:11+0200
 **Source:** <https://forum.jackkruse.com/threads/december-2014-q-a.12385/post-150649>
 
 Neil wrote **"It is specifically because of the very bad philosophical/epistemological foundations of most of the founders of quantum theory, that I believe we ended up in the situation that we are in today. An epistemological crisis in which physicists have "replaced theories with equations,"
@@ -13509,7 +13509,7 @@ I strongly agree with Thornhill here...
 [http://www.holoscience.com/wp/science-needs-natural-philosophers/](http://www.holoscience.com/wp/science-needs-natural-philosophers/)
 @[Josh](https://forum.jackkruse.com/members/8791/)
 
-### patgrif@hotmail.com — 2014-12-20T21:21:28+0200
+### [email redacted] — 2014-12-20T21:21:28+0200
 **Source:** <https://forum.jackkruse.com/threads/december-2014-q-a.12385/post-150701>
 
 Again I think that's very well said Neil. Philosophy has gone out of style and sometimes I have felt 'ashamed' to have a degree in it. But I am surprised by the poor 'thinking' shown by a lot of the 'specialists' and that includes physics (at times). Come to think of it I was 'supposed' to get a medical degree but instinctively balked at the idea of it or more seeing the reality of it. My sister is a medical doctor and I am often still surprised by her 'poor thinking' For example she espouses very low fat diet and now suffers from 'vertigo' and her husband who goes along with her has several degrees of heart problem, afib etc etc.
@@ -14016,7 +14016,7 @@ Life lives far from equilibrium Neil and this means equilibrium is far from enta
 
 For me it seems more intuitive that the more system is entangled>the more it resonates coherently>the more likely it will achieve a system wide resonant frequency>the more likely a standing wave will emerge = areas of higher and lower energy/mass/density or whatever=less chaos/more order=energy available above entropy to do work.
 
-### patgrif@hotmail.com — 2014-12-19T09:22:28+0200
+### [email redacted] — 2014-12-19T09:22:28+0200
 **Source:** <https://forum.jackkruse.com/threads/cosmology-evolution-and-time.12402/post-150596>
 
 > [NeilBB said:](/goto/post?id=150281)
@@ -14036,7 +14036,7 @@ Neil - I agree with your basic thrust, it reminds me of the rather 'silly' stuff
 ### NeilBB — 2014-12-19T16:00:46+0200
 **Source:** <https://forum.jackkruse.com/threads/cosmology-evolution-and-time.12402/post-150605>
 
-> [patgrif@hotmail.com said:](/goto/post?id=150596)
+> [[email redacted] said:](/goto/post?id=150596)
 >
 > Neil - I agree with your basic thrust, it reminds me of the rather 'silly' stuff we used to discuss in Philosophy like if a tree falls in the forest and there was no one there to hear/see it did it 'really' fall. And people would 'speculate' on stuff like that. But to me it's like OF COURSE it fell, just because there was no 'received' there for the sound does not mean the sound did not happen. And somewhere else you called it 'idealism' the idea 'it's all in the mind' or 'life creates time' etc etc. It has also been called 'solopcism' taken to absurd level where a person believes they are all that exist or the only life that exists
 
@@ -14053,7 +14053,7 @@ But I'm not so sure about that for a number of reasons. The equations of quantum
 
 I guess the other issue involves the flow of atoms and particles through the body, correct? Atoms and molecules will be constantly turning over (although probably at varying rates in different tissues/circumstances). So some entangled particles will be retained for a while and some lost more quickly? "Motor memory" could utilize this mechanism?
 
-### patgrif@hotmail.com — 2014-12-19T17:33:43+0200
+### [email redacted] — 2014-12-19T17:33:43+0200
 **Source:** <https://forum.jackkruse.com/threads/cosmology-evolution-and-time.12402/post-150610>
 
 Neil - I have always been a bit unsure about the "Uncertainty Principle" in one way it can be seen as profound, but in another maybe trivial. Like if we have an inability to do something (like measure location and spin or something of the sort) do we then impute that quality to 'reality'. And that is something I am wary about on some of this 'quantum magic' business. Like something can be 2 places at once or things keep a 'connection' though trillions of light years apart. Really?? Isn't it as much likely to be some 'artifact of our thinking' some limitation of our way of looking at it or something we 'impute' to reality.
@@ -14766,7 +14766,7 @@ I dont think it is that big of a deal...........but I was warned by some of his 
 
 My apologies, Dr. Kruse, I am over it too, and I will certainly not close my mind to his ideas, but I was just initially disappointed in him when I read this. I am happy to read that someone else filmed a video of you there. Blessings to you for all that you do and share!
 
-### patgrif@hotmail.com — 2014-12-17T17:45:59+0200
+### [email redacted] — 2014-12-17T17:45:59+0200
 **Source:** <https://forum.jackkruse.com/threads/jack-and-the-bio-hacking-conference.12406/post-150431>
 
 I remember some time last Winter Dr Kruse did a podcast with Dave Asprey and I even mentioned it at the time how Jack was literally streets ahead of this guy and also I commented on how lost I would feel 'following' someone like Mr Asprey. Reliance on 'supplements' and all kinds of crazy devices to cheat Mother Nature. In that way of course the 'alternative health' scene is really not much better and in the short run at least much less effective that standard medical practice. I suppose it shows the difficulty of being a true innovator one is not on the same wavelength as conventional wisdom but not necessarily in agreement much with the 'alternatives' either. It seems a lot of these 'alternative' guys don't actually have much training in Medicine and if they do they tend then to concentrate on one 'pathway' that they happen to know something about then it becomes all about 'gluthiathone' 'CoQ10' 'clorella' on and on take your pick. It seems to me and maybe seems odd me saying it Dr Kruse sometimes sells himself short by even dealing with these kinds of people. But I understand we all need a 'eco-system' we all need friends and neighbors I suppose is another way of looking at it.
@@ -14852,7 +14852,7 @@ Osho, "The Golden Future", Chapter 27
 
 I got 90% of my Amherst College "education" (2015 cost:$260k,"so-called" actual cost $320k) in the dinning hall as well.
 
-### patgrif@hotmail.com — 2014-12-18T01:46:08+0200
+### [email redacted] — 2014-12-18T01:46:08+0200
 **Source:** <https://forum.jackkruse.com/threads/jack-and-the-bio-hacking-conference.12406/post-150461>
 
 I am aware this is pretty irrelevant but it seemed such a weird coincidence, I get the Irish paper here ("Sunday Independent") and was reading last Sunday's and lo and behold a story involving "Bulletproof Coffee". (Dave Asprey) It is just a jokey piece with that nice Irish skeptical and kind of mocking sense of humor. I like the highly skeptical attitude (though the guy does use it) that one kind of 'supplement' could have all the benefits claimed. I am 'allergic' pretty much to 'supplement culture' and it may partly be a cultural (Irish) thing
@@ -17569,7 +17569,7 @@ I never argue with the ignorant, because people watching on social media may not
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-This is the picture of what is left of a friends house after we had tornado's in the Gulf South. If you can help out please do so. We are taking donations at [skruse613@gmail.com](mailto:skruse613@gmail.com) via paypal. If you want to send the family a gift card at amazon they are coming to our house at ten AM to shop on my laptop. Clothing and shoes would also be helpful. Aaliyah Howard, Alexis Howard, Cornelius Howard. youngest has size 8 pants 13 shoes 13 yr old petite teen size pants size 8 shoe, 10.5 female shirt oldest XL shirt 9.5-10 shoes. They need clothing and shoes most now. Cash is also helpful. For those who have already reached out to them thank you from the bottom of my heart. They also could use male 2XL shirts 40/32 pants; size 18 ladies pants.
+This is the picture of what is left of a friends house after we had tornado's in the Gulf South. If you can help out please do so. We are taking donations at [[email redacted]](mailto:[email redacted]) via paypal. If you want to send the family a gift card at amazon they are coming to our house at ten AM to shop on my laptop. Clothing and shoes would also be helpful. Aaliyah Howard, Alexis Howard, Cornelius Howard. youngest has size 8 pants 13 shoes 13 yr old petite teen size pants size 8 shoe, 10.5 female shirt oldest XL shirt 9.5-10 shoes. They need clothing and shoes most now. Cash is also helpful. For those who have already reached out to them thank you from the bottom of my heart. They also could use male 2XL shirts 40/32 pants; size 18 ladies pants.
 
 ### nonchalant — 2014-12-25T15:18:31+0200
 **Source:** <https://forum.jackkruse.com/threads/if-you-can-help-please-consider-it.12462/post-150975>
@@ -17649,7 +17649,7 @@ To join us for the Optimal Resolution Event Live Q&A:
 
 \- Login to [2015 - Optimal Reset Live Q&A](http://jackkruse.ontraport.net/c/s/s6Q/zUfe/s/5b/78/68UTmP/oMlV4zOvz)
 
-If you have any questions, please email [support@jackkruse.com](mailto:support@jackkruse.com)
+If you have any questions, please email [[email redacted]](mailto:[email redacted])
 
 Let's get Optimal!
 
@@ -26475,7 +26475,7 @@ I wonder if the angle of the sun relative to the Earth has a factor in health? I
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### patgrif@hotmail.com — 2015-01-03T01:16:09+0200
+### [email redacted] — 2015-01-03T01:16:09+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151412>
 
 All I have to say now..................maybe more later..................
@@ -26654,7 +26654,7 @@ Hopefully the big cytochromes will go quiet and let some IR light shine on those
 
 Paleo docteur you should be asking me about concussions and this blog.........concussions are alterations in oscillations and vibrations.
 
-### patgrif@hotmail.com — 2015-01-03T20:18:24+0200
+### [email redacted] — 2015-01-03T20:18:24+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151486>
 
 > [Jack Kruse said:](/goto/post?id=151470)
@@ -26786,7 +26786,7 @@ Josh consciousness can't be explained by any or all our mental tools in my opini
 
 its true, because the tools for mapping have come out of consciousness, they do not merely appear within it
 
-### patgrif@hotmail.com — 2015-01-04T04:47:54+0200
+### [email redacted] — 2015-01-04T04:47:54+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151564>
 
 I was thinking a little more on JK's ideas on wakefulness, sleep etc. I wonder if in childhood we have a kind of 'in-between' stage where the child's brain even when 'awake' is partly in the quantum/dream state and partly in the 'awake' state. If we go back further to intra-uterine life in what sense can we say the 'infant/fetus' is awake or asleep?
@@ -26806,7 +26806,7 @@ PS. I find it ironic that I have/had such a 'block' about Dr K's ideas about 'qu
 ### Josh (Paleo Osteo) — 2015-01-04T04:57:25+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151565>
 
-> [patgrif@hotmail.com said:](/goto/post?id=151564)
+> [[email redacted] said:](/goto/post?id=151564)
 >
 > I was thinking a little more on JK's ideas on wakefulness, sleep etc. I wonder if in childhood we have a kind of 'in-between' stage where the child's brain even when 'awake' is partly in the quantum/dream state and partly in the 'awake' state. If we go back further to intra-uterine life in what sense can we say the 'infant/fetus' is awake or asleep?
 >
@@ -26838,7 +26838,7 @@ Waves (are just probability distributions) become matter when form is needed by,
 ### Jack Kruse — 2015-01-04T05:26:05+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151571>
 
-> [patgrif@hotmail.com said:](/goto/post?id=151564)
+> [[email redacted] said:](/goto/post?id=151564)
 >
 > I was thinking a little more on JK's ideas on wakefulness, sleep etc. I wonder if in childhood we have a kind of 'in-between' stage where the child's brain even when 'awake' is partly in the quantum/dream state and partly in the 'awake' state. If we go back further to intra-uterine life in what sense can we say the 'infant/fetus' is awake or asleep?
 >
@@ -26861,7 +26861,7 @@ Children imagine a lot. they also spend more time in REM than adults. What does 
 
 So with my responses above reconsider Tensegrity 12 statement: what life is? Consider all things are made up of atoms.......and they are not alive. then consider all living things are made up of water and molecules. Neither are alive..... molecules are dead. So we are made up of dead things yet we are alive? How? Entanglement becomes that linkage. There's no sense in which individual molecules can be said to exhibit the "phenomenon of life". You need a process among many, many components -- molecular components, of course, included -- of an organism in order to have something which has some of the characteristics we would want to regard as living. virus's come closest to living but they too are considered non-living. It's pretty clear that DNA on its own, proteins on their own, metabolites on their own, lipids on their own, are not alive. It's the network of system interaction that can be said to have living characteristics, however one defines those. What connects them all? Entanglement of electrons, protons, and photons.
 
-### patgrif@hotmail.com — 2015-01-04T06:00:51+0200
+### [email redacted] — 2015-01-04T06:00:51+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151576>
 
 > [Jack Kruse said:](/goto/post?id=151571)
@@ -26893,7 +26893,7 @@ Pat your mitochondria entangle.....to entangle particles you need monochromatic 
 
 The more you entangle all these particles the more the system knows about each others waves........and the more coherent their collective organization becomes. This is life........a collective phenomena as I wrote in EE 6.
 
-### patgrif@hotmail.com — 2015-01-04T06:21:39+0200
+### [email redacted] — 2015-01-04T06:21:39+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151580>
 
 > [Jack Kruse said:](/goto/post?id=151579)
@@ -26905,7 +26905,7 @@ That starts to make sense, 'consciousness' or 'awareness' can be thought of as b
 ### Brother John — 2015-01-04T06:22:37+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151581>
 
-> [patgrif@hotmail.com said:](/goto/post?id=151564)
+> [[email redacted] said:](/goto/post?id=151564)
 >
 > I was thinking a little more on JK's ideas on wakefulness, sleep etc. I wonder if in childhood we have a kind of 'in-between' stage where the child's brain even when 'awake' is partly in the quantum/dream state and partly in the 'awake' state. If we go back further to intra-uterine life in what sense can we say the 'infant/fetus' is awake or asleep?
 >
@@ -27142,14 +27142,14 @@ The answer? Entanglement. They are all connected. None of them need fancy sensor
 
 The synchronous spawn is essential for corals’ survival, Pat. Coral colonies must continuously expand outward to thrive. To remain healthy and strong, they must breed outside of their gene pool with neighboring colonies. This means they must communicate among and within their environment in a deeply complex fashion. Once released to the surface, the coral sperm and eggs have only about thirty minutes to fuse. Any longer, and the coral eggs and sperm will either dissipate or die off in the ocean. Researchers have found that if the spawning is just fifteen minutes out of sync, coral colonies’ chances of survival are massively reduced. It seems corals pull it off. Today, the Great Barrier Reef is dying at an astounding pace. 50% dead in 50 years since we began using non native EMF in the photic zone of the ocean. Why do I pay attention to the Great Barrier reef Pat? It is the largest living creature on planet Earth. So when it dies it is mankind's canary in the coal mine. Coral is the largest biological structure on the planet and covers some 175,000 square miles of the seafloor. Its reproduction ability is intimately tied to its ability to communicate via entanglement. If it can't entangle its electrons and protons or photons it dies...........It can communicate in a way far more sophisticated than anyone ever thought. And when you understand it.......there is a great lesson for man here in its story. I will now remind you of something more shocking Pat, coral is one of the most primitive animals on Earth, yet it still has the ability to harness the spark of life to communicate. I will remind you again, coral has no eyes, no ears, and no brain. Entanglement allows for amazing natural abilities.............so it is critical you get how primordial its ability is and how it can lend all living things a huge boost.
 
-### patgrif@hotmail.com — 2015-01-05T02:15:24+0200
+### [email redacted] — 2015-01-05T02:15:24+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151635>
 
 Dr Kruse, I very much appreciate you give me so much time............I wonder if I am 'worth it' anyway yes that's very interesting. I 'meditated' on this issue of entanglement a bit today out walking and wading at the beach and I conclude and I am aware this is only to do with me it says nothing about entanglement in general that I have a 'block' about it. It is hard for me to believe the world is that connected and I feel very much it has to do with the poverty of my early life. Entanglement for an infant would very much involve entanglement with a loving mother and for a variety of reasons that was not happening so much. Anyway that's my own issues but it is interesting even 'ideas' like that can appeal or not appeal to people for reasons not so much to do with the ideas in themselves but for some underlying 'feeling'.............
 
 Now your example above my first reaction is to refuse to believe it, I only give it credence because you said it so I know there is a lot there. I need time on this it's like I know I am being dragged to 'truth' but I have resistance. But again thank you so much for giving me the time and I believe in the end this could end up being quite 'therapeutic' for me something that helps me out of my isolation. Yes what is happening to the coral reefs is very concerning they are vital for all kinds of other fish as a spawning ground etc. I read somewhere when they go so goes the fish.................
 
-### patgrif@hotmail.com — 2015-01-05T02:23:40+0200
+### [email redacted] — 2015-01-05T02:23:40+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151636>
 
 One other thought about the coral and entanglement, I thought it came into play much more in the 'higher' forms of life that it happened in mono-chromatic light and that was provided especially by humans (IR light released by mitochondria etc) but it seems it operated very much with coral also. Shows how much I have still to understand about it..............
@@ -27165,7 +27165,7 @@ Bah, I wish I could show your horizontal vs vertical finger gesture (during dinn
 
 [http://en.wikipedia.org/wiki/Cross\_sea](http://en.wikipedia.org/wiki/Cross_sea)
 
-### patgrif@hotmail.com — 2015-01-05T17:43:13+0200
+### [email redacted] — 2015-01-05T17:43:13+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151689>
 
 It seems to me Dr K is sort of saying 'quantum entanglement' is the driving force of evolution the 'mechanism' you might say that Darwin did not know about. Now if this is true (and I suspect it is!) it seems to me this needs more explanation. In my mind it has gone from almost some debatable and 'queer' property of quantum physics (already a bit of an 'iffy' discipline!) to being the central driving force or 'mechanism' of evolution. That a long span in a few days. But this is very exciting and I suspect Dr K has just dropped a 'bread crumb' on me. Trouble is I don't eat bread so maybe he might drop something else that I can eat or digest more easily. Looking forward to it! Or should I just eat the bread lol................
@@ -27173,7 +27173,7 @@ It seems to me Dr K is sort of saying 'quantum entanglement' is the driving forc
 ### SeaHorse — 2015-01-05T18:17:27+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151692>
 
-> [patgrif@hotmail.com said:](/goto/post?id=151635)
+> [[email redacted] said:](/goto/post?id=151635)
 >
 > Dr Kruse, I very much appreciate you give me so much time............I wonder if I am 'worth it' anyway yes that's very interesting. I 'meditated' on this issue of entanglement a bit today out walking and wading at the beach and I conclude and I am aware this is only to do with me it says nothing about entanglement in general that I have a 'block' about it. It is hard for me to believe the world is that connected and I feel very much it has to do with the poverty of my early life. Entanglement for an infant would very much involve entanglement with a loving mother and for a variety of reasons that was not happening so much. Anyway that's my own issues but it is interesting even 'ideas' like that can appeal or not appeal to people for reasons not so much to do with the ideas in themselves but for some underlying 'feeling'.............
 >
@@ -27192,7 +27192,7 @@ Corals don't have this problem….not having brains, they can simply be connecte
 
 All quantum process are tied to evolutionary trajectory Pat
 
-### patgrif@hotmail.com — 2015-01-05T18:45:21+0200
+### [email redacted] — 2015-01-05T18:45:21+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151694>
 
 > [SeaHorse said:](/goto/post?id=151692)
@@ -27207,7 +27207,7 @@ All quantum process are tied to evolutionary trajectory Pat
 
 Thanks Seahorse that's a lovely message. I think this sense is something I have always been striving towards but due to my 'education' or better said 'mis-education' could not allow myself to just experience it. It's like without some under-pinning of 'understanding' I cannot just accept things. This is a 'weakness' of mine as you say the coral do not need 'understanding' but we can all only work with the tools we have got. For me 'understanding' or 'truth' helps me enormously without it I feel like I am floundering. Again a weakness of mine. But sometimes when I feel Dr K really illuminates some point it gives me such strength just BECAUSE it feels so 'true'. Truth is important after all so much of the human race spend their lives looking for it.......................
 
-### patgrif@hotmail.com — 2015-01-05T19:01:49+0200
+### [email redacted] — 2015-01-05T19:01:49+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151695>
 
 > [Jack Kruse said:](/goto/post?id=151693)
@@ -27233,7 +27233,7 @@ Photosynthesis in the sea only happens in the photic zone.......but life uses th
 
 Bacteria and Archea are 2.5 −3 billion yrs old.
 
-### patgrif@hotmail.com — 2015-01-05T19:20:02+0200
+### [email redacted] — 2015-01-05T19:20:02+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151699>
 
 This song seems apt........even down to the 'video' of bands of light................
@@ -27298,7 +27298,7 @@ _"Might time be one dimension fundamentally including the past, present, and fut
 _
 Can you clarify what you mean by non existent? Dead? As yet uncreated? Potential?
 
-### patgrif@hotmail.com — 2015-01-06T17:28:41+0200
+### [email redacted] — 2015-01-06T17:28:41+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151827>
 
 > [Dali Dula said:](/goto/post?id=151813)
@@ -27313,10 +27313,10 @@ It is one of the main reasons I am interested in Dr K's work strange as that may
 
 Some people might call this 'meditation' and I suppose it is though I am not that crazy about using that word. Meditation means different things to different people for me this is what I would call 'processing' processing the past, the 'issues' I have about many different things. Is this a 'cure' for PTSD...............I dunno it seems to me it is a good beginning towards one but these days I like to say the cold Pacific Ocean is my 'shrink' not someone with a degree in 'mental health' who charges by the hour.............
 
-### patgrif@hotmail.com — 2015-01-06T17:34:17+0200
+### [email redacted] — 2015-01-06T17:34:17+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151828>
 
-> [patgrif@hotmail.com said:](/goto/post?id=151827)
+> [[email redacted] said:](/goto/post?id=151827)
 >
 > I find that such an interesting question, was actually thinking about the same thing myself. I find Dr K's explanations of the benefits of sleep very helpful, after all it's 'free' and we don't have to 'work' at it it's just so beautiful and just happens all by itself no extra 'processing' or effort needed. And something we take for granted but when you think about it it is such a miracle, like reborn every day and for 'free'.
 >
@@ -27343,7 +27343,7 @@ Quantum superposition means all things are possible so off and on and non existe
 ### SeaHorse — 2015-01-06T17:56:29+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151830>
 
-> [patgrif@hotmail.com said:](/goto/post?id=151828)
+> [[email redacted] said:](/goto/post?id=151828)
 >
 > To be clear on the above when I wrote "**When I spoke to Dr K about this issue and was asking him about 'entanglement' he immediately said that's exactly what PTSD sufferers have"** what he said and I want to be clear on this is 'entanglement' is what PTSD sufferers do NOT have, just wanted there to be no misunderstanding on that which from the way I wrote it there could be.
 
@@ -27354,7 +27354,7 @@ The capacity to entangle is the capacity to respond in movement….the way I see
 
 signaling is a synonym for coherence. Lack of it is decoherence. Entanglement provides the ability to signal massively quick and quite well.
 
-### patgrif@hotmail.com — 2015-01-06T18:17:18+0200
+### [email redacted] — 2015-01-06T18:17:18+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-151836>
 
 > [SeaHorse said:](/goto/post?id=151830)
@@ -27473,7 +27473,7 @@ I saw a 3 ft orb of flashing color approaching me; it hovered a few inches from 
 
 I was looking at a comb jellyfish. Comb jellyfish live at depths below 3000 ft of seawater. They are members of the Ctenophora phylum, and are very common in deep waters where the sunlight can not penetrate yet they create massive amounts of fireworks. They propel themselves with an outer layer of fine hairs called cilia and can grow up to five feet in length. Like all jellyfish, the comb jellyfish has no eyes, no ears, no digestive system, no muscles. Their body is an orb composed of 98 percent water and a scant network of invisible nerves and collagen, all held together by two layers of transparent cells that are bound together by an electric charge using calcium as the cationic cement. It has no brain, and yet this animal hunts prey its own size, mates, and can move nimbly through the water. So ask yourself how the hell is this physically possible without quantum biology?
 
-### patgrif@hotmail.com — 2015-01-08T01:39:54+0200
+### [email redacted] — 2015-01-08T01:39:54+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-152033>
 
 Dr Kruse I am no longer 'arguing' with you and I have been reading a bit more about quantum entanglement, it seems to be quite 'real' and not some debatable sketchy aspect of quantum physics. But still I think you can 'explain' it a bit more as only you can. Go ahead 'hurt my head' I can take it.................
@@ -27497,7 +27497,7 @@ Da-mo, nothing to add except to say I've done BOTH of those options before!
 
 You might want to go an search my name and the cryptochrome CRY2. This is how coral do it. It is their primitive eye and humans have the same gene. This is how I knew we came from hydrothermal vents and our evolution was tied to iron and sulfur chemistry.........it is also why you have not conquered your disease..........but if you stick with me I think you'll be pleased where this ride goes. Corals use it for their eyes, and your cytochromes use it for "their eyes" to augment what your real eyes and skin tell it to, in order to sense the seasons your in by way of your gut. Corals are a Nissan Sentra and you are a Ferrari with newer upgrades to the navigation system of biology
 
-### patgrif@hotmail.com — 2015-01-08T02:49:01+0200
+### [email redacted] — 2015-01-08T02:49:01+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-152037>
 
 > [Jack Kruse said:](/goto/post?id=152036)
@@ -27518,7 +27518,7 @@ In 2007, I learned about researchers who tried to find out how coral did it and 
 >
 > You might want to go an search my name and the cryptochrome CRY2. This is how coral do it. It is their primitive eye and humans have the same gene. This is how I knew we came from hydrothermal vents and our evolution was tied to iron and sulfur chemistry.........it is also why you have not conquered your disease..........but if you stick with me I think you'll be please where this ride goes. Corals use it for their eye and your cytochromes use it for their eyes to sense the seasons your in by way of your gut.
 
-> [patgrif@hotmail.com said:](/goto/post?id=152037)
+> [[email redacted] said:](/goto/post?id=152037)
 >
 > Thanks so much Dr Kruse, I feel in good hands and I have my T2D but also my PTSD (as I think of it or say for shorthand) . A lot there un-fortunatly
 
@@ -27773,7 +27773,7 @@ It's almost like the Universe dreams together on a specific frequency, and seeks
 
 this is starting to get towards the cosmic consciousness i have been hinting at, that was given some airtime in the webinar with erwan (albeing drug induced glimpses)
 
-### patgrif@hotmail.com — 2015-01-13T10:10:14+0200
+### [email redacted] — 2015-01-13T10:10:14+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-13-is-live-and-ready-for-you-comments.12507/post-152617>
 
 > [yewwei.tan said:](/goto/post?id=152610)
@@ -31937,7 +31937,7 @@ If you want to change things, then finish early start early. Innovators know tha
 
 and to me! Welcome Graeme! i am just the "everyday member" on this forum. I am a woman as well, women like to transform science to what they know best - the world od feelings and emotions. That is what I found as well so good abpit the tensegrity series. There is a lot of wisdom from this "pot". I would say that despite we may get too "ordinary" in our discussions here often, there is a lot of work, dedication, sharing and so much more behind anyone who is regulary part of this forum. I may sound vain now, but I believe we may give and be a motivation for many people around us, because many people here are living extraordinary stories of their own evolution (heath-wise and personality-wise). However revolutionary and usefull is everything JK is giving for free, without "a real people and a real stories" the impact would never really hit where it is (I firmly believe) targeted - to change the concept of health and wellness and to lead people on the right track. There is no way anyone will fix your health, just you can really, and for most of the people this blog and forum is not really accesible from variety of reasons, and this makes anyone who is here capable to spread what he learnt and speed up the revolution coming our way I hope soon enough. Behind every revolution there are always few great brains, but it is the "ordinary people" who make it happen by the power of believe and quantity.
 
-### patgrif@hotmail.com — 2015-01-27T15:43:07+0200
+### [email redacted] — 2015-01-27T15:43:07+0200
 **Source:** <https://forum.jackkruse.com/threads/greetings-from-a-long-term-lurker.12553/post-153993>
 
 Personally I have found the "discussions of finding the source of consciousness" very interesting even as it can be frustrating at times also. One can have too many exotic drawings of bar magnets etc............but I think it is important not to decide to rule out such discussions. The human mind naturally goes "deep" and 'movements' that rule out thinking or talking about such things usually constrain themselves in some way that shows up later as an important omission. Nothing should be 'taboo' and the way I see it at least so much 'thinking' by ruling out 'deep' questions (even if we easily don't find answers) short change themselves. Medicine itself is I think an example of that..............Dr K last winter talked a lot about how medicine just could not consider a lot of discoveries in physics and kind of put it all to the side and started filling out the crossword in a way that seemed "good enough" at the time but is now shown not to be good enough.....................
@@ -32743,12 +32743,12 @@ I joined the optimal reset 2015 but it was like $159 for Silver.
 
 Bronze membership is free. The reset is not. It is cheaper for other members.
 
-### patgrif@hotmail.com — 2015-01-09T04:54:54+0200
+### [email redacted] — 2015-01-09T04:54:54+0200
 **Source:** <https://forum.jackkruse.com/threads/the-jigsaw.12556/post-152190>
 
 I am a bit confused now. I did not join the Optimal Reset because well I caught all of these speakers last year so don't feel I want to do it again. But about the Webinar "The Science behind Magnetism" I & 2? Are those ONLY available if I join the Optimal Reset or do I get them anyway being a Gold Member? I don't want to miss those so would appreciate if someone can clear this up. If the only way to get them was to join I would or is it too late to do that?
 
-### patgrif@hotmail.com — 2015-01-09T05:16:04+0200
+### [email redacted] — 2015-01-09T05:16:04+0200
 **Source:** <https://forum.jackkruse.com/threads/the-jigsaw.12556/post-152192>
 
 > [yewwei.tan said:](/goto/post?id=152058)
@@ -32778,7 +32778,7 @@ Anyway my question is if you care to or have the time to answer what did you not
 
 I h
 
-> [patgrif@hotmail.com said:](/goto/post?id=152190)
+> [[email redacted] said:](/goto/post?id=152190)
 >
 > I am a bit confused now. I did not join the Optimal Reset because well I caught all of these speakers last year so don't feel I want to do it again. But about the Webinar "The Science behind Magnetism" I & 2? Are those ONLY available if I join the Optimal Reset or do I get them anyway being a Gold Member? I don't want to miss those so would appreciate if someone can clear this up. If the only way to get them was to join I would or is it too late to do that?
 
@@ -32787,7 +32787,7 @@ have added new videos to this years reset.........I cut out the ones I thought w
 ### yewwei.tan — 2015-01-09T07:09:42+0200
 **Source:** <https://forum.jackkruse.com/threads/the-jigsaw.12556/post-152199>
 
-> [patgrif@hotmail.com said:](/goto/post?id=152192)
+> [[email redacted] said:](/goto/post?id=152192)
 >
 > Anyway my question is if you care to or have the time to answer what did you notice that improved. You have said more than once in Melbourne almost no matter what you did it was not enough (kind of how I feel about living in LA now) but what exactly or as close to 'exactly' was the difference. I pretty much have decided to move to Ireland but to make myself more solid and commited about my decision I want to know as much as possible and it seems you have experience of both and you have such a great brain I want to 'borrow' it for a minute if you can.............
 
@@ -32807,7 +32807,7 @@ Then slowly over the next 8 weeks, I saw improvements to hand and foot collagen,
 
 More generically, I think it's helpful to have anywhere from 2-3 important qualitative metrics of your disease state, and track those closely after you make a move.
 
-For me, it was the bristol score, and general waist and weight measurements (the most accurate measure of "bloat" for myself). For @[patgrif@hotmail.com](mailto:patgrif@hotmail.com) , it's probably a good thing to track sleep, and perhaps stuff related to T2D like blood glucose (especially after-meal glucose readings).
+For me, it was the bristol score, and general waist and weight measurements (the most accurate measure of "bloat" for myself). For @[[email redacted]](mailto:[email redacted]) , it's probably a good thing to track sleep, and perhaps stuff related to T2D like blood glucose (especially after-meal glucose readings).
 
 And of course, trust your instinct to a certain degree. Implement the protocols, move to a good place, and track how you feel on a consistent basis.
 
@@ -32816,13 +32816,13 @@ And of course, trust your instinct to a certain degree. Implement the protocols,
 ### caroline — 2015-01-09T07:21:45+0200
 **Source:** <https://forum.jackkruse.com/threads/the-jigsaw.12556/post-152200>
 
-> [patgrif@hotmail.com said:](/goto/post?id=152190)
+> [[email redacted] said:](/goto/post?id=152190)
 >
 > I am a bit confused now. I did not join the Optimal Reset because well I caught all of these speakers last year so don't feel I want to do it again. But about the Webinar "The Science behind Magnetism" I & 2? Are those ONLY available if I join the Optimal Reset or do I get them anyway being a Gold Member? I don't want to miss those so would appreciate if someone can clear this up. If the only way to get them was to join I would or is it too late to do that?
 
 Hi Patrick ..... I was wondring the same thing......
 
-### patgrif@hotmail.com — 2015-01-09T15:25:22+0200
+### [email redacted] — 2015-01-09T15:25:22+0200
 **Source:** <https://forum.jackkruse.com/threads/the-jigsaw.12556/post-152213>
 
 > [yewwei.tan said:](/goto/post?id=152199)
@@ -32843,7 +32843,7 @@ Hi Patrick ..... I was wondring the same thing......
 >
 > More generically, I think it's helpful to have anywhere from 2-3 important qualitative metrics of your disease state, and track those closely after you make a move.
 >
-> For me, it was the bristol score, and general waist and weight measurements (the most accurate measure of "bloat" for myself). For @[patgrif@hotmail.com](mailto:patgrif@hotmail.com) , it's probably a good thing to track sleep, and perhaps stuff related to T2D like blood glucose (especially after-meal glucose readings).
+> For me, it was the bristol score, and general waist and weight measurements (the most accurate measure of "bloat" for myself). For @[[email redacted]](mailto:[email redacted]) , it's probably a good thing to track sleep, and perhaps stuff related to T2D like blood glucose (especially after-meal glucose readings).
 >
 > And of course, trust your instinct to a certain degree. Implement the protocols, move to a good place, and track how you feel on a consistent basis.
 >
@@ -32851,7 +32851,7 @@ Hi Patrick ..... I was wondring the same thing......
 
 Thanks Yew................that makes a lot of sense. Interestingly too I am quite a bit ADD here would like to have better concentration and ability to 'calm down and read' and write. Health is tricky it seems sometimes if just one element is missing it can kind of hold up everything. Of course often more than one is missing but it feels good to kind of slowly eliminate as much as possible and I tend to believe living in LA is now one of the majors. But I am living near the beach I CT every other day etc.............it could be 'worse' but that's probably not good enough..............
 
-### patgrif@hotmail.com — 2015-01-09T15:27:30+0200
+### [email redacted] — 2015-01-09T15:27:30+0200
 **Source:** <https://forum.jackkruse.com/threads/the-jigsaw.12556/post-152214>
 
 > [caroline said:](/goto/post?id=152200)
@@ -32973,7 +32973,7 @@ Houston, Texas 77072
 800.227.5227 (toll-free)
 713.621.3101 (local)
 713.621.3234 (fax)
-[spec1@spectracell.com](mailto:spec1@spectracell.com) (e-mail)
+[[email redacted]](mailto:[email redacted]) (e-mail)
 \---------------------------------------
 I am not a doctor and do not have any affiliation with Spectracel.
 But I use it myself.
@@ -34835,7 +34835,7 @@ Anyway, I am also through with the victim blaming.
 
 I cannot possibly put all of my reasoning out there and don't feel the need to, but I still thank you for showing such kindness and compassion for the most part.
 
-### patgrif@hotmail.com — 2015-01-10T17:20:04+0200
+### [email redacted] — 2015-01-10T17:20:04+0200
 **Source:** <https://forum.jackkruse.com/threads/conflicting-advice-regarding-timing-of-blueblocker-use.12559/post-152338>
 
 > [Inger said:](/goto/post?id=152310)
@@ -34892,7 +34892,7 @@ I apologize for that.
 ### Inger — 2015-01-10T23:26:46+0200
 **Source:** <https://forum.jackkruse.com/threads/conflicting-advice-regarding-timing-of-blueblocker-use.12559/post-152357>
 
-> [patgrif@hotmail.com said:](/goto/post?id=152338)
+> [[email redacted] said:](/goto/post?id=152338)
 >
 > Inger - I like the way you say "the boyfriend" In Ireland where I grew up people would talk like that all the time "the wife" "the uncle" "the girl-friend" etc etc. People here in the US NEVER talk like that and as I remember even in the UK they did not. I thought it was ONLY an Irish thing and then I see you using it. Funny.............sounds cool thought
 
@@ -35885,7 +35885,7 @@ There's no question aliens are the superior beings. Why is Earth of importance? 
 .
 .
 
-### patgrif@hotmail.com — 2015-01-14T07:51:33+0200
+### [email redacted] — 2015-01-14T07:51:33+0200
 **Source:** <https://forum.jackkruse.com/threads/january-2015-webinar.12595/post-152714>
 
 I can't seem to access the Webinar, throws me to a Facebook page and then no can do. Also can access any webinars from the 'usual place' where they ALL were now there are not any....................
@@ -36428,14 +36428,14 @@ In that sense, I think more time for the SCN+PVN relative to the rest of the bod
 
 YEs...........and it is buried in the CT protocol.
 
-### patgrif@hotmail.com — 2015-01-16T05:33:52+0200
+### [email redacted] — 2015-01-16T05:33:52+0200
 **Source:** <https://forum.jackkruse.com/threads/january-2015-webinar.12595/post-152967>
 
 Is it correct to say the 'mechanism' for a lot of the 'light dysfunction' (releasing the 'wrong' kind of light, problems with 'speed' etc) is mis-folded proteins. And does that become a kind of 'chicken and egg' problem the mis-folded proteins direct light improperly which leads to more mis-folded proteins etc. I remember your Rx for this.............deep sleep, exercise and intermittent fasting. I 'try' all of these but again can be a chicken and egg problem, deep sleep does not always happen, intermittent fasting I can't seem to do and I don't want to 'force' it. Right now I eat typically twice a day and kind of look forward to maybe once a day. But I can't imagine 'fasting' I feel too tied to food...............
 
 As a T2D I am wondering how all this impacts also...............Dr K somewhere said T2D was an example of where the liver released too much blue light. Also you speak of the different circadian clocks of the different organs (liver, pancreas etc) Do you care to comment a bit more on these two subjects? You have dropped some big 'bread crumbs' about T2D I still think a full blog post on this topic could be very useful along the lines of the blog post on MS. When you have the time and you feel it to be appropriate..............
 
-### patgrif@hotmail.com — 2015-01-16T06:20:24+0200
+### [email redacted] — 2015-01-16T06:20:24+0200
 **Source:** <https://forum.jackkruse.com/threads/january-2015-webinar.12595/post-152975>
 
 This feels like a somewhat 'stupid' question...............but I was wondering can and does the body 'change' the frequency of light. In other words can or does a body say full of mis-folded proteins 'change' the frequency of light within it? Or how about a 'normal' body? If we are 'blue light toxic' is that a function of absorbing or being exposed to too much blue light or can or does the body 'convert' lower frequency light to higher frequency and vica versa (change higher frequency light to say IR light). Sort of a basic question I am not clear on.
@@ -38996,7 +38996,7 @@ Even better - communication by entanglement - faster than light (seemingly insta
 
 how large does the amethyst need to be?...this is my interest too...
 
-### patgrif@hotmail.com — 2015-01-17T09:40:39+0200
+### [email redacted] — 2015-01-17T09:40:39+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-14-comments-are-now-welcome.12628/post-153118>
 
 > [BTA said:](/goto/post?id=153026)
@@ -39583,7 +39583,7 @@ Here is mitogenetic radiations from light work
 
 My summary from OSF 1 and this blog. FIAF created from scarcity singal > scarcity signal created by fasting or poor food mastication leading to less food in the small intestine and more in the large intestine (small intestine creates FIAF) > subcutaneous fat production and NOT visceral by blocking of LPL > ketosis then burns FFA from subcutaneous fat into mitochondria oxidation or myelination.
 
-### patgrif@hotmail.com — 2015-01-24T05:49:29+0200
+### [email redacted] — 2015-01-24T05:49:29+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-14-comments-are-now-welcome.12628/post-153738>
 
 Some 'simple' questions.............you mention bacteria in the gut living in the dark and without oxygen. This I suppose re-capitulates their evolutionary history of having evolved in the dark and deep an-aerobic oceans. I am wondering though a bit about viruses. Do we have lots of viruses also in our gut? After all it seems that you are saying it is from the viruses that we 'borrow' DNA to 'cut and paste' and put it into our own DNA so that would suggest we do.
@@ -39637,7 +39637,7 @@ at least they give wonderful energy  Just had a huge one a few hours back! Uh oh
 I ate quite a bit of snow on my walk in the woods today.... no wild edibles... everything was buried under snow... it was sunny.. and i thought I might get some biophotons from the snow as well
 so i ate and ate... it felt very good!
 
-### patgrif@hotmail.com — 2015-01-24T21:41:51+0200
+### [email redacted] — 2015-01-24T21:41:51+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-14-comments-are-now-welcome.12628/post-153778>
 
 > [Jack Kruse said:](/goto/post?id=153746)
@@ -39734,7 +39734,7 @@ you should get something like this made with amethyst yew
 > 2\. **How biophotons are produced?** The proposed mechanism based on oxidative stress does not explain coherence nor the reported communication and control function.
 > 3\. **How do biophotons or more fundamental entities relate to biology** in general and specifically to metabolism, to neuroscience, to certain findings of Gariaev’s group \[I10\], to Becker’s DC currents \[J5\] and the related TGD inspired model discussed in \[L1\]? **Could biophotons relate to vision and imagination**? Bischof \[J6\] and Bokkon et al \[J27, J13, J8, J14, J7\] have made several proposals in this respect. **What is behind the correlation between EEG and biophotons** (for which multiple sources of evidence exist - \[J4, J19, J16\] - or that between the changes in biophoton emission in meditative \[J9\] and qigong practices \[J12, J21, J23, J22\]? What about remote mental interactions, which are natural and ubiquitous if TGD-inspired biology is accepted: **could biophotons or more fundamental entities provide a control and communication tool**?
 
-### patgrif@hotmail.com — 2015-02-07T11:06:49+0200
+### [email redacted] — 2015-02-07T11:06:49+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-14-comments-are-now-welcome.12628/post-154954>
 
 > [Jack Kruse said:](/goto/post?id=153745)

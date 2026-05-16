@@ -7361,7 +7361,7 @@ Some studies have shown that wireless devices might interfere with implanted car
 Consumer Help Center
 For more information on consumer issues, visit the FCC’s Consumer Help Center at [https://consumercomplaints.fcc.gov/](https://consumercomplaints.fcc.gov/)
 Accessible formats
-To request this article in an accessible format - braille, large print, Word or text document or audio - write or call us at the address or phone number at the bottom of the page, or send an email to [fcc504@fcc.gov](mailto:fcc504@fcc.gov).
+To request this article in an accessible format - braille, large print, Word or text document or audio - write or call us at the address or phone number at the bottom of the page, or send an email to [[email redacted]](mailto:[email redacted]).
 Print Out
 Wireless Devices and Health Concerns Guide (pdf)
 Date Last Updated/Reviewed:
@@ -7927,7 +7927,7 @@ I'm in the UK and have finally managed to get my prescription glasses tinted wit
 (no antiscratch and no UV protection) .
 ASDA (part of Walmart) did this for me, they used a company called TANT
 (you'll have to tell ASDA this).
-To do the tint I used SPECTRUM in Manchester 0161 203 9000, [info@sdlenses.co.uk](mailto:info@sdlenses.co.uk), ask for Billy. They were great, really helpful.
+To do the tint I used SPECTRUM in Manchester 0161 203 9000, [[email redacted]](mailto:[email redacted]), ask for Billy. They were great, really helpful.
 It'll cost about £7.50 recorded delivery to send a pair.
 They'll tint and return them for £30.00.
 You can send an old pair with your lens prescription and they will supply the lens as well (this will cost extra)
@@ -14121,7 +14121,7 @@ Hey Benny! It's good to see that a like-minded person lives here in the LA area 
 >
 > Hey Benny! It's good to see that a like-minded person lives here in the LA area too. I live in Inglewood which is not too far from Santa Monica. Yeah, I imagine some of my neighbors, friends, and family probably think I'm crazy for doing some of the mitigation strategies, so meeting like-minded people is always great.
 
-Hey Alex, let's meet up and talk shop sometime. You can email me at [benny.hammond@gmail.com](mailto:benny.hammond@gmail.com)
+Hey Alex, let's meet up and talk shop sometime. You can email me at [[email redacted]](mailto:[email redacted])
 
 ### Dean6789 — 2017-09-19T00:08:35+0300
 **Source:** <https://forum.jackkruse.com/threads/greetings-from-los-angeles.18094/post-223940>
@@ -14457,14 +14457,14 @@ Well get on it then Randy.
 >
 > May I enquire your "rates" and dates so I can work out the logistics? Thank you.
 
-I have a bedroom upstairs for two (couples or two members).......from Thursday to Sunday. You'll have unfettered access to me while here. You can bring your labs and questions and when everyone else is doing NOLA you'll have me for a better part of the day to ask your questions. It won't include food.......but I always have wine and water available for 2500 for two. First one that sends the email confirmation and cash to [skruse613@gmail.com](mailto:skruse613@gmail.com)
+I have a bedroom upstairs for two (couples or two members).......from Thursday to Sunday. You'll have unfettered access to me while here. You can bring your labs and questions and when everyone else is doing NOLA you'll have me for a better part of the day to ask your questions. It won't include food.......but I always have wine and water available for 2500 for two. First one that sends the email confirmation and cash to [[email redacted]](mailto:[email redacted])
 
 ### lohd2015 — 2016-07-09T22:38:40+0300
 **Source:** <https://forum.jackkruse.com/threads/nola-quantum-halloween-meetup-2016.18103/post-198152>
 
 > [Jack Kruse said:](/goto/post?id=198150)
 >
-> I have a bedroom upstairs for two (couples or two members).......from Thursday to Sunday. You'll have unfettered access to me while here. You can bring your labs and questions and when everyone else is doing NOLA you'll have me for a better part of the day to ask your questions. It won't include food.......but I always have wine and water available for 2500 for two. First one that sends the email confirmation and cash to [skruse613@gmail.com](mailto:skruse613@gmail.com)
+> I have a bedroom upstairs for two (couples or two members).......from Thursday to Sunday. You'll have unfettered access to me while here. You can bring your labs and questions and when everyone else is doing NOLA you'll have me for a better part of the day to ask your questions. It won't include food.......but I always have wine and water available for 2500 for two. First one that sends the email confirmation and cash to [[email redacted]](mailto:[email redacted])
 
 Thank you.
 
@@ -19179,7 +19179,7 @@ Probably wait a bit .....and if you are still having a problem please contact su
 ### Jack Kruse — 2016-07-15T03:02:13+0300
 **Source:** <https://forum.jackkruse.com/threads/i-have-upgraded-to-paid-member-but-how-do-i-post.18157/post-198376>
 
-[info@jackkruse.com](mailto:info@jackkruse.com) Right now we are away in Yellowstone and we have very limited access.
+[[email redacted]](mailto:[email redacted]) Right now we are away in Yellowstone and we have very limited access.
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -25603,7 +25603,7 @@ He says PM him on FB
 ### MohawkSteel — 2016-08-03T21:09:50+0300
 **Source:** <https://forum.jackkruse.com/threads/jeremy-just-made-me-epi-paleo-rx-wine-glasses-by-glass-blowing.18247/post-199261>
 
-YAY!!! Ha what an awesome story has evolved You ready? So 4 years ago I started blowing Anthem lung Sculptures with Daniel Bell who actually "knows" how to blow glass- like he was classically trained at a University. I fell in love with the techniques of touching molten glass, the tools, the rules, the lack of rules. Its chaotic and beautiful on a scale that big its always slightly out of control. Timing is everything and excitement covers you like the heat from the furnace. We forget to eat and just pound water and dance as we make what we had in our heads. So... I always wanted a glass blowing setup in my shop, entertaining is a really fun part of art. So I bought a beautiful portable glass furnace, this state of the art jewel is so efficient and cooks such good glass that we no longer have to pay $50 an hour to rent a studio to blow in. Costs are lower so we can sell our work right on the farm hot out of the kiln to people who saw it being born! My shop is the only functioning hot shop in Mississippi! It is surrounded by Christmas Trees and big ideas. There are CT tanks full of ice and a bonfire on the nights we blow where our little community gathers and spins fire and makes food. My goal is to ENTANGLE all my favorite things into my work so the glass has more power, it has so much flavor before a drop of wine even hits the rocking bottom that you KNOW it was made with love and by hands who have spent thousands of hours learning a craft. Now... I myself am an assistant glassblower, the ring master of the misfits in this circus This is the first batch of our stemless wine rockers, some have these sweet little starfish stamps on the bottom to celebrate the sharing of our passions. We want to share ours with you, the more you learn from Jack the more wine you will need to drink: the more creative you will need to be to hit the moving target that is quantum wellness. We are all in this together and we might as well share as much as we can. I am excited to have the means to make one of a kind vessels to hold your liquid sunshine. We will get back to work in October, its really hot here! Place your orders on Facebook, through the forum, my gmail is the most sure way to get something on time. [JeremyThomley@gmail.com](mailto:JeremyThomley@gmail.com), Call me if you want.. 601.467.6959 If you live in Mallorca I will ship them If you live next to great rock climbing I might bring them to you
+YAY!!! Ha what an awesome story has evolved You ready? So 4 years ago I started blowing Anthem lung Sculptures with Daniel Bell who actually "knows" how to blow glass- like he was classically trained at a University. I fell in love with the techniques of touching molten glass, the tools, the rules, the lack of rules. Its chaotic and beautiful on a scale that big its always slightly out of control. Timing is everything and excitement covers you like the heat from the furnace. We forget to eat and just pound water and dance as we make what we had in our heads. So... I always wanted a glass blowing setup in my shop, entertaining is a really fun part of art. So I bought a beautiful portable glass furnace, this state of the art jewel is so efficient and cooks such good glass that we no longer have to pay $50 an hour to rent a studio to blow in. Costs are lower so we can sell our work right on the farm hot out of the kiln to people who saw it being born! My shop is the only functioning hot shop in Mississippi! It is surrounded by Christmas Trees and big ideas. There are CT tanks full of ice and a bonfire on the nights we blow where our little community gathers and spins fire and makes food. My goal is to ENTANGLE all my favorite things into my work so the glass has more power, it has so much flavor before a drop of wine even hits the rocking bottom that you KNOW it was made with love and by hands who have spent thousands of hours learning a craft. Now... I myself am an assistant glassblower, the ring master of the misfits in this circus This is the first batch of our stemless wine rockers, some have these sweet little starfish stamps on the bottom to celebrate the sharing of our passions. We want to share ours with you, the more you learn from Jack the more wine you will need to drink: the more creative you will need to be to hit the moving target that is quantum wellness. We are all in this together and we might as well share as much as we can. I am excited to have the means to make one of a kind vessels to hold your liquid sunshine. We will get back to work in October, its really hot here! Place your orders on Facebook, through the forum, my gmail is the most sure way to get something on time. [[email redacted]](mailto:[email redacted]), Call me if you want.. 601.467.6959 If you live in Mallorca I will ship them If you live next to great rock climbing I might bring them to you
 
 ### Marbear — 2016-08-03T23:51:19+0300
 **Source:** <https://forum.jackkruse.com/threads/jeremy-just-made-me-epi-paleo-rx-wine-glasses-by-glass-blowing.18247/post-199271>
@@ -37056,7 +37056,7 @@ I did google her name - Vanese MacNeil - but can't come come up with anything. S
 **Source:** <https://forum.jackkruse.com/threads/jack-kruse-the-quilt-podcast-of-audio-blogs.18444/post-296899>
 
 She is a constant in my ClubHouse rooms. Vanese is her name.
-[vanese@magicalegypt.com](mailto:vanese@magicalegypt.com) is her email
+[[email redacted]](mailto:[email redacted]) is her email
 
 ### caroline — 2021-04-06T01:23:26+0300
 **Source:** <https://forum.jackkruse.com/threads/jack-kruse-the-quilt-podcast-of-audio-blogs.18444/post-296916>
@@ -37064,7 +37064,7 @@ She is a constant in my ClubHouse rooms. Vanese is her name.
 > [Jack Kruse said:](/goto/post?id=296899)
 >
 > She is a constant in my ClubHouse rooms. Vanese is her name.
-> [vanese@magicalegypt.com](mailto:vanese@magicalegypt.com) is her email
+> [[email redacted]](mailto:[email redacted]) is her email
 
 thanks
 
@@ -39905,7 +39905,7 @@ Programs addressing the needs of adults with autism including employment, housin
 ### Jack Kruse — 2016-09-30T02:31:11+0300
 **Source:** <https://forum.jackkruse.com/threads/my-last-public-speaking-opportunity-of-2016.18491/post-202101>
 
-My former dental school classmate is hosting a dinner at the Culinary Institute the night before the event........so if you want to try to get in contact John Sorrentino at [dentalque@aol.com](mailto:dentalque@aol.com)
+My former dental school classmate is hosting a dinner at the Culinary Institute the night before the event........so if you want to try to get in contact John Sorrentino at [[email redacted]](mailto:[email redacted])
 
 ### Josh Rosenthal — 2016-09-30T16:07:23+0300
 **Source:** <https://forum.jackkruse.com/threads/my-last-public-speaking-opportunity-of-2016.18491/post-202121>
@@ -42003,7 +42003,7 @@ I thought I would try the cryotherapy sauna since I got a very good deal, but it
 **Subforum:** The EMF Rx
 **Posts:** 7
 ══════════════════════════════════════════════════════════════════════
-### joangtaylor@gmail.com — 2016-10-05T00:48:27+0300
+### [email redacted] — 2016-10-05T00:48:27+0300
 **Source:** <https://forum.jackkruse.com/threads/effect-of-magnetico-on-emf-fields.18527/post-202289>
 
 I have a 20 gauss Magnetico under my mattress. On my Trimeter, I'm seeing readings of 5 gauss around my pillow, and 10 gauss on the floor near the head of my bed (there's a smart meter on the outside of my house, on the wall below my 2nd-floor bedroom). Would the Magnetico mitigate, at least in part, the harmful effects of the EMF fields showing up on the Trimeter?

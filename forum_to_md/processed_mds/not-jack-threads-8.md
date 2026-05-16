@@ -39794,7 +39794,7 @@ Looking forward to connecting in Mexico. And looking forward to feeling better!!
 >
 > Looking forward to connecting in Mexico. And looking forward to feeling better!!
 
-Thank you Laurie. If you're interested in further dialogue, please feel free to email me at [anniedru@lardmouth.com](mailto:anniedru@lardmouth.com). I'd love to swap stories/solutions.
+Thank you Laurie. If you're interested in further dialogue, please feel free to email me at [[email redacted]](mailto:[email redacted]). I'd love to swap stories/solutions.
 
 ### Louise Roux — 2019-12-03T20:00:13+0200
 **Source:** <https://forum.jackkruse.com/threads/ready-to-relocate-to-playa-del-carmen.22046/post-283047>
@@ -47180,7 +47180,7 @@ Can somebody guide me how? Thanks
 ### Ski coach — 2018-12-04T02:03:41+0200
 **Source:** <https://forum.jackkruse.com/threads/ask-jack-forum-section.22602/post-257209>
 
-[support@jackkruse.com](mailto:support@jackkruse.com)
+[[email redacted]](mailto:[email redacted])
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -48003,13 +48003,13 @@ Sounds like a good plan. Also check out MMS or chlorine dioxide if you can get i
 Genesis II Church BC255 NZ.
 Bishop Roger Blake
 7 McMillan St, Ngatea 3503, Waikato, New Zealand
-[info@miraclemineral.co.nz](mailto:info@miraclemineral.co.nz)
+[[email redacted]](mailto:[email redacted])
 07 8677275
 
 Genesis II Church BC252 NZ.
 Bishop Paul Graham Kirk
 82 Dorset street, Kingston, Otago, New Zealand
-[paul@astressfreeday.com](mailto:paul@astressfreeday.com)
+[[email redacted]](mailto:[email redacted])
 21 66 99 45
 
 ### axel brandt — 2019-03-19T18:52:06+0200

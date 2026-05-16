@@ -1420,7 +1420,7 @@ I know mallow makes horses colic now I understand why
 > Hydrogen isotope values of Korean beef ranged from −133‰ to −103‰ VSMOW, samples from the USA showed a variation from −113‰ to −101‰, Mexican beef had an _δ_2H variation from −104 to −102‰, Australian beef from −95 to −79‰ and New Zealand beef from −121‰ to −104‰ ([Figs. 2 and 4](http://www.sciencedirect.com/science/article/pii/S0308814609014216#fig2)).
 
 I got email from:
-[info@cignaturehealth.com](mailto:info@cignaturehealth.com)
+[[email redacted]](mailto:[email redacted])
 
 Re: New Message (sent by contact form at Preventa)
 
@@ -1520,7 +1520,7 @@ Edit : I see a need for a quantum barman specialising in water cocktails
 > [JanSz said:](/goto/post?id=229363)
 >
 > I got email from:
-> [info@cignaturehealth.com](mailto:info@cignaturehealth.com)
+> [[email redacted]](mailto:[email redacted])
 >
 > Re: New Message (sent by contact form at Preventa)
 >
@@ -2720,7 +2720,7 @@ What is a good strategy for apple cider vinegar? A tbsp. taken with meals dilute
 
 I do lemons and limes. I want real C to help my matrix. This is why anytime you see me drinking water I am ordering lemon or lime.
 
-### gcnorbury@gmail.com — 2017-12-07T19:48:22+0200
+### [email redacted] — 2017-12-07T19:48:22+0200
 **Source:** <https://forum.jackkruse.com/threads/deuterium-in-foods.20423/post-229738>
 
 Jack, this deuterium story that you're laying-out is just stunning. I have learnt many things from your teaching over the last 5 years, but this is your most exceptional work to date.
@@ -2789,7 +2789,7 @@ If this has already been covered elsewhere please give me the link but does anyo
 ### Jack Kruse — 2017-12-08T03:19:09+0200
 **Source:** <https://forum.jackkruse.com/threads/deuterium-in-foods.20423/post-229762>
 
-> [gcnorbury@gmail.com said:](/goto/post?id=229738)
+> [[email redacted] said:](/goto/post?id=229738)
 >
 > Jack, this deuterium story that you're laying-out is just stunning. I have learnt many things from your teaching over the last 5 years, but this is your most exceptional work to date.
 > Thank you.
@@ -2817,7 +2817,7 @@ DDW is always good. The addition of lemons and lime I dont do past sunset
 ### Jack Kruse — 2017-12-08T03:22:50+0200
 **Source:** <https://forum.jackkruse.com/threads/deuterium-in-foods.20423/post-229765>
 
-> [gcnorbury@gmail.com said:](/goto/post?id=229738)
+> [[email redacted] said:](/goto/post?id=229738)
 >
 > Jack, this deuterium story that you're laying-out is just stunning. I have learnt many things from your teaching over the last 5 years, but this is your most exceptional work to date.
 > Thank you.
@@ -3546,7 +3546,7 @@ PO Box 2018
 Gladstone Park 3043
 Australia
 Telephone: +61 3 8307 5222
-E-mail: [sales@humidiflyer.com](mailto:sales@humidiflyer.com)
+E-mail: [[email redacted]](mailto:[email redacted])
 skype: humidiflyer
 
 The
@@ -4193,7 +4193,7 @@ Aquafina comes from Los Angeles Municipal Water - aka sewage water that's been r
 [http://www.lacsd.org/waterreuse/AboutRecycledWater.asp](http://www.lacsd.org/waterreuse/AboutRecycledWater.asp)
 .
 
-### gcnorbury@gmail.com — 2017-12-20T00:16:15+0200
+### [email redacted] — 2017-12-20T00:16:15+0200
 **Source:** <https://forum.jackkruse.com/threads/deuterium-in-foods.20423/post-230706>
 
 I have watched the Nov, Dec and Jan webinar and I think I understand the deuterium story, but not yet watched tge CT talk. I would like to try to explain it in my own words as it helps my understanding, but it's tough to find an audience capable of listening except on here.
@@ -8774,7 +8774,7 @@ Seems like Jack read the last posts: [https://www.patreon.com/posts/cpc-1...Q.qR
 This post is for people who read what @[Jack Kruse](https://forum.jackkruse.com/members/1031/) posts on patreon.
 
 Recently from I got from
-[support@jackkruse.com](mailto:support@jackkruse.com)
+[[email redacted]](mailto:[email redacted])
 
 Hello Everyone! { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
@@ -20823,7 +20823,7 @@ I wonder how long it will take?
 
 [https://www.livescience.com/64490-weird-light-ring.html](https://www.livescience.com/64490-weird-light-ring.html)
 
-### gcnorbury@gmail.com — 2019-01-16T12:35:24+0200
+### [email redacted] — 2019-01-16T12:35:24+0200
 **Source:** <https://forum.jackkruse.com/threads/after-9-months.20448/post-260476>
 
 > [Jack Kruse said:](/goto/post?id=260456)
@@ -20895,7 +20895,7 @@ So no doppler effect ? At cosmic and small scale
 ### Jack Kruse — 2019-01-16T22:20:27+0200
 **Source:** <https://forum.jackkruse.com/threads/after-9-months.20448/post-260546>
 
-> [gcnorbury@gmail.com said:](/goto/post?id=260476)
+> [[email redacted] said:](/goto/post?id=260476)
 >
 > I have a feeling that this is going to be really important in order to understand where Jack's going next.
 
@@ -32643,17 +32643,17 @@ This also explains whilst sleeping on the Magnetico the importance of pre-loadin
 ''This is a high level science talk. So it may overwhelm some of you. **But deuterium is fundamentally a story tied to magnetic fields because its magnetic moment is very different than H+ is and our mitochondria is where our mangeitc fields are generated by humans in our organs to different degrees.** That field is linked to metabolic rate of those tissues and how much deuterium is present in them. **One of the most pervasive and mysterious phenomena in the universe is magnetism.** What is more mysterious is how life uses it. It is among the most complex biologic phenomena in our world. As a scientist knows it, magnetism is the invisible pull that surrounds magnets, electric currents and even the electrons that circle the heart of the atom. Physicists do not wholly understand it, but they use it constantly. **Cells use it more than most could ever fathom in the matrix and TCA cycle.** I've written lists about magnetic effects in cells but none were meant to be complete. They reflect our knowledge as of today. All the hundreds of thousands of electrical devices in the modern world have fields of magnetic force coursing through them. This includes anyone reading this thread via the blue light from the screen to your retina. The electric and magnetic field in that light are altering the size and shape of things in your retina as you read to change in a way you cannot fathom. Any discovery that promises stronger or better controlled magnetism is immensely important to both practical industry and theoretical science. It is massively important for the biologic syncytium because of is reliance on H+ over deuterium. The change in the magnetic moment is how life controls growth and metabolism in careful ways. **The magnetic field we live under in acts like the circuit board for the current in our cell membranes built around the pi electron clouds of DHA in the lipid rafts. Liquid crystals (think H2O) are relatively easily aligned with electric and magnetic fields,** which is the basis of the liquid crystal display screens that come with watches, calculators, computers and computer games. Most of these changes in water are due to changes in charges on water’s hydrogen bonding network. On Earth currents move from higher voltages to lower voltages. In space they can move any way they want. This is why Maunder minimum’s and maximum's are something life below on Earth needs to pay attention too. These massive flows of energies can flow in the Birkeland currents of space until they collide with our magnetosphere. When they do sparks and a light show can result. On Earth below at the poles, water is a natural magnetic dipole. In July 2012, the Earth almost was hit by a massive energy flow according to NASA. **Water everywhere reacts to the electric and magnetic field it is placed in. This makes it the perfect chemical to imprint patterns from a magnetic field.** Magnetic hysteresis occurs in rocks and in water networks. Biology has yet to realize it, but Luc Montagnier water experiments showed it to the world a few years ago. Few realize what he showed them. This is one way we can determine patterns to organize other chemicals within a cell. **The cell membrane (DHA) is also known to play a major role in pattern determination. It is also surrounded by water in a cell. That water is DDW and not bulk water. DDW is much more fine tunned to magnetic fields. This is why the matrix makes it.** This implies that the cell membrane also has electric and magnetic effects associated with it. One way in which an external static magnetic field can affect body pattern is if a global alignment of membrane components — as a kind of phase transition brought on normally by an endogenous electric field — is involved in pattern determination. DHA inclusion in the cell membrane allows for the generation of this electric field. In this case, a weak external magnetic field (earth) could easily interact with the endogenous electric field to alter the alignment on a global scale. This is precisely what the Earth’s magnetic field does in concert with the massive electric potentials stored in cell membranes everywhere in life. The frequency of this interaction is known as the Schumann resonance. This is how a cell and the Earth’s magnetic field interact on a quantum basis. This is not metaphysical science. It is quantum mechanics at work in matter on this planet. Life uses a DC current to generate its electric fields for regeneration. It does not use an AC field discovered by Tesla. In fact, hid field disrupts all life. The power grid made by man however uses an AC current and then it is rectified before it gets into our homes as a DC current. The AC field has the ability to wreck havoc on the interaction between the magnetic and electric fields in cells because of DDW made in the matrix. Significantly, alternating magnetic fields invariably fail to produce the ‘twisted’ morphology seen in Birkland currents. AC fields produce other abnormalities in significant ways that block key aspects of cellular signaling and morphogenesis. This is especially problematic during growth and development humans. These observations are consistent with the hypothesis that static fields act via the alignment of macroscopic arrays of molecules. Alternating magnetic or electric fields are unable to achieve these effects'' **DR JK FB
 **
 
-### patgrif@hotmail.com — 2017-12-21T18:05:51+0200
+### [email redacted] — 2017-12-21T18:05:51+0200
 **Source:** <https://forum.jackkruse.com/threads/brents-magnetico-journal.20458/post-230804>
 
-I have a 20 Gauss 'long' single (2 pads 10 Gauss each) for sale. Reason is I am moving back to Ireland I hate to let it go but I have to. I live in the Los Angeles area so that would of course be the easiest option. Please leave a message, my email is [patgrif@hotmail.com](mailto:patgrif@hotmail.com) it's fine to write me there. Patrick
+I have a 20 Gauss 'long' single (2 pads 10 Gauss each) for sale. Reason is I am moving back to Ireland I hate to let it go but I have to. I live in the Los Angeles area so that would of course be the easiest option. Please leave a message, my email is [[email redacted]](mailto:[email redacted]) it's fine to write me there. Patrick
 
 ### Inger — 2017-12-21T18:11:23+0200
 **Source:** <https://forum.jackkruse.com/threads/brents-magnetico-journal.20458/post-230805>
 
 Patrick! Where have you been
 
-### patgrif@hotmail.com — 2017-12-22T18:09:03+0200
+### [email redacted] — 2017-12-22T18:09:03+0200
 **Source:** <https://forum.jackkruse.com/threads/brents-magnetico-journal.20458/post-230856>
 
 Hi Inger, nice to hear from you. No great changes from me I have just got interested in a lot of different stuff broadly in what could be called 'political' I suppose. But I am following through on Dr Kruse's 'advice' of several years ago and plan to leave Los Angeles in about a month. I am moving back to Ireland to live on the farm I grew up on. I have a physical 'challenge' also I have developed what is called 'drop foot' which is quite annoying and debilitating. Basically is a nerve problem to the point where some nerves do not 'fire' and then that causes muscle problems and so on. It's only on one leg but then I limp and then that throws my back out and then my shoulder hurts etc etc.
@@ -32665,7 +32665,7 @@ I am probably putting too much faith in the spring water but at this point it fe
 ### JanSz — 2017-12-22T23:31:36+0200
 **Source:** <https://forum.jackkruse.com/threads/brents-magnetico-journal.20458/post-230882>
 
-> [patgrif@hotmail.com said:](/goto/post?id=230856)
+> [[email redacted] said:](/goto/post?id=230856)
 >
 > Hi Inger, nice to hear from you. No great changes from me I have just got interested in a lot of different stuff broadly in what could be called 'political' I suppose. But I am following through on Dr Kruse's 'advice' of several years ago and plan to leave Los Angeles in about a month. I am moving back to Ireland to live on the farm I grew up on. I have a physical 'challenge' also I have developed what is called 'drop foot' which is quite annoying and debilitating. Basically is a nerve problem to the point where some nerves do not 'fire' and then that causes muscle problems and so on. It's only on one leg but then I limp and then that throws my back out and then my shoulder hurts etc etc.
 >
@@ -32722,7 +32722,7 @@ I'm not sure which podcast it was...maybe the New Me? I'll have to re listen to 
 ### Inger — 2018-01-05T13:29:44+0200
 **Source:** <https://forum.jackkruse.com/threads/brents-magnetico-journal.20458/post-231663>
 
-> [patgrif@hotmail.com said:](/goto/post?id=230856)
+> [[email redacted] said:](/goto/post?id=230856)
 >
 > Hi Inger, nice to hear from you. No great changes from me I have just got interested in a lot of different stuff broadly in what could be called 'political' I suppose. But I am following through on Dr Kruse's 'advice' of several years ago and plan to leave Los Angeles in about a month. I am moving back to Ireland to live on the farm I grew up on. I have a physical 'challenge' also I have developed what is called 'drop foot' which is quite annoying and debilitating. Basically is a nerve problem to the point where some nerves do not 'fire' and then that causes muscle problems and so on. It's only on one leg but then I limp and then that throws my back out and then my shoulder hurts etc etc.
 >
@@ -33704,7 +33704,7 @@ No.....you can listen to it if you just buy the webinar.
 ### Jack Kruse — 2017-11-20T01:33:00+0200
 **Source:** <https://forum.jackkruse.com/threads/cuba-for-quantum-vacation.20469/post-228448>
 
-Check the Epi paleo store or just contact support [info@jackkruse.com](mailto:info@jackkruse.com)
+Check the Epi paleo store or just contact support [[email redacted]](mailto:[email redacted])
 
 ### DLO — 2018-06-27T02:37:08+0300
 **Source:** <https://forum.jackkruse.com/threads/cuba-for-quantum-vacation.20469/post-244382>
@@ -48808,7 +48808,7 @@ You'll have to contact Patreon because I do not control the login process there.
 ### Jack Kruse — 2017-12-18T18:22:20+0200
 **Source:** <https://forum.jackkruse.com/threads/not-able-to-read-on-patreon.20593/post-230571>
 
-I would tell you if you are silver gold or plat you can ask for help via [info@jackkruse.com](mailto:info@jackkruse.com) and my team will try to make sure its not your membership login that is messed up.
+I would tell you if you are silver gold or plat you can ask for help via [[email redacted]](mailto:[email redacted]) and my team will try to make sure its not your membership login that is messed up.
 
 ### Inger — 2017-12-18T18:33:04+0200
 **Source:** <https://forum.jackkruse.com/threads/not-able-to-read-on-patreon.20593/post-230580>

@@ -1434,7 +1434,7 @@ RobH
 **Subforum:** Beginners Area
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### bugsy1950@gmail.com — 2013-05-06T18:11:41+0300
+### [email redacted] — 2013-05-06T18:11:41+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-question.6981/post-85522>
 
 I can't bend over the sink due to a lower back ache, so I started CT 3 days ago by placing an ice brick wrapped in a cloth serviette on either side of my neck
@@ -1902,7 +1902,7 @@ I brew my with a regular drip coffee pot/grinder but am super careful the coffee
 ### caroline — 2013-05-15T07:18:16+0300
 **Source:** <https://forum.jackkruse.com/threads/coffee.7032/post-86068>
 
-> [lava.locks@yahoo.com said:](/goto/post?id=86065)
+> [[email redacted] said:](/goto/post?id=86065)
 >
 > I brew my with a regular drip coffee pot/grinder but am super careful the coffee pot is mold free. I think Dave A. suggests using a press. I prefer CO over the MCT oil. I love mornings and BPC...
 
@@ -2869,12 +2869,12 @@ Grizz
 **Subforum:** Beginners Area
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### pkall1@comcast.net — 2013-05-21T02:04:52+0300
+### [email redacted] — 2013-05-21T02:04:52+0300
 **Source:** <https://forum.jackkruse.com/threads/my-first-post-labs-are-in.7115/post-86568>
 
 Apparently I should not have posted.....no responses. Wow!
 
-### pkall1@comcast.net — 2013-05-21T02:12:15+0300
+### [email redacted] — 2013-05-21T02:12:15+0300
 **Source:** <https://forum.jackkruse.com/threads/my-first-post-labs-are-in.7115/post-86570>
 
 Deleted! Maybe I should not have posted this info. Just trying to figure out how this all works.
@@ -3397,7 +3397,7 @@ Should our 30 grams of carbs be eating in the morning or the evening on the lept
 **Subforum:** Optimal Labs
 **Posts:** 7
 ══════════════════════════════════════════════════════════════════════
-### pkall1@comcast.net — 2013-05-24T17:27:32+0300
+### [email redacted] — 2013-05-24T17:27:32+0300
 **Source:** <https://forum.jackkruse.com/threads/my-first-labs.7150/post-86791>
 
 50 year old Male (5â€™8â€￾, 168 pounds) Has a small pot belly, lower portion of body is lean, arms, chest and waist show signs of very slight sagging. Currently is not on a consistent exercise regimen. Walks occasionally.
@@ -3436,7 +3436,7 @@ For one month took 25,000 IUâ€™s of Vitamin D. Currently on 10,000 and will
 
 Thank you for any insight.
 
-### pkall1@comcast.net — 2013-05-24T17:30:08+0300
+### [email redacted] — 2013-05-24T17:30:08+0300
 **Source:** <https://forum.jackkruse.com/threads/my-first-labs.7150/post-86792>
 
 Adding:
@@ -3447,7 +3447,7 @@ Sex Hormone range should be 10-50 nmol.L
 ### Dextery — 2013-05-24T21:56:58+0300
 **Source:** <https://forum.jackkruse.com/threads/my-first-labs.7150/post-86801>
 
-> [pkall1@comcast.net said:](/goto/post?id=86791)
+> [[email redacted] said:](/goto/post?id=86791)
 >
 > 50 year old Male (5’8”, 168 pounds) Has a small pot belly, lower portion of body is lean, arms, chest and waist show signs of very slight sagging. Currently is not on a consistent exercise regimen. Walks occasionally.
 >
@@ -3515,7 +3515,7 @@ Are you doing the leptin reset? Are you paying attention to light cycles? have y
 ### Shijin13 — 2013-05-25T01:20:54+0300
 **Source:** <https://forum.jackkruse.com/threads/my-first-labs.7150/post-86817>
 
-> [pkall1@comcast.net said:](/goto/post?id=86791)
+> [[email redacted] said:](/goto/post?id=86791)
 >
 > 50 year old Male (5’8”, 168 pounds) Has a small pot belly, lower portion of body is lean, arms, chest and waist show signs of very slight sagging. Currently is not on a consistent exercise regimen. Walks occasionally.
 >
@@ -3571,7 +3571,7 @@ as JanSz says "I'm not a Doctor" but I have figure out how to help myself!
 ### JanSz — 2013-05-25T02:00:29+0300
 **Source:** <https://forum.jackkruse.com/threads/my-first-labs.7150/post-86822>
 
-> [pkall1@comcast.net said:](/goto/post?id=86791)
+> [[email redacted] said:](/goto/post?id=86791)
 >
 > 50 year old Male (5’8”, 168 pounds) Has a small pot belly, lower portion of body is lean, arms, chest and waist show signs of very slight sagging. Currently is not on a consistent exercise regimen. Walks occasionally.
 >
@@ -3609,7 +3609,7 @@ as JanSz says "I'm not a Doctor" but I have figure out how to help myself!
 >
 > Thank you for any insight.
 
-> [pkall1@comcast.net said:](/goto/post?id=86792)
+> [[email redacted] said:](/goto/post?id=86792)
 >
 > Adding:
 >
@@ -3790,7 +3790,7 @@ latter
 
 ...
 
-### pkall1@comcast.net — 2013-05-25T21:15:14+0300
+### [email redacted] — 2013-05-25T21:15:14+0300
 **Source:** <https://forum.jackkruse.com/threads/my-first-labs.7150/post-86845>
 
 Thank you Caroline, Dex, Shijin, and JanSz! I appreciate all of your help..... now we are able to re hash and digest this info this weekend and will get back with probably questions and with direction we are going to take. Seriously considering shopping for a new Doctor.
@@ -3804,7 +3804,7 @@ Thanks again! Paul & Kathy
 **Subforum:** Optimal Labs
 **Posts:** 10
 ══════════════════════════════════════════════════════════════════════
-### pkall1@comcast.net — 2013-05-24T18:39:12+0300
+### [email redacted] — 2013-05-24T18:39:12+0300
 **Source:** <https://forum.jackkruse.com/threads/labs-for-a-49-year-old-female.7154/post-86799>
 
 Iâ€™m a 49 year old female. I currently weigh 187 pounds. I have been overweight most of my life. Morbidly Obese for 11 years. With in the last two years have lost 90 pounds (the hard way). In high school (1980-81) I had my appendix removed. 1982 I was in an accident where a fell out of a moving truck as it tipped over. (Didnâ€™t realize that affected me until I went to a naturopathic doctor and reading, recently, Dr. Kruse article about concussions.) In 1986 I had a thyroid storm (over active thyroid) I did not choose removal surgery. I had asthma 2-3 years agoâ€¦..no longer have it (thatâ€™s when I started to research about health and made dietary changes).
@@ -3860,7 +3860,7 @@ Keep reading and asking questions and we will all try to help. If you are 100% c
 
 We are all looking for our own n=1 - it takes time and this journey is not linear - but there are lots of amazing successes.
 
-### pkall1@comcast.net — 2013-05-24T23:51:42+0300
+### [email redacted] — 2013-05-24T23:51:42+0300
 **Source:** <https://forum.jackkruse.com/threads/labs-for-a-49-year-old-female.7154/post-86808>
 
 Yes....I'm doing the leptin reset. Eating Paleo. Started CT baths 2 weeks ago. Turned off Wifi. Getting in the habit of turning off the lights and wearing the glasses at night.
@@ -3875,7 +3875,7 @@ Thanks Caroline!
 I think you have made a great start!! that is awesome! Are you eating epi-paleo tho?
 Grounding is extremely important too. Do you live near an ocean?
 
-### pkall1@comcast.net — 2013-05-25T00:10:07+0300
+### [email redacted] — 2013-05-25T00:10:07+0300
 **Source:** <https://forum.jackkruse.com/threads/labs-for-a-49-year-old-female.7154/post-86811>
 
 My way of grounding.....going outside barefooted. I do not live near an Ocean. I wish! I'm working on instituting all elements of epi-paleo.....work in progress!
@@ -3883,7 +3883,7 @@ My way of grounding.....going outside barefooted. I do not live near an Ocean. I
 ### Dextery — 2013-05-25T00:22:22+0300
 **Source:** <https://forum.jackkruse.com/threads/labs-for-a-49-year-old-female.7154/post-86812>
 
-> [pkall1@comcast.net said:](/goto/post?id=86799)
+> [[email redacted] said:](/goto/post?id=86799)
 >
 > Iâ€™m a 49 year old female. I currently weigh 187 pounds. I have been overweight most of my life. Morbidly Obese for 11 years. With in the last two years have lost 90 pounds (the hard way). In high school (1980-81) I had my appendix removed. 1982 I was in an accident where a fell out of a moving truck as it tipped over. (Didnâ€™t realize that affected me until I went to a naturopathic doctor and reading, recently, Dr. Kruse article about concussions.) In 1986 I had a thyroid storm (over active thyroid) I did not choose removal surgery. I had asthma 2-3 years agoâ€¦..no longer have it (thatâ€™s when I started to research about health and made dietary changes).
 > Currently, I get up and go to the bathroom at night (at least one time)â€¦.on occasion I sleep through the night. I realize Iâ€™m dehydrated on the cellular level. I wake up between 4-5:30 am. Usually get to bed by 9 pm.
@@ -3947,7 +3947,7 @@ You have a roadmap given to you by Dr K. Determine your goals and objectives and
 ### Shijin13 — 2013-05-25T01:10:11+0300
 **Source:** <https://forum.jackkruse.com/threads/labs-for-a-49-year-old-female.7154/post-86815>
 
-> [pkall1@comcast.net said:](/goto/post?id=86799)
+> [[email redacted] said:](/goto/post?id=86799)
 >
 > I’m a 49 year old female. I currently weigh 187 pounds. I have been overweight most of my life. Morbidly Obese for 11 years. With in the last two years have lost 90 pounds (the hard way). In high school (1980-81) I had my appendix removed. 1982 I was in an accident where a fell out of a moving truck as it tipped over. (Didn’t realize that affected me until I went to a naturopathic doctor and reading, recently, Dr. Kruse article about concussions.) In 1986 I had a thyroid storm (over active thyroid) I did not choose removal surgery. I had asthma 2-3 years ago…..no longer have it (that’s when I started to research about health and made dietary changes).
 > Currently, I get up and go to the bathroom at night (at least one time)….on occasion I sleep through the night. I realize I’m dehydrated on the cellular level. I wake up between 4-5:30 am. Usually get to bed by 9 pm.
@@ -3999,7 +3999,7 @@ focus on eating Epi-paleo following the Leptin prescription format BAB - lunch 4
 
 and of course ask questions....
 
-### pkall1@comcast.net — 2013-05-25T21:16:42+0300
+### [email redacted] — 2013-05-25T21:16:42+0300
 **Source:** <https://forum.jackkruse.com/threads/labs-for-a-49-year-old-female.7154/post-86846>
 
 Thank you everyone! Awesome, awesome insight. I have questions but so busy this weekend.....so I will get back with the questions. Thank you....again!
@@ -5228,7 +5228,7 @@ Yea I've tried probiotics and various things to feed the gut flora but it makes 
 ### seanb4 — 2013-06-06T19:37:22+0300
 **Source:** <https://forum.jackkruse.com/threads/bloating-dependent-purely-on-volume-of-food-drink.7230/post-87639>
 
-> [klein.bobbi@gmail.com said:](/goto/post?id=87493)
+> [[email redacted] said:](/goto/post?id=87493)
 >
 > Hi Sean,
 >
@@ -5563,7 +5563,7 @@ My DHEA has actually improved a lot in 4 months, I think. I can't figure out how
 ### endless — 2013-06-06T17:12:47+0300
 **Source:** <https://forum.jackkruse.com/threads/current-labs-some-input-appreciated.7240/post-87627>
 
-Hey Gretchen, could you possible email me that image? I can't get it to open large enough to see it. [kristanenn@gmail.com](mailto:kristanenn@gmail.com)
+Hey Gretchen, could you possible email me that image? I can't get it to open large enough to see it. [[email redacted]](mailto:[email redacted])
 
 Thanks!
 
@@ -5572,7 +5572,7 @@ Thanks!
 
 > [endless said:](/goto/post?id=87627)
 >
-> Hey Gretchen, could you possible email me that image? I can't get it to open large enough to see it. [kristanenn@gmail.com](mailto:kristanenn@gmail.com)
+> Hey Gretchen, could you possible email me that image? I can't get it to open large enough to see it. [[email redacted]](mailto:[email redacted])
 >
 > Thanks!
 
@@ -5900,7 +5900,7 @@ Yes I use a black eye mask and earplugs
 **Subforum:** Optimal Kids
 **Posts:** 5
 ══════════════════════════════════════════════════════════════════════
-### trishalinn@gmail.com — 2013-06-06T20:03:10+0300
+### [email redacted] — 2013-06-06T20:03:10+0300
 **Source:** <https://forum.jackkruse.com/threads/low-blood-sugar.7257/post-87640>
 
 My 3 youngest kids recently had a pediatrician visit and had some routine blood work done. Their doctor called me because she is a bit concerned about their blood sugar. They all had low blood sugar - 59, 55, and 46. Any thoughts on why their blood sugar would be so low?
@@ -5914,7 +5914,7 @@ Liver leptin resistance? Your liver needs leptin in order to increase blood suga
 
 [http://www.jackkruse.com/leptin-part-deux-the-liver/](http://www.jackkruse.com/leptin-part-deux-the-liver/)
 
-### trishalinn@gmail.com — 2013-06-06T22:02:14+0300
+### [email redacted] — 2013-06-06T22:02:14+0300
 **Source:** <https://forum.jackkruse.com/threads/low-blood-sugar.7257/post-87656>
 
 I highly doubt the kids are leptin resistent. Especially the youngest. They don't eat sugar or grains at all. A mostly paleo diet, but we do eat dairy.
@@ -6468,7 +6468,7 @@ About the Thunderbolts Project - An interdisciplinary collaboration of accredite
 
 Natural Philosophy Alliance
 Tel: 310-991-5744
-[david@worldnpa.org](mailto:david@worldnpa.org)
+[[email redacted]](mailto:[email redacted])
 Mikamar Publishing
 
 16871 SE 80th Pl
@@ -11562,7 +11562,7 @@ melatonin 1-3 mg as needed
 
 (Sorry if the formatting is a little wonky)
 
-### gsteppe14@gmail.com — 2013-08-22T07:39:10+0300
+### [email redacted] — 2013-08-22T07:39:10+0300
 **Source:** <https://forum.jackkruse.com/threads/got-my-results-back-and-it-is-enough-to-make-my-head-spin-help-please.7654/post-93394>
 
 Are you sure it's only 1000mg of fish oil? Twice a day, it's still only barely above a teaspoon. But I can understand if you don't wanna overdo fish oil. Your Armour isn't quite replenishing your FT3. How are your symptoms? Feeling good? So so? I used to take Align. Doing anything for you? What in particular are your digestive or gut flora issues?
@@ -13549,7 +13549,7 @@ BGH
 
 WTG! That is so motivating to hear, Huck! Thanks for the inspiration
 
-### info@sorrentinodental.com — 2013-10-28T21:16:34+0200
+### [email redacted] — 2013-10-28T21:16:34+0200
 **Source:** <https://forum.jackkruse.com/threads/made-goal-weight-set-new-goal.7750/post-99276>
 
 Congratulations Huck. As you have demonstrated, change in results goes hand in hand with a change in approach.
@@ -16326,7 +16326,7 @@ Been emailing with support...they are on it...fingers crossed I make this weeks 
 
 Hi there!
 
-Can you email us at [support@jackkruse.com](mailto:support@jackkruse.com)?
+Can you email us at [[email redacted]](mailto:[email redacted])?
 
 I can easily send you the links to the first 2 weeks from there and make sure you are put on the correct emailing lists.
 
@@ -20033,7 +20033,7 @@ Thanks again cinnamon!
 
 Hey Guys,
 
-We should not have lost any forum posts. If you see anything screwy, send an email to support and we'll look into it! [support@jackkruse.com](mailto:support@jackkruse.com).
+We should not have lost any forum posts. If you see anything screwy, send an email to support and we'll look into it! [[email redacted]](mailto:[email redacted]).
 
 I'm about to post a notice about passwords ... we don't know how deep the hackers went in to the database which holds all your forum passwords. We don't think they were necessarily interested in any non-admin passwords but ... it made me nervous and I actually loaded 1Password onto my devices and changes my passwords all across the net as a precaution. I had been using pretty much the same few passwords everywhere (as I know a lot of you do, too), and I didn't like the idea of hackers having my passwords and a linked email address that could fall into the wrong hands.
 
@@ -21184,7 +21184,7 @@ I have seen this error 3 times today in this forum.
 ### tellmisty — 2013-09-27T03:52:02+0300
 **Source:** <https://forum.jackkruse.com/threads/error-message-on-some-new-posts.8249/post-96255>
 
-Are you guys still having issues? Gretchen is right, you need to clear your cache as the first remedy, but if you have issues, let support know. Share page URLs and error messages: [support@jackkruse.com](mailto:support@jackkruse.com).
+Are you guys still having issues? Gretchen is right, you need to clear your cache as the first remedy, but if you have issues, let support know. Share page URLs and error messages: [[email redacted]](mailto:[email redacted]).
 
 ### nonchalant — 2013-09-27T03:55:58+0300
 **Source:** <https://forum.jackkruse.com/threads/error-message-on-some-new-posts.8249/post-96256>
@@ -21213,7 +21213,7 @@ See yewwei's explanation:
 **Subforum:** The EMF Rx
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### redneckrobot@gmail.com — 2013-09-25T17:31:39+0300
+### [email redacted] — 2013-09-25T17:31:39+0300
 **Source:** <https://forum.jackkruse.com/threads/emf-books-important-texts-available-online.8256/post-96080>
 
 I found a resource for books on the EMF issue online -- thought I would share with the group.
@@ -21246,7 +21246,7 @@ The week between Chirstmas and New Year's comes to mind...always as slow as mola
 Thanks Redneck! Welcome to the forum.
 Robert O. Becker... where have I heard that name before.....
 
-### redneckrobot@gmail.com — 2013-09-27T00:40:09+0300
+### [email redacted] — 2013-09-27T00:40:09+0300
 **Source:** <https://forum.jackkruse.com/threads/emf-books-important-texts-available-online.8256/post-96234>
 
 > [nonchalant said:](/goto/post?id=96153)
@@ -26305,7 +26305,7 @@ Thanks, I might take another look at this once the ground outside thaws to put a
 
 This is why it is so important to test and measure things for yourself. n=1!
 
-### patgrif@hotmail.com — 2014-03-05T06:48:22+0200
+### [email redacted] — 2014-03-05T06:48:22+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-half-sheet.8572/post-113514>
 
 I use an earthing sheet actually a 'fitted' sheet on a queen bed (better than the half sheet). I think it has helped my sleep I notice also I 'like' my bed more kind of a subjective thing but it feels real. I stick the rod in the earth not the socket which I feel more comfortable doing. But one think which I thought was kind of 'funny' and maybe a bit deceptive on the part of the company................they have this 'tester' and supposedly when the sheet is grounded a green light come on on the tester. I used this and sure eneough on ANY other surface it does not light up but bingo on the sheet it does!! Well one day a few weeks ago the gardeners pulled the wire out of the rod by mistake it was completly disconnected from the rod BUT as a lark I thought let me test it now and would you believe it it lit up just as before. So that 'tester' is testing SOMETHING but NOT that it is grounded. Now I found that kind of deceptive as I say. I don't have an explanation of WHAT it is testing. Any ideas anyone?
@@ -26319,7 +26319,7 @@ I would also contact the company and ask about that.
 
 That is an oddity to be sure.
 
-### patgrif@hotmail.com — 2014-03-05T18:39:05+0200
+### [email redacted] — 2014-03-05T18:39:05+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-half-sheet.8572/post-113614>
 
 Well the thing is Cosmo it seems to test ONLY for the 'main wire' being attached (fastened) to the fastener on the sheet. If you unhook those things the light goes out. BUT what I find kind of deceptive is and maybe this was my mis-understanding is the implication is once that little green light goes on it is GROUNDED. I imagined it was some kind of measure of electrical exchange between the sheet and the ground and it is NOT! It is merely telling you it is connected (fastened) and then I wonder how does that work? Like what is the 'electrical exchange' that causes that little green light to go on. And then I'm thinking 'scam' like did they deliberatly do this just to create an 'impression' I don't really know what more testing I can do, if you have a grounding sheet and my impression is you do just unplug it either from the outlet or from the ground itself if that is what you have and then test it..............does the green light still go on? You're right I could contact the company and maybe I will I just don't 'enjoy' doing that kind of thing.
@@ -26329,7 +26329,7 @@ Well the thing is Cosmo it seems to test ONLY for the 'main wire' being attached
 
 I think you should as a service to all earthing sheet users  I didn't order or get a tester so I can't help you. Who did you buy from, I used BEP Technology and I believe there is Groundology who sell products too?
 
-### patgrif@hotmail.com — 2014-03-05T19:48:27+0200
+### [email redacted] — 2014-03-05T19:48:27+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-half-sheet.8572/post-113622>
 
 Sooperb, the company is called Unikey Health Systems and I got them somehow through Ann Louise Gittleman's book "Zapped" though I don' think they have any connection to her. You are right but I hate embarrasing people or potentially embarrasing them. Irish politeness I guess. But I think I will at some point just not at the minute.............
@@ -26339,7 +26339,7 @@ Sooperb, the company is called Unikey Health Systems and I got them somehow thro
 
 where was the wire after the gardener pulled it off the rod? was it on the ground? it might stillhave been grounded! something to test.
 
-### patgrif@hotmail.com — 2014-03-06T01:22:54+0200
+### [email redacted] — 2014-03-06T01:22:54+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-half-sheet.8572/post-113670>
 
 He pulled the wire right out of where it fits into the spike that goes in the ground so no way was it still grounded. I also then pulled out the rod/spike and even after a few days the green light still went on so..............
@@ -26373,7 +26373,7 @@ Did you listen to michaels webinar yet?
 ### Lahelada — 2014-03-06T11:37:44+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-half-sheet.8572/post-113743>
 
-> [patgrif@hotmail.com said:](/goto/post?id=113670)
+> [[email redacted] said:](/goto/post?id=113670)
 >
 > He pulled the wire right out of where it fits into the spike that goes in the ground so no way was it still grounded. I also then pulled out the rod/spike and even after a few days the green light still went on so..............
 
@@ -26399,13 +26399,13 @@ Audrey, I think when my back was so painful, the grounding was what it needed wo
 ### Tanya — 2014-03-06T16:52:16+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-half-sheet.8572/post-113777>
 
-> [patgrif@hotmail.com said:](/goto/post?id=113514)
+> [[email redacted] said:](/goto/post?id=113514)
 >
 > I use an earthing sheet actually a 'fitted' sheet on a queen bed (better than the half sheet). I think it has helped my sleep I notice also I 'like' my bed more kind of a subjective thing but it feels real. I stick the rod in the earth not the socket which I feel more comfortable doing. But one think which I thought was kind of 'funny' and maybe a bit deceptive on the part of the company................they have this 'tester' and supposedly when the sheet is grounded a green light come on on the tester. I used this and sure eneough on ANY other surface it does not light up but bingo on the sheet it does!! Well one day a few weeks ago the gardeners pulled the wire out of the rod by mistake it was completly disconnected from the rod BUT as a lark I thought let me test it now and would you believe it it lit up just as before. So that 'tester' is testing SOMETHING but NOT that it is grounded. Now I found that kind of deceptive as I say. I don't have an explanation of WHAT it is testing. Any ideas anyone?
 
 Every single grounding product that I purchased included a tester in the package. Just to satisfy my curiosity, I tried the first few of them, even though I have known already that our outlets were not grounded and the testers confirmed that. I had also gifted to someone a grounding mat and the tester worked just fine in their house because their outlets were properly grounded. However, they decided to ground it to the outside rod instead, following my lead....
 
-### patgrif@hotmail.com — 2014-03-06T18:09:18+0200
+### [email redacted] — 2014-03-06T18:09:18+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-half-sheet.8572/post-113792>
 
 I am now getting a bit confused by all this. They have 'testers' for the outlet itself which I understand works but the 'tester' I am talking about is something you put on the sheet and if it is 'working' I presume grounded a green light goes on. But what I found is though the rod was definitly not grounded the green light still went on if the wire was 'fastened' to the sheet, if you unfastened it instantly goes off. So my thinking is is it testing the connection but NOT the grounding. I kind of give up at this point I was just curious if anyone else had anything similar to report. To add to the confusion maybe my sheet IS grounded now (outside in the ground) and when I put the little green light tester on the sheet.............NOTHING..............no green light. So I'm thinking it has some battery in there that has discharged..............I am totally confused now don't know what's going on or what to think
@@ -26413,7 +26413,7 @@ I am now getting a bit confused by all this. They have 'testers' for the outlet 
 ### Tanya — 2014-03-06T18:23:18+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-half-sheet.8572/post-113795>
 
-> [patgrif@hotmail.com said:](/goto/post?id=113792)
+> [[email redacted] said:](/goto/post?id=113792)
 >
 > I am now getting a bit confused by all this. They have 'testers' for the outlet itself which I understand works but the 'tester' I am talking about is something you put on the sheet and if it is 'working' I presume grounded a green light goes on. But what I found is though the rod was definitly not grounded the green light still went on if the wire was 'fastened' to the sheet, if you unfastened it instantly goes off. So my thinking is is it testing the connection but NOT the grounding. I kind of give up at this point I was just curious if anyone else had anything similar to report. To add to the confusion maybe my sheet IS grounded now (outside in the ground) and when I put the little green light tester on the sheet.............NOTHING..............no green light. So I'm thinking it has some battery in there that has discharged..............I am totally confused now don't know what's going on or what to think
 
@@ -26448,7 +26448,7 @@ This will let you know if the earthing product is working and then you will have
 ### Cosmo — 2014-03-14T09:28:55+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-half-sheet.8572/post-115335>
 
-> [patgrif@hotmail.com said:](/goto/post?id=113514)
+> [[email redacted] said:](/goto/post?id=113514)
 >
 > I use an earthing sheet actually a 'fitted' sheet on a queen bed (better than the half sheet). I think it has helped my sleep I notice also I 'like' my bed more kind of a subjective thing but it feels real. I stick the rod in the earth not the socket which I feel more comfortable doing. But one think which I thought was kind of 'funny' and maybe a bit deceptive on the part of the company................they have this 'tester' and supposedly when the sheet is grounded a green light come on on the tester. I used this and sure eneough on ANY other surface it does not light up but bingo on the sheet it does!! Well one day a few weeks ago the gardeners pulled the wire out of the rod by mistake it was completly disconnected from the rod BUT as a lark I thought let me test it now and would you believe it it lit up just as before. So that 'tester' is testing SOMETHING but NOT that it is grounded. Now I found that kind of deceptive as I say. I don't have an explanation of WHAT it is testing. Any ideas anyone?
 
@@ -28417,7 +28417,7 @@ Anything else I should be doing, or not doing?
 **Subforum:** The Epi-Paleo Diet
 **Posts:** 9
 ══════════════════════════════════════════════════════════════════════
-### kjgraffin@yahoo.com — 2013-10-30T03:01:29+0200
+### [email redacted] — 2013-10-30T03:01:29+0200
 **Source:** <https://forum.jackkruse.com/threads/oyster-mushrooms.8607/post-99394>
 
 I saw in a post that Jack highly recommended that Martin start eating oyster mushrooms this winter but I never did see why. Does anyone know why these would be important? I know that he is dealing with a biotoxin issue, so are these type of mushrooms helpful?
@@ -28465,7 +28465,7 @@ I made shrimp curry instead. It was delish! Thanks for the idea. Bone broth, coc
 
 I got some stuff to make that this weekend too, yum yum yum
 
-### kjgraffin@yahoo.com — 2013-11-01T01:52:24+0200
+### [email redacted] — 2013-11-01T01:52:24+0200
 **Source:** <https://forum.jackkruse.com/threads/oyster-mushrooms.8607/post-99583>
 
 Great article! Thanks for posting that. Maybe one of these days I will be able to tolerate coconut milk and can try that soup. It sounds delicious.
@@ -28542,7 +28542,7 @@ Would someone mind telling me how to add a picture to my profile?
 
 Bonniebelle,
 
-I emailed a jpg to [support@jackkruse.com](mailto:support@jackkruse.com) and requested that they attach it to my profile.
+I emailed a jpg to [[email redacted]](mailto:[email redacted]) and requested that they attach it to my profile.
 
 In a past version of this forum we were able to upload the photo ourselves. After one of the migrations to a new forum we lost that ability.
 
@@ -30370,7 +30370,7 @@ FSH 1.4 - 18.1 mIU/mL 3.9
 **Subforum:** The EMF Rx
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### redneckrobot@gmail.com — 2013-11-08T22:59:58+0200
+### [email redacted] — 2013-11-08T22:59:58+0200
 **Source:** <https://forum.jackkruse.com/threads/somapulse-and-dr-bill-pawluk.8702/post-100203>
 
 There's a new podcast about electromagnetism at Bulletproof Exec with Dr. Bill Pawluk that is interesting.
@@ -34298,7 +34298,7 @@ Healthman
 **Subforum:** The Epi-Paleo Diet
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### redneckrobot@gmail.com — 2013-11-26T21:44:08+0200
+### [email redacted] — 2013-11-26T21:44:08+0200
 **Source:** <https://forum.jackkruse.com/threads/eating-habits-of-mid-victorians.8893/post-101683>
 
 Interesting research paper on how the mid-Victorians in U.K. worked, ate, lived and died:
@@ -45208,7 +45208,7 @@ I always turn my hands yellow too!!
 
 Shrimp...or anything really, with Thai Kitchen green curry paste is very yummy. Saute, add the paste and you're done...or add some coconut milk as well if you like it milder and creamy.
 
-### reseaview@yahoo.com — 2014-01-25T15:51:07+0200
+### [email redacted] — 2014-01-25T15:51:07+0200
 **Source:** <https://forum.jackkruse.com/threads/give-me-your-best-shrimp-recipes.9456/post-107015>
 
 Steam/Boil - Add fresh minced garlic, red pepper flakes, fresh mint, basil and cilantro, S & P olive or coconut oil lemon/lime. Fresh and simple.

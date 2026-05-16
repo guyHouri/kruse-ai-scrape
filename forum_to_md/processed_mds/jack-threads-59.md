@@ -1325,7 +1325,7 @@ Wow, interesting. For years I have always tried to only wear cotton. Would love 
 **Subforum:** Cold Thermogenesis
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### ghopper@srbp.com — 2023-06-19T18:57:35+0300
+### [email redacted] — 2023-06-19T18:57:35+0300
 **Source:** <https://forum.jackkruse.com/threads/is-there-an-upper-limit-to-ct-time-per-session-at-55%C2%B0.27832/post-322549>
 
 I am new, so please go easy, LOL. I know Jack says to do CT as often as possible but what about session times? Is it beneficial to do long sessions, i.e., 1 hour or more, as long as I use common sense not to hurt myself? I know Huberman says that the studies show that 11 minutes a week will give you the maximum benefit, but that doesn't seem accurate to me. Thank you!
@@ -1335,7 +1335,7 @@ I am new, so please go easy, LOL. I know Jack says to do CT as often as possible
 
 anything below 98F is technically CT.
 
-### ghopper@srbp.com — 2023-06-20T20:29:22+0300
+### [email redacted] — 2023-06-20T20:29:22+0300
 **Source:** <https://forum.jackkruse.com/threads/is-there-an-upper-limit-to-ct-time-per-session-at-55%C2%B0.27832/post-322594>
 
 > [Jack Kruse said:](/goto/post?id=322591)
@@ -13069,7 +13069,7 @@ Said Dr. Nathan Bryan Ph.D., Founder, Chairman and CEO of BTI, "During the past 
 BTI has plans to submit investigational new drug applications (INDs) for **ischemic heart disease** in the coming weeks. BTI has active drug programs for **Alzheimers' disease and a topical drug for diabetic/pressure ulcers.** Additional development plans for **ischemic, non-obstructive coronary artery disease, pulmonary hypertension, heart failure with preserved ejection fraction (HFpEF). David Perlmutter,** M.D., Director of Neuroscience Research says, "BTI is uniquely positioned to implement novel therapeutic strategies utilizing the emerging understanding of **the central role of nitric oxide in regulating human metabolism.** This is incredibly relevant across a wide spectrum of disease processes, including **Alzheimer's disease, and cardiovascular disorders**."
 Said John Somberg, M.D., President of Academic Pharmaceuticals and Professor Emeritus of Medicine Cardiology in Pharmacology Rush Medical College, Chicago; **"I've conducted more than 40 FDA clinical trials for many different therapeutics. I believe that nitric oxide has a major place in therapeutics**, and I think if anyone is going to bring it to fruition it is Bryan Therapeutics, Inc. The basic science behind nitric oxide therapies is solid. Now, it is time for the development of safe and effective nitric oxide therapeutics. Dr. Bryan's science and discoveries have great potential and I'm excited to be involved."
 
-For investment opportunities and to receive a private placement memorandum, please contact Dr. Nathan S Bryan at [nathan@bryantherapeutics.com](mailto:nathan@bryantherapeutics.com)
+For investment opportunities and to receive a private placement memorandum, please contact Dr. Nathan S Bryan at [[email redacted]](mailto:[email redacted])
 **ABOUT BRYAN THERAPEUTICS, INC. (BTI) AND NATHAN S. BRYAN PH.D:**
 Bryan Therapeutics, Inc (BTI) was established to commercialize clinically, and scientifically proven Nitric Oxide (NO) based technologies for a **wide range of human disease and conditions**. Our mission is to be the industry leader and innovator in nitric oxide-based technologies in order to bring to market safe and effective therapeutic solutions where NO may be involved. Our vision for BTI is to be the market leader in nitric oxide-based therapeutics. BTI has **drug programs for ischemic heart disease, Alzheimers' Disease, topical drugs for diabetic and pressure ulcers as well as a novel antiviral in the event of another pandemic.**
 Dr. Bryan earned his undergraduate Bachelor of Science degree in Biochemistry from the University of Texas at Austin and his doctoral degree from Louisiana State University Health Sciences Center in Shreveport where he was the recipient of the Dean's Award for Excellence in Research. He pursued his post-doctoral training as a Kirschstein Fellow at Boston University School of Medicine in the Whitaker Cardiovascular Institute. After a two year post-doctoral fellowship, in 2006 Dr. Bryan was recruited to join faculty at the University of Texas Health Science Center at Houston by **Ferid Murad, M.D., Ph.D., 1998 Nobel Laureate** in Medicine or Physiology. Dr. Bryan has been involved in nitric oxide research for the past 20 years and has made many seminal discoveries in the field. His many seminal discoveries have resulted in dozens of issued US and International patents and the product technology resulting from his discoveries and inventions has improved patient care worldwide and is responsible for hundreds of millions of dollars in revenue globally. Dr. Bryan is the inventor of **Superbeets, Neo40, BeetElite, NO2U, N1O1** nitric oxide activating serum. His nitric oxide products are the global market leaders. Dr. Bryan is an international leader in molecular medicine and nitric oxide biochemistry.
@@ -19542,7 +19542,7 @@ With my first fifty years behind me I choose to absofuckinglutely not dick with 
 
 [@jcoyote](https://forum.jackkruse.com/members/26925/) I would definitely recommend reading the new blog... golden!
 
-[SEPTEMBER 5, 2023](https://optimalklubs.com/quantum-engineering-53-why-is-melanin-always-found-between-your-senses-the-environment/) BY [INFO@KRUSEATDESTIN.COM](https://optimalklubs.com/author/infokruseatdestin-com/)
+[SEPTEMBER 5, 2023](https://optimalklubs.com/quantum-engineering-53-why-is-melanin-always-found-between-your-senses-the-environment/) BY [[email redacted]](https://optimalklubs.com/author/infokruseatdestin-com/)
 
 ### QUANTUM ENGINEERING #53: WHY IS MELANIN ALWAYS FOUND BETWEEN YOUR SENSES & THE ENVIRONMENT?​
 
@@ -22602,7 +22602,7 @@ Whats the difference?
 ### Jack Kruse — 2023-09-13T18:59:36+0300
 **Source:** <https://forum.jackkruse.com/threads/where-to-sign-up-patreon-or-forum.28170/post-326360>
 
-[info@kruseatdestin.com](mailto:info@kruseatdestin.com).
+[[email redacted]](mailto:[email redacted]).
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -25327,7 +25327,7 @@ And if you understand that, you now understand the fist within the glove wielded
 -   COMIRNATY (Pfizer COVID-19 Vaccine 2023-2024 formulation for ages 12+): [https://www.fda.gov/vaccines-blood-biologics/comirnaty](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.fda.gov%2Fvaccines-blood-biologics%2Fcomirnaty&data=05%7C01%7CNYS_DOH_VFC-L%40listserv.health.state.ny.us%7C6fddd6b20ad14873e49b08dbbeb85ba0%7Cf46cb8ea79004d108ceb80e8c1c81ee7%7C0%7C0%7C638313471468504432%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=0OTQzhmpX8nwqVe%2FgMt5LWFa6tv5joGORdjh24qELN8%3D&reserved=0)
 -   The CDC’s Interim Clinical considerations for Use of COVID-19 Vaccines in the United States: [https://www.cdc.gov/vaccines/covid-19/clinical-considerations/interim-considerations-us.html](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Fcovid-19%2Fclinical-considerations%2Finterim-considerations-us.html&data=05%7C01%7CNYS_DOH_VFC-L%40listserv.health.state.ny.us%7C6fddd6b20ad14873e49b08dbbeb85ba0%7Cf46cb8ea79004d108ceb80e8c1c81ee7%7C0%7C0%7C638313471468504432%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zLmywotWi140fFChHoPppiKaQVOpqPCaPp64PaSJBCI%3D&reserved=0)
 
-> Please read additional information sent to VFC providers on 9/11/23 below. If you have any questions, please contact 1-800-543-7468 or email [NYVFC@health.ny.gov](mailto:NYVFC@health.ny.gov).
+> Please read additional information sent to VFC providers on 9/11/23 below. If you have any questions, please contact 1-800-543-7468 or email [[email redacted]](mailto:[email redacted]).
 > Thank you.
 > **New York State Vaccine Program**
 > ESP Corning Tower
@@ -25469,7 +25469,7 @@ Deadly blue-green algae found in Highland loch; Highland Council confirms its pr
 
 By Philip Murray
 
-\- [philip.murray@hnmedia.co.uk](https://www.inverness-courier.co.uk/)
+\- [[email redacted]](https://www.inverness-courier.co.uk/)
 
 **Published:** 16:48, 16 June 2023
 
@@ -30504,7 +30504,7 @@ Other than Club Atomi, (can’t seem to make a reservation on their website, but
 
 if there are any get togethers planned or if anyone would like to trade a cold beverage for some local knowledge please let me know
 mike
-[mikea141@yahoo.com](mailto:mikea141@yahoo.com)
+[[email redacted]](mailto:[email redacted])
 
 ### Jack Kruse — 2023-10-29T10:57:41+0200
 **Source:** <https://forum.jackkruse.com/threads/going-to-el-salvador.28280/post-327622>
@@ -35728,7 +35728,7 @@ I need to get an idea what I will be able to do with this baby.
 ### Jack Kruse — 2023-12-05T23:13:04+0200
 **Source:** <https://forum.jackkruse.com/threads/daylightcomputer-do-you-know-the-specs.28389/post-328920>
 
-[anjan@daylightco.com](mailto:anjan@daylightco.com)
+[[email redacted]](mailto:[email redacted])
 
 
 ══════════════════════════════════════════════════════════════════════

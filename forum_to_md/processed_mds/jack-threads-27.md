@@ -6714,7 +6714,7 @@ Infrared energy is emitted or absorbed by molecules when they change their rotat
 
 Each molecule in our cells sends out a unique electromagnetic field that can "sense" the field of the complimentary molecule. It's as if there is a "dance" in the cellular medium and the molecules move to the rythm. The music is supplied by the bio-photon.
 
-Veljkovic and Irina Cosic (already spoke about her on my blog once) proposed that molecular interactions are electrical in nature, and they take place over distances that are large compared with the size of molecules. Cosic later introduced the idea of dynamic electromagnetic field interactions, that molecules recognize their particular targets and vice versa by electromagnetic resonance. This is why smart meters fuck us all up. In fact, all non native EMF cause us not to be able to sense the native EMF to coordinate biochemical and circadian cycles. In other words, the molecules send out specific frequencies of electromagnetic waves which not only enable them to 'see' and 'hear' each other, as both photon and phonon modes exist for electromagnetic waves, but also to influence each other at a distance and become ineluctably drawn to each other if vibrating out of phase (in a complementary way).You can read this here: The Real Bioinformatics Revolution: Proteins and Nucleic Acids Singing to One Another? (Paper available at [report@i-sis.org.uk](mailto:report@i-sis.org.uk))
+Veljkovic and Irina Cosic (already spoke about her on my blog once) proposed that molecular interactions are electrical in nature, and they take place over distances that are large compared with the size of molecules. Cosic later introduced the idea of dynamic electromagnetic field interactions, that molecules recognize their particular targets and vice versa by electromagnetic resonance. This is why smart meters fuck us all up. In fact, all non native EMF cause us not to be able to sense the native EMF to coordinate biochemical and circadian cycles. In other words, the molecules send out specific frequencies of electromagnetic waves which not only enable them to 'see' and 'hear' each other, as both photon and phonon modes exist for electromagnetic waves, but also to influence each other at a distance and become ineluctably drawn to each other if vibrating out of phase (in a complementary way).You can read this here: The Real Bioinformatics Revolution: Proteins and Nucleic Acids Singing to One Another? (Paper available at [[email redacted]](mailto:[email redacted]))
 
 There are about 100,000 chemical reactions happening in every cell each second. The chemical reaction can only happen if the molecule which is reacting is excited by a photon...........Once the photon has excited a reaction it returns to the field and is available for more reactions... We are swimming in an ocean of light. (Hold this thought and my next post,OSF5, will explain this in detail)
 
@@ -8093,7 +8093,7 @@ Scroll up to post #2. I posted the link in the same place where the PDF's are. I
 >
 > what an awesome endeavor Kyra!
 
-> [cjhf06@yahoo.com said:](/goto/post?id=130718)
+> [[email redacted] said:](/goto/post?id=130718)
 >
 > Wow, I sure appreciate you taking the time to compile info and very grateful to have this resource. Nice lead for "pay it forward".
 
@@ -18301,7 +18301,7 @@ I believe Jack mentioned that RO water is best for recovering from illness. When
 
 So, I am trying to shift our EMF situation at our house. I love the feeling of going to bed early. I think a lot of the changes might feel like an affront in my relationship. Or maybe my projection. I'm trying to explain to my boyfriend why we should get rid of the microwave. I bought a meter which arrived this week. Maybe this will help. He is totally on board with the seafood, especially when I cook more for us. Also he has started to use the raw cultured butter in his tea. He also uses many of the lab tests with his own acupuncture patients. I'm hoping to convince him through his own paradigm.
 
-### patgrif@hotmail.com — 2014-07-31T19:34:48+0300
+### [email redacted] — 2014-07-31T19:34:48+0300
 **Source:** <https://forum.jackkruse.com/threads/celeste-in-la.11125/post-136314>
 
 Hi Celeste, I met you at the "Amish" truck waiting one Saturday. I am the Irish guy we talked a bit. So great to see you here I do believe Dr Kruse takes MANY things to the next level!!. I am actually in Ireland for the Summer coming back Sep 2nd and have been very much out of touch with Kruseworld but will catch up as best as I can when I come back. It's amazing this is the first time I looked at the Forum in ages and straight away I see someone I know. I look forward to talking to you when I come back and hopefully you might know other Dr Kruse 'followers' I would like to meet some
@@ -18309,7 +18309,7 @@ Hi Celeste, I met you at the "Amish" truck waiting one Saturday. I am the Irish 
 ### nonchalant — 2014-07-31T19:42:31+0300
 **Source:** <https://forum.jackkruse.com/threads/celeste-in-la.11125/post-136315>
 
-> [patgrif@hotmail.com said:](/goto/post?id=136314)
+> [[email redacted] said:](/goto/post?id=136314)
 >
 > Hi Celeste, I met you at the "Amish" truck waiting one Saturday. I am the Irish guy we talked a bit. So great to see you here I do believe Dr Kruse takes MANY things to the next level!!. I am actually in Ireland for the Summer coming back Sep 2nd and have been very much out of touch with Kruseworld but will catch up as best as I can when I come back. It's amazing this is the first time I looked at the Forum in ages and straight away I see someone I know. I look forward to talking to you when I come back and hopefully you might know other Dr Kruse 'followers' I would like to meet some
 
@@ -18394,7 +18394,7 @@ Hi Celeste,
 So sorry about your fall and the need for the implant. I was responding to Jack's post on "T"--I figured he was making a little joke about "T" being an element he had cooled on. I put my response in the wrong place. Bottom line--I too am concerned about the titanium implants I have (dental), wondering if they are contributing to my serious electromagnetic sensitivity--wondering if same is going on for you. I don't believe it's just coincidence that you fell in the midst of a sea of electromagnetic energy (not the good kind). I too am interested in exchanging the titanium for something else--not sure what that something else might be.
 Have you gotten access to a meter to measure the electromagnetic field around and inside your home? I'd loan you mine, but now am up at Portland place. Not sure when I'll be back down in Santa Monica.
 
-### patgrif@hotmail.com — 2014-08-01T20:09:38+0300
+### [email redacted] — 2014-08-01T20:09:38+0300
 **Source:** <https://forum.jackkruse.com/threads/celeste-in-la.11125/post-136385>
 
 Nonchalant wrote: "Great to hear from you again, Patrick! I was just thinking about you the other day, wondering where you were."
@@ -18416,7 +18416,7 @@ Hi Patrick .... it sounds like you are having a great time - and figuring stuff 
 ### Celeste — 2014-08-02T22:03:00+0300
 **Source:** <https://forum.jackkruse.com/threads/celeste-in-la.11125/post-136537>
 
-> [patgrif@hotmail.com said:](/goto/post?id=136314)
+> [[email redacted] said:](/goto/post?id=136314)
 >
 > Hi Celeste, I met you at the "Amish" truck waiting one Saturday. I am the Irish guy we talked a bit. So great to see you here I do believe Dr Kruse takes MANY things to the next level!!. I am actually in Ireland for the Summer coming back Sep 2nd and have been very much out of touch with Kruseworld but will catch up as best as I can when I come back. It's amazing this is the first time I looked at the Forum in ages and straight away I see someone I know. I look forward to talking to you when I come back and hopefully you might know other Dr Kruse 'followers' I would like to meet some
 
@@ -18552,7 +18552,7 @@ Go first to where you sleep--what is the milligauss reading in the middle of you
 After I did this at my place in Santa MOnica, I looked for a contractor to mitigate and help me understand what was causing things to be out of whack. I also called SCE and had them come out and do measurements. I got a list of contractors from them--I had Oram Miller, a Bau Biology guy come out and do a full survey.
 So, first things first--let's see what you can discover on your own by doing the basics first on the magnetic field front in your sleep space.
 
-### patgrif@hotmail.com — 2014-08-03T22:56:47+0300
+### [email redacted] — 2014-08-03T22:56:47+0300
 **Source:** <https://forum.jackkruse.com/threads/celeste-in-la.11125/post-136658>
 
 I didn't know they had smart meters already in LA/Santa Monica. That is not good news. BTW Celeste I got the 3 separate meters last winter during the Michael Nuert webinars, that is a voltmeter, one for magnetic fields and an RF meter for radio frequency. You are welcome to use them when I come back if you are interested.
@@ -18560,7 +18560,7 @@ I didn't know they had smart meters already in LA/Santa Monica. That is not good
 ### Alex97232 — 2014-08-03T23:18:22+0300
 **Source:** <https://forum.jackkruse.com/threads/celeste-in-la.11125/post-136660>
 
-> [patgrif@hotmail.com said:](/goto/post?id=136658)
+> [[email redacted] said:](/goto/post?id=136658)
 >
 > I didn't know they had smart meters already in LA/Santa Monica. That is not good news. BTW Celeste I got the 3 separate meters last winter during the Michael Nuert webinars, that is a voltmeter, one for magnetic fields and an RF meter for radio frequency. You are welcome to use them when I come back if you are interested.
 
@@ -18571,7 +18571,7 @@ I did same (three meters) prior to finding Michael Neuert. I did watch the Webin
 ### Jack Kruse — 2014-08-04T00:43:02+0300
 **Source:** <https://forum.jackkruse.com/threads/celeste-in-la.11125/post-136670>
 
-> [patgrif@hotmail.com said:](/goto/post?id=136658)
+> [[email redacted] said:](/goto/post?id=136658)
 >
 > I didn't know they had smart meters already in LA/Santa Monica. That is not good news. BTW Celeste I got the 3 separate meters last winter during the Michael Nuert webinars, that is a voltmeter, one for magnetic fields and an RF meter for radio frequency. You are welcome to use them when I come back if you are interested.
 
@@ -18587,7 +18587,7 @@ This is why I told you where you live is behind your liver losing its SIRT 1 and
 Thanks, Jack--I have pretty much figured that would have to happen for me to survive. My children and grandchildren are there--closed to anything to do with EMF, convinced I am nuts. Whatever. Do you know of a zip near or at Calif coast where we might stand a chance? Michael Neuert lives in Napa Valley (NorCal)in an area that's pretty sheltered from EMF--distant from coast but within driving for family in LA.
 TIA.
 
-### patgrif@hotmail.com — 2014-08-04T10:35:15+0300
+### [email redacted] — 2014-08-04T10:35:15+0300
 **Source:** <https://forum.jackkruse.com/threads/celeste-in-la.11125/post-136697>
 
 > [Jack Kruse said:](/goto/post?id=136670)
@@ -18599,7 +18599,7 @@ Dr Kruse: are you sure you are thinking of me and not someone else? It's true I 
 ### Alex97232 — 2014-08-04T19:19:35+0300
 **Source:** <https://forum.jackkruse.com/threads/celeste-in-la.11125/post-136717>
 
-> [patgrif@hotmail.com said:](/goto/post?id=136697)
+> [[email redacted] said:](/goto/post?id=136697)
 >
 > Dr Kruse: are you sure you are thinking of me and not someone else? It's true I have been living is LA and I have some problems (diabetes) but I have been in Ireland for 4 months and am going BACK to LA in a few weeks. I HAVE to go back there at least for a while................this disturbs me a bit/lot. I mean I suppose I know deep down you are right but I just CAN'T right now. I do everything I can to lower EMF no cell phone anymore, no wifi, no nothing but I understand it's everywhere. But I thought at least no smart meters which based on some youtubes I have watched they may potentially the WORST, huge 'traffic' all the time, can get away from them, your neighbors and your neighbors neighbor are ALL a problem. This is so freakin annoying and worrying. I AM worried.
 
@@ -18630,7 +18630,7 @@ We had a clothes line when we lived in the country, decades ago. We used a cloth
 
 Now that we are moving away, we have strung up a new line again out in the country. Looking forward to using it. I'd like to get an old wringer washer, but I don't see them for $100 on craigslist much anymore.
 
-### patgrif@hotmail.com — 2014-08-04T21:13:46+0300
+### [email redacted] — 2014-08-04T21:13:46+0300
 **Source:** <https://forum.jackkruse.com/threads/celeste-in-la.11125/post-136731>
 
 > [Alex97232 said:](/goto/post?id=136717)
@@ -18646,7 +18646,7 @@ Now that we are moving away, we have strung up a new line again out in the count
 
 Thanks for your support. OMG I had NO idea this stuff was so entrenched in Santa Monica already. Scary. Anyway I will be back there Sep 2nd and maybe we can talk
 
-### patgrif@hotmail.com — 2014-08-04T21:16:28+0300
+### [email redacted] — 2014-08-04T21:16:28+0300
 **Source:** <https://forum.jackkruse.com/threads/celeste-in-la.11125/post-136732>
 
 > [Jack Kruse said:](/goto/post?id=136724)
@@ -18714,7 +18714,7 @@ Alex, what you said was chilling, and true. "How long can I remain in this kind 
 ### Jack Kruse — 2014-08-05T01:06:31+0300
 **Source:** <https://forum.jackkruse.com/threads/celeste-in-la.11125/post-136759>
 
-> [patgrif@hotmail.com said:](/goto/post?id=136732)
+> [[email redacted] said:](/goto/post?id=136732)
 >
 > Yes Dr Kruse I have missed a lot. It just my Mom was dying now died and I have other things to do here and I find it hard to be 'emotional' and 'rational' at the same time. What I mean is I was aware I am missing 'gold' on the blogs webinars etc but I could not 'split' my brain from grief about my Mom and lots of other family issues. My 'plan' was to go back to LA and 'catch up'
 
@@ -18753,7 +18753,7 @@ yup
 ### Alex97232 — 2014-08-06T00:57:44+0300
 **Source:** <https://forum.jackkruse.com/threads/celeste-in-la.11125/post-136909>
 
-> [patgrif@hotmail.com said:](/goto/post?id=136732)
+> [[email redacted] said:](/goto/post?id=136732)
 >
 > Yes Dr Kruse I have missed a lot. It just my Mom was dying now died and I have other things to do here and I find it hard to be 'emotional' and 'rational' at the same time. What I mean is I was aware I am missing 'gold' on the blogs webinars etc but I could not 'split' my brain from grief about my Mom and lots of other family issues. My 'plan' was to go back to LA and 'catch up'
 
@@ -18767,7 +18767,7 @@ Note to self: Don't try to respond to supportive amazing posts in journal on sma
 ### SeaHorse — 2014-08-06T01:15:52+0300
 **Source:** <https://forum.jackkruse.com/threads/celeste-in-la.11125/post-136912>
 
-> [patgrif@hotmail.com said:](/goto/post?id=136732)
+> [[email redacted] said:](/goto/post?id=136732)
 >
 > Yes Dr Kruse I have missed a lot. It just my Mom was dying now died and I have other things to do here and I find it hard to be 'emotional' and 'rational' at the same time. What I mean is I was aware I am missing 'gold' on the blogs webinars etc but I could not 'split' my brain from grief about my Mom and lots of other family issues. My 'plan' was to go back to LA and 'catch up'
 
@@ -18792,7 +18792,7 @@ Hooray, I am not alone anymore. Another one with smartphone domestication issues
 
 Pat,sorry to hear about your Mum.
 
-### patgrif@hotmail.com — 2014-08-07T08:10:21+0300
+### [email redacted] — 2014-08-07T08:10:21+0300
 **Source:** <https://forum.jackkruse.com/threads/celeste-in-la.11125/post-137090>
 
 Thanks to everybody who expressed condolonces about my Mom. I really appreciate it, it means a lot...............
@@ -18817,7 +18817,7 @@ Doctors can not change your environment........only you can. I can show you how 
 ### QuantumRadical — 2014-08-07T21:37:27+0300
 **Source:** <https://forum.jackkruse.com/threads/celeste-in-la.11125/post-137187>
 
-> [patgrif@hotmail.com said:](/goto/post?id=137090)
+> [[email redacted] said:](/goto/post?id=137090)
 >
 > Thanks to everybody who expressed condolonces about my Mom. I really appreciate it, it means a lot...............
 
@@ -18827,7 +18827,7 @@ Best wishes.
 
 Randy
 
-### patgrif@hotmail.com — 2014-08-08T12:40:37+0300
+### [email redacted] — 2014-08-08T12:40:37+0300
 **Source:** <https://forum.jackkruse.com/threads/celeste-in-la.11125/post-137286>
 
 > [Jack Kruse said:](/goto/post?id=137174)
@@ -24347,7 +24347,7 @@ Well.........DHA link directly to cholesterol levles and they also link to the h
 
 Light is a quantum story..........tied nicely to ubiquination.
 
-### patgrif@hotmail.com — 2015-02-28T17:02:17+0200
+### [email redacted] — 2015-02-28T17:02:17+0200
 **Source:** <https://forum.jackkruse.com/threads/profound-statement-about-hormones-from-ee6.11238/post-156878>
 
 Dr K I know you don't need 'second guessers' or 'anticipators' but I want to have a crack at this. 'Bad' proteins, mis-folden proteins, the kind of proteins found in AZ or the proteins found in 'mad cow' disease need to be 'taken out' (ubiquinated). You pointed out in earlier blogs about how a 'prion' (a 'bad' protein) though molecularly identical (same atomic structure) in 'mad cow' and in AZ emitted a different frequency of light. Your point being I think that even though if was molecularly the same it was a different 'size and shape'. The angles etc of the different atoms in relation to each other were different resulting in a different light emission. (I think of it like shining a light on a structure if the size and shape of things in the structure are different the light will be 'scattered' in a different way - just a naive analogy)
@@ -24417,7 +24417,7 @@ I imagine most of this does not work if the SCN and the peripheral tissues are o
 
 file:///S:/000%20Downloads/fnmol-07-00069.pdf
 
-> A central role for ubiquitination within a circadian clock protein modification code Katarina Stojkovic1, Simon S. Wing2 and Nicolas Cermakian1\* 1 Douglas Mental Health University Institute, McGill University, Montréal, QC, Canada 2 Polypeptide Laboratory, Department of Medicine–McGill University Health Centre Research Institute, McGill University, Montréal, QC, Canada Edited by: Ashok Hegde, Wake Forest School of Medicine, USA Reviewed by: Jason DeBruyne, Morehouse School of Medicine, USA Kazuhiro Yagita, Kyoto Prefectural University of Medicine, Japan \*Correspondence: Nicolas Cermakian, Douglas Mental Health University Institute, McGill University, 6875 LaSalle Boulevard, Montréal, QC H4H 1R3, Canada e-mail: [nicolas.cermakian@mcgill.ca](mailto:nicolas.cermakian@mcgill.ca)
+> A central role for ubiquitination within a circadian clock protein modification code Katarina Stojkovic1, Simon S. Wing2 and Nicolas Cermakian1\* 1 Douglas Mental Health University Institute, McGill University, Montréal, QC, Canada 2 Polypeptide Laboratory, Department of Medicine–McGill University Health Centre Research Institute, McGill University, Montréal, QC, Canada Edited by: Ashok Hegde, Wake Forest School of Medicine, USA Reviewed by: Jason DeBruyne, Morehouse School of Medicine, USA Kazuhiro Yagita, Kyoto Prefectural University of Medicine, Japan \*Correspondence: Nicolas Cermakian, Douglas Mental Health University Institute, McGill University, 6875 LaSalle Boulevard, Montréal, QC H4H 1R3, Canada e-mail: [[email redacted]](mailto:[email redacted])
 >
 > Circadian rhythms, endogenous cycles of about 24 h in physiology, are generated by a master clock located in the suprachiasmatic nucleus of the hypothalamus and other clocks located in the brain and peripheral tissues. Circadian disruption is known to increase the incidence of various illnesses, such as mental disorders, metabolic syndrome, and cancer. At the molecular level, periodicity is established by a set of clock genes via autoregulatory translation–transcription feedback loops. This clock mechanism is regulated by post-translational modifications such as phosphorylation and ubiquitination, which set the pace of the clock. Ubiquitination in particular has been found to regulate the stability of core clock components but also other clock protein functions. Mutation of genes encoding ubiquitin ligases can cause either elongation or shortening of the endogenous circadian period. Recent research has also started to uncover roles for deubiquitination in the molecular clockwork. Here, we review the role of the ubiquitin pathway in regulating the circadian clock and we propose that ubiquitination is a key element in a clock protein modification code that orchestrates clock mechanisms and circadian behavior over the daily cycle.
 
@@ -24464,7 +24464,7 @@ This mechanism seems to regulate iron utilization in dopaminergic neurons=dopami
 
 Google Search, first page...fun....ubiquination is a big deal in circadian regulation and is regulated by both light and peripheral nutrient sensing. I would have had no idea what any of this meant or implied a year ago. Thanks Jack...
 
-### patgrif@hotmail.com — 2015-02-28T21:27:02+0200
+### [email redacted] — 2015-02-28T21:27:02+0200
 **Source:** <https://forum.jackkruse.com/threads/profound-statement-about-hormones-from-ee6.11238/post-156907>
 
 > [Jack Kruse said:](/goto/post?id=156884)
@@ -24478,7 +24478,7 @@ LOL!!
 
 Pat this blog will be easy to get........unlike Josh's pics..........It has only one thrid grade math equation.........the entire blog is based upon what you already know but have yet to see.
 
-### patgrif@hotmail.com — 2015-02-28T23:15:23+0200
+### [email redacted] — 2015-02-28T23:15:23+0200
 **Source:** <https://forum.jackkruse.com/threads/profound-statement-about-hormones-from-ee6.11238/post-156929>
 
 > [Jack Kruse said:](/goto/post?id=156918)
@@ -26274,7 +26274,7 @@ Abstract Author(s):
 Walter E Lowell, George E Davis
 
 Article Affiliation:
-Psybernetics, Inc. (Research Group), 28 Eastern Ave., Augusta, ME 04330, USA. [welowell@gmail.com](mailto:welowell@gmail.com)
+Psybernetics, Inc. (Research Group), 28 Eastern Ave., Augusta, ME 04330, USA. [[email redacted]](mailto:[email redacted])
 
 Abstract:
 This paper describes the Sun's effect on the human genome as it relates to lifespan and expands our previous study from the State of Maine to the entire United States and the District of Columbia. In the current study we report that those persons conceived and likely born during the peaks (MAX approximately 3years) of approximately 11-year solar cycles lived an average 1.7years less than those conceived and likely born during non-peaks (MIN approximately 8years). Increased energy at solar MAX, albeit relatively a small 0.1% increase from MIN, apparently modifies the human genome/epigenome and engenders changes that predispose to various diseases, thereby shortening lifespan. It is likely that same energy increases beneficial variety in the genome which may enhance adaptability in a changing environment. This study also reports that living at higher elevations increases exposure to ultraviolet radiation (UVR) and increases the difference between MAX and MIN in the six states at the highest elevations of their population centroids by approximately 13%, further shortening average lifespan about 3 months. How solar energy affects the genome is still not clear. The mechanism could be quantum mechanical (direct effects at a distance) similar to photosynthesis, or mediated by maternal hormones, chemokines or cytokines. The hypothesis is that specific wavelengths of UVR, experienced at critical times in development as at conception or early gestation, and with specific intensity or rate of change, modulates the expression of human diseases. This hypothesis could be readily testable in mice bred to manifest specific diseases.
@@ -28436,7 +28436,7 @@ Awesome article from Building.Com (For Commercial Buildings) on the issue of blu
 
 **Are Your Occupants Sleep-Deprived?**
 **How lighting affects alertness – and what you can do about it**
-[http://www.buildings.com/article-de...campaign=How Lighting Affects Occupant Health](http://www.buildings.com/article-details/articleid/17798/title/are-your-occupants-sleepdeprived.aspx?topic=644&utm_source=MagnetMail&utm_medium=eNewsletters&utm_term=spandit@stealth.net&utm_content=2014_11_26_BLD_GreenerFacilities&utm_campaign=How%20Lighting%20Affects%20Occupant%20Health)
+[http://www.buildings.com/article-de...campaign=How Lighting Affects Occupant Health](http://www.buildings.com/article-details/articleid/17798/title/are-your-occupants-sleepdeprived.aspx?topic=644&utm_source=MagnetMail&utm_medium=eNewsletters&utm_term=[email redacted]&utm_content=2014_11_26_BLD_GreenerFacilities&utm_campaign=How%20Lighting%20Affects%20Occupant%20Health)
 
 ### Jack Kruse — 2014-11-27T22:00:38+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-148661>
@@ -28756,7 +28756,7 @@ Gulf of Mexico?........................
 
 [http://mobile.nytimes.com/2014/12/20/opinion/why-we-need-the-winter-solstice.html?referrer&\_r=1](http://mobile.nytimes.com/2014/12/20/opinion/why-we-need-the-winter-solstice.html?referrer&_r=1)
 
-### patgrif@hotmail.com — 2014-12-22T03:04:10+0200
+### [email redacted] — 2014-12-22T03:04:10+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-150762>
 
 That's a good story. I read something else in today NY Times magazine. It was about Marissa Meyer the CEO of Yahoo who got the job when she was 6 months pregnant. Anyway she 'boasted' at that time in her life she was getting by sleeping only 4 nights a week. How horrific is that.......................for the baby especially. Not to mention the constant exposure to technology really a modern horror story................
@@ -28773,7 +28773,7 @@ That's a good story. I read something else in today NY Times magazine. It was ab
 
 Graphene...
 
-### patgrif@hotmail.com — 2014-12-22T03:21:55+0200
+### [email redacted] — 2014-12-22T03:21:55+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-150766>
 
 > [Josh said:](/goto/post?id=150763)
@@ -28785,7 +28785,7 @@ I found Peter Duesberg's book "Inventing AIDS" thoroughly convincing I have very
 ### Josh — 2014-12-22T04:19:29+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-150771>
 
-> [patgrif@hotmail.com said:](/goto/post?id=150766)
+> [[email redacted] said:](/goto/post?id=150766)
 >
 > I found Peter Duesberg's book "Inventing AIDS" thoroughly convincing I have very little doubt that the whole AIDS 'industry' got it wrong from the beginning and continue to get it wrong. This is Carey Mullis who supports Duesberg's ideas. I think the whole AIDS story is an epic tragedy (and farce). If you read the newspapers a bit carefully you can see a gradual 'backing down' on HIV etc but will doctors even admit they were wrong or did not know what they were talking about. Not in this universe................this video is really instructive imo............
 >
@@ -29222,7 +29222,7 @@ Scientists stunned by fish in isolated pool under thick glacial ice, 850 km from
 
 > In the healthy adult brain synapses are continuously remodelled through a process of elimination and formation known as structural plasticity[1](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14142.html#ref1). Reduction in synapse number is a consistent early feature of neurodegenerative diseases[2](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14142.html#ref2), [3](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14142.html#ref3), suggesting deficient compensatory mechanisms. Although much is known about toxic processes leading to synaptic dysfunction and loss in these disorders[2](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14142.html#ref2), [3](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14142.html#ref3), how synaptic regeneration is affected is unknown. In hibernating mammals, cooling induces loss of synaptic contacts, which are reformed on rewarming, a form of structural plasticity[4](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14142.html#ref4), [5](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14142.html#ref5). We have found that similar changes occur in artificially cooled laboratory rodents. Cooling and hibernation also induce a number of cold-shock proteins in the brain, including the RNA binding protein, RBM3 (ref. [6](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14142.html#ref6)). The relationship of such proteins to structural plasticity is unknown. Here we show that synapse regeneration is impaired in mouse models of neurodegenerative disease, in association with the failure to induce RBM3. In both prion-infected and 5XFAD (Alzheimer-type) mice[7](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14142.html#ref7), the capacity to regenerate synapses after cooling declined in parallel with the loss of induction of RBM3. Enhanced expression of RBM3 in the hippocampus prevented this deficit and restored the capacity for synapse reassembly after cooling. RBM3 overexpression, achieved either by boosting endogenous levels through hypothermia before the loss of the RBM3 response or by lentiviral delivery, resulted in sustained synaptic protection in 5XFAD mice and throughout the course of prion disease, preventing behavioural deficits and neuronal loss and significantly prolonging survival. In contrast, knockdown of RBM3 exacerbated synapse loss in both models and accelerated disease and prevented the neuroprotective effects of cooling. Thus, deficient synapse regeneration, mediated at least in part by failure of the RBM3 stress response, contributes to synapse loss throughout the course of neurodegenerative disease. The data support enhancing cold-shock pathways as potential protective therapies in neurodegenerative disorders.
 
-### patgrif@hotmail.com — 2015-01-27T02:29:45+0200
+### [email redacted] — 2015-01-27T02:29:45+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-153943>
 
 JH Kunstler puts out a blog every week. He is a 'doomer' but I find what he has to say quite relevant to some of the things we are facing now................
@@ -29414,14 +29414,14 @@ Energy and Epigenetics explains why iron accumulation occurs.
 
 "**EMF SMOKING GUN FOR THE BIOLOGY GEEKS:** When EMF is high so are inflammatory cytokines and tissues begin to concentrate iron for protection from the EMF. "
 
-### patgrif@hotmail.com — 2015-02-22T19:23:53+0200
+### [email redacted] — 2015-02-22T19:23:53+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-156293>
 
 I thought this was a nice kind of summing up/explanation of some of the quantum issues that were being debated here a while ago. This if from to-day's NY Times
 
 [http://www.nytimes.com/2015/02/22/opinion/sunday/the-reality-of-quantum-weirdness.html?\_r=0](http://www.nytimes.com/2015/02/22/opinion/sunday/the-reality-of-quantum-weirdness.html?_r=0)
 
-### patgrif@hotmail.com — 2015-02-22T19:34:16+0200
+### [email redacted] — 2015-02-22T19:34:16+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-156295>
 
 And here's another one from the same paper today about Parkinson's Disease. The article is 'upbeat' about drugs as a 'cure' for Parkinson's I would not be at all. It makes me appreciate Dr K's perspective, the article only goes so 'deep' as neuro-transmitters dopamine especially and kind of stops there. Dr K emphasizes what is 'below' that the bio-physics underlying the bio-chemistry. It definitely implicates 'mis-folded proteins' but WHY? Dr K goes to that place imho....................neuro-transmitter deficits can be explained by lack of DC current etc..........though of course 'restoring' that DC current is still a big challenge............
@@ -29484,7 +29484,7 @@ oh yeah, and:
 
 [http://www.newscientist.com/article...formed-by-sponge-microbiome.html#.VOzGkmdJbAk](http://www.newscientist.com/article/dn27020-were-early-seas-transformed-by-sponge-microbiome.html#.VOzGkmdJbAk)
 
-### patgrif@hotmail.com — 2015-02-25T03:45:19+0200
+### [email redacted] — 2015-02-25T03:45:19+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-156535>
 
 This is an interesting article on a '3 person baby' the nuclear genome from one woman and the mitochondrial genes from a different woman. I would be skeptical about this actually working out well........................
@@ -29725,7 +29725,7 @@ Yet another DHA story.
 
 **[http://www.dailymail.co.uk/sciencet...NOT-ancestors-say-change-think-evolution.html](http://www.dailymail.co.uk/sciencetech/article-2994187/Mystery-alien-genes-Scientists-discover-DNA-NOT-ancestors-say-change-think-evolution.html)**
 
-### patgrif@hotmail.com — 2015-03-18T20:51:54+0200
+### [email redacted] — 2015-03-18T20:51:54+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-158887>
 
 > [Jonathin said:](/goto/post?id=158884)
@@ -29758,7 +29758,7 @@ Pat I got a great tweet from Neil today about the LA talk........apparently the 
 
 cool.........I was wondering how it was going.......
 
-### patgrif@hotmail.com — 2015-03-19T03:17:21+0200
+### [email redacted] — 2015-03-19T03:17:21+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-158927>
 
 > [Jack Kruse said:](/goto/post?id=158923)
@@ -29912,7 +29912,7 @@ Basically means that if such conditions are available in the body, then componen
 
 ....
 
-### patgrif@hotmail.com — 2015-03-24T11:52:18+0200
+### [email redacted] — 2015-03-24T11:52:18+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-159357>
 
 > [prAna303 said:](/goto/post?id=159350)
@@ -30364,7 +30364,7 @@ excellent read:[http://body.io/a-call-to-abandon-the-paleo-diet-and-the-pursuit-
 
 Paleo leaders now realizing their mistakes....... [http://ow.ly/Mmq6F](http://ow.ly/Mmq6F)
 
-### patgrif@hotmail.com — 2015-05-01T03:53:38+0300
+### [email redacted] — 2015-05-01T03:53:38+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-162916>
 
 [http://www.espnfc.us/ksc-lokeren/st...gory-mertens-dies-three-days-after-collapsing](http://www.espnfc.us/ksc-lokeren/story/2426127/lokerens-gregory-mertens-dies-three-days-after-collapsing)
@@ -31338,7 +31338,7 @@ This reminds me of those mind-numbing discussions one sometimes sees on Paleo bo
 
 And I suspect this is one reason - among a number of different reasons - Jack wants people to read Professor Crawford's T_he Driving Force_. If you focus in on Neo-Darwinian theory, you miss half the picture. What organisms are, and can become, is something that's constrained by the laws of physics.
 
-### patgrif@hotmail.com — 2015-07-12T04:37:15+0300
+### [email redacted] — 2015-07-12T04:37:15+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-171725>
 
 > [RobH said:](/goto/post?id=171704)
@@ -31352,7 +31352,7 @@ Yes Rob, and I 'follow' these things for some reason but EVERY single one of the
 ### Gagnrad — 2015-07-12T10:05:21+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-171740>
 
-> [patgrif@hotmail.com said:](/goto/post?id=171725)
+> [[email redacted] said:](/goto/post?id=171725)
 >
 > Yes Rob, and I 'follow' these things for some reason but EVERY single one of the teenage or later 'mass shooting' and if you delve into it these guys are on psych-meds. Columbine, the guy in CT that shot all the children (Adam Lanza), the guy in the cinema in CO, the latest one also that shot up the black church (Roof). The guy who deliberately crashed the Germanwings plane in France was on lots of them. (Dr K was implicating 'altitude' and EMF etc I am sure a factor but I sort of think the psych-meds a more immediate 'cause') Also the guy who killed like over 30 students in Virginia. EVERY single one of them if you look are on some kind of psych-meds. So even on their own bogus notion of these drugs providing 'control' they clearly do not. It's a very ugly picture..............the Matrix (lol) has a lot to answer for.
 
@@ -31372,7 +31372,7 @@ We've got an ex-vice President of Pfizer spilling the beans now:
 
 [http://www.collective-evolution.com...-the-truth-about-the-pharmaceutical-industry/](http://www.collective-evolution.com/2015/07/07/pfizer-vice-president-blows-the-whistle-tells-the-truth-about-the-pharmaceutical-industry/)
 
-### patgrif@hotmail.com — 2015-07-12T16:59:03+0300
+### [email redacted] — 2015-07-12T16:59:03+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-171751>
 
 Mike (Gangrad) I know you like reading. Dr K a few years ago mentioned Nick Lane as being a good author on biology, evolution, etc etc. Well I would VERY strongly recommend him. He has about 4 books at least I am 1/2 through the second one "Oxygen". All of his books are super interesting and it is sort of great to see underneath what Dr K has been talking about and telling us. Some of the science is a bit beyond me but I try to get the big picture of what he is saying.
@@ -31384,7 +31384,7 @@ He is British also and has a very nice and non dogmatic style. I feel him like a
 ### Gagnrad — 2015-07-12T17:22:04+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-171754>
 
-> [patgrif@hotmail.com said:](/goto/post?id=171751)
+> [[email redacted] said:](/goto/post?id=171751)
 >
 > Mike (Gangrad) I know you like reading. Dr K a few years ago mentioned Nick Lane as being a good author on biology, evolution, etc etc. Well I would VERY strongly recommend him. He has about 4 books at least I am 1/2 through the second one "Oxygen".
 
@@ -31393,7 +31393,7 @@ Thanks! I heard about his "Power, Sex, Suicide: Mitochondria and the meaning of 
 ### RobH — 2015-07-12T18:21:12+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-171757>
 
-> [patgrif@hotmail.com said:](/goto/post?id=171725)
+> [[email redacted] said:](/goto/post?id=171725)
 >
 > Yes Rob, and I 'follow' these things for some reason but EVERY single one of the teenage or later 'mass shooting' and if you delve into it these guys are on psych-meds. Columbine, the guy in CT that shot all the children (Adam Lanza), the guy in the cinema in CO, the latest one also that shot up the black church (Roof). The guy who deliberately crashed the Germanwings plane in France was on lots of them. (Dr K was implicating 'altitude' and EMF etc I am sure a factor but I sort of think the psych-meds a more immediate 'cause') Also the guy who killed like over 30 students in Virginia. EVERY single one of them if you look are on some kind of psych-meds. So even on their own bogus notion of these drugs providing 'control' they clearly do not. It's a very ugly picture..............the Matrix (lol) has a lot to answer for.
 
@@ -31601,7 +31601,7 @@ October 5th to 11th, 2015
 
 **Contact Information**
 
--   [info@wsim2015.com](mailto:info@wsim2015.com)
+-   [[email redacted]](mailto:[email redacted])
 -   877-888-8970
 -   Honolulu, Hawaii, USA
 
@@ -31679,7 +31679,7 @@ I noticed that, too. Robb also often says things like "I used to think …" and 
 
 I've also heard interviewees, who have obviously being doing the rounds (maybe they've got a book out of something), say to Robb that something he's asked is the most interesting and thoughtful question they've yet been asked.
 
-### patgrif@hotmail.com — 2015-07-16T21:18:07+0300
+### [email redacted] — 2015-07-16T21:18:07+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-172141>
 
 > [Jack Kruse said:](/goto/post?id=172127)
@@ -31715,7 +31715,7 @@ _The goal here is to induce female sterility._
 
 [https://jonrappoport.wordpress.com/...trix-covert-birth-control-female-sterility-2/](https://jonrappoport.wordpress.com/2015/07/15/the-vaccine-matrix-covert-birth-control-female-sterility-2/)
 
-### patgrif@hotmail.com — 2015-07-17T03:28:02+0300
+### [email redacted] — 2015-07-17T03:28:02+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-172157>
 
 > [TimB said:](/goto/post?id=172153)
@@ -31736,7 +31736,7 @@ Pat I know I dont have it all down.........but I do know how to follow nature's 
 ### Gagnrad — 2015-07-17T09:43:24+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-172171>
 
-> [patgrif@hotmail.com said:](/goto/post?id=172157)
+> [[email redacted] said:](/goto/post?id=172157)
 >
 > Tim, I happened to read that also. I get regular emails from Jon Rappoport, I think the guy is quite brilliant and so correct on vaccines. He also wrote a very prescient book about HIV/AIDS called AIDS Inc and already in 1987 debunked the HIV theory of Gallo/Montaignier. I believe he was totally correct!
 
@@ -31761,7 +31761,7 @@ Prehistoric dentistry performed with microlith 14,000 years ago revealed by elec
 
 [http://www.telegraph.co.uk/news/wor...dimentary-dentistry-from-14000-years-ago.html](http://www.telegraph.co.uk/news/worldnews/europe/italy/11741211/Scientists-discover-evidence-of-rudimentary-dentistry-from-14000-years-ago.html)
 
-### patgrif@hotmail.com — 2015-07-17T17:31:30+0300
+### [email redacted] — 2015-07-17T17:31:30+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-172180>
 
 > [Gagnrad said:](/goto/post?id=172171)
@@ -31789,7 +31789,7 @@ My brother is sheep farmer in Ireland and I have been talking to him also about 
 ### Gagnrad — 2015-07-17T18:14:55+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-172185>
 
-> [patgrif@hotmail.com said:](/goto/post?id=172180)
+> [[email redacted] said:](/goto/post?id=172180)
 >
 > Mike, I have heard of him on some political type sites counterpunch.org etc but have not read him. I just a little bit now on "Seeds of Destruction" sounds very good I might get it. I tend to like books that have a bit of a 'political' bent or at least books that do not ignore that aspect. Politics can be pretty broad and often affects things in ways not easily seen.
 
@@ -31823,7 +31823,7 @@ But I only just found that out, and if you've been following these issues, you p
 
 Unfortunately, it seems to be really easy for interested parties to manipulate all the clowns of the world just by claiming that what suits them financially is "science" and any kind of questioning at all is obscurantism. They're basically appealing to people's pride: their wish to see themselves as enlightened and advanced without having to spend the time and effort really looking into the detail of anything: and unfortunately it works.
 
-### patgrif@hotmail.com — 2015-07-17T20:37:56+0300
+### [email redacted] — 2015-07-17T20:37:56+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-172193>
 
 Yes Mike very interesting, I listened to that interview with Engdahl very much to the point I think. His website is also very interesting and now I realize I have heard of him in political circles like his book "Full Spectrum Dominance" was quite well known a few years ago. What is interesting to me now the way I see it there is tie in between GMO's and vaccines maybe not so obvious on the surface. Vaccines more and more ARE becoming a form of 'genetic engineering'. So on the 'outside' we have GMO plants and animals and on the 'inside' vaccination of humans and animals. Animals get it from both directions poor things! About this subject here is something from a recent Rappaport essay
@@ -31972,7 +31972,7 @@ For example, Did you know wearing shoes maybe a leading cause of Alzheimer’s?!
 .
 .
 
-### patgrif@hotmail.com — 2015-07-21T04:16:08+0300
+### [email redacted] — 2015-07-21T04:16:08+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-172467>
 
 This may not exactly be in the proper thread...............anyway I have been thinking about getting a Kindle. I find myself reading a lot of books and the price is so much better oftentimes plus no wait etc.
@@ -31984,7 +31984,7 @@ Anyway my question is what do people think/know about Kindles from an EMF standp
 
 I hope this is a joke.
 
-### patgrif@hotmail.com — 2015-07-21T04:54:25+0300
+### [email redacted] — 2015-07-21T04:54:25+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-172473>
 
 > [Jack Kruse said:](/goto/post?id=172472)
@@ -32001,13 +32001,13 @@ No - not a joke. Are you saying it's a bad idea? I am open to all information if
 ### Jack Kruse — 2015-07-21T05:14:23+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-172476>
 
-> [patgrif@hotmail.com said:](/goto/post?id=172473)
+> [[email redacted] said:](/goto/post?id=172473)
 >
 > No - not a joke. Are you saying it's a bad idea? I am open to all information if it is I will not get one
 
 Kindle is a blue lit screen Pat.
 
-### patgrif@hotmail.com — 2015-07-21T05:46:39+0300
+### [email redacted] — 2015-07-21T05:46:39+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-172481>
 
 > [Jack Kruse said:](/goto/post?id=172476)
@@ -32021,7 +32021,7 @@ Well I guess that settles that then. Particularly for me and T2D problem. See I 
 
 My e reader is not illuminated. Having said that, I rarely use it, I prefer books.
 
-### patgrif@hotmail.com — 2015-07-21T06:17:17+0300
+### [email redacted] — 2015-07-21T06:17:17+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-172484>
 
 > [endless said:](/goto/post?id=172482)
@@ -32048,7 +32048,7 @@ The International Center for Integrative Systems seems to be mainly ex-MIT peopl
 
 Kindle on epaper is just fine. it's very practical. Obviously tablets with traditional lcd's suck. But epaper is actually a good technology. Obviously good old books are better in some ways, if you have space for them, not travel, and you can find them..
 
-### patgrif@hotmail.com — 2015-07-21T15:18:05+0300
+### [email redacted] — 2015-07-21T15:18:05+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-172508>
 
 > [thomas said:](/goto/post?id=172506)
@@ -32062,7 +32062,7 @@ Now I am a bit 'confused' all over again so I guess the question is "is epaper a
 
 Epaper doesn't emit light. It only reflects it. (some expensive non mainstream lcd's do so as well, which is a thing i am researching now).
 
-### patgrif@hotmail.com — 2015-07-21T15:32:10+0300
+### [email redacted] — 2015-07-21T15:32:10+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-172511>
 
 > [thomas said:](/goto/post?id=172509)
@@ -32093,7 +32093,7 @@ Print what you need if you want to read. The trick is to browse quickly and choo
 
 Every moment with technology has a price and we pay with our energy.
 
-### patgrif@hotmail.com — 2015-07-21T16:11:59+0300
+### [email redacted] — 2015-07-21T16:11:59+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-172518>
 
 > [thomas said:](/goto/post?id=172512)
@@ -32123,7 +32123,7 @@ Prana I love (actually prefer) good old books too. I just dislike the fact they 
 
 [http://www.ncbi.nlm.nih.gov/m/pubmed/25144192/](http://www.ncbi.nlm.nih.gov/m/pubmed/25144192/) DHA has a cycle too......no surprise
 
-### patgrif@hotmail.com — 2015-07-21T19:26:26+0300
+### [email redacted] — 2015-07-21T19:26:26+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-172532>
 
 > [Jack Kruse said:](/goto/post?id=172528)
@@ -32225,7 +32225,7 @@ Australia:
 
 [http://www.theage.com.au/nsw/why-allergies-are-booming-20150717-gie7ly.html](http://www.theage.com.au/nsw/why-allergies-are-booming-20150717-gie7ly.html)
 
-### patgrif@hotmail.com — 2015-07-22T21:07:20+0300
+### [email redacted] — 2015-07-22T21:07:20+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-172672>
 
 > [Gagnrad said:](/goto/post?id=172669)
@@ -32517,7 +32517,7 @@ This would be like congratulating yourself on having no wildcats, when they've g
 
 Of course, big business is doing this everywhere in the modern world, but AFAICT it's doing it in the U.S. to a greater extent than elsewhere.
 
-### patgrif@hotmail.com — 2015-07-26T05:01:43+0300
+### [email redacted] — 2015-07-26T05:01:43+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173020>
 
 I was at Dave Asprey's event today, the opening of the "Bulletproof Coffee" store in Santa Monica. It was interesting I definitely get the feeling Dave is above all a salesman. I can see all kinds of products and 'tie ins' to come out of this. He was there himself looking relaxed and in control.
@@ -32554,7 +32554,7 @@ Also check in on other things, many clues to life here.
 ### Inger — 2015-07-26T16:20:52+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173053>
 
-> [patgrif@hotmail.com said:](/goto/post?id=173020)
+> [[email redacted] said:](/goto/post?id=173020)
 >
 > I was at Dave Asprey's event today, the opening of the "Bulletproof Coffee" store in Santa Monica. It was interesting I definitely get the feeling Dave is above all a salesman. I can see all kinds of products and 'tie ins' to come out of this. He was there himself looking relaxed and in control.
 >
@@ -32634,7 +32634,7 @@ The Neanderthal inside us:
 ### yewwei.tan — 2015-07-27T00:59:14+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173150>
 
-> [patgrif@hotmail.com said:](/goto/post?id=173020)
+> [[email redacted] said:](/goto/post?id=173020)
 >
 > I was at Dave Asprey's event today, the opening of the "Bulletproof Coffee" store in Santa Monica. It was interesting I definitely get the feeling Dave is above all a salesman. I can see all kinds of products and 'tie ins' to come out of this. He was there himself looking relaxed and in control.
 >
@@ -32797,7 +32797,7 @@ More on sleep:
 ### bio-fractal-soul-self — 2015-07-27T18:34:09+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173231>
 
-> [patgrif@hotmail.com said:](/goto/post?id=173020)
+> [[email redacted] said:](/goto/post?id=173020)
 >
 > I was at Dave Asprey's event today, the opening of the "Bulletproof Coffee" store in Santa Monica. It was interesting I definitely get the feeling Dave is above all a salesman. I can see all kinds of products and 'tie ins' to come out of this. He was there himself looking relaxed and in control.
 >
@@ -32841,7 +32841,7 @@ But what I'd like to do is to point again to the phenomenon of "sentimentality".
 
 Think about _that_ meaning, and what it says about us and our tendencies as human beings. Then, since we've been asked to think about the different ways in which science and art - "art" being conceived here in a Hegelian sense, I take it - apprehend the world, notice that no one has ever criticised a scientific hypothesis as being sentimental. If anyone thinks quietly and closely enough for long enough about that one, I suggest he or she will discover some interesting things.
 
-### patgrif@hotmail.com — 2015-07-27T20:35:29+0300
+### [email redacted] — 2015-07-27T20:35:29+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173245>
 
 Thanks Yew and Bio-Fractal about the membrane issue. I wonder in general does it make sense to distinguish the 'internal' membranes from the actual cell membrane. For example is the membrane(s) that encase the nucleus of the cell essentially the same as the CM itself. They are all 'lipids' in the broad sense I suppose so DHA would I imagine be as important in either one. This also applies to the other membranes throughout the cell - question being are they all basically 'similar'
@@ -32955,7 +32955,7 @@ Carbon sink under world's deserts:
 
 I love pendulums, so simple on the surface but some really deep physics behind them. This is a little of topic but for all other pendulum geeks like me out there they will get a kick out of this... [http://www.veljkomilkovic.com/OscilacijeEng.html](http://www.veljkomilkovic.com/OscilacijeEng.html)
 
-### patgrif@hotmail.com — 2015-07-29T15:14:11+0300
+### [email redacted] — 2015-07-29T15:14:11+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173398>
 
 > [Jack Kruse said:](/goto/post?id=173289)
@@ -32977,7 +32977,7 @@ You may have your own valid reasons for not wanting to get embroiled in the vacc
 ### NeilBB — 2015-07-29T16:53:00+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173410>
 
-> [patgrif@hotmail.com said:](/goto/post?id=173398)
+> [[email redacted] said:](/goto/post?id=173398)
 >
 > Dr Kruse: First off I will admit vaccines or rather the danger and ineffectiveness of them has become somewhat of a 'cause' for me. But a cause based on fairly extensive reading and also some actual experience with some people and more specifically animals through my brother who is sheep farmer in Ireland. This is probably not the right time or place to go into it though I could - if you have a week!
 >
@@ -32996,7 +32996,7 @@ I also think that many vaccines as they are currently being employed are spiked 
 
 The Devil's always in the details. Babies are always thrown out with bathwater. The world is seldom as black and white as most modern "movements" would suggest.
 
-### patgrif@hotmail.com — 2015-07-29T17:08:31+0300
+### [email redacted] — 2015-07-29T17:08:31+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173411>
 
 > [NeilBB said:](/goto/post?id=173410)
@@ -33020,7 +33020,7 @@ Vaccines have become GMO's for humans and animals..................not at all be
 
 Today's misuse of vaccines is one of many problems of the current direction of society. It has simply become another tool of the powers-that-be. But vaccines are not the fundamental issue, more of a symptom. But I do share your concerns about the current use of them, especially in California.
 
-### patgrif@hotmail.com — 2015-07-29T17:25:59+0300
+### [email redacted] — 2015-07-29T17:25:59+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173414>
 
 This is something about vaccines as it is happening now in California by a writer I very much respect - Jon Rappoport
@@ -33096,7 +33096,7 @@ I think in a connected age (and perhaps in any age) it's difficult, and probably
 
 When some of what's been going on in _all_ these areas becomes better known it could severely damage public confidence in a few professions and "authorities" and "experts". Perhaps that would be no bad thing.
 
-### patgrif@hotmail.com — 2015-07-29T20:36:05+0300
+### [email redacted] — 2015-07-29T20:36:05+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173427>
 
 > [NeilBB said:](/goto/post?id=173415)
@@ -33107,7 +33107,7 @@ That's correct Neil and that is the eventual goal. But this vaccine thing is wor
 
 But again to be clear I am not asking him to take a 'position' but sometimes I feel his insights are not the easiest to grasp but once they are they should be 'useful' and 'actionable'. Not that they are not in the 'positive' sense (the benefits of cold, good water, DHA, sleep etc etc) that's all good...................but also I think they should be able to or used as a 'negative' critique of certain things and right now I am thinking about vaccines. And the funny thing they are like the notion about aluminum not absorbing and releasing light in a way that biology can use is great and throws more light  on all this. All the more I think it is a shame to then kind of 'waste' the insight with 'they are both wrong' type of approach
 
-### patgrif@hotmail.com — 2015-07-29T20:43:56+0300
+### [email redacted] — 2015-07-29T20:43:56+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173428>
 
 > [Gagnrad said:](/goto/post?id=173426)
@@ -33129,7 +33129,7 @@ Thanks Mike, it does not surprise me in the least. I would disagree though with 
 ### Gagnrad — 2015-07-29T20:59:39+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173429>
 
-> [patgrif@hotmail.com said:](/goto/post?id=173428)
+> [[email redacted] said:](/goto/post?id=173428)
 >
 > Thanks Mike, it does not surprise me in the least. I would disagree though with the central thrust of the story namely that there are 'perfect' vaccines that mimic the original disease. "Perfect" would be exposure to the so called original disease to put it simply. Not nearly as scary as it sounds.
 
@@ -33169,7 +33169,7 @@ They just added an interesting article by MIT researcher Stephanie Seneff:
 
 So what happens when you look at your iphone 150 times a day, use a laptop and ipad in school, come home do 2hours of homework inside in fake light and then play video games and watch TV before bed? nnEMF dehydrates you. [http://ow.ly/Qfjb5](http://ow.ly/Qfjb5)
 
-### patgrif@hotmail.com — 2015-07-30T02:24:58+0300
+### [email redacted] — 2015-07-30T02:24:58+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173458>
 
 > [Gagnrad said:](/goto/post?id=173429)
@@ -33184,7 +33184,7 @@ So what happens when you look at your iphone 150 times a day, use a laptop and i
 
 Yes I will Mike, I was in Ireland and England all last Summer but you had 'disappeared' from the Forum for a while I think. I am glad to see you back, you post many interesting links and stories and give us all a lot to think about.
 
-### patgrif@hotmail.com — 2015-07-30T02:30:25+0300
+### [email redacted] — 2015-07-30T02:30:25+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173459>
 
 > [Jack Kruse said:](/goto/post?id=173443)
@@ -33244,7 +33244,7 @@ BOOM (this was in the doctors only part of the site.........but because I like y
 
 "Vaccines have become GMO's for humans and animals..................not at all benign." **_I have a part of Ubi 21 that will floor you based upon this sentence_**
 
-### patgrif@hotmail.com — 2015-07-30T04:26:59+0300
+### [email redacted] — 2015-07-30T04:26:59+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173488>
 
 > [Jack Kruse said:](/goto/post?id=173483)
@@ -33281,7 +33281,7 @@ Its how the immune system is designed to work.........so putting in Aluminum in 
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### patgrif@hotmail.com — 2015-07-30T15:29:32+0300
+### [email redacted] — 2015-07-30T15:29:32+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173526>
 
 > [Jack Kruse said:](/goto/post?id=173490)
@@ -33302,7 +33302,7 @@ Sometimes bridges are better off burned.
 ### Gagnrad — 2015-07-30T20:04:36+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173543>
 
-> [patgrif@hotmail.com said:](/goto/post?id=173526)
+> [[email redacted] said:](/goto/post?id=173526)
 >
 > this somewhat deep and obscure science
 
@@ -33339,7 +33339,7 @@ This lady probably isn't right about everything - who could be? But as far as I 
 
 And notice here is an objection that is _not_ solely dependent on the possible problems posed by adjuvants, which are only mentioned in the final sentence quoted there.
 
-### patgrif@hotmail.com — 2015-07-30T22:03:16+0300
+### [email redacted] — 2015-07-30T22:03:16+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173555>
 
 > [Jack Kruse said:](/goto/post?id=173532)
@@ -33362,7 +33362,7 @@ And notice here is an objection that is _not_ solely dependent on the possible p
 >
 > And notice here is an objection that is _not_ solely dependent on the possible problems posed by adjuvants, which are only mentioned in the final sentence quoted there.
 
-### patgrif@hotmail.com — 2015-07-30T22:07:57+0300
+### [email redacted] — 2015-07-30T22:07:57+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173556>
 
 Mike, I think you have done a fine job of researching vaccines and you show a very good and open mind. And you're right it goes deeper..............the problem is NOT just with the adjuvants though they are a big problem for sure. The problem the way I see it is with ALL of the so called 'science' involved in vaccines. The vaccines themselves even on their own terms are 'dirty' to put it mildly..............the idea of a 'perfect vaccine' is a perfect fantasy.
@@ -33372,7 +33372,7 @@ If you want this 'proved' read two books by Janine Roberts "Fear of the Invisibl
 ### Gagnrad — 2015-07-30T22:09:55+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173557>
 
-> [patgrif@hotmail.com said:](/goto/post?id=173556)
+> [[email redacted] said:](/goto/post?id=173556)
 >
 > Mike, I think you have done a fine job of researching vaccines and you show a very good and open mind. And you're right it goes deeper..............the problem is NOT just with the adjuvants though they are a big problem for sure. The problem the way I see it is with ALL of the so called 'science' involved in vaccines. The vaccines themselves even on their own terms are 'dirty' to put it mildly..............the idea of a 'perfect vaccine' is a perfect fantasy.
 >
@@ -33426,7 +33426,7 @@ Redox controls crystal growth.......of this I am sure and environmental EMF is t
 
 No clue about mechanisms. But they are seeing big emperical results.
 
-### patgrif@hotmail.com — 2015-08-02T02:57:33+0300
+### [email redacted] — 2015-08-02T02:57:33+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-173756>
 
 > [Jack Kruse said:](/goto/post?id=173532)
@@ -33505,7 +33505,7 @@ More on colour:
 
 [http://nautil.us/issue/26/color/why-red-means-red-in-almost-every-language](http://nautil.us/issue/26/color/why-red-means-red-in-almost-every-language)
 
-### patgrif@hotmail.com — 2015-08-06T17:22:47+0300
+### [email redacted] — 2015-08-06T17:22:47+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-174105>
 
 This is a bit of a 'hobby horse' of mine but I think worth reading. Jon Rappoport is a very good thinker in this area (vaccines and viruses - what Dr K correctly calls 'viri' but too 'medical' and a bit too Latiny for me lol).................anyway worth reading IMHO
@@ -33520,7 +33520,7 @@ Nice data on Sunlight.........there is hope for mankind yet: [http://medicalxpre
 ### Gagnrad — 2015-08-07T20:50:34+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-174207>
 
-> [patgrif@hotmail.com said:](/goto/post?id=174105)
+> [[email redacted] said:](/goto/post?id=174105)
 >
 > This is a bit of a 'hobby horse' of mine but I think worth reading. Jon Rappoport is a very good thinker in this area (vaccines and viruses - what Dr K correctly calls 'viri' but too 'medical' and a bit too Latiny for me lol).................anyway worth reading IMHO
 >
@@ -33779,17 +33779,17 @@ Seems to me that beige fat would increase the magnetism in those additional fat 
 [http://losangeles.cbslocal.com/2015/05/05/woman-cuts-family-off-from-wifi-over-health-concerns/](http://losangeles.cbslocal.com/2015/05/05/woman-cuts-family-off-from-wifi-over-health-concerns/)
 Local (LOS ANGELES ) | Video & Text Article
 
-### patgrif@hotmail.com — 2015-08-16T02:44:53+0300
+### [email redacted] — 2015-08-16T02:44:53+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-174804>
 
 I wonder if Dr K (or anyone else) has an opinion on this. It is actually just an 'ad'..................and personally I would be highly skeptical of stuff like that. But there seems to be some 'results' but at what cost I would wonder. I think this is the kind of stuff Dave Asprey is into.
 
 [http://www.cnn.com-news.report/us/brain01/cnn/hawking-2015.php?sid=harrys01&q=1asvjap](http://www.cnn.com-news.report/us/brain01/cnn/hawking-2015.php?sid=harrys01&q=1asvjap)
 
-### patgrif@hotmail.com — 2015-08-16T03:18:56+0300
+### [email redacted] — 2015-08-16T03:18:56+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-174805>
 
-> [patgrif@hotmail.com said:](/goto/post?id=174804)
+> [[email redacted] said:](/goto/post?id=174804)
 >
 > I wonder if Dr K (or anyone else) has an opinion on this. It is actually just an 'ad'..................and personally I would be highly skeptical of stuff like that. But there seems to be some 'results' but at what cost I would wonder. I think this is the kind of stuff Dave Asprey is into.
 >
@@ -33822,7 +33822,7 @@ I used to practice imaginary typing while riding the school bus.
 
 Wim and I can do what few others can in cold. He does a lot more with it but I can tell you how the biophysics works in humans down to the pathways. IT is time to learn this for yourself. [http://www.vice.com/en\_uk/video/iceman](http://www.vice.com/en_uk/video/iceman)
 
-### patgrif@hotmail.com — 2015-08-17T08:21:43+0300
+### [email redacted] — 2015-08-17T08:21:43+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-174895>
 
 This I found to be an interesting (and scary) story in the NY Times today about what it is like to work at Amazon.com. The story is a bit long but it paints a picture of a brutal dehumanizing place to work......................and it never even mentions the nnEMF issue which I am sure is a big one. They mentioned how employees are expected to answer texts they receive after midnight and if they don't they get a follow up text asking why they didn't. Huge burnout is the result and as I say no mention even of the nnEMF issue
@@ -35481,7 +35481,7 @@ Why bears can be obese and healthy
 
 Gravity, or the lack thereof... some quantum ball use in here with a lot of colors:
 
-### patgrif@hotmail.com — 2016-02-24T00:11:10+0200
+### [email redacted] — 2016-02-24T00:11:10+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-189677>
 
 I thought this was interesting, basically says EXACTLY what Dr Kruse was saying 4 years ago. Our solar panel (hairless skin) harvests the extra energy needed to run the brain (energy hog). It's cool to read this and I guess sort of 'prove' Dr K is on the right track not that I have ever doubted him lol!
@@ -36534,7 +36534,7 @@ Doesn't look like a hoax... that's why I posted this.
 
 Listen to: Enter The Quiet Zone: Where Cell Service, Wi-Fi Are Banned - [http://one.npr.org/i/218976699:230358995](http://one.npr.org/i/218976699:230358995)
 
-### patgrif@hotmail.com — 2016-11-09T23:23:09+0200
+### [email redacted] — 2016-11-09T23:23:09+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-203756>
 
 Dr Kruse: you mentioned a little while ago (can't find the post) about how you were going to relate your map about blue light etc to the election results. I would be interested and curious about this. On a simple level they have been showing the election results based on county (not state) and it is remarkable how the split between Trump and Clinton very much follows country v city. Anyway just curious what you have on this if you have the time and care to show it
@@ -36542,7 +36542,7 @@ Dr Kruse: you mentioned a little while ago (can't find the post) about how you w
 ### Optimalbound — 2016-11-10T03:02:16+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-203764>
 
-> [patgrif@hotmail.com said:](/goto/post?id=203756)
+> [[email redacted] said:](/goto/post?id=203756)
 >
 > Dr Kruse: you mentioned a little while ago (can't find the post) about how you were going to relate your map about blue light etc to the election results. I would be interested and curious about this. On a simple level they have been showing the election results based on county (not state) and it is remarkable how the split between Trump and Clinton very much follows country v city. Anyway just curious what you have on this if you have the time and care to show it
 
@@ -36589,7 +36589,7 @@ This family has a large pct of early onset ALZ. They are doing a five year trial
 ### Jack Kruse — 2016-11-29T03:33:28+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-204462>
 
-> [patgrif@hotmail.com said:](/goto/post?id=203756)
+> [[email redacted] said:](/goto/post?id=203756)
 >
 > Dr Kruse: you mentioned a little while ago (can't find the post) about how you were going to relate your map about blue light etc to the election results. I would be interested and curious about this. On a simple level they have been showing the election results based on county (not state) and it is remarkable how the split between Trump and Clinton very much follows country v city. Anyway just curious what you have on this if you have the time and care to show it
 
@@ -36598,7 +36598,7 @@ Patrick glad you asked: The bio- hack is complete and the hypothesis was confirm
 ### Jack Kruse — 2016-11-29T03:33:37+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-204463>
 
-> [patgrif@hotmail.com said:](/goto/post?id=203756)
+> [[email redacted] said:](/goto/post?id=203756)
 >
 > Dr Kruse: you mentioned a little while ago (can't find the post) about how you were going to relate your map about blue light etc to the election results. I would be interested and curious about this. On a simple level they have been showing the election results based on county (not state) and it is remarkable how the split between Trump and Clinton very much follows country v city. Anyway just curious what you have on this if you have the time and care to show it
 
@@ -38813,7 +38813,7 @@ Pretty grim outlook for us all though. Perhaps telecommunications utilising quan
 >
 > The control of twisted quantum states is much more complicated than the control of polarization states, but the possibility of being able to entangle photons on multiple levels is worth the effort, says Krenn. Photons can exist only in two polarization states or levels, up and down. But the number of orbital angular momentum states is, in theory, unlimited, explains Krenn. “In the lab, we have shown that we can create a 100-dimensional entanglement—up to a hundred different levels of the photons can be entangled.” And that will mean a truly high-bandwidth, uncrackable global network.
 
-### patgrif@hotmail.com — 2017-08-09T08:16:10+0300
+### [email redacted] — 2017-08-09T08:16:10+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-221254>
 
 I havn't been on here for a long while but just happened to read this in the Guardian about how a guy ran 87 miles then went to the swim part.................and died. Anyway I was reminded of Dr Kruse because this is EXACTLY what he said was a great danger. This was about 3 years ago and I have forgotten what exactly the 'science' was but had something to do with the body being 'entrained' for heat during the run and then is plunged into the cold water which is some kind of 'mis-match' the mitochondria especially cannot deal with. One would think and hope these 'extreme athletes' would be more aware of this but again it struck me how Jack was so on the money with that warning. A sad story and I think there was another somewhat similar one a while ago
@@ -38859,7 +38859,7 @@ Like Rhupert Sheldrake's revelation about the speed of light and the meter being
 ### Jack Kruse — 2017-08-10T17:21:41+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-221363>
 
-> [patgrif@hotmail.com said:](/goto/post?id=221254)
+> [[email redacted] said:](/goto/post?id=221254)
 >
 > I havn't been on here for a long while but just happened to read this in the Guardian about how a guy ran 87 miles then went to the swim part.................and died. Anyway I was reminded of Dr Kruse because this is EXACTLY what he said was a great danger. This was about 3 years ago and I have forgotten what exactly the 'science' was but had something to do with the body being 'entrained' for heat during the run and then is plunged into the cold water which is some kind of 'mis-match' the mitochondria especially cannot deal with. One would think and hope these 'extreme athletes' would be more aware of this but again it struck me how Jack was so on the money with that warning. A sad story and I think there was another somewhat similar one a while ago
 >
@@ -47356,7 +47356,7 @@ Study links high levels of screen time to slower child development
 
 No surprise there, other than that mainstream media is starting to catch on. But, of course, they also report that "findings are disputed".
 
-### gcnorbury@gmail.com — 2019-02-01T12:15:28+0200
+### [email redacted] — 2019-02-01T12:15:28+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-262018>
 
 [E-MAIL](https://www.eurekalert.org/pub_releases/2019-01/nios-jru012819.php#)
@@ -47516,7 +47516,7 @@ This seems odd in downtown Atlanta. They're saying it's from rainwater runoff an
 
 [https://www.ajc.com/news/traffic/br...-major-midtown-street/9NB2vgBDb8tVpwzZgyWAiP/](https://www.ajc.com/news/traffic/breaking-manhole-covers-blowing-off-major-midtown-street/9NB2vgBDb8tVpwzZgyWAiP/)
 
-### gcnorbury@gmail.com — 2019-02-06T21:55:45+0200
+### [email redacted] — 2019-02-06T21:55:45+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-262436>
 
 So the BBC carried out a poll of 16-24 year olds in the UK to establish which areas of the UK were the best places to live.
@@ -47561,7 +47561,7 @@ UFC doc said he hasn’t seen this in his 30 years. I’m assuming hasn’t seen
 
 What does "need" really mean to you? Is "need" oxygen when mankind is dying to breathe due to his circumstance? I've found it very hard to biohack the world lately. It's hard to save the world when you find it hard to save yourself. Nothing undresses your passion more than something inside of you identifying a desire you never knew you possessed. To really change the world, we have to help people change the way they see things because you've learned to change how you look at the world. #5gReality [https://www.youtube.com/watch?time\_continue=141&v=AT9stGEcJ\_4](https://www.youtube.com/watch?time_continue=141&v=AT9stGEcJ_4)
 
-### gcnorbury@gmail.com — 2019-02-11T01:33:57+0200
+### [email redacted] — 2019-02-11T01:33:57+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-262812>
 
 In a medical hypothesis by Samuel Milham of Washington State Department of Health (2009) entitled “Historical evidence that electrification caused the 20th century epidemic of diseases of civilisation” Milham reveals that once Thomas Edison began electrifying New York City in 1880, the onward march of electrification correlated with sharp rises in cardiovascular disease, diabetes, suicide and cancer.
@@ -47803,7 +47803,7 @@ This made me smile today. They don't know that they're doing CT but talk about t
 
 [https://capecodchronicle.com/en/541...RsaXu6vrDtFnyduv\_FNX8YmsnJIt3nNj-jWGCiGh05ZSE](https://capecodchronicle.com/en/5411/harwich/4206/Through-'Dips-For-Donations'-Local-Yogis-Take-Polar-Plunging-To-A-New-Level-Benefits-Health-People-Community-events-Addiction.htm?fbclid=IwAR1rJadqlBPs2mRsaXu6vrDtFnyduv_FNX8YmsnJIt3nNj-jWGCiGh05ZSE)
 
-### gcnorbury@gmail.com — 2019-03-18T19:23:45+0200
+### [email redacted] — 2019-03-18T19:23:45+0200
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-265813>
 
 British insurer Legal & General profits jumped as annuity sales soared and changes to life expectancy boosted its bottom line. The rate of improvement in life expectancy slowed dramatically, **as** people die earlier than expected**, allowing insurers to release reserves they hold to pay future pensions.**
@@ -48263,7 +48263,7 @@ It's way more apparent when you're looking at the sky for several hours, which m
 
 Yep, there are pockets near Riley Ranch for sure.. those will probably not be 5G for a very long time.
 
-### gcnorbury@gmail.com — 2019-05-04T21:02:14+0300
+### [email redacted] — 2019-05-04T21:02:14+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-269685>
 
 I wasn't sure where to post this. So I thought I'd drop it in here.
@@ -49454,7 +49454,7 @@ Justice
 
 [http://www.radiationdangers.com/5g/...ween-5g-networks-and-coronavirus-outbreaks-2/](http://www.radiationdangers.com/5g/study-shows-direct-correlation-between-5g-networks-and-coronavirus-outbreaks-2/)
 
-### gcnorbury@gmail.com — 2020-04-27T14:54:02+0300
+### [email redacted] — 2020-04-27T14:54:02+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-289058>
 
 Kawasaki disease in children you say?
@@ -49534,7 +49534,7 @@ Spanish virologists have found traces of the novel coronavirus in a sample of Ba
 ### Anne V — 2020-06-30T23:17:07+0300
 **Source:** <https://forum.jackkruse.com/threads/things-i-saw-in-the-news-today.11246/post-290665>
 
-> [gcnorbury@gmail.com said:](/goto/post?id=289058)
+> [[email redacted] said:](/goto/post?id=289058)
 >
 > Kawasaki disease in children you say?
 > In London, nnEMF cesspit, after weeks indoors.

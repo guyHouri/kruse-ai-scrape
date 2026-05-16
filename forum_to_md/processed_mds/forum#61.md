@@ -1374,7 +1374,7 @@ Can somebody guide me how? Thanks
 ### Ski coach — 2018-12-04T02:03:41+0200
 **Source:** <https://forum.jackkruse.com/threads/ask-jack-forum-section.22602/post-257209>
 
-[support@jackkruse.com](mailto:support@jackkruse.com)
+[[email redacted]](mailto:[email redacted])
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -11091,13 +11091,13 @@ Sounds like a good plan. Also check out MMS or chlorine dioxide if you can get i
 Genesis II Church BC255 NZ.
 Bishop Roger Blake
 7 McMillan St, Ngatea 3503, Waikato, New Zealand
-[info@miraclemineral.co.nz](mailto:info@miraclemineral.co.nz)
+[[email redacted]](mailto:[email redacted])
 07 8677275
 
 Genesis II Church BC252 NZ.
 Bishop Paul Graham Kirk
 82 Dorset street, Kingston, Otago, New Zealand
-[paul@astressfreeday.com](mailto:paul@astressfreeday.com)
+[[email redacted]](mailto:[email redacted])
 21 66 99 45
 
 ### axel brandt — 2019-03-19T18:52:06+0200
@@ -12894,7 +12894,7 @@ The apartment offers wired (cabled) internet and a landline phone, which i've se
 
 Note: I do have a very sweet miniature golden doodle (hypoallergenic, friendly, and only 13 pounds) - so anyone who doesn't like dogs or who is allergic to dogs.... wouldn't be a good fit!
 
-If you have questions or if you're potentially interested in sharing this apartment for one or more calendar months starting in Feb, please PM me or email me at [kirstin.lynde@gmail.com](mailto:kirstin.lynde@gmail.com).
+If you have questions or if you're potentially interested in sharing this apartment for one or more calendar months starting in Feb, please PM me or email me at [[email redacted]](mailto:[email redacted]).
 
 To be fair, I'm doing first come first serve (assuming we've had a couple phone conversations to ensure mutual compatability!). I prefer female roommates but am not 100% on that. All other things being equal I'd also prefer roomates staying longer than 1 month - less turnover is easier!
 
@@ -23583,7 +23583,7 @@ This?
 Epi-PaleoRX Site 52.
 "Note: One should only use cold thermogenesis protocol if your VO2max is 25ml/kg/min."
 
-### gcnorbury@gmail.com — 2019-01-16T19:17:47+0200
+### [email redacted] — 2019-01-16T19:17:47+0200
 **Source:** <https://forum.jackkruse.com/threads/am-i-ready-for-cold-water-and-ice.22740/post-260514>
 
 > [Jack Kruse said:](/goto/post?id=260485)
@@ -23611,7 +23611,7 @@ Also to get under 25 Vo2max something must be radical wrong in young people. So 
 ### Jack Kruse — 2019-01-16T22:19:02+0200
 **Source:** <https://forum.jackkruse.com/threads/am-i-ready-for-cold-water-and-ice.22740/post-260545>
 
-> [gcnorbury@gmail.com said:](/goto/post?id=260514)
+> [[email redacted] said:](/goto/post?id=260514)
 >
 > Interesting. It is in the book, but in all these years reading/listening to your stuff, I don't think you've ever mentioned it. Is there a reason for its re-appearance?
 >
@@ -24819,14 +24819,14 @@ Not sure what you mean, Jack. How does one access the add on?
 ### Joseph Thia — 2018-12-24T07:14:26+0200
 **Source:** <https://forum.jackkruse.com/threads/2018-vermont-talk-and-gold-membership.22750/post-258870>
 
-Send an email to [support@jackkruse.com](mailto:support@jackkruse.com) to request for the link to the special discounted price for Gold/Platinum Klub Members for the Vermont 2018 talk.
+Send an email to [[email redacted]](mailto:[email redacted]) to request for the link to the special discounted price for Gold/Platinum Klub Members for the Vermont 2018 talk.
 
 ### Jack Kruse — 2018-12-24T17:18:46+0200
 **Source:** <https://forum.jackkruse.com/threads/2018-vermont-talk-and-gold-membership.22750/post-258901>
 
 He means that ^^^^^^ Don't expect a response over Xmas. Jack likes his people rested.
 
-### gcnorbury@gmail.com — 2018-12-27T13:45:27+0200
+### [email redacted] — 2018-12-27T13:45:27+0200
 **Source:** <https://forum.jackkruse.com/threads/2018-vermont-talk-and-gold-membership.22750/post-259045>
 
 Hello.
@@ -39495,7 +39495,7 @@ Also, if you haven't been eating this way for a while, it may just take the body
 
 Lastly, be sure you are getting that protein in your stomach before 7pm
 
-### ghopper@srbp.com — 2023-06-29T17:01:10+0300
+### [email redacted] — 2023-06-29T17:01:10+0300
 **Source:** <https://forum.jackkruse.com/threads/as-usual-dr-kruse-was-right-salt-and-5g.22870/post-323062>
 
 > [MattD1995 said:](/goto/post?id=260094)
@@ -39513,7 +39513,7 @@ Matt, hows it going with your salt experiment? Are you still eating 5-7 teaspoon
 ### JanSz — 2023-06-30T00:51:30+0300
 **Source:** <https://forum.jackkruse.com/threads/as-usual-dr-kruse-was-right-salt-and-5g.22870/post-323070>
 
-> [ghopper@srbp.com said:](/goto/post?id=323062)
+> [[email redacted] said:](/goto/post?id=323062)
 >
 > Matt, hows it going with your salt experiment? Are you still eating 5-7 teaspoons a day? Also, how do you do this? Do you add it to food and water?
 

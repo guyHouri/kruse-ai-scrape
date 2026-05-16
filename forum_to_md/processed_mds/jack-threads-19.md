@@ -10900,7 +10900,7 @@ With a conflict I use an AM radio to spot check.
 FDA NEWS RELEASE
 
 For Immediate Release: June 28, 2013
-Media Inquiries: Andrea Fischer, 301-796-0393, [andrea.fischer@fda.hhs.gov](mailto:andrea.fischer@fda.hhs.gov)
+Media Inquiries: Andrea Fischer, 301-796-0393, [[email redacted]](mailto:[email redacted])
 Consumer Inquiries: 888-INFO-FDA
 En EspaÃ±ol
 
@@ -22020,7 +22020,7 @@ Thoughts????
 18 ------- Metabolic Panel (14), Comprehensive Test Number: 322000 CPT Code: 80053
 19 ------- Complete Blood Count (CBC) With Differential Test Number: 005009 CPT Code: 85025
 
-### gsteppe14@gmail.com — 2013-08-22T07:59:33+0300
+### [email redacted] — 2013-08-22T07:59:33+0300
 **Source:** <https://forum.jackkruse.com/threads/labs.7675/post-93395>
 
 Your labs basically don't make much sense. Either you mixed them up or you transposed the numbers. If they're correct, you apparently started adding back carbs when your trigs weren't low enough. Now, they're too high and it seems your fasting insulin went up in response. Except for Vit D, none of your supplements would show up on your labs.
@@ -22288,7 +22288,7 @@ wondering too
 ### Steven1 — 2013-07-23T20:25:32+0300
 **Source:** <https://forum.jackkruse.com/threads/new-podcast-is-up.7678/post-90671>
 
-I purchased the special offer listed on the podcast page -- [http://www.jackkruse.com/choice-conversation-special-offer/](http://www.jackkruse.com/choice-conversation-special-offer/) -- but I never received any information about accessing the webinars or the 1 month membership. All I received via email was an invoice. In my attempt to figure out how to view the webinars, I clicked the back button on my browser, and it ended up charging me again. I received another invoice via email but no information on accessing the webinars. I've tried accessing the webinars via the Member Dashboard, but that didn't work either. Basically, I've been charged $198 and have received nothing in return. I placed my order on Sunday, July 21. I sent a message to [support@jackkruse.com](mailto:support@jackkruse.com) on Sunday, Monday, and again today, but no one has responded to me. I only received the automated reply saying my request has been received. Is there anybody out there who can help me get this resolved?
+I purchased the special offer listed on the podcast page -- [http://www.jackkruse.com/choice-conversation-special-offer/](http://www.jackkruse.com/choice-conversation-special-offer/) -- but I never received any information about accessing the webinars or the 1 month membership. All I received via email was an invoice. In my attempt to figure out how to view the webinars, I clicked the back button on my browser, and it ended up charging me again. I received another invoice via email but no information on accessing the webinars. I've tried accessing the webinars via the Member Dashboard, but that didn't work either. Basically, I've been charged $198 and have received nothing in return. I placed my order on Sunday, July 21. I sent a message to [[email redacted]](mailto:[email redacted]) on Sunday, Monday, and again today, but no one has responded to me. I only received the automated reply saying my request has been received. Is there anybody out there who can help me get this resolved?
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -23412,7 +23412,7 @@ Mailing Address:-
 phone 212 246 4237
 
 overseas phone 001 212 246 4237
-email to: [Gil.Lederman@RSNY.org](mailto:Gil.Lederman@RSNY.org)
+email to: [[email redacted]](mailto:[email redacted])
 
 [http://www.rsny.org/brochure\_request.html](http://www.rsny.org/brochure_request.html)
 
@@ -23519,7 +23519,7 @@ All indications are that it is slow growing and I have put off the biopsy for mo
 > phone 212 246 4237
 >
 > overseas phone 001 212 246 4237
-> email to: [Gil.Lederman@RSNY.org](mailto:Gil.Lederman@RSNY.org)
+> email to: [[email redacted]](mailto:[email redacted])
 >
 >
 > [http://www.rsny.org/brochure\_request.html](http://www.rsny.org/brochure_request.html)
@@ -26952,7 +26952,7 @@ I will submit your information to Dr.Kenson.
 His contact information is Office number:
 +8631189261575 Mobile
 (Whatsapp/Viber): +8613582363683
-Email: [sjz-kidneyhope@sjzkidneyhospital.com](mailto:sjz-kidneyhope@sjzkidneyhospital.com)
+Email: [[email redacted]](mailto:[email redacted])
 Skype ID: wang.kenson
 Facebook: [https://www.facebook.com/kenson.wang.12](https://www.facebook.com/kenson.wang.12)
 
@@ -34443,7 +34443,7 @@ Thanks so much Jansz,
 
 Thank you so much for all the testing info and supplement suggestions. Very helpful! I will ask for the lyme test when I go back to my gp. I will also look further into my tests and as soon as my gluten challenge is done I will start epi paleo. I do already have a great chiropractor so that's a start. Have a great day!
 
-### gsteppe14@gmail.com — 2013-08-21T07:41:14+0300
+### [email redacted] — 2013-08-21T07:41:14+0300
 **Source:** <https://forum.jackkruse.com/threads/beverly-posting-labs.7712/post-93325>
 
 I agree with JanSz. They don't jump out at you but when you look at the pattern, they're all low-normal. Not enough to concern a busy physician but if you're a health gumshoe with time to burn like us ... and we all are in this forum! ... then they're vital clues. I think it may have to do with the positive ANA susceptible for Scleroderma. The other antibody test excluded Sjogren's, Sjogren's-come-lupus, and RA to some degree. Why did your doc test you for these antibodies anyway?
@@ -34458,7 +34458,7 @@ Whys is your creatinine so low? Did you drink too much water before testing? Whe
 >
 > All above is low. There are preliminary suggestions there, but for now you may want to wait with any supplementation until we get test results.
 
-### gsteppe14@gmail.com — 2013-08-21T07:52:59+0300
+### [email redacted] — 2013-08-21T07:52:59+0300
 **Source:** <https://forum.jackkruse.com/threads/beverly-posting-labs.7712/post-93326>
 
 Your cholesterol is a non-issue when you don't know the components. Your very low trigs suggest you're ketogenic. That's all I can say. Your Neuts are also a non-issue since it's based on your low-normal total WBCs. Your lymph % is high so one of your non-lymphs is bound to be low. Your non-lymphs are 4.2-2.2 = 2.0. As you go below 2.0, you become more susceptible to infection. Not too low now but I'd keep an eye on your total WBCs for now.
@@ -34480,7 +34480,7 @@ Your cholesterol is a non-issue when you don't know the components. Your very lo
 
 Thanks for having a look at my labs.
 
-> [gsteppe14@gmail.com said:](/goto/post?id=93325)
+> [[email redacted] said:](/goto/post?id=93325)
 >
 > I agree with JanSz. They don't jump out at you but when you look at the pattern, they're all low-normal. Not enough to concern a busy physician but if you're a health gumshoe with time to burn like us ... and we all are in this forum! ... then they're vital clues. I think it may have to do with the positive ANA susceptible for Scleroderma. The other antibody test excluded Sjogren's, Sjogren's-come-lupus, and RA to some degree. Why did your doc test you for these antibodies anyway?
 >
@@ -34508,7 +34508,7 @@ That's what I thought.
 >
 > Not even close to normal........
 
-### gsteppe14@gmail.com — 2013-08-23T06:04:58+0300
+### [email redacted] — 2013-08-23T06:04:58+0300
 **Source:** <https://forum.jackkruse.com/threads/beverly-posting-labs.7712/post-93469>
 
 You're ANA positive and the ENA test excluded your seropositivity for Sm, SS-A, SS-B, Scl-70, Jo-1 and RNP. That's a select few and those are mostly Sjogren's,Lupus and some other antibodies. But that's not all such antibodies. I keep saying you need the DS DNA and antiphospho because they could be related to pregnancy complications. There are countless antibodies. Just because you're negative doesn't mean you don't have the disease. Especially if you have symptoms, you are probably in the process of becoming seropositive, especially for Sjogren's, whose symptoms you seem to have. Whoever tested you and said you don't have autoimmunity is an idiot. You may not have systemic scleroderma, but you could have Crest. You're seronegative for RA based on CCP, but you could be positive based on RA Factor and symptoms, which also was not tested. Unless you go to a knowledgeable rheumy, you'll be chasing your tail like this. Autoimmune patients with connective tissue issues get tested every 3 months to see what else becomes positive. They piggyback one after another. It's not like you test once and it's all clear. Go see a rheumy. Tell her your symptoms. Tell her you need the remaining antibody tests to rule out SLE, RA and other issues. Funny you mention C6/C7. You need C3/C4. See how low they are. I bet they're below or at the low end of the reference range. Also need to test TPO/TG/TSI, as they overlap frequently with ANA. At this point, I think you need a rheumy more than a neuro. What you need are more antibody tests, not MRI.
@@ -34533,7 +34533,7 @@ my next few blogs will answer this directly..........make sure you dissect what 
 
 DDD in the neck is tied to disc dehydration..........what else is it tied to if you been following my blog or the recent podcast? EMF exposure.............listen to the podcast I just did with Beverly Myers.
 
-### gsteppe14@gmail.com — 2013-08-24T01:34:29+0300
+### [email redacted] — 2013-08-24T01:34:29+0300
 **Source:** <https://forum.jackkruse.com/threads/beverly-posting-labs.7712/post-93562>
 
 I think you're closing in on the culprit, Dr. Kruse. There is just way too much autoimmunity. The rate is 10 times year 2000. Can't just be all due to people eating gluten. And it's not due to vaccines.
@@ -37605,7 +37605,7 @@ Hi Caroline, sorry I didn't get back to you before now on the wool underlays. I 
 Before reading that warning on the Magnetico site I knew there was a risk of alternating currents if the magnets weren't placed exactly right in relation to each other, but it seems there's more to it than that. It's clearly explained on the magnetico site and I trust their advice on this.
 Re putting a couple of the cheaper ones under a mattress...I \*think\* you'd want to watch the positioning of the magnets (in relation to each other) quite carefully to make sure you were getting the gauss you expect at the distance you need.
 
-### stuartfolkard@gmail.com — 2013-10-22T10:17:21+0300
+### [email redacted] — 2013-10-22T10:17:21+0300
 **Source:** <https://forum.jackkruse.com/threads/magnetic-sleep-pad-options-in-australia.7804/post-98561>
 
 > [Matthew Cassidy said:](/goto/post?id=98538)

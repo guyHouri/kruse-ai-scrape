@@ -59,7 +59,7 @@ Jack only does these things occassionally at live events for members.
 > So do you guys know a very good pratitioner formed to Jack teachings that would take consultations on the web and would be ready to answer my questions, advise me and guide me (seems that Jack doesn't take consultations)?
 > Thanks!
 
-I'm no doctor but would like to know more about what worked for you and what didn't. My girlfriend was diagnosed with Lupus by Dr. Wallace in Los Angeles (he treats all the Hollywood stars with Lupus). 3 years later she is feeling better than ever after we followed a pretty straight forward protocol. Please let me know if I can help here in public or private by email at [q4lt00@gmail.com](mailto:q4lt00@gmail.com).
+I'm no doctor but would like to know more about what worked for you and what didn't. My girlfriend was diagnosed with Lupus by Dr. Wallace in Los Angeles (he treats all the Hollywood stars with Lupus). 3 years later she is feeling better than ever after we followed a pretty straight forward protocol. Please let me know if I can help here in public or private by email at [[email redacted]](mailto:[email redacted]).
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -82,7 +82,7 @@ You are all beings of light and don't yet realize it. We release light from our 
 
 Really like where all this is going with light...especially the meditation hook and eager to learn more. Intuitively feel like there is a holy grail.
 
-### patgrif@hotmail.com — 2015-04-30T09:29:45+0300
+### [email redacted] — 2015-04-30T09:29:45+0300
 **Source:** <https://forum.jackkruse.com/threads/let-there-be-light-may-2015-webinar-is-released.14198/post-162844>
 
 I found the webinar quite 'depressing' in what Jack and Ruben see coming is the 'disappearance' of DHA. I can't imagine a worse scenario as I have completely come to accept how key it is to life. So it's the most important thing........................and yet it's disappearing. I am not 'blaming' anyone deep down I feel all that is true. At the end Jack said something about how life might survive but in the polar regions and then only at depth. I know they jazzed it up with all the 'light possibilities' but really? Is there much hope there they talked about developing the 'photo-synthetic' side but at same time said photo-synthesis without DHA means we are a plant and hardly something to look forward to for a human/mammal
@@ -96,7 +96,7 @@ I also thought it interesting if I understood Ruben correctly that DHA made more
 ### yewwei.tan — 2015-04-30T10:49:53+0300
 **Source:** <https://forum.jackkruse.com/threads/let-there-be-light-may-2015-webinar-is-released.14198/post-162852>
 
-> [patgrif@hotmail.com said:](/goto/post?id=162844)
+> [[email redacted] said:](/goto/post?id=162844)
 >
 > I found the webinar quite 'depressing' in what Jack and Ruben see coming is the 'disappearance' of DHA. I can't imagine a worse scenario as I have completely come to accept how key it is to life. So it's the most important thing........................and yet it's disappearing. I am not 'blaming' anyone deep down I feel all that is true. At the end Jack said something about how life might survive but in the polar regions and then only at depth. I know they jazzed it up with all the 'light possibilities' but really? Is there much hope there they talked about developing the 'photo-synthetic' side but at same time said photo-synthesis without DHA means we are a plant and hardly something to look forward to for a human/mammal
 >
@@ -133,7 +133,7 @@ Paranoid Optimism....perhaps that is evolution.....
 
 Patrick you should not be a pessimists. I think youre letting your past put those lenses on today's glasses. You should not be too comfortable in your current zone. This webinar is about seeking superior results. Your limit today is not the same as tomorrow's. Acquire wisdom constantly. The only way to know is to try for yourself. Unlimited opportunities awaits the person who dares to seek. Until the capacity of the mind is expanded, destiny remains within the boundaries of the cloud. Rain your potential on life to stimulate growth.
 
-### patgrif@hotmail.com — 2015-04-30T17:16:57+0300
+### [email redacted] — 2015-04-30T17:16:57+0300
 **Source:** <https://forum.jackkruse.com/threads/let-there-be-light-may-2015-webinar-is-released.14198/post-162870>
 
 > [Jack Kruse said:](/goto/post?id=162863)
@@ -175,7 +175,7 @@ Phosphene phenomenon, neat!
 ### NeilBB — 2015-05-01T05:57:45+0300
 **Source:** <https://forum.jackkruse.com/threads/let-there-be-light-may-2015-webinar-is-released.14198/post-162922>
 
-> [patgrif@hotmail.com said:](/goto/post?id=162844)
+> [[email redacted] said:](/goto/post?id=162844)
 >
 > I found the webinar quite 'depressing' in what Jack and Ruben see coming is the 'disappearance' of DHA. I can't imagine a worse scenario as I have completely come to accept how key it is to life. So it's the most important thing........................and yet it's disappearing. I am not 'blaming' anyone deep down I feel all that is true. At the end Jack said something about how life might survive but in the polar regions and then only at depth. I know they jazzed it up with all the 'light possibilities' but really? Is there much hope there they talked about developing the 'photo-synthetic' side but at same time said photo-synthesis without DHA means we are a plant and hardly something to look forward to for a human/mammal
 >
@@ -197,7 +197,7 @@ I don't think Jack and Rub are "jazzing it up" by approaching the problem from t
 
 Life is what it is, not what anyone fantasizes it to be. You must accept and embrace reality as it is before you can move forward. Diagnose, then treat!
 
-### patgrif@hotmail.com — 2015-05-01T06:31:03+0300
+### [email redacted] — 2015-05-01T06:31:03+0300
 **Source:** <https://forum.jackkruse.com/threads/let-there-be-light-may-2015-webinar-is-released.14198/post-162923>
 
 > [NeilBB said:](/goto/post?id=162922)
@@ -219,13 +219,13 @@ I take your point(s) Neil........................it was just my reaction having 
 ### NeilBB — 2015-05-01T15:58:01+0300
 **Source:** <https://forum.jackkruse.com/threads/let-there-be-light-may-2015-webinar-is-released.14198/post-162971>
 
-> [patgrif@hotmail.com said:](/goto/post?id=162923)
+> [[email redacted] said:](/goto/post?id=162923)
 >
 > I take your point(s) Neil........................it was just my reaction having watched it. But OK time to be a big boy....................I suppose I really don't have a choice.
 
 “There is only one fundamental alternative in the universe: existence or nonexistence—and it pertains to a single class of entities: to living organisms. The existence of inanimate matter is unconditional, the existence of life is not: it depends on a specific course of action. Matter is indestructible, it changes its forms, but it cannot cease to exist. It is only a living organism that faces a constant alternative: the issue of life or death. Life is a process of self-sustaining and self-generated action. If an organism fails in that action, it dies; its chemical elements remain, but its life goes out of existence. It is only the concept of ‘Life’ that makes the concept of ‘Value’ possible." -Ayn Rand, Atlas Shrugged
 
-### patgrif@hotmail.com — 2015-05-01T17:24:19+0300
+### [email redacted] — 2015-05-01T17:24:19+0300
 **Source:** <https://forum.jackkruse.com/threads/let-there-be-light-may-2015-webinar-is-released.14198/post-162977>
 
 > [NeilBB said:](/goto/post?id=162971)
@@ -407,7 +407,7 @@ I've just raked out my vacuum cupping set,  used one on the palm of my hand with
 ### NeilBB — 2015-05-02T15:42:41+0300
 **Source:** <https://forum.jackkruse.com/threads/let-there-be-light-may-2015-webinar-is-released.14198/post-163090>
 
-> [patgrif@hotmail.com said:](/goto/post?id=162977)
+> [[email redacted] said:](/goto/post?id=162977)
 >
 > Neil I have never read Ayn Rand but instinctively and we have touched on this before I don't care for her thinking. She is associated in my mind with some of the worst aspects of the extreme kind of neo-liberal economics and the right wing politically. Alan Greenspan someone who I think did a lot of harm to ordinary people and a lot of 'benefit' to big bankers was one of her devoted acolytes. To me she represents individualism in a bad way, individualism as against the group or tribe or whatever you want to call it.
 >
@@ -439,7 +439,7 @@ I feel that many lay a filter of politics and religion on that work, it is easy 
 
 The things i see is a passion to be alive, to not follow paths that all has been teached, simply letting go of the bad ego and letting your rockstar shine...
 
-### patgrif@hotmail.com — 2015-05-02T17:13:16+0300
+### [email redacted] — 2015-05-02T17:13:16+0300
 **Source:** <https://forum.jackkruse.com/threads/let-there-be-light-may-2015-webinar-is-released.14198/post-163096>
 
 > [NeilBB said:](/goto/post?id=163090)
@@ -456,7 +456,7 @@ I have been 'opposed' to her for a few reasons, one if I am of the 'left' politi
 
 About "philosophical epistemology is subject to opinion" well I better not start it would take too long and I probably would not get anywhere even for myself.
 
-### patgrif@hotmail.com — 2015-05-02T21:08:53+0300
+### [email redacted] — 2015-05-02T21:08:53+0300
 **Source:** <https://forum.jackkruse.com/threads/let-there-be-light-may-2015-webinar-is-released.14198/post-163107>
 
 Neil, this is fairly typical 'leftist' critique of Ayn Rand and her work. I am not trying to start an argument more to show there are different views on her.
@@ -466,7 +466,7 @@ Neil, this is fairly typical 'leftist' critique of Ayn Rand and her work. I am n
 ### NeilBB — 2015-05-02T22:21:22+0300
 **Source:** <https://forum.jackkruse.com/threads/let-there-be-light-may-2015-webinar-is-released.14198/post-163110>
 
-> [patgrif@hotmail.com said:](/goto/post?id=163107)
+> [[email redacted] said:](/goto/post?id=163107)
 >
 > Neil, this is fairly typical 'leftist' critique of Ayn Rand and her work. I am not trying to start an argument more to show there are different views on her.
 >
@@ -474,7 +474,7 @@ Neil, this is fairly typical 'leftist' critique of Ayn Rand and her work. I am n
 
 Patrick, I'm not interested in other people's views on Rand any more than I am interested in their views on Jack. I think for myself, always...
 
-### patgrif@hotmail.com — 2015-05-03T01:27:20+0300
+### [email redacted] — 2015-05-03T01:27:20+0300
 **Source:** <https://forum.jackkruse.com/threads/let-there-be-light-may-2015-webinar-is-released.14198/post-163117>
 
 > [NeilBB said:](/goto/post?id=163110)
@@ -483,14 +483,14 @@ Patrick, I'm not interested in other people's views on Rand any more than I am i
 
 OK Neil...............but part of 'thinking for oneself' does involve seeing and being aware of other view points. I do that quite a bit I would say and I feel at least I think a bit 'better' for myself as a result. I am sure you did not get your degrees by simply 'thinking for yourself' well of course you did but combined with the input and ideas of lots of other people. I would never think of this as a kind of Either/Or situation and specifically in the case of Ayn Rand it I think it is quite interesting to say the way her ideas have been and are being used. And to be totally clear I am only talking about Ayn Rand not anything about Dr Kruse.
 
-### patgrif@hotmail.com — 2015-05-03T01:37:39+0300
+### [email redacted] — 2015-05-03T01:37:39+0300
 **Source:** <https://forum.jackkruse.com/threads/let-there-be-light-may-2015-webinar-is-released.14198/post-163119>
 
 Dr Kruse, this may be in the wrong thread but it's the current one. I just listened to the tape of the Vancouver event and I have a question about the effect of pressure inspired by that. You have mentioned more than once about how when a baby is being born it is under great pressure (if at least being born without a C-section) I never really got the point of what you were getting at but is it that that pressure does all this stuff that promotes 'health' or 'life' in that it primes the baby, increases it's E/Z etc to meet life (live on its' own). Is there something about that experience that is important for the baby?
 
 I mean I guess I know the answer is 'Yes' but wondered what else you might have to say about that. I suppose pressure would also be 'pizo-electric' literally means electricity causes by pressure so would charge the system in that way. Also would this explain the traditional practice of swaddling babies binding them under pressure of clothes. Instinctively I feel there is something of importance there and you have mentioned it a few times so................
 
-### patgrif@hotmail.com — 2015-05-03T01:50:02+0300
+### [email redacted] — 2015-05-03T01:50:02+0300
 **Source:** <https://forum.jackkruse.com/threads/let-there-be-light-may-2015-webinar-is-released.14198/post-163120>
 
 Another thought occurs to me...........when a baby is born isn't there a huge temperature drop from inside the womb to outside. Like I presume inside is close to 98.4F what would the outside temperature be. Depends on the location of course but say a cold winter even in Ireland never mind further North could be what...........as low as 32F. Now I know people don't just let their babies die of cold but isn't that a huge change the baby undergoes. And I guess I am wondering how all of this might possibly tie into CT and many other aspects of biology. Is the cold another way to 'charge' them up to meet life on their own or if not on their own more on their own than before.
@@ -498,7 +498,7 @@ Another thought occurs to me...........when a baby is born isn't there a huge te
 ### NeilBB — 2015-05-03T05:00:12+0300
 **Source:** <https://forum.jackkruse.com/threads/let-there-be-light-may-2015-webinar-is-released.14198/post-163123>
 
-> [patgrif@hotmail.com said:](/goto/post?id=163117)
+> [[email redacted] said:](/goto/post?id=163117)
 >
 > OK Neil...............but part of 'thinking for oneself' does involve seeing and being aware of other view points. I do that quite a bit I would say and I feel at least I think a bit 'better' for myself as a result. I am sure you did not get your degrees by simply 'thinking for yourself' well of course you did but combined with the input and ideas of lots of other people. I would never think of this as a kind of Either/Or situation and specifically in the case of Ayn Rand it I think it is quite interesting to say the way her ideas have been and are being used. And to be totally clear I am only talking about Ayn Rand not anything about Dr Kruse.
 
@@ -4523,14 +4523,14 @@ Like I said, more to come over the next few days, this was a hectic blog post (j
 
 Lots to digest here...
 
-### patgrif@hotmail.com — 2015-05-08T19:57:54+0300
+### [email redacted] — 2015-05-08T19:57:54+0300
 **Source:** <https://forum.jackkruse.com/threads/sibo-gerd-or-ibs-ubiquitination-12-is-live.14378/post-163627>
 
 Quote from the blog **"Today, about 60% of the total fixed nitrogen is produced industrially using the Haber-Bosch process. The Haber-Bosch process (manmade) now matches the entire nitrogen-fixation output of the oceans and exceeds the microbial fixation on land"
 **
 I find that pretty shocking. I really under-estimated how much we have interfered with Nature. I grew up on a farm and we used Nitrogen - sparingly. We were aware it was 'artificial' and at all times preferred to use cow manure for example. It was well known that the use of artificial Nitrogen 'weakened' the soil over time and was seen as something to be used as little as possible. But that was an older tradition for example we had no tractors of any kind, all 'work' was done by horses and people. Over time people get so disconnected from the land and tradition they jettison all their old beliefs and wisdom in favor of the 'new'. That's a reason I don't resonate so well with all this business about jettisoning 'old ideas' some of them are very good................a lot better than a lot of the so called 'new' ideas................
 
-### patgrif@hotmail.com — 2015-05-08T20:10:53+0300
+### [email redacted] — 2015-05-08T20:10:53+0300
 **Source:** <https://forum.jackkruse.com/threads/sibo-gerd-or-ibs-ubiquitination-12-is-live.14378/post-163628>
 
 Dr Kruse, I find the parallels of the bacteria in the soil and in our gut very interesting. But would it be correct to think that though there are many similarities the function is also quite different? The bacteria in the soil is fixing Nitrogen out of thin air so to speak...............in the gut it seems a part of their job is 'disposing' of Nitrogen. I suppose a bit like the difference/similarity of chloroplasts and mitochondria? Similar but different. Does this mean there are literally different 'species' of bacteria in both realms or is it a case of different 'behavior' . For example do bacteria in the soil ALSO 'release light'................sorry I am such a 'beginner' here any light released on this topic would be of interest to me.............
@@ -4679,7 +4679,7 @@ Ben Davidson talks about how Solar Activity (specifically solar holes) is primar
 ### yewwei.tan — 2015-05-09T00:24:41+0300
 **Source:** <https://forum.jackkruse.com/threads/sibo-gerd-or-ibs-ubiquitination-12-is-live.14378/post-163642>
 
-> [patgrif@hotmail.com said:](/goto/post?id=163628)
+> [[email redacted] said:](/goto/post?id=163628)
 >
 > Dr Kruse, I find the parallels of the bacteria in the soil and in our gut very interesting. But would it be correct to think that though there are many similarities the function is also quite different? The bacteria in the soil is fixing Nitrogen out of thin air so to speak...............in the gut it seems a part of their job is 'disposing' of Nitrogen. I suppose a bit like the difference/similarity of chloroplasts and mitochondria? Similar but different. Does this mean there are literally different 'species' of bacteria in both realms or is it a case of different 'behavior' . For example do bacteria in the soil ALSO 'release light'................sorry I am such a 'beginner' here any light released on this topic would be of interest to me.............
 
@@ -4727,7 +4727,7 @@ _**"When the gut flora is more diverse, the less ammonia you liberate, and cell 
 
 Not always.........why? hydration can co-opt the effect. This is why those with uncoupled biology drink a lot of coffee or water.
 
-### patgrif@hotmail.com — 2015-05-11T16:21:19+0300
+### [email redacted] — 2015-05-11T16:21:19+0300
 **Source:** <https://forum.jackkruse.com/threads/sibo-gerd-or-ibs-ubiquitination-12-is-live.14378/post-163832>
 
 I have so many other questions about this Nitrogen, ubiquination etc ( sample: is the condition of a bad gut analogous to the 'dead zones' in the ocean, excessive nitrogen 'run off' ? how EXACTLY is nitrogen tied into ubiquination, does it have something/a lot to do with the 'excessive' Nitrogen we pump into the land to boost crops, could we say there is literally too much "N" in the food web and that 'speeds' up ubiquination?? or not or if so exactly how. Ubiquination is a 'light story' but "N" is also connected how exactly. I already asked about the similarity/difference of gut bacteria and soil bacteria. I can or could think of more but the one I already asked is ignored anyway (except for Yew to give him his props at least tried to answer it)
@@ -4758,7 +4758,7 @@ And I was in Colorado since thursday doing a TV show.......I have a life too so 
 ### Josh — 2015-05-11T19:31:53+0300
 **Source:** <https://forum.jackkruse.com/threads/sibo-gerd-or-ibs-ubiquitination-12-is-live.14378/post-163849>
 
-> [patgrif@hotmail.com said:](/goto/post?id=163832)
+> [[email redacted] said:](/goto/post?id=163832)
 >
 > I have so many other questions about this Nitrogen, ubiquination etc ( sample: is the condition of a bad gut analogous to the 'dead zones' in the ocean, excessive nitrogen 'run off' ? how EXACTLY is nitrogen tied into ubiquination, does it have something/a lot to do with the 'excessive' Nitrogen we pump into the land to boost crops, could we say there is literally too much "N" in the food web and that 'speeds' up ubiquination?? or not or if so exactly how. Ubiquination is a 'light story' but "N" is also connected how exactly. I already asked about the similarity/difference of gut bacteria and soil bacteria. I can or could think of more but the one I already asked is ignored anyway (except for Yew to give him his props at least tried to answer it)
 >
@@ -4804,7 +4804,7 @@ Dry up the water in the Earth and the plates move....
 
 **The absence or presence of light is a key redox sensor for life and death.**
 
-### patgrif@hotmail.com — 2015-05-11T20:31:37+0300
+### [email redacted] — 2015-05-11T20:31:37+0300
 **Source:** <https://forum.jackkruse.com/threads/sibo-gerd-or-ibs-ubiquitination-12-is-live.14378/post-163863>
 
 I really appreciate Jack and Josh's feedback..................let me spend the day in the river to think/meditate about it................
@@ -4959,7 +4959,7 @@ Wine swished in the mouth because this is the area where electrons are close to 
 ### cinnamon — 2015-05-12T04:57:01+0300
 **Source:** <https://forum.jackkruse.com/threads/sibo-gerd-or-ibs-ubiquitination-12-is-live.14378/post-163905>
 
-> [patgrif@hotmail.com said:](/goto/post?id=163832)
+> [[email redacted] said:](/goto/post?id=163832)
 >
 > <big snip>... but right now I am considering cancelling my passage on the Cruise Sometimes I no longer find the 'atmosphere' that inspiring..............I am not happy to feel this way I have had a lot of hope and belief in what I see here and of course of Dr K but something feels 'off' now.............
 
@@ -5067,7 +5067,7 @@ Do these plants not need red light? Are they adaptations to our high-energy atmo
 
 My grandfather used to maintain that lightning is fertilizer. Just sayin'.
 
-### patgrif@hotmail.com — 2015-05-17T04:59:07+0300
+### [email redacted] — 2015-05-17T04:59:07+0300
 **Source:** <https://forum.jackkruse.com/threads/sibo-gerd-or-ibs-ubiquitination-12-is-live.14378/post-164495>
 
 > [Jack Kruse said:](/goto/post?id=163844)
@@ -5076,7 +5076,7 @@ My grandfather used to maintain that lightning is fertilizer. Just sayin'.
 
 Dr Kruse I get most of that. But what I was specifically asking about was the quite huge temperature drop in the baby's environment from inside to outside the womb. If you have no thoughts about it fine it's just I imagined you would or might have. I just imagined there is something there that might have ramifications for CT or whatever.
 
-### patgrif@hotmail.com — 2015-05-17T19:17:56+0300
+### [email redacted] — 2015-05-17T19:17:56+0300
 **Source:** <https://forum.jackkruse.com/threads/sibo-gerd-or-ibs-ubiquitination-12-is-live.14378/post-164527>
 
 > [cinnamon said:](/goto/post?id=163905)
@@ -5106,7 +5106,7 @@ I need to make up my mind soon though and thanks a lot to both of you.
 
 Purple in leaves are high levels of anthrocyanins. For a normally green plant this would indicate a phosphate deficiency. Certain plants have been selected for their natural purple leaf color. Obviously they must also contain green chlorophyll to be able to grow. Remember the color you see is what the plant does not absorb.
 
-### patgrif@hotmail.com — 2015-05-17T19:24:51+0300
+### [email redacted] — 2015-05-17T19:24:51+0300
 **Source:** <https://forum.jackkruse.com/threads/sibo-gerd-or-ibs-ubiquitination-12-is-live.14378/post-164530>
 
 On the subject of a 'future' somehow this song comes to mind. I hope people don't find it 'rude' but the Sex Pistols had this thing about "No Future". This was the kind of music I loved growing up in Ireland and the UK................I think there is a cultural difference the US goes towards the 'positive' the UK/Ireland a bit more towards the negative.
@@ -5118,7 +5118,7 @@ Cations and Anions in terms that are used here?
 
 love the sex pistols. Saw them several times
 
-### patgrif@hotmail.com — 2015-05-17T19:37:18+0300
+### [email redacted] — 2015-05-17T19:37:18+0300
 **Source:** <https://forum.jackkruse.com/threads/sibo-gerd-or-ibs-ubiquitination-12-is-live.14378/post-164534>
 
 > [Jack Kruse said:](/goto/post?id=164531)
@@ -5129,7 +5129,7 @@ Cool.................they were not so 'big' here as in the UK. On the other hand
 
 Dr Kruse: what does extreme indecision say about my brain? It's a problem I have in general not just in relation to the Cruise. I seem to missing something in my brain I mean.
 
-### patgrif@hotmail.com — 2015-05-17T19:39:34+0300
+### [email redacted] — 2015-05-17T19:39:34+0300
 **Source:** <https://forum.jackkruse.com/threads/sibo-gerd-or-ibs-ubiquitination-12-is-live.14378/post-164535>
 
 Now I notice they (Pistols) say they DON'T want a 'holiday in the Sun'.........................so I flip again lol
@@ -5153,7 +5153,7 @@ they produce 10 joules per gram per second and this output outperforms the sun b
 ### Jack Kruse — 2015-05-18T04:54:01+0300
 **Source:** <https://forum.jackkruse.com/threads/sibo-gerd-or-ibs-ubiquitination-12-is-live.14378/post-164564>
 
-> [patgrif@hotmail.com said:](/goto/post?id=164534)
+> [[email redacted] said:](/goto/post?id=164534)
 >
 > Cool.................they were not so 'big' here as in the UK. On the other hand they had this song "Holidays in the Sun" so might tip me towards going on the Cruise. (BTW 'musically' this is by far my favorite Pistols song)
 >
@@ -5165,7 +5165,7 @@ You're too hard on yourself.........the environment you build around you now wil
 ### Inger — 2015-05-18T17:13:54+0300
 **Source:** <https://forum.jackkruse.com/threads/sibo-gerd-or-ibs-ubiquitination-12-is-live.14378/post-164606>
 
-> [patgrif@hotmail.com said:](/goto/post?id=164527)
+> [[email redacted] said:](/goto/post?id=164527)
 >
 > Thank you so much Cinnamon and also Inger (not to forget you). It is so nice of both of you and makes me feel so welcome. About my decision I am still thinking about it I do think I have some 'issues' with crowds of strangers and so on.
 >
@@ -7171,14 +7171,14 @@ I can access the May webinar directly through the link in the email received 4/2
 ### Jack Kruse — 2015-05-09T22:23:26+0300
 **Source:** <https://forum.jackkruse.com/threads/is-there-a-help-area.14429/post-163730>
 
-email [skruse613@gmail.com](mailto:skruse613@gmail.com) They will get on it Monday.
+email [[email redacted]](mailto:[email redacted]) They will get on it Monday.
 
 ### Cpt.Tired — 2015-05-09T22:33:58+0300
 **Source:** <https://forum.jackkruse.com/threads/is-there-a-help-area.14429/post-163735>
 
 > [Jack Kruse said:](/goto/post?id=163730)
 >
-> email [skruse613@gmail.com](mailto:skruse613@gmail.com) They will get on it Monday.
+> email [[email redacted]](mailto:[email redacted]) They will get on it Monday.
 
 Thanks Jack,
 
@@ -10008,7 +10008,7 @@ My pleasure....................
 
 I just did an interesting 6 week bio hack that ended yesterday.....I used a focused blue light over my right facial nerve to see if I could stimulate a Bell's palsy or viral flare. I got a Bell's in this same nerve after a 3 hour Q & A last yr so I knew the ganglion had viral particle in it. Since NASA has told us that viral shedding and higher solar radiations are linked in astronauts I wanted to see if I could simulate it on Earth. I was unsuccessful with the Bell's but guess what did happen? A wart showed up in that dermatome. It came up right after a shave I had at Aidan Gill in NOLA and grew like mad over the 6 weeks. I stopped the blue light as soon as the lesion emerged but the growth rate was impressive. I used blue light to stimulate ubiquitin rates to manifest a viral shed. Interesting part is that I have not had a wart since I was 16 and then they were on my hands when I played baseball. I ended the hack with liquid nitrogen.........anyone see the irony there?
 
-### patgrif@hotmail.com — 2015-05-17T19:09:12+0300
+### [email redacted] — 2015-05-17T19:09:12+0300
 **Source:** <https://forum.jackkruse.com/threads/latest-biohack-of-light.14547/post-164526>
 
 > [Jack Kruse said:](/goto/post?id=164523)
@@ -10027,7 +10027,7 @@ SO the rapid increase of light in the Spring tells us how well we went into pseu
 ### Jack Kruse — 2015-05-17T19:30:49+0300
 **Source:** <https://forum.jackkruse.com/threads/latest-biohack-of-light.14547/post-164532>
 
-> [patgrif@hotmail.com said:](/goto/post?id=164526)
+> [[email redacted] said:](/goto/post?id=164526)
 >
 > When you say you 'ended the hack' what exactly does that mean? Is it that the liquid nitrogen 'ended' the problem or 'cured' the problem. If so the 'irony' would be you increased ubiquination with the blue light but you 'ended' it or 'cured' it with liquid Nitrogen...................and my understanding is N increases ubinquination so if it is 'cured' it that is an obvious 'irony' N in this case seems to reduce ubiquination. Is that the irony?
 >
@@ -14818,7 +14818,7 @@ This move I just completed is like #42 for me. I am so tired of moving plus.....
 
 Kinda fucked up this morning still....I am going to go out and harvest some UV this morning....
 
-### patgrif@hotmail.com — 2015-09-27T20:58:13+0300
+### [email redacted] — 2015-09-27T20:58:13+0300
 **Source:** <https://forum.jackkruse.com/threads/alyson-at-2800-feet.14602/post-177983>
 
 Alyson wrote: "What the fuck is the difference between a neutron and a neutrino?"
@@ -14828,7 +14828,7 @@ Coming from a very 'non-expert' point of view a neutrino is a LOT smaller. A LOT
 ### alyson thiessen — 2015-09-27T21:10:35+0300
 **Source:** <https://forum.jackkruse.com/threads/alyson-at-2800-feet.14602/post-177984>
 
-> [patgrif@hotmail.com said:](/goto/post?id=177983)
+> [[email redacted] said:](/goto/post?id=177983)
 >
 > Alyson wrote: "What the fuck is the difference between a neutron and a neutrino?"
 >
@@ -25707,7 +25707,7 @@ I think he was really thinking "I should have worn my purple jacket - where's my
 
 ..And later that evening...
 
-### patgrif@hotmail.com — 2015-06-07T16:38:19+0300
+### [email redacted] — 2015-06-07T16:38:19+0300
 **Source:** <https://forum.jackkruse.com/threads/jack-kruse-vs-paleo-check-this-out.15120/post-166927>
 
 Funny stuff......................and pretty creative too! I like it. Captain maybe you can write a song about it and back it up with some screaming guitars.................
@@ -25715,7 +25715,7 @@ Funny stuff......................and pretty creative too! I like it. Captain may
 ### Cpt.Tired — 2015-06-07T23:38:00+0300
 **Source:** <https://forum.jackkruse.com/threads/jack-kruse-vs-paleo-check-this-out.15120/post-166981>
 
-> [patgrif@hotmail.com said:](/goto/post?id=166927)
+> [[email redacted] said:](/goto/post?id=166927)
 >
 > Funny stuff......................and pretty creative too! I like it. Captain maybe you can write a song about it and back it up with some screaming guitars.................
 
@@ -26115,7 +26115,7 @@ It would help........but I this disease I think is a bigger deeper issue........
 
 And another thing I just thought of........when you have mitonuclear genomic mismatches the higher the environment supports an elevated ubiquitination rate the worse the condition will be.........so that means you need to keep the child from all forms of nnEMF to mitigate the risks best while feeding seafood and keto platform.
 
-### patgrif@hotmail.com — 2015-06-06T17:48:02+0300
+### [email redacted] — 2015-06-06T17:48:02+0300
 **Source:** <https://forum.jackkruse.com/threads/west-syndrome-help.15132/post-166824>
 
 > [Jack Kruse said:](/goto/post?id=166818)
@@ -26129,7 +26129,7 @@ This is all so fascinating it really is...................now if only I could ac
 
 put a ticket in Pat. I will let them know too.
 
-### patgrif@hotmail.com — 2015-06-07T01:16:55+0300
+### [email redacted] — 2015-06-07T01:16:55+0300
 **Source:** <https://forum.jackkruse.com/threads/west-syndrome-help.15132/post-166883>
 
 > [Jack Kruse said:](/goto/post?id=166825)
@@ -29758,7 +29758,7 @@ I don't have estrogen results here
 By the way, I have always had high LYMPH and low NEUT. Never found the reason why... Doctors never seem to pay attention to that.
 I'm going to follow your advice. Merci!
 
-### patgrif@hotmail.com — 2015-06-11T19:11:27+0300
+### [email redacted] — 2015-06-11T19:11:27+0300
 **Source:** <https://forum.jackkruse.com/threads/bonjour-from-france.15229/post-167644>
 
 > [b612 said:](/goto/post?id=167614)
@@ -29857,7 +29857,7 @@ check for doses here post #23:
 ### b612 — 2015-06-12T12:25:00+0300
 **Source:** <https://forum.jackkruse.com/threads/bonjour-from-france.15229/post-167796>
 
-> [patgrif@hotmail.com said:](/goto/post?id=167644)
+> [[email redacted] said:](/goto/post?id=167644)
 >
 > Hi b612...............I was wondering what your name that you use here 'means'? Or do it have a 'meaning'. Also I was wondering what age you are? Of course feel free to ignore these questions if you want to. I do find your story very moving and you seem a really genuine and truthful person. Just maybe trying to 'draw you out' a bit but as I say ignore if you do not feel it appropriate to give more information.
 
@@ -30110,7 +30110,7 @@ Do you know the gears of your "eye clock"? Do you know how wellness is really bu
 
 I agree that the skin is also a source of photic input to the SCN. If I am sleepy in the morning, though the sun is rising, all it takes is for me to remove the sheet, at least from my arms. If the window shade is open, the sunshine on my skin wakes me up promptly. Suddenly I actually want to get up. If I stay burrowed in, I'll often fall back asleep for a few minutes.
 
-### patgrif@hotmail.com — 2015-06-10T01:17:02+0300
+### [email redacted] — 2015-06-10T01:17:02+0300
 **Source:** <https://forum.jackkruse.com/threads/ubiquitination-17-is-live-and-speaks-volumes.15269/post-167283>
 
 From the blog _"I have mention David Sinclair name many times on my blogs. What David Sinclair and colleagues from both Harvard and Australia showed in a recent [publication](http://www.cell.com/abstract/S0092-8674\(13\)01521-3) late in 2013, that supplementation with a NAD+ precursor could reverse this mitochondrial dysfunction and it’s associated “Warburg” metabolic state in mice in one week. That shocked many in the science world, but not me"_
@@ -30122,7 +30122,7 @@ I am sure I have some "Warburg" going on and wonder..............though there ne
 ### nonchalant — 2015-06-10T01:36:42+0300
 **Source:** <https://forum.jackkruse.com/threads/ubiquitination-17-is-live-and-speaks-volumes.15269/post-167286>
 
-> [patgrif@hotmail.com said:](/goto/post?id=167283)
+> [[email redacted] said:](/goto/post?id=167283)
 >
 > From the blog _"I have mention David Sinclair name many times on my blogs. What David Sinclair and colleagues from both Harvard and Australia showed in a recent [publication](http://www.cell.com/abstract/S0092-8674\(13\)01521-3) late in 2013, that supplementation with a NAD+ precursor could reverse this mitochondrial dysfunction and it’s associated “Warburg” metabolic state in mice in one week. That shocked many in the science world, but not me"_
 >
@@ -30132,7 +30132,7 @@ I am sure I have some "Warburg" going on and wonder..............though there ne
 
 nicotine, niacin, niacinamide
 
-### patgrif@hotmail.com — 2015-06-10T01:49:36+0300
+### [email redacted] — 2015-06-10T01:49:36+0300
 **Source:** <https://forum.jackkruse.com/threads/ubiquitination-17-is-live-and-speaks-volumes.15269/post-167287>
 
 Nonchalant - Dr K seemed to say niacin was 'bad' but nicotine is 'good'...............vastly over-simplyfied
@@ -30140,7 +30140,7 @@ Nonchalant - Dr K seemed to say niacin was 'bad' but nicotine is 'good'.........
 ### nonchalant — 2015-06-10T01:52:22+0300
 **Source:** <https://forum.jackkruse.com/threads/ubiquitination-17-is-live-and-speaks-volumes.15269/post-167289>
 
-> [patgrif@hotmail.com said:](/goto/post?id=167287)
+> [[email redacted] said:](/goto/post?id=167287)
 >
 > Nonchalant - Dr K seemed to say niacin was 'bad' but nicotine is 'good'...............vastly over-simplyfied
 
@@ -30163,7 +30163,7 @@ Bad mitos in at least 2 generations- who would have thunk.
 ### Jack Kruse — 2015-06-10T02:26:22+0300
 **Source:** <https://forum.jackkruse.com/threads/ubiquitination-17-is-live-and-speaks-volumes.15269/post-167295>
 
-> [patgrif@hotmail.com said:](/goto/post?id=167283)
+> [[email redacted] said:](/goto/post?id=167283)
 >
 > From the blog _"I have mention David Sinclair name many times on my blogs. What David Sinclair and colleagues from both Harvard and Australia showed in a recent [publication](http://www.cell.com/abstract/S0092-8674\(13\)01521-3) late in 2013, that supplementation with a NAD+ precursor could reverse this mitochondrial dysfunction and it’s associated “Warburg” metabolic state in mice in one week. That shocked many in the science world, but not me"_
 >
@@ -30188,7 +30188,7 @@ So does chocolate, nuts, olive oil, and nuts........remember that January webina
 
 BOOM
 
-### patgrif@hotmail.com — 2015-06-10T02:51:13+0300
+### [email redacted] — 2015-06-10T02:51:13+0300
 **Source:** <https://forum.jackkruse.com/threads/ubiquitination-17-is-live-and-speaks-volumes.15269/post-167306>
 
 > [Jack Kruse said:](/goto/post?id=167295)
@@ -30214,7 +30214,7 @@ What about DCA?
 ### nonchalant — 2015-06-10T03:52:16+0300
 **Source:** <https://forum.jackkruse.com/threads/ubiquitination-17-is-live-and-speaks-volumes.15269/post-167319>
 
-> [patgrif@hotmail.com said:](/goto/post?id=167306)
+> [[email redacted] said:](/goto/post?id=167306)
 >
 > It is pretty safe to say I have an ubiquitin problem. So maybe nicotine would be of use. I think right now I use occasional carbs to give the Super Oxide burst to help with mitochondria. I mean I wouldn't say I 'crave' carbs and mostly I avoid but it seems deep down I always 'want' them even if mostly I don't actually. But I have 1/2 bagel pretty much most mornings and even after a 'healthy' meal I do kind of 'crave' like a slice of pizza or chocolate or something sweet.
 
@@ -31505,7 +31505,7 @@ Me too. Havent opened ticket yet. Going to try from home computer first.
 
 got to open a ticket so we know.....
 
-### patgrif@hotmail.com — 2015-06-10T02:45:55+0300
+### [email redacted] — 2015-06-10T02:45:55+0300
 **Source:** <https://forum.jackkruse.com/threads/accessing-emf-bootcamp.15271/post-167304>
 
 > [Jack Kruse said:](/goto/post?id=167302)
@@ -31586,7 +31586,7 @@ Sleeping on the floor can be very bad if electrical wires run through the floor 
 
 The EU has worse nnEMF from their power grid because of how it is constructed
 
-### patgrif@hotmail.com — 2015-06-10T19:02:55+0300
+### [email redacted] — 2015-06-10T19:02:55+0300
 **Source:** <https://forum.jackkruse.com/threads/i-swim-sometimes.15265/post-167433>
 
 > [Jack Kruse said:](/goto/post?id=167422)
@@ -31633,7 +31633,7 @@ Wires to the ceiling lights in the flat below, running between my floor and thei
 
 nnEMF........causes panic attacks and anxiety
 
-### patgrif@hotmail.com — 2015-06-12T17:29:59+0300
+### [email redacted] — 2015-06-12T17:29:59+0300
 **Source:** <https://forum.jackkruse.com/threads/i-swim-sometimes.15265/post-167830>
 
 > [b612 said:](/goto/post?id=167818)
@@ -32305,7 +32305,7 @@ I told him that it's interesting that we were just talking about this on the for
 ### Cpt.Tired — 2015-07-19T18:26:18+0300
 **Source:** <https://forum.jackkruse.com/threads/i-swim-sometimes.15265/post-172357>
 
-> [patgrif@hotmail.com said:](/goto/post?id=167433)
+> [[email redacted] said:](/goto/post?id=167433)
 >
 > Dr Kruse, do you care to say a bit more about that. I know the voltage in the wall sockets is like double what it is in the US (240 volts versus 120)
 >
@@ -33841,7 +33841,7 @@ I think so much of what's currently done seems to revolve around assuming that s
 
 I don't know. Just some thoughts. But might cancer be some kind of adaptive response?
 
-### patgrif@hotmail.com — 2015-06-11T23:23:45+0300
+### [email redacted] — 2015-06-11T23:23:45+0300
 **Source:** <https://forum.jackkruse.com/threads/does-cancer-have-a-function.15354/post-167689>
 
 > [Gagnrad said:](/goto/post?id=167687)
@@ -33887,7 +33887,7 @@ Viri are our spare parts and they change optical signaling in us to force genomi
 ### Gagnrad — 2015-06-12T08:17:40+0300
 **Source:** <https://forum.jackkruse.com/threads/does-cancer-have-a-function.15354/post-167774>
 
-> [patgrif@hotmail.com said:](/goto/post?id=167689)
+> [[email redacted] said:](/goto/post?id=167689)
 >
 > Yes Gagnrad, this thing of your 'body is out to get you' reminds me also of the whole idea aobut viruses. They are out to get us also, the will wheedle their way into our cells and propagate themselves at our expense. It's also a very 'military' metaphor which the USA instinctively relates to. The world is a battlefield and the strong one wins
 
@@ -35426,7 +35426,7 @@ Always comes back to this:[https://www.facebook.com/groups/872967099382852/perma
 
 Now if you do have them or get them make sure you CT that area a lot. Why? CT all day every and day shrinks the respiratory proteins to improve tunneling speeds. This also affects the MINOS which is the sea around the respirtory proteins to make a larger EZ. Larger EZ = more electrons flowing and it also keeps the charge high on the the ECT chain to allow chemiosmosis to work to exclude protons. When you exclude protons in the matrix you general 30 million volts on the ECT.
 
-### patgrif@hotmail.com — 2015-06-13T23:57:46+0300
+### [email redacted] — 2015-06-13T23:57:46+0300
 **Source:** <https://forum.jackkruse.com/threads/tattoos-and-the-skin.15445/post-167999>
 
 > [Jack Kruse said:](/goto/post?id=167971)
@@ -36951,7 +36951,7 @@ Any suggestions/insight on how to make this decision? I'm pretty sure they won't
 
 composite. Talk to my buddy John Sorrentino on his website. HE is a dentist and does on line consults to help you decide the next best step.
 
-### info@sorrentinodental.com — 2015-06-16T15:56:06+0300
+### [email redacted] — 2015-06-16T15:56:06+0300
 **Source:** <https://forum.jackkruse.com/threads/lost-a-tooth-filling-now-what.15532/post-168400>
 
 Can you post an x-ray? It does not sound like you need a root canal. It sounds more like you need a crown.
@@ -36964,7 +36964,7 @@ That is what I call a house call!!!!
 ### lilly antic — 2015-06-16T17:46:43+0300
 **Source:** <https://forum.jackkruse.com/threads/lost-a-tooth-filling-now-what.15532/post-168415>
 
-> [info@sorrentinodental.com said:](/goto/post?id=168400)
+> [[email redacted] said:](/goto/post?id=168400)
 >
 > Can you post an x-ray? It does not sound like you need a root canal. It sounds more like you need a crown.
 
@@ -36980,7 +36980,7 @@ Wow! This forum is amazing . . . thanks so much!!! I'll see if I can pick the xr
 
 Looking, if it helps, my DH had a root canal scheduled (about 6-8 months off) when I started him on Vitamin K, the MK-4 (menatetrenone) variety. At his next appointment, nothing was said about a root canal, and he also didn't have any new cavities. It's been a couple years now.
 
-### info@sorrentinodental.com — 2015-06-16T19:06:43+0300
+### [email redacted] — 2015-06-16T19:06:43+0300
 **Source:** <https://forum.jackkruse.com/threads/lost-a-tooth-filling-now-what.15532/post-168432>
 
 > [lookingforanswers said:](/goto/post?id=168416)
@@ -38154,7 +38154,7 @@ No you don't but you are teaching those who find you how to fish on their own, a
 ### Gagnrad — 2015-06-18T19:37:43+0300
 **Source:** <https://forum.jackkruse.com/threads/paging-pat-grif.15613/post-168777>
 
-I was wondering @[patgrif@hotmail.com](mailto:patgrif@hotmail.com) how is Shilin pronounced? I'm thinking of the traditional song "Lakes of Shilin".
+I was wondering @[[email redacted]](mailto:[email redacted]) how is Shilin pronounced? I'm thinking of the traditional song "Lakes of Shilin".
 
 Nic Jones is wonderful guitar player, but he does come from Kent so I'm not sure his Gaelic pronunciation would be correct.
 
@@ -39488,7 +39488,7 @@ e-cig no bueno. Method of delivery is key.....cant use it when it cause pseudohy
 
 which brings me back to this link @[yewwei.tan](https://forum.jackkruse.com/members/6824/) posted on FB [http://www.nature.com/nrn/journal/v12/n11/images/nrn3105-f4.jpg](http://www.nature.com/nrn/journal/v12/n11/images/nrn3105-f4.jpg)
 
-### patgrif@hotmail.com — 2015-07-01T04:32:28+0300
+### [email redacted] — 2015-07-01T04:32:28+0300
 **Source:** <https://forum.jackkruse.com/threads/nicotine-gum-biohack-ubi-17.15797/post-170153>
 
 I started on nicotine on the Cruise and seemed to do really 'well' on it. 2mg a day just in the morning no food or cravings of any kind all day. Ate in the evening only. Yesterday (Monday) day after I got back again took 2mg and felt kind of strongly 'affected' all day. Did not eat at all yesterday very unusual for me..............like as in never happened before.
@@ -39523,7 +39523,7 @@ nicotine should be broken up.......meaning once or twice a week maybe enough to 
 
 ^^^yes i am just noticing that!
 
-### patgrif@hotmail.com — 2015-07-02T05:45:28+0300
+### [email redacted] — 2015-07-02T05:45:28+0300
 **Source:** <https://forum.jackkruse.com/threads/nicotine-gum-biohack-ubi-17.15797/post-170304>
 
 > [Jack Kruse said:](/goto/post?id=170273)

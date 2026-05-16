@@ -2239,7 +2239,7 @@ UVB (280-315nm)
 >
 > consults via skype have been open to members for last 6 weeks. They are based on availability
 
-Must have been a miscommunication. I'll get with your office. [support@jackkruse.com](mailto:support@jackkruse.com) or [info@jackkruse.com](mailto:info@jackkruse.com)? Best way to make the appointment?
+Must have been a miscommunication. I'll get with your office. [[email redacted]](mailto:[email redacted]) or [[email redacted]](mailto:[email redacted])? Best way to make the appointment?
 
 ### John Nicholas — 2018-08-17T22:27:07+0300
 **Source:** <https://forum.jackkruse.com/threads/the-people-of-the-am-sun.20005/post-248702>
@@ -6334,7 +6334,7 @@ And for those who think the technology to make spine implants react more like bi
 ### Jack Kruse — 2017-08-29T01:22:53+0300
 **Source:** <https://forum.jackkruse.com/threads/the-links-of-the-sun-and-mitochondrion-is-key-for-the-mitochondriac.20052/post-222473>
 
-Jansz do not post this stuff here about Patreon. Email [support@jackkruse.com](mailto:support@jackkruse.com) to get the help a member needs to fix this issue. Thanks.
+Jansz do not post this stuff here about Patreon. Email [[email redacted]](mailto:[email redacted]) to get the help a member needs to fix this issue. Thanks.
 
 ### drezy — 2017-08-29T01:27:11+0300
 **Source:** <https://forum.jackkruse.com/threads/the-links-of-the-sun-and-mitochondrion-is-key-for-the-mitochondriac.20052/post-222475>
@@ -6388,7 +6388,7 @@ How do I access them?
 ### Jack Kruse — 2017-08-30T23:36:01+0300
 **Source:** <https://forum.jackkruse.com/threads/blogs.20055/post-222611>
 
-[support@jackkruse.com](mailto:support@jackkruse.com)
+[[email redacted]](mailto:[email redacted])
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -14657,7 +14657,7 @@ How am I able to set up a consultation with jack?
 
 Become a Silver or Gold member.
 
-Then email [support@jackkruse.com](mailto:support@jackkruse.com)
+Then email [[email redacted]](mailto:[email redacted])
 
 Ask Doc if he minds if you record the season when you start. Some folks seem to forget all the material their session covered.
 
@@ -36025,7 +36025,7 @@ well please pop in if you come up this way
 Do we know what the average individuals deuterium serum level now is/ may be ? Reading a little I found this study that basically says that blood from healthy human contains 30% more deuterium than the water they drink, that a lower level could be a diagnostic tool for a cancerous state in the body ? Is our problem a lack of deuterium or an oversupply which is presenting us with other or the same problems ? Mildly confused in Buenos Aires..
 DEUTERIUM DEPLETION IN BLOOD, BLOOD PLASMA AND NEOPLASM TISSUE FROM PATIENTS. DIAGNOSIS AND TREATMENT IMPLICATIONS
 **P. Berdea1, Stela Cuna1, M. Cazacu2, M. Tudose2**
-_1 National Institute of Research-Development for Isotopic and Molecular Technologies, 71-103 Donath St. 400293 Cluj-Napoca, Romania, e-mail: [cuna@oc1.itim](mailto:cuna@oc1.itim)\-cj.ro_
+_1 National Institute of Research-Development for Isotopic and Molecular Technologies, 71-103 Donath St. 400293 Cluj-Napoca, Romania, e-mail: [[email redacted]](mailto:[email redacted])\-cj.ro_
 _2 University Hospital of the Railway Society, 18 Bilascu St., 3400 Cluj-Napoca_
 
 ### Inger — 2017-11-05T16:52:42+0200
@@ -36036,7 +36036,7 @@ _2 University Hospital of the Railway Society, 18 Bilascu St., 3400 Cluj-Napoca_
 > Do we know what the average individuals deuterium serum level now is/ may be ? Reading a little I found this study that basically says that blood from healthy human contains 30% more deuterium than the water they drink, that a lower level could be a diagnostic tool for a cancerous state in the body ? Is our problem a lack of deuterium or an oversupply which is presenting us with other or the same problems ? Mildly confused in Buenos Aires..
 > DEUTERIUM DEPLETION IN BLOOD, BLOOD PLASMA AND NEOPLASM TISSUE FROM PATIENTS. DIAGNOSIS AND TREATMENT IMPLICATIONS
 > **P. Berdea1, Stela Cuna1, M. Cazacu2, M. Tudose2**
-> _1 National Institute of Research-Development for Isotopic and Molecular Technologies, 71-103 Donath St. 400293 Cluj-Napoca, Romania, e-mail: [cuna@oc1.itim](mailto:cuna@oc1.itim)\-cj.ro_
+> _1 National Institute of Research-Development for Isotopic and Molecular Technologies, 71-103 Donath St. 400293 Cluj-Napoca, Romania, e-mail: [[email redacted]](mailto:[email redacted])\-cj.ro_
 > _2 University Hospital of the Railway Society, 18 Bilascu St., 3400 Cluj-Napoca_
 
 Lahelada, Jans last post here might give some insight;
@@ -36055,7 +36055,7 @@ nothing is as it was before....
 
 DEUTERIUM DEPLETION IN BLOOD, BLOOD PLASMA AND NEOPLASM TISSUE FROM PATIENTS. DIAGNOSIS AND TREATMENT IMPLICATIONS
 **P. Berdea1, Stela Cuna1, M. Cazacu2, M. Tudose2**
-_1 National Institute of Research-Development for Isotopic and Molecular Technologies, 71-103 Donath St. 400293 Cluj-Napoca, Romania, e-mail: [cuna@oc1.itim](mailto:cuna@oc1.itim)\-cj.ro_
+_1 National Institute of Research-Development for Isotopic and Molecular Technologies, 71-103 Donath St. 400293 Cluj-Napoca, Romania, e-mail: [[email redacted]](mailto:[email redacted])\-cj.ro_
 _2 University Hospital of the Railway Society, 18 Bilascu St., 3400 Cluj-Napoca
 
 Naturally occurring deuterium is essential for the normal growth rate of rate of cells

@@ -230,7 +230,7 @@ Ok, that was fun. I freaked out the contractor installing tile in our home with 
 
 The look on his face as I gulped it down was priceless .
 
-### kathiebu@hotmail.com — 2012-10-26T20:45:54+0300
+### [email redacted] — 2012-10-26T20:45:54+0300
 **Source:** <https://forum.jackkruse.com/threads/this-breakfast-gives-crazy-energy.4497/post-60347>
 
 > **fitness@home;61928 wrote:** Ok, that was fun. I freaked out the contractor installing tile in our home with the smoothie. He watched as I put smelt, the juice of a lemon, and some seaweed into the Vitamix. By the way, the seaweed does add a slightly salty flavor to the concoction and is a nice addition.
@@ -567,7 +567,7 @@ SfwHoz [ugg boots outlet](http://http://cheapuggbootsclearance.webeden.net/) tyk
 **Subforum:** Feedback/Suggestions
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2012-10-26T04:48:32+0300
+### [email redacted] — 2012-10-26T04:48:32+0300
 **Source:** <https://forum.jackkruse.com/threads/whats-the-link-or-how-to-make-a-request.4504/post-60260>
 
 I don't see an option on the site that links my membership to what came out of my old one at paypal...
@@ -1295,7 +1295,7 @@ I wont by the blue blockers from them since they are so expensive. Might want to
 **Subforum:** Optimal Labs
 **Posts:** 1
 ══════════════════════════════════════════════════════════════════════
-### docwatt@gmail.com — 2012-10-28T06:45:26+0200
+### [email redacted] — 2012-10-28T06:45:26+0200
 **Source:** <https://forum.jackkruse.com/threads/salivary-melatonin.4533/post-60520>
 
 Where can I get a salivary Melatonin? I've been doing the AM Cycloset per Jack's recommendations, but my fingerstic glucose is going in the wrong direction.
@@ -1478,7 +1478,7 @@ Thanks Marie. Great idea about the co-op. I have been feeding raw for 3 years, b
 
 In terms of supplementation - I would suspect that it's much the same as humans. The ideal is to get it from food, but some things are harder given the quality of the food now. This to me is more the issue for supplementation than those that perform in dog sports. After reading Jack's blog, I was actually pretty impressed that she recommended kelp - and I've started to use the dried kelp I bought for them lol. So they just have to share!  I also started making bone broth from their bones. So I've started to eat more like them!
 
-### gizmeaux@pacbell.net — 2012-10-31T16:51:37+0200
+### [email redacted] — 2012-10-31T16:51:37+0200
 **Source:** <https://forum.jackkruse.com/threads/optimal-canines.4543/post-61085>
 
 Just read about a study that claims dogs fed ad libitum chose 63% fat, 30% protein and 7% carbs. Sounds like Paleo Pup to me!
@@ -1624,7 +1624,7 @@ Will check in here often to keep me accountable & for support. Thanks Colleen & 
 
 You'll be shocked how great it works.
 
-### jeanie@truelongmont.com — 2012-10-29T23:15:20+0200
+### [email redacted] — 2012-10-29T23:15:20+0200
 **Source:** <https://forum.jackkruse.com/threads/first-round-ever-of-hcg-started-today.4554/post-60798>
 
 Keep us posted! Being busy sounds perfect!!
@@ -1655,7 +1655,7 @@ Caveman, did you take it to up your testosterone? She's not doing that. LOL It's
 
 natural girl, yes you need to split it up into 2 meals. You can do more but losses tend to be better if you do only 2 meals.
 
-### jeanie@truelongmont.com — 2012-10-31T03:53:06+0200
+### [email redacted] — 2012-10-31T03:53:06+0200
 **Source:** <https://forum.jackkruse.com/threads/first-round-ever-of-hcg-started-today.4554/post-61028>
 
 > **colleencoble;62728 wrote:** Caveman, did you take it to up your testosterone? She's not doing that. LOL It's perfectly safe and an absolute miracle for weight loss.
@@ -1666,7 +1666,7 @@ natural girl, yes you need to split it up into 2 meals. You can do more but loss
 
 I was about ask how much HCG he ate.
 
-### jeanie@truelongmont.com — 2012-10-31T04:04:57+0200
+### [email redacted] — 2012-10-31T04:04:57+0200
 **Source:** <https://forum.jackkruse.com/threads/first-round-ever-of-hcg-started-today.4554/post-61029>
 
 SO HCG Ladies,
@@ -1715,7 +1715,7 @@ So today is my first restriction day. I brought 6 grilled shrimp, about a 1/4 he
 
 Thanks girls! I am praying I lose a ton!
 
-### jeanie@truelongmont.com — 2012-10-31T17:14:02+0200
+### [email redacted] — 2012-10-31T17:14:02+0200
 **Source:** <https://forum.jackkruse.com/threads/first-round-ever-of-hcg-started-today.4554/post-61092>
 
 > **natural\_girl;62805 wrote:** Cavemam was the 25 pounds you lost including what you gained loading? I gained 6 pounds loading! Not surprising since I really never eat carbs and ate a ton of potatoes! I feel the water I gained funny thing is when I used to eat carbs I would bloat like crazy but lately that doesn't really happen maybe just a tiny bit but I feel like it's normal. I think that might mean my hormones are getting back on track.
@@ -1785,7 +1785,7 @@ Yesterday had 6 shrimp for lunch & dinner, 1/4 head of cabbage & an apple.
 
 Today will have the same for lunch & dinner except maybe a cucumber for dinner instead. Gotta live on the wild side! LOL
 
-### jeanie@truelongmont.com — 2012-11-01T18:53:49+0200
+### [email redacted] — 2012-11-01T18:53:49+0200
 **Source:** <https://forum.jackkruse.com/threads/first-round-ever-of-hcg-started-today.4554/post-61316>
 
 > **natural\_girl;63024 wrote:** VLCD #2 weighed myself this morning & down 2 lbs which I am sure is all water. I have been running to pee like crazy which always happens when I eat carbs then stop but seems a bit worse with the hcg. Funny thing is I still feel like I am holding tons of water and my mouth is very dry. I am drinking a lot of water, green tea & some black coffee. Also, was pretty hungry when I woke up then it went away for awhile & is now back. My stomach is growling so I am sure it's not a mind thing. Colleen I changed to 125 iu today since you said to do that if I was hungry when I woke up.
@@ -1838,7 +1838,7 @@ Not as much hunger yesterday although I still had some but my lunch was delayed 
 
 **Colleen** should I skip a day tomorrow?
 
-### finnite@dccnet.com — 2012-11-03T17:23:57+0200
+### [email redacted] — 2012-11-03T17:23:57+0200
 **Source:** <https://forum.jackkruse.com/threads/first-round-ever-of-hcg-started-today.4554/post-61784>
 
 I\`m the other colleen but generally you do not skip a dose until you have done a weeks worth of doses
@@ -1859,7 +1859,7 @@ So yesterday I had the chicken, spinach & strawberries for lunch and decided to 
 
 Today I am having the chicken, spinach & strawberry for lunch again and probably shrimp, cabbage & apple for dinner.
 
-### jeanie@truelongmont.com — 2012-11-04T15:39:00+0200
+### [email redacted] — 2012-11-04T15:39:00+0200
 **Source:** <https://forum.jackkruse.com/threads/first-round-ever-of-hcg-started-today.4554/post-61958>
 
 > **natural\_girl;63731 wrote:** VLCD #5 down 1 pound! Total 9.6 pounds!
@@ -1925,7 +1925,7 @@ Hopefully I will see some better losses soon
 
 Slowing every 10 pounds is normal.
 
-### jeanie@truelongmont.com — 2012-11-06T22:37:43+0200
+### [email redacted] — 2012-11-06T22:37:43+0200
 **Source:** <https://forum.jackkruse.com/threads/first-round-ever-of-hcg-started-today.4554/post-62426>
 
 Week 2 won't show losses accurately!!! You are way high above average on losses now, this means you are going to go lower daily, lower than average to make up for the 1st week fun-run.
@@ -1979,7 +1979,7 @@ So yesterday I did shrimp, cabbage & apple for lunch & chicken & cabbage cooked 
 
 Today I will probably do the usual lunch & shrimp over cooked spinach that was really yummy when I had it last & an apple. We have a fundraiser to go to tonight and no drinking or eating for me  I must stay strong! I already told hubby I don't want to stay all night I have to be up early for work tomorrow anyway.
 
-### jeanie@truelongmont.com — 2012-11-09T17:48:45+0200
+### [email redacted] — 2012-11-09T17:48:45+0200
 **Source:** <https://forum.jackkruse.com/threads/first-round-ever-of-hcg-started-today.4554/post-63131>
 
 What's your dose now? Also - may want to eat a little more beef or chicken today and go up to 500 cals.
@@ -2079,7 +2079,7 @@ Today is my skip day. **Colleen and/or Cavemam** is it 40 total injections in a 
 
 So I guess I should not have spoken so soon cause I had loose stool yesterday afternoon again and now I am wondering if it is the cabbage?! I eat quite a bit raw and I haven't really ever noticed cabbage to do that to me before but then again I usually don't eat that much raw when I eat other things. I guess I will have to keep experimenting.
 
-### jeanie@truelongmont.com — 2012-11-12T16:05:12+0200
+### [email redacted] — 2012-11-12T16:05:12+0200
 **Source:** <https://forum.jackkruse.com/threads/first-round-ever-of-hcg-started-today.4554/post-63812>
 
 40 total injections.
@@ -2357,7 +2357,7 @@ PVC seems to be everywhere, but who wants the BPA?
 
 Copper would be extremely expensive. Galvanized?
 
-### jeanie@truelongmont.com — 2012-10-30T02:55:27+0200
+### [email redacted] — 2012-10-30T02:55:27+0200
 **Source:** <https://forum.jackkruse.com/threads/water-well-casing-question.4564/post-60855>
 
 I run into well issues around here on our mountain properties - sadly, there are only a few options from well providers that provide permit quality (thus saleable in the future and documented properly) . I would get your bids from the well companies and see if any of them provide options on that.
@@ -2368,7 +2368,7 @@ Also I would find out if your installer just meets required levels, or exceeds t
 
 My point is, you don't really have many choices - unless of course you are going off grid and unpermitted - in which case I would say SHHHHHHH! don't let your insurance or neighbors find out. Also hide it if you ever want to sell!!!
 
-### nate.reik@yahoo.com — 2012-10-30T15:06:12+0200
+### [email redacted] — 2012-10-30T15:06:12+0200
 **Source:** <https://forum.jackkruse.com/threads/water-well-casing-question.4564/post-60898>
 
 BPA usually is only used in flexible PVC, I would think well casing would be stiff?
@@ -2922,7 +2922,7 @@ Hey...Vegemite is good (at least I think it is)!
 
 I miss Vegemite, nothing to put it on!
 
-### jeanie@truelongmont.com — 2012-10-31T04:07:29+0200
+### [email redacted] — 2012-10-31T04:07:29+0200
 **Source:** <https://forum.jackkruse.com/threads/school-healthy-breakfast.4585/post-61030>
 
 > **kathylu;62736 wrote:** Hey...Vegemite is good (at least I think it is)!
@@ -2946,7 +2946,7 @@ This church means well, but they are teaching a bad lesson, as well as giving po
 
 The road to hell is paved with good intentions...and fortified front loops.
 
-### jeanie@truelongmont.com — 2012-11-01T20:23:33+0200
+### [email redacted] — 2012-11-01T20:23:33+0200
 **Source:** <https://forum.jackkruse.com/threads/school-healthy-breakfast.4585/post-61361>
 
 > **FarmersDaughter;63077 wrote:** The road to hell is paved with good intentions...and fortified front loops.
@@ -3107,7 +3107,7 @@ I just spewed BPC.
 
 Crap for the cure, indeed.
 
-### jeanie@truelongmont.com — 2012-10-31T21:20:09+0200
+### [email redacted] — 2012-10-31T21:20:09+0200
 **Source:** <https://forum.jackkruse.com/threads/some-interesting-snippets-on-iodine.4595/post-61143>
 
 > **Nonchalant;62824 wrote:** Hmmm, sarcasm is creeping back. Need more oysters...
@@ -3782,7 +3782,7 @@ I think I'm going to move to Norway.
 
 The only clams I can find are canned. Grrrrr. Still tasty though.
 
-### jeanie@truelongmont.com — 2012-11-01T16:43:26+0200
+### [email redacted] — 2012-11-01T16:43:26+0200
 **Source:** <https://forum.jackkruse.com/threads/clams.4602/post-61282>
 
 Where/how are you getting fresh clams? Are there options for pre shucked? Pics please?
@@ -4078,7 +4078,7 @@ Just shows how important a healthy liver is for youth and longevity.
 
 That's totally wild...she looks half-cooked!
 
-### jeanie@truelongmont.com — 2012-11-01T17:49:42+0200
+### [email redacted] — 2012-11-01T17:49:42+0200
 **Source:** <https://forum.jackkruse.com/threads/interesting-lobster-chimera.4616/post-61303>
 
 > **ealachan;63033 wrote:** That's totally wild...she looks half-cooked!
@@ -4092,7 +4092,7 @@ That why I suspect chimera. There's a pic of a chimera cat, and chimeric people 
 
 In horses, chimeras are usually brindled. Of course, that may be due to such unusual patterning being the only one investigated, but...
 
-### jeanie@truelongmont.com — 2012-11-01T18:07:24+0200
+### [email redacted] — 2012-11-01T18:07:24+0200
 **Source:** <https://forum.jackkruse.com/threads/interesting-lobster-chimera.4616/post-61306>
 
 > **FarmersDaughter;63038 wrote:** That why I suspect chimera. There's a pic of a chimera cat, and chimeric people usually have a Ã¼ber straight division. You'd think it would be more mottled...harlequinesque, but it's not.
@@ -4103,7 +4103,7 @@ In horses, chimeras are usually brindled. Of course, that may be due to such unu
 
 Dammit woman, I have a deadline for a project this morning and now I want to google chimera animals! hehe I must turn off the internets and get to work.
 
-### jeanie@truelongmont.com — 2012-11-01T18:08:39+0200
+### [email redacted] — 2012-11-01T18:08:39+0200
 **Source:** <https://forum.jackkruse.com/threads/interesting-lobster-chimera.4616/post-61308>
 
 damn you all! I have work to do. . . .
@@ -4117,7 +4117,7 @@ damn you all! I have work to do. . . .
 
 Maybe you're doing the wrong kind of work !?!
 
-### jeanie@truelongmont.com — 2012-11-01T20:12:31+0200
+### [email redacted] — 2012-11-01T20:12:31+0200
 **Source:** <https://forum.jackkruse.com/threads/interesting-lobster-chimera.4616/post-61357>
 
 > **Lyndra;63084 wrote:** Maybe you're doing the wrong kind of work !?!
@@ -4242,7 +4242,7 @@ Maybe it's because I grew up (and still live) way out in the sticks in a place t
 
 When it comes right down to it, all you have to do is go outside and look around you. Nature is not coy. She will show you exactly what's going on and what part you should play in that drama, if you just open your eyes and quit over-thinking things.
 
-### jeanie@truelongmont.com — 2012-11-02T01:33:41+0200
+### [email redacted] — 2012-11-02T01:33:41+0200
 **Source:** <https://forum.jackkruse.com/threads/seasonality.4621/post-61447>
 
 > **Shijin13;63119 wrote:** I do a yule log. granted its not a big one that will burn for days, and still have enough left to start the next years yule fire. I always set aside 2-3 logs that are to be kept for burning the next winter solstice, and use them to feed the fire. We gather around, and pass around a talking stick, and talk about the things that we're greatful for each year. I'll make poultices to burn as offerings for the next year, and we eat out by the fire, and enjoy it. We also pick a spirit to watch over the fire and guide us into the days of the returning light.
@@ -4435,7 +4435,7 @@ Need soaking tub. Maybe a cool cave like Dr. K
 
 Other ideas for more optimal? Fireplace to give a nice light?
 
-### jeanie@truelongmont.com — 2012-11-02T16:17:48+0200
+### [email redacted] — 2012-11-02T16:17:48+0200
 **Source:** <https://forum.jackkruse.com/threads/ideas-to-make-a-home-more-optimal.4634/post-61531>
 
 Omg I have so much to say on this! My son is out of school tho and it will be late - one word - off gassing.
@@ -4496,7 +4496,7 @@ We looked at cabinets, which are so expensive. They have very attractive exterio
 
 Hmmm....optimal bathroom. How about an icemaker attached to the bathtub? LOL
 
-### jeanie@truelongmont.com — 2012-11-02T16:51:37+0200
+### [email redacted] — 2012-11-02T16:51:37+0200
 **Source:** <https://forum.jackkruse.com/threads/ideas-to-make-a-home-more-optimal.4634/post-61543>
 
 > **freshveggies;63289 wrote:** I agree--my head is spinning. I am looking into products to not off gas---like using exterior grad plywood indoor instead of the interior grade.
@@ -4546,7 +4546,7 @@ We are thinking spray foam that is soy based. It has been very successful in thi
 
 We are building for our enjoyment of this home. I am gong to use a plan from sunplans.com. They will finalize the plan and modifications that I make with their architect.
 
-### jeanie@truelongmont.com — 2012-11-02T17:09:07+0200
+### [email redacted] — 2012-11-02T17:09:07+0200
 **Source:** <https://forum.jackkruse.com/threads/ideas-to-make-a-home-more-optimal.4634/post-61548>
 
 > **freshveggies;63299 wrote:** I do already have a purchase agreement on the piece of land in SD. I know about radon and have used a radon detector in my house and we are good here. I might even put a radon mitigation system in. I need to ask more questions on this. I welcome these thoughts and ideas.
@@ -5713,7 +5713,7 @@ What was equally amazing was that we decided to follow her cue and feed all the 
 
 So... the same diet caused the two overweight to drop weight and the one underweight to gain. They are all three at a healthy weight now and their raw diet persists. Now they fight over who is first to the bowl!
 
-### jeanie@truelongmont.com — 2012-11-05T22:09:03+0200
+### [email redacted] — 2012-11-05T22:09:03+0200
 **Source:** <https://forum.jackkruse.com/threads/fat-cat.4693/post-62255>
 
 I loved my cats. So much I calorie restricted them with only the best of foods. They did not go outside and risk death or disease. They got plenty of exercise. Both were potty trained (seriously), but able to protest that procedure by peeing on my laundry when I wasn't looking.
@@ -5745,7 +5745,7 @@ I wonder if my son will take that approach with me. . . "JUST GIVE HER MORE WINE
 
 Cavemam, I had a similar experience with two cats. One was convinced that for 20 years we had been trying to kill her. She seldom relaxed in our presence. We fed them dry food, mostly. The older they got, the stranger they got. I feel bad now, knowing that they were suffering from malnutrition. Guess dressed-up corn only goes so far for an obligate carnivore.
 
-### jeanie@truelongmont.com — 2012-11-06T00:15:13+0200
+### [email redacted] — 2012-11-06T00:15:13+0200
 **Source:** <https://forum.jackkruse.com/threads/fat-cat.4693/post-62273>
 
 > **Nonchalant;64079 wrote:** Cavemam, I had a similar experience with two cats. One was convinced that for 20 years we had been trying to kill her. She seldom relaxed in our presence. We fed them dry food, mostly. The older they got, the stranger they got. I feel bad now, knowing that they were suffering from malnutrition. Guess dressed-up corn only goes so far for an obligate carnivore.
@@ -5823,7 +5823,7 @@ cardio exercise
 
 Dont forget to feed your cat when he'd normally be hunting....
 
-### jeanie@truelongmont.com — 2012-11-07T18:05:54+0200
+### [email redacted] — 2012-11-07T18:05:54+0200
 **Source:** <https://forum.jackkruse.com/threads/fat-cat.4693/post-62563>
 
 > **RiverNeighbor;64392 wrote:** Dont forget to feed your cat when he'd normally be hunting....
@@ -6453,7 +6453,7 @@ Cynthia Kenyon does a lot of interesting work on calorie restriction
 
 [http://www.ucsf.edu/news/2007/01/3784/kenyon](http://http://www.ucsf.edu/news/2007/01/3784/kenyon)
 
-### jeanie@truelongmont.com — 2012-11-12T15:54:46+0200
+### [email redacted] — 2012-11-12T15:54:46+0200
 **Source:** <https://forum.jackkruse.com/threads/eat-fast-and-live-longer.4717/post-63806>
 
 I loved that show, but it was so frustrating because they kept trying to fix it so "you could eat whatever you wanted" when you ate.
@@ -6484,7 +6484,7 @@ Read more: [http://chestofbooks.com/health/natural-cure/The-Hygienic-System-Orth
 
 I have found that calorie restriction is really working for me all of a sudden. I am not sure that that is what I should call it and I don't think it is quite IF but it is working great for the first time in my life. What I am doing is.... Breakfast is 2 Bullet proof coffees with butter and CO and sometimes i eat extra butter and sometimes add in a little bit of protein \[fish /MHS\] if there is something left in the fridge. I wait until I am a little hungry so it might be around 10;30. I then have dinner around 3:30 or 4:30 - Almost always fish. I really find I don't like meat anymore or digest it very well. I seem to be eating quite a bit less and feel very satisfied altho I eat until full. I throw in raw oysters and shrimp and Inger's salmon a few times a week. I have always eaten alot of eggs but I had some today and they really didn't agree with me - I was bloated and felt kind of sick and uncomfortable. I have had an intuition lately that i shouldn't have eggs any more - turned out to be right. This has sort of come together from bits and pieces I have learned from all of you! Thanx!!
 
-### jeanie@truelongmont.com — 2012-11-13T18:10:47+0200
+### [email redacted] — 2012-11-13T18:10:47+0200
 **Source:** <https://forum.jackkruse.com/threads/eat-fast-and-live-longer.4717/post-64043>
 
 Ruby - awesome post. I think the behaviors of the successful peoples are where we should look for inspiration. Note - food was a pleasure though, and has been for most societies. I suggest trying to remove that from the equation may be a human nature mismatch.
@@ -6576,7 +6576,7 @@ Glad he's back to normal! I had a scare once with one of my dogs getting into so
 **Subforum:** The New Monster Thread
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2012-11-08T07:56:47+0200
+### [email redacted] — 2012-11-08T07:56:47+0200
 **Source:** <https://forum.jackkruse.com/threads/this-will-not-end-well.4730/post-62844>
 
 [http://www.guardian.co.uk/lifeandstyle/wordofmouth/2012/nov/07/edible-deodorants-not-to-be-sniffed-at](http://http://www.guardian.co.uk/lifeandstyle/wordofmouth/2012/nov/07/edible-deodorants-not-to-be-sniffed-at)
@@ -6810,7 +6810,7 @@ soon some of the younger males and one female started emulating him...
 **Subforum:** The New Monster Thread
 **Posts:** 12
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2012-11-08T17:43:18+0200
+### [email redacted] — 2012-11-08T17:43:18+0200
 **Source:** <https://forum.jackkruse.com/threads/this-is-how-you-fight-our-enemies.4737/post-62904>
 
 Not saying these are our enemies, just illustrating a point. Just give your enemy a rope.
@@ -6834,7 +6834,7 @@ Nope, that aisle is the baking aisle. Sugars & sweetners of all types, various f
 
 Used to be my favorite area of the store.
 
-### jeanie@truelongmont.com — 2012-11-12T00:01:01+0200
+### [email redacted] — 2012-11-12T00:01:01+0200
 **Source:** <https://forum.jackkruse.com/threads/this-is-how-you-fight-our-enemies.4737/post-63693>
 
 So, I see lots of peoples kitchens and look in their pantry. . .even "healthy" seeming people. I've yet to find anybody that has any quantity of actual food. Even the healthiest have larders full of death.
@@ -6865,7 +6865,7 @@ Ever notice the hot food case at the truck stop? Everything they display has bee
 
 If its your lucky day, the attendant might give you 2 shriveled brown pieces for the price of 1 cause they were "cooked" more than 6 hours ago. MMMM MMMM GUUD!
 
-### jeanie@truelongmont.com — 2012-11-13T18:13:40+0200
+### [email redacted] — 2012-11-13T18:13:40+0200
 **Source:** <https://forum.jackkruse.com/threads/this-is-how-you-fight-our-enemies.4737/post-64046>
 
 My food shopping now is not the entertainment it used to be for sure. I kinda miss it!
@@ -7064,7 +7064,7 @@ Who are you and what are you doing with my labs!
 **Subforum:** Optimal Labs
 **Posts:** 5
 ══════════════════════════════════════════════════════════════════════
-### granitereno@gmail.com — 2012-11-09T16:44:57+0200
+### [email redacted] — 2012-11-09T16:44:57+0200
 **Source:** <https://forum.jackkruse.com/threads/lab-hack-please.4754/post-63123>
 
 Hi folks.
@@ -7077,7 +7077,7 @@ So based in these, what other labs should I take? Any immediate red flags?
 
 I am male, 38,
 
-### granitereno@gmail.com — 2012-11-09T16:49:37+0200
+### [email redacted] — 2012-11-09T16:49:37+0200
 **Source:** <https://forum.jackkruse.com/threads/lab-hack-please.4754/post-63124>
 
 Doesn't look like the lab scans loaded. Once more with feeling...
@@ -7086,7 +7086,7 @@ Doesn't look like the lab scans loaded. Once more with feeling...
 
 Attached files [](http://http://www.jackkruse.com/forum/convert_files/attachments/64973=543-ImageUploadedByTapatalk1352472375.848389.jpg)
 
-### granitereno@gmail.com — 2012-11-14T20:43:01+0200
+### [email redacted] — 2012-11-14T20:43:01+0200
 **Source:** <https://forum.jackkruse.com/threads/lab-hack-please.4754/post-64308>
 
 they highlighted my levels for:
@@ -7142,7 +7142,7 @@ Essential & Metabolic Fatty Acids Analysis (EMFA) by Genova Diagnostics
 
 Price: $226.00
 
-### gsteppe14@gmail.com — 2012-11-25T16:13:56+0200
+### [email redacted] — 2012-11-25T16:13:56+0200
 **Source:** <https://forum.jackkruse.com/threads/lab-hack-please.4754/post-65576>
 
 > Your billirubin is high probably due to Gilbert's.Â  Your direct billirubin is ~20% of the total, so that's probably what that is.Â  Very common and does no harm.Â  Just that doc's wont' explain to you why.Â  I'd watch Globulin but it doesn't seem to be a major issue.Â  You're not hypothyroid, right?Â  Retest, if your direct billirubin once again is >=20% of Total Billirubin, then Gilbert's; you will always test high.Â  But no issue.Â  If Globulin is still low, I'd watch that and your BUN, unless you have other issues like liver, anemia, autoimmunity, or GFR function decline.Â  You don't seem to.Â  It could be due to moderate overconsumption of proteins, which shouldn't be an issue unless you have pre-existing kidney damage.
@@ -8160,7 +8160,7 @@ I was freaking out a bit before I got the nerve to stick it in! Wasn't so bad! U
 
 I hate loading too! Worst part of the protocol but it's necessary.
 
-### jeanie@truelongmont.com — 2012-11-12T01:55:35+0200
+### [email redacted] — 2012-11-12T01:55:35+0200
 **Source:** <https://forum.jackkruse.com/threads/took-my-first-injection-today.4774/post-63736>
 
 Hee - omg i loved it!
@@ -8182,7 +8182,7 @@ Me, too! I felt so good on hCG, also.
 
 I gained 5 lbs LOL! No wonder I feel like crap! Oh I can't wait to feel hungry! Did I really just say that?? Well here goes Day 1 vlcd! Withdrawal from all that crap is going to be painful but its my own fault. Hey Colleen, I asked a question on the HCG forum about docs supplements and wondered if having the rice and veggie cellulose is okay. Have you seen anyone have great results using the supplements vs. not? I spent a lot on them and it was hard to find them without added junk like rice even though it is probably a tiny amount.
 
-### jeanie@truelongmont.com — 2012-11-12T16:42:17+0200
+### [email redacted] — 2012-11-12T16:42:17+0200
 **Source:** <https://forum.jackkruse.com/threads/took-my-first-injection-today.4774/post-63817>
 
 > **vwaggs;65755 wrote:** I gained 5 lbs LOL! No wonder I feel like crap! Oh I can't wait to feel hungry! Did I really just say that?? Well here goes Day 1 vlcd! Withdrawal from all that crap is going to be painful but its my own fault. Hey Colleen, I asked a question on the HCG forum about docs supplements and wondered if having the rice and veggie cellulose is okay. Have you seen anyone have great results using the supplements vs. not? I spent a lot on them and it was hard to find them without added junk like rice even though it is probably a tiny amount.
@@ -8592,7 +8592,7 @@ It has article after article on fish oil and magnesium. Then they give you food 
 **Subforum:** The New Monster Thread
 **Posts:** 10
 ══════════════════════════════════════════════════════════════════════
-### trishalinn@gmail.com — 2012-11-12T16:19:29+0200
+### [email redacted] — 2012-11-12T16:19:29+0200
 **Source:** <https://forum.jackkruse.com/threads/gall-bladder-info.4800/post-63815>
 
 Alright, I need you guys to talk to me about the gall bladder. I woke up about 4am with, what I thought was Terrible menstrual cramps (and they might be), I took some aleve and they settled down and I went back to sleep. Then I woke up at 7am with excruciating pain in my side. When I sat up I got dizzy and broke out in a cold sweat. I was in so much pain I couldn't think straight. After a few minutes the pain subsided. Over the last couple of hours the lower abdominal cramps and the pain in the side have sort of come and gone. Sometimes the pain in my side radiates around to my back too.
@@ -8614,7 +8614,7 @@ You could try a dose of milk of magnesia.
 
 Agree with Gretchen - gall bladder isn't likely to give you lower abdominal cramps. What you're describing sounds quite a lot like appendix. Are you running a fever at all?
 
-### trishalinn@gmail.com — 2012-11-12T17:22:00+0200
+### [email redacted] — 2012-11-12T17:22:00+0200
 **Source:** <https://forum.jackkruse.com/threads/gall-bladder-info.4800/post-63826>
 
 No fever. The intense pain has been in my side right under my ribs. It's come and gone a couple of times. Seems to be settling down right now. Just feeling lower abdominal/pelvic menstrual-like cramps now.
@@ -8876,7 +8876,7 @@ Now it has been about 6wks and Iâ€™m up to eating 5 shrimp per day!
 
 I believe living optimal is the cure.
 
-### gizmeaux@pacbell.net — 2012-11-12T20:45:39+0200
+### [email redacted] — 2012-11-12T20:45:39+0200
 **Source:** <https://forum.jackkruse.com/threads/food-allergy-progress.4804/post-63857>
 
 Congratulations. You are very brave!
@@ -9321,7 +9321,7 @@ Can it be that the lipid profile and oxidation is a direct RESPONSE to the low s
 
 2\. The natural onset of true menopause and the added stress on the body from the situation above that may be causing a faster than normal decline
 
-### gsteppe14@gmail.com — 2012-11-25T16:57:29+0200
+### [email redacted] — 2012-11-25T16:57:29+0200
 **Source:** <https://forum.jackkruse.com/threads/new-labs-for-crazy-mom-to-8-help.4807/post-65581>
 
 > Some of that issue could be related to your high Homocysteine.Â  That's partially explained by your low B12.Â  I'd get B12 up to 1000-1500 and see if your Homocysteine declines below 10.Â  It might, it might not.Â  Continued Homocysteine elevation could be an issue, especially with your moderately high LDL-P.Â  Other things I notice are urine acidity.Â  In someone eating Paleo, that usually comes from protein gorging and/or undereating vegetables.Â  I'd get that above 6.5, closer to 7.Â  High-normal A1c and low FT3.Â  Any hypothyroid symptoms?Â  Your liver numbers are excellent, your CBC is good, and no detectible inflammation.Â  No suspicion of crypto autoimmune diseases.
@@ -9460,7 +9460,7 @@ There have already been a few minor skirmishes on the paleo forums, like MDA, ov
 
 Anyone see the movie 'Idiocracy'? It seems less and less far-fetched all the time.
 
-### granitereno@gmail.com — 2012-11-14T21:05:43+0200
+### [email redacted] — 2012-11-14T21:05:43+0200
 **Source:** <https://forum.jackkruse.com/threads/are-humans-getting-dumber.4808/post-64310>
 
 > **Endless;66250 wrote:** Anyone see the movie 'Idiocracy'? It seems less and less far-fetched all the time.
@@ -9574,7 +9574,7 @@ What's that phrase someone posted here recently? "This will not end well."
 
 Damn, sugar is like a dangerous poison to us. I never wanted to demonize it because of my love for it. Quickly, but not quick enough, that love affair is waning.
 
-### jeanie@truelongmont.com — 2012-11-13T17:56:03+0200
+### [email redacted] — 2012-11-13T17:56:03+0200
 **Source:** <https://forum.jackkruse.com/threads/correlation-between-soft-drinks-and-osteoarthritis-of-the-knee.4816/post-64037>
 
 It could just as easily be correlated with the other highly processed foods soda drinkers have in their diet. These studies are such a waste of time as they leave out too many obviously material confounders.
@@ -9759,7 +9759,7 @@ Alternatively, perhaps try some allspice, fennel, garlic powder and salt, to mak
 
 When I use ground bison, I usually cook it in bacon fat and/or add bacon fat to it, because it's super lean and gets kind of dry (the kind I can get, anyway).
 
-### jeanie@truelongmont.com — 2012-11-13T17:52:19+0200
+### [email redacted] — 2012-11-13T17:52:19+0200
 **Source:** <https://forum.jackkruse.com/threads/ground-beef-sauce.4823/post-64036>
 
 A non spicy green chili sauce - around here there are some premade ones that are fairly optimal. The mild ones don't have spicyness
@@ -9774,7 +9774,7 @@ I grind up some pastured bacon to mix with the beef/bison and my little ones lik
 
 Oooh, or your could do a curry: coconut milk, curry spices, ground meat, some veg. We have this for dinner fairly regularly and it's very tasty.
 
-### jeanie@truelongmont.com — 2012-11-13T18:18:46+0200
+### [email redacted] — 2012-11-13T18:18:46+0200
 **Source:** <https://forum.jackkruse.com/threads/ground-beef-sauce.4823/post-64050>
 
 We spice up the coconut milk with a variety of ethnic flavors. Works with mex and pesto too!
@@ -10466,7 +10466,7 @@ I'll write something out in prose, and then convert it to a traditional poem, an
 **Subforum:** The Epi-Paleo Diet
 **Posts:** 1
 ══════════════════════════════════════════════════════════════════════
-### granitereno@gmail.com — 2012-11-14T23:29:57+0200
+### [email redacted] — 2012-11-14T23:29:57+0200
 **Source:** <https://forum.jackkruse.com/threads/awww-i-missed-it.4852/post-64340>
 
 So apparently the local Hmart just recently had some kinda seaweed fest that I missed out on.
@@ -11584,14 +11584,14 @@ ha, ha, ha, Entelechy, you, as a meat eater (Stoics - Seneca = meat eaters if I 
 **Subforum:** The Epi-Paleo Diet
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### granitereno@gmail.com — 2012-11-17T16:40:21+0200
+### [email redacted] — 2012-11-17T16:40:21+0200
 **Source:** <https://forum.jackkruse.com/threads/sausage-fest.4903/post-64940>
 
 The girls are away for a weekend of camping, so little man and I will do the only sensible thing: make liverwurst.
 
 Pastured pig livers everywhere should fear us! { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### granitereno@gmail.com — 2012-11-17T18:01:44+0200
+### [email redacted] — 2012-11-17T18:01:44+0200
 **Source:** <https://forum.jackkruse.com/threads/sausage-fest.4903/post-64953>
 
 This creature is happy with the whole process.
@@ -11761,7 +11761,7 @@ You see, I do not view the Federal Government as "other." I see it as US. I writ
 
 And you are as entitled to your opinion as I am mine.
 
-### jeanie@truelongmont.com — 2012-11-19T01:43:57+0200
+### [email redacted] — 2012-11-19T01:43:57+0200
 **Source:** <https://forum.jackkruse.com/threads/medical-doctor-fired-for-speaking-anti-obamacare-shocking.4915/post-65234>
 
 Ill share the gift of mine
@@ -12000,7 +12000,7 @@ The Impact of Fructose on Renal Function and Blood Pressure
 >
 >
 >
-> Center on Genetics of Transport and Epithelial Biology, Department of Medicine, University of Cincinnati, OH 45267-0585, USA. [manoocher.soleimani@uc.edu](mailto:manoocher.soleimani@uc.edu)
+> Center on Genetics of Transport and Epithelial Biology, Department of Medicine, University of Cincinnati, OH 45267-0585, USA. [[email redacted]](mailto:[email redacted])
 >
 > Abstract
 >
@@ -12021,7 +12021,7 @@ pretty interesting
 >
 >
 >
-> Renal Division and Channing Laboratory, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02115, USA. [entaylor@partners.org](mailto:entaylor@partners.org)
+> Renal Division and Channing Laboratory, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02115, USA. [[email redacted]](mailto:[email redacted])
 >
 > Abstract
 >
@@ -12042,7 +12042,7 @@ Fructose is just not so good. I had to quit eating apples.
 >
 >
 >
-> Departament of Radiology, Hospital Universitario Insular de Gran Canaria, Spain. [domenico.rendina@unina.it](mailto:domenico.rendina@unina.it)
+> Departament of Radiology, Hospital Universitario Insular de Gran Canaria, Spain. [[email redacted]](mailto:[email redacted])
 >
 > Abstract
 >
@@ -12237,7 +12237,7 @@ Teamsters wouldn't negotiate. Hedge funds lost at least $100 million. Workers lo
 
 Not true. Hostess admitted the givebacks by the unions were shocking. They sold them out anyway giving massive bonuses to the ceo and his cronies. THAT's what killed Hostess. Read the article.
 
-### jeanie@truelongmont.com — 2012-11-19T01:52:55+0200
+### [email redacted] — 2012-11-19T01:52:55+0200
 **Source:** <https://forum.jackkruse.com/threads/life-without-twinkies.4923/post-65236>
 
 It's an outdated product with an outdated business model. It left because the market spoke. No market for that product at that price.
@@ -12252,12 +12252,12 @@ Sadly, china it will be for many things for a while.
 
 Logically speaking, is a Chinese worker earning their daily twinkies any less of a person because they are in china?
 
-### jeanie@truelongmont.com — 2012-11-19T01:59:05+0200
+### [email redacted] — 2012-11-19T01:59:05+0200
 **Source:** <https://forum.jackkruse.com/threads/life-without-twinkies.4923/post-65239>
 
 They have some serious paid PR whores getting as many "column inches" so they can sell off the brands.
 
-### jeanie@truelongmont.com — 2012-11-19T01:59:59+0200
+### [email redacted] — 2012-11-19T01:59:59+0200
 **Source:** <https://forum.jackkruse.com/threads/life-without-twinkies.4923/post-65240>
 
 And yes, very annoyed. All this hostess talk makes me want a little silver puck of love!
@@ -12898,7 +12898,7 @@ My mom and dad told they (and nobody they knew) never ate hem though. And seawee
 
 When I think about it.. it is so weird.. there is so much food around for free, but nobody wants it?
 
-### mtdalling@fastmail.fm — 2012-11-25T11:34:06+0200
+### [email redacted] — 2012-11-25T11:34:06+0200
 **Source:** <https://forum.jackkruse.com/threads/scotlands-oldest-house.4939/post-65554>
 
 Well, you know what?
@@ -12935,7 +12935,7 @@ I noticed the same thing when posts first startedÂ turning up, some people had
 
 Oops, I goofed.Â  Who is Mike1?Â
 
-### pamby2@aol.com — 2012-11-26T10:41:35+0200
+### [email redacted] — 2012-11-26T10:41:35+0200
 **Source:** <https://forum.jackkruse.com/threads/scotlands-oldest-house.4939/post-65621>
 
 Very interesting!Â  Thanks for sharing!Â  And yes, is Mike1 the same person as Michael?
@@ -12972,7 +12972,7 @@ Come to think about this post... [http://blog.exuberantanimal.com/smart-hand/](h
 
 "Some primates can pass into this state episodically, but they don't live in it".-- lucky primates, so envious
 
-### pthomaslandry@gmail.com — 2012-11-19T14:30:55+0200
+### [email redacted] — 2012-11-19T14:30:55+0200
 **Source:** <https://forum.jackkruse.com/threads/the-hand.4940/post-65301>
 
 Interesting topic...
@@ -13014,7 +13014,7 @@ He doesn't think animals _really_ have tool-use, despite the way people sometime
 **Subforum:** The New Monster Thread
 **Posts:** 12
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2012-11-19T15:55:03+0200
+### [email redacted] — 2012-11-19T15:55:03+0200
 **Source:** <https://forum.jackkruse.com/threads/sinus-infection-thread.4944/post-65322>
 
 Got one.
@@ -13051,7 +13051,7 @@ Stress from your exciting project migh be contributing? Maybe some rosemary woul
 
 I have also heard colloidal silver spray works for the sinus infection but I have no experience...
 
-### jeanie@truelongmont.com — 2012-11-19T16:55:24+0200
+### [email redacted] — 2012-11-19T16:55:24+0200
 **Source:** <https://forum.jackkruse.com/threads/sinus-infection-thread.4944/post-65334>
 
 Ok, so I went back to look at the neti-pot posts. . . Jack's advise was he didn't like them for nasalwhatnot surgery. That water cleanse was ok, I don't know what that is.
@@ -13073,7 +13073,7 @@ My doc told me specifically not to use my neti pot when I have an active sinus o
 
 What usually helps me with sinus and/or ear infections is to eat as much raw garlic as I can stand, hydrate until I feel like I'm peeing over the moon, and take a bunch of vitamin C and zinc.
 
-### jeanie@truelongmont.com — 2012-11-19T17:01:03+0200
+### [email redacted] — 2012-11-19T17:01:03+0200
 **Source:** <https://forum.jackkruse.com/threads/sinus-infection-thread.4944/post-65338>
 
 > **Shijin13;67344 wrote:** raw garlic - eat it.
@@ -13103,7 +13103,7 @@ My hubby is an engineer .... He said not to worry, that he might not even notice
 
 Oh the other thing I have been using is oral probiotic lozenges
 
-### jeanie@truelongmont.com — 2012-11-19T17:14:57+0200
+### [email redacted] — 2012-11-19T17:14:57+0200
 **Source:** <https://forum.jackkruse.com/threads/sinus-infection-thread.4944/post-65348>
 
 > **RiverNeighbor;67359 wrote:** On Friday I thought my cold was for sure going to move to that nasty infected place that I have suffered from in the past. Today, all better. Still producing mucous but no more infection.
@@ -13175,7 +13175,7 @@ A nice Epipaleo news story:
 
 [http://news.ku.dk/all\_news/2012/2012.11/greenland\_norse\_gorged\_on\_seals/](http://http://news.ku.dk/all_news/2012/2012.11/greenland_norse_gorged_on_seals/)
 
-### jeanie@truelongmont.com — 2012-11-19T21:38:27+0200
+### [email redacted] — 2012-11-19T21:38:27+0200
 **Source:** <https://forum.jackkruse.com/threads/greenlands-viking-settlers-gorged-on-seals.4950/post-65415>
 
 Scholarly stuff never leaves room for sheer chance and serendipity. Perhaps a significant portion of the young women were won in a battle that a majority of Norse participated in. The women were drug off as slaves/concubines etc and assimilated into other cultures and perhaps one bad winter dwindled the rest.
@@ -13341,7 +13341,7 @@ Everything is improving so much everyday. - looks great. - thanks to everyone wh
 **Subforum:** Optimal Kids
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### gebronson@gmail.com — 2012-11-23T20:13:06+0200
+### [email redacted] — 2012-11-23T20:13:06+0200
 **Source:** <https://forum.jackkruse.com/threads/havoc-likes-raw-oysters.4963/post-65468>
 
 Chaos isn't so sure. But she does like smoked oysters. And octopus & squid are still he favorite seafood!!!
@@ -14517,7 +14517,7 @@ Thanks for the heads up Inger...Â Â  hope your Leptin Rx is going well.
 
 Wow that sound great Thor! No doubt you will get better little by little, you need to just give it time.. much time. You are on the right track me thinks! LOL about the penis thing.. Here whole familys get naked togehter in the sauna all the time. My family not because we are Norwegian and they are not so open about the nakedness as the Finns.. But I am still careful not to offend anyone..lol (we live in weird world and there are lots of sick people around wantig to hurt peoples feelings with masturbating and showing their penises in public in front of young girls and such. At least here it is quite common. sadly..)
 
-### gsteppe14@gmail.com — 2012-12-02T14:04:45+0200
+### [email redacted] — 2012-12-02T14:04:45+0200
 **Source:** <https://forum.jackkruse.com/threads/high-fasting-insulin-level-question-hack-my-labs.4996/post-66149>
 
 You have some serious issues and the main one is cardiovascular risk.Â Never mind that you've been at this for only 3 months.Â  The issues are inflammation and pre-existing injuries to your heart or muscle.Â  CPK over 2000.Â  Did you have prior heart attacks?Â  Do you have rhabdomyolysis?Â  And I don't know what you mean by checking into hospice care.Â  You need to elabroate on your health history if you want your blood record to be read correctly. Btw, along with your inflammation, your high fibrinogen puts you at particular CVD risk. I'd take some fish oil. It's similar to LP(a) and makes you sucsceptible to thrombosis because of your blood stickiness. Combine that with hypertension, LDL-p, etc. and your risk picture is extraordinary. You probably know that already.
@@ -14948,7 +14948,7 @@ Dimensional Design Productsâ€š Inc.
 
 Â [http://www.safespaceprotection.com/](http://http://www.safespaceprotection.com/)
 
-### terryfischer39@yahoo.com — 2012-12-30T18:37:06+0200
+### [email redacted] — 2012-12-30T18:37:06+0200
 **Source:** <https://forum.jackkruse.com/threads/must-see-evolution-circadian-rhythm-more-free-movie.5013/post-68778>
 
 Thanks, very interesting.
@@ -16672,7 +16672,7 @@ ok, I understand
 **Subforum:** Optimal Kids
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### trishalinn@gmail.com — 2012-12-05T14:03:00+0200
+### [email redacted] — 2012-12-05T14:03:00+0200
 **Source:** <https://forum.jackkruse.com/threads/breastfeeding-nutrition.5062/post-66457>
 
 Hey ladies,
@@ -16688,7 +16688,7 @@ I'd be up for it... check out my blog www.sunvalleysoul.blogspot.com to see if m
 
 fwiw I'm still nursing Havoc 1x/day right before bedtime. he'll be 3 in March. Â
 
-### trishalinn@gmail.com — 2012-12-05T15:25:10+0200
+### [email redacted] — 2012-12-05T15:25:10+0200
 **Source:** <https://forum.jackkruse.com/threads/breastfeeding-nutrition.5062/post-66472>
 
 Gretchen, I'd be happy to have you write for my blog! I think you'd be perfect for this topic. Could you shoot me an email at this address intoxicatedonlifemail at gmail.com. That way I'll have your info when I start sending out info and schedules and stuff. I'm looking at starting the series the first part of February, but I'll let you know the details via email when I firm them up. Thanks! { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
@@ -16798,7 +16798,7 @@ Thanks for the responses.
 **Subforum:** Optimal Labs
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### chad@compasshealthcare.com — 2012-12-06T00:23:06+0200
+### [email redacted] — 2012-12-06T00:23:06+0200
 **Source:** <https://forum.jackkruse.com/threads/question-about-elevated-shbg-and-eos-even-after-leptin-reset-and-paleo.5067/post-66532>
 
 Hi everyone,
@@ -16832,7 +16832,7 @@ From Dr Kruse in Ask Jack back in September:
 
 How are your lipids TRENDING?
 
-### chad@compasshealthcare.com — 2012-12-06T22:42:32+0200
+### [email redacted] — 2012-12-06T22:42:32+0200
 **Source:** <https://forum.jackkruse.com/threads/question-about-elevated-shbg-and-eos-even-after-leptin-reset-and-paleo.5067/post-66631>
 
 > **NittDan said**
@@ -17042,7 +17042,7 @@ Yeah, I love that whole video. I think we actually have a Whole Foods here in Va
 
 I have become quite adept at baking bacon in a large casserole dish in the oven.Â  Depending on how much you're cooking, and how closely packed in the dish it is, it might take 30 to 40 minutes, and you can control the crispiness of it pretty well.Â  I long ago tired of frying up bacon in pan.
 
-### trishalinn@gmail.com — 2012-12-06T22:16:26+0200
+### [email redacted] — 2012-12-06T22:16:26+0200
 **Source:** <https://forum.jackkruse.com/threads/question-about-how-to-consume-the-extra-fat.5069/post-66628>
 
 I love bacon fat...it's like candy. Back when I thought low-fat was healthy I felt a terrible person because I enjoyed the fattiest parts of the bacon the most.
@@ -17114,7 +17114,7 @@ I use Mascarpone to make sauces and desserts. Mascarpone is the thickest Italian
 ### furface — 2012-12-07T14:56:39+0200
 **Source:** <https://forum.jackkruse.com/threads/does-anyone-make-sauces-out-of-heavy-whipping-cream.5070/post-66710>
 
-> **c.adler@colostrum.de said**
+> **[email redacted] said**
 > I use Mascarpone to make sauces and desserts. Mascarpone is the thickest Italian cream you can get and is not liquid anymore it is so thick. Italians make Tiramisu with it. I just add it to meat, fish or anything else I can think of. Very delicious as a dessert is melting dark chocolate (90 - 99 %) in a pan over boiling water, add some almond milk and stir in the Mascarpone. Just add vanilla or any other spice you like and/or Stevia. Put it in the fridge and you have the best mousse au chocolat. Sometime I put in raspberries or blueberries, or I mix Mascarpone with strawberries to make a strawberry cream.
 
 OMG that all sounds so delicious!!
@@ -17171,7 +17171,7 @@ Could be detox??? You certainly have jumped in with both feet. Good for you and 
 ### Jude — 2012-12-14T01:34:58+0200
 **Source:** <https://forum.jackkruse.com/threads/2nd-day-on.5073/post-67464>
 
-> **lava.locks@yahoo.com said**
+> **[email redacted] said**
 > Hi ~ This is my 2nd day...Was a non-meat eater before but was heavy into good fats and vegis, some carbs. Started yesterday with fish..Today BAB with bacon and eggs....salad for lunch...My head is pounding...pounding, pounding...Did not stop coffee. Past med history AF. Â  Help...am I doing it too fast? Maybe some neurons are connecting..
 >
 > Could just be a coincidence...
@@ -17189,7 +17189,7 @@ How are you going now? Has your head settled down? Reaction to introduction of m
 **Subforum:** The Epi-Paleo Diet
 **Posts:** 7
 ══════════════════════════════════════════════════════════════════════
-### trishalinn@gmail.com — 2012-12-06T22:03:24+0200
+### [email redacted] — 2012-12-06T22:03:24+0200
 **Source:** <https://forum.jackkruse.com/threads/nutrition-resources-for-high-schoolers.5074/post-66623>
 
 I teach a high school Biology class for home schooled students. We only meet once a week for an hour for class (they have an hour with another teacher for lab), but we use moodle during the week to communicate and I give them assignments etc this way. Anyhow, weâ€™ve gotten to the â€œNutrition and Digestive Systemâ€ chapter. EEK! Itâ€™s making me crazy. Itâ€™s based on the food pyramid and extols the virtues of canola oil, corn oil, and a grain based diet. Because I have such a limited time, I really wonâ€™t be able to dispel all of this nonsense. Last week (while talking about the nervous system) we already got into a conversation about some of this as I was talking about how essential good fats were for proper nervous system functioning â€“ some of the girls were freaking out about the â€œsaturated fatsâ€ I was talking about. I was also explaining about how sugar can cause problems with the nervous system and one very athletic male student said heâ€™s prediabetic and has a very fast metabolism so has to eat sugar and carbs because of his metabolism. I tried to explain that he could avoid the prediabetes progressing to type2 diabetes with dietary changes. Anyhow, all of this to say I want these kids to learn more about nutrition than what I can pack into next weeks lecture, most of which needs to cover the digestive system.
@@ -17206,12 +17206,12 @@ I'd start with www.westonaprice.org. Lots of great articles about nutrition ther
 
 Fat head the movie. And the perfect health diet movie.
 
-### trishalinn@gmail.com — 2012-12-07T10:14:08+0200
+### [email redacted] — 2012-12-07T10:14:08+0200
 **Source:** <https://forum.jackkruse.com/threads/nutrition-resources-for-high-schoolers.5074/post-66671>
 
 Fat head is fun, I could see high schoolers enjoying it. Is the other movie, "Fresh"? I haven't seen that one, wish there was easier access to it.
 
-### trishalinn@gmail.com — 2012-12-14T13:41:10+0200
+### [email redacted] — 2012-12-14T13:41:10+0200
 **Source:** <https://forum.jackkruse.com/threads/nutrition-resources-for-high-schoolers.5074/post-67507>
 
 Any other great articles that anyone could recommend for high school level? Blog posts?Â
@@ -17235,7 +17235,7 @@ Ask them critical questions - that get them thinking, that make them what to lea
 
 shine the flashlight... and let them discover their own ability to read, comprehend, and determine whats total BS vs truth.Â
 
-### trishalinn@gmail.com — 2012-12-16T12:26:09+0200
+### [email redacted] — 2012-12-16T12:26:09+0200
 **Source:** <https://forum.jackkruse.com/threads/nutrition-resources-for-high-schoolers.5074/post-67635>
 
 Thanks for the ideas, I had some similar ideas, but was looking for specific resources. I hadn't thought of Terri Whals TedX talk, but that would be a great one. I've already uploaded it and a few more blog posts/videos I've found onto moodle! I also gave them the opportunity to earn extra credit by writing a paper after watching Fat Head and checking out the other resources.Â 
@@ -17320,7 +17320,7 @@ also - the smileys aren't working - just when I decided they are fun!
 **Subforum:** The Cave
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### jspohl@web.de — 2012-12-07T06:11:39+0200
+### [email redacted] — 2012-12-07T06:11:39+0200
 **Source:** <https://forum.jackkruse.com/threads/cant-get-into-ask-jack.5079/post-66649>
 
 ... sorry to ask ... but I can not enter the Ask Jack Forum ... Am I doing something wrong? I'm logged in as DH - since we have the silver membership on him. .. I'm logged in alright ... I can't be that stupid! { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
@@ -17332,7 +17332,7 @@ ARP
 ### Destiny — 2012-12-07T07:50:51+0200
 **Source:** <https://forum.jackkruse.com/threads/cant-get-into-ask-jack.5079/post-66651>
 
-> **jspohl@web.de said**
+> **[email redacted] said**
 > ... sorry to ask ... but I can not enter the Ask Jack Forum ... Am I doing something wrong? I'm logged in as DH - since we have the silver membership on him. .. I'm logged in alright ... I can't be that stupid!
 >
 >
@@ -17360,7 +17360,7 @@ Nevermind - it just started working. Boy this new forum is really buggy.
 **Subforum:** Adrenal Rx and Leaky Gut Rx
 **Posts:** 6
 ══════════════════════════════════════════════════════════════════════
-### neil@princeglobal.net — 2012-12-07T06:48:59+0200
+### [email redacted] — 2012-12-07T06:48:59+0200
 **Source:** <https://forum.jackkruse.com/threads/eczema-and-leaky-gut.5080/post-66650>
 
 I have had eczema since I was 5 (now 42) and it has changed over the years. It currently manifests itself as extremely dry and flaky skin especially on the face (beard line is worse again). Itchiness is also associated with the dryness and for the better part of this year, my face has been red and blotchy. This varies on torso, legs and arms as well.
@@ -17408,7 +17408,7 @@ To your question about a leaky gut. My husband had Crohn's most of his life. He 
 
 He is symptoms free. His labs are still wonky but he feels great.
 
-### neil@princeglobal.net — 2012-12-10T06:06:41+0200
+### [email redacted] — 2012-12-10T06:06:41+0200
 **Source:** <https://forum.jackkruse.com/threads/eczema-and-leaky-gut.5080/post-66993>
 
 Hi Destiny
@@ -17424,7 +17424,7 @@ Neil
 ### Destiny — 2012-12-10T08:52:15+0200
 **Source:** <https://forum.jackkruse.com/threads/eczema-and-leaky-gut.5080/post-66997>
 
-> **neil@princeglobal.net said**
+> **[email redacted] said**
 > Hi Destiny
 >
 > Â 
@@ -17444,7 +17444,7 @@ I believe both, Neil. He started with Leptin RX last October and started feeling
 
 > **Destiny said
 >
-> > neil@princeglobal.net said
+> > [email redacted] said
 >
 > **
 >
@@ -17472,7 +17472,7 @@ Destiny, that is fantastic.Â  Kudos to your dh.
 > > **Destiny said**
 > >
 > >
-> > > neil@princeglobal.net said
+> > > [email redacted] said
 >
 > **
 >
@@ -17731,7 +17731,7 @@ Oh, wikipedia tells me it's the **Kopi luwak** coffee, which is run through a ci
 **Subforum:** Optimal Labs
 **Posts:** 8
 ══════════════════════════════════════════════════════════════════════
-### reemancini@san.rr.co — 2012-12-07T12:54:14+0200
+### [email redacted] — 2012-12-07T12:54:14+0200
 **Source:** <https://forum.jackkruse.com/threads/high-ferritin.5084/post-66692>
 
 Recent lab work has me puzzled.Â 
@@ -18268,7 +18268,7 @@ I may see if I can find a sale on discontinued partilight
 
 I love the olive oil lamp idea! I'm going to try it today.
 
-### granitereno@gmail.com — 2012-12-11T13:16:03+0200
+### [email redacted] — 2012-12-11T13:16:03+0200
 **Source:** <https://forum.jackkruse.com/threads/instead-of-candles.5098/post-67119>
 
 I have been making my own oil lamps for a few weeks.Â  (I started while preparing for Sandy...)
@@ -18387,7 +18387,7 @@ I did it for a bit, but stopped once I started the Leptin Reset. So I haven't re
 
 so - That is about 8KG I guess - does that seem about right? Â I was really floored by the 20KG Â - go you!
 
-### pthomaslandry@gmail.com — 2012-12-09T20:24:37+0200
+### [email redacted] — 2012-12-09T20:24:37+0200
 **Source:** <https://forum.jackkruse.com/threads/kettlebells.5099/post-66963>
 
 Most women start with an 8kg, but a 12 and a 16 are a good idea, as you will likely outgrow the 8kg fairly quickly.
@@ -18780,7 +18780,7 @@ Karen from Arizona.
 ### Destiny — 2012-12-17T17:31:27+0200
 **Source:** <https://forum.jackkruse.com/threads/dzlogic-xrmd-or-local-any-differences-in-bhrt-treatment.5109/post-67742>
 
-> **mafixit@osoh.com said**
+> **[email redacted] said**
 > Found a local doctor close by who specializes in women's health issues, believes in BHRT, and thinks Dr. Dzugan is quite intelligent.Â  She even recommended his book, The Migraine Cure.Â 
 >
 > She was impressed with the labs I already had done (it was everything she was going to order, including the adrenal stress and salivary cortisol), and we have started a course of treatment for my migraines.Â  She thinks I may not be peri-menopausal, but actually in menopause already.Â  A few more labs are in the works for Ferritin, Homocysteine, Iron and Pregnenolone, along with RBC Zinc and RBC Magnesium.
@@ -19274,7 +19274,7 @@ lol. Hey we all get caught off guard once in a while. Gee I hope you don't think
 **Subforum:** The New Monster Thread
 **Posts:** 1
 ══════════════════════════════════════════════════════════════════════
-### granitereno@gmail.com — 2012-12-11T13:09:31+0200
+### [email redacted] — 2012-12-11T13:09:31+0200
 **Source:** <https://forum.jackkruse.com/threads/international-space-station-changing-bulbs.5123/post-67117>
 
 See... even NASA gets it!Â  It's not like it's rocket science folks { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
@@ -19842,7 +19842,7 @@ I'd like to know how cortisol has magic powers to be detectable accurately in sa
 **Subforum:** The New Monster Thread
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### keith4tx@yahoo.com — 2012-12-12T19:50:43+0200
+### [email redacted] — 2012-12-12T19:50:43+0200
 **Source:** <https://forum.jackkruse.com/threads/low-blood-pressure-in-child.5142/post-67273>
 
 Hi everyone!
@@ -19858,7 +19858,7 @@ Thanks
 
 I used to have this issue. Â I remember reading somewhere on Jack's blog that this is related to cortisol. Â Maybe he will shed some light. Â Are you strict with the light cycles (no screens/lights after dusk, candles/red light only, sleeping in total blackness)? Â I'd also be thinking of making sure she gets sufficient good fats in her diet, not just a minimal amount. Â And very minimal sugar(s) too. Â Good luck.
 
-### keith4tx@yahoo.com — 2012-12-12T20:27:01+0200
+### [email redacted] — 2012-12-12T20:27:01+0200
 **Source:** <https://forum.jackkruse.com/threads/low-blood-pressure-in-child.5142/post-67282>
 
 > **KiwiLauren said**
@@ -20169,7 +20169,7 @@ I will definitely talk to my Dr. about it though. Thanks very much for your inpu
 **Subforum:** The New Monster Thread
 **Posts:** 1
 ══════════════════════════════════════════════════════════════════════
-### seanb4@hotmail.co.uk — 2012-12-14T08:50:40+0200
+### [email redacted] — 2012-12-14T08:50:40+0200
 **Source:** <https://forum.jackkruse.com/threads/opinions-on-metoclopramide-and-peptac.5168/post-67481>
 
 Hi guys,
@@ -20311,7 +20311,7 @@ Or try a PM.
 **Subforum:** Adrenal Rx and Leaky Gut Rx
 **Posts:** 1
 ══════════════════════════════════════════════════════════════════════
-### mra_jesusfreak@yahoo.com — 2012-12-15T00:32:23+0200
+### [email redacted] — 2012-12-15T00:32:23+0200
 **Source:** <https://forum.jackkruse.com/threads/low-hdl-33-reading-a-result-of-pnemonia-or-of-leaky-gut.5177/post-67564>
 
 This past July, I got a bad bronchitis infection, that turned into Pneumonia.Â  After 3 trips to the doctor, I finally got diagnosed correctly, as having pneumonia.Â  The following day, I got a metabolic panel done. Â 
@@ -20345,7 +20345,7 @@ This is my first time posting in this forum, not sure if this was the right sect
 **Subforum:** Optimal Labs
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### mra_jesusfreak@yahoo.com — 2012-12-15T00:37:18+0200
+### [email redacted] — 2012-12-15T00:37:18+0200
 **Source:** <https://forum.jackkruse.com/threads/low-hdl-33-reading-a-result-of-pnemonia-or-of-leaky-gut.5178/post-67566>
 
 This past July, I got a bad bronchitis infection, that turned into Pneumonia.Â  After 3 trips to the doctor, I finally got diagnosed correctly, as having pneumonia.Â  The following day, I got a metabolic panel done. Â 
@@ -20376,7 +20376,7 @@ This is my first time posting in this forum, not sure if this was the right sect
 
 Hi fearless, welcome.Â  Do you eat much animal fat?
 
-### mra_jesusfreak@yahoo.com — 2012-12-16T19:30:45+0200
+### [email redacted] — 2012-12-16T19:30:45+0200
 **Source:** <https://forum.jackkruse.com/threads/low-hdl-33-reading-a-result-of-pnemonia-or-of-leaky-gut.5178/post-67658>
 
 > **Nonchalant said**
@@ -20632,7 +20632,7 @@ http://www.bbc.co.uk/news/magazine-20701058
 **Subforum:** Adrenal Rx and Leaky Gut Rx
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### wright_de@hotmail.com — 2012-12-16T10:55:42+0200
+### [email redacted] — 2012-12-16T10:55:42+0200
 **Source:** <https://forum.jackkruse.com/threads/tonsilloliths.5185/post-67632>
 
 anyone have any experience with Tonsilloliths (tonsil stones)? I've had a few small ones, but seems to have increased a little bit with Paleo & epi-paleo. Â I'm not sure how to stop them from forming and what (if any) relation they my have to paleo/epi. Â 
@@ -20747,7 +20747,7 @@ Yep, thought "that" too. Â These definitely brought this site to mind. { "ligh
 **Subforum:** The New Monster Thread
 **Posts:** 1
 ══════════════════════════════════════════════════════════════════════
-### granitereno@gmail.com — 2012-12-17T09:30:17+0200
+### [email redacted] — 2012-12-17T09:30:17+0200
 **Source:** <https://forum.jackkruse.com/threads/more-on-space-ship-lighting.5193/post-67687>
 
 This time from the BBC:
@@ -20781,13 +20781,13 @@ selenium---????
 magnesium is low
 B12 is low
 
-### d_sauve@hotmail.com — 2012-12-17T19:17:47+0200
+### [email redacted] — 2012-12-17T19:17:47+0200
 **Source:** <https://forum.jackkruse.com/threads/low-testosterone-elevated-igg-b6-through-the-roof-list-goes-on.5183/post-67755>
 
 Thanks for your response JanSz,
 My doctor mentioned trying to raise my test naturally then use medical grade test if unsuccessful. The worry I have with using test is shunting my bodies natural ability to produce. Due to DHEA being low, would you recommend possibly using DHEA? I only can get it through prescription here in Australia. Sorry, hcb=haemoglobulin? Hct=haematocrit? What is the purpose of a phlebotomy?
 
-### d_sauve@hotmail.com — 2012-12-17T20:37:13+0200
+### [email redacted] — 2012-12-17T20:37:13+0200
 **Source:** <https://forum.jackkruse.com/threads/low-testosterone-elevated-igg-b6-through-the-roof-list-goes-on.5183/post-67758>
 
 Would anyone happen to know functional level ranges (blood panel) for my deficiencies? Even better, would anyone happen to have functional levels for most/all blood panels? Thanks,
@@ -21387,7 +21387,7 @@ And I'm 5'3 and if I were 63Kg I'd be doingÂ a happy dance!Â  How much do yo
 ### vkiernan — 2012-12-18T14:15:33+0200
 **Source:** <https://forum.jackkruse.com/threads/which-protocol.5205/post-67821>
 
-> **laurenraso@gmail.com said**
+> **[email redacted] said**
 > I was wondering which protocol I should begin if I have
 >
 > adrenal fatigue,Â leaky gut and leptin resistance?
@@ -21795,7 +21795,7 @@ Karen from Arizona
 ### freshveggies — 2012-12-19T12:03:08+0200
 **Source:** <https://forum.jackkruse.com/threads/started-bhrt-today-here-we-go.5224/post-67957>
 
-> **mafixit@osoh.com said
+> **[email redacted] said
 >
 > > freshveggies said
 >
@@ -22128,12 +22128,12 @@ Hey, however we get them down...as long as we get them down. If anything happens
 **Subforum:** The Epi-Paleo Diet
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### trishalinn@gmail.com — 2012-12-21T13:02:26+0200
+### [email redacted] — 2012-12-21T13:02:26+0200
 **Source:** <https://forum.jackkruse.com/threads/eggnog.5239/post-68124>
 
 I realize this recipe isn't 100% optimal, but it's way better than the store bought stuff! If you're looking for a little holiday treat you can check out this recipe I made.Â http://intoxicatedonlife.com/2012/12/21/low-carb-eggnog/
 
-### trishalinn@gmail.com — 2012-12-21T16:48:25+0200
+### [email redacted] — 2012-12-21T16:48:25+0200
 **Source:** <https://forum.jackkruse.com/threads/eggnog.5239/post-68142>
 
 woops, just realized this should have gone in the recipes thread!
@@ -22429,7 +22429,7 @@ I love your enthusiasm Thor! Living on the edge.. nice.. The old self must die..
 **Subforum:** The New Monster Thread
 **Posts:** 14
 ══════════════════════════════════════════════════════════════════════
-### seanb4@hotmail.co.uk — 2012-12-23T07:38:08+0200
+### [email redacted] — 2012-12-23T07:38:08+0200
 **Source:** <https://forum.jackkruse.com/threads/constipation-bloating-and-orangey-red-stools.5249/post-68233>
 
 Hi Guys,
@@ -22451,7 +22451,7 @@ If you have been constipated for a while, you might see some fairly intense reac
 
 There are some 'occult blood' fecal tests I believe.Â  You might want to take one of those, just to be sure.
 
-### seanb4@hotmail.co.uk — 2012-12-23T14:47:57+0200
+### [email redacted] — 2012-12-23T14:47:57+0200
 **Source:** <https://forum.jackkruse.com/threads/constipation-bloating-and-orangey-red-stools.5249/post-68252>
 
 Had constipation and bloating for ages and tried all kinds of diets that should produce die-off and almost non is produced.
@@ -22461,7 +22461,7 @@ Been eating low carb and paleo for 2 years now.
 ### nonchalant — 2012-12-23T16:18:20+0200
 **Source:** <https://forum.jackkruse.com/threads/constipation-bloating-and-orangey-red-stools.5249/post-68256>
 
-> **seanb4@hotmail.co.uk said**
+> **[email redacted] said**
 > Had constipation and bloating for ages and tried all kinds of diets that should produce die-off and almost non is produced.
 >
 > Been eating low carb and paleo for 2 years now.
@@ -22481,7 +22481,7 @@ Try Inger's Mackeral head smoothie. Â .... like nonchalant said Â - you need
 > **Nonchalant said
 >
 >
-> > seanb4@hotmail.co.uk said
+> > [email redacted] said
 >
 > **
 >
@@ -22507,7 +22507,7 @@ I think I almost preferred when I wasn't getting it...I don't know...
 >
 > > **Nonchalant said**
 > >
-> > > seanb4@hotmail.co.uk said
+> > > [email redacted] said
 >
 > **
 >
@@ -22578,7 +22578,7 @@ I also hope things continue to go well for you. I hope your gut shapens up and s
 
 p.s. When I was buying my ox bile I felt really bad for this older lady. I couldn't tell her age properly but she looked like death. Her voice was so scratchy and like a man. She was super thin and I don't know if she had some kind of cancer or something....(but had hair). Her hands were all bruised from probably IV etc. I felt so bad for her.
 
-### seanb4@hotmail.co.uk — 2013-01-17T08:23:41+0200
+### [email redacted] — 2013-01-17T08:23:41+0200
 **Source:** <https://forum.jackkruse.com/threads/constipation-bloating-and-orangey-red-stools.5249/post-71192>
 
 > **MamaGrok said**
@@ -22976,7 +22976,7 @@ Thanks for the inspiration:Â  I just made a pot of soup using the veggies you 
 ### furface — 2012-12-27T16:49:20+0200
 **Source:** <https://forum.jackkruse.com/threads/just-made-a-super-easy-super-delicious-kick-ass-homemade-clam-chowder-cream-of-mushroom-soup.5267/post-68527>
 
-> **mfairchild@q.com said**
+> **[email redacted] said**
 > Furface,
 >
 > Thanks for the inspiration:Â  I just made a pot of soup using the veggies you suggested, cream and a bag of mixed seafood that I had languishing in the freezer.Â  After sauteing the veggies, I broke the pan with 1/3 c of white wine and added some dried shallots.Â  It was wonderful and perfect on this cold afternoon.
@@ -23002,7 +23002,7 @@ Your seafood chowder sounds delish!
 ### furface — 2012-12-27T18:08:07+0200
 **Source:** <https://forum.jackkruse.com/threads/just-made-a-super-easy-super-delicious-kick-ass-homemade-clam-chowder-cream-of-mushroom-soup.5267/post-68534>
 
-> **mfairchild@q.com said
+> **[email redacted] said
 >
 > > furface said
 >
@@ -23341,7 +23341,7 @@ http://www.dailymail.co.uk/sciencetech/article-2254088/Rapid-climate-change-help
 **Subforum:** Optimal Labs
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### trishalinn@gmail.com — 2012-12-28T17:39:03+0200
+### [email redacted] — 2012-12-28T17:39:03+0200
 **Source:** <https://forum.jackkruse.com/threads/twins-with-fevers-what-do-these-labs-tell-me.5278/post-68619>
 
 So, I've written elsewhere on the forums about my twins who have been having periodic fevers with no other symptoms for close to a year now. They have fevers about every 4-6 weeks. They don't always spike fevers at the same time, but sometime they are close to the same time. Anyhow, I've been referred to MANY specialists. Recently I've been seeing 2 different Pediatric Rheumatologist and they both have given me the same opinion - they think that we are dealing with a class of genetic diseases called "Periodic Fever Syndrome." They both want us to getting testing on the boys to see if they are one of the types that have been isolated, but they are both skeptical that this will happen because my boys don't have the other typical symptoms that accompany these known periodic fever syndromes.Â 
@@ -23406,7 +23406,7 @@ http://www.aafp.org/afp/2003/0215/p863.html
 
 Good luck! I hope your babies are better soon.
 
-### trishalinn@gmail.com — 2012-12-29T21:58:09+0200
+### [email redacted] — 2012-12-29T21:58:09+0200
 **Source:** <https://forum.jackkruse.com/threads/twins-with-fevers-what-do-these-labs-tell-me.5278/post-68710>
 
 > **kathylu said**
@@ -23790,7 +23790,7 @@ i tried a bunch of different brands and the one that worked best for me was hima
 **Subforum:** The New Monster Thread
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### seanb4@hotmail.co.uk — 2012-12-31T08:30:06+0200
+### [email redacted] — 2012-12-31T08:30:06+0200
 **Source:** <https://forum.jackkruse.com/threads/fasting-and-gut-flora.5297/post-68803>
 
 Hi,
@@ -23810,7 +23810,7 @@ Thanks for any input, Sean.
 
 Lots of bio-films and diverticulitis may be part of the problem. Forget about "cures". Follow the protocols as outlined in this forum. Big health problems take time to heal.
 
-### seanb4@hotmail.co.uk — 2012-12-31T13:09:00+0200
+### [email redacted] — 2012-12-31T13:09:00+0200
 **Source:** <https://forum.jackkruse.com/threads/fasting-and-gut-flora.5297/post-68821>
 
 > **Jonathin said**
@@ -24117,7 +24117,7 @@ When I CT in the pond I spend time standing with water up to my chin and my feet
 **Subforum:** Cold Thermogenesis
 **Posts:** 9
 ══════════════════════════════════════════════════════════════════════
-### mel.boguski@gmail.com — 2013-01-01T16:25:19+0200
+### [email redacted] — 2013-01-01T16:25:19+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-damaging-toes.5311/post-68931>
 
 Have any of you found CT seems to damage your toes? After maybe 2 months of doing CT off an on with cold showers, or swims in the lake (with and without water shoes), I have permanently sore toes and toe nails. There are some with black spots looking in colour like a dark bruise (these have been there over a month). There are dead skin looking scales over some areas, especially the dark parts (I do have toenail fungus too, I think. Is it spreading?). Recently, my toes have started being swollen all the time, and the worst one, a baby toe, is sore with small bumps under the skin.
@@ -24706,7 +24706,7 @@ The authorsâ€™ conclusion:
 
 It is concluded that the activation of peripheral and / or central IO&NS pathways may explain the co-occurrence of depression with the above disorders. This shows that depression belongs to the spectrum of inflammatory disorders.
 
-### duceswild557@hotmail.com — 2013-01-04T22:19:43+0200
+### [email redacted] — 2013-01-04T22:19:43+0200
 **Source:** <https://forum.jackkruse.com/threads/research-inflammation-causes-mental-disease.5345/post-69386>
 
 That's very interesting, especially that they also grouped it together with metabolic syndrome and HIV infection.
@@ -24718,7 +24718,7 @@ That's very interesting, especially that they also grouped it together with meta
 **Subforum:** The New Monster Thread
 **Posts:** 12
 ══════════════════════════════════════════════════════════════════════
-### seanb4@hotmail.co.uk — 2013-01-06T10:57:01+0200
+### [email redacted] — 2013-01-06T10:57:01+0200
 **Source:** <https://forum.jackkruse.com/threads/water-fasting-and-bloating-from-water.5359/post-69580>
 
 Hi guys.
@@ -24742,7 +24742,7 @@ Thanks, Sean.
 
 My gosh .... that sound so worrying ..I hope someone can help.
 
-### seanb4@hotmail.co.uk — 2013-01-06T16:02:27+0200
+### [email redacted] — 2013-01-06T16:02:27+0200
 **Source:** <https://forum.jackkruse.com/threads/water-fasting-and-bloating-from-water.5359/post-69621>
 
 > **caroline said**
@@ -24756,7 +24756,7 @@ Thanks for the concern, me too!
 
 I assume that you have had all kinds of testing and a consult with Jack??
 
-### seanb4@hotmail.co.uk — 2013-01-07T09:35:55+0200
+### [email redacted] — 2013-01-07T09:35:55+0200
 **Source:** <https://forum.jackkruse.com/threads/water-fasting-and-bloating-from-water.5359/post-69728>
 
 > **caroline said**
@@ -24770,7 +24770,7 @@ Can't afford any of that. { "lightbox\_close": "Close", "lightbox\_next": "Next"
 
 Can you not figure out a way to get testing so you won't be out of pocket - at least to start with? like going into emergency at your local hospital? I am worried about you .....somehow - you need to think outside the box and have some professional guidance - you sure don't want to make yourself much worse and then have a really big mountain to climb to get back to health...
 
-### seanb4@hotmail.co.uk — 2013-01-08T05:28:39+0200
+### [email redacted] — 2013-01-08T05:28:39+0200
 **Source:** <https://forum.jackkruse.com/threads/water-fasting-and-bloating-from-water.5359/post-69832>
 
 > **caroline said**
@@ -24784,7 +24784,7 @@ I am seeing a main stream doctor who has no idea what to do. Don't worry about m
 
 so .... can you get your Doc to run tests and them post them here for someone to Hack?
 
-### seanb4@hotmail.co.uk — 2013-01-09T08:20:29+0200
+### [email redacted] — 2013-01-09T08:20:29+0200
 **Source:** <https://forum.jackkruse.com/threads/water-fasting-and-bloating-from-water.5359/post-70036>
 
 > **caroline said**
@@ -24809,7 +24809,7 @@ Basically doctor has said they are going to keep giving me medication until I ca
 I am stumped too, but would like to help somehow.. I suspect good wishes are not much use to you though.. Maybe you could tem
 Ll us what you eat too.. Like what you ate the last two weeks? Dunno if it will help, but there are some really clever people on this site.. Worth a try, no?
 
-### seanb4@hotmail.co.uk — 2013-01-09T15:12:50+0200
+### [email redacted] — 2013-01-09T15:12:50+0200
 **Source:** <https://forum.jackkruse.com/threads/water-fasting-and-bloating-from-water.5359/post-70069>
 
 Started a new topic with pics, check it out and comment guys, thanks a lot!
@@ -25263,7 +25263,7 @@ Lauren
 
 Dzugan is world wide - if your GP will work with you there's no reason he/she couldn't partner w/Dzugan. there's even a member here on the forum from Peru who uses him.
 give Linda McHale a call Office 866.225.4877 x 302
-or send her an email - lmchale@dzlogic.com
+or send her an email - [email redacted]
 www.dzlogic.com
 
 Let her know what you're looking for - and see if they can help, if your GP will sign the rx - you should be all set - they might even have a Compounding Pharmacy down in NZ that they already use....
@@ -25463,7 +25463,7 @@ I want to try to limit my online time so I can unplug my router for stretches of
 **Subforum:** The New Monster Thread
 **Posts:** 1
 ══════════════════════════════════════════════════════════════════════
-### seanb4@hotmail.co.uk — 2013-01-09T15:11:56+0200
+### [email redacted] — 2013-01-09T15:11:56+0200
 **Source:** <https://forum.jackkruse.com/threads/bloating-from-300ml-of-water-pics-included.5402/post-70068>
 
 Hi guys,
@@ -25920,7 +25920,7 @@ I'm definitely leaning towards more raw all the time...this morning I had 1/2 lb
 **Subforum:** Cold Thermogenesis
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### neil@princeglobal.net — 2013-01-12T06:33:02+0200
+### [email redacted] — 2013-01-12T06:33:02+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-and-eczema.5433/post-70377>
 
 Hi All
@@ -26316,7 +26316,7 @@ Thanks Diane - I finally stumbled across it to! I don't understand why it wasn't
 **Subforum:** Optimal Labs
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### nanmeade@aol.com — 2013-01-13T13:13:15+0200
+### [email redacted] — 2013-01-13T13:13:15+0200
 **Source:** <https://forum.jackkruse.com/threads/question-about-reverse-t3-labs.5446/post-70514>
 
 11/4/11
@@ -26335,7 +26335,7 @@ Without knowing anything about me, why would my reverse T3 improve? My TSH is 4.
 
 Maybe you have corrected the reason you had a high rt3 in the first place whether it be too much stress, surgery or low ferritin. Sometimes happens inside you that makes a high rt3 to slow your body down naturally. The tsh is telling your body to make more t4 which is supposed to make t3 and the fact that your rt3 is reducing maybe means you are trying to make more t3 to get into your cells. That is my .02 cents and that is about all it is worth.
 
-### nanmeade@aol.com — 2013-01-13T15:55:49+0200
+### [email redacted] — 2013-01-13T15:55:49+0200
 **Source:** <https://forum.jackkruse.com/threads/question-about-reverse-t3-labs.5446/post-70549>
 
 vkiernan, thanks for the .02 cents! It's very much appreciated! I am the caregiver to my 92 year old aunt and 91 year old mother. Both went into assisted living at the end of July and I have been very much less stressed.
@@ -26938,7 +26938,7 @@ Yes my dear ... actually expecting only the huge question is to make up a plan w
 **Subforum:** The Epi-Paleo Diet
 **Posts:** 6
 ══════════════════════════════════════════════════════════════════════
-### byboozian@gmail.com — 2013-01-16T16:27:15+0200
+### [email redacted] — 2013-01-16T16:27:15+0200
 **Source:** <https://forum.jackkruse.com/threads/nutrition-for-myelin-in-infants-adults.5492/post-71094>
 
 The past few weeks I have been turned on to the significance of myelin to brain function and development. I have a 4 month old baby girl, so on top of trying to get to optimal myself, I have been trying to learn as much as possible about the development of babies and especially how their brain develops as they grow older. While my current understanding of all of the topics involved with these areas is limited, I feel I have a decent start thanks in large part to the articles on this site and books like "The Other Brain" which I have been devouring.
@@ -26948,7 +26948,7 @@ While there is a lot of information saying that the brain stops myelinating arou
 ### KiwiLauren — 2013-01-16T17:07:25+0200
 **Source:** <https://forum.jackkruse.com/threads/nutrition-for-myelin-in-infants-adults.5492/post-71107>
 
-> **byboozian@gmail.com said**
+> **[email redacted] said**
 >
 > The past few weeks I have been turned on to the significance of myelin to brain function and development. I have a 4 month old baby girl, so on top of trying to get to optimal myself, I have been trying to learn as much as possible about the development of babies and especially how their brain develops as they grow older. While my current understanding of all of the topics involved with these areas is limited, I feel I have a decent start thanks in large part to the articles on this site and books like "The Other Brain" which I have been devouring.
 > While there is a lot of information saying that the brain stops myelinating around 20 years old, the evidence provided by Dr. Wahls and others that have reversed MS and other brain degenerating disease suggests that this isn't exactly correct. I was wondering what people here think about this subject and if anyone can point me to any information they found valuable in learning about brain development in children as well as repair / maintenance in adults? What specific properties of food aid in this process? What types of exercise and learning methods work the best for children in regards to this? I know that brain development is a very broad and intense subject, so any other topics that you think I might find interesting are welcome also.
@@ -26977,7 +26977,7 @@ found something
 there seems to be a book in english, which is called "the gifted child" or
 " a capable child is not a gift of nature"
 
-### byboozian@gmail.com — 2013-01-21T13:31:34+0200
+### [email redacted] — 2013-01-21T13:31:34+0200
 **Source:** <https://forum.jackkruse.com/threads/nutrition-for-myelin-in-infants-adults.5492/post-72061>
 
 Thank you both for your replies, my girlfriend is a physiologist so she know all about Dr. Schore and has shown me a lot of his videos and lectures. Good stuff.
@@ -26991,7 +26991,7 @@ I have also noticed our baby is very active and when she is awake is moving arou
 **Subforum:** The Cave
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### byboozian@gmail.com — 2013-01-16T17:14:16+0200
+### [email redacted] — 2013-01-16T17:14:16+0200
 **Source:** <https://forum.jackkruse.com/threads/the-trivium-method-of-education.5495/post-71110>
 
 I haven't seen this topic mentioned in the forum, although judging from most of the people posting here I would guess that the majority of you already practice it whether you know it or not. In a nutshell, the Trivium is a method of learning that consists of grammar (who, what, when, where) logic (why) and rhetoric (how). The order of those is very important and when practiced it allows one to become auto didactic or, a self learner. It teaches people how to spot logical fallacies and dissect arguments systematically so you don't get caught up with emotional or unrelated subjects.
@@ -27007,7 +27007,7 @@ http://www.triviumeducation.com/
 
 Ooh! Thanks for this { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### byboozian@gmail.com — 2013-01-21T13:37:06+0200
+### [email redacted] — 2013-01-21T13:37:06+0200
 **Source:** <https://forum.jackkruse.com/threads/the-trivium-method-of-education.5495/post-72062>
 
 > **ashryn said**
@@ -27208,7 +27208,7 @@ http://www.jackkruse.com/forum-2/factor-x/why-do-circadian-cycles-matter-to-huma
 Thank you, Diane! I had read that post, but yeah, difficult to find again.
 I'll get these ordered. I won't be back until Monday evening, so I'll have to start the 90 Opt Res slightly late. I'm excited!
 
-### wallycourie@gmail.com — 2013-01-18T21:04:03+0200
+### [email redacted] — 2013-01-18T21:04:03+0200
 **Source:** <https://forum.jackkruse.com/threads/90-day-optimal-reset-labs.5510/post-71516>
 
 there's a post on Dr jack kruse facebook "Tonight on the free Q & A hear why HS CRP, VIT D and DHEA is all you got to track to know why your mitochondria are on or off based upon your beliefs..............HDL, DHEA, Vit D level Why?"
@@ -28019,7 +28019,7 @@ This is what I see there:
 
 Lost Your Webinar Login Emails?
 
-No problem! If you need the download links to your webinars, please enter the email you are registered with below. Ensure you whitelist support@jackkruse.com so you never miss an important email again.
+No problem! If you need the download links to your webinars, please enter the email you are registered with below. Ensure you whitelist [email redacted] so you never miss an important email again.
 
 When I entered my email, it really did not do anything. In addition, I did not lose my log in email, it is not simply possible to log in there.
 
@@ -28116,7 +28116,7 @@ I am getting overwhelmed with all the gadgets. Do you think this could really wo
 
 I've been looking at that one too...I spend a LOT of time in my car daily. I'm considering trying it out.
 
-### jeanie@truelongmont.com — 2013-01-20T21:03:20+0200
+### [email redacted] — 2013-01-20T21:03:20+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-auto-seat-pad-kit.5569/post-71941>
 
 Would you have to be sitting on it au natural? That will be hard when clients are in the car!
@@ -28264,7 +28264,7 @@ Sure. How about going one better and not having any troops at all. How about eve
 **Subforum:** The New Monster Thread
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### duceswild557@hotmail.com — 2013-01-21T17:56:24+0200
+### [email redacted] — 2013-01-21T17:56:24+0200
 **Source:** <https://forum.jackkruse.com/threads/canned-oysters-from-china.5585/post-72129>
 
 They are bumblebee brand if that means anything. Are these bad boys gonna be radioactive and full of toxic Chinese waste products or are they probably okay?
@@ -28396,7 +28396,7 @@ http://www.theatlantic.com/health/archive/2013/01/when-trees-die-people-die/2673
 
 Apparently, there are energy exchange facilitators such as acacia, pine, fir, birch, oak, rowan, lime, larch, ash, maple and spruce as well as energy exchange disrupters such as aspen, alder, yew, elm, quaking aspen and elderberry. So check before you hug
 
-### kahunalamaku@gmail.com — 2013-01-26T21:38:33+0200
+### [email redacted] — 2013-01-26T21:38:33+0200
 **Source:** <https://forum.jackkruse.com/threads/not-sure-tree-hugging-is-so-smart-after-all.5594/post-72751>
 
 Ruby. Where did you see such information? Thanks.
@@ -28503,7 +28503,7 @@ Ended up very busy with work projects and buisness projects, and a bad cold and 
 **Subforum:** The New Monster Thread
 **Posts:** 9
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2013-01-23T10:25:01+0200
+### [email redacted] — 2013-01-23T10:25:01+0200
 **Source:** <https://forum.jackkruse.com/threads/electrical-engineer-need-apply-what-conducts.5607/post-72496>
 
 1\. Do all "skins" conduct for the purpose of "earthing" for lack of a better word. Bearskins? unknown leather shoes with shearling lining? What else.
@@ -28524,7 +28524,7 @@ Clay? Not sure how you'd do that, but it should work.
 
 I like the clay idea just from an aesthetic standpoint. Like the clay pots to cook in. I think that would look great in your backyard with all the natural rock you have! Now the question is does it make sense from a grounding standpoint as well as the financial outlay.
 
-### jeanie@truelongmont.com — 2013-01-23T14:06:10+0200
+### [email redacted] — 2013-01-23T14:06:10+0200
 **Source:** <https://forum.jackkruse.com/threads/electrical-engineer-need-apply-what-conducts.5607/post-72533>
 
 Oh yea! Clay sounds awesome. I have something to googles on now. . .
@@ -28746,7 +28746,7 @@ Looks like we lost some recent posts when the forum moved....repost your links b
 
 Great idea Krista....I've already ordered some grounding sheets and mats and a meter, but the emf protection for our computers and appliances...so many options. I'm going to do a lot of reading before I order any more.
 
-### mycrazycartoons@gmail.com — 2013-01-26T00:29:14+0200
+### [email redacted] — 2013-01-26T00:29:14+0200
 **Source:** <https://forum.jackkruse.com/threads/emf-links.5614/post-72674>
 
 [www.earthing.com](http://www.earthing.com) I've been using their grounding pads and sheets for a few years.. I can tell the difference when I haven't used them.
@@ -28770,7 +28770,7 @@ Maybe I will just buy these greenwave filters. [http://www.greenwavefilters.com]
 
 Rachelle, depending on your situation, you could use an actual grounding rod in the ground to attach to...but that would be harder to do in an apartment or something.
 
-### joangtaylor@gmail.com — 2013-01-27T16:39:01+0200
+### [email redacted] — 2013-01-27T16:39:01+0200
 **Source:** <https://forum.jackkruse.com/threads/emf-links.5614/post-72863>
 
 The ground is snow-covered where I live. My basement has an unpainted concrete floor. Bare feet on that should work, right?
@@ -28935,7 +28935,7 @@ We start mailing out the PERKs (kits) in February (note that this is a "Flexible
 **Subforum:** The Epi-Paleo Diet
 **Posts:** 5
 ══════════════════════════════════════════════════════════════════════
-### duceswild557@hotmail.com — 2013-01-24T10:10:28+0200
+### [email redacted] — 2013-01-24T10:10:28+0200
 **Source:** <https://forum.jackkruse.com/threads/how-much-is-too-much-oysters.5617/post-72648>
 
 Is 1-2 pounds of oyster meat going to do any damage? I've been eating this for a week now and my libido has gone up something ridiculous, also my workouts have improved and I find my anxiety has gone down while concentration has gone up. When I find something good though I tend to overdo it sometimes. Is 1-2 pounds of oysters for a 6'3" 200 lb young male who's active too much? And by too much all I really care about is will I develop some sort of toxicity doing this long term?
@@ -28945,7 +28945,7 @@ Is 1-2 pounds of oyster meat going to do any damage? I've been eating this for a
 
 I'm guessing Jack would say no amount of oysters is too much. they're natures perfect food for your body and brain. eat up... If you can clip that much down go for it! the more the better...
 
-### duceswild557@hotmail.com — 2013-01-24T11:02:21+0200
+### [email redacted] — 2013-01-24T11:02:21+0200
 **Source:** <https://forum.jackkruse.com/threads/how-much-is-too-much-oysters.5617/post-72654>
 
 If that's true then I am very excited, lol, I don't want to stop eating these at this amount. Since introducing them I've noticed significant changes and I know that jack considers them the #1 food in bg6. They hook my bowels up, and though I don't think he says this anywhere, I seem to get sleepier sooner than I used to so I'm not sure if they're helping my circadian rhythm or what. But I think he's right because I've experimented with a lot of foods over the years and if I had to pick one single food item, to have for the rest of my life, oysters would be it, hands down.
@@ -28956,7 +28956,7 @@ If that's true then I am very excited, lol, I don't want to stop eating these at
 Duces, I feel the same way about oysters you do.. if I had the money I would eat only these..huh! They are energizing in such a nice way and so juicy and tasty,,,
 I get me 12-13 pieces every friday and I enjoy them immensely. I am sure Gretchen is right about that you can not eat too much. Very kind of you to share your experiences!
 
-### duceswild557@hotmail.com — 2013-01-24T12:39:53+0200
+### [email redacted] — 2013-01-24T12:39:53+0200
 **Source:** <https://forum.jackkruse.com/threads/how-much-is-too-much-oysters.5617/post-72666>
 
 Inger, definitely, I like many of Jack's ideas and, considering he is a neurosurgeon, if he writes a blog and says that the best food in the world is oysters. "1. The base of the Pyramid is shellfish (oysters) other than crustaceans: Provides the most nutrient density of any food source for optimal functioning of the human brain."-bg6 then I'm gonna take his advice, lol. I tried taking his advice a few months ago by getting fresh oysters from the market near me and eating them raw, but I got seriously I'll after eating a maybe questionable set of oysters. I recovered fully in under a week so maybe it wasn't that bad but then I remembered jack saying that the worst seafood is better than the best meat so I bought some bumblebee canned oysters for 2bucks per 8oz. And while this isn't as good as the fresh thing, it's more affordable, (I'm a college student so that's Important) and I don't have to worry about catching something if my supplies is questionable since they are actually cooked. But basically everything I've come across for oysters looks positive, they have dopamine, they probably increase sex hormones more than any other single food and they have o3s, selenium and b12 in huge amounts along with iron and iodine. My stools have improved, not that they were bad before and I feel sharper, though I concede that could be placebo, even though I don't think it is. So yea, I just figured that of anywhere I could post on e net about eating oysters, I'd probably get the most constructive feedback here, and that's true so far.
@@ -28973,7 +28973,7 @@ Inger, definitely, I like many of Jack's ideas and, considering he is a neurosur
 
 welcome back everyone to vBulletin...
 
-### jeanie@truelongmont.com — 2013-01-26T00:14:45+0200
+### [email redacted] — 2013-01-26T00:14:45+0200
 **Source:** <https://forum.jackkruse.com/threads/welcome-back-to-v-bulletin.5619/post-72669>
 
 YAY! so excited. headed out to hopefully sync with tapatalk!
@@ -29001,7 +29001,7 @@ Shilohman
 >
 > Shilohman
 
-send that in to [support@jackkruse.com](mailto:support@jackkruse.com)
+send that in to [[email redacted]](mailto:[email redacted])
 
 Darren's getting someone to specifically handle those conversions
 
@@ -29099,7 +29099,7 @@ Thanks for all your hard work behind the scenes Darren and team! I'm sure we can
 
 The other forum software was so bad I ended up only reading ask jack....
 
-### jeanie@truelongmont.com — 2013-01-26T23:04:58+0200
+### [email redacted] — 2013-01-26T23:04:58+0200
 **Source:** <https://forum.jackkruse.com/threads/welcome-back-to-v-bulletin.5619/post-72759>
 
 No tapatalk love here either, looks like the plugin isn't up to speed yet. Already liking this better. Whew.
@@ -29424,7 +29424,7 @@ Anne.
 **Subforum:** The Epi-Paleo Diet
 **Posts:** 12
 ══════════════════════════════════════════════════════════════════════
-### amber_tyrrell@hotmail.com — 2013-01-29T09:53:51+0200
+### [email redacted] — 2013-01-29T09:53:51+0200
 **Source:** <https://forum.jackkruse.com/threads/coconut-sugar.5665/post-73123>
 
 Can anyone tell me if coconut sugar is ok to use as a replacer of sugar? I'm using it in my coffee and its really nice!
@@ -29434,7 +29434,7 @@ Can anyone tell me if coconut sugar is ok to use as a replacer of sugar? I'm usi
 
 Afaik, It's still sugar..
 
-### amber_tyrrell@hotmail.com — 2013-01-29T11:50:43+0200
+### [email redacted] — 2013-01-29T11:50:43+0200
 **Source:** <https://forum.jackkruse.com/threads/coconut-sugar.5665/post-73131>
 
 > [ashryn said:](/goto/post?id=73127)
@@ -31216,15 +31216,15 @@ Just thought I'd pop in to offer a heads-up on changes to the site. Most of you 
 
 Two major changes and a couple notes:
 
-1) **No Member Dashboard**. In lieu of the Dashboard where members login and access webinars and sign up for consults, we have transitioned to an email-based system to deliver all your member content and benefits to you via email. Please make sure [support@jackkruse.com](mailto:support@jackkruse.com) is on your safe list and save the emails we send you, as they include links to download your content, sign up for consults, etc.
+1) **No Member Dashboard**. In lieu of the Dashboard where members login and access webinars and sign up for consults, we have transitioned to an email-based system to deliver all your member content and benefits to you via email. Please make sure [[email redacted]](mailto:[email redacted]) is on your safe list and save the emails we send you, as they include links to download your content, sign up for consults, etc.
 
 We are adding a "Member Portal" section to the site shortly that will include links for you to be able to sign up for consults and email lab consults if you are a member... That info is in the emails we sent you, however, so refer to them in the meantime for links, etc. to sign up.
 
-Questions or issues? Email [support@jackkruse.com](mailto:support@jackkruse.com) or open a ticket: [http://jackkruse.zendesk.com](http://jackkruse.zendesk.com)
+Questions or issues? Email [[email redacted]](mailto:[email redacted]) or open a ticket: [http://jackkruse.zendesk.com](http://jackkruse.zendesk.com)
 
 2) **Forums are back**! We've brought back the vBulletin forums, as you all requested, so you can access them with tapatalk. Glory be! We are going to add a banner here with links to the menu shortly. If you can't remember your password, go here and follow the prompts: [http://jackkruse.com/forum/login.php?do=lostpw](http://jackkruse.com/forum/login.php?do=lostpw).
 
-If you still can't login, you know the drill: Email [support@jackkruse.com](mailto:support@jackkruse.com) or open a ticket: [http://jackkruse.zendesk.com](http://jackkruse.zendesk.com).
+If you still can't login, you know the drill: Email [[email redacted]](mailto:[email redacted]) or open a ticket: [http://jackkruse.zendesk.com](http://jackkruse.zendesk.com).
 
 **The Optimal Reset!** We are several weeks in to the Optimal Reset now. I hope ya'll are enjoying it! this program isn't perfect. It's brand-spanking new and we are using this run to help iron out all the kinks. So please be patient with us. We are letting everyone in the community participate at no charge, and Dr Kruse is donating his time to do complimentary Q&As to support you guys as you're going through it. I hope ya'll are finding the structured program to be helpful and are enjoying supporting each other! Hop on over to the Optimal Reset forum for more help and encouragement.
 
@@ -31417,7 +31417,7 @@ I wanted to say also that those who live in dry climates would need to spray wat
 
 Any other ideas?
 
-### jeanie@truelongmont.com — 2013-02-10T18:43:09+0200
+### [email redacted] — 2013-02-10T18:43:09+0200
 **Source:** <https://forum.jackkruse.com/threads/tallow-for-the-skin.5810/post-75226>
 
 ok, so tallow is one oil I've not incorporated into my beauty stuff! R - did you filter it? One of my problems is the smell during processing - and it makes such a mess to cook with. I did a batch last summer - but haven't been inspired to go that route again, although for creams etc I might consider it.
@@ -31428,7 +31428,7 @@ ok, so tallow is one oil I've not incorporated into my beauty stuff! R - did you
 I am going to ty this tonight as my expensive argan oil have to be day moisturizer only as it is quite expensive.. Seaweed water on skin, on the top tallow.. yay. I am curious if all my wrinkles are gone in the morning.
 I will be reporting..
 
-### jeanie@truelongmont.com — 2013-02-10T19:01:06+0200
+### [email redacted] — 2013-02-10T19:01:06+0200
 **Source:** <https://forum.jackkruse.com/threads/tallow-for-the-skin.5810/post-75230>
 
 also if any of you actually cook with the tallow, how do you clean it up?!? That was the biggie that I noticed - it seemed to fly all over and was super hard and I ended up spending way more time cleaning my kitchen that I was comfy with.
@@ -31447,7 +31447,7 @@ I found this while looking into making moisturizer - how to make tallow in the s
 
 I've done both the wet and dry methods of rendering. I found the wet method to be more foolproof in terms of avoiding burning. I also found grinding up the fat first to be far more effective than just dicing, as it melts at a more uniform pace when ground. One bit of advice - don't do this if you aren't feeling good as the smell may really get to you. I did it the day after being glutened when I was sick to my stomach and I now have unhappy memories associated with lard.
 
-### jeanie@truelongmont.com — 2013-02-10T23:09:01+0200
+### [email redacted] — 2013-02-10T23:09:01+0200
 **Source:** <https://forum.jackkruse.com/threads/tallow-for-the-skin.5810/post-75280>
 
 I 2nd the bad smell. I did it with the crockpot on the back patio so only the neighbors had to smell it!
@@ -32314,7 +32314,7 @@ Interesting Journal Article.
 
 [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2557071/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2557071/)
 
-### jeanie@truelongmont.com — 2013-02-12T18:56:18+0200
+### [email redacted] — 2013-02-12T18:56:18+0200
 **Source:** <https://forum.jackkruse.com/threads/dirty-electricity-elevates-blood-sugar-among-electrically-sensitive-diabetics.5861/post-75557>
 
 > [Shijin13 said:](/goto/post?id=75554)
@@ -32385,7 +32385,7 @@ Thanks.
 **Subforum:** Optimal Labs
 **Posts:** 1
 ══════════════════════════════════════════════════════════════════════
-### kjgraffin@yahoo.com — 2013-02-12T21:12:40+0200
+### [email redacted] — 2013-02-12T21:12:40+0200
 **Source:** <https://forum.jackkruse.com/threads/hormone-labs.5866/post-75587>
 
 I have been on BHRT almost a year now. I believe I have made some good progress but still have a ways to go. My DHEAs seems to be struggling as well as progesterone. Appears the lab made a mistake with one of my estrogen markers but I don't know which one yet. Thoughts on improvements?
@@ -32951,7 +32951,7 @@ Thanks in advance...
 **Subforum:** Cold Thermogenesis
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### megzy9281@yahoo.com — 2013-02-16T23:22:09+0200
+### [email redacted] — 2013-02-16T23:22:09+0200
 **Source:** <https://forum.jackkruse.com/threads/womens-experiences-with-ct.5918/post-76163>
 
 Hi there, I'll be starting CT again for my fatigue issues and am motivated to stick with it this time. I'd like to hear experiences from other women (especially those with adrenal fatigue) who got thru all the discomfort and detox and made it to finally be cold adapted. Hearing from other's struggles turned successes would be good motivation for me!! Thank you!
@@ -32977,7 +32977,7 @@ Morning and evening cortisol levels were in normal range 4 months in.
 
 Hope that helps.
 
-### megzy9281@yahoo.com — 2013-02-18T03:42:28+0200
+### [email redacted] — 2013-02-18T03:42:28+0200
 **Source:** <https://forum.jackkruse.com/threads/womens-experiences-with-ct.5918/post-76296>
 
 Thank you so much for telling me your experience. Super helpful. Back to it, 2nd day of face dunks... Here we go!!
@@ -33825,7 +33825,7 @@ i guess better safe than sorry. thanks again
 **Subforum:** Optimal Labs
 **Posts:** 1
 ══════════════════════════════════════════════════════════════════════
-### trishalinn@gmail.com — 2013-02-21T21:15:29+0200
+### [email redacted] — 2013-02-21T21:15:29+0200
 **Source:** <https://forum.jackkruse.com/threads/thoughts-on-recent-labs.5981/post-76916>
 
 Hey guys,
@@ -33986,7 +33986,7 @@ Thanks for sharing your excitement and sorry for the late response. It took me a
 
 What type of qualities would you like to see in your dream earthing footwear?
 
-### docwatt@gmail.com — 2013-03-04T07:58:22+0200
+### [email redacted] — 2013-03-04T07:58:22+0200
 **Source:** <https://forum.jackkruse.com/threads/earth-runners-minimalist-earthing-sandals-feedback.5990/post-78878>
 
 > [EarthRunner1987 said:](/goto/post?id=78797)
@@ -34016,7 +34016,7 @@ That is what I was thinking also @Janagram. Not sure my foot wouldn't just be fl
 ### EarthRunner1987 — 2013-03-04T22:14:46+0200
 **Source:** <https://forum.jackkruse.com/threads/earth-runners-minimalist-earthing-sandals-feedback.5990/post-78954>
 
-> [docwatt@gmail.com said:](/goto/post?id=78878)
+> [[email redacted] said:](/goto/post?id=78878)
 >
 > Living not too far from Mike, I decided to eyeball the sandals before buying. Inovative, minimalist and constructed with "heart".
 >
@@ -34821,7 +34821,7 @@ The sulfur smell was really strong. The sign says if I leave them open overnight
 
 And then I drove back with the top down - about 50 degrees and sunny.
 
-### jeanie@truelongmont.com — 2013-02-27T22:01:28+0200
+### [email redacted] — 2013-02-27T22:01:28+0200
 **Source:** <https://forum.jackkruse.com/threads/road-trip-for-spring-water.6095/post-78100>
 
 > [Huck said:](/goto/post?id=78099)
@@ -34896,7 +34896,7 @@ I checked out Barton Spring yesterday afternoon. They are doing maintenance in t
 
 Will definitely go back and swim when it is re-opened. Apparently the water temp is always very cool. We spend a weekend in Austin every 4-6 weeks.
 
-### kjgraffin@yahoo.com — 2013-03-04T01:25:54+0200
+### [email redacted] — 2013-03-04T01:25:54+0200
 **Source:** <https://forum.jackkruse.com/threads/road-trip-for-spring-water.6095/post-78840>
 
 Thanks so much for the link for the springs. I found one 30 minutes up the road from my house. We drove up there today and got about 7 gallons. The only thing is I wish I had something better than plastic to put it in. The water is fantastic. It takes so pure it's like to really doesn't have a taste (if that makes any sense!).
@@ -34925,7 +34925,7 @@ I made my 2nd trip a couple of days ago and got 18 gallons. Drive time is about 
 
 Thanks Huck - will have to do that for my morning coffee. That is quite a road trip for you ...what is the price of fuel these days in the U.S.?
 
-### kjgraffin@yahoo.com — 2013-03-18T13:46:51+0200
+### [email redacted] — 2013-03-18T13:46:51+0200
 **Source:** <https://forum.jackkruse.com/threads/road-trip-for-spring-water.6095/post-80952>
 
 > [Huck said:](/goto/post?id=80916)
@@ -36374,7 +36374,7 @@ pore size is 2.9 microns. I wonder if that would stop the chemicals from leachin
 
 Any thoughts?
 
-### dkenward@yahoo.com — 2013-03-07T18:43:49+0200
+### [email redacted] — 2013-03-07T18:43:49+0200
 **Source:** <https://forum.jackkruse.com/threads/lets-talk-about-optimal-beds.6221/post-79488>
 
 What about futons? I slept on one for years and found it comfortable. I still have one I use for a guest room bed and for taking naps.
@@ -38314,7 +38314,7 @@ my tweens read this one and enjoyed it:
 **Subforum:** Optimal Labs
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### kjgraffin@yahoo.com — 2013-03-12T13:53:29+0200
+### [email redacted] — 2013-03-12T13:53:29+0200
 **Source:** <https://forum.jackkruse.com/threads/help-with-estrogen-results.6295/post-80173>
 
 I had my hormone labs drawn last month on CD 20. I thought the lab had made a mistake because my total estrogens were less than my estradiol. They let me redo them this month. I tested on CD21 and the same thing happened, but much higher results. Anyone have any ideas on what could be going on? I did increase DHEA and testosterone a bit, could that be contributing to the increase? I still don't understand how my total estrogen can be less than my estradiol.
@@ -38334,7 +38334,7 @@ I had a short cycle this month at 23 days and I have been having night sweats th
 
 The DHEA could be converting to estrogen in you which is highly likely. Maybe you are also an estrogen collector. You may want to try to drop the DHEA and test again and see what happens. Something in your hormones is obviously messed up if you are having night sweats and estrogen that high. Have you done Pg testing? Looking at the Pg/E2 ratio maybe helpful too.
 
-### kjgraffin@yahoo.com — 2013-03-13T19:18:16+0200
+### [email redacted] — 2013-03-13T19:18:16+0200
 **Source:** <https://forum.jackkruse.com/threads/help-with-estrogen-results.6295/post-80382>
 
 I'm using the 7keto DHEA, so I didn't think that would convert to estrogen. My PG is very low so I know my ratio stinks, but it has always been low. I can't figure out why all of a sudden my E is climbing but yet I am having the night sweats.
@@ -39550,7 +39550,7 @@ Possibly because magnesium is a cofactor for utilizing vitamin D. Arguably, some
 **Subforum:** The New Monster Thread
 **Posts:** 19
 ══════════════════════════════════════════════════════════════════════
-### granitereno@gmail.com — 2013-03-18T18:55:31+0200
+### [email redacted] — 2013-03-18T18:55:31+0200
 **Source:** <https://forum.jackkruse.com/threads/optimal-water-containers.6386/post-80987>
 
 I have gathered here that for home, ceramic or glass jugs are what we should choose.
@@ -39580,12 +39580,12 @@ We use lifefactory water bottles. It's glass with a silicone/rubber protective o
 
 I'm using stainless steel right now but looking for a good glass one. I need something to bring to work that doesn't look obnoxious!
 
-### kjgraffin@yahoo.com — 2013-03-18T21:03:23+0200
+### [email redacted] — 2013-03-18T21:03:23+0200
 **Source:** <https://forum.jackkruse.com/threads/optimal-water-containers.6386/post-81008>
 
 I use a bamboobottle. It is a glass container with a bamboo sleeve. I love it! It holds 16oz.
 
-### granitereno@gmail.com — 2013-03-18T21:59:58+0200
+### [email redacted] — 2013-03-18T21:59:58+0200
 **Source:** <https://forum.jackkruse.com/threads/optimal-water-containers.6386/post-81016>
 
 How do we feel about titanium?
@@ -39702,7 +39702,7 @@ Just a thought....we use silver to treat our hot/cold tub
 
 [http://www.ehow.com/way\_5538843\_can-colloidal-silver-treat-pool.html](http://www.ehow.com/way_5538843_can-colloidal-silver-treat-pool.html)
 
-### kjgraffin@yahoo.com — 2013-03-18T20:52:45+0200
+### [email redacted] — 2013-03-18T20:52:45+0200
 **Source:** <https://forum.jackkruse.com/threads/saltwater-pool.6387/post-81006>
 
 I've been looking into the ecosmarte system as well. I refuse to go back to using chlorine in my pool. If I have no other choice, I won't open it this year.
@@ -39897,7 +39897,7 @@ There’s no time like the present to look at your nutritional health. Please jo
 
 When: March 21 or April 4 from 12:00 to 1:00 PM
 Where: The Training Room – The Woodlands
-Seating is limited. Please RSVP to [xxxxxxxx@xxx.com](mailto:xxxxxxxx@xxx.com). Bring your lunch and see if it’s as healthy as you think.
+Seating is limited. Please RSVP to [[email redacted]](mailto:[email redacted]). Bring your lunch and see if it’s as healthy as you think.
 
 I stopped by her table and after looking at the flyers said, "I don't eat this way. I eat epi-paleo and with lots of fat."
 
@@ -39948,7 +39948,7 @@ That is the problem, they really do not have a clue! You almost have to feel sor
 >
 > When: March 21 or April 4 from 12:00 to 1:00 PM
 > Where: The Training Room â€“ The Woodlands
-> Seating is limited. Please RSVP to [xxxxxxxx@xxx.com](mailto:xxxxxxxx@xxx.com). Bring your lunch and see if itâ€™s as healthy as you think.
+> Seating is limited. Please RSVP to [[email redacted]](mailto:[email redacted]). Bring your lunch and see if itâ€™s as healthy as you think.
 >
 > I stopped by her table and after looking at the flyers said, "I don't eat this way. I eat epi-paleo and with lots of fat."
 >
@@ -43089,7 +43089,7 @@ This forum is an amazing wealth of information every single day - not just JK bu
 
 and - yep- I keep running into people who don't quite recognise me ......
 
-### opelecky@yahoo.com — 2013-03-29T04:12:46+0200
+### [email redacted] — 2013-03-29T04:12:46+0200
 **Source:** <https://forum.jackkruse.com/threads/emf-boot-camp.6503/post-82119>
 
 I managed to delete the email with the boot camp info. Is there any way that you guys can post the link to where I go to purchase it? Thanks in advance, Olga
@@ -43735,7 +43735,7 @@ It's 100% clear to me that.....we must do all we can to reduce EMF. I can't wait
 
 I have decided that starting today, I must sit outside with bare feet on the grass for 30 minutes every single day, first thing in the morning, or do some weeding in bare feet - no matter the temperature outside. It's just a necessity. It will be like a little experiment.
 
-### opelecky@yahoo.com — 2013-04-01T01:16:54+0300
+### [email redacted] — 2013-04-01T01:16:54+0300
 **Source:** <https://forum.jackkruse.com/threads/live-on-saturday-night-with-my-trifield-meter.6551/post-82391>
 
 Hi Hope,
@@ -43762,7 +43762,7 @@ You can try to measure anything. So far I've done a lot of things in the house, 
 
 Was that when the fridge was running? That makes a big difference. I have two bedside table lamps, one with a compact fluorescent bulb and one with an incandescant. The CF was WAY worse...
 
-### opelecky@yahoo.com — 2013-04-01T04:50:20+0300
+### [email redacted] — 2013-04-01T04:50:20+0300
 **Source:** <https://forum.jackkruse.com/threads/live-on-saturday-night-with-my-trifield-meter.6551/post-82416>
 
 Thanks, Hope. I was readying
@@ -43781,7 +43781,7 @@ You know you can talk to Michael yourself...he can give you help. He charges $12
 
 Krista - I'd try to get rid of the CF bulbs. I bought tons of incandescents but some places around where i live still carry them. It's a horrible thing with CF. I have always been against them bc of the mercury. But, as I am realizing through this blog, that is only a tiny fraction as we are all affected by whatever anyone else is doing. But at least this way, if I break a bulb, we won't be inhaling mercury vapors - I did that for 27 years of my life.
 
-### opelecky@yahoo.com — 2013-04-01T23:46:29+0300
+### [email redacted] — 2013-04-01T23:46:29+0300
 **Source:** <https://forum.jackkruse.com/threads/live-on-saturday-night-with-my-trifield-meter.6551/post-82524>
 
 Hope,
@@ -44502,7 +44502,7 @@ Jack will not be doing consults after **_April 21st_**. This means that you want
 
 Lost the link to book your consult? No problem - go to the member dashboard to have the link emailed to you: [http://www.jackkruse.com/member-dashboard/](http://www.jackkruse.com/member-dashboard/)
 
-As always, please contact email support with any questions: [support@jackkruse.com](mailto:support@jackkruse.com)
+As always, please contact email support with any questions: [[email redacted]](mailto:[email redacted])
 
 Now, get to booking!
 
@@ -46544,7 +46544,7 @@ I think Michael gave a brief description of what he does to ground a computer in
 
 You guys should see it in you inboxes by tomorrow! keep your eyes peeled!
 
-### opelecky@yahoo.com — 2013-04-10T02:30:24+0300
+### [email redacted] — 2013-04-10T02:30:24+0300
 **Source:** <https://forum.jackkruse.com/threads/grounding-computer-laptop-video.6646/post-83548>
 
 Did I miss it? I thought that we were supposed to get it today... Thanks.
@@ -46554,7 +46554,7 @@ Did I miss it? I thought that we were supposed to get it today... Thanks.
 
 I haven't seen it either. I also thought we'd have EMF webinar 2 to watch since I thought the Q&A was going to be on Thursday??
 
-### opelecky@yahoo.com — 2013-04-10T15:25:59+0300
+### [email redacted] — 2013-04-10T15:25:59+0300
 **Source:** <https://forum.jackkruse.com/threads/grounding-computer-laptop-video.6646/post-83600>
 
 Well, I was also hoping to see a recorded version of the first Q&A so that I could refresh my memory. It's been almost a week...
@@ -47049,9 +47049,9 @@ My understanding - from an email I just got - it will be made available after fo
 ### tellmisty — 2013-04-07T17:16:51+0300
 **Source:** <https://forum.jackkruse.com/threads/webinar-q-a-recordings.6658/post-83225>
 
-Yes, it will be made available after. Email support to see if they can help you view it before the series ends: [support@jackkruse.com](mailto:support@jackkruse.com).
+Yes, it will be made available after. Email support to see if they can help you view it before the series ends: [[email redacted]](mailto:[email redacted]).
 
-### opelecky@yahoo.com — 2013-04-10T15:28:07+0300
+### [email redacted] — 2013-04-10T15:28:07+0300
 **Source:** <https://forum.jackkruse.com/threads/webinar-q-a-recordings.6658/post-83601>
 
 Did you mean after the series are over? Thanks.
@@ -47877,7 +47877,7 @@ FORYOU50 at Juil.com
 
 \*Offer valid while supplies last or until April 17, 2013 on the following styles - Holland, Napa, Mesa, Gaia, Mojanda, Vista, and Bali. Offer not valid on the Hera or Brio models.
 
-To make sure you continue receiving our emails to your inbox (not bulk or junk folders), please add [info@juil.com](mailto:info@juil.com) to your address book or safe sender list.
+To make sure you continue receiving our emails to your inbox (not bulk or junk folders), please add [[email redacted]](mailto:[email redacted]) to your address book or safe sender list.
 
 I picked up a 2nd pair!
 
@@ -47913,7 +47913,7 @@ Does anyone have the mesa style? just wondering how they are fitting? He tacks o
 
 I have two pair of the Vista and I love them! I am a half size so I was worried about the fit, but I just went on their recommendation to order the whole size down from my size (in that style) and they fit great! Very well made and the packaging is awesome!
 
-### kathiebu@hotmail.com — 2013-04-10T18:43:37+0300
+### [email redacted] — 2013-04-10T18:43:37+0300
 **Source:** <https://forum.jackkruse.com/threads/new-50-of-code-for-juil-grounding-sandals-valid-unitl-17-april-2013.6704/post-83622>
 
 Just ordered mine by phone, thanks for the code
@@ -47928,7 +47928,7 @@ Of course the offer is not valid on the one style I want - Brio! OK, I will wait
 
 Michael didn't say anything about shoes ... that is not his expertise, so his opinion wouldn't be an educated one anyhow (no disrespect, of course ... I just don't want members assuming he's an expert on that).
 
-### opelecky@yahoo.com — 2013-04-11T15:00:32+0300
+### [email redacted] — 2013-04-11T15:00:32+0300
 **Source:** <https://forum.jackkruse.com/threads/new-50-of-code-for-juil-grounding-sandals-valid-unitl-17-april-2013.6704/post-83735>
 
 If you walk on the pavement you can be barefoot and it won't do you any good as far as grounding goes. That's my understanding.
@@ -48095,7 +48095,7 @@ Reba
 
 So is this a recording as EMF via amazonaws or more in a QA on spree cast?
 
-### opelecky@yahoo.com — 2013-04-12T01:36:29+0300
+### [email redacted] — 2013-04-12T01:36:29+0300
 **Source:** <https://forum.jackkruse.com/threads/anyone-seen-emf-2-webinar.6706/post-83829>
 
 I just checked my spam folder. I didn't get any emails. Did you get an email w/the link? Thanks.
@@ -48105,7 +48105,7 @@ I just checked my spam folder. I didn't get any emails. Did you get an email w/t
 
 I did .....it was there this morning
 
-### opelecky@yahoo.com — 2013-04-12T01:54:32+0300
+### [email redacted] — 2013-04-12T01:54:32+0300
 **Source:** <https://forum.jackkruse.com/threads/anyone-seen-emf-2-webinar.6706/post-83832>
 
 Oh! Thanks, I'd better email Misty then.
@@ -48268,7 +48268,7 @@ My husband made one of these a year or more ago and we use it regularly for jerk
 **Subforum:** The EMF Rx
 **Posts:** 10
 ══════════════════════════════════════════════════════════════════════
-### opelecky@yahoo.com — 2013-04-10T15:39:40+0300
+### [email redacted] — 2013-04-10T15:39:40+0300
 **Source:** <https://forum.jackkruse.com/threads/grounding-question.6713/post-83604>
 
 Hi there,
@@ -49288,7 +49288,7 @@ I think he details why a one time urine spot test isn't as good as a 24 hour, bu
 
 [J Environ Public Health.](http://www.ncbi.nlm.nih.gov/pubmed/22291721#) 2012;2012:291541. doi: 10.1155/2012/291541. Epub 2012 Jan 12.
 \[h=1\]Earthing: health implications of reconnecting the human body to the Earth's surface electrons.\[/h\][Chevalier G](http://www.ncbi.nlm.nih.gov/pubmed?term=Chevalier%20G%5BAuthor%5D&cauthor=true&cauthor_uid=22291721), [Sinatra ST](http://www.ncbi.nlm.nih.gov/pubmed?term=Sinatra%20ST%5BAuthor%5D&cauthor=true&cauthor_uid=22291721), [Oschman JL](http://www.ncbi.nlm.nih.gov/pubmed?term=Oschman%20JL%5BAuthor%5D&cauthor=true&cauthor_uid=22291721), [Sokal K](http://www.ncbi.nlm.nih.gov/pubmed?term=Sokal%20K%5BAuthor%5D&cauthor=true&cauthor_uid=22291721), [Sokal P](http://www.ncbi.nlm.nih.gov/pubmed?term=Sokal%20P%5BAuthor%5D&cauthor=true&cauthor_uid=22291721).
-\[h=3\]Source\[/h\]Developmental and Cell Biology Department, University of California at Irvine, Irvine, CA 92697, USA. [dlbogc@sbcglobal.net](mailto:dlbogc@sbcglobal.net)
+\[h=3\]Source\[/h\]Developmental and Cell Biology Department, University of California at Irvine, Irvine, CA 92697, USA. [[email redacted]](mailto:[email redacted])
 
 \[h=3\]Abstract\[/h\]Environmental medicine generally addresses environmental factors with a negative impact on human health. However, emerging scientific research has revealed a surprisingly positive and overlooked environmental factor on health: direct physical contact with the vast supply of electrons on the surface of the Earth. Modern lifestyle separates humans from such contact. The research suggests that this disconnect may be a major contributor to physiological dysfunction and unwellness. Reconnection with the Earth's electrons has been found to promote intriguing physiological changes and subjective reports of well-being. Earthing (or grounding) refers to the discovery of benefits-including better sleep and reduced pain-from walking barefoot outside or sitting, working, or sleeping indoors connected to conductive systems that transfer the Earth's electrons from the ground into the body. This paper reviews the earthing research and the potential of earthing as a simple and easily accessed global modality of significant clinical importance.
 
@@ -49325,7 +49325,7 @@ Check out this video on grounding your computer, with Michael Neuert. Click [HER
 
 Thanks for posting! I have done this, and it definitely works. Makes me wonder why laptops aren't already grounded.
 
-### bugsy1950@gmail.com — 2013-05-06T16:39:01+0300
+### [email redacted] — 2013-05-06T16:39:01+0300
 **Source:** <https://forum.jackkruse.com/threads/grounding-your-computer-with-michael-neuert.6747/post-85514>
 
 I would like to try this, but surely this is for laptops only and when they are not plugged in at the wall socket?
@@ -49342,7 +49342,7 @@ The grounding cord Michael showed has three prongs, but only the ground is attac
 
 I used my Trimeter during the initial process. I had quite high electrical and magnetic readings before grounding. Now it is very low.
 
-### bugsy1950@gmail.com — 2013-05-07T12:23:49+0300
+### [email redacted] — 2013-05-07T12:23:49+0300
 **Source:** <https://forum.jackkruse.com/threads/grounding-your-computer-with-michael-neuert.6747/post-85561>
 
 Thanks for the reply, but I am still not sure if this means that having a 3 prong plug I do not need to go through the process and that I am safe for excessive EMF?
@@ -49352,7 +49352,7 @@ Thanks for the reply, but I am still not sure if this means that having a 3 pron
 
 Bugsy - I have 3 prong plugs as well - so the third one is the ground ...but when I asked one of the owners here they told me that they aren't actually hooked up and I would need to hire an electrician - just something to think about....
 
-### bugsy1950@gmail.com — 2013-05-08T11:54:03+0300
+### [email redacted] — 2013-05-08T11:54:03+0300
 **Source:** <https://forum.jackkruse.com/threads/grounding-your-computer-with-michael-neuert.6747/post-85622>
 
 The houses here are all wired with a third wire the "earth" so I presume I am OK.
@@ -49373,7 +49373,7 @@ And then plugging in the regular power cable when you're not next to it (to char
 
 Bugsy, if I understand you correctly, you're using a desktop computer and not a laptop. So unless your cabling is faulty, no further grounding should be necessary.
 
-### bugsy1950@gmail.com — 2013-05-08T18:14:45+0300
+### [email redacted] — 2013-05-08T18:14:45+0300
 **Source:** <https://forum.jackkruse.com/threads/grounding-your-computer-with-michael-neuert.6747/post-85646>
 
 Thank you both, I am using my laptop plugged in the regular power which I presume is earthed, I asked hubby what the inside of our wall plugs looked like and he said everything in our house has 3 cord wiring. So if I understand correctly the earthing of the laptop is only necessary when using it wireless? In that case I assume I am protected when it is plugged in at the wall.
@@ -49383,7 +49383,7 @@ Thank you both, I am using my laptop plugged in the regular power which I presum
 
 Your "brick" laptop power supply is grounded, but if you look at the cable going from the power supply to your laptop, you will see that it only has 2 wires in it. So the laptop itself is _NOT_ grounded in your current configuration, as I understand it.
 
-### bugsy1950@gmail.com — 2013-05-11T12:28:53+0300
+### [email redacted] — 2013-05-11T12:28:53+0300
 **Source:** <https://forum.jackkruse.com/threads/grounding-your-computer-with-michael-neuert.6747/post-85835>
 
 So no household appliances are grounded if I understand you? they all have only two wires in their cords. Then can someone explain to me the function of the earth wire in the wall plugs of your house, if nothing is actually grounded?
@@ -51427,7 +51427,7 @@ Much love to the chickens
 ### Martin — 2013-04-26T04:45:05+0300
 **Source:** <https://forum.jackkruse.com/threads/body-voltage-meter-experiences.6868/post-84854>
 
-> [lava.locks@yahoo.com said:](/goto/post?id=84788)
+> [[email redacted] said:](/goto/post?id=84788)
 >
 > Martin ~ Do you by any chance have a link for the grounding cord for the MacBook? I searched Apple but couldn't find what you are mentioning...thanks...Happy chicken hugging.
 
@@ -51636,7 +51636,7 @@ I will make an effort to visit my old neighborhood to get a reading and repot ba
 **Subforum:** Optimal Labs
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### kjgraffin@yahoo.com — 2013-04-25T19:58:20+0300
+### [email redacted] — 2013-04-25T19:58:20+0300
 **Source:** <https://forum.jackkruse.com/threads/elevated-liver-enzymes.6872/post-84799>
 
 We had our annual blood draw at work this month and I was pleased to see my CO2 and BUN levels have improved since I have not been drinking flouridated water. However, my liver enzymes, ALT & AST, are really elevated. They went from being in the 30s to being in the 50s.

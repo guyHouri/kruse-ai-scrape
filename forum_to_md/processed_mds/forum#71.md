@@ -1712,7 +1712,7 @@ I just tried.
 To get there you need to be a member with a valid password.
 ...........
 
-Jack Kruse <support@jackkruse.com>
+Jack Kruse <[email redacted]>
 
 From above e-mail I just got that
 monthly PowWow with Dr. Kruse...see details below:
@@ -1811,7 +1811,7 @@ From post #4
 
 I will have our tech team take a look at that link as there is no ticket in our system from you.
 
-If you email me directly at [info@kruseatdestin.com](mailto:info@kruseatdestin.com) I'll get you situated right away!
+If you email me directly at [[email redacted]](mailto:[email redacted]) I'll get you situated right away!
 
 ### JanSz — 2022-01-19T15:50:47+0200
 **Source:** <https://forum.jackkruse.com/threads/how-do-i-change-my-credit-card-information.26796/post-308935>
@@ -1820,7 +1820,7 @@ If you email me directly at [info@kruseatdestin.com](mailto:info@kruseatdestin.c
 >
 > I will have our tech team take a look at that link as there is no ticket in our system from you.
 >
-> If you email me directly at [info@kruseatdestin.com](mailto:info@kruseatdestin.com) I'll get you situated right away!
+> If you email me directly at [[email redacted]](mailto:[email redacted]) I'll get you situated right away!
 
 [@caroline](https://forum.jackkruse.com/members/888/)
 
@@ -1833,7 +1833,7 @@ If you email me directly at [info@kruseatdestin.com](mailto:info@kruseatdestin.c
 >
 > I will have our tech team take a look at that link as there is no ticket in our system from you.
 >
-> If you email me directly at [info@kruseatdestin.com](mailto:info@kruseatdestin.com) I'll get you situated right away!
+> If you email me directly at [[email redacted]](mailto:[email redacted]) I'll get you situated right away!
 
 [@Support](https://forum.jackkruse.com/members/1/)
 
@@ -1842,7 +1842,7 @@ most likely here:
 [Contact Us | Jack Kruse Optimal Health Forum](https://forum.jackkruse.com/index.php?misc/contact)
 
 or
-Jack Kruse <support@jackkruse.com>
+Jack Kruse <[email redacted]>
 
 So, most likely it will be a good idea to check why that is not working. **(And make sure that it is operational.)**
 
@@ -4900,7 +4900,7 @@ From vaccines that were build using peanuts proteins.
 Here's potential ways to contact Tom Cowan:
 [https://drtomcowan.com/pages/contact-us](https://drtomcowan.com/pages/contact-us)
 [https://www.facebook.com/DrTomCowan/](https://www.facebook.com/DrTomCowan/)
-[info@humanheartcosmicheart.com](mailto:info@humanheartcosmicheart.com)
+[[email redacted]](mailto:[email redacted])
 
 The fever as therapy was the most fascinating thing for me from this talk as well.
 Don't know anything more than what he says in his talk.
@@ -4925,7 +4925,7 @@ Don't know anything more than what he says in his talk.
 > Here's potential ways to contact Tom Cowan:
 > [https://drtomcowan.com/pages/contact-us](https://drtomcowan.com/pages/contact-us)
 > [https://www.facebook.com/DrTomCowan/](https://www.facebook.com/DrTomCowan/)
-> [info@humanheartcosmicheart.com](mailto:info@humanheartcosmicheart.com)
+> [[email redacted]](mailto:[email redacted])
 >
 > The fever as therapy was the most fascinating thing for me from this talk as well.
 > Don't know anything more than what he says in his talk.
@@ -15936,7 +15936,7 @@ The more volunteers who participate in the project, the more informed and reliab
 \- You have been diagnosed with EHS by a doctor, or
 \- You have been evaluated by a physician but have not been diagnosed with EHS
 
-and are interested in participating in this EHS project, please contact Professor Leszczynski at: [blogbrhp@gmail.com](mailto:blogbrhp@gmail.com). You can also fill out the attached questionnaire and send it to Professor Leszczynski.
+and are interested in participating in this EHS project, please contact Professor Leszczynski at: [[email redacted]](mailto:[email redacted]). You can also fill out the attached questionnaire and send it to Professor Leszczynski.
 
 \* Prof. Dariusz Leszczynski is former head of the Radiation Biology Laboratory of STUK, the Finnish Radiation Safety Authority and member of many international commissions.
 
@@ -25345,7 +25345,7 @@ I think what burns the most for me is not the cancer or my dad´s dying itself, 
 
 It´s sad not being able to save even my dad. I´m not sure what % this was caused by the covid jab, nnEMF from his tablet over his organs, blue light, too much carbs, etc. But pretty sure these all are big culprits-
 
-Just send a message to [support@jackkruse.com](mailto:support@jackkruse.com) , to try to get a consult with Jack if I can afford. I don´t like leeting go, my idea is to convince dad however I freaking can to dring 25 or 18 ppm DDW like mad, get him on blueblockers and installing a ton of DE filters or whole house filter, and hope for the miracle. It s crazy that I find difficult compliance from my dad to drink DDW which has safe profile when he´ll be dead soon, but he took the vaccine, experimental, for a 99,8 survival rate thing, it´s crazy
+Just send a message to [[email redacted]](mailto:[email redacted]) , to try to get a consult with Jack if I can afford. I don´t like leeting go, my idea is to convince dad however I freaking can to dring 25 or 18 ppm DDW like mad, get him on blueblockers and installing a ton of DE filters or whole house filter, and hope for the miracle. It s crazy that I find difficult compliance from my dad to drink DDW which has safe profile when he´ll be dead soon, but he took the vaccine, experimental, for a 99,8 survival rate thing, it´s crazy
 
 ### caroline — 2022-11-26T17:33:00+0200
 **Source:** <https://forum.jackkruse.com/threads/my-dad-has-malignant-pancreatic-cancer-i%C2%B4d-appreciate-suggestions-to-safe-his-life-if-not-too-late.27066/post-317878>
@@ -25365,7 +25365,7 @@ so sorry Pablo........
 >
 > It´s sad not being able to save even my dad. I´m not sure what % this was caused by the covid jab, nnEMF from his tablet over his organs, blue light, too much carbs, etc. But pretty sure these all are big culprits-
 >
-> Just send a message to [support@jackkruse.com](mailto:support@jackkruse.com) , to try to get a consult with Jack if I can afford. I don´t like leeting go, my idea is to convince dad however I freaking can to dring 25 or 18 ppm DDW like mad, get him on blueblockers and installing a ton of DE filters or whole house filter, and hope for the miracle. It s crazy that I find difficult compliance from my dad to drink DDW which has safe profile when he´ll be dead soon, but he took the vaccine, experimental, for a 99,8 survival rate thing, it´s crazy
+> Just send a message to [[email redacted]](mailto:[email redacted]) , to try to get a consult with Jack if I can afford. I don´t like leeting go, my idea is to convince dad however I freaking can to dring 25 or 18 ppm DDW like mad, get him on blueblockers and installing a ton of DE filters or whole house filter, and hope for the miracle. It s crazy that I find difficult compliance from my dad to drink DDW which has safe profile when he´ll be dead soon, but he took the vaccine, experimental, for a 99,8 survival rate thing, it´s crazy
 
 [@Pablo](https://forum.jackkruse.com/members/21859/) - You are not alone. Our collective heart on this forum hurt deeply with you.
 
@@ -25392,7 +25392,7 @@ Grandpa John
 >
 > It´s sad not being able to save even my dad. I´m not sure what % this was caused by the covid jab, nnEMF from his tablet over his organs, blue light, too much carbs, etc. But pretty sure these all are big culprits-
 >
-> Just send a message to [support@jackkruse.com](mailto:support@jackkruse.com) , to try to get a consult with Jack if I can afford. I don´t like leeting go, my idea is to convince dad however I freaking can to dring 25 or 18 ppm DDW like mad, get him on blueblockers and installing a ton of DE filters or whole house filter, and hope for the miracle. It s crazy that I find difficult compliance from my dad to drink DDW which has safe profile when he´ll be dead soon, but he took the vaccine, experimental, for a 99,8 survival rate thing, it´s crazy
+> Just send a message to [[email redacted]](mailto:[email redacted]) , to try to get a consult with Jack if I can afford. I don´t like leeting go, my idea is to convince dad however I freaking can to dring 25 or 18 ppm DDW like mad, get him on blueblockers and installing a ton of DE filters or whole house filter, and hope for the miracle. It s crazy that I find difficult compliance from my dad to drink DDW which has safe profile when he´ll be dead soon, but he took the vaccine, experimental, for a 99,8 survival rate thing, it´s crazy
 
 I'm so sorry Pablo ... My father died of stomach cancer 20 years ago, when there wasn't the same technology, but I watched my mother's agony when he was first diagnosed that it was somehow her fault because of what she had cooked for him to eat, the very occasional use of a microwave .... but although he had given up years before, he had been a pipe smoker thinking it was safer than cigarettes, had numerous vaccinations in the army, drank alcohol daily .... He had surgery not chemo, but when it was done I think at some level he knew (as I did) that his life was measured in months, not years, because there were already signs in nodes outside of the stomach, which eventually went to the liver. Back then without the internet the only info readily available was books in the health food shop on anti cancer diets. Despite having his stomach removed, he let my mother put him on an anti cancer diet, which made her feel she was doing something, when in hindsight it would probably have been better to think in terms of quality of life being able to eat what he fancied.
 
@@ -25439,7 +25439,7 @@ Sending you love Pablo. xx
 >
 > It´s sad not being able to save even my dad. I´m not sure what % this was caused by the covid jab, nnEMF from his tablet over his organs, blue light, too much carbs, etc. But pretty sure these all are big culprits-
 >
-> Just send a message to [support@jackkruse.com](mailto:support@jackkruse.com) , to try to get a consult with Jack if I can afford. I don´t like leeting go, my idea is to convince dad however I freaking can to dring 25 or 18 ppm DDW like mad, get him on blueblockers and installing a ton of DE filters or whole house filter, and hope for the miracle. It s crazy that I find difficult compliance from my dad to drink DDW which has safe profile when he´ll be dead soon, but he took the vaccine, experimental, for a 99,8 survival rate thing, it´s crazy
+> Just send a message to [[email redacted]](mailto:[email redacted]) , to try to get a consult with Jack if I can afford. I don´t like leeting go, my idea is to convince dad however I freaking can to dring 25 or 18 ppm DDW like mad, get him on blueblockers and installing a ton of DE filters or whole house filter, and hope for the miracle. It s crazy that I find difficult compliance from my dad to drink DDW which has safe profile when he´ll be dead soon, but he took the vaccine, experimental, for a 99,8 survival rate thing, it´s crazy
 
 I am so sorry Pablo. It is very tough to accept that loved one do not want to hear about or try what could help. But it is their life
 and their choice. Maybe this prayer might help you: God grant me the serenity to accept the things I cannot change, The courage to change
@@ -35178,7 +35178,7 @@ Hi everyone! New member from Iowa, I'm a veterinarian turned primal health coach
 >
 > Hi everyone! New member from Iowa, I'm a veterinarian turned primal health coach. I signed up for a gold membership but even after emailing the team, I haven't been invited to the private Facebook group. Anyone know who else I can try to contact?
 
-Hello - we have resent the invite for the Gold Klub Facebook group. Please check your Facebook notifications for this invite. If you still do not receive it, please contact [support@jackkruse.com](mailto:support@jackkruse.com) for further assistance.
+Hello - we have resent the invite for the Gold Klub Facebook group. Please check your Facebook notifications for this invite. If you still do not receive it, please contact [[email redacted]](mailto:[email redacted]) for further assistance.
 
 Thank you,
 Team Kruse
@@ -40076,7 +40076,7 @@ DTS
 Give your Mom 12 pills/day
 It comes from Japan, takes rather long time to come.
 One box =240 pills, good for 20 days. Order 5 or 10 boxes at the time.
-contact us by email (support@kyotsujigyo.net) or WhatsApp (+852 9457 6272).
+contact us by email ([email redacted]) or WhatsApp (+852 9457 6272).
 [https://kyotsujigyo.net/](https://kyotsujigyo.net/)
 
 About kidneys
@@ -42897,7 +42897,7 @@ In terms of UV light, UVB rays (290-320 nm) are responsible for the production o
 **
 Per information contained in QE #27 possibly above sentence may need some reworking?
 
-FEBRUARY 24, 2023 BY [INFO@KRUSEATDESTIN.COM](mailto:INFO@KRUSEATDESTIN.COM)
+FEBRUARY 24, 2023 BY [[email redacted]](mailto:[email redacted])
 QUANTUM ENGINEERING #27: WHY IS SUNSCREEN AND SUNGLASSES HARMFUL?
 
 **

@@ -4220,7 +4220,7 @@ what else?
 
 [@Josie Thomson](https://forum.jackkruse.com/members/25331/) - Trust your intuition. You found Dr. [@Jack Kruse](https://forum.jackkruse.com/members/1031/)'s forum for a reason. We desire the best for you, Peter & son.
 If you have enough money to give it a go (as [@JanSz](https://forum.jackkruse.com/members/933/) says - _Inside the 20's but no more than 5 miles from an Emergency Room and Good Hospital_)
-We encourage you to send an email to [support@jackkruse.com](mailto:support@jackkruse.com.)
+We encourage you to send an email to [[email redacted]](mailto:support@jackkruse.com.)
 Ask if there are contacts, recommended locations, perhaps a consult with Dr. [@Jack Kruse](https://forum.jackkruse.com/members/1031/).
 You could consider it as another retreat just to see how changing your environment could help.
 
@@ -4315,7 +4315,7 @@ I see! Thank you [@JanSz](https://forum.jackkruse.com/members/933/)
 >
 > [@Josie Thomson](https://forum.jackkruse.com/members/25331/) - Trust your intuition. You found Dr. [@Jack Kruse](https://forum.jackkruse.com/members/1031/)'s forum for a reason. We desire the best for you, Peter & son.
 > If you have enough money to give it a go (as [@JanSz](https://forum.jackkruse.com/members/933/) says - _Inside the 20's but no more than 5 miles from an Emergency Room and Good Hospital_)
-> We encourage you to send an email to [support@jackkruse.com](mailto:support@jackkruse.com.)
+> We encourage you to send an email to [[email redacted]](mailto:support@jackkruse.com.)
 > Ask if there are contacts, recommended locations, perhaps a consult with Dr. [@Jack Kruse](https://forum.jackkruse.com/members/1031/).
 > You could consider it as another retreat just to see how changing your environment could help.
 >
@@ -20893,7 +20893,7 @@ what is your email you signed up with and what is your FB name? Send it by PM he
 ### Dave Robinson — 2021-01-03T17:05:18+0200
 **Source:** <https://forum.jackkruse.com/threads/fb-private-group.25428/post-294300>
 
-My email is [robinsondavid950@gmail.com](mailto:robinsondavid950@gmail.com) My FB name is Dave Robinson, my profile doesn't have any pictures or friends because I just created an FB account only to be part of this group. Heres the link [https://www.facebook.com/profile.php?id=100060230086506](https://www.facebook.com/profile.php?id=100060230086506)
+My email is [[email redacted]](mailto:[email redacted]) My FB name is Dave Robinson, my profile doesn't have any pictures or friends because I just created an FB account only to be part of this group. Heres the link [https://www.facebook.com/profile.php?id=100060230086506](https://www.facebook.com/profile.php?id=100060230086506)
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -27133,7 +27133,7 @@ Because it is _**so stimulating**_ specifically for _improving cognitive brain f
 
 Hi all, I am selling 2 x magnetico pads for single beds as well as 1 x King bed magnetico pad(s). I am in Alberta, Canada, but could ship if someone is interested and willing to pay for shipping (obviously this would not be cheap as they are very heavy).
 The singles I'm selling for $700 CDN each (retail for approx $1275 CDN each) and the king for $1300 (retails for approx $2540 CDN).
-email me if interested: [brettbinette@gmail.com](mailto:brettbinette@gmail.com)
+email me if interested: [[email redacted]](mailto:[email redacted])
 
 
 ══════════════════════════════════════════════════════════════════════

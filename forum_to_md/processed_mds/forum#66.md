@@ -7036,7 +7036,7 @@ I'm in Sydney and I just bought a new Sperti - the Fiji sun lamp, and I no longe
 ### Tara.P — 2020-01-30T07:24:25+0200
 **Source:** <https://forum.jackkruse.com/threads/gold-or-titanium-membership.24634/post-285361>
 
-Hi! I am ready to get a gold membership but have a question first. I already emailed [info@jackkruse.com](mailto:info@jackkruse.com) and the "contact us" through the forum over a week ago but haven't received a response yet.
+Hi! I am ready to get a gold membership but have a question first. I already emailed [[email redacted]](mailto:[email redacted]) and the "contact us" through the forum over a week ago but haven't received a response yet.
 I see Titanium membership is the same as gold except there is "family access". Can anyone tell me who that would include? My mom lives with us and she also wants a membership here. Would she be included as a family member, or would it only be my husband and kids?
 Also, is being a patient at the farm still an option?
 Eager to get started! Thank you!
@@ -7068,7 +7068,7 @@ Yes, I thought about that - it being the weekend and all. I'll wait another day 
 ### Support — 2020-02-05T17:55:45+0200
 **Source:** <https://forum.jackkruse.com/threads/gold-or-titanium-membership.24634/post-285663>
 
-[@Tara.P](https://forum.jackkruse.com/members/22363/) you will receive an email from [info@jackkruse.com](mailto:info@jackkruse.com) in the next hour to help with your account.
+[@Tara.P](https://forum.jackkruse.com/members/22363/) you will receive an email from [[email redacted]](mailto:[email redacted]) in the next hour to help with your account.
 
 Team Kruse
 
@@ -7681,7 +7681,7 @@ Good advice.
 [@Jack Kruse](https://forum.jackkruse.com/members/1031/) is doing consults.
 Book at least one of them.
 Start asking questions on how to arrange your consultation with Jack by emailing to
-[support@jackkruse.com](mailto:support@jackkruse.com)
+[[email redacted]](mailto:[email redacted])
 ..................
 Eventually, as you are progressing in your recovery, you may want to visit him on his farm in New Orleans Louisiana USA or condo in Destin Florida USA.
 
@@ -10521,7 +10521,7 @@ It is time for us to get a new mattress, but a purely foam mattress is not our p
 ### ElectricUniverse — 2020-02-10T00:26:54+0200
 **Source:** <https://forum.jackkruse.com/threads/mattress-in-shielded-bedroom.24666/post-285805>
 
-> [gene@kalmens.org said:](/goto/post?id=285803)
+> [[email redacted] said:](/goto/post?id=285803)
 >
 > Last month, I had Brian Hoier's company Shielded Healing make EMF assessment of my house. I had already listened to a very detailed podcast by Ben Greenfeld about such assessment of his house, and it went exactly as I expected.
 >
@@ -10545,7 +10545,7 @@ Thank you, [@ElectricUniverse](https://forum.jackkruse.com/members/21203/)! We w
 ### ElectricUniverse — 2020-02-12T18:06:06+0200
 **Source:** <https://forum.jackkruse.com/threads/mattress-in-shielded-bedroom.24666/post-285944>
 
-> [gene@kalmens.org said:](/goto/post?id=285863)
+> [[email redacted] said:](/goto/post?id=285863)
 >
 > Thank you, [@ElectricUniverse](https://forum.jackkruse.com/members/21203/)! We will continue to look for a metal-free mattress.
 
@@ -14091,7 +14091,7 @@ Many thanks
 
 [https://jackkruse.com/faqs/](https://jackkruse.com/faqs/)
 
-please email our support team at [support@jackkruse.com](mailto:support@jackkruse.com)
+please email our support team at [[email redacted]](mailto:[email redacted])
 
 [@Jack Kruse](https://forum.jackkruse.com/members/1031/)
 
@@ -14102,7 +14102,7 @@ please email our support team at [support@jackkruse.com](mailto:support@jackkrus
 >
 > [https://jackkruse.com/faqs/](https://jackkruse.com/faqs/)
 >
-> please email our support team at [support@jackkruse.com](mailto:support@jackkruse.com)
+> please email our support team at [[email redacted]](mailto:[email redacted])
 >
 > [@Jack Kruse](https://forum.jackkruse.com/members/1031/)
 
@@ -19413,7 +19413,7 @@ yes, i mean my credit card used to pay for the upgrade.
 
 I had reached out to "Contact Us" at the bottom of the forum screen two weeks ago.
 
-I also sent an email two weeks ago to the "[info@jackkruse.com](mailto:info@jackkruse.com)" in the "contact us" section on jackkruse.com
+I also sent an email two weeks ago to the "[[email redacted]](mailto:[email redacted])" in the "contact us" section on jackkruse.com
 
 I will try again.
 
@@ -31061,7 +31061,7 @@ The novel coronavirus has spread to 163 countries, causing lockdowns and forcing
 
 **Fragile** by Sting)
 
-\[img webkitattachmentid="8176e6a7-60a8-49d0-858f-af59f77798ab" title="Inline image" alt="Inline image" src="blob:[https://forum.jackkruse.com/9d5041eb-fb69-4f04-beeb-57c8304f4365](https://forum.jackkruse.com/9d5041eb-fb69-4f04-beeb-57c8304f4365)" class="ydp6af5ea9ayahoo-inline-image x-apple-edge-to-edge" data-id="" id="[a7c83ce4-69bc-14d9-d835-ef5397958a29@yahoo.com](mailto:a7c83ce4-69bc-14d9-d835-ef5397958a29@yahoo.com)" \_mf\_state="1" >
+\[img webkitattachmentid="8176e6a7-60a8-49d0-858f-af59f77798ab" title="Inline image" alt="Inline image" src="blob:[https://forum.jackkruse.com/9d5041eb-fb69-4f04-beeb-57c8304f4365](https://forum.jackkruse.com/9d5041eb-fb69-4f04-beeb-57c8304f4365)" class="ydp6af5ea9ayahoo-inline-image x-apple-edge-to-edge" data-id="" id="[[email redacted]](mailto:[email redacted])" \_mf\_state="1" >
 
 ### JanSz — 2020-03-21T14:18:33+0200
 **Source:** <https://forum.jackkruse.com/threads/post-by-er-doctor-about-coronavirus.24814/post-287775>
@@ -31964,7 +31964,7 @@ Dr. Kruse, if you eventually do a Clubhouse group for or/with doctors, I would l
 Respectfully,
 
 Dr. Marcus Ettinger
-[info@advancedhealing.com](mailto:info@advancedhealing.com)
+[[email redacted]](mailto:[email redacted])
 Orange, CA
 33° N
 
@@ -41841,7 +41841,7 @@ Hi Michael ........it sounds like you have complex issues. Are you going to do a
 
 Yes.
 
-I was told to email [info@jackkruse.com](mailto:info@jackkruse.com) to book a consult.
+I was told to email [[email redacted]](mailto:[email redacted]) to book a consult.
 
 Does that sound like the best way of going about it?
 

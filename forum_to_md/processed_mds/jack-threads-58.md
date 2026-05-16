@@ -3474,7 +3474,7 @@ I think what burns the most for me is not the cancer or my dad´s dying itself, 
 
 It´s sad not being able to save even my dad. I´m not sure what % this was caused by the covid jab, nnEMF from his tablet over his organs, blue light, too much carbs, etc. But pretty sure these all are big culprits-
 
-Just send a message to [support@jackkruse.com](mailto:support@jackkruse.com) , to try to get a consult with Jack if I can afford. I don´t like leeting go, my idea is to convince dad however I freaking can to dring 25 or 18 ppm DDW like mad, get him on blueblockers and installing a ton of DE filters or whole house filter, and hope for the miracle. It s crazy that I find difficult compliance from my dad to drink DDW which has safe profile when he´ll be dead soon, but he took the vaccine, experimental, for a 99,8 survival rate thing, it´s crazy
+Just send a message to [[email redacted]](mailto:[email redacted]) , to try to get a consult with Jack if I can afford. I don´t like leeting go, my idea is to convince dad however I freaking can to dring 25 or 18 ppm DDW like mad, get him on blueblockers and installing a ton of DE filters or whole house filter, and hope for the miracle. It s crazy that I find difficult compliance from my dad to drink DDW which has safe profile when he´ll be dead soon, but he took the vaccine, experimental, for a 99,8 survival rate thing, it´s crazy
 
 ### caroline — 2022-11-26T17:33:00+0200
 **Source:** <https://forum.jackkruse.com/threads/my-dad-has-malignant-pancreatic-cancer-i%C2%B4d-appreciate-suggestions-to-safe-his-life-if-not-too-late.27066/post-317878>
@@ -3494,7 +3494,7 @@ so sorry Pablo........
 >
 > It´s sad not being able to save even my dad. I´m not sure what % this was caused by the covid jab, nnEMF from his tablet over his organs, blue light, too much carbs, etc. But pretty sure these all are big culprits-
 >
-> Just send a message to [support@jackkruse.com](mailto:support@jackkruse.com) , to try to get a consult with Jack if I can afford. I don´t like leeting go, my idea is to convince dad however I freaking can to dring 25 or 18 ppm DDW like mad, get him on blueblockers and installing a ton of DE filters or whole house filter, and hope for the miracle. It s crazy that I find difficult compliance from my dad to drink DDW which has safe profile when he´ll be dead soon, but he took the vaccine, experimental, for a 99,8 survival rate thing, it´s crazy
+> Just send a message to [[email redacted]](mailto:[email redacted]) , to try to get a consult with Jack if I can afford. I don´t like leeting go, my idea is to convince dad however I freaking can to dring 25 or 18 ppm DDW like mad, get him on blueblockers and installing a ton of DE filters or whole house filter, and hope for the miracle. It s crazy that I find difficult compliance from my dad to drink DDW which has safe profile when he´ll be dead soon, but he took the vaccine, experimental, for a 99,8 survival rate thing, it´s crazy
 
 [@Pablo](https://forum.jackkruse.com/members/21859/) - You are not alone. Our collective heart on this forum hurt deeply with you.
 
@@ -3521,7 +3521,7 @@ Grandpa John
 >
 > It´s sad not being able to save even my dad. I´m not sure what % this was caused by the covid jab, nnEMF from his tablet over his organs, blue light, too much carbs, etc. But pretty sure these all are big culprits-
 >
-> Just send a message to [support@jackkruse.com](mailto:support@jackkruse.com) , to try to get a consult with Jack if I can afford. I don´t like leeting go, my idea is to convince dad however I freaking can to dring 25 or 18 ppm DDW like mad, get him on blueblockers and installing a ton of DE filters or whole house filter, and hope for the miracle. It s crazy that I find difficult compliance from my dad to drink DDW which has safe profile when he´ll be dead soon, but he took the vaccine, experimental, for a 99,8 survival rate thing, it´s crazy
+> Just send a message to [[email redacted]](mailto:[email redacted]) , to try to get a consult with Jack if I can afford. I don´t like leeting go, my idea is to convince dad however I freaking can to dring 25 or 18 ppm DDW like mad, get him on blueblockers and installing a ton of DE filters or whole house filter, and hope for the miracle. It s crazy that I find difficult compliance from my dad to drink DDW which has safe profile when he´ll be dead soon, but he took the vaccine, experimental, for a 99,8 survival rate thing, it´s crazy
 
 I'm so sorry Pablo ... My father died of stomach cancer 20 years ago, when there wasn't the same technology, but I watched my mother's agony when he was first diagnosed that it was somehow her fault because of what she had cooked for him to eat, the very occasional use of a microwave .... but although he had given up years before, he had been a pipe smoker thinking it was safer than cigarettes, had numerous vaccinations in the army, drank alcohol daily .... He had surgery not chemo, but when it was done I think at some level he knew (as I did) that his life was measured in months, not years, because there were already signs in nodes outside of the stomach, which eventually went to the liver. Back then without the internet the only info readily available was books in the health food shop on anti cancer diets. Despite having his stomach removed, he let my mother put him on an anti cancer diet, which made her feel she was doing something, when in hindsight it would probably have been better to think in terms of quality of life being able to eat what he fancied.
 
@@ -3568,7 +3568,7 @@ Sending you love Pablo. xx
 >
 > It´s sad not being able to save even my dad. I´m not sure what % this was caused by the covid jab, nnEMF from his tablet over his organs, blue light, too much carbs, etc. But pretty sure these all are big culprits-
 >
-> Just send a message to [support@jackkruse.com](mailto:support@jackkruse.com) , to try to get a consult with Jack if I can afford. I don´t like leeting go, my idea is to convince dad however I freaking can to dring 25 or 18 ppm DDW like mad, get him on blueblockers and installing a ton of DE filters or whole house filter, and hope for the miracle. It s crazy that I find difficult compliance from my dad to drink DDW which has safe profile when he´ll be dead soon, but he took the vaccine, experimental, for a 99,8 survival rate thing, it´s crazy
+> Just send a message to [[email redacted]](mailto:[email redacted]) , to try to get a consult with Jack if I can afford. I don´t like leeting go, my idea is to convince dad however I freaking can to dring 25 or 18 ppm DDW like mad, get him on blueblockers and installing a ton of DE filters or whole house filter, and hope for the miracle. It s crazy that I find difficult compliance from my dad to drink DDW which has safe profile when he´ll be dead soon, but he took the vaccine, experimental, for a 99,8 survival rate thing, it´s crazy
 
 I am so sorry Pablo. It is very tough to accept that loved one do not want to hear about or try what could help. But it is their life
 and their choice. Maybe this prayer might help you: God grant me the serenity to accept the things I cannot change, The courage to change
@@ -15538,7 +15538,7 @@ In terms of UV light, UVB rays (290-320 nm) are responsible for the production o
 **
 Per information contained in QE #27 possibly above sentence may need some reworking?
 
-FEBRUARY 24, 2023 BY [INFO@KRUSEATDESTIN.COM](mailto:INFO@KRUSEATDESTIN.COM)
+FEBRUARY 24, 2023 BY [[email redacted]](mailto:[email redacted])
 QUANTUM ENGINEERING #27: WHY IS SUNSCREEN AND SUNGLASSES HARMFUL?
 
 **
@@ -21841,7 +21841,7 @@ See below the input file for my avatar.
 >
 > I could use some guidance. I uploaded an avatar right after creating an account. I then changed it a little while back. Apparentenly neither shows up. Is it a size/compression thing? If so, what are the guidlines?
 
-Can you send us the picture to [info@kruseatdestin.com](mailto:info@kruseatdestin.com) so that we can test on our end?
+Can you send us the picture to [[email redacted]](mailto:[email redacted]) so that we can test on our end?
 
 Thank you!
 
@@ -24871,7 +24871,7 @@ I look forward to the opportunities to be of assistance to you all. Please don't
 Shane
 [www.optimaldwellingspaces.com](http://www.optimaldwellingspaces.com)
 971.204.8956
-[help@optimaldwellingspaces.com](mailto:help@optimaldwellingspaces.com)
+[[email redacted]](mailto:[email redacted])
 
 ### Ryan Carter — 2023-04-21T23:07:22+0300
 **Source:** <https://forum.jackkruse.com/threads/building-biology-emf-consultant-resource.27587/post-320645>

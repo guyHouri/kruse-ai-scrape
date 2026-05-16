@@ -8507,9 +8507,9 @@ personally, I type it in some other place (where I am able to see complete quest
 then copy/paste.
 
 When all above fails, try support.
-[kruse@kruseatdestin.com](mailto:kruse@kruseatdestin.com)
-[support@jackkruse.com](mailto:support@jackkruse.com)
-[info@kruseatdestin.com](mailto:info@kruseatdestin.com)
+[[email redacted]](mailto:[email redacted])
+[[email redacted]](mailto:[email redacted])
+[[email redacted]](mailto:[email redacted])
 
 ///////////////
 
@@ -8598,14 +8598,14 @@ So far, 83 homes are planned to be built under the supervision of a Certified Bu
 Accommodations near the beach have been recently mitigated to be safe and comfortable (low EMF) for investors interested in visiting ISLA.
 As of January 1, 2024, Starlink is not allowed to operate in Nicaraguan air space.
 For more information, contact Karen Rich at
-[WiredEcoCommunityInfo@protonmail.com](mailto:WiredEcoCommunityInfo@protonmail.com).
+[[email redacted]](mailto:[email redacted]).
 Arthur Firstenberg
 President, Cellular Phone Task Force
 Author, _The Invisible Rainbow: A History of Electricity and Life_
 P.O. Box 6216
 Santa Fe, NM 87502
 USA
-[arthur@cellphonetaskforce.org](mailto:arthur@cellphonetaskforce.org)
+[[email redacted]](mailto:[email redacted])
 +1 505-471-0129
 May 28, 2024
 _Subscribe **to my newsletters.**
@@ -17013,7 +17013,7 @@ So I looked it up and it is for $25.00 patreon members. Now as I read the first 
 So now would someone like to share with me thru my email the complete “THE MELANIN RENOVATION RX FOR MAMMALS” post that Dr Jack wrote?
 Yes, I’m NOT asking you to do something that you feel is wrong. WhIch is why I wrote the title of this post as such. Thank you either way
 And please Dr Jack forgive me
-Email: [uswebers12@yahoo.com](mailto:uswebers12@yahoo.com)
+Email: [[email redacted]](mailto:[email redacted])
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -24231,7 +24231,7 @@ But basically, what Jack said. All RF is bad.
 >
 > All RF is bad
 
-I can't log into my account for optimal klub with the email [dr.george@neurowellnessinstitute.com](mailto:dr.george@neurowellnessinstitute.com) I have paid for the last 2 months plus purchase Kruse for dummies and the synopsis of Danny Jones and have no access to my platinum membership. Not sure what else to do...I keep getting the error message every time I reply to you and have send messages for the last 10 days through email as well. Can you help...here is the error message
+I can't log into my account for optimal klub with the email [[email redacted]](mailto:[email redacted]) I have paid for the last 2 months plus purchase Kruse for dummies and the synopsis of Danny Jones and have no access to my platinum membership. Not sure what else to do...I keep getting the error message every time I reply to you and have send messages for the last 10 days through email as well. Can you help...here is the error message
 "Your content can not be submitted. This is likely because your content is spam-like or contains inappropriate elements. Please change your content or try again later. If you still have problems, please contact an administrator."
 
 ### rtd — 2024-12-03T20:19:39+0200
@@ -29715,7 +29715,7 @@ Your Vit D is not high (assuming you are referencing SI Units) i.e. nmol/L the s
 ### ryantiefen — 2025-01-20T17:23:18+0200
 **Source:** <https://forum.jackkruse.com/threads/membership-support.30139/post-345467>
 
-A friend of mine signed up for a Gold membership last week and hasn't been able to access the forums. She's been reaching out to support ([info@kruseatdestin.com](mailto:info@kruseatdestin.com) and [support@jackkruse.com](mailto:support@jackkruse.com)) for the last week plus without response. Her email is [eileenduane23@gmail.com](mailto:eileenduane23@gmail.com) - Can someone please assist? I'm thinking it may be the fact that she's using a gmail account, but she's tried reaching out via her protonmail account as well to no avail.
+A friend of mine signed up for a Gold membership last week and hasn't been able to access the forums. She's been reaching out to support ([[email redacted]](mailto:[email redacted]) and [[email redacted]](mailto:[email redacted])) for the last week plus without response. Her email is [[email redacted]](mailto:[email redacted]) - Can someone please assist? I'm thinking it may be the fact that she's using a gmail account, but she's tried reaching out via her protonmail account as well to no avail.
 
 ### Support — 2025-01-20T19:10:42+0200
 **Source:** <https://forum.jackkruse.com/threads/membership-support.30139/post-345471>
@@ -29727,14 +29727,14 @@ Thank you - Team Kruse
 ### Support — 2025-01-20T19:14:04+0200
 **Source:** <https://forum.jackkruse.com/threads/membership-support.30139/post-345472>
 
-The team researched and there is no forum account under [eileenduane23@gmail.com](mailto:eileenduane23@gmail.com). We have emailed her to get this cleared up. Perhaps there is a misspelling in her registration, but there has been no account registered which would make sense why she cannot obtain access.
+The team researched and there is no forum account under [[email redacted]](mailto:[email redacted]). We have emailed her to get this cleared up. Perhaps there is a misspelling in her registration, but there has been no account registered which would make sense why she cannot obtain access.
 
 ### Pratima — 2025-01-20T20:13:27+0200
 **Source:** <https://forum.jackkruse.com/threads/membership-support.30139/post-345476>
 
 > [ryantiefen said:](/goto/post?id=345467)
 >
-> A friend of mine signed up for a Gold membership last week and hasn't been able to access the forums. She's been reaching out to support ([info@kruseatdestin.com](mailto:info@kruseatdestin.com) and [support@jackkruse.com](mailto:support@jackkruse.com)) for the last week plus without response. Her email is [eileenduane23@gmail.com](mailto:eileenduane23@gmail.com) - Can someone please assist? I'm thinking it may be the fact that she's using a gmail account, but she's tried reaching out via her protonmail account as well to no avail.
+> A friend of mine signed up for a Gold membership last week and hasn't been able to access the forums. She's been reaching out to support ([[email redacted]](mailto:[email redacted]) and [[email redacted]](mailto:[email redacted])) for the last week plus without response. Her email is [[email redacted]](mailto:[email redacted]) - Can someone please assist? I'm thinking it may be the fact that she's using a gmail account, but she's tried reaching out via her protonmail account as well to no avail.
 
 The forum is a different reg than optimal klubs.......I just learned this from changing my email with optimal klubs, but then thought I could not access the forums, but under my old email I can still access.
 
@@ -29758,7 +29758,7 @@ On March 10th I paid $100 for a Platinum membership and requested my real name b
 
 Are you not able to update your name on your profile directly? You should be able to access your profile settings and update there.
 
-Your membership request was taken care of on April 18 and adjusted accordingly. Our team sent an email to this effect. Please review and reply directly to that email from [info@kruseatdestin.com](mailto:info@kruseatdestin.com).
+Your membership request was taken care of on April 18 and adjusted accordingly. Our team sent an email to this effect. Please review and reply directly to that email from [[email redacted]](mailto:[email redacted]).
 
 Best,
 Team Kruse
@@ -30496,7 +30496,7 @@ It depends on your Klub level. I'm just a Patreon member and the only emails I g
 >
 > I don’t get emails or access to Facebook. Who can I contact please to assist me?
 
-[Info@jackkruse.com](mailto:Info@jackkruse.com) I believe. But try both
+[[email redacted]](mailto:[email redacted]) I believe. But try both
 
 ### rtd — 2025-01-28T22:32:26+0200
 **Source:** <https://forum.jackkruse.com/threads/dr-jack-kruses-q-as.30174/post-345922>
@@ -35650,7 +35650,7 @@ Hello everyone. In the last 2 weeks i stayed in El Salvador and thought i would 
 If anyone wants to reach out I'd be glad to help
 Guy
 +972544312639
-[guy.houri2024@gmail.con](mailto:guy.houri2024@gmail.con)
+[[email redacted]](mailto:[email redacted])
 
 ## What to do?​
 
@@ -35785,7 +35785,7 @@ Until next time !
 > If anyone wants to reach out I'd be glad to help
 > Guy
 > +972544312639
-> [guy.houri2024@gmail.con](mailto:guy.houri2024@gmail.con)
+> [[email redacted]](mailto:[email redacted])
 >
 >
 > ## What to do?​
@@ -35957,7 +35957,7 @@ One thing I would add is if you are going to ES to heal and recover, stay away f
 > If anyone wants to reach out I'd be glad to help
 > Guy
 > +972544312639
-> [guy.houri2024@gmail.con](mailto:guy.houri2024@gmail.con)
+> [[email redacted]](mailto:[email redacted])
 >
 >
 > ## What to do?​
@@ -36132,7 +36132,7 @@ The super selectos grocery store takes bitcoin also.
 > If anyone wants to reach out I'd be glad to help
 > Guy
 > +972544312639
-> [guy.houri2024@gmail.con](mailto:guy.houri2024@gmail.con)
+> [[email redacted]](mailto:[email redacted])
 >
 >
 > ## What to do?​
@@ -36297,7 +36297,7 @@ This is a wonderful description to share with everyone!! Hope lots are looking a
 > If anyone wants to reach out I'd be glad to help
 > Guy
 > +972544312639
-> [guy.houri2024@gmail.con](mailto:guy.houri2024@gmail.con)
+> [[email redacted]](mailto:[email redacted])
 >
 >
 > ## What to do?​
@@ -36462,7 +36462,7 @@ This is super super useful Guy, thank you
 > If anyone wants to reach out I'd be glad to help
 > Guy
 > +972544312639
-> [guy.houri2024@gmail.con](mailto:guy.houri2024@gmail.con)
+> [[email redacted]](mailto:[email redacted])
 >
 >
 > ## What to do?​
@@ -36642,7 +36642,7 @@ You missed the Bitcoin Farmer's Market!... another great MIto location you misse
 > If anyone wants to reach out I'd be glad to help
 > Guy
 > +972544312639
-> [guy.houri2024@gmail.con](mailto:guy.houri2024@gmail.con)
+> [[email redacted]](mailto:[email redacted])
 >
 >
 > ## What to do?​
@@ -36817,7 +36817,7 @@ I added the farmers market to the post, thanks.
 > If anyone wants to reach out I'd be glad to help
 > Guy
 > +972544312639
-> [guy.houri2024@gmail.con](mailto:guy.houri2024@gmail.con)
+> [[email redacted]](mailto:[email redacted])
 >
 >
 > ## What to do?​
@@ -37182,7 +37182,7 @@ Planning a trip with the family in November for 3-4 weeks. I really appreciate y
 >
 > All prices subject to change with dollar printing etc ,I will of course accept bitcoin and give slight discount for that
 
-I will be in ES on. Dec 6 - Jan 27. Am alone, Looking for a place a room in a house. Do your have one? [girafferide@gmail.com](mailto:girafferide@gmail.com). thanks Jack Lehman
+I will be in ES on. Dec 6 - Jan 27. Am alone, Looking for a place a room in a house. Do your have one? [[email redacted]](mailto:[email redacted]). thanks Jack Lehman
 
 ### Justin Goldberg — 2026-03-27T07:48:55+0200
 **Source:** <https://forum.jackkruse.com/threads/el-salvador-travel-journal.30874/post-369735>
@@ -37198,7 +37198,7 @@ I will be in ES on. Dec 6 - Jan 27. Am alone, Looking for a place a room in a ho
 > If anyone wants to reach out I'd be glad to help
 > Guy
 > +972544312639
-> [guy.houri2024@gmail.con](mailto:guy.houri2024@gmail.con)
+> [[email redacted]](mailto:[email redacted])
 >
 >
 > ## What to do?​
@@ -38240,7 +38240,7 @@ Lee Sagula, BBEC, EMRS
 EMF Professional Solutions
 West Brandywine, PA
 [EMFprofessional.com](http://www.emfprofessional.com/)
-[EMFprofessional@gmail.com](mailto:EMFprofessional@gmail.com)
+[[email redacted]](mailto:[email redacted])
 (610) 453-3736
 
 ### Jana C — 2025-05-20T01:09:59+0300
@@ -38253,7 +38253,7 @@ West Brandywine, PA
 > EMF Professional Solutions
 > West Brandywine, PA
 > [EMFprofessional.com](http://www.emfprofessional.com/)
-> [EMFprofessional@gmail.com](mailto:EMFprofessional@gmail.com)
+> [[email redacted]](mailto:[email redacted])
 > (610) 453-3736
 
 If I utilize her, I certainly will. Folks have been kind and providing me with information. So right now, I have about three different people to interview. Many thanks!
@@ -45276,7 +45276,7 @@ God no, it's not finished by a long shot! Iron doesn't stop accumulating in the 
 
 Hello,
 
-Could you please clarify the typical response time for customer support? I’ve emailed both **[info@kruseatdestin.com](mailto:info@kruseatdestin.com)** and **[support@jackkruse.com](mailto:support@jackkruse.com)** three times since June 30. Each time, I received confirmation that the messages were delivered, but I haven’t received any replies.
+Could you please clarify the typical response time for customer support? I’ve emailed both **[[email redacted]](mailto:[email redacted])** and **[[email redacted]](mailto:[email redacted])** three times since June 30. Each time, I received confirmation that the messages were delivered, but I haven’t received any replies.
 
 I'm sending messages from ProtonMail, and I’ve checked my spam folders—nothing there. I’m hesitant to keep following up unnecessarily, but I’m also unsure how else to get assistance at this point. Repeating the same approach without a response is starting to feel a bit futile.
 
@@ -46182,7 +46182,7 @@ The patient's keto acid profile has not been interpreted as indicative of a meta
 ### Stacey — 2025-08-02T03:41:49+0300
 **Source:** <https://forum.jackkruse.com/threads/i-cannot-create-a-klub-membership.31419/post-357369>
 
-Hi, last Sunday I signed up to platinum membership, I received an invoice and money was taken from my account. I have emailed [support@jackkruse.com](mailto:support@jackkruse.com), I received a ticket but still no response so I'm writing here to try and get some help. I would really love to be a patron the Q and A's. Last year and early this year I was a Gold but cancelled as money was tight. Hoping to have platinum membership to support clients Nutrition consultations. Thanks
+Hi, last Sunday I signed up to platinum membership, I received an invoice and money was taken from my account. I have emailed [[email redacted]](mailto:[email redacted]), I received a ticket but still no response so I'm writing here to try and get some help. I would really love to be a patron the Q and A's. Last year and early this year I was a Gold but cancelled as money was tight. Hoping to have platinum membership to support clients Nutrition consultations. Thanks
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -47998,7 +47998,7 @@ To identify which vaccines in the USDA’s database are mRNA-based:
 
 1.  Visit the **APHIS Veterinary Biologics Product Summaries**: [APHIS Product Summaries](https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/product-summaries).
 2.  Search by manufacturer (e.g., Merck Animal Health for SEQUIVITY) or product code (e.g., 19A5.RC for swine influenza).
-3.  Check product descriptions or contact the CVB at [cvb@aphis.usda.gov](mailto:cvb@aphis.usda.gov) or (515) 337-6100 for clarification on whether a vaccine uses mRNA technology.
+3.  Check product descriptions or contact the CVB at [[email redacted]](mailto:[email redacted]) or (515) 337-6100 for clarification on whether a vaccine uses mRNA technology.
 4.  Review CVB notices (e.g., CVB Notice 24-11, 24-13) for updates on new or conditional licenses, especially for HPAI vaccines.
 
 ### Challenges​
@@ -48049,7 +48049,7 @@ To identify which vaccines in the USDA’s database are mRNA-based:
 >
 > 1.  Visit the **APHIS Veterinary Biologics Product Summaries**: [APHIS Product Summaries](https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/product-summaries).
 > 2.  Search by manufacturer (e.g., Merck Animal Health for SEQUIVITY) or product code (e.g., 19A5.RC for swine influenza).
-> 3.  Check product descriptions or contact the CVB at [cvb@aphis.usda.gov](mailto:cvb@aphis.usda.gov) or (515) 337-6100 for clarification on whether a vaccine uses mRNA technology.
+> 3.  Check product descriptions or contact the CVB at [[email redacted]](mailto:[email redacted]) or (515) 337-6100 for clarification on whether a vaccine uses mRNA technology.
 > 4.  Review CVB notices (e.g., CVB Notice 24-11, 24-13) for updates on new or conditional licenses, especially for HPAI vaccines.
 >
 > ### Challenges​

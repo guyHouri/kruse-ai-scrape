@@ -5474,7 +5474,7 @@ Dr. Kruse, if you eventually do a Clubhouse group for or/with doctors, I would l
 Respectfully,
 
 Dr. Marcus Ettinger
-[info@advancedhealing.com](mailto:info@advancedhealing.com)
+[[email redacted]](mailto:[email redacted])
 Orange, CA
 33° N\[/QUOTE\]
 
@@ -8145,7 +8145,7 @@ forbiddenhealth.com does not work
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 mentioned in the last minute of above talk:
-[consult@lvwg.org](mailto:consult@lvwg.org)
+[[email redacted]](mailto:[email redacted])
 
 personal doctor's attention can be had (free)
 but first donate to research
@@ -9515,7 +9515,7 @@ Dr. Angel Gracia, who has studied the positive effects of seawater ingestion in 
 
 Seawater provides energy transference in an environment in perfect equilibrium. We have seen white blood cells survive in an isotonic serum made from seawater, something that doesn’t happen in hospital sterile saline solution, which is composed of just water and refined sodium chloride (salt). That explains why cells need a balanced environment, with the right amount of each element, to work correctly. According to Dr. Angel Gracia: “In a way, **we are no more than a seawater container,** since blood, excretions, and secretions
 
-79 All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means without the prior permission of the copyright owner. Email: [info@andreaskalcker.com](mailto:info@andreaskalcker.com)
+79 All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means without the prior permission of the copyright owner. Email: [[email redacted]](mailto:[email redacted])
 
 (all our fluids) in both humans and animals, are saline.” That means that you are made up of approximately 70% isotonic seawater. That should serve to make us realize that, for health matters, **we shouldn’t search for the purity** of one substance or another, but balance among them all. Isolating and separating to treat different parts of the body independently can’t yield a long-term solution because balance and harmony among all these elements are what improve health. If there is a lack of harmony or imbalance among elements, the normal functioning of the whole body is hindered or even stopped, and we enter the state known as disease. Nature doesn’t chemically isolate any substance, so this practice can’t comply with any biological compatibility pattern. Even though seawater can contain elements considered harmful, these are only present in minimal quantities. To be honest, we don’t know how harmful or useful these substances might be, because as the adage goes: “the dose makes the poison.”
 
@@ -13110,7 +13110,7 @@ Soybeans are NOT good for the thyroid!
 
 I got this e-mail today. 9/13/2022 from
 
-BodyBio <help@bodybio.com>
+BodyBio <[email redacted]>
 
 BodyBio company of dr Patricia and Ed Kane (tons of good info)
 Ed passed, and they screwed Patricia, company now is much more into advertising sales.
@@ -13473,7 +13473,7 @@ Let's hope it lasts.
 **If someone has something that works, please share it.**
 
 \--------------------------------------------------------------------
-Kyotsujigyo Support Team <support@kyotsujigyo.net>
+Kyotsujigyo Support Team <[email redacted]>
 
 Kyotsujigyo Support
 
@@ -17219,7 +17219,7 @@ I have a suspicion that above maybe rather immaterial, since whatever I am doing
 
 I spoke with someone at the company who has worked there some time and her recommendation was to take on an empty stomach and not have anything for at least 45 minutes after.
 
-Her name is Debbie, her email is: [debbie@no2u.com](mailto:debbie@no2u.com)
+Her name is Debbie, her email is: [[email redacted]](mailto:[email redacted])
 You might give a call as well: Ph: 469.553.0520
 
 ### JanSz — 2023-09-23T19:59:51+0300
@@ -18787,7 +18787,7 @@ The link to the post I included contains information on the tests that I suggest
 **Source:** <https://forum.jackkruse.com/threads/post-finasteride-ed-problem.25249/post-292513>
 
 [@bugrahan](https://forum.jackkruse.com/members/25091/) -> You may want to put in a request for a consult with Jack ->
-[info@kruseatdestin.com](mailto:info@kruseatdestin.com)
+[[email redacted]](mailto:[email redacted])
 [https://kruseatdestin.com/1-hour-skype-consult-september-2020/](https://kruseatdestin.com/1-hour-skype-consult-september-2020/)
 
 In preparation for that consultation, may I suggest - A Patient History
@@ -21433,7 +21433,7 @@ cell phone 919-949-7667
 
 **From:** Jan
 **Sent:** Monday, November 9, 2020 10:15 AM
-**To:** EUROGATOR LLC-Innovative Science <innovative-science@eurogator.com>
+**To:** EUROGATOR LLC-Innovative Science <[email redacted]>
 **Subject:** Re: Keep boosting your immune system and detox your body with 25 ppm and 50 ppm Health DEUTERIUM DEPLETED WATER
 
 [https://forum.jackkruse.com/index.p...-you-buy-this-50ppm.20927/page-12#post-293269](https://forum.jackkruse.com/index.php?threads/how-to-make-ddw-do-you-buy-this-50ppm.20927/page-12#post-293269)
@@ -21543,7 +21543,7 @@ There's also a good chapter in the book about the Spanish Flu of 1918 and radio 
 >
 > **From:** Jan
 > **Sent:** Monday, November 9, 2020 10:15 AM
-> **To:** EUROGATOR LLC-Innovative Science <innovative-science@eurogator.com>
+> **To:** EUROGATOR LLC-Innovative Science <[email redacted]>
 > **Subject:** Re: Keep boosting your immune system and detox your body with 25 ppm and 50 ppm Health DEUTERIUM DEPLETED WATER
 >
 >
@@ -29457,7 +29457,7 @@ what else?
 
 [@Josie Thomson](https://forum.jackkruse.com/members/25331/) - Trust your intuition. You found Dr. [@Jack Kruse](https://forum.jackkruse.com/members/1031/)'s forum for a reason. We desire the best for you, Peter & son.
 If you have enough money to give it a go (as [@JanSz](https://forum.jackkruse.com/members/933/) says - _Inside the 20's but no more than 5 miles from an Emergency Room and Good Hospital_)
-We encourage you to send an email to [support@jackkruse.com](mailto:support@jackkruse.com.)
+We encourage you to send an email to [[email redacted]](mailto:support@jackkruse.com.)
 Ask if there are contacts, recommended locations, perhaps a consult with Dr. [@Jack Kruse](https://forum.jackkruse.com/members/1031/).
 You could consider it as another retreat just to see how changing your environment could help.
 
@@ -29552,7 +29552,7 @@ I see! Thank you [@JanSz](https://forum.jackkruse.com/members/933/)
 >
 > [@Josie Thomson](https://forum.jackkruse.com/members/25331/) - Trust your intuition. You found Dr. [@Jack Kruse](https://forum.jackkruse.com/members/1031/)'s forum for a reason. We desire the best for you, Peter & son.
 > If you have enough money to give it a go (as [@JanSz](https://forum.jackkruse.com/members/933/) says - _Inside the 20's but no more than 5 miles from an Emergency Room and Good Hospital_)
-> We encourage you to send an email to [support@jackkruse.com](mailto:support@jackkruse.com.)
+> We encourage you to send an email to [[email redacted]](mailto:support@jackkruse.com.)
 > Ask if there are contacts, recommended locations, perhaps a consult with Dr. [@Jack Kruse](https://forum.jackkruse.com/members/1031/).
 > You could consider it as another retreat just to see how changing your environment could help.
 >
@@ -43354,7 +43354,7 @@ what is your email you signed up with and what is your FB name? Send it by PM he
 ### Dave Robinson — 2021-01-03T17:05:18+0200
 **Source:** <https://forum.jackkruse.com/threads/fb-private-group.25428/post-294300>
 
-My email is [robinsondavid950@gmail.com](mailto:robinsondavid950@gmail.com) My FB name is Dave Robinson, my profile doesn't have any pictures or friends because I just created an FB account only to be part of this group. Heres the link [https://www.facebook.com/profile.php?id=100060230086506](https://www.facebook.com/profile.php?id=100060230086506)
+My email is [[email redacted]](mailto:[email redacted]) My FB name is Dave Robinson, my profile doesn't have any pictures or friends because I just created an FB account only to be part of this group. Heres the link [https://www.facebook.com/profile.php?id=100060230086506](https://www.facebook.com/profile.php?id=100060230086506)
 
 
 ══════════════════════════════════════════════════════════════════════

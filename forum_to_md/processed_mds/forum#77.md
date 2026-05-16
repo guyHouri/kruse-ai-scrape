@@ -14474,7 +14474,7 @@ Hi everyone,
 
 For those looking to come to El Salvador who are needing a place to stay, I have a mito-friendly housing arrangement available for rent with close proximity to the beach. Please feel free to contact me for more details:
 whatsapp: +16047911001
-email: [jacobmaud@icloud.com](mailto:jacobmaud@icloud.com).
+email: [[email redacted]](mailto:[email redacted]).
 
 Sending love and light,
 
@@ -14489,7 +14489,7 @@ Jacob
 >
 > For those looking to come to El Salvador who are needing a place to stay, I have a mito-friendly housing arrangement available for rent with close proximity to the beach. Please feel free to contact me for more details:
 > whatsapp: +16047911001
-> email: [jacobmaud@icloud.com](mailto:jacobmaud@icloud.com).
+> email: [[email redacted]](mailto:[email redacted]).
 >
 > Sending love and light,
 >
@@ -14506,7 +14506,7 @@ Jacob, I’ll message you on what’s app soon. Thanks!
 >
 > For those looking to come to El Salvador who are needing a place to stay, I have a mito-friendly housing arrangement available for rent with close proximity to the beach. Please feel free to contact me for more details:
 > whatsapp: +16047911001
-> email: [jacobmaud@icloud.com](mailto:jacobmaud@icloud.com).
+> email: [[email redacted]](mailto:[email redacted]).
 >
 > Sending love and light,
 >
@@ -18581,7 +18581,7 @@ Your Vit D is not high (assuming you are referencing SI Units) i.e. nmol/L the s
 ### ryantiefen — 2025-01-20T17:23:18+0200
 **Source:** <https://forum.jackkruse.com/threads/membership-support.30139/post-345467>
 
-A friend of mine signed up for a Gold membership last week and hasn't been able to access the forums. She's been reaching out to support ([info@kruseatdestin.com](mailto:info@kruseatdestin.com) and [support@jackkruse.com](mailto:support@jackkruse.com)) for the last week plus without response. Her email is [eileenduane23@gmail.com](mailto:eileenduane23@gmail.com) - Can someone please assist? I'm thinking it may be the fact that she's using a gmail account, but she's tried reaching out via her protonmail account as well to no avail.
+A friend of mine signed up for a Gold membership last week and hasn't been able to access the forums. She's been reaching out to support ([[email redacted]](mailto:[email redacted]) and [[email redacted]](mailto:[email redacted])) for the last week plus without response. Her email is [[email redacted]](mailto:[email redacted]) - Can someone please assist? I'm thinking it may be the fact that she's using a gmail account, but she's tried reaching out via her protonmail account as well to no avail.
 
 ### Support — 2025-01-20T19:10:42+0200
 **Source:** <https://forum.jackkruse.com/threads/membership-support.30139/post-345471>
@@ -18593,14 +18593,14 @@ Thank you - Team Kruse
 ### Support — 2025-01-20T19:14:04+0200
 **Source:** <https://forum.jackkruse.com/threads/membership-support.30139/post-345472>
 
-The team researched and there is no forum account under [eileenduane23@gmail.com](mailto:eileenduane23@gmail.com). We have emailed her to get this cleared up. Perhaps there is a misspelling in her registration, but there has been no account registered which would make sense why she cannot obtain access.
+The team researched and there is no forum account under [[email redacted]](mailto:[email redacted]). We have emailed her to get this cleared up. Perhaps there is a misspelling in her registration, but there has been no account registered which would make sense why she cannot obtain access.
 
 ### Pratima — 2025-01-20T20:13:27+0200
 **Source:** <https://forum.jackkruse.com/threads/membership-support.30139/post-345476>
 
 > [ryantiefen said:](/goto/post?id=345467)
 >
-> A friend of mine signed up for a Gold membership last week and hasn't been able to access the forums. She's been reaching out to support ([info@kruseatdestin.com](mailto:info@kruseatdestin.com) and [support@jackkruse.com](mailto:support@jackkruse.com)) for the last week plus without response. Her email is [eileenduane23@gmail.com](mailto:eileenduane23@gmail.com) - Can someone please assist? I'm thinking it may be the fact that she's using a gmail account, but she's tried reaching out via her protonmail account as well to no avail.
+> A friend of mine signed up for a Gold membership last week and hasn't been able to access the forums. She's been reaching out to support ([[email redacted]](mailto:[email redacted]) and [[email redacted]](mailto:[email redacted])) for the last week plus without response. Her email is [[email redacted]](mailto:[email redacted]) - Can someone please assist? I'm thinking it may be the fact that she's using a gmail account, but she's tried reaching out via her protonmail account as well to no avail.
 
 The forum is a different reg than optimal klubs.......I just learned this from changing my email with optimal klubs, but then thought I could not access the forums, but under my old email I can still access.
 
@@ -18624,7 +18624,7 @@ On March 10th I paid $100 for a Platinum membership and requested my real name b
 
 Are you not able to update your name on your profile directly? You should be able to access your profile settings and update there.
 
-Your membership request was taken care of on April 18 and adjusted accordingly. Our team sent an email to this effect. Please review and reply directly to that email from [info@kruseatdestin.com](mailto:info@kruseatdestin.com).
+Your membership request was taken care of on April 18 and adjusted accordingly. Our team sent an email to this effect. Please review and reply directly to that email from [[email redacted]](mailto:[email redacted]).
 
 Best,
 Team Kruse
@@ -23056,7 +23056,7 @@ It depends on your Klub level. I'm just a Patreon member and the only emails I g
 >
 > I don’t get emails or access to Facebook. Who can I contact please to assist me?
 
-[Info@jackkruse.com](mailto:Info@jackkruse.com) I believe. But try both
+[[email redacted]](mailto:[email redacted]) I believe. But try both
 
 ### rtd — 2025-01-28T22:32:26+0200
 **Source:** <https://forum.jackkruse.com/threads/dr-jack-kruses-q-as.30174/post-345922>
@@ -23884,7 +23884,7 @@ Dr. jack Kruse, I paid for the gold membership but I still don't have access to 
 >
 > Dr. jack Kruse, I paid for the gold membership but I still don't have access to the content, only to this forum. Kindly help.
 
-Contact Christy in the office: [info@kruseatdestin.com](mailto:info@kruseatdestin.com)
+Contact Christy in the office: [[email redacted]](mailto:[email redacted])
 
 ### Villiam — 2025-03-03T17:55:50+0200
 **Source:** <https://forum.jackkruse.com/threads/iodine-and-cancer.30212/post-347800>
@@ -27825,7 +27825,7 @@ There are videos where he dismantles particular science publications in depth. B
 
 ### [Professor Bart Kay - Main Channel](https://www.youtube.com/@bart-kay)
 
-Consults, merch, etc here: https://bit.ly/bart-kay Email: bart.kay.nz@gmail.com Alt YT channel @Prof-Kays-Carnivore-Cult Social Media Discord : https://discord.gg/h8NgdDGvYK Bart is a professor in cardiovascular and respiratory physiology, exercise physiology, nutrition, research methods, and...
+Consults, merch, etc here: https://bit.ly/bart-kay Email: [email redacted] Alt YT channel @Prof-Kays-Carnivore-Cult Social Media Discord : https://discord.gg/h8NgdDGvYK Bart is a professor in cardiovascular and respiratory physiology, exercise physiology, nutrition, research methods, and...
 
  www.youtube.com
 
@@ -27874,7 +27874,7 @@ Also whatever is the best information or method going on we should all pick up f
 >
 > ### [Professor Bart Kay - Main Channel](https://www.youtube.com/@bart-kay)
 >
-> Consults, merch, etc here: https://bit.ly/bart-kay Email: bart.kay.nz@gmail.com Alt YT channel @Prof-Kays-Carnivore-Cult Social Media Discord : https://discord.gg/h8NgdDGvYK Bart is a professor in cardiovascular and respiratory physiology, exercise physiology, nutrition, research methods, and...
+> Consults, merch, etc here: https://bit.ly/bart-kay Email: [email redacted] Alt YT channel @Prof-Kays-Carnivore-Cult Social Media Discord : https://discord.gg/h8NgdDGvYK Bart is a professor in cardiovascular and respiratory physiology, exercise physiology, nutrition, research methods, and...
 >
 >  www.youtube.com
 >

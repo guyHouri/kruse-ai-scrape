@@ -1149,14 +1149,14 @@ This is such a wonderful idea! Will add to resources for my clients. Thank you, 
 >
 > This is such a wonderful idea! Will add to resources for my clients. Thank you, Rusty!
 
-Thank you, NF. Appreciate it. I do have an affiliate program if you're interested. Please send me a DM or mail me at : [rusty@solarpowe.red](mailto:rusty@solarpowe.red)
+Thank you, NF. Appreciate it. I do have an affiliate program if you're interested. Please send me a DM or mail me at : [[email redacted]](mailto:[email redacted])
 
 ### 8Phoenix — 2023-10-30T14:56:28+0200
 **Source:** <https://forum.jackkruse.com/threads/making-an-iphone-tool-to-block-all-nnemf-easily.27434/post-327661>
 
 > [Rusty said:](/goto/post?id=325021)
 >
-> Thank you, NF. Appreciate it. I do have an affiliate program if you're interested. Please send me a DM or mail me at : [rusty@solarpowe.red](mailto:rusty@solarpowe.red)
+> Thank you, NF. Appreciate it. I do have an affiliate program if you're interested. Please send me a DM or mail me at : [[email redacted]](mailto:[email redacted])
 
 Hello can this work for IPad Pro 12.9 5th gen model A2379
 
@@ -1214,7 +1214,7 @@ This look greatI I am going to purchase. So can I now listen to dowloaded podcas
 
 > [Rusty said:](/goto/post?id=325021)
 >
-> Thank you, NF. Appreciate it. I do have an affiliate program if you're interested. Please send me a DM or mail me at : [rusty@solarpowe.red](mailto:rusty@solarpowe.red)
+> Thank you, NF. Appreciate it. I do have an affiliate program if you're interested. Please send me a DM or mail me at : [[email redacted]](mailto:[email redacted])
 
 me too! I would like all my patients to have this!
 
@@ -1229,7 +1229,7 @@ But this seems like an easy win. Will take a look!
 
 > [Rusty said:](/goto/post?id=325021)
 >
-> Thank you, NF. Appreciate it. I do have an affiliate program if you're interested. Please send me a DM or mail me at : [rusty@solarpowe.red](mailto:rusty@solarpowe.red)
+> Thank you, NF. Appreciate it. I do have an affiliate program if you're interested. Please send me a DM or mail me at : [[email redacted]](mailto:[email redacted])
 
 This look greatI I am going to purchase. So can I now listen to dowloaded podcasts with my wired headphones with aeroplane mode on? Also, is it unsafe to do calls with wired headphones?
 
@@ -3331,7 +3331,7 @@ See below the input file for my avatar.
 >
 > I could use some guidance. I uploaded an avatar right after creating an account. I then changed it a little while back. Apparentenly neither shows up. Is it a size/compression thing? If so, what are the guidlines?
 
-Can you send us the picture to [info@kruseatdestin.com](mailto:info@kruseatdestin.com) so that we can test on our end?
+Can you send us the picture to [[email redacted]](mailto:[email redacted]) so that we can test on our end?
 
 Thank you!
 
@@ -7798,7 +7798,7 @@ I look forward to the opportunities to be of assistance to you all. Please don't
 Shane
 [www.optimaldwellingspaces.com](http://www.optimaldwellingspaces.com)
 971.204.8956
-[help@optimaldwellingspaces.com](mailto:help@optimaldwellingspaces.com)
+[[email redacted]](mailto:[email redacted])
 
 ### Ryan Carter — 2023-04-21T23:07:22+0300
 **Source:** <https://forum.jackkruse.com/threads/building-biology-emf-consultant-resource.27587/post-320645>
@@ -20786,7 +20786,7 @@ Hey Rich, I am also a U.K member, nice to meet you! I bought one of these toothb
 > Hey Rich, I am also a U.K member, nice to meet you! I bought one of these toothbrushes but after 3 weeks the charger stopped working and I tried to contact the company and nobody got back to me. I really want to keep using it as I'm sure it was helping. Any ideas of any other direct contact I can email? Many thanks Annelie
 
 Hi Annelie
-Sorry to hear that. Please contact [james@bristlscience.com](mailto:james@bristlscience.com) and copy in [flynn@bristl.co.uk](mailto:flynn@bristl.co.uk) hopefully they can sort it for you. It sometimes is worth trying charging from a different source - like wall plug rather than computer USB.
+Sorry to hear that. Please contact [[email redacted]](mailto:[email redacted]) and copy in [[email redacted]](mailto:[email redacted]) hopefully they can sort it for you. It sometimes is worth trying charging from a different source - like wall plug rather than computer USB.
 Best
 Richard
 
@@ -29701,7 +29701,7 @@ Longer telomeres is not always good. Remember Scott Kelly went into space and ca
 **Subforum:** Meet and Greet
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### ghopper@srbp.com — 2023-06-09T20:41:37+0300
+### [email redacted] — 2023-06-09T20:41:37+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-tampa-fl.27795/post-322249>
 
 My name is Gary Hopper. I have followed Dr. Jack from a distance for many years (since about 2012) but didn't decide to take the red pill until recently. I signed up for a Gold membership last month and have been listening to the Q & A's, and my mind is blown! I have been missing out all these years and didn't know it. I started my health journey in 2011. I was 41 yrs old, 5'11", weighed 255 lbs, and had so much brain fog I could barely think straight most of the time. Dave Asprey and Mark Sisson initially guided me, and then I found Jack through Asprey when he started talking about CT. I liked Jack, but my brain wasn't ready for that level yet, and I stuck with Asprey and the food gurus for years. Then my wife's fatigue worsened, and food wasn't fixing it, and I couldn't understand why. Food generally worked well for me because I didn't have a condition like hers. So I've been trying to help my wife with her condition for the past four years. This caused me to dig deeper, and I ended up back with Jack and boy, am I glad I did! Since following Jack and adding some of his protocols to my daily life in the past year, my health has improved dramatically, and my wife is on the mend slowly but surely.
@@ -29713,7 +29713,7 @@ Gary
 
 Hi Gary ....and welcome
 
-### ghopper@srbp.com — 2023-06-09T23:47:55+0300
+### [email redacted] — 2023-06-09T23:47:55+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-tampa-fl.27795/post-322258>
 
 > [caroline said:](/goto/post?id=322257)
@@ -31243,7 +31243,7 @@ It ain't about the water you drink...
 **Subforum:** Cold Thermogenesis
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### ghopper@srbp.com — 2023-06-19T18:57:35+0300
+### [email redacted] — 2023-06-19T18:57:35+0300
 **Source:** <https://forum.jackkruse.com/threads/is-there-an-upper-limit-to-ct-time-per-session-at-55%C2%B0.27832/post-322549>
 
 I am new, so please go easy, LOL. I know Jack says to do CT as often as possible but what about session times? Is it beneficial to do long sessions, i.e., 1 hour or more, as long as I use common sense not to hurt myself? I know Huberman says that the studies show that 11 minutes a week will give you the maximum benefit, but that doesn't seem accurate to me. Thank you!
@@ -31253,7 +31253,7 @@ I am new, so please go easy, LOL. I know Jack says to do CT as often as possible
 
 anything below 98F is technically CT.
 
-### ghopper@srbp.com — 2023-06-20T20:29:22+0300
+### [email redacted] — 2023-06-20T20:29:22+0300
 **Source:** <https://forum.jackkruse.com/threads/is-there-an-upper-limit-to-ct-time-per-session-at-55%C2%B0.27832/post-322594>
 
 > [Jack Kruse said:](/goto/post?id=322591)
@@ -45412,7 +45412,7 @@ Here are some services I can provide:
 \*vehicle inspection
 \*office/workplace inspection
 
-If you have interest in this, please send me an email: [**help@optimaldwellingspaces.com**](mailto:help@optimaldwellingspaces.com) with the following info:
+If you have interest in this, please send me an email: [**[email redacted]**](mailto:[email redacted]) with the following info:
 \-Service(s) you are interested in
 
 \*\*If interested in a home service, please answer the following\*\*

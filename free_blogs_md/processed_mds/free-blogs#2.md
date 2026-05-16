@@ -30527,7 +30527,7 @@ in, then you are just as much a part of the problem as anyone who has no clue ab
 because they too are doing NOTHING.
 Open this link for a letter that you can customize with your own name and city
 Send the letter to the president by copying and pasting it in an email to mailto:
-president@thewhitehouse.gov, or printing it and sending it to:
+[email redacted], or printing it and sending it to:
 The White House 1600 Pennsylvania Avenue NW Washington, DC 20500
 You can also send a note under 2500 characters here https://www.whitehouse.gov/contact
 Send the letter to your elected representatives. Find their emails here https://www.senate.gov
@@ -30877,7 +30877,7 @@ If you have ambitions beyond yourself, I’d love for us to get in touch. Whethe
 interested in starting a company and want a fresh mind, your kids won’t listen to you and you
 want them to talk with someone closer to their age, you’re a lawyer and have some advice for
 David going up against Goliath, or you just want to talk, I’m on Jack’s forum as Matty_M, you
-can email me at mmaruca34@gmail.com, or drop a comment below! Also, I will soon have a
+can email me at [email redacted], or drop a comment below! Also, I will soon have a
 blog up and running at mattmaruca.com .
 Please consider the potential impact if everyone reading this would use the resources above to
 contact either the president, a congressman, an FCC chairperson, or anyone else. We MUST
@@ -36877,8 +36877,8 @@ healthcare in America from the outside in by empowering patients to reverse thei
 their lives for good without drugs, surgery or doctors.
 TEDxNashville, in partnership with Tennessee Performing Arts Center, is in its third year. With 1,000
 attendees, TEDxNashville is one of the largest TEDx’s in the world. For more information or to schedule an
-interview, contact  at TEDxNashville, jeffrey.horne@gmail.com or Jeffrey Horne Misty Williams:
-615-400-7538, misty@mystrategicmarketer.com or misty@jackkruse.com
+interview, contact  at TEDxNashville, [email redacted] or Jeffrey Horne Misty Williams:
+615-400-7538, [email redacted] or [email redacted]
  
 About Dr. Jack Kruse
 New York native Dr. Jack Kruse is a respected neurosurgeon from Nashville, TN and a member of the

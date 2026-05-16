@@ -425,7 +425,7 @@ walked about 1.5 hrs yesterday. my legs and butt hurt so i ended up using my hea
 
 weight about the same. had corned beef. going for a walk soon
 
-### skline@peak.org — 2012-04-15T22:53:11+0300
+### [email redacted] — 2012-04-15T22:53:11+0300
 **Source:** <https://forum.jackkruse.com/threads/a-new-sandy.157/post-15385>
 
 Good luck to you, Sandy, and all your good work.
@@ -455,7 +455,7 @@ taxes today. I am a huge procrastinator! ugh
 
 will go for a walk. it seems very chilly and windy out so that will be some CT
 
-### skline@peak.org — 2012-04-16T23:50:59+0300
+### [email redacted] — 2012-04-16T23:50:59+0300
 **Source:** <https://forum.jackkruse.com/threads/a-new-sandy.157/post-15723>
 
 That stuff that you "love" will do in everything else you try till you get on top of the problem.
@@ -673,7 +673,7 @@ Lunch: M&S Crispy bacon
 
 D: leftover roast lamb
 
-### kcorcoran@comcast.net — 2012-03-24T03:39:35+0200
+### [email redacted] — 2012-03-24T03:39:35+0200
 **Source:** <https://forum.jackkruse.com/threads/hotmail-journal.172/post-5280>
 
 have you tried bullet proof coffee? how about coconut milk instead of soya? congrats on the loss!
@@ -868,7 +868,7 @@ Stalled for a long time until my pms made My appetite skyrocket. I ate 2 huge st
 **Subforum:** My Optimal Journal
 **Posts:** 22
 ══════════════════════════════════════════════════════════════════════
-### edance83@yahoo.com — 2012-03-18T04:42:46+0200
+### [email redacted] — 2012-03-18T04:42:46+0200
 **Source:** <https://forum.jackkruse.com/threads/lovelifes-journey.260/post-2289>
 
 I've been wanting to track things better for awhile so might as well start this journal here.
@@ -1004,7 +1004,7 @@ Sorry so long everyone. I will be much shorter on my other entries. It's a lot m
 
 Great news on your progress! I am also on a super-tight budget. Things I can recommend: added canned sardines to your list of fish. Just as cheap and probably better for you since you get more oily fish as well as the bones. Make your own sauerkraut (super easy, super cheap and better for you). Look into the human grade salmon oil sold on the petfood market. Dexter (from the Monster MDA thread) has posted about where he gets it - it's cheap, fresh and keeps in the fridge. (I am in New Zealand so my source won't help you -but you can search the MDA thread or look here on the O3/O6 thread because I it's there, too.) Good luck!!!
 
-### edance83@yahoo.com — 2012-03-18T15:35:41+0200
+### [email redacted] — 2012-03-18T15:35:41+0200
 **Source:** <https://forum.jackkruse.com/threads/lovelifes-journey.260/post-2363>
 
 Thanks for the suggestions KiwiLauren. I have never had sardines and think they sound gross, but I know they r supposed to be good. So, just the other day I got a tin to try out. Unfortunately, tuna is cheaper than sardines so I will mainly have to stick with that for now. Basically what is going on is what some people refer to as the "poor tax" LOL. Yes the salmon oil isn't expensive.. $75 for a tub that lasts a few months is cheaper than the tuna and better in O3, but since tuna is $.54 a can that is cheaper in the short run. Unfortunately $75 was almost my entire food budget for this month. So, you can see my dilemma. If I like the sardines though I will try to add in a couple a month.
@@ -1023,7 +1023,7 @@ In my first post I didn't mention any sleep things. I have always been a night o
 
 Oh, I have also started tracking my moods every day with this cool new website. It's meant for people with depression/bipolar/ect, but I think it's cool so I'm going to list it here as well. Maybe see if I notice a correlation with mood and ct/food/sleep patterns. Anyone who's interested it's [Moodscope](http://http://www.moodscope.com/). It's free.
 
-### edance83@yahoo.com — 2012-03-19T16:20:28+0200
+### [email redacted] — 2012-03-19T16:20:28+0200
 **Source:** <https://forum.jackkruse.com/threads/lovelifes-journey.260/post-2734>
 
 **3/19 Update:**
@@ -1034,7 +1034,7 @@ Mood: 85 percent
 
 Went to bed at 11:30pm got up at 8:10am. I slept through the night last night. Took me about 30-45 min though to fall asleep. I had a lot of dreams that I remember last night. Which I used to always remember my dreams, but since starting the Leptin Reset and changing my sleep schedule so drastically I have been remembering a lot fewer dreams. I enjoy remembering my dreams so I hope it returns. Yesterday I did not do any CT. I was distracted doing other things then it was too late. Today I will though.
 
-### edance83@yahoo.com — 2012-03-20T15:44:18+0200
+### [email redacted] — 2012-03-20T15:44:18+0200
 **Source:** <https://forum.jackkruse.com/threads/lovelifes-journey.260/post-3222>
 
 **3/20 Update:**
@@ -1045,7 +1045,7 @@ Mood: 72 percent
 
 Went to bed last night at 10:30pm and got up at 8:15am. It took me a bit to fall asleep.. somewhere around 11:15-11:30pm. I slept well again and only woke once at 6:00am. I did a CT shower last night from 8:45-9:30pm. It worked well as shown by my weight this morning.  I'm so close to the 130's now I can taste it!
 
-### edance83@yahoo.com — 2012-03-23T16:52:02+0200
+### [email redacted] — 2012-03-23T16:52:02+0200
 **Source:** <https://forum.jackkruse.com/threads/lovelifes-journey.260/post-4981>
 
 Whoops, thought I missed one day and see I missed 2. Oh well.
@@ -1062,7 +1062,7 @@ Went to bed last night at 10:30pm.. fell asleep around 11pm.. got up at 8:11am. 
 
 I'm debating on whether to start working out or not. On the one hand I think it may help progress my weight loss and strength gains, but on the other working out has always made me hungrier and I don't have any extra food to up my calories at all right now. So, I'm not sure what to do. Maybe I will try it and hope that with becoming LS I won't be starving after I work out.
 
-### edance83@yahoo.com — 2012-03-25T02:03:28+0200
+### [email redacted] — 2012-03-25T02:03:28+0200
 **Source:** <https://forum.jackkruse.com/threads/lovelifes-journey.260/post-5623>
 
 **3/24 Update:**
@@ -1080,7 +1080,7 @@ No more sausage of that brand for me! So, sleep was a little blah and I think it
 
 Thank you for sharing! I am following your journey
 
-### edance83@yahoo.com — 2012-03-25T16:42:51+0300
+### [email redacted] — 2012-03-25T16:42:51+0300
 **Source:** <https://forum.jackkruse.com/threads/lovelifes-journey.260/post-5777>
 
 > **SuzieQ;5677 wrote: Thank you for sharing! I am following your journey**
@@ -1102,7 +1102,7 @@ Yay mood is up again. Went to bed last night at 10:20pm.. fell asleep around 11p
 
 be careful with all that tuna: mercury levels!
 
-### edance83@yahoo.com — 2012-03-25T18:55:31+0300
+### [email redacted] — 2012-03-25T18:55:31+0300
 **Source:** <https://forum.jackkruse.com/threads/lovelifes-journey.260/post-5863>
 
 @PD: Well tuna has selenium and I'm also eating brazil nuts for extra selenium. It also is only for this past month and probably next. Then I should be finished with the Leptin Reset and won't be needing the easy 50g protein in the AM. I'm pretty sure that enough selenium will make the mercury inert and flush from my system.
@@ -1128,7 +1128,7 @@ be careful with all that tuna: mercury levels!
 
 Gratz on the low weight!  Keep up the good work and experiments.  We all respond differently to things so you might be on to something. Have a good day!
 
-### edance83@yahoo.com — 2012-03-26T17:45:07+0300
+### [email redacted] — 2012-03-26T17:45:07+0300
 **Source:** <https://forum.jackkruse.com/threads/lovelifes-journey.260/post-6391>
 
 **3/26 Update:**
@@ -1170,14 +1170,14 @@ Good news with my inches though!! The last few times of CT I've been focusing th
 
 Awesome results  I have to resort to spot CT'ing myself... I hope to see some changes in composition soon.  Keep up the good work and dedication!
 
-### edance83@yahoo.com — 2012-03-26T19:31:59+0300
+### [email redacted] — 2012-03-26T19:31:59+0300
 **Source:** <https://forum.jackkruse.com/threads/lovelifes-journey.260/post-6443>
 
 @SQ Thanks! When I don't feel like taking a shower/bath I spot with ice packs on my stomach, upper chest/neck, and upper back/neck. I have a removable shower head so it's great for putting the water wherever you want for however long you want. I have enjoyed the showers more than baths and seem to have better success so far with them. But, I do often do both at the same time. I plug the tub and start with the shower part.. putting the water where I want it while the tub is filling.. then when it's about ankle deep I still down in the water while still using the shower head to spray water on my upper body where I want it. Then after my legs are almost covered I will turn off the shower part and let the tub fill the rest of the way from the tap and lay in it for however long.
 
 I enjoy the showering part more as I can still get things very cold yet it doesn't seem to effect my core temp as much. Vs when I'm in a tub of water I'm fine while in it, but when I get out I'm shivering for at least an hour or more. The showering is also helping me adapt my feet without it being too bad. The water still hits them, but since it's not constant like doing it in a bath it's easier when I'm done to warm them up. They also seem to be adapting better this way.
 
-### edance83@yahoo.com — 2012-03-27T17:38:12+0300
+### [email redacted] — 2012-03-27T17:38:12+0300
 **Source:** <https://forum.jackkruse.com/threads/lovelifes-journey.260/post-7030>
 
 **3/27 Update:**
@@ -1210,7 +1210,7 @@ Signs I Have
 
 I still need to check my recovery from workouts. I've done one 10 min pole dance session and I wasn't sore the next day, but I wasn't always sore before that either. So, I'm slightly confused about what constitutes a "better recovery" time?? If I over train for example.. I haven't worked out in months and then lift a lot of weights or do a bodyrock workout I could be sore for 3-4 days... but is that too long when obviously I'm out of shape. If I'm consistently working out I am "sore" for 1-2 days normally. So, what is better? I imagine that being sore at least a day is normal as your muscles were "injured" and now are repairing.. am I wrong? IDK, I guess I will do a bodyrock workout and see if I'm sore at all since I really haven't worked out in the last 2 months.. If not then I guess I'll have my answer.
 
-### edance83@yahoo.com — 2012-03-28T19:05:46+0300
+### [email redacted] — 2012-03-28T19:05:46+0300
 **Source:** <https://forum.jackkruse.com/threads/lovelifes-journey.260/post-7777>
 
 **3/28 Update:**
@@ -1221,7 +1221,7 @@ Mood: 57 percent
 
 Went to bed at 10:30pm.. fell asleep around 11:30pm.. got up at 7:50am. I woke a lot again last night.. feel somewhat tired today. I felt a pressure in my head starting the night before last and lasting all yesterday. I wasn't sure what it was.. then my sinuses started to drain a little last night. I've never had allergies before (except when I first moved to a diff state), but it seems that I do this year. I'm not sure if it's some weird CT detox or what. I did do a CT shower last night for 30 min in 50 degrees. Sadly no weight loss still. Seem to be stuck. Though I don't think I've ever been at the EXACT same weight for so many days in a row before.. so that's weird. Hoping my sleep is just bad because of the allergy shit going on. Hopefully I'll feel better soon and lose more weight/inches.
 
-### edance83@yahoo.com — 2012-03-29T16:52:48+0300
+### [email redacted] — 2012-03-29T16:52:48+0300
 **Source:** <https://forum.jackkruse.com/threads/lovelifes-journey.260/post-8255>
 
 **3/29 Update:**
@@ -1232,7 +1232,7 @@ Mood: 68 percent
 
 Went to bed (late) at 12am.. asleep by 12:30.. got up at 7:55am. Sleep was pretty crap again last night with quite a bit of waking up. Feeling a little tired, but not too bad. Thinking about maybe trying to push the CT more by doing it twice a day instead of once. Hoping maybe I will adapt faster that way. I have the time to do it..I just haven't wanted to yet. Hoping it will also fix my sleep faster. Weirdly enough, this sleep pattern lately is what happened when I first started the LeptinRx and changed my sleep times so drastically. So, I'm hoping it is just an issue with detox or adapting going on. Or maybe this random allergy thing that's happening is messing with me. No more head pressure thankfully, but still a weird sinus feeling/random draining that's very faint. Last night I just did a 1 hr CT with ice packs on my stomach. I've decided to move to the Post Leptin plan starting in a couple days. I think it will be slightly easier for me monetarily as well as I think I'm ready. I guess if things start going badly I will go back to the Reset, but I think I'll be fine. Hopefully I can force myself to start the double CT tomorrow.
 
-### edance83@yahoo.com — 2012-03-30T19:09:03+0300
+### [email redacted] — 2012-03-30T19:09:03+0300
 **Source:** <https://forum.jackkruse.com/threads/lovelifes-journey.260/post-8843>
 
 **3/30 Update:**
@@ -1245,7 +1245,7 @@ Went to bed last night at 11pm.. fell asleep within 15 min.. got up at 7:50am. L
 
 Last but not least.. even though my weight hasn't changed much in awhile... I still look at myself in the mirror a lot looking for cool changes.  I finally can see my hip bones more from the front.. and I'm starting to get those cute indents right above my ass that I don't think I've ever had even when I weighed 118 in high school! So, that's cool.
 
-### edance83@yahoo.com — 2012-04-04T17:22:46+0300
+### [email redacted] — 2012-04-04T17:22:46+0300
 **Source:** <https://forum.jackkruse.com/threads/lovelifes-journey.260/post-11275>
 
 **4/4 Update:**
@@ -1300,7 +1300,7 @@ I'm still eating keto even with the added veggies. I don't count always.. but I 
 
 I have been slacking on the CT though. I haven't done any CT since Friday. I really need to get back to it. I'm going to try to force myself to do it today. I know what the issue is and it has nothing to do with the cold part. That doesn't really bother me. I just have a weird quirk that is getting in my way lately. But, I have just started losing weight again after being stuck for like 10-15 days. So, I want to push it as much as I can before I start my period again and am stuck for another 10-15 days.  Sometimes being a chick really fucking sucks. Stupid hormones! Men have it so fucking easy it's annoying as hell. LOL.
 
-### edance83@yahoo.com — 2012-04-04T18:05:55+0300
+### [email redacted] — 2012-04-04T18:05:55+0300
 **Source:** <https://forum.jackkruse.com/threads/lovelifes-journey.260/post-11314>
 
 Oh I also finally found some pics to post.. So here goes. LOL.
@@ -1325,7 +1325,7 @@ This is me the same day (4/2) as the first easter pics just this year (2012) ins
 
 \[video\]https://www.facebook.com/video/video.php?v=10151461850510029&saved\[/video\]
 
-### edance83@yahoo.com — 2012-04-05T20:56:55+0300
+### [email redacted] — 2012-04-05T20:56:55+0300
 **Source:** <https://forum.jackkruse.com/threads/lovelifes-journey.260/post-11830>
 
 **4/5 Update:**
@@ -1347,7 +1347,7 @@ I will say that yesterday I did some planks and some squats. I did some reg squa
 **Subforum:** My Optimal Journal
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### tggywnkle@aol.com — 2012-03-18T06:34:28+0200
+### [email redacted] — 2012-03-18T06:34:28+0200
 **Source:** <https://forum.jackkruse.com/threads/molliecat.261/post-2313>
 
 I feel as though I am jumping off a cliff as I have decided to begin the Leptin Reset & CT. I've read & read & thought & thought. It's seems as though it's now or never--this may be my final chance to regain some health & live life "optimally". Certainly, doing what I have always done has gotten me nowhere except sicker & more broken. I've procrastinated long enough! Today ( family Patrick's Day party was the final straw (too many carbs & sugar)!
@@ -1570,7 +1570,7 @@ Here's an example of DH's sleep cycle...these are not recent, by the way.
 
 DH was up super early this morning and made me a monster shake and coffee.
 
-### kathiebu@hotmail.com — 2012-03-25T15:55:05+0300
+### [email redacted] — 2012-03-25T15:55:05+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-5754>
 
 That dinner looks delicious!!  Makes me want to have some!
@@ -1841,7 +1841,7 @@ I also supplement with virgin coconut oil. I used to do a shot glass of melted C
 
 Looking back in history, this is actually one of my shorter lists of supplements. Eep!
 
-### kathiebu@hotmail.com — 2012-03-27T02:31:17+0300
+### [email redacted] — 2012-03-27T02:31:17+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-6699>
 
 Seems that you are doing good!!
@@ -1919,12 +1919,12 @@ I realized tonight that my dinners are too big. I need to seriously focus on mak
 
 Okay...signing off for the night (I think). It's 8:44 and I need to wind down for bed. No melatonin or GABA tonight. I had CAH-RAYZEE dreams this morning. Mostly about SCUBA diving in a cartoon from my childhood (I think it was a British production, actually...I vaguely remember it) and seeing a cat walking around on the lagoon floor (I'm not even sure what a lagoon is exactly, but I saw one in my dream LOL). Nothing bad, just wild with seriously vivid colors. And I didn't sleep that great the rest of the night, either (could've been my breathing through the air piece - you're not supposed to hold your breath when underwater with pressurized air LOL).
 
-### jeepifer@gmail.com — 2012-03-28T06:23:23+0300
+### [email redacted] — 2012-03-28T06:23:23+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-7590>
 
 Which MCT oil did you get from Amazon? I love to order on Thursdays with my Prime because 90% of the time it arrives Friday for free.
 
-### kathiebu@hotmail.com — 2012-03-28T16:36:10+0300
+### [email redacted] — 2012-03-28T16:36:10+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-7706>
 
 No, you won't be left behind  Men see changes usualy most faster than we do...Hormonal thing.... Hang in there, you too will have positive changes, but it might take a few weeks...Remind yourself of your goals and how good you are going to feel soon.
@@ -2076,7 +2076,7 @@ I've been reading a bit about CT...interesting stuff. Makes sense...
 
 Thanks, Katy.  You have a great day, too.
 
-### jeepifer@gmail.com — 2012-03-28T22:52:15+0300
+### [email redacted] — 2012-03-28T22:52:15+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-7927>
 
 > **Slone07;7966 wrote:** I got this one: [http://www.amazon.com/gp/product/B0019LRY8A/ref=oh\_o03\_s00\_i00\_details](http://http://www.amazon.com/gp/product/B0019LRY8A/ref=oh_o03_s00_i00_details) It's not Prime, unfortunately, and the shipping took quite a few days! I was not happy after being spoiled with Amazon Prime for so long. LOL Oh, first world problems...
@@ -2098,7 +2098,7 @@ It's flavorless and odorless. Completely clear. I'm going to try making mayo wit
 
 What is this Bulletproof Coffee that everyone's talking about? I totally missed the memo on that one. LOL
 
-### jeepifer@gmail.com — 2012-03-28T23:29:32+0300
+### [email redacted] — 2012-03-28T23:29:32+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-7948>
 
 Basically, you add (unsalted) butter to your coffee, and MCT oil as an option. He's peddling his own coffee too, maybe not without good reason, but I just add the butter, and a little coconut oil in lieu of the MCT oil, to what I have on hand for now. It tastes good, that's for sure!
@@ -2138,7 +2138,7 @@ Was down .6 pounds from yesterday, which brings me to that steady 230.0.
 
 Time to turn this day around. Crank up some good tunes and get the boys laughing...
 
-### kathiebu@hotmail.com — 2012-03-29T21:06:09+0300
+### [email redacted] — 2012-03-29T21:06:09+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-8408>
 
 You're doing good! I really enjoy reading your journal! You sound more optimistic than earlier this week, that's great
@@ -2170,7 +2170,7 @@ I did it. I started my hCG last night. It's the beginning of hot summer days her
 
 I'm excited.
 
-### jeepifer@gmail.com — 2012-04-06T18:10:08+0300
+### [email redacted] — 2012-04-06T18:10:08+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-12167>
 
 Sounds awesome! I'm starting hCG tomorrow. It's new to me, so will be interesting to see how it all goes.
@@ -2186,7 +2186,7 @@ I've been reading about how vitamin D produces natural sunscreen type results in
 
 Interesting...
 
-### kathiebu@hotmail.com — 2012-04-08T16:26:29+0300
+### [email redacted] — 2012-04-08T16:26:29+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-12646>
 
 Good morning Slone!
@@ -2209,7 +2209,7 @@ Doing awesome! Down 12 pounds already and feeling great. Not as energetic as I w
 
 WOW...12 lbs sounds awesome! I don't know much about the whole HCG thing, other than the calorie restriction but it sure sounds interesting & sounds like ppl lose weight even when they are resistent to quick weight loss? Anyway, good for you!! I'd love some weight loss. I really thought I'd be able to wear shorts this summer but it doesn't look that way; the majority of my weight is on my legs...urgh!
 
-### kathiebu@hotmail.com — 2012-04-21T23:02:23+0300
+### [email redacted] — 2012-04-21T23:02:23+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-17537>
 
 Slone! How is it going? Are you still on the HCG protocol? Give some news
@@ -2454,7 +2454,7 @@ So, bad news. The worse of my Achilles is hurting me a bit today. Not a lot, not
 
 [](http://http://www.jackkruse.com/forum/convert_files/attachments/8744=71-6884613008_790689040a_m.jpg)
 
-### kathiebu@hotmail.com — 2012-03-30T14:10:22+0300
+### [email redacted] — 2012-03-30T14:10:22+0300
 **Source:** <https://forum.jackkruse.com/threads/paleosues-weight-loss-journey.369/post-8699>
 
 Woooow!! That was the real test and you did awesome!!  You must be so proud!
@@ -3262,7 +3262,7 @@ Breakfast today:
 
 I will not have any coffee or cream today!
 
-### kcorcoran@comcast.net — 2012-05-06T04:21:58+0300
+### [email redacted] — 2012-05-06T04:21:58+0300
 **Source:** <https://forum.jackkruse.com/threads/my-mission-to-fix-my-broken-body.1302/post-21719>
 
 Welcome Ayla, keep reading, i'm sure you'll find your way!
@@ -3482,7 +3482,7 @@ I'm starting to ask myself if the clock is to me what a weight scale is to someo
 
 Sleep, my precious, you will be mine every night. gollum gollum
 
-### kathiebu@hotmail.com — 2012-07-17T19:32:00+0300
+### [email redacted] — 2012-07-17T19:32:00+0300
 **Source:** <https://forum.jackkruse.com/threads/johnnybs-life-optimizing-goals.2125/post-38774>
 
 I'd say don't look at the clock!! If you are waking between 2 and 3 o'clock, it's mostly a problem with cortisol and/or insulin. Looking at the clock and telling yourself you HAVE to go back to sleep will only raise cortisol and make matter worst. You should cover that alarm to make sure it is very dark in your room.
@@ -3785,7 +3785,7 @@ I'll be following along as I'm in a similar boat
 
 I think that about covers my updates for today. Thanks for reading Eve!
 
-### trishalinn@gmail.com — 2012-07-04T05:45:06+0300
+### [email redacted] — 2012-07-04T05:45:06+0300
 **Source:** <https://forum.jackkruse.com/threads/bs-on-the-train-to-optimal.2177/post-35425>
 
 Wow, sounds like you've come quite a ways and are on a great track! Could your doc not prescribe you t3 to get here?
@@ -3903,7 +3903,7 @@ Chuck Roast
 
 And more cabbage - I know, I know!
 
-### trishalinn@gmail.com — 2012-07-17T06:50:21+0300
+### [email redacted] — 2012-07-17T06:50:21+0300
 **Source:** <https://forum.jackkruse.com/threads/bs-on-the-train-to-optimal.2177/post-38653>
 
 I love purple cabbage too! Yum, I could eat half a head in one sitting. But better that than half a pizza, right?!
@@ -4055,7 +4055,7 @@ That is enough history for now, if you have specific questions let me know! Feel
 
 Kim
 
-### jeanie@truelongmont.com — 2012-07-15T23:04:32+0300
+### [email redacted] — 2012-07-15T23:04:32+0300
 **Source:** <https://forum.jackkruse.com/threads/keeping-kim-honest.2454/post-38118>
 
 You/Me = Peas/Pod
@@ -4071,7 +4071,7 @@ I got up to about 400, lost to 220, stalled out and yo-yoed from 220 to 300 seve
 
 Cavemam, Carlsons has really nice vitamin D sublingual drops - I use the 4000iu per drop in MCT oil. It helped my D. They come in a tiny dropper bottle.
 
-### jeanie@truelongmont.com — 2012-07-15T23:45:12+0300
+### [email redacted] — 2012-07-15T23:45:12+0300
 **Source:** <https://forum.jackkruse.com/threads/keeping-kim-honest.2454/post-38128>
 
 > **Souldanzer;38295 wrote:** Cavemam, Carlsons has really nice vitamin D sublingual drops - I use the 4000iu per drop in MCT oil. It helped my D. They come in a tiny dropper bottle.
@@ -4165,7 +4165,7 @@ Still doing good. Great thing is that I feel better in the morning and have more
 
 Started having hot flashes again a few days ago. CT helps with them but they come back eventually.
 
-### kathiebu@hotmail.com — 2012-07-26T15:34:36+0300
+### [email redacted] — 2012-07-26T15:34:36+0300
 **Source:** <https://forum.jackkruse.com/threads/keeping-kim-honest.2454/post-41186>
 
 You are doing good! Don't give up!! It could take several weeks/months for you to see positive effects of the protocol. You have to stick to it Kim. If you go back to your old way of eating, you will keep getting what you used to get: nothing. I know it's hard and not always convenient, but you have to do it for your health and to feel better. Why don't you get everybody at home eating your way? It would be really good for your daugthers, too.
@@ -4244,7 +4244,7 @@ But for one month in, I've lost 9 pounds and I feel good.
 
 Yay! Good for you. You know for me this wasn't a perfect start and finish; well I am still not finished even after a year. I was really strict and then had a slip up, really strict and then a slip up. But, I kept doing more things that were for the better. You are still pretty new to the game. Everyday just keep getting up and doing the best you can and if you slip or "eat fruit" eventually you will change that thought and keep moving toward optimal if that is your goal. I am happy you are having successes. Tells you that you are on your way!
 
-### jeanie@truelongmont.com — 2012-08-05T20:20:04+0300
+### [email redacted] — 2012-08-05T20:20:04+0300
 **Source:** <https://forum.jackkruse.com/threads/keeping-kim-honest.2454/post-43092>
 
 I agree with Vicky, each time you are not perfect - just make it worth it by thinking on it, and getting back up the next day. I think for most humans, "directionally accurate" is pretty good! I think as you make each change, you will find the next one easier. . probably as our brains heal it gets easier.
@@ -4352,7 +4352,7 @@ It is really helping me to NOT pack a lunch right now so I would like to keep do
 
 One issue - we get FREE fruit!! We are only supposed to eat one serving though. But I've been attempting to abstain from the fruit lately, just being extra careful to only eat one serving per day instead of two. I prefer to eat fruit at dinner for 'dessert'.
 
-### jeanie@truelongmont.com — 2012-08-09T17:28:57+0300
+### [email redacted] — 2012-08-09T17:28:57+0300
 **Source:** <https://forum.jackkruse.com/threads/keeping-kim-honest.2454/post-43896>
 
 All of that doesn't sound BAD - I bet the thing to look out for is the fats. Lots of 'healthy' types still use seed oils from a fear of saturated. Those are as bad, if not worse on sugar and high glucose foods.
@@ -4370,7 +4370,7 @@ I know right now you are 'healing', but eating seasonal and local fruits that gr
 
 Baby steps will get you there too. Just keep learning and making small changes and it will happen!!! 6 months down the road you will say look what I use to do and look what I do now. Will be a totally different story.
 
-### jeanie@truelongmont.com — 2012-08-10T03:48:09+0300
+### [email redacted] — 2012-08-10T03:48:09+0300
 **Source:** <https://forum.jackkruse.com/threads/keeping-kim-honest.2454/post-44034>
 
 Hey Kim! I just had the opportunity to ask jack some bypass question along the lines of what I'm questioning. Going to post on my journal.
@@ -4391,7 +4391,7 @@ I lost 1 more pound!! Total of 10 pounds lost since beginning of July.
 
 The hemorrhoid Gods are angry today.
 
-### kcorcoran@comcast.net — 2012-08-11T02:03:02+0300
+### [email redacted] — 2012-08-11T02:03:02+0300
 **Source:** <https://forum.jackkruse.com/threads/keeping-kim-honest.2454/post-44219>
 
 Have you tried vit k1, k2 and vit c?
@@ -4405,7 +4405,7 @@ I have not tried vit c yet and I definitely need to start because it's part of t
 
 Thanks for your note!
 
-### kcorcoran@comcast.net — 2012-08-11T02:39:00+0300
+### [email redacted] — 2012-08-11T02:39:00+0300
 **Source:** <https://forum.jackkruse.com/threads/keeping-kim-honest.2454/post-44227>
 
 Aw sorry, didn't know about your surgery. No surgery here, but all those vits mentioned earlier plus lysine help my 'roid problem. Collagen is helpful too!
@@ -4536,12 +4536,12 @@ I haven't had as much of a problem not eating after dinner lately, which is good
 
 Realized that I haven't had my TOM in like 3 months. Never thought I would miss it but I do. At least I knew when thing were happening then. I'm too young for menopause (43)!
 
-### kathiebu@hotmail.com — 2012-08-24T21:47:23+0300
+### [email redacted] — 2012-08-24T21:47:23+0300
 **Source:** <https://forum.jackkruse.com/threads/keeping-kim-honest.2454/post-46799>
 
 Don't bother with the scale Kim, it's normal that is goes up and down. No TOM is not fun  Did you get tested lately for hormones? Seems that something is wrong, and that will likely slow down your weight loss.
 
-### jeanie@truelongmont.com — 2012-08-24T22:25:40+0300
+### [email redacted] — 2012-08-24T22:25:40+0300
 **Source:** <https://forum.jackkruse.com/threads/keeping-kim-honest.2454/post-46816>
 
 > **AbetterME;47209 wrote:** Don't bother with the scale Kim, it's normal that is goes up and down. No TOM is not fun  Did you get tested lately for hormones? Seems that something is wrong, and that will likely slow down your weight loss.
@@ -4591,7 +4591,7 @@ Apparently I may have hashi's plus PCOS, and I need BHRT. I'm not sure what move
 
 Still no TOM and very little sex drive which is weird for me. Still doing CT. Did 45 minutes last night, kind of dreaded getting in but it was fine when I was in it (typical).
 
-### jeanie@truelongmont.com — 2012-09-05T04:07:33+0300
+### [email redacted] — 2012-09-05T04:07:33+0300
 **Source:** <https://forum.jackkruse.com/threads/keeping-kim-honest.2454/post-49527>
 
 > **NWgirl;50035 wrote:** Still doing well! I've been really into lamb lately, had a major craving for it. Not sure what that's about but I'm enjoying it along with fish for most meals.
@@ -4635,7 +4635,7 @@ I got sick like that a few times. It was always a combination of big and fatty m
 **Subforum:** My Optimal Journal
 **Posts:** 11
 ══════════════════════════════════════════════════════════════════════
-### lorrainemartinek@gmail.com — 2012-10-02T17:47:51+0300
+### [email redacted] — 2012-10-02T17:47:51+0300
 **Source:** <https://forum.jackkruse.com/threads/waging-war-on-wat.4067/post-55834>
 
 I need a journal. It isn't something I usually do but I can't seem to keep my self in line. So feel free. To give me a verbal ass kicking when needed.
@@ -4674,7 +4674,7 @@ Instead of weighing myself I am going to use a pair of pants to gauge weightloss
 
 Well let me get my gimpy butt out of bed and get going with the day....
 
-### jeanie@truelongmont.com — 2012-10-02T17:51:20+0300
+### [email redacted] — 2012-10-02T17:51:20+0300
 **Source:** <https://forum.jackkruse.com/threads/waging-war-on-wat.4067/post-55836>
 
 > **Warrior Woman;57025 wrote:** I need a journal. It isn't something I usually do but I can't seem to keep my self in line. So feel free. To give me a verbal ass kicking when needed.
@@ -4733,7 +4733,7 @@ I like you! Welcome!
 
 Hmm. Kinda hard to kick ass with your foot in a cast but you seem to be doing a good job of it anyway.  So yeah, welcome!
 
-### lorrainemartinek@gmail.com — 2012-10-02T20:30:37+0300
+### [email redacted] — 2012-10-02T20:30:37+0300
 **Source:** <https://forum.jackkruse.com/threads/waging-war-on-wat.4067/post-55890>
 
 Thank for the welcome!
@@ -4749,7 +4749,7 @@ Marleen- I am always kicking ass! LOL! The BF tells people I broke my foot off i
 
 Hmm. And what did he do that he might deserve that ass kicking?
 
-### lorrainemartinek@gmail.com — 2012-10-03T15:57:31+0300
+### [email redacted] — 2012-10-03T15:57:31+0300
 **Source:** <https://forum.jackkruse.com/threads/waging-war-on-wat.4067/post-56052>
 
 Actually he has been a dream! He has been taking care of me after the surgery. I have nothing but pure appreciation for him!
@@ -4760,7 +4760,7 @@ Brunch 2 eggs with garlic onions cheese 1/2 avocado and a nice serving of brocco
 
 Dinner some leftover chic/shrimp curry and large serving of crab legs with ghee plus some Brussels sprouts
 
-### lorrainemartinek@gmail.com — 2012-10-05T17:51:32+0300
+### [email redacted] — 2012-10-05T17:51:32+0300
 **Source:** <https://forum.jackkruse.com/threads/waging-war-on-wat.4067/post-56484>
 
 Well my food is good. Last two mornings I had salmon for breakfast. It keeps me full. I've been eating twice a day. I've had a postnasal drip wrecking havoc on me. I've worn my cold fat burner 2 hours and even put the ice pack on my stomach for an hour.
@@ -4772,7 +4772,7 @@ I have an appointment with the surgeon Tuesday. I am hoping to get a removable b
 
 I'm hoping to get one of the CFBs soon....the shipping cost for international is ridiculous though so until I can arrange a stateside delivery I'm waiting. Sound like I'm going to love it though!
 
-### lorrainemartinek@gmail.com — 2012-10-07T02:37:55+0300
+### [email redacted] — 2012-10-07T02:37:55+0300
 **Source:** <https://forum.jackkruse.com/threads/waging-war-on-wat.4067/post-56653>
 
 When you see the words "low fat" or "fat free" think "CHEMICAL \*\*\*\* STORM"
@@ -4816,7 +4816,7 @@ Dr office says no rinsing... They do not follow zrtlab instructions. Also, I may
 
 Oh dear! Now they say I should do the test 7-9 days BEFORE the first day of TOM. So the 5 panel saliva test will be done later this month.
 
-### jeanie@truelongmont.com — 2012-10-05T23:35:56+0300
+### [email redacted] — 2012-10-05T23:35:56+0300
 **Source:** <https://forum.jackkruse.com/threads/linds-back-to-the-future-journey.4137/post-56530>
 
 This drives me nuts, specially when I'm paying out of pocket. I've had that thing where you get results back and someone says "if you did it this way instead of what you did it would have been better". So WTF! What if I were dying of something?!!
@@ -4828,7 +4828,7 @@ This drives me nuts, specially when I'm paying out of pocket. I've had that thin
 
 Exactly the same thoughts I was just having! I nearly wasted $150. Really surprised I was advised incorrectly... I wasn't expecting that from her.
 
-### jeanie@truelongmont.com — 2012-10-05T23:49:05+0300
+### [email redacted] — 2012-10-05T23:49:05+0300
 **Source:** <https://forum.jackkruse.com/threads/linds-back-to-the-future-journey.4137/post-56533>
 
 > **LinD;57794 wrote:** Exactly the same thoughts I was just having! I nearly wasted $150. Really surprised I was advised incorrectly... I wasn't expecting that from her.
@@ -5769,7 +5769,7 @@ Weight is up 3.5 pounds...hoping its not the harbinger of more to come. I know t
 
 Everyone have a good day...watch out for wild hamsters. Vicious things, wild hamsters.
 
-### jeanie@truelongmont.com — 2012-10-15T17:05:25+0300
+### [email redacted] — 2012-10-15T17:05:25+0300
 **Source:** <https://forum.jackkruse.com/threads/if-youre-gonna-go-go-like-hell-if-youre-not-sure-dont-use-your-spurs.4295/post-58313>
 
 Glad you are posting more FD! I'm enjoying your perspective and your posts!
@@ -5871,7 +5871,7 @@ Breakfast is lox with cream cheese and lumpfish roe. Little poppy balls of fishy
 
 Took for flippin' EVER last night to get warm, but I made the mistake going straight to bed. Oops.
 
-### jeanie@truelongmont.com — 2012-10-16T17:37:38+0300
+### [email redacted] — 2012-10-16T17:37:38+0300
 **Source:** <https://forum.jackkruse.com/threads/if-youre-gonna-go-go-like-hell-if-youre-not-sure-dont-use-your-spurs.4295/post-58527>
 
 > **FarmersDaughter;60045 wrote:** Holy stormy weather! I bet the hen thinks letting me have her chicks and move them inside the coop, and her with them, was a great decision now. Lol...welcome to the prairie...been over 100 days with no measurable precipitation, but buddy when she comes, she comes with a vengeance. It's raining sideways now, 30 mph winds, and gusts are 50+, I'll bet. Straight outta the NW.
@@ -6647,7 +6647,7 @@ When the body is under chronic stress, pregnenolone, the precursor to all other 
 **Subforum:** My Optimal Journal
 **Posts:** 7
 ══════════════════════════════════════════════════════════════════════
-### saben555@gmail.com — 2012-12-11T21:50:43+0200
+### [email redacted] — 2012-12-11T21:50:43+0200
 **Source:** <https://forum.jackkruse.com/threads/saras-journal.5128/post-67165>
 
 Hi everyone,
@@ -11527,7 +11527,7 @@ You have Aldi in Australia..? That is funny! I remember when I lived in Germany 
 **Subforum:** My Optimal Journal
 **Posts:** 16
 ══════════════════════════════════════════════════════════════════════
-### thomasdoud@gmail.com — 2014-03-11T17:24:42+0200
+### [email redacted] — 2014-03-11T17:24:42+0200
 **Source:** <https://forum.jackkruse.com/threads/toms-journey-to-optimal.10112/post-114807>
 
 I am 52 years old and in good general health with some minor issues but trying to keep them from becoming big issues. I have been following the blog for some time but finally getting labs and trying to be optimal. Generally epi paleo diet but not perfect. Working on water sleep and emf as well. I have done CT but not consistently over time. My minor health issues are high iron (23 and me revealed processing problem, will post details) low free testosterone, high TSH, high BUN/CR ratio. I also have APOE 3/4. Considering getting local functional medicine doc to analyze MTHFR and 23 and me results. I would appreciate any and all comments regarding labs. Seems I need more in depth thyroid testing and not sure how to address low free T other than CT.
@@ -11538,7 +11538,7 @@ I am 52 years old and in good general health with some minor issues but trying t
 Hi Thomas, good to hear from you again. Are you getting some sunshine? Nothing like free energy...
 I would have to agree that non-native EMF might be your biggest problem.
 
-### thomasdoud@gmail.com — 2014-03-11T21:41:17+0200
+### [email redacted] — 2014-03-11T21:41:17+0200
 **Source:** <https://forum.jackkruse.com/threads/toms-journey-to-optimal.10112/post-114841>
 
 Hard in Michigan these days. I have read on other sites that sun helps low T. Makes sense w optimal model. I do have a low EMF tanning panel but I am not sure if I should do that a lot if my redox isn't great. I did get a Vielight and hope that will help. I am turning fuse to room off at night but after last webinar wondering if I need to power more of the circuits down to really reduce EMF. It is interesting that both my wife and I have similar BUN/CR ratios. Hard to say but the field we sleep in could be it.
@@ -11559,7 +11559,7 @@ Think about becoming a "Gold" member and then you will have access to all the we
 
 Do you turn off the breaker to your bedroom?
 
-### thomasdoud@gmail.com — 2014-03-12T00:45:20+0200
+### [email redacted] — 2014-03-12T00:45:20+0200
 **Source:** <https://forum.jackkruse.com/threads/toms-journey-to-optimal.10112/post-114883>
 
 Caroline I do turn off breaker in the last few weeks but after EMF webinar I think I need to kill more circuits. I have the Trifield 100XE EMF Meter but Nuert is not a big fan so I am not even sure if checking that would give me correct info. I know Jack kills most of his power. Not sure my wife would like the refrigerator shut off but it is right under our bed as well as all the kitchen appliances. I am going to bring in water now until I can get water tested but no cheap options unless I drive a long way locally to do water testing. I have RO well water but might still be bad. I have been adding more seafood. CT is an obvious need but since my wife will not yet I have been trying to help her too with things we can do together but need to do more CT. Will probably try adding more sun tanning and Vielight and CT.
@@ -11575,7 +11575,7 @@ There is a forum member Nick. His very young son had many health issues. Dr. k. 
 
 Keep working at it Thomas - that is what we all are doing.......
 
-### thomasdoud@gmail.com — 2014-03-12T01:23:12+0200
+### [email redacted] — 2014-03-12T01:23:12+0200
 **Source:** <https://forum.jackkruse.com/threads/toms-journey-to-optimal.10112/post-114897>
 
 Caroline that is just awesome info. I have been doing a lot to lead her and she has come a long way. Will consider basement and I will give the meter a try to see if I can detect the EMF. Probably better to just kill most of the circuits anyway. Thanks for the encouragement!
@@ -11605,12 +11605,12 @@ I want to hear tomorrow how it was sleeping in your basement .... okay??? It wou
 
 and complete darkness.........
 
-### thomasdoud@gmail.com — 2014-03-12T15:17:06+0200
+### [email redacted] — 2014-03-12T15:17:06+0200
 **Source:** <https://forum.jackkruse.com/threads/toms-journey-to-optimal.10112/post-115000>
 
 Yes on the EMF webinar and if I can get home in time hope to listen in the sleep one too. I am on the Reset,
 
-### thomasdoud@gmail.com — 2014-03-12T16:14:02+0200
+### [email redacted] — 2014-03-12T16:14:02+0200
 **Source:** <https://forum.jackkruse.com/threads/toms-journey-to-optimal.10112/post-115009>
 
 I am wondering if anyone can comment on my hormone profile. My total testosterone is above the range but very little free T. I think optimal free T is near or above range. Maybe 20+ on this test. SHBG is very high and that probably explains why my T is not free. Does this point to anything in particular to consider for supplements? Is there a thread out there that discusses low free T when total is high? Should DHES-S be near top of range?
@@ -11628,7 +11628,7 @@ I am wondering if anyone can comment on my hormone profile. My total testosteron
     Sex Hormone Binding Globulin
     104.6
 
-### thomasdoud@gmail.com — 2014-03-12T16:32:09+0200
+### [email redacted] — 2014-03-12T16:32:09+0200
 **Source:** <https://forum.jackkruse.com/threads/toms-journey-to-optimal.10112/post-115013>
 
 [http://forum.jackkruse.com/index.ph...at-are-you-thoughts-on-this.8791/#post-100992](http://forum.jackkruse.com/index.php?threads/tribulus-terrestris-what-are-you-thoughts-on-this.8791/#post-100992)
@@ -11647,7 +11647,7 @@ and run around naked like Dr. K.
 etc.
 etc.
 
-### thomasdoud@gmail.com — 2014-03-13T01:37:34+0200
+### [email redacted] — 2014-03-13T01:37:34+0200
 **Source:** <https://forum.jackkruse.com/threads/toms-journey-to-optimal.10112/post-115084>
 
 Thanks Caroline for pointing that out. I will repost with other lab data there. Attached is my 23 and me commentary in iron processing.
@@ -15513,7 +15513,7 @@ Just wondering how much of this knee pain is new and how much is just a change i
 > [Jamner LD](http://www.ncbi.nlm.nih.gov/pubmed/?term=Jamner%20LD%5BAuthor%5D&cauthor=true&cauthor_uid=9526150)1, [Girdler SS](http://www.ncbi.nlm.nih.gov/pubmed/?term=Girdler%20SS%5BAuthor%5D&cauthor=true&cauthor_uid=9526150), [Shapiro D](http://www.ncbi.nlm.nih.gov/pubmed/?term=Shapiro%20D%5BAuthor%5D&cauthor=true&cauthor_uid=9526150), [Jarvik ME](http://www.ncbi.nlm.nih.gov/pubmed/?term=Jarvik%20ME%5BAuthor%5D&cauthor=true&cauthor_uid=9526150).
 > **[Author information](http://www.ncbi.nlm.nih.gov/pubmed/9526150#)**
 >
-> -   1Department of Psychology and Social Behavior, School of Social Ecology, University of California 92697-7085, USA. [ljamner@uci.edu](mailto:ljamner@uci.edu)
+> -   1Department of Psychology and Social Behavior, School of Social Ecology, University of California 92697-7085, USA. [[email redacted]](mailto:[email redacted])
 >
 > **Abstract**
 > The ability of nicotine to decrease sensitivity to pain in humans has been a subject of dispute. Decreased sensitivity has been demonstrated in studies involving men, whereas the effect has been less obvious or absent in studies involving predominantly, or entirely, women. To determine whether there are gender differences in nicotine's hypoalgesic actions, ratings of electrocutaneous stimulation were obtained from 30 male and 44 female smokers and nonsmokers under placebo and nicotine conditions. Nicotine increased the pain threshold and tolerance ratings of men but had no effect on the pain ratings of women. Among men, there was no effect of smoking history, suggesting that the changes in pain perception reflect a direct pain-inhibitory effect of nicotine rather than a relief from acute nicotine withdrawal. Nicotine had no effect on mood or task ratings, indicating that the antinociceptive effects observed were not due to nicotine's putative mood effects.
@@ -16468,7 +16468,7 @@ Micah
 
 **Micah Weathers**
 Western Regional Sales Manager
-[mweathers@lifelength.com](mailto:mweathers@lifelength.com)
+[[email redacted]](mailto:[email redacted])
 
 _**Quite pricey compared to the Spectracell test I can get at my doctor's for $200, but it is a more detailed test and report.**_
 
@@ -16540,7 +16540,7 @@ sounds like a plan.....
 >
 > **Micah Weathers**
 > Western Regional Sales Manager
-> [mweathers@lifelength.com](mailto:mweathers@lifelength.com)
+> [[email redacted]](mailto:[email redacted])
 >
 > _**Quite pricey compared to the Spectracell test I can get at my doctor's for $200, but it is a more detailed test and report.**_
 

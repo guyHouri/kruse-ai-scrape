@@ -5324,7 +5324,7 @@ It sounds like you had a great day...... such simple pleasures ..... such massiv
 
 That's AWESOME!!!! A CT tub for two. Don't know if that would work for me since I like to "cuddle" with the hubby to warm up
 
-### kjgraffin@yahoo.com — 2013-10-15T03:25:38+0300
+### [email redacted] — 2013-10-15T03:25:38+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-vs-magnetico.8442/post-97867>
 
 Are ya'll filling your stock tanks with non-flouridated water? I can't imagine getting enough water to fill it without taking quite a few trips to the spring for water. Does it matter what kind of water you use?
@@ -5486,7 +5486,7 @@ I was worried about not getting enough sunlight in the Carolinas Huck. I'm glad 
 
 BJ ...I think that you have it pretty well nailed...... you have a good head on your shoulders! What about your family? I remember that was a huge concern for you before.....
 
-### kjgraffin@yahoo.com — 2013-10-15T03:31:34+0300
+### [email redacted] — 2013-10-15T03:31:34+0300
 **Source:** <https://forum.jackkruse.com/threads/relocating-needs-vs-wants.8443/post-97869>
 
 > [BJK77 said:](/goto/post?id=97827)
@@ -7258,7 +7258,7 @@ Hmmm, I might just try the kelp noodles. Maybe I can find them at my local healt
 
 Me too. I'm a bit bummed. Since becoming a gold member I don't seem to be getting the emails. I didn't get it for the October webinar until I contacted support to send it to me. I didn't receive a single email about this Q&A or the upcoming October Webinar Q&A.
 
-Does anyone else have trouble getting the emails? I really would have liked to participate in this one! Support told me to check my spam folder, but there was nothing in there and I have added [support@jackkruse.com](mailto:support@jackkruse.com) to my contacts/address book so there's no reason I shouldn't be getting the emails :/
+Does anyone else have trouble getting the emails? I really would have liked to participate in this one! Support told me to check my spam folder, but there was nothing in there and I have added [[email redacted]](mailto:[email redacted]) to my contacts/address book so there's no reason I shouldn't be getting the emails :/
 
 ### cinnamon — 2013-10-17T18:38:02+0300
 **Source:** <https://forum.jackkruse.com/threads/free-community-wide-q-a.8477/post-98163>
@@ -8213,7 +8213,7 @@ Question - how far away should EMF emitting devises be or is it a accumulation o
 ### ATL_Paleo — 2013-10-21T04:40:15+0300
 **Source:** <https://forum.jackkruse.com/threads/merrily-measuring-my-magnetism.8486/post-98466>
 
-> [osowski1@msn.com said:](/goto/post?id=98431)
+> [[email redacted] said:](/goto/post?id=98431)
 >
 > Anyone have results like that from using night settings on f.lux during the day?
 
@@ -8226,7 +8226,7 @@ This enhancement made me think to check my TV. Yup ... I could adjust colors to 
 ### Inger — 2013-10-21T09:09:11+0300
 **Source:** <https://forum.jackkruse.com/threads/merrily-measuring-my-magnetism.8486/post-98483>
 
-> [osowski1@msn.com said:](/goto/post?id=98431)
+> [[email redacted] said:](/goto/post?id=98431)
 >
 > I've been using the body voltage meter to reduce the emfs. I was surprised at how high our hot tub in the master bath was eventhoughnwe didn't use it. Turned it off at the circuit. Also, my daughters room is above the garage and was able to bring it down by eliminating the fluorescent lighting in the garage and turning circuit off at night. Still working on this. I am able to work a lot at home although I am an IT software developer. I have found the lowest readings are from the basement or on nice days outside on a covered concrete porch area. I've eliminated all blue light by sitting close to a window.....except for my computer. A couple of days I've tried to use f.lux during the day but it totally kept me awake at night so guess I will try it again to see if same results. Anyone have results like that from using night settings on f.lux during the day?
 
@@ -11686,7 +11686,7 @@ Thanks ..... I will....I do not understand what is happening with the pms....
 > [GoldFishie said:](/goto/post?id=98998)
 >
 > No, I did not receive it. Seriously, I have some help to offer you in regards to your strabismus, in Australia no less! Email me at
-> [JackRocksStarFish@yahoo.com](mailto:JackRocksStarFish@yahoo.com)
+> [[email redacted]](mailto:[email redacted])
 
 Did you get my email??? we will connect, we will connect, we will connect........
 
@@ -12242,7 +12242,7 @@ When your hands/heart are open .... you do receive gifts.......
 **Subforum:** The New Monster Thread
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### kjgraffin@yahoo.com — 2013-10-27T23:44:51+0200
+### [email redacted] — 2013-10-27T23:44:51+0200
 **Source:** <https://forum.jackkruse.com/threads/cold-adapting-but-still-have-a-few-issues.8578/post-99186>
 
 Since my thyroid has really improved, I found myself looking forward to colder weather for the first time I can ever remember. I've been getting out and hiking with the temps in the 50's and I can't believe how great it feels. Just last Fall I was turning on the heat if it got colder than 72 in the car. Im loving being able to enjoy the cooler temps, but I'm still having a couple of issues that I can't figure out.
@@ -12256,7 +12256,7 @@ Thanks for any thoughts.
 
 Do you wear a hat when outside? you are much more active outside? and getting grounded and sunlight........just being in nature is wonderful.
 
-### kjgraffin@yahoo.com — 2013-10-28T02:09:43+0200
+### [email redacted] — 2013-10-28T02:09:43+0200
 **Source:** <https://forum.jackkruse.com/threads/cold-adapting-but-still-have-a-few-issues.8578/post-99201>
 
 I don't wear a hat. I used to wear ear muffs and am thinking I need to wear them again, but I would really like to know why it bothers my ears so much.
@@ -18937,7 +18937,7 @@ Barrie and Freeman showed how the act of smelling molecules made a long range al
 
 From here:Chaotic oscillations and the genesis of meaning in cerebral cortex
 Walter J. Freeman and John M. Barrie (1994)
-Department of Molecular & Cell Biology, LSA 129 University of California, Berkeley CA 94720 USA TEL 1 (510) 642-4220; FAX (510) 643-6791 e-mail: [wfreeman@garnet.berkeley.edu](mailto:wfreeman@garnet.berkeley.edu)
+Department of Molecular & Cell Biology, LSA 129 University of California, Berkeley CA 94720 USA TEL 1 (510) 642-4220; FAX (510) 643-6791 e-mail: [[email redacted]](mailto:[email redacted])
 
 Insulin secretion is lost in diabetes because of a lack of this coherence all tied to a lack of entrainment of circadian cycles.
 
@@ -24228,7 +24228,7 @@ Alex, do not fall prey to believe food is not important! It absolutely is in our
 
 ....... I have lots of knowledge on eating cheap and well, some ideas for you
 
-Write this very friendly women at max metzgers; [angela.galbierz@max-metzger.de](mailto:angela.galbierz@max-metzger.de) Ask for grassfed beef and fat and hearts, you might get liver too. Very cheap! You can buy the cheapest cuts, just ask her she will know. I have ordered form her for many years, they even send me stuff to Finland! Das Paket wird bei dir in ein paar Tage sein und die Versandkosten sind echt guenstig auch wen du viel bestellst
+Write this very friendly women at max metzgers; [[email redacted]](mailto:[email redacted]) Ask for grassfed beef and fat and hearts, you might get liver too. Very cheap! You can buy the cheapest cuts, just ask her she will know. I have ordered form her for many years, they even send me stuff to Finland! Das Paket wird bei dir in ein paar Tage sein und die Versandkosten sind echt guenstig auch wen du viel bestellst
 
 Then... eat lots of Pollock, look that it is caught in North Atlantic, not Pacific if possible. Prefrozen Pollock is very cheap and tastes just nice! I eat it raw, but for sure you can cook it gently too if you like (I eat all my fish raw always, no compromises there, because I do not want breast cancer... there is something in raw fish that protects against it ;-) )
 
@@ -27769,7 +27769,7 @@ Maybe you already help your friends... just by being you...... I think we have m
 
 Nice. I have now no brain freeze anymore, when I drink much ice cold water fast.
 
-### patgrif@hotmail.com — 2016-06-12T05:01:11+0300
+### [email redacted] — 2016-06-12T05:01:11+0300
 **Source:** <https://forum.jackkruse.com/threads/butters-journal.8818/post-196397>
 
 > [Butters said:](/goto/post?id=192001)
@@ -32410,7 +32410,7 @@ Since our skin has a photoelectric effect, is it possible that our hair can coll
 After all, our brains are energy hogs.
 ( Maybe Samson really DID lose all his power when his hair was cut (lol!))
 
-### patgrif@hotmail.com — 2015-02-28T21:36:49+0200
+### [email redacted] — 2015-02-28T21:36:49+0200
 **Source:** <https://forum.jackkruse.com/threads/responses-to-ray-peats-conclusions.8834/post-156908>
 
 Mike, I think Dr K's idea is we lost our hair to GAIN photo-electric effect. I believe he is saying it was one of the major gains in power that we needed for our brains. That makes a lot of sense to me. Maybe hair can somehow transmit 'power' but I imagine it was more to keep animals warm losing hair would on the face of it have many dis-advantages but the increase in power would have been a greater advantage for a creature with a big brain (us)
@@ -32609,7 +32609,7 @@ Osho
 
 Via Josh Ferber........very appropriate for this thread. There is a deep lesson here. I'm not interested in being liked........just correct. And my curiosity always is my best critic.
 
-### patgrif@hotmail.com — 2015-03-02T20:48:40+0200
+### [email redacted] — 2015-03-02T20:48:40+0200
 **Source:** <https://forum.jackkruse.com/threads/responses-to-ray-peats-conclusions.8834/post-157190>
 
 > [NeilBB said:](/goto/post?id=156983)
@@ -35410,7 +35410,7 @@ Love is fractal.... Nice, Inger! And very true.
 **Subforum:** Optimal Labs
 **Posts:** 5
 ══════════════════════════════════════════════════════════════════════
-### kjgraffin@yahoo.com — 2013-11-26T23:44:58+0200
+### [email redacted] — 2013-11-26T23:44:58+0200
 **Source:** <https://forum.jackkruse.com/threads/advanced-oxidant-stress-profile.8894/post-101692>
 
 My doctor ordered an oxidative stress test to see what my glutathione levels look like. We are working on so many things (Lyme, leaky gut, hypothyroidism), she thought it would be helpful. I'm wondering if anyone on here is familiar with it and what you might think. She seemed to think things looked great. What I would really like to know, is why this is good information to have and what exactly is it telling me (if anything).
@@ -35430,7 +35430,7 @@ Glutathione Peroxidase 25.6 (18.1-191.2)
 SOD I 26.9 (4.9-23.0)
 SOD II 25.7 (9.4-47.0)
 
-### kjgraffin@yahoo.com — 2013-12-04T19:03:49+0200
+### [email redacted] — 2013-12-04T19:03:49+0200
 **Source:** <https://forum.jackkruse.com/threads/advanced-oxidant-stress-profile.8894/post-102295>
 
 So no one has any thoughts? With the importance of glutathione, I would just like to know if mine looks good and that it looks like I am able to use it.

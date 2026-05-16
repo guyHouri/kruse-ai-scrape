@@ -34459,7 +34459,7 @@ who obviously will benefit the most from this…you, the patient or customers of
 hear loud and clear some of the things you would like incorporated and some of the new ideas you may
 have no matter how out of the box it is. Please leave them in the comment section at the end of the blog. If
 you’re a friend of ours on Facebook, leave them for us there or you can tweet them to us as well. If you
-don’t feel comfortable doing that you can email it to me at jack@neurosurgical.net or send them to Brent at
+don’t feel comfortable doing that you can email it to me at [email redacted] or send them to Brent at
 his site, www.epistemocrat.blogspot.com. We need to hear what you would like in this type of plan.
 The system we envision will use a lot of new internet technology and will require the doctor patient
 relationship to change in some ways on both your side and our side. We think, however, you will have more

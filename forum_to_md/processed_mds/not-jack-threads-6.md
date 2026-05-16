@@ -8675,7 +8675,7 @@ THank you!
 > I think I have got onto the biohacking ecourse but nothings happened. Am I waiting for an email?
 > THank you!
 
-Yep. Right away. If you haven't received it, email support: [support@jackkruse.com](mailto:support@jackkruse.com)
+Yep. Right away. If you haven't received it, email support: [[email redacted]](mailto:[email redacted])
 
 ### Sammy — 2014-03-07T11:18:13+0200
 **Source:** <https://forum.jackkruse.com/threads/adrenal-exhaustion-new-here.9990/post-113961>
@@ -8955,7 +8955,7 @@ Your assumption is true.
 
 You have to login to the Optimal Reset in the Optimal Reset dashboard ... this program is separate from your membership. We have many people part of the reset who are not members. Here is where you will login: [https://jackkruse.com/2014-optimal-reset/wp-login.php](https://jackkruse.com/2014-optimal-reset/wp-login.php)
 
-We have hundreds of people accessing that dashboard, so I know it's working. If you have any trouble logging in, please forward the email you received to me that has your login and I will help you: [misty@jackkruse.com](mailto:misty@jackkruse.com).
+We have hundreds of people accessing that dashboard, so I know it's working. If you have any trouble logging in, please forward the email you received to me that has your login and I will help you: [[email redacted]](mailto:[email redacted]).
 
 ### Tanya — 2014-03-28T16:56:57+0200
 **Source:** <https://forum.jackkruse.com/threads/membership-upgrade.9992/post-118477>
@@ -8966,7 +8966,7 @@ We have hundreds of people accessing that dashboard, so I know it's working. If 
 >
 > You have to login to the Optimal Reset in the Optimal Reset dashboard ... this program is separate from your membership. We have many people part of the reset who are not members. Here is where you will login: [https://jackkruse.com/2014-optimal-reset/wp-login.php](https://jackkruse.com/2014-optimal-reset/wp-login.php)
 >
-> We have hundreds of people accessing that dashboard, so I know it's working. If you have any trouble logging in, please forward the email you received to me that has your login and I will help you: [misty@jackkruse.com](mailto:misty@jackkruse.com).
+> We have hundreds of people accessing that dashboard, so I know it's working. If you have any trouble logging in, please forward the email you received to me that has your login and I will help you: [[email redacted]](mailto:[email redacted]).
 
 Thank you, Misty. I forwarded that email along with my explanation to you.
 
@@ -11130,7 +11130,7 @@ I'm wondering if there is a link for Gold members for the special pricing.
 ### Shijin13 — 2014-03-07T18:20:14+0200
 **Source:** <https://forum.jackkruse.com/threads/hormone-bootcamp.10061/post-114011>
 
-send an email to [support@jackkruse.com](mailto:support@jackkruse.com) they can help you
+send an email to [[email redacted]](mailto:[email redacted]) they can help you
 
 ### caroline — 2014-03-08T00:07:24+0200
 **Source:** <https://forum.jackkruse.com/threads/hormone-bootcamp.10061/post-114052>
@@ -19219,7 +19219,7 @@ Thank God. The NHS would have been setting her up for a heart attack:
 
 [http://abcnews.go.com/Health/HeartH...ased-heart-attack-risk-post/story?id=13411283](http://abcnews.go.com/Health/HeartHealth/calcium-supplements-linked-increased-heart-attack-risk-post/story?id=13411283)
 
-### patgrif@hotmail.com — 2014-04-06T19:11:29+0300
+### [email redacted] — 2014-04-06T19:11:29+0300
 **Source:** <https://forum.jackkruse.com/threads/elderly-female-relative-given-chalk-by-the-nhs.10459/post-120070>
 
 Mike - you know SO much! I really am impressed. What do you 'do for a living' if you care to answer. Fine if you do not.
@@ -19235,7 +19235,7 @@ To be honest I don't think that's anywhere good enough. They're not even interes
 
 I think if I'd known what I know now a few years ago, I'd have tried whatever alternative methods I could to try to get the gland working properly again for itself. Even supposing a Paleo Diet or whatever could remove the problem, it's not going to start working again fully, if it's getting hormone supplied exogenously, is it?
 
-### patgrif@hotmail.com — 2014-04-07T04:15:41+0300
+### [email redacted] — 2014-04-07T04:15:41+0300
 **Source:** <https://forum.jackkruse.com/threads/elderly-female-relative-given-chalk-by-the-nhs.10459/post-120146>
 
 Thanks Mike - Interesting what you say. About having 'the best health care system in the world' you are not alone in that LOL! Politicians especially Republicans here are constantly saying that though I think they have a hard time being heard about the kind of open laughing that causes amongst a lot of people. The system here is riddled with profiteering on every level it's hard to know where to start. I don't even have 'health insurance' now I prefer to BE healthy if I can rather than rely on 'insurance'
@@ -19273,7 +19273,7 @@ It'd be nice to see you. Thanks. I could probably get to London, if I can get ti
 
 All the best.
 
-### patgrif@hotmail.com — 2014-04-07T09:35:36+0300
+### [email redacted] — 2014-04-07T09:35:36+0300
 **Source:** <https://forum.jackkruse.com/threads/elderly-female-relative-given-chalk-by-the-nhs.10459/post-120194>
 
 I was diagnosed as diabetic in 2003 and I don't taky any medication, never have. Though to be honest I don't know how 'well' I am doing really.
@@ -19295,7 +19295,7 @@ Yeah I got that book on thyroid you mentioned also but the other one was much mo
 ### Gagnrad — 2014-04-08T21:23:10+0300
 **Source:** <https://forum.jackkruse.com/threads/elderly-female-relative-given-chalk-by-the-nhs.10459/post-120428>
 
-> [patgrif@hotmail.com said:](/goto/post?id=120194)
+> [[email redacted] said:](/goto/post?id=120194)
 >
 > He looked dissapointed and said "ok I will set you up for your flu shot then" and I go "aargh......ummm...............no you won't actually" and well that was the end of our meeting.
 
@@ -28808,7 +28808,7 @@ I found this site useful when I started using infrared heat lamps.
 ### dan.orloski22 — 2014-05-31T18:04:56+0300
 **Source:** <https://forum.jackkruse.com/threads/email-support-for-membership.10969/post-129045>
 
-Will the [support@jackruse.com](mailto:support@jackruse.com) be back my monday?
+Will the [[email redacted]](mailto:[email redacted]) be back my monday?
 
 ### dan.orloski22 — 2014-06-01T01:08:48+0300
 **Source:** <https://forum.jackkruse.com/threads/email-support-for-membership.10969/post-129096>
@@ -36160,7 +36160,7 @@ I will have to throw away my latest batch tho. It is off... werid smell, weird t
 **Subforum:** Optimal Labs
 **Posts:** 5
 ══════════════════════════════════════════════════════════════════════
-### trishalinn@gmail.com — 2014-08-04T21:03:53+0300
+### [email redacted] — 2014-08-04T21:03:53+0300
 **Source:** <https://forum.jackkruse.com/threads/low-cortisol-major-fatigue.11454/post-136730>
 
 So... I've made a lot of strides the past few years to really clean up my family's and my diet, get the toxins out of our house, and just generally move towards healthier and more natural living. Despite this, I continue to feel worse and worse and worse. The last few months it's really escalated to the point where I'm so fatigued I can hardly keep with with necessary things around the house and I'm gaining 3+ pounds a week. I'm up nearly 50 pounds (yikes!). I have lots of other weird symptoms to go along with all of this too.
@@ -40756,7 +40756,7 @@ The next thing you know, you'll be posting a picture on the CT thread of the bot
 **Subforum:** Biohacking 101
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### thomasdoud@gmail.com — 2014-09-22T21:10:10+0300
+### [email redacted] — 2014-09-22T21:10:10+0300
 **Source:** <https://forum.jackkruse.com/threads/fir-sauna-vs-biomat-and-redox-biohack.11754/post-141633>
 
 Two questions that are related. What do folks think of getting a sauna vs. a bioMat? Is is preference or are there advantages to either? There seem to be some physiological improvements to sauna that are from the hermetic of raising temps so I might lean that direction. Ben Greenfield seems to use both but wondering if one had to choose is there a preference based on quantum model. Related question is what numbers would show good redox to start with IR? HSCRP at 0.5? BUN/CR 10? Are there symptoms one would have from IR use that would let one know they need to stop and get their Redox better?
@@ -40769,7 +40769,7 @@ i would imagine feeling drained rather than energiesed would suggest that your w
 ### persistence — 2014-11-25T07:19:17+0200
 **Source:** <https://forum.jackkruse.com/threads/fir-sauna-vs-biomat-and-redox-biohack.11754/post-148399>
 
-> [thomasdoud@gmail.com said:](/goto/post?id=141633)
+> [[email redacted] said:](/goto/post?id=141633)
 >
 > Two questions that are related. What do folks think of getting a sauna vs. a bioMat? Is is preference or are there advantages to either? There seem to be some physiological improvements to sauna that are from the hermetic of raising temps so I might lean that direction. Ben Greenfield seems to use both but wondering if one had to choose is there a preference based on quantum model. Related question is what numbers would show good redox to start with IR? HSCRP at 0.5? BUN/CR 10? Are there symptoms one would have from IR use that would let one know they need to stop and get their Redox better?
 
@@ -50748,7 +50748,7 @@ a client is trying to join the forum but has not received a confirmation email..
 ### Shijin13 — 2014-12-23T01:58:33+0200
 **Source:** <https://forum.jackkruse.com/threads/new-members.12448/post-150823>
 
-Send in a helpticket... [support@jackkruse.com](mailto:support@jackkruse.com)
+Send in a helpticket... [[email redacted]](mailto:[email redacted])
 
 ### caroline — 2014-12-23T06:10:28+0200
 **Source:** <https://forum.jackkruse.com/threads/new-members.12448/post-150837>

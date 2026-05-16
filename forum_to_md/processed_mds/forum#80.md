@@ -3464,7 +3464,7 @@ To identify which vaccines in the USDA’s database are mRNA-based:
 
 1.  Visit the **APHIS Veterinary Biologics Product Summaries**: [APHIS Product Summaries](https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/product-summaries).
 2.  Search by manufacturer (e.g., Merck Animal Health for SEQUIVITY) or product code (e.g., 19A5.RC for swine influenza).
-3.  Check product descriptions or contact the CVB at [cvb@aphis.usda.gov](mailto:cvb@aphis.usda.gov) or (515) 337-6100 for clarification on whether a vaccine uses mRNA technology.
+3.  Check product descriptions or contact the CVB at [[email redacted]](mailto:[email redacted]) or (515) 337-6100 for clarification on whether a vaccine uses mRNA technology.
 4.  Review CVB notices (e.g., CVB Notice 24-11, 24-13) for updates on new or conditional licenses, especially for HPAI vaccines.
 
 ### Challenges​
@@ -3515,7 +3515,7 @@ To identify which vaccines in the USDA’s database are mRNA-based:
 >
 > 1.  Visit the **APHIS Veterinary Biologics Product Summaries**: [APHIS Product Summaries](https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/product-summaries).
 > 2.  Search by manufacturer (e.g., Merck Animal Health for SEQUIVITY) or product code (e.g., 19A5.RC for swine influenza).
-> 3.  Check product descriptions or contact the CVB at [cvb@aphis.usda.gov](mailto:cvb@aphis.usda.gov) or (515) 337-6100 for clarification on whether a vaccine uses mRNA technology.
+> 3.  Check product descriptions or contact the CVB at [[email redacted]](mailto:[email redacted]) or (515) 337-6100 for clarification on whether a vaccine uses mRNA technology.
 > 4.  Review CVB notices (e.g., CVB Notice 24-11, 24-13) for updates on new or conditional licenses, especially for HPAI vaccines.
 >
 > ### Challenges​
@@ -9651,34 +9651,34 @@ Contact member support for both.
 >
 > Contact member support for both.
 
-I've reached out to [support@jackkruse.com](mailto:support@jackkruse.com) multiple times and haven't heard back. Is that the right member support?
+I've reached out to [[email redacted]](mailto:[email redacted]) multiple times and haven't heard back. Is that the right member support?
 
 ### Valerie888 — 2025-10-09T02:57:31+0300
 **Source:** <https://forum.jackkruse.com/threads/jeremy-and-eduardo.31707/post-360708>
 
 > [Bahu said:](/goto/post?id=360649)
 >
-> I've reached out to [support@jackkruse.com](mailto:support@jackkruse.com) multiple times and haven't heard back. Is that the right member support?
+> I've reached out to [[email redacted]](mailto:[email redacted]) multiple times and haven't heard back. Is that the right member support?
 
-I have also emailed [support@jackkruse.com](mailto:support@jackkruse.com) a couple of times since Friday and not heard back (my login for the dashboard is no longer working, and I can't get my password reset). That was the email address provided in the welcome video for support questions. Maybe something happened to the person who is supposed to respond? But I got an automated email from that address after somebody replied to one of my forum posts, so I don't know if that is a manned address after all.
+I have also emailed [[email redacted]](mailto:[email redacted]) a couple of times since Friday and not heard back (my login for the dashboard is no longer working, and I can't get my password reset). That was the email address provided in the welcome video for support questions. Maybe something happened to the person who is supposed to respond? But I got an automated email from that address after somebody replied to one of my forum posts, so I don't know if that is a manned address after all.
 
 ### Valerie888 — 2025-10-09T03:10:23+0300
 **Source:** <https://forum.jackkruse.com/threads/jeremy-and-eduardo.31707/post-360709>
 
 > [Valerie888 said:](/goto/post?id=360708)
 >
-> I have also emailed [support@jackkruse.com](mailto:support@jackkruse.com) a couple of times since Friday and not heard back (my login for the dashboard is no longer working, and I can't get my password reset). That was the email address provided in the welcome video for support questions. Maybe something happened to the person who is supposed to respond? But I got an automated email from that address after somebody replied to one of my forum posts, so I don't know if that is a manned address after all.
+> I have also emailed [[email redacted]](mailto:[email redacted]) a couple of times since Friday and not heard back (my login for the dashboard is no longer working, and I can't get my password reset). That was the email address provided in the welcome video for support questions. Maybe something happened to the person who is supposed to respond? But I got an automated email from that address after somebody replied to one of my forum posts, so I don't know if that is a manned address after all.
 
-Trying [info@kruseatdestin.com](mailto:info@kruseatdestin.com) (found that in another email) and will let you know what happens.
+Trying [[email redacted]](mailto:[email redacted]) (found that in another email) and will let you know what happens.
 
 ### Valerie888 — 2025-10-09T10:09:33+0300
 **Source:** <https://forum.jackkruse.com/threads/jeremy-and-eduardo.31707/post-360735>
 
 > [Valerie888 said:](/goto/post?id=360709)
 >
-> Trying [info@kruseatdestin.com](mailto:info@kruseatdestin.com) (found that in another email) and will let you know what happens).
+> Trying [[email redacted]](mailto:[email redacted]) (found that in another email) and will let you know what happens).
 >
-> > [Info@kruseatdestin.com](mailto:Info@kruseatdestin.com) works (I received a response within a few hours from someone who fixed the problem with my login)
+> > [[email redacted]](mailto:[email redacted]) works (I received a response within a few hours from someone who fixed the problem with my login)
 
 ### Bahu — 2025-10-09T17:44:17+0300
 **Source:** <https://forum.jackkruse.com/threads/jeremy-and-eduardo.31707/post-360760>
@@ -18210,7 +18210,7 @@ Hi,
 
 I am asking this question here as I've cancelled my gold membership on 9/22/25 but was billed in October on 10/9/22.
 I emailed RE cancelling membership x2, once 10/10/25, and again on 11/4/25, both with no response.
-Today, 11/8/25, I emailed [support@jackkruse.com](mailto:support@jackkruse.com) and [support@jackkruse.com](mailto:support@jackkruse.com) to inquire.
+Today, 11/8/25, I emailed [[email redacted]](mailto:[email redacted]) and [[email redacted]](mailto:[email redacted]) to inquire.
 
 I did get an email at some point about support tickets being marked as Spam and there were issues with emails getting through.
 
@@ -29951,7 +29951,7 @@ What is the website?
 ### JenniferM — 2026-01-11T23:32:48+0200
 **Source:** <https://forum.jackkruse.com/threads/living-in-california-recovering-from-mrsa-with-company-and-chlorine-dioxide.32111/post-365171>
 
-It's been over 6yrs ago probably. Can't find it now but I still get emails from him at [office@andrewkaufmanmd.com](mailto:office@andrewkaufmanmd.com). Maybe email him?
+It's been over 6yrs ago probably. Can't find it now but I still get emails from him at [[email redacted]](mailto:[email redacted]). Maybe email him?
 
 ### janisu — 2026-01-14T01:37:20+0200
 **Source:** <https://forum.jackkruse.com/threads/living-in-california-recovering-from-mrsa-with-company-and-chlorine-dioxide.32111/post-365289>
@@ -35735,7 +35735,7 @@ On another note, met with Tom (The mito-realtor) today and he is AMAZING. Vibed 
 
 I asked clusk at the last market and he said they do have non prescription Lucia eyes for sale in the city . Please email
 
-[M@palestrasociety.com](mailto:M@palestrasociety.com)
+[[email redacted]](mailto:[email redacted])
 
 
 ══════════════════════════════════════════════════════════════════════

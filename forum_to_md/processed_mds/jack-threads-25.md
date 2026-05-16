@@ -2732,7 +2732,7 @@ I tried cod liver oil for years then moved on to Krill because of the higher EPA
 **Subforum:** Optimal Labs
 **Posts:** 51
 ══════════════════════════════════════════════════════════════════════
-### thomasdoud@gmail.com — 2014-03-13T02:07:19+0200
+### [email redacted] — 2014-03-13T02:07:19+0200
 **Source:** <https://forum.jackkruse.com/threads/low-free-t-high-iron-high-bun-cr.10135/post-115094>
 
 I have some labs I would love your opinion on. I am following many of the protocols and the key things I see on recent labs is high iron, high BUN/Cr ratio and Low free T. I will attach two sets of labs done 11/13 and 3/14 as well as my 23andme profile regarding iron. I gave blood between these two tests to help to help the iron levels. Any comments, links to similar discussions or advice are welcome.
@@ -2744,12 +2744,12 @@ Surprising to me is the jump in BUN/Cr since I have made changes in water qualit
 
 dont be surprised........that is information that tells you a lot about your environment.
 
-### thomasdoud@gmail.com — 2014-03-13T02:54:04+0200
+### [email redacted] — 2014-03-13T02:54:04+0200
 **Source:** <https://forum.jackkruse.com/threads/low-free-t-high-iron-high-bun-cr.10135/post-115114>
 
 Jack makes sense my wife's ratio is the same. Working on EMF and water.
 
-### thomasdoud@gmail.com — 2014-03-13T03:00:12+0200
+### [email redacted] — 2014-03-13T03:00:12+0200
 **Source:** <https://forum.jackkruse.com/threads/low-free-t-high-iron-high-bun-cr.10135/post-115115>
 
 I also have APOE 3/4.
@@ -2759,7 +2759,7 @@ I also have APOE 3/4.
 
 So .. Don't forget.....you guys are sleeping in the basement tonite!
 
-### thomasdoud@gmail.com — 2014-03-13T14:16:21+0200
+### [email redacted] — 2014-03-13T14:16:21+0200
 **Source:** <https://forum.jackkruse.com/threads/low-free-t-high-iron-high-bun-cr.10135/post-115167>
 
 Love your persistence Caroline. It helps.
@@ -2794,7 +2794,7 @@ Forget the basement, try a week in a debris hut on the Upper Peninsula....just j
 
 What the heck is a debris hut Josh?
 
-### thomasdoud@gmail.com — 2014-03-14T21:40:49+0200
+### [email redacted] — 2014-03-14T21:40:49+0200
 **Source:** <https://forum.jackkruse.com/threads/low-free-t-high-iron-high-bun-cr.10135/post-115446>
 
 Josh have a rustic cabin in UP sounds good. Thanks for your input. I also have a Yasko analysis that discuss B vitamins based on SNP's. Uber complex but the vast number of supplements advised makes me overwhelmed by that whole analysis. Just started this today: [http://www.amazon.com/gp/product/B004EG67NA/ref=oh\_details\_o01\_s00\_i00?ie=UTF8&psc=1](http://www.amazon.com/gp/product/B004EG67NA/ref=oh_details_o01_s00_i00?ie=UTF8&psc=1)
@@ -2810,7 +2810,7 @@ I am sure I need more CT.
 
 Yasko's new book is quite simple and good. I am reading it now. I would get a practitioner to work with if I were you until when and if you really feel grounded in the material. It is not simple and the perspective from seeing many cases really helps to stage and prioritize things. The recommendations are to cover most things for most people, they may not be necessary for you. Much of it is new to me in spite of many years of study and practice. I am learning myself. The liver usually suffers because of stuff happening elsewhere that then overloads it combines with genetic limitations such as the ones suggested by your SNP's.
 
-### thomasdoud@gmail.com — 2014-03-14T22:36:06+0200
+### [email redacted] — 2014-03-14T22:36:06+0200
 **Source:** <https://forum.jackkruse.com/threads/low-free-t-high-iron-high-bun-cr.10135/post-115461>
 
 Yes I have local doc who I found through MTHFR support and will get exam soon.
@@ -2829,7 +2829,7 @@ Yes I have local doc who I found through MTHFR support and will get exam soon.
 
 That should have been self evident ..... lol
 
-### thomasdoud@gmail.com — 2014-03-16T14:03:10+0200
+### [email redacted] — 2014-03-16T14:03:10+0200
 **Source:** <https://forum.jackkruse.com/threads/low-free-t-high-iron-high-bun-cr.10135/post-115761>
 
 I am going to stop using laptop.
@@ -2839,7 +2839,7 @@ I am going to stop using laptop.
 
 Thomas you're my hero. I need to do the same.
 
-### thomasdoud@gmail.com — 2014-03-17T16:47:28+0200
+### [email redacted] — 2014-03-17T16:47:28+0200
 **Source:** <https://forum.jackkruse.com/threads/low-free-t-high-iron-high-bun-cr.10135/post-115936>
 
 Neurt says .1 or less and my meter shows about 4
@@ -2967,7 +2967,7 @@ Vitamin D25 Hyrdoxy Test # 081950, CPT code 82306
 Serotonin Test# 120204, CPT Code 84260 (requires frozen specimens)
 Pregnenolone Test# 140707, CPT Code 84140 (requires Frozen Specime
 
-### thomasdoud@gmail.com — 2014-03-19T03:48:07+0200
+### [email redacted] — 2014-03-19T03:48:07+0200
 **Source:** <https://forum.jackkruse.com/threads/low-free-t-high-iron-high-bun-cr.10135/post-116322>
 
 My total T is high (above range). I am wondering if just starting DHEA would be good for a start and work on redox potential Rx and environment. Will work with local doc on this but how is this dosed to start (DHEA)?
@@ -2975,7 +2975,7 @@ My total T is high (above range). I am wondering if just starting DHEA would be 
 ### caroline — 2014-03-19T05:32:33+0200
 **Source:** <https://forum.jackkruse.com/threads/low-free-t-high-iron-high-bun-cr.10135/post-116326>
 
-> [thomasdoud@gmail.com said:](/goto/post?id=115936)
+> [[email redacted] said:](/goto/post?id=115936)
 >
 > Neurt says .1 or less and my meter shows about 4
 
@@ -3031,7 +3031,7 @@ even wired in? I am screwed ....so to speak!
 
 Thank you very much!
 
-### thomasdoud@gmail.com — 2014-03-19T11:39:01+0200
+### [email redacted] — 2014-03-19T11:39:01+0200
 **Source:** <https://forum.jackkruse.com/threads/low-free-t-high-iron-high-bun-cr.10135/post-116369>
 
 0.1 is for highly sensitive people. I think that is the level he has had people with problems go to to get better. Time and distance matter to. That meter in the picture is sitting directly on the laptop but reading drop fast as you move away. I still need to use my laptop but try not to type much with it.
@@ -3039,7 +3039,7 @@ Thank you very much!
 ### ATL_Paleo — 2014-03-19T14:41:45+0200
 **Source:** <https://forum.jackkruse.com/threads/low-free-t-high-iron-high-bun-cr.10135/post-116381>
 
-> [thomasdoud@gmail.com said:](/goto/post?id=115936)
+> [[email redacted] said:](/goto/post?id=115936)
 >
 > Neurt says .1 or less and my meter shows about 4
 
@@ -3049,7 +3049,7 @@ The Trifield has 2 magnetic scales. Your knob appears to be set on the 0-100 ran
 
 Best method to check magnetic EMF is using the 0-3 range first ... if is it pegged to the very right (by the HIGH word on meter), then the 0-100 setting must be used.
 
-### thomasdoud@gmail.com — 2014-03-19T16:26:50+0200
+### [email redacted] — 2014-03-19T16:26:50+0200
 **Source:** <https://forum.jackkruse.com/threads/low-free-t-high-iron-high-bun-cr.10135/post-116407>
 
 ATL you are correct. Thanks for pointing that out.
@@ -3057,7 +3057,7 @@ ATL you are correct. Thanks for pointing that out.
 ### JanSz — 2014-03-23T21:03:41+0200
 **Source:** <https://forum.jackkruse.com/threads/low-free-t-high-iron-high-bun-cr.10135/post-117431>
 
-> [thomasdoud@gmail.com said:](/goto/post?id=116322)
+> [[email redacted] said:](/goto/post?id=116322)
 >
 > My total T is high (above range). I am wondering if just starting DHEA would be good for a start and work on redox potential Rx and environment. Will work with local doc on this but how is this dosed to start (DHEA)?
 
@@ -3077,7 +3077,7 @@ I noted that dr Kruse reported 500mg/day during one of his bio-hacks.
 
 ...
 
-### thomasdoud@gmail.com — 2014-03-23T21:26:21+0200
+### [email redacted] — 2014-03-23T21:26:21+0200
 **Source:** <https://forum.jackkruse.com/threads/low-free-t-high-iron-high-bun-cr.10135/post-117441>
 
 Any thoughts on why SHBG high? stress, EMF, usual players?
@@ -3088,7 +3088,7 @@ Thanks for DHEA insight, I thought that would be the next step.
 ### JanSz — 2014-03-23T21:45:11+0200
 **Source:** <https://forum.jackkruse.com/threads/low-free-t-high-iron-high-bun-cr.10135/post-117447>
 
-> [thomasdoud@gmail.com said:](/goto/post?id=117441)
+> [[email redacted] said:](/goto/post?id=117441)
 >
 > Any thoughts on why SHBG high? stress, EMF, usual players?
 > Going to PhD at compounding lab my primary doc uses and get their take on how to get hormone panel better.
@@ -3345,7 +3345,7 @@ Fished Mud Hole, Triple Wrecks, Monster Ledge, Hudson Canyon, Texas Tower.
 
 It has been a long time...I lived on LI Sound in New Rochelle on the harbor and worked on party boats on LI Sound. Also got out into the Atlantic at times off LI and Maine. I have not fished in a longtime...
 
-### thomasdoud@gmail.com — 2014-07-01T17:12:34+0300
+### [email redacted] — 2014-07-01T17:12:34+0300
 **Source:** <https://forum.jackkruse.com/threads/low-free-t-high-iron-high-bun-cr.10135/post-132880>
 
 Updated labs showing now that total T is low. Does anyone have comment on the comparison of recent high total T on blood tests to low T on saliva tests? I am now using compounded T for about a month. No huge differences noted. I didn't have a lot of low T symptoms other than mild low energy.
@@ -10435,7 +10435,7 @@ What dose of Lugols do you take? Is that a loading or maintence dose?
 
 I was taking about 2 drops of 5% daily until recently, Now I take it only when I eat seafood, and only if I remember.
 
-### thomasdoud@gmail.com — 2014-06-12T22:28:36+0300
+### [email redacted] — 2014-06-12T22:28:36+0300
 **Source:** <https://forum.jackkruse.com/threads/bun-to-creatinine-ratio.10225/post-130676>
 
 any recommendation on how often to check BUN/CR?
@@ -10443,7 +10443,7 @@ any recommendation on how often to check BUN/CR?
 ### persistence — 2014-06-12T22:40:45+0300
 **Source:** <https://forum.jackkruse.com/threads/bun-to-creatinine-ratio.10225/post-130677>
 
-> [thomasdoud@gmail.com said:](/goto/post?id=130676)
+> [[email redacted] said:](/goto/post?id=130676)
 >
 > any recommendation on how often to check BUN/CR?
 
@@ -10648,7 +10648,7 @@ Yes, I believe that is true. I noticed a dramatic change for me with molybdenum 
 
 Ditto. I'd be really interested in hearing more about this as well.
 
-### patgrif@hotmail.com — 2014-03-20T18:09:13+0200
+### [email redacted] — 2014-03-20T18:09:13+0200
 **Source:** <https://forum.jackkruse.com/threads/todays-webinar-with-dr-patel-and-dr-kruse.10230/post-116720>
 
 I am so frustrated I have no idea what is going on. Dr Patel?? No emails, nothing, is there something tonight? Recording of Dr Patel?? I am a Gold Member and I believe I signed up for everything frustrating.................
@@ -10656,7 +10656,7 @@ I am so frustrated I have no idea what is going on. Dr Patel?? No emails, nothin
 ### Shijin13 — 2014-03-20T18:10:44+0200
 **Source:** <https://forum.jackkruse.com/threads/todays-webinar-with-dr-patel-and-dr-kruse.10230/post-116721>
 
-> [patgrif@hotmail.com said:](/goto/post?id=116720)
+> [[email redacted] said:](/goto/post?id=116720)
 >
 > I am so frustrated I have no idea what is going on. Dr Patel?? No emails, nothing, is there something tonight? Recording of Dr Patel?? I am a Gold Member and I believe I signed up for everything frustrating.................
 
@@ -10665,7 +10665,7 @@ Pat you should be able to log into the Gold member dashboard and select the Opti
 ### Paul S — 2014-03-20T18:15:08+0200
 **Source:** <https://forum.jackkruse.com/threads/todays-webinar-with-dr-patel-and-dr-kruse.10230/post-116723>
 
-> [patgrif@hotmail.com said:](/goto/post?id=116720)
+> [[email redacted] said:](/goto/post?id=116720)
 >
 > I am so frustrated I have no idea what is going on. Dr Patel?? No emails, nothing, is there something tonight? Recording of Dr Patel?? I am a Gold Member and I believe I signed up for everything frustrating.................
 
@@ -11747,7 +11747,7 @@ Because I live in the middle of no where......cell single is poor. You in ALA li
 
 Very scary.
 
-### patgrif@hotmail.com — 2014-03-19T22:52:26+0200
+### [email redacted] — 2014-03-19T22:52:26+0200
 **Source:** <https://forum.jackkruse.com/threads/is-there-a-dark-side-of-withdrawal-from-modernism.10242/post-116548>
 
 Did I miss something last night? Caroline mentioned Dr Patel? I know nothing!
@@ -11757,7 +11757,7 @@ Did I miss something last night? Caroline mentioned Dr Patel? I know nothing!
 
 Patrick - it should be available now I think? ask support.... didn't you get an email? this is a must listen!
 
-### patgrif@hotmail.com — 2014-03-19T22:58:26+0200
+### [email redacted] — 2014-03-19T22:58:26+0200
 **Source:** <https://forum.jackkruse.com/threads/is-there-a-dark-side-of-withdrawal-from-modernism.10242/post-116551>
 
 No Caroline at least as far as I know I didn't and I watch that stuff CLOSELY. I hope I have not 'fallen off' the list or anything
@@ -11770,7 +11770,7 @@ Patrick -some others didn't seem to get emails either ..... please don't miss th
 ### SeaHorse — 2014-03-19T23:10:54+0200
 **Source:** <https://forum.jackkruse.com/threads/is-there-a-dark-side-of-withdrawal-from-modernism.10242/post-116557>
 
-> [patgrif@hotmail.com said:](/goto/post?id=116551)
+> [[email redacted] said:](/goto/post?id=116551)
 >
 > No Caroline at least as far as I know I didn't and I watch that stuff CLOSELY. I hope I have not 'fallen off' the list or anything
 
@@ -13792,7 +13792,7 @@ Telephone: 888.327.9554 (toll free)
 
 Fax: 856.825.2143
 
-E-mail: [custserv@bodybio.net](mailto:custserv@bodybio.net)
+E-mail: [[email redacted]](mailto:[email redacted])
 
 \-----
 
@@ -18724,7 +18724,7 @@ FWIW, I don't like fake "spirituality" and know when I'm smelling it.
 
 All selling of spirituality is a great seduction and the reality is that each person has to face different things when they "go in". What seduces or forces one to "go in" is an N=1 thing. Most authentic teachers sooner or later admit that it tends to become rough at a certain point and that help and support is useful at this stage, "dark night of the soul" stuff. Most authentic teachers also admit somewhere that it is a miracle that anyone starts and that the real starting point is when an individual comes to the point of suicide or utter despair....Many suggest that people "start with the body" meaning to stabilize their physiology, think yoga asanas, tai qi and qi gong, sitting, routine life, routine diet, etc...Sounds a bit like what we are doing here.....staying playful can be tough at times....
 
-### patgrif@hotmail.com — 2014-03-24T19:42:20+0200
+### [email redacted] — 2014-03-24T19:42:20+0200
 **Source:** <https://forum.jackkruse.com/threads/transcendental-meditation-your-experience.10289/post-117635>
 
 Not to lower the tone or anything..................but after the Beatles had been in India studying under the Maharishi and John Lennon at least was getting tired of him and announced they were leaving/going home. Maharishi asked him "Why" and Lennon supposedly said "Since you are so f...... cosmic you should know" Somehow I always remembered that, I find one of John Lennon's later 'guru's' Arthur Janov who wrote "The Primal Scream" and promoted 'primal therapy' MUCH more interesting and feel there is a kind of 'missing synergy' even between his writings and Dr Kruse.
@@ -20886,7 +20886,7 @@ I'm very familar with SuperSlow - I'm lucky to have a gym near my house. The stu
 
 melanie, your attitude is wonderful
 
-### patgrif@hotmail.com — 2014-03-26T08:09:23+0200
+### [email redacted] — 2014-03-26T08:09:23+0200
 **Source:** <https://forum.jackkruse.com/threads/webinar-today.10324/post-118019>
 
 _I am NOT happy about these webinars now. NO emails last week or this I totallly missed Dr Patel and todays and was there something last Thursday and something this Thursday ?????? This is crazy, all of a sudden NO emails, what is going on???????? This is really not cool at all, I sent in a ticket too about last week NO reply, NOTHING, again that's not cool. I am a gold member I love Dr Kruse's stuff just WHAT do I have to do to get these.........................I really think I deserve to be able to listen to Dr Patel and Ben Greenfield and whatever else I have missed. Come on people this is just NOT acceptable. I put this on here since I get NO responce from sending in a ticket. I would 'threaten' to leave all togher but I like Dr Kruse's work too much. But his support is sadly lacking right now!!_
@@ -20902,7 +20902,7 @@ They have always been extremely responsive ..... so obviously there are problems
 
 Of course we wish it would be other wise.....
 
-### patgrif@hotmail.com — 2014-03-26T08:22:50+0200
+### [email redacted] — 2014-03-26T08:22:50+0200
 **Source:** <https://forum.jackkruse.com/threads/webinar-today.10324/post-118022>
 
 Still this is not acceptable here is something I wrote last week after I found out about Dr Patel, I STILL have not got a reply!!
@@ -20947,12 +20947,12 @@ You have to sign up for Optimal Reset Premium to gain access, and yes, Gold Klub
 
 The webinars are going fine ... I think the core issue right now is some delivering glitch in the email program. We are working on getting that ironed out and it should resolve this frustration. We are frustrated, too! Hopefully today is the day ...
 
-### patgrif@hotmail.com — 2014-03-26T16:30:29+0200
+### [email redacted] — 2014-03-26T16:30:29+0200
 **Source:** <https://forum.jackkruse.com/threads/webinar-today.10324/post-118054>
 
 Well thanks Misty..........but still I can't even 'log in to my account'. I mean I admit I am not the most 'computer savvy' but ALL I want is the way it was. I think 'Nicid' is quite right there is some issue of the difference of gold members and 'optimal reset'. But as far as I know I signed up for EVERYTHING, I don't want to miss ANYTHING but it's not happening. I appreciate you are looking into to it and if I can have one piece of advice is KISS (keep it simple sweet). Not good if this gets so complicated people just give up. Like 'my account' I try to get in I am not sure even WHAT password etc etc just very frustrating which is not what we should be doing
 
-### patgrif@hotmail.com — 2014-03-26T16:37:47+0200
+### [email redacted] — 2014-03-26T16:37:47+0200
 **Source:** <https://forum.jackkruse.com/threads/webinar-today.10324/post-118055>
 
 I tried again to 'log in' to my account, i don't know WHAT password they want, i tried 3 different ones still no go.....................i am super frustrated right now especially as everything was working fine.................why fix something that was not broken. Also too much complications, gold member, optimal reset member, facebook group member becomes TOO complicated. If Dr Kruse did not have something worth all this hassle over I would be long gone at this point..................
@@ -20966,7 +20966,7 @@ I am sorry you are frustrated ... we have not changed anything recently. For the
 
 You do not have to be a member of the facebook groups or anything, really, if you do not want to hassle with those channels. If you DO want the info from those channels, however, you have to learn to work with the technology to get it. Everyone in this community is different as far as how they want to interact and communicate. Some hate "email only" because they don't keep track of their emails well. They love the dashboards where they can just login. Some love having Facebook because they don't come to the forums. There is no way for me or anyone to please every person ... you all have very different needs and ways you want to receive the info. So we are doing our best to support all the shades of people who are part of this community.
 
-If you cannot get in to your dashboard ([you can login here](http://www.jackkruse.com/members/wp-login.php)), follow the Forgot Password link and it will help you reset it. Email me directly and I'll try to help you further: [misty@jackkruse.com](mailto:misty@jackkruse.com).
+If you cannot get in to your dashboard ([you can login here](http://www.jackkruse.com/members/wp-login.php)), follow the Forgot Password link and it will help you reset it. Email me directly and I'll try to help you further: [[email redacted]](mailto:[email redacted]).
 
 ### Aggie — 2014-03-26T17:04:21+0200
 **Source:** <https://forum.jackkruse.com/threads/webinar-today.10324/post-118061>
@@ -20979,7 +20979,7 @@ If you cannot get in to your dashboard ([you can login here](http://www.jackkrus
 >
 > You do not have to be a member of the facebook groups or anything, really, if you do not want to hassle with those channels. If you DO want the info from those channels, however, you have to learn to work with the technology to get it. Everyone in this community is different as far as how they want to interact and communicate. Some hate "email only" because they don't keep track of their emails well. They love the dashboards where they can just login. Some love having Facebook because they don't come to the forums. There is no way for me or anyone to please every person ... you all have very different needs and ways you want to receive the info. So we are doing our best to support all the shades of people who are part of this community.
 >
-> If you cannot get in to your dashboard ([you can login here](http://www.jackkruse.com/members/wp-login.php)), follow the Forgot Password link and it will help you reset it. Email me directly and I'll try to help you further: [misty@jackkruse.com](mailto:misty@jackkruse.com).
+> If you cannot get in to your dashboard ([you can login here](http://www.jackkruse.com/members/wp-login.php)), follow the Forgot Password link and it will help you reset it. Email me directly and I'll try to help you further: [[email redacted]](mailto:[email redacted]).
 
 It doesn't work - I've sent in a number of emails over the past two weeks with no response back. The member login for gold members doesn't work - the entire web page is blank.
 
@@ -20994,7 +20994,7 @@ Thanks
 
 is the Ben Greenfield webinar we all missed last night coming out today to review it ?
 
-### patgrif@hotmail.com — 2014-03-26T17:21:54+0200
+### [email redacted] — 2014-03-26T17:21:54+0200
 **Source:** <https://forum.jackkruse.com/threads/webinar-today.10324/post-118063>
 
 Well thanks Misty.................some progress. Now I CAN login to my account and very nice I see ALL the webinars and ALL the Q&A that's cool. However the way I like use Dr Kruse's stuff is very much 'on the go' what I mean is it's very nice (and thank you!) to have all this is one place. But what concerns me today is the last 2 weeks Dr Patel and Ben Greenfield nada nothing and going forward what ELSE might I miss. But really thank you, I take your points but I am not that crazy about too much 'complications' like it seems the 'optimal reset' is almost some kind of site of its own. And WHY? I think it is very important to keep things AS SIMPLE AS POSSIBLE and not get too strung out on all these different 'programs' I am tempted to just read Dr Kruse's blog essays from now on.................to me they are the 'meat' of things anyway. And I echo Aggie's questions (again) where are the webinars we missed and will we get them. But thanks Misty I am sure you job is not so easy
@@ -21138,7 +21138,7 @@ no link for me either...
 
 I have it now...thanks!!!!!!
 
-### patgrif@hotmail.com — 2014-03-27T00:36:19+0200
+### [email redacted] — 2014-03-27T00:36:19+0200
 **Source:** <https://forum.jackkruse.com/threads/webinar-today.10324/post-118151>
 
 Where ? PLEASE let me know!
@@ -21146,7 +21146,7 @@ Where ? PLEASE let me know!
 ### Albert83BCN — 2014-03-27T01:24:13+0200
 **Source:** <https://forum.jackkruse.com/threads/webinar-today.10324/post-118165>
 
-> [patgrif@hotmail.com said:](/goto/post?id=118151)
+> [[email redacted] said:](/goto/post?id=118151)
 >
 > Where ? PLEASE let me know!
 
@@ -21388,7 +21388,7 @@ Ben's new book is quite good.
 
 Are optimal webinar replays available to silver or only gold? How do we access?
 
-### patgrif@hotmail.com — 2014-03-27T14:56:54+0200
+### [email redacted] — 2014-03-27T14:56:54+0200
 **Source:** <https://forum.jackkruse.com/threads/todays-webinar-with-ben-greenfield.10325/post-118260>
 
 I actually in the end DID get to hear Ben Greenfield! Through the "Optimal Reset" on Facebook. But that I found confusing too..............there are about 4 'optimal resets' anyway I am sorry to be doing so much 'bitching' but I think the key is more simplicity. If there about 5 places to find something the end result is it's hard to find!!
@@ -21966,7 +21966,7 @@ I think you should follow "your intuition" and leave this place..........I don't
 
 In fact, I have already reached out to Misty and have asked her to refund you and I am no longer offering you membership. I think this is the Rx that you need now. Good Luck and I hope you find your way.
 
-### patgrif@hotmail.com — 2014-04-01T15:53:52+0300
+### [email redacted] — 2014-04-01T15:53:52+0300
 **Source:** <https://forum.jackkruse.com/threads/march-2014-webinar-promo.10335/post-119210>
 
 Listening to last night's Q&A I sort of got this feeling like when Bob Dylan went 'electric'. A change. Some people loved it but he left some behind too. For me I get a good feeling about it to me Dr Kruse is a 'philosopher' as well as a biologist and his thinking is taking him places maybe he didn't even expect or a lot of other people did not imagine. Biology per se IMO can be very 'reductionist' and literally tried to reduce everything to compounds and chemicals. Dr Kruse has already taken us beyond that and I think it is noticeable even in the 'alternative' health community there is still a heavy reliance on what I consider 'reductionist' thinking. Even most of the guest speakers on the Optimal Reset while I liked them I found them also strangely limited. Or at least nothing so much out of the ordinary or nothing that would really inspire. Dr Kruse 'inspires' but what is so cool is he ALSO is very grounded in 'solid' science.....................it is that combination I find so attractive. And so much of the time I feel we get one or the other but when it is well combined that is magical.
@@ -21983,7 +21983,7 @@ SACRIFICE IS PUTTING EVERYONE you know and may love ON A BACK BURNER IN ORDER TO
 
 > \[EMAIL said:
 >
-> [patgrif@hotmail.com](mailto:patgrif@hotmail.com), post: 119210, member: 604\[/EMAIL\]\]... I think it is noticeable even in the 'alternative' health community there is still a heavy reliance on what I consider 'reductionist' thinking.
+> [[email redacted]](mailto:[email redacted]), post: 119210, member: 604\[/EMAIL\]\]... I think it is noticeable even in the 'alternative' health community there is still a heavy reliance on what I consider 'reductionist' thinking.
 
 IMO, many people in paleo are very much way. I think that tends to be far more so than of people in more established alternative health, like chiropractic. Of course, _they_ often tend towards vegetarianism.
 
@@ -21991,7 +21991,7 @@ Someone else who does is Dr. Art Ayers. I didn't really see it at first, but it'
 
 It seems to me that this is why he is far happier about GMOs than his readers and also blasé about pesticides. From that point of view, people's worries on these scores are just obscurantism -- or ignorance because they don't know very much about microbiology. A plant's just like a meccano model, isn't it? You can disassemble it and swap parts out with a different meccano model, can't you? Where's the problem? I think Rob Wolf sometimes seems to be coming from a similar place.
 
-### patgrif@hotmail.com — 2014-04-01T16:18:51+0300
+### [email redacted] — 2014-04-01T16:18:51+0300
 **Source:** <https://forum.jackkruse.com/threads/march-2014-webinar-promo.10335/post-119220>
 
 Kind of continuing this analogy of Dylan going electric (I know a LONG time ago I guess I am showing my age (61))
@@ -25381,7 +25381,7 @@ You couldn't give me a food analogy could you? Where is Randy when I need him!
 
 I did..........you just do not realize it..............yet.
 
-### patgrif@hotmail.com — 2014-03-31T07:52:56+0300
+### [email redacted] — 2014-03-31T07:52:56+0300
 **Source:** <https://forum.jackkruse.com/threads/breadcrumbs.10396/post-118953>
 
 I watched the beginning of the webinar (first 15 minutes) and kind of wondered where it would go? And I thought something about sensations and how in terms of our personality everything is kind of built upon that. And how 'healing' it can be or seem to be to just let oneself go into just a world of sensation. Today at the beach I kind of let that happen the sun, the sand the water and even the cold itself could be considered/felt as just another sensation. Cold at that point is not unpleasant it is just a new sensation. And I kind of wondered in terms of the battery example does abondoning oneself to a world of sensation _charg_e the battery or _drain_ the battery?. Or does it matter? Say while dancing and listening to music are we charging or draining or does it makes sense to think in those terms? I mean I start to think in those terms thanks to Dr K and charging the battery is 'good' of course but it almost like 'draining' it could also be a form of charging it. Or am I just playing with words here but it feels there is something more to be understood. Maybe if we have a charged battery we WANT to drain it , it feels good to do that so it feels like more charging in a funny way.
@@ -26076,7 +26076,7 @@ and that is Sue... that is the only way and solution to your question above, IMH
 
 so.. where does love comes from... that is a question.... I seriously have no clue  Jack might know... at least he seems to have so much of it, imagine what patience and time he give us all. He must be driven by love.
 
-### patgrif@hotmail.com — 2014-04-02T16:50:22+0300
+### [email redacted] — 2014-04-02T16:50:22+0300
 **Source:** <https://forum.jackkruse.com/threads/breadcrumbs.10396/post-119404>
 
 One thing that struck me about the last Q&A involving Jeremy he talks about his childhood and how loved he felt and I think he mentioned the word 'invincible' as to how that made him feel. And if there is speculation of where he gets his strenght and drive to live from I think it is worth thinking about that. In my opinion SO much ill health comes from not being loved as children. The 'not being loved' drives us into all kinds of unhealthy behaviours and then eventually the result is ill health............but if you really dig into it and trace if back............back.............back............... for me at least and actually for myself I come back to that. And what I have been and am interested in is when recovering health I don't think we can ignore that. I work on a kind of 'double prong' approach do as much as possible all the 'right' things food wise, low EMF, water, sunlight on and on but also the emotional side. This was/is the premise of "primal therapy" so called but I found that limited in that they ignored mostly all the things Jack talks about. But I do believe a purely 'biological' approach is limited too and usually will fail in the end if it ignores the powerful roots of what ill health is. And that can go all the way back..........back............back...............to very early childhood, birth itself and even to the womb. (this text in underlined I can't seem to undo it - it's not that I am trying to say what I am saying is so important lol)
@@ -26798,7 +26798,7 @@ but the whole trilogy has huge metaphors about living with nature, being trapped
 
 glad to have made your day Neil.
 
-### patgrif@hotmail.com — 2014-04-03T17:58:23+0300
+### [email redacted] — 2014-04-03T17:58:23+0300
 **Source:** <https://forum.jackkruse.com/threads/breadcrumbs.10396/post-119622>
 
 Neil - I like your contributions some 'intellectual sobriety' is always useful! However not that is so important I do not like Ayn Rand or much of any of that kind of thinking. Her modern day 'acolytes' like Paul Ryan and Alan Greenberg to me at least kind of symbolize so much of what is wrong with society. To me we are going pell mell into disaster, just yesterday the Supreme Court MORE money in politics, and the world is hurtling towards disaster especially through global warming. As much as I like Dr Kruse even he I believe has to kind of turn away from the full implications of that. Though he has talked about the oceans dying and so on. As the oceen goes then so will the land.............
@@ -26911,7 +26911,7 @@ we have our own little fan club "Neil's Girls" ;D
 ### NeilBB — 2014-04-04T16:39:41+0300
 **Source:** <https://forum.jackkruse.com/threads/breadcrumbs.10396/post-119776>
 
-> [patgrif@hotmail.com said:](/goto/post?id=119622)
+> [[email redacted] said:](/goto/post?id=119622)
 >
 > Neil - I like your contributions some 'intellectual sobriety' is always useful! However not that is so important I do not like Ayn Rand or much of any of that kind of thinking. Her modern day 'acolytes' like Paul Ryan and Alan Greenberg to me at least kind of symbolize so much of what is wrong with society. To me we are going pell mell into disaster, just yesterday the Supreme Court MORE money in politics, and the world is hurtling towards disaster especially through global warming. As much as I like Dr Kruse even he I believe has to kind of turn away from the full implications of that. Though he has talked about the oceans dying and so on. As the oceen goes then so will the land.............
 >
@@ -26938,7 +26938,7 @@ I'll grant you this though. I used to think that laissez-faire capitalism would 
 
 Sooperb, I think you and I have a tendency towards pessimism, which can be an asset because it allows us to analyze the world clearly and objectively and anticipate potential roadblocks ahead. But it can also be a drawback in that we can become discouraged and that can negatively impact our health if not controlled. I believe pessimists are usually just "frustrated idealists." We want things to be to "right" today and when they are not, we tend to "catastrophize." But we have to be careful and not get too upset about things outside our control.
 
-### patgrif@hotmail.com — 2014-04-04T18:07:33+0300
+### [email redacted] — 2014-04-04T18:07:33+0300
 **Source:** <https://forum.jackkruse.com/threads/breadcrumbs.10396/post-119787>
 
 Sooperb - I am aware I am sort of indulging in 'nostalgia' though I do sort of think in a general way that "everything is getting worse". What I mean is what I remember and gleaned from the really old Irish culture growing up was almost by definition far closer to 'ancestral wisdom' and even going to much more modern times say '50's and '60's in Ireland or England too for that matter at least you had a 'society' that held together and worked together more. Even on the simplest level I would feel more comfortable in a world of say "British Rail" than all the 'privatisation' schemes we have to deal with now. The way I see it there is a gradual increase in 'atomization' and 'separation'..............of course the internet or for example this group provided a way for connection but in a different (more virtual, less real) way
@@ -31498,7 +31498,7 @@ More excerpts from Steven's website:
 
 **The Invitation**: If this mission calls to you, and you’d like to join the Project and help us map the genome of Flow, let us know, and welcome to the conversation!​
 
-### patgrif@hotmail.com — 2014-04-05T09:56:31+0300
+### [email redacted] — 2014-04-05T09:56:31+0300
 **Source:** <https://forum.jackkruse.com/threads/what-are-your-favorite-march-2013-q-a-take-aways.10444/post-119890>
 
 Take aways from the Q&A...............a shift away from seeing/treating the body as 'object' to feeling/expieriencing it as 'subject', emphasizing feeling rather than knowing, an emphasis on the lived reality rather than the 'after the fact' understood. Kierkegaard said "Life can only be understood backwards but has to be lived forward". Not at all to forget 'understanding' but just to orient oneself in a different direction.
@@ -31547,7 +31547,7 @@ Oh yeah! This quote is loaded.
 
 I apply the above logic to nearly everything metaphysical I am specifically drawn to. That has really helped me take it to the next level with my perspective and understanding of what is really being conveyed. It's fun and it feels like I am breaking a code. It makes anything metaphysical a lot more interesting and deeper and less fluffy... At least for me it does.
 
-### patgrif@hotmail.com — 2014-04-06T00:10:54+0300
+### [email redacted] — 2014-04-06T00:10:54+0300
 **Source:** <https://forum.jackkruse.com/threads/what-are-your-favorite-march-2013-q-a-take-aways.10444/post-119965>
 
 Dr Kruse - thanks for your time and attention. Well the thing is my primary degree is in Philosophy, it's true also I have taken a bunch of classes in chemistry, physiology, biology etc but my main 'training' is in Philosophy. For many years I have considered that a 'waste' but recently I am not so sure. What I mean is 'thinking' is always important and I do believe I have a fairly good grounding in that. But I agree 'thinking' without the fleshing our of science, physics, biology just seems lame. But aside from all that I am who I am, I am 61 y.o. it's too late to change what my whole life's orientation has been. I am not making excuses just stating reality and also accepting myself. It's all I can do or to quote Jeremy I have to start from where I am...........
@@ -31559,7 +31559,7 @@ You 'challenge' me............thinking right to left which blog? I am not going 
 ### kyrakitty — 2014-04-06T00:40:43+0300
 **Source:** <https://forum.jackkruse.com/threads/what-are-your-favorite-march-2013-q-a-take-aways.10444/post-119968>
 
-> [patgrif@hotmail.com said:](/goto/post?id=119965)
+> [[email redacted] said:](/goto/post?id=119965)
 >
 > " you have talked a lot about 'beliefs' how what we don't know generally won't hurt us but what we think we know well could. I agree very much with that. Could that be it? Topological insulators have a different 'quality' on top (electron to elecron communication) verus on 'bottom' protons dropping out. But that's not really is it? Though it also describes 'thinking' I think you are saying. Right to left for some reason I think of the 'reverse electron flow' in mitochondria but that's not a 'good' thing so that's not it. I guess I give up.................a thought can change your DNA..............I am floundering here and in the crossword of life I guess I need more clues. Don't want to put in a wrong word, that just causes more confusion.
 
@@ -31591,7 +31591,7 @@ Well - he does touch me lightly on the arm when we meet. I asked him about this 
 ### NeilBB — 2014-04-06T00:56:24+0300
 **Source:** <https://forum.jackkruse.com/threads/what-are-your-favorite-march-2013-q-a-take-aways.10444/post-119972>
 
-> [patgrif@hotmail.com said:](/goto/post?id=119965)
+> [[email redacted] said:](/goto/post?id=119965)
 >
 > Dr Kruse - thanks for your time and attention. Well the thing is my primary degree is in Philosophy, it's true also I have taken a bunch of classes in chemistry, physiology, biology etc but my main 'training' is in Philosophy. For many years I have considered that a 'waste' but recently I am not so sure. What I mean is 'thinking' is always important and I do believe I have a fairly good grounding in that. But I agree 'thinking' without the fleshing our of science, physics, biology just seems lame. But aside from all that I am who I am, I am 61 y.o. it's too late to change what my whole life's orientation has been. I am not making excuses just stating reality and also accepting myself. It's all I can do or to quote Jeremy I have to start from where I am...........
 >
@@ -31601,7 +31601,7 @@ Well - he does touch me lightly on the arm when we meet. I asked him about this 
 
 Pat, I think he's referring to reading Einstein's energy mass-equivalence equation backwards.
 
-### patgrif@hotmail.com — 2014-04-06T01:23:55+0300
+### [email redacted] — 2014-04-06T01:23:55+0300
 **Source:** <https://forum.jackkruse.com/threads/what-are-your-favorite-march-2013-q-a-take-aways.10444/post-119976>
 
 Thanks Kyra and Caroline. Well I 'try' I suppose anyway I am happy to be here. Yes Neil I think you are correct on that one..............and it is something I don't quite 'get' which is why I did not remember it. See also some of that stuff to me is Dr Kruse thinking 'metaphysically' in a way though I do agree he talks more about 'homology' or 'fractal design' where some quite separate realities kind of mirror each other. And actually I really like that way of thinking I find it quite liberating........................
@@ -32959,7 +32959,7 @@ Thanks! it is so great to see everyone........
 
 By the way, can I give out a blatant plug here, in case anybody is around the north of England and looking for hands-on help in any of the areas I've discussed? Two amazing ladies with very open minds, tons of wisdom and superb senses of humour – Gabrielle Heyes, a wonderful naturopath who helped me so much early on and was so uncannily accurate with diagnoses, and Meidi Goodson, who knows all there is to know about emotional rebalancing and opened up a whole new world to me. They both have a good knowledge of paleo principles and GAPS too, and are very well aware of Dr Kruse's work. If you follow the link in my sig and look on the resources page, you can see links to them both. Thanks, Gabi and Meidi!!  xx
 
-### patgrif@hotmail.com — 2014-04-09T13:37:56+0300
+### [email redacted] — 2014-04-09T13:37:56+0300
 **Source:** <https://forum.jackkruse.com/threads/goodbye-to-arthritis-and-so-much-more%E2%80%A6.10457/post-120572>
 
 _A lot of people (me included) miss the point with these techniques at first and root around in their pasts trying to uncover every little trauma, but it's far simpler than that, and I can't stress it enough – whatever the mind and body is throwing up at any given time is the perfect thing to work on._
@@ -33012,7 +33012,7 @@ It used to be, these days we're so tied up in what we can't live without that it
 ### Phil Escott — 2014-04-09T16:36:56+0300
 **Source:** <https://forum.jackkruse.com/threads/goodbye-to-arthritis-and-so-much-more%E2%80%A6.10457/post-120594>
 
-> [patgrif@hotmail.com said:](/goto/post?id=120572)
+> [[email redacted] said:](/goto/post?id=120572)
 >
 > Phil - I really like that way of putting things and I echo that statement big time! I was/am involved in 'primal therapy' and that (rooting around in the past etc) is a definite danger. Someone said it can be like discovering dental floss, it seems great at first but it's like the dental floss then gets caught in your teeth and THAT becomes a problem (this is an image only I am not specifically talking about dental floss) I have a brother lives in Yorkshire UK and he has auto immune. Something called sarcoidosis which is very unpleasant. I have mentioned to him JK's site but have not heard back. He is a Chemical Engineer and quite knowledable about chemisty etc but weirdly seems to have so little interest in HIMSELF. Like he 'intellectually' knows a lot but never applies it to himself, I feel bad for him and wish I could help but my family has always seen me as a bit of a 'hippy weirdo'. My sister is a medical doctor and kind of the same syndrome there, she does not seem to think how could she help her brother.
 >
@@ -33086,7 +33086,7 @@ Haa ha!  Well, I will leave the science to Jack. I think he's close to putting G
 ### Jack Kruse — 2014-04-09T17:28:35+0300
 **Source:** <https://forum.jackkruse.com/threads/goodbye-to-arthritis-and-so-much-more%E2%80%A6.10457/post-120620>
 
-> [patgrif@hotmail.com said:](/goto/post?id=120572)
+> [[email redacted] said:](/goto/post?id=120572)
 >
 > _A lot of people (me included) miss the point with these techniques at first and root around in their pasts trying to uncover every little trauma, but it's far simpler than that, and I can't stress it enough – whatever the mind and body is throwing up at any given time is the perfect thing to work on._
 >
@@ -33136,7 +33136,7 @@ I spent the morning with her putting the world to rights at Cedar Farm coffee sh
 
 Looking forward to it… I think I've always suspected where you're going with all this… I just haven't quite had the IQ to follow you the whole way "overland". I took the cop out way and booked a flight because I don't have such a roomy vehicle as you to be able to stop and generously pick up so many fortunate hitchhikers. What I have managed to see of it has been a fascinating and scenic journey…
 
-### patgrif@hotmail.com — 2014-04-09T17:52:37+0300
+### [email redacted] — 2014-04-09T17:52:37+0300
 **Source:** <https://forum.jackkruse.com/threads/goodbye-to-arthritis-and-so-much-more%E2%80%A6.10457/post-120628>
 
 Sooperb - you asked if I walk around with no shoes. Funny you should ask yesterday I went for a pretty good hike in the Santa Monica mountains and did it all barefoot! I didn't or don't even think like that about diabetes (maybe I should well no I don't think so) I LOVE that and was telling the friend I was with all about the 'pizo-electric' effect. In fact now that I think of it here is what I wrote to another friend yesterday before I went
@@ -33159,7 +33159,7 @@ Hi Phil…I'm with you…while you've been up in your plane covering new territo
 ### Phil Escott — 2014-04-09T21:43:01+0300
 **Source:** <https://forum.jackkruse.com/threads/goodbye-to-arthritis-and-so-much-more%E2%80%A6.10457/post-120661>
 
-> [patgrif@hotmail.com said:](/goto/post?id=120628)
+> [[email redacted] said:](/goto/post?id=120628)
 >
 > The States is more 'conservative' we still have Led Zepp on the radio all day long (Not that there is anything wrong with Led Zepp)
 
@@ -35749,7 +35749,7 @@ I can't wait for the next chapter..... and then the next chapter after that - an
 
 Dr. K. - you really did have me at Hello!
 
-### patgrif@hotmail.com — 2014-04-08T12:53:28+0300
+### [email redacted] — 2014-04-08T12:53:28+0300
 **Source:** <https://forum.jackkruse.com/threads/april-2014-webinar-promo.10474/post-120362>
 
 I remember this from my 'education'. Latin 'educere' can be split into 'e' means 'out of', there are lots of words in English like that 'egress' eflux' 'emerge' lots and lots of them beginning 'e' means 'out of'. Then 'ducere' means to lead. So 'educere' means to 'lead out of' so to educate a person means to lead them out of themselves. Or to realize their inner potential. To become their real selves or to realize what they truly are.

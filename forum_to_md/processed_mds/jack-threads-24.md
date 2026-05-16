@@ -4284,7 +4284,7 @@ It is believed that under the ice-covered surface of Europa are liquid oceans �
 
 _By Skip Derra. Derra, with Marketing & Strategic Communications, can be reached at
 
-(480) 965-4823 or ([skip.derra@asu.edu](mailto:skip.derra@asu.edu)).
+(480) 965-4823 or ([[email redacted]](mailto:[email redacted])).
 June 21, 2005_
 
 ### Jack Kruse — 2014-11-12T00:15:56+0200
@@ -16853,7 +16853,7 @@ Check out the Circadian store in the Epi-Paleo store for a bunch of great links,
 ### functionalmed28 — 2014-02-28T00:05:41+0200
 **Source:** <https://forum.jackkruse.com/threads/renees-optimal-journal-newbie.9796/post-112545>
 
-Hey guys, if you emailed me and didn't get a response, I never received it. I checked through the past two weeks of emails and even in my spam and couldn't find any personal emails that I failed to reply to. I'm sorry for the miscommunication. Please email me again at [drtim072981@gmail.com](mailto:drtim072981@gmail.com).
+Hey guys, if you emailed me and didn't get a response, I never received it. I checked through the past two weeks of emails and even in my spam and couldn't find any personal emails that I failed to reply to. I'm sorry for the miscommunication. Please email me again at [[email redacted]](mailto:[email redacted]).
 \---Dr. Tim
 
 ### caroline — 2014-02-28T00:22:13+0200
@@ -16876,12 +16876,12 @@ Have you listened to Dr. Tim's webinar?
 
 > [functionalmed28 said:](/goto/post?id=112545)
 >
-> Hey guys, if you emailed me and didn't get a response, I never received it. I checked through the past two weeks of emails and even in my spam and couldn't find any personal emails that I failed to reply to. I'm sorry for the miscommunication. Please email me again at [drtim072981@gmail.com](mailto:drtim072981@gmail.com).
+> Hey guys, if you emailed me and didn't get a response, I never received it. I checked through the past two weeks of emails and even in my spam and couldn't find any personal emails that I failed to reply to. I'm sorry for the miscommunication. Please email me again at [[email redacted]](mailto:[email redacted]).
 > \---Dr. Tim
 
 Hello Dr. Tim
 
-Thank you for the note and personal email address.. I just emailed you again.. I had emailed you at [healyourbody@gmail.com](mailto:healyourbody@gmail.com) ( which is what I thought it was from the webinar but maybe I got it wrong.. )
+Thank you for the note and personal email address.. I just emailed you again.. I had emailed you at [[email redacted]](mailto:[email redacted]) ( which is what I thought it was from the webinar but maybe I got it wrong.. )
 
 no matter.. really appreciate the updated email !
 
@@ -16905,7 +16905,7 @@ I've added a picture for my profile (it's from a few years ago but don't have a 
 
 thanks for the link to the amber bulbs and glasses! awesome!
 
-Also .. I resent Dr Tim a note to his alternate gmail address.. I had sent it to the [healyourbody@gmail.com](mailto:healyourbody@gmail.com) address originally...
+Also .. I resent Dr Tim a note to his alternate gmail address.. I had sent it to the [[email redacted]](mailto:[email redacted]) address originally...
 Just wondering as well if we'll be able to re-listen to his webinar again ? Apparently there was a free one from Dr. Tim that he did last year but the link doesn't take you to the webinar.. it just cycles back to the main webpage on the JackKruse website.. Was it removed maybe?
 
 I am going to check out the Gold Membership to see if I can manage it for a while as I understand there's a ton of extra info and opportunities to ask Jack as a gold member..
@@ -21627,7 +21627,7 @@ Please take this as my "read" of your situation, if it doesn't seem to fit, then
 
 thanks, Seahorse! This is something to think about. I am definitely changing a lot, maybe too fast and too mich. i see everyone around me struggles to keep up.
 
-### patgrif@hotmail.com — 2015-02-10T17:02:08+0200
+### [email redacted] — 2015-02-10T17:02:08+0200
 **Source:** <https://forum.jackkruse.com/threads/becoming-me-again.9842/post-155235>
 
 > [kovita said:](/goto/post?id=155116)
@@ -26609,7 +26609,7 @@ This is what infuriates me. Everything is OK because FCC says so. FCC is corrupt
 A little update: [http://articles.courant.com/2014-06...40624\_1\_radar-system-deercliff-road-radiation](http://articles.courant.com/2014-06-24/community/hc-avon-doppler-0625-20140624_1_radar-system-deercliff-road-radiation)
 
 **WFSB Will Appeal Avon's Denial Of Doppler Radar Proposal, Lawyer Says**
-June 27, 2014|By KEN BYRON, [kbyron@courant.com](mailto:kbyron@courant.com), The Hartford Courant
+June 27, 2014|By KEN BYRON, [[email redacted]](mailto:[email redacted]), The Hartford Courant
 AVON — A television station is expected to sue the planning and zoning commission over its decision on Tuesday to reject plans for a Doppler weather radar system on top of Avon Mountain.
 
 Timothy Hollister, a lawyer for WFSB-TV, said in an email on Friday afternoon that the station will appeal the decision by filing the lawsuit. He declined to comment further, except to say that action will be taken in the next seven to 10 days.
@@ -27367,7 +27367,7 @@ Thanks
 ### Jack Kruse — 2014-02-27T15:40:00+0200
 **Source:** <https://forum.jackkruse.com/threads/optimized-cooking-book.9940/post-112450>
 
-[misty@jackkruse.com](mailto:misty@jackkruse.com)
+[[email redacted]](mailto:[email redacted])
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -29174,7 +29174,7 @@ This defines quantum entanglement if you do not realize it.
 **Subforum:** Meet and Greet
 **Posts:** 72
 ══════════════════════════════════════════════════════════════════════
-### patgrif@hotmail.com — 2014-03-02T02:11:34+0200
+### [email redacted] — 2014-03-02T02:11:34+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-112968>
 
 Hi everybody, I am very unsure how this Forum thing works but anyway. My name is Patrick, I was born in Ireland in 1952 (61 years old) came to LA in 1978 and have lived here since. I was diagnosed with diabetes Type 2 in 2003 but have 'conrolled' it fairly well I think with 'diet and exercise' I have never taken any medication for it. Having said that I am not sure how well I have controlled it.
@@ -29195,7 +29195,7 @@ Since you are retired ....... have you thought of moving out of your EMF hell? o
 
 How is your redox potential?
 
-### patgrif@hotmail.com — 2014-03-02T02:51:49+0200
+### [email redacted] — 2014-03-02T02:51:49+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-112977>
 
 Thanks Caroline, at least this seems to be working. BTW I am sorry I don't have a picture to put on here (technically challenged could use help with that). What does starting a journal mean? A history/biography type of thing? Labs? Not sure what it means.
@@ -29231,7 +29231,7 @@ Have you seen his podcasts? they are on the home page.
 I strongly suggest that you become a "Gold" member \[of course you don't have to\]
 You will have access to all the webinars at any time that is convenient for you ... and there is a live Q&A every month where you can ask Jack pretty much anything - and they can go for hours!
 
-### patgrif@hotmail.com — 2014-03-02T03:37:55+0200
+### [email redacted] — 2014-03-02T03:37:55+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-112990>
 
 Caroline - I have a kind of health biography that I wrote in another context but I think it would serve..............should I put it here or should I go specifically to the 'Journal' place and maybe you can help me with that, what to do, where to put the journal etc
@@ -29279,7 +29279,7 @@ so you saw the webinar and Q&A about and with Erwan? one of my personal favorite
 
 so glad you are a gold member - I hesitate to tell new people this .... but we get so much more bang for our buck - so to speak!
 
-### patgrif@hotmail.com — 2014-03-02T05:19:37+0200
+### [email redacted] — 2014-03-02T05:19:37+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113003>
 
 Thanks Gracelind and Caroline. Yes I will get the picture sorted out fairly soon. I have read Nora Gedgaudas' book and really liked it. But personally I don't go for things like biofeedback not that I know much about it. Just in principle..............the idea of 'controlling' the mind in that way does not appeal to me. Caroline I will take my life in my hands now and try the journal thing and see what happens.
@@ -29289,7 +29289,7 @@ I LOVE living by the Ocean, I grew up in the West coast of Ireland right by the 
 ### caroline — 2014-03-02T05:25:18+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113005>
 
-> [patgrif@hotmail.com said:](/goto/post?id=113003)
+> [[email redacted] said:](/goto/post?id=113003)
 >
 > Thanks Gracelind and Caroline. Yes I will get the picture sorted out fairly soon. I have read Nora Gedgaudas' book and really liked it. But personally I don't go for things like biofeedback not that I know much about it. Just in principle..............the idea of 'controlling' the mind in that way does not appeal to me. Caroline I will take my life in my hands now and try the journal thing and see what happens.
 >
@@ -29301,7 +29301,7 @@ You can easily go to the gulf for a couple of weeks and stuff yourself full of p
 I will look for your journal - nothing ventured - nothing gained ....
 I want to see if my instructions are actionable - as Misty would say!
 
-### patgrif@hotmail.com — 2014-03-02T05:36:58+0200
+### [email redacted] — 2014-03-02T05:36:58+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113009>
 
 Yes Caroline it was very helpful! Thank you! It seems to be 'actionable'. To slightly change the subject I REALLY want a recording of the Q&A of last Thursday and it does not seem to be put on. I REALLY want to listen again and again.............to that one. If you have ANY influence on Misty see if you can get that 'actionable' I was distracted because I asked a question etc and I SO want to hear it all again.
@@ -29321,7 +29321,7 @@ sorry - I don't know why I have so many smileys ..... I can't really see what I 
 
 Patrick - do you surf?
 
-### patgrif@hotmail.com — 2014-03-02T06:26:01+0200
+### [email redacted] — 2014-03-02T06:26:01+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113014>
 
 No Caroline I do not. I don't even swim! or not eneough to save my life but eneough to drown! I wish I could swim and may make a serious effort to do so. Right now I immerse myself in the water and that's about it
@@ -29331,7 +29331,7 @@ No Caroline I do not. I don't even swim! or not eneough to save my life but eneo
 
 Been awhile--1997--but my son and I had a lovely visit to the west coast of Ireland. Stayed in Spiddal and explored a bit of Connemara. My husband has Irish ancestry, but probably more of Northern Ireland. And ... I stood on the Atlantic Sea and sang a Song for Ireland. What a beautiful country.
 
-### patgrif@hotmail.com — 2014-03-02T17:26:27+0200
+### [email redacted] — 2014-03-02T17:26:27+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113066>
 
 Yes Gracelind Ireland is in many ways a lovely country. I was born and grew up in County Kerry and actually have never been to Connemara or Galway or Mayo. We didn't travel much as children, on a small farm we were too busy with the cows, chickens and growing onions. Still looking back on it was in many ways a 'healthy' life very natural, clean air all the rest of it. You live in Northern Cal right?
@@ -29339,13 +29339,13 @@ Yes Gracelind Ireland is in many ways a lovely country. I was born and grew up i
 ### tellmisty — 2014-03-03T04:18:18+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113135>
 
-> [patgrif@hotmail.com said:](/goto/post?id=113009)
+> [[email redacted] said:](/goto/post?id=113009)
 >
 > Yes Caroline it was very helpful! Thank you! It seems to be 'actionable'. To slightly change the subject I REALLY want a recording of the Q&A of last Thursday and it does not seem to be put on. I REALLY want to listen again and again.............to that one. If you have ANY influence on Misty see if you can get that 'actionable' I was distracted because I asked a question etc and I SO want to hear it all again.
 
 This should have been posted for you guys on Friday. :-/ I just posted a link to the Q&A in the Facebook groups. You should get your emails on Monday.
 
-### patgrif@hotmail.com — 2014-03-03T05:34:28+0200
+### [email redacted] — 2014-03-03T05:34:28+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113137>
 
 Thanks very much Misty, it might take me a little while to implement all this but I will. And thanks also for the recording I am really looking forward to playing it SLOWLY so I 'get' it all........................
@@ -29353,7 +29353,7 @@ Thanks very much Misty, it might take me a little while to implement all this bu
 ### Gagnrad — 2014-03-03T15:31:54+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113166>
 
-> [patgrif@hotmail.com said:](/goto/post?id=113003)
+> [[email redacted] said:](/goto/post?id=113003)
 >
 > Thanks Gracelind and Caroline. Yes I will get the picture sorted out fairly soon. I have read Nora Gedgaudas' book and really liked it. But personally I don't go for things like biofeedback not that I know much about it. Just in principle..............the idea of 'controlling' the mind in that way does not appeal to me.
 
@@ -29371,7 +29371,7 @@ Oh, I have to tell you this, which will make you laugh. When they were mapping w
 
 You'll gladden her heart. She loves participation.
 
-### patgrif@hotmail.com — 2014-03-03T17:06:18+0200
+### [email redacted] — 2014-03-03T17:06:18+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113170>
 
 Well thanks a lot "Gagnrad" you make me feel very welcome here (still floundering a bit). I am not expierienced so much with 'social media' but I start to like playing with features here and am 'proud' of myself for what I have achieved so far! That's very interesting what you say about bio-feedback and I can imagine that could be quite helpful I mean the thing about how if one can realize or 'see' that one is acting from some old or previous threat then the brain might sort of automatically correct itself. I had sort of put it all down as about trying to 'control the mind' and you have shown me it is probably quite a bit more than that. On a somewhat related subject I may look into the 'sensory deprivation tank' that Evan spoke about last Tuesday they have one here for $40.00 a session and he says it helps him relax (shut of the cortisol or sympathetic nervous system for a while) which is interesting to me and if you think about it kind of the problem soldiers with PTSD have.
@@ -29385,7 +29385,7 @@ I saw an earlier post of yours (before I figured out how to reply!) about the Ga
 
 Thanks very much for the reply, Patrick. My actual name's Mike.
 
-> [patgrif@hotmail.com said:](/goto/post?id=113170)
+> [[email redacted] said:](/goto/post?id=113170)
 >
 > I wonder if the difference between North and South Devon might be down to the influence of the Gulf Stream. I am from Kerry in Ireland which is in the same corner (SW) of the country and I know there are places in South Kerry that are almost 'tropical' as you say. Where I lived was more like what you describe in North Devon, rather harsh actually. But I love being by the ocean but it's funny growing up there we never learned to swim and my Dad 'bragged' to me he was NEVER in eneough water to drown in (not even in a boat). The people there were afraid of the sea and I suppose with reason. Also I think because of the very puritanical attitudes they did not like to take their clothes off! We also did not eat much fish so in some ways I find Dr Kruse's ideas kind of go back to what I MIGHT have done as a child.
 
@@ -29425,7 +29425,7 @@ Yes, it's a painful thing to read about, isn't it? So much suffering. I don't kn
 
 Patrick it was good speaking to you the other night on the Q & A. I think your major issue is the EMF in LA and also the environmental pollution. Both of these put major stressors on your mitochondria because they both limit your O2 production. I would not doubt this is one of the reasons why you have developed T2D. A good hack for you if you continue to live out there would be HBOT and maybe even ozone therapy
 
-### patgrif@hotmail.com — 2014-03-03T23:33:55+0200
+### [email redacted] — 2014-03-03T23:33:55+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113212>
 
 Dr Kruse, I can assure you the feeling is mutual it is an absolute thrill for me to finally talk to you. I have only just got on the Forum but I have 'followed' you very closely for well over 2 years and it's weird I almost felt you were talking just to me. Of course I don't mean that literally but it was a very 'private' pleasure of mine but I must say going on the Forum adds another dimension I am really excited about it all
@@ -29439,7 +29439,7 @@ Patrick - I may have asked you ..... does your cottage have a smart meter? your 
 
 going to ireland for 4 months sounds wonderful ........
 
-### patgrif@hotmail.com — 2014-03-03T23:47:29+0200
+### [email redacted] — 2014-03-03T23:47:29+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113215>
 
 No Caroline it does not. LA is lucky so far my understanding is there are no smart meters in LA yet. They sound like an absoute nightmare on all the time and a huge amount of 'traffic' involving all the neighbors etc. I can pick up about 3 or 4 'weak' wifi signals and that's about it. Yes I am looking forward to going to Ireland, it's way out of the West Coast too far away from any towns so should be nice.
@@ -29454,7 +29454,7 @@ I was so worried that the forum was going to die last year after everyone went s
 ### caroline — 2014-03-03T23:54:02+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113217>
 
-> [patgrif@hotmail.com said:](/goto/post?id=113215)
+> [[email redacted] said:](/goto/post?id=113215)
 >
 > No Caroline it does not. LA is lucky so far my understanding is there are no smart meters in LA yet. They sound like an absoute nightmare on all the time and a huge amount of 'traffic' involving all the neighbors etc. I can pick up about 3 or 4 'weak' wifi signals and that's about it. Yes I am looking forward to going to Ireland, it's way out of the West Coast too far away from any towns so should be nice.
 
@@ -29465,12 +29465,12 @@ ATL is great at remembering where things are.....I always feel like he has to mo
 Will you be able to get lots of fresh seafood? Have your read Dr. Andrew Merino's book?
 Gerald Pollack's books?
 
-### patgrif@hotmail.com — 2014-03-03T23:55:35+0200
+### [email redacted] — 2014-03-03T23:55:35+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113218>
 
 Caroline that's interesting I had NO idea I was just reading and listening by myself and I saw nothing to quibble about. I mean it made all the sense in the world though I can imagine it was/is scary to REALLY think about it. So did a bunch of people kind of go away annoyed by the whole emphasis on the dangers of EMF? I mean a lot of people talk about that I read a book around that time called "Zapped" by Ann Louise Gittleman which kind of gave a user friendly account of the dangers.
 
-### patgrif@hotmail.com — 2014-03-04T00:00:12+0200
+### [email redacted] — 2014-03-04T00:00:12+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113220>
 
 Caroline - yes I saw that video as you say VERY disturbing especially about 'smart meters' they seem to be among the worst of the worst. Yes I will be able to get seafood in Ireland for sure, you know I have BOTH of those books you mention but have not started on either one. One 'downside' I notice in myself is I read a lot LESS, going to the beach and doing CT always feels preferable, I used to be a big reader nowadays not so much but I will definitly delve into Pollack's book and I have another one recommended by Dr K "Physics in Mind" I think I will try to tackle next..............
@@ -29622,7 +29622,7 @@ Many people have said that if you _can't_ choose not to react to something then 
 
 You are a tough guy ......I wish I was tougher.
 
-### patgrif@hotmail.com — 2014-03-05T19:23:55+0200
+### [email redacted] — 2014-03-05T19:23:55+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113618>
 
 I ordered the magneteco today, I got the 20 guass one based on Dr K's advice of 'dude you need about 1,000 Gauss' so.................we'll see. I am one of those people who seem resistant to the effects of ANYTHING, like I talked about losing my stomack. Well first off I read "Wheat Belly" and was convinced that would do it................waited and waited...........NO...........the Paleo and epi-Paleo.............still NO.............drink lots of water............................do CT 'like a madman' well maybe not like a madman maybe that's my problem............anyway still NO..........what's left, I've decided I need exerecise hike up and down a hill once a week, ride my bike everywhere .............still NO.............what's left oh yeah eat less I don't really do that I have to admit so now I am going to do tennis once a week and the magneteco...............we will see.....................I have a funny feeling it will STILL be "NO"
@@ -29631,7 +29631,7 @@ I am T2D and Dr K somewhere said the ONLY way for those people to lose their bel
 ### Gagnrad — 2014-03-05T21:41:42+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113640>
 
-> [patgrif@hotmail.com said:](/goto/post?id=113618)
+> [[email redacted] said:](/goto/post?id=113618)
 >
 > I am T2D and Dr K somewhere said the ONLY way for those people to lose their belly fat is CT.................nothing else will do it...............
 
@@ -29651,7 +29651,7 @@ The only thing you don't mention is sleep and "hygiene" as regards light intensi
 
 I expect your guess is in the right direction -- it's the CT that's the important factor. Exercise is generally good, of course, but it's not a very effective weight-loss strategy.
 
-### patgrif@hotmail.com — 2014-03-06T01:20:46+0200
+### [email redacted] — 2014-03-06T01:20:46+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113668>
 
 Thanks Mike for all your suggestions. Yes I pretty much how about the light and sleep thing. I have the 'amber bulbs' and the 'amber glassed' and do all that of not having bright/blue lights in the evening/night. Funny thing today I walk into a bookshop and one of the first books I see is one called "Anam Cara" so I got it. Looks very interesting now if only I can chill out eneough to actually read it! It's all about Celtic philosophies of life etc
@@ -29665,7 +29665,7 @@ Do you sleep well? how is your energy level?
 
 What are you eating?
 
-### patgrif@hotmail.com — 2014-03-06T01:51:17+0200
+### [email redacted] — 2014-03-06T01:51:17+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113677>
 
 Caroline - I mean I think I do most things correctly maybe it's a matter of time also. As Jack says though if even one thing is off the overall effect is kind of ruined. I eat 'epi-Paleo' pretty much, sleep IS a bit iffy, wake up in the middle of the night usually am awake for an hour or so, also sleep does not feel that 'deep'. I am hoping the magneteco will help there - we will see. The CT is OK I think, I love the ocean but for example today I went there it was breezy and cool and though I usually immerse myself in the water, today I did not just wet my feel a little bit. I have this thing about not 'forcing' CT I really try to listen to my body/feelings and I don't like to 'force' it as I say. Like today I could have but it would have felt a bit forced. Also last week I went in 6 days in a row it feels I am 'recovering' a bit from that. CT feels like that to me like if you play a soccer game today you have to take tomorrow off. It is not really like that but it is in the sense if I am not into it I will not do it. For some reason that feels important to me.
@@ -29688,7 +29688,7 @@ One suggestion for the tummy would be sunshine. It may be strong enough already 
 
 I'm not saying that the fat won't redeposit itself elsewhere, since your body, if it is inefficient, needs the mass. I have been exposing my upper arms to sunshine most of this winter, and my shoulders look awesome now, if I do say so myself... I'm now lifting my arms to expose the underarms to more sunshine, and I've already seen some improvement in the last month.
 
-### patgrif@hotmail.com — 2014-03-06T04:50:27+0200
+### [email redacted] — 2014-03-06T04:50:27+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113709>
 
 Thanks to everybody here for being interested! That's very interesing what you say Nonchalant "since your body, if it is inefficient, needs the mass" I had NEVER thought of it like that before but I guess that is true huh? Like Dr K explained somewhere as the body loses energy it tries to compensate with more mass!! That means I am screwed then well until I get more 'efficient' hopefully that will happen. How would that happen semi-conductors improve I suppose, I DO have low energy in many ways find it hard to do basic things a lot of the time. Living in LA may be my biggest problem.....................I had never thought of it like that and I DO spent a lot of time at the beach, I live on the ground floor, do not use cell phone wifi etc but everybody around me does so can't help that. Caroline I think I am eating quite well epi-Paleo basically and ice vests do not appeal to me for the same reason I want to want to do it...............other than that no at least at this point.
@@ -29696,7 +29696,7 @@ Thanks to everybody here for being interested! That's very interesing what you s
 ### Gagnrad — 2014-03-06T10:52:56+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113739>
 
-> [patgrif@hotmail.com said:](/goto/post?id=113668)
+> [[email redacted] said:](/goto/post?id=113668)
 >
 > Funny thing today I walk into a bookshop and one of the first books I see is one called "Anam Cara" so I got it. Looks very interesting now if only I can chill out eneough to actually read it! It's all about Celtic philosophies of life etc
 
@@ -29735,7 +29735,7 @@ Try filling the tub with water first .... and then you think ...well I can't was
 
 The ice vest can be worn over a t-shirt....it is not bad at all...
 
-### patgrif@hotmail.com — 2014-03-07T05:23:12+0200
+### [email redacted] — 2014-03-07T05:23:12+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113910>
 
 Mike, about the Celtic love of animals. I just read a book about the Irish Famine and he says in that the pig in particular was like 'part of the family' would come in sort of eat with them, they would drop stuff on the floor for the pig and he even says at some point the pig might sleep between the parents and children in the bed. Now that's love! Of course I am not sure about these kinds of stories but I CAN imagine it.................we were 'close' with our dogs and cats we never had pigs so I don't know it is hard to imagine that but it COULD happen!
@@ -29743,7 +29743,7 @@ Mike, about the Celtic love of animals. I just read a book about the Irish Famin
 ### Gagnrad — 2014-03-07T09:00:05+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113948>
 
-> [patgrif@hotmail.com said:](/goto/post?id=113910)
+> [[email redacted] said:](/goto/post?id=113910)
 >
 > Mike, about the Celtic love of animals. I just read a book about the Irish Famine and he says in that the pig in particular was like 'part of the family' would come in sort of eat with them, they would drop stuff on the floor for the pig and he even says at some point the pig might sleep between the parents and children in the bed. Now that's love! Of course I am not sure about these kinds of stories but I CAN imagine it.................we were 'close' with our dogs and cats we never had pigs so I don't know it is hard to imagine that but it COULD happen!
 
@@ -29764,7 +29764,7 @@ I suppose what's surprising is that people could make a pet of an animal and sti
 
 Have you ever watched the film "A private function" with Michael Palin and Richard Griffith? It's about a pig
 
-### patgrif@hotmail.com — 2014-03-07T17:10:32+0200
+### [email redacted] — 2014-03-07T17:10:32+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-113999>
 
 Mike, you are correct, that picture of the house is very reminiscient of the houses around where I grew up. We were 'upper class' (kidding) our house was separate from the animal quarters. That whole thing of killing animals that you 'know' is a very tricky and weird situation. That's why I suppose it was treated as a 'sacrament' or all kinds of rituals surrounded it. But wer'nt they more in touch than we are today where we take meat as just so much 'material' (myself included) I remember my Mom bleeding the chickens to death but though I did not enjoy that it was all forgotten with the wonderful roast chicken later. We used to eat the heart, liver, kidneys etc actually it was my favorite parts.
@@ -29780,7 +29780,7 @@ I didn't know chickens were bled. Pigs, of course, because the blood would be us
 
 Funny thing -- someone just happened to say to me today that she used to visit her aunt in Ireland and ate fresh-caught fish "almost morning, noon, and night". She mentioned a place called Rabbit Island? She said they caught mackeral and cooked it over an open fire on a slab of slate, adding what everyone I've ever heard of who's caught fish and then cooked it immediately says: that as fresh as that it tastes like so out of this world it's like nothing you could ever buy even from the best fishmonger.
 
-### patgrif@hotmail.com — 2014-03-07T18:08:13+0200
+### [email redacted] — 2014-03-07T18:08:13+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-114008>
 
 Wow that sounds amazing! Can you imagine what brain power they had though maybe they did not know what use to put it to. Yes my Mom would kind of bend the top of the chicken's head and then slowly carve into it and hold it while she bled it into a can. We used the blood for 'black pudding' but what I remember was we felt the chicken was much 'better' if the blood was drained out. When I came to the US and heard they killed turkeys by twisting their necks that seems so groos. On a side note my sister used to help my Mom and she later became a top surgeon in Ireland and she credited her 'training' with my Mom as being influential in terms of becoming a surgeon! Yes the aroma of the freshly roasted chicken was just amazing, filled the whole house it seemed.
@@ -29788,7 +29788,7 @@ Wow that sounds amazing! Can you imagine what brain power they had though maybe 
 ### Gagnrad — 2014-03-08T13:05:39+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-114125>
 
-> [patgrif@hotmail.com said:](/goto/post?id=114008)
+> [[email redacted] said:](/goto/post?id=114008)
 >
 > When I came to the US and heard they killed turkeys by twisting their necks that seems so groos.
 
@@ -29805,12 +29805,12 @@ Are you going to celebrate Monday week with a glass of something?
 
 I love blood pudding .....
 
-### patgrif@hotmail.com — 2014-03-10T08:52:50+0200
+### [email redacted] — 2014-03-10T08:52:50+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-114481>
 
 Mike, 'Gagnrad' ?? Sounds like something from Olde Englishe like from Boewulf or something? Just curious. St Patrick's day I usually keep a low profile for some reason. I guess I should have taken 'advantage' of it and being Irish for the day. Anyway I typically don't and now the days of 'glasses of something' are almost gone. God I sound old!
 
-### patgrif@hotmail.com — 2014-03-10T09:00:37+0200
+### [email redacted] — 2014-03-10T09:00:37+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-114483>
 
 I have got my 20 Gauss magneteco and so far so good I would say. 2 nights so far and my sleep FEELS more restful, though I still woke in the middle of the night. Both nights I feel asleep QUICKLY and as I say the sleep seems/feels deeper and more restful. But early days..................I am also wary of and it goes against my habitual way of thinking of ANY kind of mechanical 'fix' for something as personal as sleep. That is why I probably would be one of the last to even consider sleeping pills of any description though I have had my troubles with sleep and more as I get older. Like I think I suffer from some old/ancient 'anxietes' but exploring those and using a magneto is not incompatible I would say. If what the magneto does is kind of restore the situation we would have if we were living in an non native EMF world IF that is really what it does. Still I suppose time to stop 'worrying' about how it really works and just wait and see the effects and I can always continue to wonder 'how' it works..............
@@ -29818,7 +29818,7 @@ I have got my 20 Gauss magneteco and so far so good I would say. 2 nights so far
 ### Gagnrad — 2014-03-10T09:10:18+0200
 **Source:** <https://forum.jackkruse.com/threads/patrick-introducing-myself.9975/post-114485>
 
-> [patgrif@hotmail.com said:](/goto/post?id=114481)
+> [[email redacted] said:](/goto/post?id=114481)
 >
 > Mike, 'Gagnrad' ?? Sounds like something from Olde Englishe like from Boewulf or something? Just curious. St Patrick's day I usually keep a low profile for some reason. I guess I should have taken 'advantage' of it and being Irish for the day. Anyway I typically don't and now the days of 'glasses of something' are almost gone. God I sound old!
 
@@ -30345,7 +30345,7 @@ Yup. Same for my doc. That and the daunting shift to a QED view that could chang
 **Subforum:** My Optimal Journal
 **Posts:** 25
 ══════════════════════════════════════════════════════════════════════
-### patgrif@hotmail.com — 2014-03-02T05:31:32+0200
+### [email redacted] — 2014-03-02T05:31:32+0200
 **Source:** <https://forum.jackkruse.com/threads/patricks-journal.9979/post-113006>
 
 _Hi everybody, below is a 'journal' I wrote for the primal therapy blog and it seemed like it would be ok to just put that on here. Maybe even 'interesting'. Just so people know when I talk there about 'primal' I mean primal therapy the psychological movement and I use that word in contrast to 'paleo'. However I do understand all these words are 'fungible' and what we are doing here could be called 'primal' just as much as 'paleo'_
@@ -30358,7 +30358,7 @@ It is certainly accurate to say I have had many issues revolving around food and
 
 I eventually hired a ‘personal trainer’ and ‘improved’ my diet. I DID lose weight and my blood sugar numbers DID improve but it began to feel like a ‘treadmill’ in both a literal and figurative sense. What I mean is that it seemed to demand constant vigilance, ‘will power’ combined with both a treadmill and jogging time were all designed to maintain what was still a very unsatisfactory situation. The more I thought about it the more clear it became that this approach could not be right. As a Primal person’ (if a bit ‘lapsed’) it seemed awfully like some kind of standard psycho-therapeutic approach versus the Primal one where the possibility did exist of actually solving some of these problems and not just forever managing or handling them. I mentioned elsewhere I first became aware of the so-called ‘caveman diet’ from my sister who is a doctor in Ireland. Not to overdo the similarities to Primal but it did ring a similar bell with me much like when I first heard of Primal Therapy through John Lennon’s Rolling Stone interview. At that time my reaction was “Well that makes all the sense in the world” . Obviously it’s a long way from Lennon’s throw away comments to actually investigating the therapy , reading the books and eventually deciding that this is the way for me. I would say I went through a similar experience re the ‘caveman diet’ except that there were many MORE books, MORE biology and MORE authors to explore. . The more I read and researched the more convincing and thorough I found their view point to be. This is a large topic and I can give a list of 10 to 20 books and websites that anyone can delve into. The amount of work and research that is being done in this area is impressive to say the least and I very much admire the independence of these various authors while remaining held together by a common idea.
 
-### patgrif@hotmail.com — 2014-03-02T05:32:15+0200
+### [email redacted] — 2014-03-02T05:32:15+0200
 **Source:** <https://forum.jackkruse.com/threads/patricks-journal.9979/post-113007>
 
 (continued)................
@@ -30395,7 +30395,7 @@ This is a world that Dr. K. And everyone here Helped me find.....
 
 I love that, it completely endorses where we should all stand to make this work for us. I think many of us have trodden the same path, looking for answers beyond the prescriptive medical solution. It's never easy swimming against the tide is it!
 
-### patgrif@hotmail.com — 2014-03-02T17:22:00+0200
+### [email redacted] — 2014-03-02T17:22:00+0200
 **Source:** <https://forum.jackkruse.com/threads/patricks-journal.9979/post-113065>
 
 Thanks Sooperb. Right now in this Forum I don't feel I am swimming against the tide so much as 'floudering'. Anyway it will become more clear how to use it I am sure as time goes on. I want to organize my picture later today if possible and I really like the way you put that information about yourself in I suppose it's called your avatar. Can you possibly help me in terms of telling me how to do that. Misty said something about that too yesterday I think it really helps to know where people live and other information about them. Your's is the most clear I have seen and I want to do something similar.
@@ -30416,7 +30416,7 @@ Ah Preston North End. My son is a huge fan. He was at the funeral despite never 
 ### tellmisty — 2014-03-03T04:20:29+0200
 **Source:** <https://forum.jackkruse.com/threads/patricks-journal.9979/post-113136>
 
-> [patgrif@hotmail.com said:](/goto/post?id=113065)
+> [[email redacted] said:](/goto/post?id=113065)
 >
 > Thanks Sooperb. Right now in this Forum I don't feel I am swimming against the tide so much as 'floudering'. Anyway it will become more clear how to use it I am sure as time goes on. I want to organize my picture later today if possible and I really like the way you put that information about yourself in I suppose it's called your avatar. Can you possibly help me in terms of telling me how to do that. Misty said something about that too yesterday I think it really helps to know where people live and other information about them. Your's is the most clear I have seen and I want to do something similar.
 >
@@ -30424,7 +30424,7 @@ Ah Preston North End. My son is a huge fan. He was at the funeral despite never 
 
 Here are the instructions, Patrick: [http://forum.jackkruse.com/index.php?threads/update-your-signature.9865/](http://forum.jackkruse.com/index.php?threads/update-your-signature.9865/)
 
-### patgrif@hotmail.com — 2014-12-24T05:25:13+0200
+### [email redacted] — 2014-12-24T05:25:13+0200
 **Source:** <https://forum.jackkruse.com/threads/patricks-journal.9979/post-150909>
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
@@ -30436,7 +30436,7 @@ I don't know if this will work, these are my labs so let's see if it does.......
 
 Looks like you'll have to have another go Patrick
 
-### patgrif@hotmail.com — 2014-12-24T06:24:24+0200
+### [email redacted] — 2014-12-24T06:24:24+0200
 **Source:** <https://forum.jackkruse.com/threads/patricks-journal.9979/post-150912>
 
 Yeah, I will just do it the 'old fashioned' way tomorrow................
@@ -30446,7 +30446,7 @@ Yeah, I will just do it the 'old fashioned' way tomorrow................
 
 LOL. If you are not an exception, try to be the example. Everything starts with today Pat. This is where it all begins. New hope is the point of departure with a lack of explanations. You can't change where you come from, but you can change where you go from here, right now. Just like a lyric in a song, if you don't like the ending, you can make up a new one. Change comes easy in Christmas cheer.
 
-### patgrif@hotmail.com — 2014-12-24T17:16:30+0200
+### [email redacted] — 2014-12-24T17:16:30+0200
 **Source:** <https://forum.jackkruse.com/threads/patricks-journal.9979/post-150925>
 
 Thanks Dr Kruse I DO need to 'remind' myself the future and present is more important than the past. I have spent much of my life 'regretting' the past and even spent a lifetime in 'therapy' doing it
@@ -30517,7 +30517,7 @@ Not sure of your lab value numbers... could you post them beside the results? Ho
 
 NSH
 
-### patgrif@hotmail.com — 2014-12-25T02:33:03+0200
+### [email redacted] — 2014-12-25T02:33:03+0200
 **Source:** <https://forum.jackkruse.com/threads/patricks-journal.9979/post-150949>
 
 Thanks Martin now let me see if I can make sense of this thyroid stuff...............
@@ -30525,7 +30525,7 @@ Thanks Martin now let me see if I can make sense of this thyroid stuff..........
 ### Jack Kruse — 2014-12-25T05:24:49+0200
 **Source:** <https://forum.jackkruse.com/threads/patricks-journal.9979/post-150957>
 
-> [patgrif@hotmail.com said:](/goto/post?id=150925)
+> [[email redacted] said:](/goto/post?id=150925)
 >
 > Thanks Dr Kruse I DO need to 'remind' myself the future and present is more important than the past. I have spent much of my life 'regretting' the past and even spent a lifetime in 'therapy' doing it
 >
@@ -30600,7 +30600,7 @@ Pat, don’t worry about the past.........your future is in the windshield not t
 
 there is a lesson here for the young............a young person filled with wellness should break their mirror early. Sometimes we can’t see what’s right in front of us, because it’s behind us, and we’re looking in a mirror.
 
-### patgrif@hotmail.com — 2014-12-25T08:02:36+0200
+### [email redacted] — 2014-12-25T08:02:36+0200
 **Source:** <https://forum.jackkruse.com/threads/patricks-journal.9979/post-150967>
 
 > [Jack Kruse said:](/goto/post?id=150959)
@@ -30616,12 +30616,12 @@ Just a cautionary notion before a lot of people come on here saying how tragic t
 
 Anyway maybe getting in the weeds a bit there but Kierkegaard also talked about if you doubt the mind as something that can know reality you can never get out of that loop because the very thing (the mind) that could as it were get you out of it is already in doubt. He was writing in the 1800’s when there was a lot of concern about things like that but it can be applied to a more modern situation or in psychology. Can we heal ourselves since our system is already distorted and all out attempts at healing will be run through that distorted program?. You can see this more easily with say drug addicts where the very attempt at healing themselves leads them further astray and after the drugs they are more depleted and desolate than ever. I feel ‘primal people’ should be a bit cautious about this and some aspects of Primal have ‘drug like’ aspects to it. Years of driving in reverse gear and looking in the rear view mirror can leave results that dont look too good
 
-### patgrif@hotmail.com — 2014-12-25T22:13:48+0200
+### [email redacted] — 2014-12-25T22:13:48+0200
 **Source:** <https://forum.jackkruse.com/threads/patricks-journal.9979/post-150998>
 
 Dr K said the website was undergoing a big revamp. My 'suggestion' would be on the Forum not to give a 'like' the same status as an actual post. To me it clutters up the blog too much and adds to the feeling of 'over-whelm' when actually I think it would feel more manageable if there were less posts and that can be achieved by NOT making a 'like' the same as a new post. Also I tend to think of this 'like business' tends to encourage a kind of 'people pleasing' atmosphere that I am not sure is needed. We are all here to learn and express ourselves not necessary to be 'flattered'. Just my take maybe others disagree.
 
-### patgrif@hotmail.com — 2015-01-01T04:30:51+0200
+### [email redacted] — 2015-01-01T04:30:51+0200
 **Source:** <https://forum.jackkruse.com/threads/patricks-journal.9979/post-151284>
 
 I had a Skype session with Dr Kruse on Monday and I see now why people go on about the benefits of 'live events'. This was not 'live' just Skype after all but I have to say it inspired me, I got a very good feeling from Dr K not that I would expect anything different but well I know of course about the brilliance of his intellect but well I can feel intimidated by someone like him. But I have to say he was down to earth, accessible in every which way. The last 3 days I have been CT'ing 'like a madman' it is cold out here in LA these days and between whipping along the PCH on my bike and jumping in the ocean..........well I feel a new day dawning. Up to now I kind of did all the stuff I was 'supposed' to but it's like something was missing. The thing is I am by myself out here and I think it is hard sometimes to be 'inspired' all on your own, talking to Dr K gave me a glimpse of what 'community' might mean how the power of that can mean so much.
@@ -30637,12 +30637,12 @@ I love it, Patrick............ I just love your post above
 it does is so hard at times to inspire one self totally alone..... and it feels so blessed to get inspired and "dragged up" and pushed a bit...lol.. by others......
 community sure is magic stuff. It always interested me too, since many years.... psychologically.. what potential it has. Truly amazing!
 
-### patgrif@hotmail.com — 2015-01-02T03:33:22+0200
+### [email redacted] — 2015-01-02T03:33:22+0200
 **Source:** <https://forum.jackkruse.com/threads/patricks-journal.9979/post-151347>
 
 Thanks Inger, yes it seemed to make a big difference. Actually first off the Skype was supposed to take place on last Friday so I got all 'prepped' ate like 12 oysters and jumped into a pretty cold ocean at least by LA standards anyway it did not happen that day but it gave me a sense of what it would be like not to be so 'alone'. Then over the weekend I did CT a lot ocean and also riding my bike. I like that kind of CT also the wind is very cooling like a radiator effect you could say. Anyway the Skype happened on Monday and I am still all 'charged up' and doing much CT and eating much fish. I feel the effects quite a bit and am now looking for a tennis partner to get some exercise going. I guess you are too far away for that, pity lol......................if anyone is in LA and want to play tennis..................
 
-### patgrif@hotmail.com — 2015-01-02T03:35:58+0200
+### [email redacted] — 2015-01-02T03:35:58+0200
 **Source:** <https://forum.jackkruse.com/threads/patricks-journal.9979/post-151348>
 
 Just to show I am not 'exaggerating' about how cold it is in LA. Whipping around on a bike in that kind of weather if very bracing...................
@@ -30652,7 +30652,7 @@ Just to show I am not 'exaggerating' about how cold it is in LA. Whipping around
 ### Jack Kruse — 2015-01-05T01:14:48+0200
 **Source:** <https://forum.jackkruse.com/threads/patricks-journal.9979/post-151632>
 
-> [patgrif@hotmail.com said:](/goto/post?id=151284)
+> [[email redacted] said:](/goto/post?id=151284)
 >
 > I had a Skype session with Dr Kruse on Monday and I see now why people go on about the benefits of 'live events'. This was not 'live' just Skype after all but I have to say it inspired me, I got a very good feeling from Dr K not that I would expect anything different but well I know of course about the brilliance of his intellect but well I can feel intimidated by someone like him. But I have to say he was down to earth, accessible in every which way. The last 3 days I have been CT'ing 'like a madman' it is cold out here in LA these days and between whipping along the PCH on my bike and jumping in the ocean..........well I feel a new day dawning. Up to now I kind of did all the stuff I was 'supposed' to but it's like something was missing. The thing is I am by myself out here and I think it is hard sometimes to be 'inspired' all on your own, talking to Dr K gave me a glimpse of what 'community' might mean how the power of that can mean so much.
 >
@@ -30793,7 +30793,7 @@ how do i access the restricted parts of the forum, will it link my member acct t
 ### Jack Kruse — 2014-06-10T05:14:15+0300
 **Source:** <https://forum.jackkruse.com/threads/new-member-dashboard-silver-klub.9994/post-130319>
 
-Contact [skruse613@gmail.com](mailto:skruse613@gmail.com)
+Contact [[email redacted]](mailto:[email redacted])
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -34533,7 +34533,7 @@ A rubber or diaphragm
 **Subforum:** My Optimal Journal
 **Posts:** 7
 ══════════════════════════════════════════════════════════════════════
-### shuvelle2@yahoo.com — 2014-03-05T04:04:48+0200
+### [email redacted] — 2014-03-05T04:04:48+0200
 **Source:** <https://forum.jackkruse.com/threads/sharons-epi-paleo-sugar-detox-journal.10019/post-113490>
 
 After digging jelly beans out of the trash so that I could indeed finish the bag and eating sugary stuff every night for the past 2 weeks, I've had it. I formally start a 21-day sugar detox tomorrow.

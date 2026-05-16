@@ -17852,14 +17852,14 @@ Great bill me and I will order. If I do it through site it will automatically ad
 >
 > Great bill me and I will order. If I do it through site it will automatically add postage
 
-email me your details inc phone number. [josh@mitogenhealth.com](mailto:josh@mitogenhealth.com)
+email me your details inc phone number. [[email redacted]](mailto:[email redacted])
 
 ### Michael CULLEN — 2019-10-27T16:04:33+0200
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-longevity-red-light-panels-pbm-from-josh.23224/post-281335>
 
 > [Josh (Paleo Osteo) said:](/goto/post?id=280940)
 >
-> email me your details inc phone number. [josh@mitogenhealth.com](mailto:josh@mitogenhealth.com)
+> email me your details inc phone number. [[email redacted]](mailto:[email redacted])
 
 Did this days ago,cheers.
 
@@ -18716,7 +18716,7 @@ It is a great panel - just not strong enuf to help eyes.
 ### Johan Lindøm — 2022-01-31T09:25:13+0200
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-longevity-red-light-panels-pbm-from-josh.23224/post-309367>
 
-> [gene@kalmens.org said:](/goto/post?id=309363)
+> [[email redacted] said:](/goto/post?id=309363)
 >
 > I am trying to get a red light device for my wife to treat her macular problems (dry AMD.) Will mitogen or EMR-TEK help? If EMR-TEK, which of the three devices available there?
 > [@Josh (Paleo Osteo)](https://forum.jackkruse.com/members/9815/) - is shipping to the US currently possible?
@@ -18923,7 +18923,7 @@ nonsense. studies show eyes can be helped with less than 17mw/cm2
 ### Josh (Paleo Osteo) — 2022-02-03T05:19:32+0200
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-longevity-red-light-panels-pbm-from-josh.23224/post-309497>
 
-> [gene@kalmens.org said:](/goto/post?id=309363)
+> [[email redacted] said:](/goto/post?id=309363)
 >
 > I am trying to get a red light device for my wife to treat her macular problems (dry AMD.) Will mitogen or EMR-TEK help? If EMR-TEK, which of the three devices available there?
 > [@Josh (Paleo Osteo)](https://forum.jackkruse.com/members/9815/) - is shipping to the US currently possible?
@@ -44405,7 +44405,7 @@ I have even started a consulting practice where I use these devices and the subt
 
 Lastly I have also started a non-profit called **The Bio Energy Healing Association,** where our mission is to teach and hold events in schools and the local community on **how the physical mitochondria wisdom connects with the subtle energy healing modalities. Our goal is to have a formal program in place to bring to the local schools and community groups and hospitals**
 
-At this stage I am I am currently looking to find **board members for my association** who are familiar with Dr Kruse,s Work, or anyone who has training and an interest in energy healing modalities. If anyone wants to know more about what I am doing or interested in leaning about the non profit please feel free to email at [jennscap1@gmail.com](mailto:jennscap1@gmail.com) or call me anytime 917-568-5992
+At this stage I am I am currently looking to find **board members for my association** who are familiar with Dr Kruse,s Work, or anyone who has training and an interest in energy healing modalities. If anyone wants to know more about what I am doing or interested in leaning about the non profit please feel free to email at [[email redacted]](mailto:[email redacted]) or call me anytime 917-568-5992
 
 ### Jack Kruse — 2022-02-10T16:16:30+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-gone-from-gadolinium-poisoning-new-outlook-ahead-teaching-others.23891/post-309857>

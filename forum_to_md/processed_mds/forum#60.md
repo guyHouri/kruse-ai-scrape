@@ -534,7 +534,7 @@ The history of vaccination is more complicated than most people understand. The 
 The smallpox vaccines were made from pus scraped off of diseased cows’ belly sores, contaminated with disease matter from a variety of animals and in some cases, humans. The smallpox vaccine history is probably not what you think it is.
 Doctors and those administering vaccines are SUPPOSED to obtain “informed consent” before vaccinating. Informed consent is not possible because parents are not given all the information they would require in order to understand the most important issues.
 I DON'T CONSIDER IT MY PLACE TO TELL ANYONE WHETHER TO VACCINATE OR NOT. I NEVER TELL OR ADVISE PEOPLE NOT TO VACCINATE.
-As a physician, I believe it is my place to understand as much as I can about vaccine science and history and give people a more complete understanding from which to make their choices. If you are interested in learning more about Dr. Humphries work you can email her too @ [drsuzannehumphries@gmail.com](mailto:drsuzannehumphries@gmail.com).
+As a physician, I believe it is my place to understand as much as I can about vaccine science and history and give people a more complete understanding from which to make their choices. If you are interested in learning more about Dr. Humphries work you can email her too @ [[email redacted]](mailto:[email redacted]).
 
 ### ElectricUniverse — 2019-01-14T18:28:08+0200
 **Source:** <https://forum.jackkruse.com/threads/all-things-5g-integrating-wonder-and-wisdom-at-the-intersection-of-art-and-physics.22077/post-260308>
@@ -621,7 +621,7 @@ When you are a power company and taking billions of dollars from CTIA carries an
 > The smallpox vaccines were made from pus scraped off of diseased cows’ belly sores, contaminated with disease matter from a variety of animals and in some cases, humans. The smallpox vaccine history is probably not what you think it is.
 > Doctors and those administering vaccines are SUPPOSED to obtain “informed consent” before vaccinating. Informed consent is not possible because parents are not given all the information they would require in order to understand the most important issues.
 > I DON'T CONSIDER IT MY PLACE TO TELL ANYONE WHETHER TO VACCINATE OR NOT. I NEVER TELL OR ADVISE PEOPLE NOT TO VACCINATE.
-> As a physician, I believe it is my place to understand as much as I can about vaccine science and history and give people a more complete understanding from which to make their choices. If you are interested in learning more about Dr. Humphries work you can email her too @ [drsuzannehumphries@gmail.com](mailto:drsuzannehumphries@gmail.com).
+> As a physician, I believe it is my place to understand as much as I can about vaccine science and history and give people a more complete understanding from which to make their choices. If you are interested in learning more about Dr. Humphries work you can email her too @ [[email redacted]](mailto:[email redacted]).
 
 American healthcare is in shambles.……where profits are privatized for corporations and losses are shared with taxpayers. And the data tied to losses is more protected than classified information from the CIA.
 For example: Vaccinations are the leading cause of "good medical coincidences" when they do not harm and when they do the taxpayer pays from the vaccine injury account and nobody can find the data on vaccine injuries without jumping through extraordinary hoops to recover the data. I cannot tell you how many times I’ve called the CDC in January’s at the beginning of years past only to get the numbers of payout on injuries the year before. I still have not heard back yet and we are going on 15 years now.
@@ -1265,7 +1265,7 @@ Lethal levels of microwaves are filling our living space as a corrupt FCC facili
 Wifi, wireless home phone, smart meters, WLAN, and now 5th Generation 5G will flood our environment even more: Lethal Levels!
 Cell phones are known to increase the rate of breast cancer when stored in bras and shirt pockets, testicular cancer when carried in pants pockets and the FCC lets it go on because they're former hirelings of the industries they're supposed to regulate in the public interest. They have not addressed the dangers here revealed, that other countries have already appropriately dealt with.
 "People are currently getting very sick and dying with neurological disease and cancer near cell towers. There are testimonials which we have from almost every state. With the recent findings of 'Clear Evidence of Carcinogenicity' in the $25 Million US NIH funded National Toxicology Program Study and others like it, we have enough scientific evidence to re-classify wireless radiation as a Class 1 Human Carcinogen like Asbestos and Cigarette smoke. Thus we should be a warning and minimizing exposure, not maximizing exposure as we are doing with 5G which will require the installation of 800,000 new cell tower antennas."
-Contact Kevin via [5gisharmful@gmail.com](mailto:5gisharmful@gmail.com)
+Contact Kevin via [[email redacted]](mailto:[email redacted])
 
 ### Jack Kruse — 2019-02-18T21:42:03+0200
 **Source:** <https://forum.jackkruse.com/threads/all-things-5g-integrating-wonder-and-wisdom-at-the-intersection-of-art-and-physics.22077/post-263507>
@@ -10616,7 +10616,7 @@ how come this is so much cheaper on Amazon? Am I missing something'? [https://ww
 ### Inna — 2018-09-21T21:29:36+0300
 **Source:** <https://forum.jackkruse.com/threads/navarre-fla.22120/post-251480>
 
-I booked trip to Navarra, Fla (Destin) Oct 14-19 to check out the area. Would love to connect with fellow mitochondracs while i am there. Please feel free to pm or email me: [slonic59@yahoo.com](mailto:slonic59@yahoo.com)
+I booked trip to Navarra, Fla (Destin) Oct 14-19 to check out the area. Would love to connect with fellow mitochondracs while i am there. Please feel free to pm or email me: [[email redacted]](mailto:[email redacted])
 
 ### GringoPerdido — 2018-09-22T00:46:55+0300
 **Source:** <https://forum.jackkruse.com/threads/navarre-fla.22120/post-251496>
@@ -12012,14 +12012,14 @@ Happy to "meet" you Rebecca ( : In which part of the country/world do you reside
 >
 > If I may... how does one go about requesting a consult?
 
-You will want to email [support@jackkruse.com](mailto:support@jackkruse.com) to find out scheduling details.
+You will want to email [[email redacted]](mailto:[email redacted]) to find out scheduling details.
 
 ### Annie Dru — 2018-09-26T21:20:18+0300
 **Source:** <https://forum.jackkruse.com/threads/hi.22145/post-251755>
 
 > [drezy said:](/goto/post?id=251753)
 >
-> You will want to email [support@jackkruse.com](mailto:support@jackkruse.com) to find out scheduling details.
+> You will want to email [[email redacted]](mailto:[email redacted]) to find out scheduling details.
 
 Thank you.
 
@@ -29305,7 +29305,7 @@ The history of vaccination is more complicated than most people understand. The 
 The smallpox vaccines were made from pus scraped off of diseased cows’ belly sores, contaminated with disease matter from a variety of animals and in some cases, humans. The smallpox vaccine history is probably not what you think it is.
 Doctors and those administering vaccines are SUPPOSED to obtain “informed consent” before vaccinating. Informed consent is not possible because parents are not given all the information they would require in order to understand the most important issues.
 I DON'T CONSIDER IT MY PLACE TO TELL ANYONE WHETHER TO VACCINATE OR NOT. I NEVER TELL OR ADVISE PEOPLE NOT TO VACCINATE.
-As a physician, I believe it is my place to understand as much as I can about vaccine science and history and give people a more complete understanding from which to make their choices. If you are interested in learning more about Dr. Humphries work you can email her too @ [drsuzannehumphries@gmail.com](mailto:drsuzannehumphries@gmail.com). [https://amicrowavedplanet.com/a-deadly-cocktail-vaccines-and-electromagnetic-radiation/](https://amicrowavedplanet.com/a-deadly-cocktail-vaccines-and-electromagnetic-radiation/)
+As a physician, I believe it is my place to understand as much as I can about vaccine science and history and give people a more complete understanding from which to make their choices. If you are interested in learning more about Dr. Humphries work you can email her too @ [[email redacted]](mailto:[email redacted]). [https://amicrowavedplanet.com/a-deadly-cocktail-vaccines-and-electromagnetic-radiation/](https://amicrowavedplanet.com/a-deadly-cocktail-vaccines-and-electromagnetic-radiation/)
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -42801,7 +42801,7 @@ Kessler states:
 
 Maybe that is because it is the light environment that dictates what is wise to eat and not what is available by modern standards. This is what programs the mitochondrial nanomachines called cytochromes.
 
-### gcnorbury@gmail.com — 2018-11-24T16:05:37+0200
+### [email redacted] — 2018-11-24T16:05:37+0200
 **Source:** <https://forum.jackkruse.com/threads/why-diets-stump-experts.22546/post-256412>
 
 Nice clip.

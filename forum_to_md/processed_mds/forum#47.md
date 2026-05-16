@@ -1019,7 +1019,7 @@ When I get MB, I'm going to take it with iced coffee in the blender and my ferme
 
 1.  Center for Mitochondrial and Epigenomic Medicine, The Children's Hospital of Philadelphia, Department of Pathology and Laboratory Medicine, University of Pennsylvania, Philadelphia, Pennsylvania 19104
 
-1.  _Correspondence:_ [wallaced1@email.chop.edu](mailto:wallaced1@email.chop.edu)
+1.  _Correspondence:_ [[email redacted]](mailto:[email redacted])
 
 [Next Section](http://cshperspectives.cshlp.org/content/5/11/a021220.full#sec-1)
 **Abstract**
@@ -3105,7 +3105,7 @@ Do you always do 13 drop of MB?Do you use nicotine also?
 
 **Need more help?**
 
-There is a [discussion about mthap on eng.molgen.org](http://eng.molgen.org/viewtopic.php?f=24&t=72). You can also email your questions to me at [james.lick@jameslick.com](mailto:james.lick@jameslick.com). So that I can best help you, please include a copy of the complete mthap report and/or your mtDNA data file in your email.
+There is a [discussion about mthap on eng.molgen.org](http://eng.molgen.org/viewtopic.php?f=24&t=72). You can also email your questions to me at [[email redacted]](mailto:[email redacted]). So that I can best help you, please include a copy of the complete mthap report and/or your mtDNA data file in your email.
 \===============================================
 \===============================================
 [http://dna.jameslick.com/mthap/23andMe.html](http://dna.jameslick.com/mthap/23andMe.html)
@@ -3235,7 +3235,7 @@ Extras(4): 709A 4386C 8251A 16304G
 
 Need help?
 
-First, please check the Frequently Asked Questions for guidance on how to read this report. If you still have questions, there is a discussion about mthap on eng.molgen.org. You can also email your questions to me at [james.lick@jameslick.com](mailto:james.lick@jameslick.com). So that I can best help you, please include a copy of the complete mthap report and/or your mtDNA data file in your email.
+First, please check the Frequently Asked Questions for guidance on how to read this report. If you still have questions, there is a discussion about mthap on eng.molgen.org. You can also email your questions to me at [[email redacted]](mailto:[email redacted]). So that I can best help you, please include a copy of the complete mthap report and/or your mtDNA data file in your email.
 
 ### JanSz — 2016-02-06T21:35:14+0200
 **Source:** <https://forum.jackkruse.com/threads/2015-heteroplasmy-bio-hack-results-nicotine-and-mb.17445/post-188433>
@@ -4862,7 +4862,7 @@ We hate to be sold, but we sure love to buy. And this, my quantum friends, is ho
 
 **Repetition is ideal for learning or setting a metronome. It's not beating a dead horse; it's watering a live seed until it changes.**
 
-### patgrif@hotmail.com — 2016-05-02T01:01:27+0300
+### [email redacted] — 2016-05-02T01:01:27+0300
 **Source:** <https://forum.jackkruse.com/threads/2015-heteroplasmy-bio-hack-results-nicotine-and-mb.17445/post-194000>
 
 > [NeilBB said:](/goto/post?id=193997)
@@ -10254,7 +10254,7 @@ Kevin
 
 The Zika Virus is causing microencephaly as a survival mechanism due to an altered environment. The body has sensed that energy availability is lower in some way, shape or form and selected a virus that reduces the size of the brain in order to propagate the species. This is de-evolutionary selection. since the brain is the largest user of energy in the human organism, less available energy means we need a smaller brain just to exist in the current environment. Our body is colonized with millions of viruses (10 to 1 ratio to bacteria). DNA is a virus. Life has many options to insure survival--all based on what the available energy environment is signaling. Right now, I'd argue the environment is signaling pretty shitty energy (and not just where this is happening, but everywhere).
 
-### info@sorrentinodental.com — 2016-02-12T16:50:22+0200
+### [email redacted] — 2016-02-12T16:50:22+0200
 **Source:** <https://forum.jackkruse.com/threads/zika-virus-has-a-lesson-for-us-are-you-listening.17545/post-188856>
 
 Oh crap. We need to do something about this but not what the media or modern medicine is telling us to do.
@@ -19124,7 +19124,7 @@ Cast iron pans? Both DH and I saw decreases in iron during this past summer when
 **Subforum:** Meet and Greet
 **Posts:** 7
 ══════════════════════════════════════════════════════════════════════
-### lynnchavarriarn@gmail.com — 2016-03-01T21:49:06+0200
+### [email redacted] — 2016-03-01T21:49:06+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-georgia-desperate-for-wellness-knowledge.17622/post-190036>
 
 Hi from Georgia! Dr. K is awesome and I have followed him and corresponded with him for several years. When his blog changed I had problems participating, but today I took the time to get in and reclaim my position as his student. I am an RN with a Masters in Nursing and working on my DNP. I have not focused on my own health and wellness and today I begin this journey. I am a life long enthusiastic learner and I feel overwhelmed with my state of health at 58. I have 2 children that are athleates and I desire to help them succeed with the knowledge I gain from Dr. K. I want to know about Dr. K's opinion on Protandim, Essential Oils, and how to get a complete evaluation. I am looking forward to a healthier future as part of this community of Optimal Health! Thank you Dr. K for sharing! I know you said in the beginning you did not believe people should have to pay for your knowledge and you have freely shared!
@@ -19151,7 +19151,7 @@ If you can manage it - become a gold member and you will have access to the mont
 
 Have you started the leptin RX?
 
-### lynnchavarriarn@gmail.com — 2016-03-02T05:08:19+0200
+### [email redacted] — 2016-03-02T05:08:19+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-georgia-desperate-for-wellness-knowledge.17622/post-190063>
 
 no to all, I have totally ignored my needs and wellness for others. I am getting started now! I am a sponge and soaking it all in. A little overwhelmed and anxious to learn it all. Thanks!
@@ -19168,7 +19168,7 @@ Here is a snippet of where we are now: [http://www.cnn.com/2016/03/01/health/gra
 ### caroline — 2016-03-02T06:42:14+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-georgia-desperate-for-wellness-knowledge.17622/post-190068>
 
-> [lynnchavarriarn@gmail.com said:](/goto/post?id=190063)
+> [[email redacted] said:](/goto/post?id=190063)
 >
 > no to all, I have totally ignored my needs and wellness for others. I am getting started now! I am a sponge and soaking it all in. A little overwhelmed and anxious to learn it all. Thanks!
 
@@ -20969,7 +20969,7 @@ Sounds like a great control mechanism...huh... If we don't want a cheeseburger, 
 
 Bottom line is that consumers want \*choice.\* The more choice we have available, the more we empower each individual. The less choice we have, the easier it is for other entities to shackle and control. And more specifically, many highly important choices are being hidden in plain "sight." Let's look at the nnEMF issue of invisibility. If people could see WiFi, mircrowave, radio and other forms of light, people would be outcrying for choice over what we are forced to ensure with so much interference that would be blocking our vision. The fog alone would get people to change, but because nnEMF fog is invisible, it's right under everyone's nose with no big sensory systems to detect it mentally (unless you're nnEMF sensitive like me), even though our mitochondria sensory systems do detect it. One perfect example that comes to mind is the choice not have SmartMeter light penetrate their brains at 3am when it blasts energy into their pineal glands. Many states don't offer an opt-out program. Our choices are diminishing slowly and insideously. Unless society regains back an attitude of independence in my opinion, an attitude that we're not gonna take the crap from those that want to control us.
 
-### patgrif@hotmail.com — 2016-06-09T04:52:59+0300
+### [email redacted] — 2016-06-09T04:52:59+0300
 **Source:** <https://forum.jackkruse.com/threads/chemtrails-are-they-real.17645/post-196202>
 
 > [Inger said:](/goto/post?id=190331)
@@ -20987,7 +20987,7 @@ I know how you feel Inger, when I first became aware of it about 2 months ago I 
 
 There is loads of stuff on youtube about it you can see the movie "What on Earth are they spraying us with" and "Why on Earth are they spraying us". Also "Don't talk about the weather" just loads and loads of stuff there. Happy reading and watching and don't let 'the boyfriend' talk you out of it................
 
-### patgrif@hotmail.com — 2016-06-09T05:05:28+0300
+### [email redacted] — 2016-06-09T05:05:28+0300
 **Source:** <https://forum.jackkruse.com/threads/chemtrails-are-they-real.17645/post-196204>
 
 Inger: you mentioned about officials denying it. Here is a slightly comic in an Irish way of a guy calling some officials.
@@ -21035,7 +21035,7 @@ I'm not sure about the credibility of Kristen Meghan, but I think Shijin13 has m
 
 They have stopped here too...temperature been soaring.
 
-### patgrif@hotmail.com — 2016-06-22T06:19:47+0300
+### [email redacted] — 2016-06-22T06:19:47+0300
 **Source:** <https://forum.jackkruse.com/threads/chemtrails-are-they-real.17645/post-197061>
 
 This is a question for Dr Kruse himself or anyone else who feels 'qualified' to answer. Given that our atmosphere has been turned into something that all kinds of electronic pulses etc flow through from end to end with all kinds of frequencies is it _necessary_ to sort of 'prime' our atmosphere in this way. I mean by spraying it with all kinds of nano particles of metals (aluminum, barium, strontium etc etc) and also applying HAARP and NEXRAD type electro-magnetic frequencies to 'ready' it for the transmission of many military communications and also of course our own civilian uses, cell phones, wireless internet, GPS devices etc etc.
@@ -21082,7 +21082,7 @@ I don't think the debate should be about a single factor, i.e. "chemtrails". I s
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### patgrif@hotmail.com — 2016-06-23T02:04:30+0300
+### [email redacted] — 2016-06-23T02:04:30+0300
 **Source:** <https://forum.jackkruse.com/threads/chemtrails-are-they-real.17645/post-197118>
 
 > [Jonathin said:](/goto/post?id=197116)
@@ -21105,7 +21105,7 @@ I don't think the debate should be about a single factor, i.e. "chemtrails". I s
 
 Jonathin, it seems the 'hard edges' 'angles' and 'rippling' are the effects of massive EMF's applied to the metals etc in 'chemtrails' I would say it is far from OK and has little to do with the 'old fashioned' contrails that just condensation of water vapor not a big deal (though of course exhaust also has some pollutants) but unfortunatly I think this IS a big deal and not in a good way........
 
-### patgrif@hotmail.com — 2016-06-23T02:06:36+0300
+### [email redacted] — 2016-06-23T02:06:36+0300
 **Source:** <https://forum.jackkruse.com/threads/chemtrails-are-they-real.17645/post-197119>
 
 > [Penny said:](/goto/post?id=197112)
@@ -21161,7 +21161,7 @@ A cloud particle is basically water and aerosols. It's like a cell. The aerosol 
 ### Jonathin — 2016-06-26T00:14:38+0300
 **Source:** <https://forum.jackkruse.com/threads/chemtrails-are-they-real.17645/post-197274>
 
-> [patgrif@hotmail.com said:](/goto/post?id=197118)
+> [[email redacted] said:](/goto/post?id=197118)
 >
 > Jonathin, it seems the 'hard edges' 'angles' and 'rippling' are the effects of massive EMF's applied to the metals etc in 'chemtrails' I would say it is far from OK and has little to do with the 'old fashioned' contrails that just condensation of water vapor not a big deal (though of course exhaust also has some pollutants) but unfortunatly I think this IS a big deal and not in a good way........
 
@@ -25340,7 +25340,7 @@ Tom Doud is a member here. He made mine. Contact him. His operations are in Mich
 **Source:** <https://forum.jackkruse.com/threads/blue-blockers-sold-online.17704/post-191240>
 
 thanks to Jack's tip-off I had mine also done by Tom. They are awesome!!! If you don't find him here look on fb, or here the email
-[hartlandeyecare@yahoo.com](mailto:hartlandeyecare@yahoo.com)
+[[email redacted]](mailto:[email redacted])
 
 ### Simon Wright — 2016-03-21T11:46:05+0200
 **Source:** <https://forum.jackkruse.com/threads/blue-blockers-sold-online.17704/post-191242>
@@ -35452,7 +35452,7 @@ spell check Fasting.
 **Subforum:** Beginners Area
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### joangtaylor@gmail.com — 2016-04-15T17:16:48+0300
+### [email redacted] — 2016-04-15T17:16:48+0300
 **Source:** <https://forum.jackkruse.com/threads/so-stupidly-i-recently-had-cataract-surgery.17817/post-192755>
 
 Last December.
@@ -40744,7 +40744,7 @@ Was it that information can't go faster than the speed of light?
 
 Unifying electromagnetism with gravity instead of the weak force?
 
-### patgrif@hotmail.com — 2016-05-02T12:42:41+0300
+### [email redacted] — 2016-05-02T12:42:41+0300
 **Source:** <https://forum.jackkruse.com/threads/april-2016-q-a.17858/post-194013>
 
 > [Jack Kruse said:](/goto/post?id=193790)

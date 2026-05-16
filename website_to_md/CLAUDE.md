@@ -1,6 +1,8 @@
 # website_to_md — legacy reference scraper
 
-**Status:** legacy / reference codebase. NOT a kruse-ai-scrape module. Every other module (`forum_to_md/`, `kemono_to_md/`, `threadreader_to_md/`, `linkedin_to_md/`) was built on top of this code's patterns and conventions, but they are independent now.
+**Status:** legacy / reference codebase. NOT a kruse-ai-scrape module. Every other module (`forum_to_md/`, `linkedin_to_md/`, `free_blogs_md/`, `threadreader_to_md/`, `private/kemono_to_md/`) was built on top of this code's patterns and conventions, but they are independent now.
+
+`websites.json` is intentionally empty (`[]`). The repo previously held Hebrew Australian-tourism site entries from the original fork; they were scrubbed when this project was repurposed for the Jack Kruse corpus. Add new entries here only if you actually need an article-portal scraper for a Kruse-related site — otherwise fork a new sibling module.
 
 Generic two-stage web scraper: crawl same-domain URLs, render each page to markdown via Cheerio + Turndown. Useful as a starter template for new sources where the target is article-portal-style content (one URL = one article).
 

@@ -71,7 +71,7 @@ Welcome!!!!!!!!!!!!!!!!!!!
 
 Hi Jesse! Dr. Kruse makes the most sense and pulls it all together so well!
 
-### jayjha1@gmail.com — 2012-03-15T01:19:51+0200
+### [email redacted] — 2012-03-15T01:19:51+0200
 **Source:** <https://forum.jackkruse.com/threads/san-francisco-thermogenerator.1/post-167>
 
 > **hellojtm;2 wrote:** My name is Jesse and I live in San Francisco. I'm not quite 40 years old and have been immersing myself in diet/fitness for the past couple of years, although much more intensely since January 2011.
@@ -94,7 +94,7 @@ Hi, I'm Kathy and in San Francisco too!
 
 Nice, a few from the bay area! This rainy cold weather has made it easier for me to stay cool all the time. For a while there it was tough with a couple days in the 80s!
 
-### zoebarry@yahoo.com — 2012-03-15T20:25:12+0200
+### [email redacted] — 2012-03-15T20:25:12+0200
 **Source:** <https://forum.jackkruse.com/threads/san-francisco-thermogenerator.1/post-957>
 
 Hi Jesse!
@@ -364,7 +364,7 @@ Keep chillin!
 
 Rojo
 
-### mmuskopf@gmail.com — 2012-03-15T00:08:39+0200
+### [email redacted] — 2012-03-15T00:08:39+0200
 **Source:** <https://forum.jackkruse.com/threads/greetings-from-springfield-il.7/post-36>
 
 Hey Rojo,
@@ -378,7 +378,7 @@ Just thought I'd say hello as a fellow SoIL native!
 
 Welcome! Hey, do you still have snow????
 
-### mmuskopf@gmail.com — 2012-03-15T01:12:30+0200
+### [email redacted] — 2012-03-15T01:12:30+0200
 **Source:** <https://forum.jackkruse.com/threads/greetings-from-springfield-il.7/post-150>
 
 Lol, nope. I think the high temp was 80F here today!
@@ -658,7 +658,7 @@ Hi Michelle,
 
 It's interesting how we have to take our health into our own hands while still paying ungodly premiums for CW health insurance. I hope to some day be so Optimal that I can cut back on everything but catastrophic emergency care.
 
-### jreyn07@live.com — 2012-03-15T01:56:27+0200
+### [email redacted] — 2012-03-15T01:56:27+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-north-carolina.15/post-221>
 
 go forward and succeed!
@@ -683,7 +683,7 @@ Martin
 **Subforum:** Meet and Greet
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### kc_boxerman@yahoo.com — 2012-03-15T00:08:00+0200
+### [email redacted] — 2012-03-15T00:08:00+0200
 **Source:** <https://forum.jackkruse.com/threads/not-yet-optimal.18/post-35>
 
 but getting closer in Nebraska.
@@ -700,7 +700,7 @@ Hi Optimal!!!!!!!!!!!!
 
 Hi neighbor! I'm in South Dakota! Happy to be here and meet you!
 
-### kc_boxerman@yahoo.com — 2012-03-15T21:32:09+0200
+### [email redacted] — 2012-03-15T21:32:09+0200
 **Source:** <https://forum.jackkruse.com/threads/not-yet-optimal.18/post-1009>
 
 > **PaleoCowgirl;663 wrote:** Hi neighbor! I'm in South Dakota! Happy to be here and meet you!
@@ -762,7 +762,7 @@ We could all go CT together in the Boulder Creek
 
 Welcome, souldanzer! Good to see you here. I enjoy your posts at MDA and Jack's blog.
 
-### jeanie@truelongmont.com — 2012-03-15T04:33:28+0200
+### [email redacted] — 2012-03-15T04:33:28+0200
 **Source:** <https://forum.jackkruse.com/threads/hi-from-the-rockies.19/post-454>
 
 Boulder here too! Can we do some kind of Colorado grouping?
@@ -818,14 +818,14 @@ There's always Boulder Rez for a chilling experience. I've jumped in a few times
 
 OMG, never thought about that!! I have to check it out.
 
-### jeanie@truelongmont.com — 2012-03-16T03:05:30+0200
+### [email redacted] — 2012-03-16T03:05:30+0200
 **Source:** <https://forum.jackkruse.com/threads/hi-from-the-rockies.19/post-1217>
 
 LOVE IT! Boulder super human club. . . all of Colorado welcome of course! Please keep sharing info on Doc's etc. I know there is a doc in South Denver who is very Paleo supportive. He goes by "denvers diet doc". I haven't gone to him yet - I would love to find someone local (who takes insurance even better!). We are totally going to have to try and organize some social/freezing events. Cold camping anyone?
 
 If any of you Northern Colorado folks have a supportive Doc, let us all know!
 
-### jeanie@truelongmont.com — 2012-03-16T03:21:55+0200
+### [email redacted] — 2012-03-16T03:21:55+0200
 **Source:** <https://forum.jackkruse.com/threads/hi-from-the-rockies.19/post-1225>
 
 Ok, I started a group " Boulder super human group" Join! I'll try and send out invites from here.
@@ -853,7 +853,7 @@ I'm in the burbs SW of Denver. Great to see so many others near by
 
 The Polar Bear Plunge is a special event held on January 1 every year and so isn't subject to the usual rules about no swimming. Though I wouldn't call what I did "swimming"! My first year I did a little bit of swimming back and forth in the hole they cut out of the ice because I had friends filming me so I needed to show off. In subsequent years, I got out as fast as my numb feet would let me. You could probably go in from the north shore right now or at nearby Coot Lake if you really wanted to get that ice cold water experience. I'll be sticking with the tub for now.
 
-### terryfischer39@yahoo.com — 2012-03-19T05:49:19+0200
+### [email redacted] — 2012-03-19T05:49:19+0200
 **Source:** <https://forum.jackkruse.com/threads/hi-from-the-rockies.19/post-2623>
 
 Anyone doing anything with altitude? I believe you all have some tall ones up there. TerryF, high desert NM.
@@ -977,14 +977,14 @@ I worked directly with spectra cell, their local territory manager
 
 I don't get it! You all sound like you're in great shape - 10,000 hikes and canyon runs, polar plunges and swimming in the res! I can barely make it up a flight of stairs! Must be the telemeres you're after!
 
-### jeanie@truelongmont.com — 2012-03-22T01:23:22+0200
+### [email redacted] — 2012-03-22T01:23:22+0200
 **Source:** <https://forum.jackkruse.com/threads/hi-from-the-rockies.19/post-4120>
 
 > **SimonM;2643 wrote:** GREAT idea!!! Then HOT coffee ?????? Or am I missing the point
 
 Then we can head to SHINE for Elixers!
 
-### jeanie@truelongmont.com — 2012-03-22T01:27:03+0200
+### [email redacted] — 2012-03-22T01:27:03+0200
 **Source:** <https://forum.jackkruse.com/threads/hi-from-the-rockies.19/post-4124>
 
 So they have a cryotherapy unit at the cafe of life next to Whole Foods. Wonder if we could work out some deal. I know they normally do 3 min type things. . .wonder, wonder. . .Simon, your the athlete correct? Ever done that?
@@ -1012,7 +1012,7 @@ I'm considering the first timer deal but after that...
 
 And Tonic Oxygen bar for some extra O2
 
-### jeanie@truelongmont.com — 2012-03-23T00:53:06+0200
+### [email redacted] — 2012-03-23T00:53:06+0200
 **Source:** <https://forum.jackkruse.com/threads/hi-from-the-rockies.19/post-4693>
 
 > **Lyndra;4159 wrote:** We just tried to get hold of them and it took 2+ days to get back to us. Usually they are more responsive. Maybe they had a staffing issue...
@@ -1039,7 +1039,7 @@ The price is a little shocking for a 3-minute treatment; if I had a unit it woul
 
 Now that would be fun! But the video with Dr.Oz on the belowzerocolorado.com site will give you an idea of how big the thing is and how it works. I bet the 3minutes is pretty specific, no matter what condition you're in -might come out too frozen to warm up if you stay in longer!
 
-### jeanie@truelongmont.com — 2012-05-17T01:12:59+0300
+### [email redacted] — 2012-05-17T01:12:59+0300
 **Source:** <https://forum.jackkruse.com/threads/hi-from-the-rockies.19/post-24723>
 
 Ok Guys! I cleaned out my inbox! In case you tried to PM me I guess I had reached a max. ooops.
@@ -1082,7 +1082,7 @@ Scott Carpenter Pool opens today. Only 50m pool in Boulder.
 
 Something I \*can\* do
 
-### jeanie@truelongmont.com — 2012-05-25T21:56:53+0300
+### [email redacted] — 2012-05-25T21:56:53+0300
 **Source:** <https://forum.jackkruse.com/threads/hi-from-the-rockies.19/post-27422>
 
 Any idea on temp there?
@@ -1314,7 +1314,7 @@ Hi! Living north of Dallas myself.
 **Subforum:** Meet and Greet
 **Posts:** 5
 ══════════════════════════════════════════════════════════════════════
-### mycrazycartoons@gmail.com — 2012-03-15T00:28:01+0200
+### [email redacted] — 2012-03-15T00:28:01+0200
 **Source:** <https://forum.jackkruse.com/threads/working-towards-optimal.27/post-66>
 
 Hi... I found the Optimal blog about a month ago--right when I finished doing a round of hcg... coincidental? I don't think so.. I don't believe in coincidence. Anyway.. happy to have found this fountain of information and perhaps youth? I'm doing the leptin rx and CT everyday and trying to adapt to the light cycles. I hated the cold at first, but now I look forward to it. I look forward to exchanging ideas and thoughts via this forum. Oh.. I'm from AZ.
@@ -1331,14 +1331,14 @@ Hi Nana,
 
 CT is next on my list. Thanks!
 
-### mycrazycartoons@gmail.com — 2012-03-15T01:09:18+0200
+### [email redacted] — 2012-03-15T01:09:18+0200
 **Source:** <https://forum.jackkruse.com/threads/working-towards-optimal.27/post-143>
 
 > **Birdy;70 wrote:** Hi Nana! Glad yur here!!!
 
 Thnx Birdy-- likewise
 
-### mycrazycartoons@gmail.com — 2012-03-15T01:10:47+0200
+### [email redacted] — 2012-03-15T01:10:47+0200
 **Source:** <https://forum.jackkruse.com/threads/working-towards-optimal.27/post-146>
 
 Jane, CT is fascinating.
@@ -1350,7 +1350,7 @@ Jane, CT is fascinating.
 **Subforum:** Meet and Greet
 **Posts:** 5
 ══════════════════════════════════════════════════════════════════════
-### meyoolia@gmail.com — 2012-03-15T00:30:56+0200
+### [email redacted] — 2012-03-15T00:30:56+0200
 **Source:** <https://forum.jackkruse.com/threads/hi-hi-from-the-toronto-on-area.28/post-73>
 
 This is GREAT - finally being able to see whereabouts on the globe the other "loonies" are  The proof is in the pudding, eh?
@@ -1382,7 +1382,7 @@ Hello. I am a former Canadian \[ born in Toronto\] and now living in Aus. This s
 **Subforum:** Meet and Greet
 **Posts:** 5
 ══════════════════════════════════════════════════════════════════════
-### rbu5@sssnet.com — 2012-03-15T00:31:07+0200
+### [email redacted] — 2012-03-15T00:31:07+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-ohio.29/post-74>
 
 It's great that Dr Kruse has a forum all set up for us. This is awesome! I came over from the Marks Daily Apple Leptin Thread and it is wonderful to see so many of the posters here.
@@ -1403,14 +1403,14 @@ Hi RBee,
 
 I'm a leaky gutter too...in more ways than one!
 
-### rbu5@sssnet.com — 2012-03-15T01:43:14+0200
+### [email redacted] — 2012-03-15T01:43:14+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-ohio.29/post-197>
 
 > **Birdy;80 wrote:** Hello RBee!!!!!!!!!!!!!!!!!!!!
 
 Thank you for the welcome Birdy!
 
-### rbu5@sssnet.com — 2012-03-15T01:44:14+0200
+### [email redacted] — 2012-03-15T01:44:14+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-ohio.29/post-199>
 
 > **Jane;142 wrote:** Hi RBee,
@@ -1578,7 +1578,7 @@ Welcome Doc!!!!!!!!!!!!!!!!!
 
 It's fantastic to see a member of the medical community get on board the Optimal Train. There's hope that it will spread out into quality patient care. Good for you!
 
-### rbu5@sssnet.com — 2012-03-15T01:47:42+0200
+### [email redacted] — 2012-03-15T01:47:42+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-cambridge-uk.34/post-204>
 
 A hearty welcome to you Doc! It is wonderful to see you and I'm thrilled you are educating your peers in the medical community. We sure need you and so many others on board.
@@ -1624,7 +1624,7 @@ Great to meet you Kyle!
 **Subforum:** Meet and Greet
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### judithzthompson@hotmail.com — 2012-03-15T00:43:04+0200
+### [email redacted] — 2012-03-15T00:43:04+0200
 **Source:** <https://forum.jackkruse.com/threads/hi-from-wellington-fl.40/post-106>
 
 Hi guys - and THANK YOU Jack!
@@ -2065,7 +2065,7 @@ I recognize your name from the questions, thanks for asking things that lurkers 
 
 A Texan too!
 
-### txritchies@att.net — 2012-03-15T03:58:51+0200
+### [email redacted] — 2012-03-15T03:58:51+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-north-central-texas.61/post-418>
 
 So have you decided on new granite or a new house? Haha!!
@@ -2147,7 +2147,7 @@ We were in Lewisville today for the 40,000 mile on my '09 Jetta.
 ### LinD — 2016-06-17T05:46:23+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-north-central-texas.61/post-196751>
 
-> [txritchies@att.net said:](/goto/post?id=418)
+> [[email redacted] said:](/goto/post?id=418)
 >
 > So have you decided on new granite or a new house? Haha!!
 
@@ -2160,7 +2160,7 @@ Hey, girlie. Are you still here?
 **Subforum:** Meet and Greet
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### skline@peak.org — 2012-03-15T01:58:02+0200
+### [email redacted] — 2012-03-15T01:58:02+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-oregon.62/post-226>
 
 Amazingly small numbers after the Monster Thread.
@@ -2199,7 +2199,7 @@ Howdy from Friendswood Texas!
 
 Welcome!!!!!!!!!!!!!!!
 
-### grammasmitty@hotmail.com — 2012-03-15T03:16:01+0200
+### [email redacted] — 2012-03-15T03:16:01+0200
 **Source:** <https://forum.jackkruse.com/threads/howdy-from-texas.64/post-360>
 
 Welcome! My DD lives in OK, so kind of familiar with the general area Nice!!
@@ -2209,7 +2209,7 @@ Welcome! My DD lives in OK, so kind of familiar with the general area Nice!!
 
 I'm glad to see that good 'ol southern hospitality is alive and well here.  Thanks for the warm welcome!
 
-### smwpeterson@gmail.com — 2012-03-31T18:31:21+0300
+### [email redacted] — 2012-03-31T18:31:21+0300
 **Source:** <https://forum.jackkruse.com/threads/howdy-from-texas.64/post-9270>
 
 Hi JeffieJoe I am in Fort Worth also. Well I work there moved up near Denton a year ago. I got to meet Dr. Kruse in Austin at the PaleoFX. My friend went with me and she is now working on putting together a room in our building for us to all meet and share. It should be ready in May. We hope to have speakers. It is at I30 and Forrest Park. We will have Paleo meals on Fridays and more. We are working with local Paleo people and looking for more. Glad I found this thread.
@@ -2268,7 +2268,7 @@ Hi, Fitness and Rojo. Thanks for the welcomes! I am excited to see what this new
 
 Nice to see you here!!
 
-### grammasmitty@hotmail.com — 2012-03-15T03:20:48+0200
+### [email redacted] — 2012-03-15T03:20:48+0200
 **Source:** <https://forum.jackkruse.com/threads/dipping-my-toe-in-the-cold-waters-of-change.66/post-368>
 
 Welcome!!! Wow, at 57 I was at the beginning of my journey after lots of failed diets. (I just turned 61) Right about then I was down from my high of 322# and using hcg as my only tool. So glad I've found Dr. Jack. Hoping keto and CT will now take me the rest of the way!! The bottom line is like you said, NEVER give up!
@@ -2289,7 +2289,7 @@ I'm curious about the hcg diet, too. What was your experience? I have a few frie
 **Subforum:** Meet and Greet
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### jreyn07@live.com — 2012-03-15T02:12:24+0200
+### [email redacted] — 2012-03-15T02:12:24+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-welcome-optimalizers.68/post-246>
 
 What a wonderful, eye opening, at times confirmational, journey since I started reading Dr. K and everyone's comments and Dr. K's responses and incorporating new choices and fine tuning others.
@@ -2379,7 +2379,7 @@ Welcome!!!!!!!!!!!!!!
 **Subforum:** Meet and Greet
 **Posts:** 11
 ══════════════════════════════════════════════════════════════════════
-### trishalinn@gmail.com — 2012-03-15T02:36:20+0200
+### [email redacted] — 2012-03-15T02:36:20+0200
 **Source:** <https://forum.jackkruse.com/threads/hiya-from-michigan.75/post-294>
 
 Hey!
@@ -2412,7 +2412,7 @@ I'm from Michigan too. Started CT in the snow Sunday. I'm really excited about t
 
 So glad to see the optimized living forum is up now, there will be lot's of great stuff to share. My husband (snowbather) and I just joined. Just need to open the car windows or go lay in the snow for CT here!
 
-### trishalinn@gmail.com — 2012-03-15T17:12:03+0200
+### [email redacted] — 2012-03-15T17:12:03+0200
 **Source:** <https://forum.jackkruse.com/threads/hiya-from-michigan.75/post-802>
 
 Hi fellow michiganders! No snow in the part of MI I am in. In fact it's unseasonably warm - in the 70's! My pool just needs to warm up about 7 more degrees and I can do CT in there!
@@ -2433,7 +2433,7 @@ Wow! Lots of Michiganders
 
 I'm originally from Traverse City and also lived in Grand Haven (near Holland). I'm in Nashville, now. I miss living close to Lake MI. It sure would come in handy for cold thermogenesis, heehee.
 
-### trishalinn@gmail.com — 2012-03-16T03:29:34+0200
+### [email redacted] — 2012-03-16T03:29:34+0200
 **Source:** <https://forum.jackkruse.com/threads/hiya-from-michigan.75/post-1233>
 
 > **blindpig;1044 wrote: Hi, Trisha,
@@ -2468,7 +2468,7 @@ I live in the only county in michigan without a natural lake. I think it's about
 
 The west side really is my favorite part of the state! What county are you in, Trisha? It's hard to imagine a county in MI with no natural lakes
 
-### trishalinn@gmail.com — 2012-03-20T20:46:36+0200
+### [email redacted] — 2012-03-20T20:46:36+0200
 **Source:** <https://forum.jackkruse.com/threads/hiya-from-michigan.75/post-3414>
 
 > **hazyjane;2593 wrote:** The west side really is my favorite part of the state! What county are you in, Trisha? It's hard to imagine a county in MI with no natural lakes
@@ -2513,7 +2513,7 @@ Hello from LA,(lower Alabama). I am looking forward to learning a lot here. Read
 **Subforum:** Meet and Greet
 **Posts:** 6
 ══════════════════════════════════════════════════════════════════════
-### grammasmitty@hotmail.com — 2012-03-15T02:44:47+0200
+### [email redacted] — 2012-03-15T02:44:47+0200
 **Source:** <https://forum.jackkruse.com/threads/hi-from-utah.78/post-300>
 
 Finally got registered and activated! The internet didn't seem to like me this afternoon
@@ -2527,7 +2527,7 @@ Looking forward to being back on total paleo/keto next week and will continue CT
 
 Welcome!!!!!!!!!!!!!!!!!!!!
 
-### grammasmitty@hotmail.com — 2012-03-15T03:13:34+0200
+### [email redacted] — 2012-03-15T03:13:34+0200
 **Source:** <https://forum.jackkruse.com/threads/hi-from-utah.78/post-358>
 
 Thanks!!! Good to be here!
@@ -2542,7 +2542,7 @@ Hi grammasmitty...recognize your name from over at the HCG forum too. Onward tow
 
 Hi. I have been following you on the HCG forum. I think this is going to be quite a learning curve!
 
-### grammasmitty@hotmail.com — 2012-03-16T04:14:56+0200
+### [email redacted] — 2012-03-16T04:14:56+0200
 **Source:** <https://forum.jackkruse.com/threads/hi-from-utah.78/post-1259>
 
 My brain is already fried, yet FREEZING!! LOL! Still trying to pack in as much new info as I can, though!
@@ -2565,7 +2565,7 @@ I am great at falling off the wagon
 
 would like to lose about 80#, be fit, and have some energy
 
-### jeepifer@gmail.com — 2012-03-15T02:50:51+0200
+### [email redacted] — 2012-03-15T02:50:51+0200
 **Source:** <https://forum.jackkruse.com/threads/hi-im-sandy-from-wisconsin.81/post-317>
 
 Hey neighbor, MN here!
@@ -2668,7 +2668,7 @@ To many local Chinese farmers, especially older ones, this comes naturally - the
 
 My name is Trisha and I am an unabashed carnivore! While never really having been skinny (except for in the 80s when I tried the Diamond's fruit diet, never again!) I gained a ton of weight, almost all of it emotional, after becoming disappointed in my marriage in the early 2000s. Finally unable to face another day fat (5'1", almost 190#) I dropped 60 pounds in 2007 and have never looked back! (Yes, I've kept it off.) While on that path I studied everything I could regarding how to keep my new-found health and body. Through my research I came upon what is for me the optimal WOE. I am blood type O+, which are the original carnivores, and that is the basis of my whole WOE. I rarely eat anything processed and usually eat extremely rare beef drenched in coconut oil at almost every meal. I am very boring but that is fine with me. I do other types of proteins of course for variety but nothing makes me happier than a pound of beef! I drink at least half a gallon of decaf green tea every day. I rarely eat out because I do not trust restaurant food (MSG/HFCS is in EVERYTHING!) and do so rarely enough that it does not harm me. Of course getting rid of my cheating, junk food junkie husband helped my health immensely as well.  I also take lots of supplements and am a huge believer in fish oil and aloe. I am mom to four Chinese Crested dogs and they are my loves. I hope to meet Dr. Kruse someday considering he practices right down the street from where I live. How can I make an appointment? ;-p Take care and blessings!
 
-### rbu5@sssnet.com — 2012-03-15T04:06:27+0200
+### [email redacted] — 2012-03-15T04:06:27+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-hermitage-tn-yes-dr-kruses-hometown.89/post-427>
 
 Hi and welcome TrishaMaria! We need a section for dog lovers. I have three, 2 yorkies and a pom. Glad to have you here! And when you actually meet Doc K in person, you have to tell us all about it!
@@ -2709,7 +2709,7 @@ Hi Shijin13,
 
 Yep, recognize the name!
 
-### rbu5@sssnet.com — 2012-03-15T04:03:52+0200
+### [email redacted] — 2012-03-15T04:03:52+0200
 **Source:** <https://forum.jackkruse.com/threads/nova-checking-in.90/post-424>
 
 Hey Shijin, glad you made the leap over. We need you here too.
@@ -2762,7 +2762,7 @@ I started taking cold showers a couple of weeks ago and can now tolerate 55 degr
 
 I'm excited to be here and to learn more and more and more and more.........
 
-### jeepifer@gmail.com — 2012-03-15T03:46:51+0200
+### [email redacted] — 2012-03-15T03:46:51+0200
 **Source:** <https://forum.jackkruse.com/threads/minnesota-cold-cold-cold.91/post-401>
 
 Not so cold here lately, what's up with the super-warm temps this winter? Hi, neighbor!
@@ -2772,7 +2772,7 @@ Not so cold here lately, what's up with the super-warm temps this winter? Hi, ne
 
 Hi there!!!!!!!!!!!!!!!
 
-### iliarski@yahoo.com — 2012-03-15T04:48:44+0200
+### [email redacted] — 2012-03-15T04:48:44+0200
 **Source:** <https://forum.jackkruse.com/threads/minnesota-cold-cold-cold.91/post-477>
 
 Hi, I'm from Minneapolis area too. Cannot complaint about being cold here this winter - I've been here for 15 years, and this was the first winter like this. I wouldn't mind if it was like this every year...
@@ -2782,7 +2782,7 @@ Hi, I'm from Minneapolis area too. Cannot complaint about being cold here this w
 
 Hey from South Dakota! I lost 33 lbs. through two rounds of hcg. I've been following the leptin reset (keto-paleo style) since September and added in CT in February. I'm hoping it jumpstarts my adrenals and thyroid again. Just wanted to say hi to my neighbors!
 
-### Szara.loring@gmail.com — 2012-03-17T16:56:37+0200
+### [email redacted] — 2012-03-17T16:56:37+0200
 **Source:** <https://forum.jackkruse.com/threads/minnesota-cold-cold-cold.91/post-1996>
 
 Hi neighbors. I'm in St. Paul, MN. I can't believe that I am now thinking it is a shame that MN has had such a mild winter.
@@ -2796,7 +2796,7 @@ Personally I'm hoping that CT works for my issues with joint inflammation. Been 
 **Subforum:** Meet and Greet
 **Posts:** 6
 ══════════════════════════════════════════════════════════════════════
-### txritchies@att.net — 2012-03-15T03:57:14+0200
+### [email redacted] — 2012-03-15T03:57:14+0200
 **Source:** <https://forum.jackkruse.com/threads/another-north-tx-checking-in.92/post-414>
 
 What an awesome day this has been!!! Hoping to learn so much more on this journey to Optimal!
@@ -2818,7 +2818,7 @@ Hi, Lacy,
 
 Glad to see another North Texan...I am also in the DFW area, northwest of Fort Worth. See you around!
 
-### taryn.ourso@gmail.com — 2012-03-17T03:09:07+0200
+### [email redacted] — 2012-03-17T03:09:07+0200
 **Source:** <https://forum.jackkruse.com/threads/another-north-tx-checking-in.92/post-1817>
 
 +1 from Dallas ,TX (Rowlett)
@@ -2883,7 +2883,7 @@ You know, plus it is late for us optimal people  I just have a midterm tomorrow 
 
 Hi everyone! I have been following Dr.K's blogs and MDA and the HCG forums etc. for monthsl. It is all so exciting and time consuming to keep up. I did Hcg with great success - but - like many others - struggled to keep the weight off until I found Dr. Kruse and the leptin RX. Heartfelt thanks to Dr. Kruse for all he is doing and to everyone who shares all their thoughts and ideas.
 
-### krispryo@gmail.com — 2012-04-11T12:56:46+0300
+### [email redacted] — 2012-04-11T12:56:46+0300
 **Source:** <https://forum.jackkruse.com/threads/cheers-from-austtalia.96/post-13678>
 
 From Toowoomba, QLD (Australia). I'm also very appreciative for the information shared by Jack Kruse. This is VERY exciting stuff! Thank you Dr. Kruse.
@@ -2964,7 +2964,7 @@ I'm so glad Dr.K did this! I get tired of trying to weed through the forums on p
 **Subforum:** Meet and Greet
 **Posts:** 1
 ══════════════════════════════════════════════════════════════════════
-### smithangels@comcast.net — 2012-03-15T04:51:32+0200
+### [email redacted] — 2012-03-15T04:51:32+0200
 **Source:** <https://forum.jackkruse.com/threads/york-pa-area-i-am-barbie.100/post-486>
 
 ... very excited for this forum! I have a hubby and 2 little girls. We are just beginning this journey to health in earnest and I look forward to learning much!
@@ -3197,17 +3197,17 @@ I LOVE beef. It's my life. Seriously. If you ever have questions about it, or if
 
 Grok on and stay cool, new friends! I'm so happy to be here!
 
-### txritchies@att.net — 2012-03-15T16:03:18+0200
+### [email redacted] — 2012-03-15T16:03:18+0200
 **Source:** <https://forum.jackkruse.com/threads/howdy-from-south-dakota.126/post-746>
 
 Good morning and safe travels!!
 
-### jeepifer@gmail.com — 2012-03-15T17:38:45+0200
+### [email redacted] — 2012-03-15T17:38:45+0200
 **Source:** <https://forum.jackkruse.com/threads/howdy-from-south-dakota.126/post-827>
 
 Hey, neighbor! I love beef too, dontcha know!
 
-### kc_boxerman@yahoo.com — 2012-03-15T21:37:51+0200
+### [email redacted] — 2012-03-15T21:37:51+0200
 **Source:** <https://forum.jackkruse.com/threads/howdy-from-south-dakota.126/post-1014>
 
 Hey Paleocowgirl, thanks for dropping me a note - I'm your neighbor in Nebraska. I've just put a deposit on a side of (grassfinished) beef I expect to take delivery of this summer. I'm wondering if you have any recommendations for processing instructions - like a sample or something. This is my first time doing this - I know I want the goodies so I can render tallow, make bone broth, eat the heart (maybe make jerky of it?), but I'm not real experienced preparing any of this stuff. I know it will be dry aged and I'm going to request the better vacuum sealing...
@@ -3282,7 +3282,7 @@ mery
 **Subforum:** Meet and Greet
 **Posts:** 1
 ══════════════════════════════════════════════════════════════════════
-### phillipsgeorge@hotmail.com — 2012-03-15T12:55:17+0200
+### [email redacted] — 2012-03-15T12:55:17+0200
 **Source:** <https://forum.jackkruse.com/threads/l-o-l-from-leicester-uk.130/post-650>
 
 Hi all, I've been trying to optimise for a few years now! I love finding those switches, like 'easter eggs' in games software!
@@ -3359,7 +3359,7 @@ Martin
 
 [](http://http://www.jackkruse.com/forum/convert_files/attachments/669=4-IMG_4626.jpg)
 
-### lynn@ellijay.com — 2012-03-19T21:28:04+0200
+### [email redacted] — 2012-03-19T21:28:04+0200
 **Source:** <https://forum.jackkruse.com/threads/hi-yall-martin-from-north-georgia-usa.134/post-2905>
 
 > **Martin;669 wrote:** So good to see that so many people from all over are gathering for what I think is a MAJOR turning point in our lives. I finally see a path out of my imbalances and have already seen and felt a change for the better.
@@ -3408,7 +3408,7 @@ I wish she was hardcore Kruse/Paleo!
 
 Martin
 
-### lynn@ellijay.com — 2012-03-20T02:19:13+0200
+### [email redacted] — 2012-03-20T02:19:13+0200
 **Source:** <https://forum.jackkruse.com/threads/hi-yall-martin-from-north-georgia-usa.134/post-3025>
 
 > **Martin;3024 wrote:** I'm right outside of Blue Ridge - we're close to being neighbors!
@@ -3444,7 +3444,7 @@ Martin
 
 I'm in GA, too. I live in Forsyth County. I've been primal for about 2 years. I've been stalking Dr. K's blog, but haven't taken the first step to doing the LR.
 
-### lynn@ellijay.com — 2012-03-24T23:31:08+0200
+### [email redacted] — 2012-03-24T23:31:08+0200
 **Source:** <https://forum.jackkruse.com/threads/hi-yall-martin-from-north-georgia-usa.134/post-5563>
 
 > **Honey Crisp;4920 wrote:** I'm in GA, too. I live in Forsyth County. I've been primal for about 2 years. I've been stalking Dr. K's blog, but haven't taken the first step to doing the LR.
@@ -3664,7 +3664,7 @@ I finally pinned my husband down and made him listen to Dr. K's interview on Und
 
 I want to thank all of you regulars over on the MDA thread. It has been through reading all of your questions and answers that I have learned how to fine-tune things, and you have all inspired me daily. (And I am sure you all know how I feel about Dr. K because you all feel the same...thank you Dr. K for changing my life!)
 
-### txritchies@att.net — 2012-03-15T22:30:24+0200
+### [email redacted] — 2012-03-15T22:30:24+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-north-texas.166/post-1050>
 
 There are quite a few here from N. Texas...good to have you here!!!
@@ -3750,7 +3750,7 @@ Hi David. I just joined today. I'm also in St Louis
 **Subforum:** Meet and Greet
 **Posts:** 5
 ══════════════════════════════════════════════════════════════════════
-### stephenbrrtt@gmail.com — 2012-03-16T02:26:31+0200
+### [email redacted] — 2012-03-16T02:26:31+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-dublin-ireland.188/post-1182>
 
 I've been reading Dr. Kruses stuff for the last few weeks now and Im totally all in. I was a former professional cyclists and competed at a couple of world championships, and wish i knew what i know now. i am now an exercise physiologist by trade but have aims to make it back into the elites of endurance sport. I can't wait to learn more from Dr. Kruse and everyone here to live and compete optimally. Its gonna be one heck of a ride!
@@ -3760,7 +3760,7 @@ I've been reading Dr. Kruses stuff for the last few weeks now and Im totally all
 
 Hello, StevieB! I am of Irish decent (like many American), do you speak Gaelic? I have been meaning of late to practice that in addition to the Spanish of my Asturian husband.
 
-### stephenbrrtt@gmail.com — 2012-03-16T13:44:52+0200
+### [email redacted] — 2012-03-16T13:44:52+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-dublin-ireland.188/post-1367>
 
 HeyDianne i do speak some Gaelic or Gaeilge (Irish) as we call it here. As we said to Barack when he came to Ireland 'Cead Mile Failte' which is 100,000 welcomes!
@@ -3821,7 +3821,7 @@ Welcome!!!!!!!!!!!!!!!!
 **Subforum:** Meet and Greet
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### cljcj04@gmail.com — 2012-03-16T07:20:53+0200
+### [email redacted] — 2012-03-16T07:20:53+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-st-louis.194/post-1316>
 
 I am a mother of two teenage boys, have a great husband and work as an RN. I have lost 110 lbs on the HCG diet and don't ever want to do that again!! I stumbled into Dr. Kruse LR and have been reading every night and can't wait to start the reset. Oh yeah, did I mention that I am on my fifth and final round of HCG trying to get to my target weight. I am almost there, but cannot get rid of this flabby tummy!?!? It is great reading all the information and all of your success stories. Looking forward to being fabulously fit at fifty!
@@ -3871,7 +3871,7 @@ Welcome!!!!!!!!!!!!!!!!!!
 **Subforum:** Meet and Greet
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2012-03-16T15:23:03+0200
+### [email redacted] — 2012-03-16T15:23:03+0200
 **Source:** <https://forum.jackkruse.com/threads/calling-all-coloradans-and-anyone-else-near-wyoming-mebby.204/post-1419>
 
 Hi All,
@@ -3920,7 +3920,7 @@ There's a bunch of Coloradans already meeting and greeting in the "Rockies" post
 
 Simon (in Boulder)
 
-### terryfischer39@yahoo.com — 2012-03-19T05:46:33+0200
+### [email redacted] — 2012-03-19T05:46:33+0200
 **Source:** <https://forum.jackkruse.com/threads/calling-all-coloradans-and-anyone-else-near-wyoming-mebby.204/post-2620>
 
 Anyone doing anything with altitude? I believe you all have some tall ones up there. TerryF
@@ -4042,7 +4042,7 @@ I was born in Harrisburg, PA - does that count?
 
 Sure it does! I'm only an hour away from Harrisburg in good old Amish Country, better known as Lancaster County or the home of the most amazing grass-fed meats around!
 
-### nicebeanst@yahoo.com — 2012-03-19T19:08:56+0200
+### [email redacted] — 2012-03-19T19:08:56+0200
 **Source:** <https://forum.jackkruse.com/threads/any-other-pennsylvanians.213/post-2815>
 
 I'm not from PA, but my DH is. We live in NJ, visit his friends in Myerstown every few months (where he used to live) and pick up eggs from the Amish for 1.50/dozen. I love it out there. He grew up in Womelsdorf, kinda near Lancaster.
@@ -4054,7 +4054,7 @@ We spent the last 2 weekends in Langhorne/Morrisville with his cousins. Not as n
 
 Wow! $1.50 a dozen? Were they pastured and organic? I'm paying $4 a dozen!
 
-### nicebeanst@yahoo.com — 2012-03-19T19:20:27+0200
+### [email redacted] — 2012-03-19T19:20:27+0200
 **Source:** <https://forum.jackkruse.com/threads/any-other-pennsylvanians.213/post-2822>
 
 They don't pay for the "organic" name, but they are definitely pastured, they let my DH walk around the farm to see their habitat and feeding of their "happy chickens" as they called them LOL it is a little farm that has a little cash box next to several doz trays of eggs in a lean-to, we bring our own containers, sometimes family members are there, if not, they work on the honor system.
@@ -4218,7 +4218,7 @@ Good Morning all and Happy St. Patty's Day to ya!
 
 I am in central Wyoming. I have been following Dr. Kruse now for over a year and am a regular blog reader. I have slowly changed my diet from a vlc to a paleo and now have my DH onboard too. It is a work in progress and I find I feel better everyday. Excited to participate in this board. Looking forward to browsing the threads and reading and sharing.
 
-### terryfischer39@yahoo.com — 2012-03-19T05:52:30+0200
+### [email redacted] — 2012-03-19T05:52:30+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-wyoming.241/post-2625>
 
 Hi, welcome. do you live near the mountains? Thanks
@@ -4512,7 +4512,7 @@ Phew, glad you are here, I was getting worried! What if I had a burning fermenta
 
 Hi MAMAG! good to see you and gald you made the jump... I'm still over at MDA as well...
 
-### rbu5@sssnet.com — 2012-03-19T17:00:25+0200
+### [email redacted] — 2012-03-19T17:00:25+0200
 **Source:** <https://forum.jackkruse.com/threads/mamagrokkin-on.279/post-2744>
 
 > **MamaGrok;2702 wrote:** LOVED the 3 days away. It was a wonderful 15th anniversary with my love.
@@ -4538,7 +4538,7 @@ The words that come to mind are from Peter, "Leave? Where else would we go? It's
 
 (paraphrased, lol)
 
-### rbu5@sssnet.com — 2012-03-19T18:00:01+0200
+### [email redacted] — 2012-03-19T18:00:01+0200
 **Source:** <https://forum.jackkruse.com/threads/mamagrokkin-on.279/post-2780>
 
 > **MamaGrok;2781 wrote:** The words that come to mind are from Peter, "Leave? Where else would we go? It's not like going back to the same ol' same ol' is an option."
@@ -4712,12 +4712,12 @@ How long have you guys been doing LR?
 
 Hi, I'm in Phoenix. I started the leptin reset in July, and have been eating post reset style for 2 months.
 
-### mycrazycartoons@gmail.com — 2012-03-21T00:51:13+0200
+### [email redacted] — 2012-03-21T00:51:13+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-arizona.299/post-3595>
 
 Hi Owl.. I'm also from the Valley.. welcome
 
-### mycrazycartoons@gmail.com — 2012-03-21T00:58:14+0200
+### [email redacted] — 2012-03-21T00:58:14+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-arizona.299/post-3601>
 
 It's challenging to CT in the desert! Loving the cold the past few days.
@@ -4865,7 +4865,7 @@ Hello My name is Mitch Baird and I am from Thorold Ontario Canada.
 
 the website for my organization is [www.soadi.ca](http://http://www.soadi.ca)
 
-### terryfischer39@yahoo.com — 2012-03-21T00:09:47+0200
+### [email redacted] — 2012-03-21T00:09:47+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-turtle-island.328/post-3567>
 
 Welcome!! hope you enjoy all the info here.
@@ -5035,7 +5035,7 @@ Someone on a thyroid forum posted a link to Dr. K as a resource. I clicked, I re
 
 Maile on the hcg forum told me about him and his work on leptin. That led me to Paleohacks and MDA, and I started the leptin reset last July.
 
-### judithzthompson@hotmail.com — 2012-03-22T23:20:00+0200
+### [email redacted] — 2012-03-22T23:20:00+0200
 **Source:** <https://forum.jackkruse.com/threads/so-how-did-you-hear-about-dr-kruse.352/post-4652>
 
 Some time during 2010 - I was low-carbing (still am), found Jimmy Moore via Atkins, saw Jack post comments on Jimmy's facebook - he took no prisoners, his attitude and honesty impressed the heck out of me. I said then that this guy was about to turn the world on its head. I garner my knowledge in numerous ways - I read his blogs (understanding very little initially as I'm no scientist by a long shot, but I do have common sense), then reading the comments/answers explain alot - I may leave it there even I don't quite get it - the follow up blogs usually pull it all together for me and I get the "ah hah" moment.
@@ -5045,7 +5045,7 @@ Some time during 2010 - I was low-carbing (still am), found Jimmy Moore via Atki
 
 Someone started a thread on LowCarbFriends about Dr Kruse, the Leptin Rx, and the MDA thread. Cravings had killed my weight loss every time I tried for almost 10 years, so I was ready to try just about anything to beat them. For me, my cravings were gone after the 1st BAB.
 
-### interludium.env@gmail.com — 2012-03-23T05:11:10+0200
+### [email redacted] — 2012-03-23T05:11:10+0200
 **Source:** <https://forum.jackkruse.com/threads/so-how-did-you-hear-about-dr-kruse.352/post-4838>
 
 I discovered Jimmy Moore in 2009 and it was after that when I heard Dr Kruse on Jimmys program. I was pretty thrilled when Jimmy asked a question of Dr Jack when he recently appeared on Jimmy's show "Ask the Low Carb Experts".
@@ -5060,7 +5060,7 @@ A friend recommended a site about 'fixing your metabolism.' That woman mentioned
 
 Trawling Jimmy Moore's podcast archive. Kruse rocks!
 
-### dkenward@yahoo.com — 2012-03-23T12:11:02+0200
+### [email redacted] — 2012-03-23T12:11:02+0200
 **Source:** <https://forum.jackkruse.com/threads/so-how-did-you-hear-about-dr-kruse.352/post-4891>
 
 I had become obsessed with the blog Hyperlipid. There they do a lot of debunking the endless stream of studies that seek to validate the Lipid Hypothesis. I had almost zero biology in school because it did not interest me at the time. But I found it fascinating that something so ingrained in our culture as true was by any objective measure as imaginary as Santa Claus!
@@ -5136,7 +5136,7 @@ And I am just so thankful that I found Dr. Kruse last fall, because it would be 
 
 I had already been following Dr. Rosedale, so I perked up when I heard "leptin". In the early days, we had to slog through every post (sometimes 3-4 times), as that was before the summaries. There was already lots of controversy on paleohacks, but eventually things established themselves on MDA. People over at PH didn't believe he was a real doc and made him change his name. For awhile, the whole MDA forum was abuzz with it, but then it settled down to the main monster thread. I was sold after reading the rT3 post, hormones 101 I think. By the time AHS11 came around, there were already tons of people doing the LReset successfully, and he ruffled more than a few feathers there. By then, lots of people were fully engulfed in paleo2.0.
 
-### kevinrutherford@msn.com — 2012-03-24T21:39:03+0200
+### [email redacted] — 2012-03-24T21:39:03+0200
 **Source:** <https://forum.jackkruse.com/threads/so-how-did-you-hear-about-dr-kruse.352/post-5535>
 
 I first stumbled across Dr k on the MDA form I use to post there a lot but stopped visiting regularly I still eat pb but one day I was board and stumbled across the monster thread
@@ -5264,7 +5264,7 @@ I saw Leptin mentioned on a Fibromyalgia forum a while back and a couple of thos
 
 Anyway, googling Leptin Reset in the past couple of weeks brought me here quicksmart and I kinda fell in love with some of Dr Kruses other ideas too. So I signed up and I'm 4 days in to LR with CT just getting onboard.
 
-### skline@peak.org — 2012-04-04T06:59:07+0300
+### [email redacted] — 2012-04-04T06:59:07+0300
 **Source:** <https://forum.jackkruse.com/threads/so-how-did-you-hear-about-dr-kruse.352/post-11163>
 
 Monster thread, like so many others. I resisted opening it for awhile, which just meant that I had a long reading task once I did.
@@ -5388,7 +5388,7 @@ Slone
 **Subforum:** Meet and Greet
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### kevinrutherford@msn.com — 2012-03-24T22:26:36+0200
+### [email redacted] — 2012-03-24T22:26:36+0200
 **Source:** <https://forum.jackkruse.com/threads/ill-go-next.408/post-5552>
 
 Hi all, Kev from MDA. If you want to know more about me you can check out my journal. [http://www.marksdailyapple.com/forum/thread9234.html](http://http://www.marksdailyapple.com/forum/thread9234.html). I had lost a lot of weight on the PB but stalled at 205lbs. I knew enough about leptin to suspect that it was my issue, but nothing I found told me what to do about it. Some said, eat more carbs, others IF, others said relax and don't try and eventually it weightless would start again. I had previously read the warrior diet so I integrated that into the PB. For over a year I ate primal, warrior diet style, and go no where, even put on about 20 lbs. One day I was browsing MDA and stumbled across the monster thread. it didn't take long and I was on the leptin reset. I am still reading through the monster thread, I'm on post 9081 so i have a way to go to finish it.
@@ -5404,7 +5404,7 @@ Hi Kev. What part of Ohio are you from? I am originally from SE MI, very close t
 
 Sounds like things are falling into place for you!
 
-### kevinrutherford@msn.com — 2012-03-26T04:12:20+0300
+### [email redacted] — 2012-03-26T04:12:20+0300
 **Source:** <https://forum.jackkruse.com/threads/ill-go-next.408/post-6189>
 
 I am from the Dayton area, but i make it up north to the Cleveland area pretty often.
@@ -5434,7 +5434,7 @@ Love and light and SHALOM
 
 Myra in Israel
 
-### bugsy1950@gmail.com — 2012-03-25T11:35:57+0300
+### [email redacted] — 2012-03-25T11:35:57+0300
 **Source:** <https://forum.jackkruse.com/threads/hey-from-the-other-side-of-the-world.423/post-5742>
 
 Hi Myra,
@@ -5647,7 +5647,7 @@ I did not find Dr. K's assessment of the amount of time to continue to be on-tar
 
 Thanks so much for the input, everyone! I'm back on track again after a two day binge. Feels good to have my BAB down! Bit worried over a dinner party in a week from now. Doesn't start after 7pm, so one rule broken already then. But we'll see how it works out.....
 
-### kathiebu@hotmail.com — 2012-03-31T16:44:56+0300
+### [email redacted] — 2012-03-31T16:44:56+0300
 **Source:** <https://forum.jackkruse.com/threads/two-weeks-into-leptin-rx-relapsed-huge-binge-discouraged.504/post-9217>
 
 Don't worry about that dinner party Maria Anna. I usually eat before I attempt this kind of event, and once there I have a salad. I think it's better to have veggies after 7:30 than have junk and alchool. It's not that bad to have food late at night if you have no choice, but you have to eat the good stuff. Focuss on the time being and on trying to make everyday a success, one meal at the time, and one night at the time.
@@ -5770,7 +5770,7 @@ Prior to staring CT the previous 3 menstrual cycles I would have a hormonal migr
 
 Now that is a MAJOR Bonus.
 
-### nosnhojjennifer@yahoo.com — 2012-04-13T19:52:31+0300
+### [email redacted] — 2012-04-13T19:52:31+0300
 **Source:** <https://forum.jackkruse.com/threads/leptin-reset-protocol-for-hashimotos-thyroiditis.505/post-14761>
 
 Great to hear the success. I have Hashimotos and have been freezing my butt off! LOL Unfortunately, I have no weight to lose in my butt (it's all in my belly)! I started doing CT and was doing spot CT in the morning and cold baths at night. Then I went on vacation and couldn't do cold tubs. I continued with spot CT and face dunks. But since returning, I've totally regressed. The tubs were so hard and I haven't been in for three days. My figures and toes go white on a regular basis  I've been thinking of trying the Apex Glutathione Recycler and Nitric Balance. Glad to hear those have helped you, Tucker. I want to feel warm! It's hard to convince my brain that getting cold is the way to get warm! LOL But I'm gonna keep trying
@@ -6149,7 +6149,7 @@ I just pm'd you about hitting the beach at Santa Cruz. It's such a fantastic res
 **Subforum:** Meet and Greet
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### vjoywilliams@sbcglobal.net — 2012-04-24T17:41:49+0300
+### [email redacted] — 2012-04-24T17:41:49+0300
 **Source:** <https://forum.jackkruse.com/threads/joys-journey.1100/post-18366>
 
 Thought I would finally take the plunge and introduce myself in the proper place. I have been on the Rx Leptin reset since March 4. That's when I started phase 3 of the hCG protocol. The last three weeks I have added face dunks and (last 9 days) ice packs. I've done a couple of cold baths, but no ice. I live in Arkansas, so I imagine the water was only about 60-65 degrees f.
@@ -6163,7 +6163,7 @@ Joy
 
 welcome - you have come to a great place - there are so many knowledgeable people here who are so willing to help
 
-### vjoywilliams@sbcglobal.net — 2012-04-25T17:49:26+0300
+### [email redacted] — 2012-04-25T17:49:26+0300
 **Source:** <https://forum.jackkruse.com/threads/joys-journey.1100/post-18720>
 
 > **caroline;18658 wrote:** welcome - you have come to a great place - there are so many knowledgeable people here who are so willing to help
@@ -6189,7 +6189,7 @@ My step-sister returned from Paleo-Fx full of stories and enthusiasm about all t
 
 I know I will benefit from reading the experiences of all those who have already forged ahead!
 
-### finnite@dccnet.com — 2012-04-28T07:04:13+0300
+### [email redacted] — 2012-04-28T07:04:13+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-bc-canada.1175/post-19528>
 
 Hi Endless and welcome, surprisingly the CT is not that hard to do and while you are cold for a while you do warm up pretty quickly.
@@ -6260,7 +6260,7 @@ Looking to post and ask questions soon!
 
 Hi OptimalChick! Welcome!!
 
-### kc_boxerman@yahoo.com — 2012-05-09T05:45:54+0300
+### [email redacted] — 2012-05-09T05:45:54+0300
 **Source:** <https://forum.jackkruse.com/threads/hi-from-the-midwest.1346/post-22478>
 
 Welcome from the midwest.
@@ -6528,7 +6528,7 @@ Wow! That would be great!
 **Subforum:** Meet and Greet
 **Posts:** 16
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2012-05-17T01:36:44+0300
+### [email redacted] — 2012-05-17T01:36:44+0300
 **Source:** <https://forum.jackkruse.com/threads/webinarwatchin-colorado-meet-up-this-saturday-cavemams-house.1508/post-24727>
 
 Hello Colorado Folks!!
@@ -6564,7 +6564,7 @@ Do the Denverites and Boulderites want to car pool? Glamazon are you joining us?
 
 so envious of you guys! have fun!
 
-### jeanie@truelongmont.com — 2012-05-17T15:42:02+0300
+### [email redacted] — 2012-05-17T15:42:02+0300
 **Source:** <https://forum.jackkruse.com/threads/webinarwatchin-colorado-meet-up-this-saturday-cavemams-house.1508/post-24866>
 
 I'm totally excited!
@@ -6576,7 +6576,7 @@ If we want to do a CT session after the Webinar, there are a few options. One is
 
 BTW I'm baaaaack. Computer is dead (logic board fried) but I got the disk out and now have my forum password so I am once again among the optimized. Whew! That felt like a long time away.
 
-### jeanie@truelongmont.com — 2012-05-18T19:24:00+0300
+### [email redacted] — 2012-05-18T19:24:00+0300
 **Source:** <https://forum.jackkruse.com/threads/webinarwatchin-colorado-meet-up-this-saturday-cavemams-house.1508/post-25229>
 
 > **Lyndra;25115 wrote:** If we want to do a CT session after the Webinar, there are a few options. One is Union Reservoir, just east of town. Cost to get in is $8/vehicle. Boulder Res is another choice but is more pricey - $6.25/person. We could just go to Coot Lake and casually just wade into the water and hope no one notices .
@@ -6587,7 +6587,7 @@ BTW I'm baaaaack. Computer is dead (logic board fried) but I got the disk out an
 
 Ok, so there is a small Boulder gathering a happening! Glamazon, would love to hear you can make it!!!
 
-### jeanie@truelongmont.com — 2012-05-18T21:09:27+0300
+### [email redacted] — 2012-05-18T21:09:27+0300
 **Source:** <https://forum.jackkruse.com/threads/webinarwatchin-colorado-meet-up-this-saturday-cavemams-house.1508/post-25281>
 
 > **Cavemam;25311 wrote:** Ok, so there is a small Boulder gathering a happening! Glamazon, would love to hear you can make it!!!
@@ -6621,7 +6621,7 @@ I think there were some privacy issues with the pics involved, as well. Not ever
 
 LOL, bummer, wanted to see pics but glad you guys had fun!!
 
-### jeanie@truelongmont.com — 2012-05-21T01:46:52+0300
+### [email redacted] — 2012-05-21T01:46:52+0300
 **Source:** <https://forum.jackkruse.com/threads/webinarwatchin-colorado-meet-up-this-saturday-cavemams-house.1508/post-25850>
 
 > **ColdBren;25893 wrote:** LOL, bummer, wanted to see pics but glad you guys had fun!!
@@ -6651,7 +6651,7 @@ I noticed clams have tons of iron. I get tiny baby clams canned in olive oil at 
 **Subforum:** Meet and Greet
 **Posts:** 10
 ══════════════════════════════════════════════════════════════════════
-### hesse@bresnan.net — 2012-05-21T07:19:55+0300
+### [email redacted] — 2012-05-21T07:19:55+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-montana.1566/post-25903>
 
 Hello from the Northern Rockies! I'm late to the engaging-in-the-forum party but I've been reading and keto eating and pondering and soaking in water that comes out the spigot at 50 degrees.
@@ -6663,7 +6663,7 @@ A thousand thank yous to all who have been sharing!!!
 
 Welcome home fellow CTer!
 
-### hesse@bresnan.net — 2012-05-25T06:57:13+0300
+### [email redacted] — 2012-05-25T06:57:13+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-montana.1566/post-27276>
 
 Thanks, Andres. There is so much to absorb here. Intriguing and thought provoking.
@@ -6673,7 +6673,7 @@ Thanks, Andres. There is so much to absorb here. Intriguing and thought provokin
 
 Welcome Beckita! Glad to have you with us.
 
-### hesse@bresnan.net — 2012-05-27T18:04:54+0300
+### [email redacted] — 2012-05-27T18:04:54+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-montana.1566/post-27853>
 
 Thanks, Nonchalant. I appreciate your posts.
@@ -6842,7 +6842,7 @@ Welcome Back!!! You sound so pumped. Way to start out again for sure.
 
 Greetings from Mid-Michigan.... I am starting my LR this coming Sunday in conjunction of my Phase 3 of my first round of HCG....excited and nervous but ready to go!
 
-### jeanie@truelongmont.com — 2012-07-16T03:34:00+0300
+### [email redacted] — 2012-07-16T03:34:00+0300
 **Source:** <https://forum.jackkruse.com/threads/hi-all.2467/post-38228>
 
 > **ALeigh;38392 wrote:** Greetings from Mid-Michigan.... I am starting my LR this coming Sunday in conjunction of my Phase 3 of my first round of HCG....excited and nervous but ready to go!
@@ -6856,7 +6856,7 @@ Check out the HCG posts. . .Several here are mid P2. Looking forward to hearing 
 
 Welcome. I will also be heading into P/3 leptin reset in 2 weeks.
 
-### terryfischer39@yahoo.com — 2012-08-01T05:07:26+0300
+### [email redacted] — 2012-08-01T05:07:26+0300
 **Source:** <https://forum.jackkruse.com/threads/hi-all.2467/post-42207>
 
 Whew, almost missed this. I was in Michigan a couple of weeks ago visiting relatives and contemplating moving back to the area, mostly around Traverse City. Are you familiar with that area? Thanks.
@@ -6929,7 +6929,7 @@ Welcome from down under!
 **Subforum:** Meet and Greet
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2012-07-23T19:54:08+0300
+### [email redacted] — 2012-07-23T19:54:08+0300
 **Source:** <https://forum.jackkruse.com/threads/mj-your-box-is-full-mj-mj-mj-mj.2629/post-40421>
 
 Clear the inbox missy!
@@ -6982,7 +6982,7 @@ Hello every one this is jimmy from LA and i was reading the articles...
 
 Those were really a tremendous work and i think i must appreciate for creating such a nice platform so that we can comment and share the experiences...
 
-### terryfischer39@yahoo.com — 2012-08-01T04:59:30+0300
+### [email redacted] — 2012-08-01T04:59:30+0300
 **Source:** <https://forum.jackkruse.com/threads/hello.2775/post-42205>
 
 Greetings Jimmy82! have fun catching up with all the articles. I am still not through them all myself.
@@ -7105,7 +7105,7 @@ Hello and welcome from down under!
 **Subforum:** Meet and Greet
 **Posts:** 23
 ══════════════════════════════════════════════════════════════════════
-### amber_tyrrell@hotmail.com — 2012-08-29T10:18:40+0300
+### [email redacted] — 2012-08-29T10:18:40+0300
 **Source:** <https://forum.jackkruse.com/threads/hi-from-south-island-new-zealand.3326/post-48035>
 
 Hello everyone,
@@ -7127,7 +7127,7 @@ I don't have excess weight but I did actually lose a few pounds overall and gain
 
 I look forward to reading about your progress!
 
-### amber_tyrrell@hotmail.com — 2012-08-29T12:47:25+0300
+### [email redacted] — 2012-08-29T12:47:25+0300
 **Source:** <https://forum.jackkruse.com/threads/hi-from-south-island-new-zealand.3326/post-48037>
 
 Hi Freesia - nice to see a fellow kiwi here. I'm slowly navigating my way around the website - i have much to learn!
@@ -7155,17 +7155,17 @@ I know the feeling.  Welcome Amber!
 
 Welcome Amber to this great forum and keep reading, reading, reading and enjoy the brain pain!!
 
-### amber_tyrrell@hotmail.com — 2012-08-30T09:37:36+0300
+### [email redacted] — 2012-08-30T09:37:36+0300
 **Source:** <https://forum.jackkruse.com/threads/hi-from-south-island-new-zealand.3326/post-48316>
 
 Hi TribalSpice - so your on that little island to the west! Can't wait to get my bath - will have to post a pic of it when its set up (if I can work out how to put pics on here!)
 
-### amber_tyrrell@hotmail.com — 2012-08-30T09:40:13+0300
+### [email redacted] — 2012-08-30T09:40:13+0300
 **Source:** <https://forum.jackkruse.com/threads/hi-from-south-island-new-zealand.3326/post-48317>
 
 Thank you Caroline - its one thing I like about this site - you certainly couldn't get bored as there is just SOOOO much information - I'm a little befuddled at the moment, but as the brain fog clears from being on the paleo diet I'm sure I'll be able to work it all out! (I'm near the end of day 4 and today I have such clarity of mind for the first time in ages)
 
-### amber_tyrrell@hotmail.com — 2012-08-30T09:41:21+0300
+### [email redacted] — 2012-08-30T09:41:21+0300
 **Source:** <https://forum.jackkruse.com/threads/hi-from-south-island-new-zealand.3326/post-48318>
 
 Thank you nonchalant!
@@ -7189,7 +7189,7 @@ Thank you nonchalant!
 
 Hurray! Finally another Kiwi! I have been on board with Dr K (epi paleo, CT, circadian cycles, etc etc etc) since the beginning of 2012 and my life has taken fantastic turns as a result. I am in Christchurch. Where on the South Island are you? (It is hard to get the seafood when you're rural?) I am spinning my wheels trying to find local docs who can support me as I get the testing, BHRT, etc that I need... NZ is bliss but it's also in the dark ages when it comes to what the Americans have available in this realm! So glad to have you on board!! Lauren
 
-### amber_tyrrell@hotmail.com — 2012-08-31T00:20:10+0300
+### [email redacted] — 2012-08-31T00:20:10+0300
 **Source:** <https://forum.jackkruse.com/threads/hi-from-south-island-new-zealand.3326/post-48449>
 
 > **KiwiLauren;48917 wrote:** Hurray! Finally another Kiwi! I have been on board with Dr K (epi paleo, CT, circadian cycles, etc etc etc) since the beginning of 2012 and my life has taken fantastic turns as a result. I am in Christchurch. Where on the South Island are you? (It is hard to get the seafood when you're rural?) I am spinning my wheels trying to find local docs who can support me as I get the testing, BHRT, etc that I need... NZ is bliss but it's also in the dark ages when it comes to what the Americans have available in this realm! So glad to have you on board!! Lauren
@@ -7214,7 +7214,7 @@ Lauren
 
 PS I should add that some of us are eating seafood 7-14x week and others are doing much less. The 5 times a week was just a general number, not something Dr K has prescribed.
 
-### amber_tyrrell@hotmail.com — 2012-08-31T23:53:03+0300
+### [email redacted] — 2012-08-31T23:53:03+0300
 **Source:** <https://forum.jackkruse.com/threads/hi-from-south-island-new-zealand.3326/post-48662>
 
 > **KiwiLauren;48981 wrote:** Thanks for the potential heads-up about working with your doc. I may come back to you on that. I need someone to support me with BHRT and this is proving hard to find. Dr K is so good that I currently know more than the doctors I'm talking to!
@@ -7239,7 +7239,7 @@ Hi Lauren,
 
 I have so many questions for you - might be easiest if I call you one night? Would that be ok with you? If so perhaps you could PM me with your phone number?
 
-### amber_tyrrell@hotmail.com — 2012-08-31T23:54:28+0300
+### [email redacted] — 2012-08-31T23:54:28+0300
 **Source:** <https://forum.jackkruse.com/threads/hi-from-south-island-new-zealand.3326/post-48663>
 
 PS I just had raw salmon for breakfast!
@@ -7287,7 +7287,7 @@ Thanks for introducing yourself here....great to know others are discovering how
 >
 > Good to hear there are others... I heard from someone in Queenstown when they commented on Jack's FB page. Sing out if you're a silent observer!
 
-### amber_tyrrell@hotmail.com — 2012-09-01T11:55:41+0300
+### [email redacted] — 2012-09-01T11:55:41+0300
 **Source:** <https://forum.jackkruse.com/threads/hi-from-south-island-new-zealand.3326/post-48696>
 
 > **FreeRangeKiwi;49169 wrote:** Hey guys, thought I'd let you know you're not the only Kiwis! I've been addicted to Jack's blog since June 2011. If you want to join Primal/Paleo Dunedin or the Dunedin Polar Bears Club on fb here are the links [https://www.facebook.com/groups/188990581234244/](http://https://www.facebook.com/groups/188990581234244/) and [https://www.facebook.com/DunedinPolarBears](http://https://www.facebook.com/DunedinPolarBears). The water in Dunedin harbour has been down to 5.2 degrees this year and I'm trying to get down there daily although sometimes I have to resort to the bath at home. I have gone from 124kg to 88kg and am always warm. Last time I was this weight I was 16 and could run 100m in around 15seconds. I swam competitively too. I am now 33, can run 100m in around 12seconds and can swim faster than when I trained and only need to breathe every 14 strokes (once per short-course length). I don't not do any training other than lifting weights once or twice a week or whenever I can be bothered.
@@ -7302,7 +7302,7 @@ Thanks for introducing yourself here....great to know others are discovering how
 
 Hi FreeRangeKiwi, wow so good to know there is someone close to us here. You have done so well to lose 40kgs! How long did that take you? I'm very excited about this whole paleo/ct regime - its so different and yet makes so much sense. I got an old cast iron bath today and have put it by our water tank, will be cleaning it out tomorrow and giving it a try. I am only 6 days into my face dunking, but I can't wait. I've lost 3 kilos in 5 days, so feeling good about that. Just hope I can keep it up. Do you follow the circadian rythyms like KiwiLauren does? I'm interested to learn more about it.
 
-### amber_tyrrell@hotmail.com — 2012-09-01T12:28:20+0300
+### [email redacted] — 2012-09-01T12:28:20+0300
 **Source:** <https://forum.jackkruse.com/threads/hi-from-south-island-new-zealand.3326/post-48697>
 
 If you want to join Primal/Paleo Dunedin or the Dunedin Polar Bears Club on fb here are the links [https://www.facebook.com/groups/188990581234244/](http://https://www.facebook.com/groups/188990581234244/) and [https://www.facebook.com/DunedinPolarBears](http://https://www.facebook.com/DunedinPolarBears).
@@ -7324,7 +7324,7 @@ Have just joined/liked you on facebook - I'm Barnhouse Pantry
 
 Great to know you're out there! Funny that we all seem to be situated on the south island. I did some ocean CT over winter... i wish I had a club (you should have seen the looks of those walking along the beach all rugged up and me in the water all by myself in my togs (with my hat on of course). I'm guessing you get those looks regularly. I no longer complain about the typical Kiwi uninsulated house in winter. It's built in daily CT for me. Like Amber, I'd be keen to know if you're following circadian cycles and epi-paleo diet, too. If your peers think you're weird swimming in the ocean, just wait til you have to stay home past 5pm with the lights off! How many do you have in your Polar Bear club?? (Btw, I tried to reply yes to your friend request on this forum but am not sure I did it correctly).
 
-### amber_tyrrell@hotmail.com — 2012-09-03T13:47:37+0300
+### [email redacted] — 2012-09-03T13:47:37+0300
 **Source:** <https://forum.jackkruse.com/threads/hi-from-south-island-new-zealand.3326/post-49161>
 
 I spoke to KiwiLauren on the phone last night - thank you for answering so many questions for me Lauren... I had lots and still have many more. I have been doing the paleo diet for one week today, plus face dunking and I have lost 3.8 kg! (8.3 pounds) I'm stoked about that!
@@ -7546,7 +7546,7 @@ My biggest concern is my daughter and how to get a 19 year old(college freshman 
 
 Welcome REN2BRAINS. Keep reading and absorbing and ask questions. You have a lot on your plate and it is so important to help your daughter as fast as possible. Have you looked at the easy start guide? The first thing to do is to start the Leptin RX and then go from there. If you have labs - post them and someone will hack them for you and suggest what else you might need. Dr. Kruse will tell you that you need to fix yourself first and then you can help others - lead by example. Read the journals so you can see how others are working at fixing themselves and maybe start a journal yourself. We are all a work in progress and it is hard work but you will get there.
 
-### samerry50@gmail.com — 2012-09-26T01:22:36+0300
+### [email redacted] — 2012-09-26T01:22:36+0300
 **Source:** <https://forum.jackkruse.com/threads/new-to-the-group.3715/post-54288>
 
 I'm from Tennessee and Dr. Kruse just recently fixed a ruptured disc in my back. i'm new to all of this and just embarking on this journey. Have lots to read and learn. Have started on the Paleo diet as I can figure it out so far from the Paleo Answer he asked me to read and the Paleo Diet book. I have a lot of weight to lose but I not only want to lose weight but to improve the muscles in my back so I don't rupture more discs. Also to improve my overall health. I see there is tons of imformation on this site and I'm just beginning to read so I better get started.
@@ -7648,7 +7648,7 @@ TRIG - 104 (
 
 While it was very easy to convert to better choices, I just wish my patients would consider how important it is... I shake my head in disbelief sometimes at the dictation that comes through that I have to review for coding... its really sad.
 
-### chrystin.comeau@live.com — 2012-09-25T16:45:12+0300
+### [email redacted] — 2012-09-25T16:45:12+0300
 **Source:** <https://forum.jackkruse.com/threads/greetings-from-new-hampshire-doing-research-on-leptin-for-my-situation.3817/post-54112>
 
 > **bigknitwit;54048 wrote:** Welcome  I'm in Southern NH.
@@ -7662,7 +7662,7 @@ Me too!!! Rochester..where are you all?
 
 Manchester
 
-### chrystin.comeau@live.com — 2012-09-25T16:51:16+0300
+### [email redacted] — 2012-09-25T16:51:16+0300
 **Source:** <https://forum.jackkruse.com/threads/greetings-from-new-hampshire-doing-research-on-leptin-for-my-situation.3817/post-54114>
 
 > **cramernh;54817 wrote:** Manchester
@@ -7674,7 +7674,7 @@ Just around the block LOL!
 
 I havent been to Rochester in ages... UGH! Still cant seem to get the hell out of Manchester for the past 25 years! LOL!
 
-### chrystin.comeau@live.com — 2012-09-25T17:04:33+0300
+### [email redacted] — 2012-09-25T17:04:33+0300
 **Source:** <https://forum.jackkruse.com/threads/greetings-from-new-hampshire-doing-research-on-leptin-for-my-situation.3817/post-54120>
 
 Well, you're not exactly missing much by avoiding Rochester. I'm just excited to see some folks up in this neck of the woods. We can commiserate and compare resources!
@@ -7918,12 +7918,12 @@ I ate a biologilly (sp) zero carb. Eggs have carbs. Meat has carbs if you eat en
 
 I must find spellcheck, please help
 
-### jeanie@truelongmont.com — 2012-09-26T05:39:06+0300
+### [email redacted] — 2012-09-26T05:39:06+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-everyone.3916/post-54347>
 
 Sorry Mary, no spell check here. BUT, don't worry - Jack has trained us all to let go of our spelling nazi judgement. It's a spell as you like zone. We won't care!
 
-### jeanie@truelongmont.com — 2012-09-26T05:41:31+0300
+### [email redacted] — 2012-09-26T05:41:31+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-everyone.3916/post-54348>
 
 > **marylouise;55070 wrote:** I do not know all of the rules on this forum. Is it okay to talk about different woe's.......??
@@ -8135,7 +8135,7 @@ Welcome! I know it does take time to go through the blogs, but when you go back 
 **Subforum:** Meet and Greet
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### cgv24@hotmail.com — 2013-01-17T18:11:09+0200
+### [email redacted] — 2013-01-17T18:11:09+0200
 **Source:** <https://forum.jackkruse.com/threads/hi-from-virginia.5516/post-71282>
 
 THIS IS IT! For a week now, I've enjoyed immersing myself in the most comprehensive material regarding my whole health condition. In recent months, I addressed epigentics using homeopathics and light for methylation issues. But this site covers all the additional problems:lyme, leaky gut, adrenal fatigue, etc. I'm really grateful to hop aboard and tweak my protocol for a more complete recovery!
@@ -8177,7 +8177,7 @@ I am also new to this forum. I like forum discussion very much. There are many i
 
 Hi everyone! Welcome!
 
-### pkall1@comcast.net — 2013-05-21T00:44:13+0300
+### [email redacted] — 2013-05-21T00:44:13+0300
 **Source:** <https://forum.jackkruse.com/threads/introduction.5663/post-86563>
 
 This is my first post. I'm getting my questions ready and I have lab results for me and husband. Eager to learn! Kathy
@@ -8496,7 +8496,7 @@ I'm certain that I'm leptin resistant, and am sure that my hormones are out of w
 Any recommendations? Does Jack even work with people directly? I just can't get through everything on his blog. it's too much for me and i have too much other stuff going on. Thanks so much.
 
 Shauna
-[sandandsea4g@gmail.com](mailto:sandandsea4g@gmail.com) or [shaunareisewitz@yahoo.com](mailto:shaunareisewitz@yahoo.com)
+[[email redacted]](mailto:[email redacted]) or [[email redacted]](mailto:[email redacted])
 
 ### caroline — 2013-03-18T22:55:14+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-looking-for-a-coach.6390/post-81019>
@@ -8514,7 +8514,7 @@ Welcome Shauna and good luck!
 **Subforum:** Meet and Greet
 **Posts:** 6
 ══════════════════════════════════════════════════════════════════════
-### memullen1@yahoo.com — 2013-03-20T12:20:44+0200
+### [email redacted] — 2013-03-20T12:20:44+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-oregon.6408/post-81165>
 
 I'm a 48 yo female with Lyme disease and Fibromyalgia (with PTSD). I started a dairy free paleo diet again, am taking Mag Malate, Mag Threonate, high dose fish oil (1325 mg tid), Armour Thyroid 60mg, Kelp. I haven't started CT yet. Which protocol should I start first? Is there a way to combine them?
@@ -8540,7 +8540,7 @@ Fitness@home gave some great advice. Fixing your circadian rhythm will allow you
 
 One other small thing to add at the beginning, along with seafood and good water, is sunlight and walking barefoot. So you can work on the Leptin reset protocol, but add those other factors, so that you get a head start on the other protocols.
 
-### memullen1@yahoo.com — 2013-03-20T19:34:36+0200
+### [email redacted] — 2013-03-20T19:34:36+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-oregon.6408/post-81201>
 
 Thanks you two! I forgot to add that I'm 5'6 1/2" and 255 lbs. 15 of which I gained on my overnight job as a gluten free chef this past year. Also, about 9 months ago I had a total hysterectomy and am without a gallbladder. It gets worse! 2 or 3 days back into Paleo I got my first "smart" phone. After feeling remarkably better on the diet I suddenly felt awful again! Problem is, that's how I read Jack's info. So now I've been voraciously reading up on the articles in the middle of the night again, but this time it's closer to my head. I was supposed to be on day by now, but it looks like it's going to another month.
@@ -9338,7 +9338,7 @@ And C/T or CT means cold thermogenesis, = cold baths in the ocean / river / bath
 **Subforum:** Meet and Greet
 **Posts:** 8
 ══════════════════════════════════════════════════════════════════════
-### bugsy1950@gmail.com — 2013-05-05T17:13:37+0300
+### [email redacted] — 2013-05-05T17:13:37+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-south-africa.6978/post-85477>
 
 I have visited this site many times in the last year, and realise that I have done things backwards - posted a few questions but never introduced myself.
@@ -9372,7 +9372,7 @@ Have a really great day - get out and enjoy the sun and sky and nature and see t
 
 Welcome!  I sometimes think free range meats are way better than organic, you might get game too? Like antelopes etc? I always choose wild instead of organic.. organic here at least means heavily grain fed..
 
-### bugsy1950@gmail.com — 2013-05-06T12:38:52+0300
+### [email redacted] — 2013-05-06T12:38:52+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-south-africa.6978/post-85507>
 
 > [caroline said:](/goto/post?id=85486)
@@ -9385,7 +9385,7 @@ Yes I have read both, I have read a lot.
 One thing though, I find myself all over the place, I don't quite know how to navigate the site, I start with one blog which is eg no3 and somehow land up on something completely different, in other words I never get the whole picture as I find myself jumping from blog to blog, maybe someone can give me an idea as to where and how to start.
 I have probably read 70% of the material, as to understanding it..well....60% of it LOL ! I do struggle so with the acronyms....
 
-### bugsy1950@gmail.com — 2013-05-06T12:43:11+0300
+### [email redacted] — 2013-05-06T12:43:11+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-south-africa.6978/post-85508>
 
 > [Inger said:](/goto/post?id=85503)
@@ -9561,7 +9561,7 @@ John
 
 John
 
-I'm not sure why your posts are continuing to be moderated. send a msg to [support@jackkruse.com](mailto:support@jackkruse.com) to see they can figure it out....
+I'm not sure why your posts are continuing to be moderated. send a msg to [[email redacted]](mailto:[email redacted]) to see they can figure it out....
 
 ### fireforlunch — 2013-05-31T18:14:07+0300
 **Source:** <https://forum.jackkruse.com/threads/replies-not-getting-posted.7215/post-87196>
@@ -9572,7 +9572,7 @@ Thanks, I'll give that a shot
 >
 > John
 >
-> I'm not sure why your posts are continuing to be moderated. send a msg to [support@jackkruse.com](mailto:support@jackkruse.com) to see they can figure it out....
+> I'm not sure why your posts are continuing to be moderated. send a msg to [[email redacted]](mailto:[email redacted]) to see they can figure it out....
 
 ### caroline — 2013-06-01T07:26:20+0300
 **Source:** <https://forum.jackkruse.com/threads/replies-not-getting-posted.7215/post-87238>
@@ -9588,7 +9588,7 @@ Thanks so much, all fixed now
 >
 > John
 >
-> I'm not sure why your posts are continuing to be moderated. send a msg to [support@jackkruse.com](mailto:support@jackkruse.com) to see they can figure it out....
+> I'm not sure why your posts are continuing to be moderated. send a msg to [[email redacted]](mailto:[email redacted]) to see they can figure it out....
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -27742,7 +27742,7 @@ I have been reading your blogs since 2012 and i want to say you have done a fant
 ### JanSz — 2017-09-09T23:43:03+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-florida.20121/post-223260>
 
-> [smwilson180@gmail.com said:](/goto/post?id=223259)
+> [[email redacted] said:](/goto/post?id=223259)
 >
 > Hi Dr. Kruse,
 >
@@ -27794,7 +27794,7 @@ I wish I knew that - mine is there too. did you ask Mission Control?
 ### Bigknife7 — 2017-10-01T19:40:50+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-florida.20121/post-224618>
 
-> [smwilson180@gmail.com said:](/goto/post?id=223259)
+> [[email redacted] said:](/goto/post?id=223259)
 >
 > Hi Dr. Kruse,
 >
@@ -32673,7 +32673,7 @@ well done ..  .. you could also do a balaclava in Winter haha
 > Welcome to this forum!
 > Emma.
 
-Hi there .. thanks so much for all of that .. I've made a note of everything you've said .. I'm in Pennant Hills (about 3/4 hr from Palm Beach) and intend to get to the beach more this summer .. I felt I knew quite a bit until I discovered Dr Kruse's work, and now so much to catch up with, and stuck in front of this screen to do most of it. I have day blockers for artificial light, but am waiting to find the best source for a night pair for total blue blocking .. with my prescription .. maybe RA Optics when they are ready, or Specsavers if I can get them to do it the way I instruct them to (they are telling me blue light toxicity is pseudo at the moment, so maybe I'll give them a miss) .. Never concern yourself with what others are thinking/saying .. keep it up with those sunrises, sunsets and as much as you can in between .. as Byron Katie says .. "what other people think of you is none of your business .. "  .. so don't give it headspace. I don't know if I'd go nude .. but I've looked at the Kiniki bikinis .. very tiny, and you can sun right through them (a Kruse recommendation). I would love to meet you one day, so hold that thought .. maybe for when summer hits, and in the meantime, please do let me know of any more products etc you discover, and I can do the same .. feel free to email me too as an alternative [cat0412@bigpond.com](mailto:cat0412@bigpond.com). I don't know anything about Icelandic water .. at the moment I'm restructuring distilled (I have a distiller) .. and I've posted everything I do.
+Hi there .. thanks so much for all of that .. I've made a note of everything you've said .. I'm in Pennant Hills (about 3/4 hr from Palm Beach) and intend to get to the beach more this summer .. I felt I knew quite a bit until I discovered Dr Kruse's work, and now so much to catch up with, and stuck in front of this screen to do most of it. I have day blockers for artificial light, but am waiting to find the best source for a night pair for total blue blocking .. with my prescription .. maybe RA Optics when they are ready, or Specsavers if I can get them to do it the way I instruct them to (they are telling me blue light toxicity is pseudo at the moment, so maybe I'll give them a miss) .. Never concern yourself with what others are thinking/saying .. keep it up with those sunrises, sunsets and as much as you can in between .. as Byron Katie says .. "what other people think of you is none of your business .. "  .. so don't give it headspace. I don't know if I'd go nude .. but I've looked at the Kiniki bikinis .. very tiny, and you can sun right through them (a Kruse recommendation). I would love to meet you one day, so hold that thought .. maybe for when summer hits, and in the meantime, please do let me know of any more products etc you discover, and I can do the same .. feel free to email me too as an alternative [[email redacted]](mailto:[email redacted]). I don't know anything about Icelandic water .. at the moment I'm restructuring distilled (I have a distiller) .. and I've posted everything I do.
 Thanks again, and yes, you are so lucky to be near the beach .. chilly now though  .. I used to live right on Curl Curl .. and that was truly icelandic in winters.
 take care
 C
@@ -33398,14 +33398,14 @@ Happy to "meet" you Rebecca ( : In which part of the country/world do you reside
 >
 > If I may... how does one go about requesting a consult?
 
-You will want to email [support@jackkruse.com](mailto:support@jackkruse.com) to find out scheduling details.
+You will want to email [[email redacted]](mailto:[email redacted]) to find out scheduling details.
 
 ### Annie Dru — 2018-09-26T21:20:18+0300
 **Source:** <https://forum.jackkruse.com/threads/hi.22145/post-251755>
 
 > [drezy said:](/goto/post?id=251753)
 >
-> You will want to email [support@jackkruse.com](mailto:support@jackkruse.com) to find out scheduling details.
+> You will want to email [[email redacted]](mailto:[email redacted]) to find out scheduling details.
 
 Thank you.
 
@@ -40902,7 +40902,7 @@ yes, i mean my credit card used to pay for the upgrade.
 
 I had reached out to "Contact Us" at the bottom of the forum screen two weeks ago.
 
-I also sent an email two weeks ago to the "[info@jackkruse.com](mailto:info@jackkruse.com)" in the "contact us" section on jackkruse.com
+I also sent an email two weeks ago to the "[[email redacted]](mailto:[email redacted])" in the "contact us" section on jackkruse.com
 
 I will try again.
 
@@ -44986,7 +44986,7 @@ Hi everyone! New member from Iowa, I'm a veterinarian turned primal health coach
 >
 > Hi everyone! New member from Iowa, I'm a veterinarian turned primal health coach. I signed up for a gold membership but even after emailing the team, I haven't been invited to the private Facebook group. Anyone know who else I can try to contact?
 
-Hello - we have resent the invite for the Gold Klub Facebook group. Please check your Facebook notifications for this invite. If you still do not receive it, please contact [support@jackkruse.com](mailto:support@jackkruse.com) for further assistance.
+Hello - we have resent the invite for the Gold Klub Facebook group. Please check your Facebook notifications for this invite. If you still do not receive it, please contact [[email redacted]](mailto:[email redacted]) for further assistance.
 
 Thank you,
 Team Kruse
@@ -45885,7 +45885,7 @@ Hey Rich, I am also a U.K member, nice to meet you! I bought one of these toothb
 > Hey Rich, I am also a U.K member, nice to meet you! I bought one of these toothbrushes but after 3 weeks the charger stopped working and I tried to contact the company and nobody got back to me. I really want to keep using it as I'm sure it was helping. Any ideas of any other direct contact I can email? Many thanks Annelie
 
 Hi Annelie
-Sorry to hear that. Please contact [james@bristlscience.com](mailto:james@bristlscience.com) and copy in [flynn@bristl.co.uk](mailto:flynn@bristl.co.uk) hopefully they can sort it for you. It sometimes is worth trying charging from a different source - like wall plug rather than computer USB.
+Sorry to hear that. Please contact [[email redacted]](mailto:[email redacted]) and copy in [[email redacted]](mailto:[email redacted]) hopefully they can sort it for you. It sometimes is worth trying charging from a different source - like wall plug rather than computer USB.
 Best
 Richard
 
@@ -46407,7 +46407,7 @@ Mike
 **Subforum:** Meet and Greet
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### ghopper@srbp.com — 2023-06-09T20:41:37+0300
+### [email redacted] — 2023-06-09T20:41:37+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-tampa-fl.27795/post-322249>
 
 My name is Gary Hopper. I have followed Dr. Jack from a distance for many years (since about 2012) but didn't decide to take the red pill until recently. I signed up for a Gold membership last month and have been listening to the Q & A's, and my mind is blown! I have been missing out all these years and didn't know it. I started my health journey in 2011. I was 41 yrs old, 5'11", weighed 255 lbs, and had so much brain fog I could barely think straight most of the time. Dave Asprey and Mark Sisson initially guided me, and then I found Jack through Asprey when he started talking about CT. I liked Jack, but my brain wasn't ready for that level yet, and I stuck with Asprey and the food gurus for years. Then my wife's fatigue worsened, and food wasn't fixing it, and I couldn't understand why. Food generally worked well for me because I didn't have a condition like hers. So I've been trying to help my wife with her condition for the past four years. This caused me to dig deeper, and I ended up back with Jack and boy, am I glad I did! Since following Jack and adding some of his protocols to my daily life in the past year, my health has improved dramatically, and my wife is on the mend slowly but surely.
@@ -46419,7 +46419,7 @@ Gary
 
 Hi Gary ....and welcome
 
-### ghopper@srbp.com — 2023-06-09T23:47:55+0300
+### [email redacted] — 2023-06-09T23:47:55+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-tampa-fl.27795/post-322258>
 
 > [caroline said:](/goto/post?id=322257)
@@ -48174,14 +48174,14 @@ Hi Gavin, my son is a PM&R doc currently doing his fellowship at Barrow Brain an
 ### dr.g — 2023-08-29T16:53:28+0300
 **Source:** <https://forum.jackkruse.com/threads/newly-graduated-interventional-spine-and-rehabilitation-physician-seeking-decentralized-training-and-network-opportunities.28109/post-325702>
 
-Would love to get in touch. Email is [Dr.g@drgavinnixon.com](mailto:Dr.g@drgavinnixon.com)
+Would love to get in touch. Email is [[email redacted]](mailto:[email redacted])
 
 ### Kathirf — 2023-09-22T17:55:35+0300
 **Source:** <https://forum.jackkruse.com/threads/newly-graduated-interventional-spine-and-rehabilitation-physician-seeking-decentralized-training-and-network-opportunities.28109/post-326687>
 
 > [dr.g said:](/goto/post?id=325702)
 >
-> Would love to get in touch. Email is [Dr.g@drgavinnixon.com](mailto:Dr.g@drgavinnixon.com)
+> Would love to get in touch. Email is [[email redacted]](mailto:[email redacted])
 
 Hi Gavin. This is great. My son is interested in connecting. I am going to email you with info. He is actively planning to open his own business in 2024.
 
@@ -48193,7 +48193,7 @@ What’s your “specialty” or field of interest, or alternative approach, how
 ### JeffRouseMD — 2023-10-16T16:05:23+0300
 **Source:** <https://forum.jackkruse.com/threads/newly-graduated-interventional-spine-and-rehabilitation-physician-seeking-decentralized-training-and-network-opportunities.28109/post-327314>
 
-Gavin- I'm a brand new mitochondriac, but long-time biohacker, cold plunger, etc. Devouring Dr. Kruse's info, with a specific eye towards the brain. I am BC in psychiatry, forensic psychiatry, and brain injury medicine. Implementing Leptin Rx, CT, light optimization personally and it's shifting me already, no doubt. Feel free to hit me up with curbsides or anything else. Cell is 504.236.4533 email is [jeffrouse@gmail.com](mailto:jeffrouse@gmail.com).
+Gavin- I'm a brand new mitochondriac, but long-time biohacker, cold plunger, etc. Devouring Dr. Kruse's info, with a specific eye towards the brain. I am BC in psychiatry, forensic psychiatry, and brain injury medicine. Implementing Leptin Rx, CT, light optimization personally and it's shifting me already, no doubt. Feel free to hit me up with curbsides or anything else. Cell is 504.236.4533 email is [[email redacted]](mailto:[email redacted]).
 
 ### indy — 2023-10-20T04:35:34+0300
 **Source:** <https://forum.jackkruse.com/threads/newly-graduated-interventional-spine-and-rehabilitation-physician-seeking-decentralized-training-and-network-opportunities.28109/post-327444>
@@ -48203,14 +48203,14 @@ I'm an OB/GYN LSU-New Orleans MD who graduated in 2004 and moved to/practicing i
 ### Anthony Smith — 2023-10-20T08:05:15+0300
 **Source:** <https://forum.jackkruse.com/threads/newly-graduated-interventional-spine-and-rehabilitation-physician-seeking-decentralized-training-and-network-opportunities.28109/post-327445>
 
-If you medical guys would be interested in how removing/reducing in home originating nnEMF plays into the health/healing equation check out [www.LiveEMFSafe.com/rx](http://www.LiveEMFSafe.com/rx) and then feel free to contact me, [anthony@EMFSafeInc.com](mailto:anthony@EMFSafeInc.com) 972-849-9500
+If you medical guys would be interested in how removing/reducing in home originating nnEMF plays into the health/healing equation check out [www.LiveEMFSafe.com/rx](http://www.LiveEMFSafe.com/rx) and then feel free to contact me, [[email redacted]](mailto:[email redacted]) 972-849-9500
 
 ### JeffRouseMD — 2023-10-20T15:47:23+0300
 **Source:** <https://forum.jackkruse.com/threads/newly-graduated-interventional-spine-and-rehabilitation-physician-seeking-decentralized-training-and-network-opportunities.28109/post-327446>
 
 > [Anthony Smith said:](/goto/post?id=327445)
 >
-> If you medical guys would be interested in how removing/reducing in home originating nnEMF plays into the health/healing equation check out [www.LiveEMFSafe.com/rx](http://www.LiveEMFSafe.com/rx) and then feel free to contact me, [anthony@EMFSafeInc.com](mailto:anthony@EMFSafeInc.com) 972-849-9500
+> If you medical guys would be interested in how removing/reducing in home originating nnEMF plays into the health/healing equation check out [www.LiveEMFSafe.com/rx](http://www.LiveEMFSafe.com/rx) and then feel free to contact me, [[email redacted]](mailto:[email redacted]) 972-849-9500
 
 Hi Anthony, thanks for the reach out! Any EMF consultants for an in-home inspection in New Orleans?
 
@@ -48246,7 +48246,7 @@ I've owned Anthony's remote kill switch for years and consider it essential.
 
 Retired ex psychiatrist here with lumbar disc disease. Got ideas.
 
-Get in touch ( [rohens@gmail.com](mailto:rohens@gmail.com))
+Get in touch ( [[email redacted]](mailto:[email redacted]))
 
 Full title Dr Rohen Kapur graduated 1994 from Dundee University
 
@@ -48255,7 +48255,7 @@ Full title Dr Rohen Kapur graduated 1994 from Dundee University
 
 > [Anthony Smith said:](/goto/post?id=327445)
 >
-> If you medical guys would be interested in how removing/reducing in home originating nnEMF plays into the health/healing equation check out [www.LiveEMFSafe.com/rx](http://www.LiveEMFSafe.com/rx) and then feel free to contact me, [anthony@EMFSafeInc.com](mailto:anthony@EMFSafeInc.com) 972-849-9500
+> If you medical guys would be interested in how removing/reducing in home originating nnEMF plays into the health/healing equation check out [www.LiveEMFSafe.com/rx](http://www.LiveEMFSafe.com/rx) and then feel free to contact me, [[email redacted]](mailto:[email redacted]) 972-849-9500
 
 Anthony has anything happened in Atlanta recently? One of my friends is just in a bad place and I can't understand what the hell has happened. It has to be something electromagnetic spectrum related
 
@@ -48287,7 +48287,7 @@ I was working also with another DO.
 >
 > Retired ex psychiatrist here with lumbar disc disease. Got ideas.
 >
-> Get in touch ( [rohens@gmail.com](mailto:rohens@gmail.com))
+> Get in touch ( [[email redacted]](mailto:[email redacted]))
 >
 > Full title Dr Rohen Kapur graduated 1994 from Dundee University
 
@@ -48342,7 +48342,7 @@ The Building Biologists I have asked have not noticed an increase in RF levels. 
 >
 > Retired ex psychiatrist here with lumbar disc disease. Got ideas.
 >
-> Get in touch ( [rohens@gmail.com](mailto:rohens@gmail.com))
+> Get in touch ( [[email redacted]](mailto:[email redacted]))
 >
 > Full title Dr Rohen Kapur graduated 1994 from Dundee University
 
@@ -48488,7 +48488,7 @@ Association of American Physicians and Surgeons has a lot of resources for decen
 
 > [JeffRouseMD said:](/goto/post?id=327314)
 >
-> Gavin- I'm a brand new mitochondriac, but long-time biohacker, cold plunger, etc. Devouring Dr. Kruse's info, with a specific eye towards the brain. I am BC in psychiatry, forensic psychiatry, and brain injury medicine. Implementing Leptin Rx, CT, light optimization personally and it's shifting me already, no doubt. Feel free to hit me up with curbsides or anything else. Cell is 504.236.4533 email is [jeffrouse@gmail.com](mailto:jeffrouse@gmail.com).
+> Gavin- I'm a brand new mitochondriac, but long-time biohacker, cold plunger, etc. Devouring Dr. Kruse's info, with a specific eye towards the brain. I am BC in psychiatry, forensic psychiatry, and brain injury medicine. Implementing Leptin Rx, CT, light optimization personally and it's shifting me already, no doubt. Feel free to hit me up with curbsides or anything else. Cell is 504.236.4533 email is [[email redacted]](mailto:[email redacted]).
 
 Jeff great to connect. I did a lot of brain injury rehab in my residency mostly on the acute side. So much work to be done in brain injury. I don't see those patient's anymore. Not sure if you have heard of Sarah Turners work, but I stumbled across a device she is developing photobiomodulation for brain gut axis. see ([https://www.cerathrive.com/](https://www.cerathrive.com/)). They also do whole sale for different IR devices. But if you are still in the brain injury world may be helpful to develop concussion protocols, post concussion symptoms protocols, etc. I don't see these patient's anymore but I spent a lot of time studying brain injury and still keep up academically. same offer to you. 907-232-4553
 
@@ -48557,7 +48557,7 @@ For that probable answers are likely long and highly as a guesswork.
 >
 > Retired ex psychiatrist here with lumbar disc disease. Got ideas.
 >
-> Get in touch ( [rohens@gmail.com](mailto:rohens@gmail.com))
+> Get in touch ( [[email redacted]](mailto:[email redacted]))
 >
 > Full title Dr Rohen Kapur graduated 1994 from Dundee University
 

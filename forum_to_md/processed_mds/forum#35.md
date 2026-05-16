@@ -3212,7 +3212,7 @@ Margao, Goa India 403601
 
 Phone: +91-832-3235662
 Fax: +91-832-2732958
-Email: [info@rafaelmedicare.com](mailto:info@rafaelmedicare.com)
+Email: [[email redacted]](mailto:[email redacted])
 Website: [www.rafaelmedicare.com](http://www.rafaelmedicare.com/)
 
 ### Jack Kruse — 2014-10-02T21:43:38+0300
@@ -15122,7 +15122,7 @@ hugs back!
 ### Rain — 2014-10-19T22:46:31+0300
 **Source:** <https://forum.jackkruse.com/threads/jack-for-calcium-help-its-elaine.11935/post-144316>
 
-> [cnymicaa@gmail.com said:](/goto/post?id=144269)
+> [[email redacted] said:](/goto/post?id=144269)
 >
 > I am planning on following Elaine's progress. I see people like her in the ER often, and I know there is no help for them there. It will be interesting to see how her health returns, and as a nurse, sometimes when people are discharged in tears of frustration, I try to "unofficially" point them to a book that I think may help them get to the root of the problem. I am busy on the job and cannot take the time to really explain much, but I know that my reading one book 7 years ago had me eating differently, feeling better, and searching for why that was, and ultimately to more and more understanding as I kept following those rabbit holes. This is amazing how Jack reached out to Elaine and offered some simple solutions to get started right now.
 > For instance I pointed a woman to a book 2 weeks ago, and she contacted me yesterday and told me her diabetic sugars were better and she lost 7+ lbs already. When she is ready I will point out another book. I did tell her I eat fish once a day and how important that was.
@@ -22444,7 +22444,7 @@ I spoke about light in electromagnetic coupling in the blog long ago. I even men
 
 **"Veljkovic and Cosic proposed that molecular interactions are electrical in nature, and they take place over distances that are large compared with the size of molecules. Cosic later introduced the idea of dynamic electromagnetic field interactions, that molecules recognize their particular targets and vice versa by electromagnetic resonance. In other words, the molecules send out specific frequencies of electromagnetic waves which not only enable them to 'see' and 'hear' each other, as both photon and phonon modes exist for electromagnetic waves, but also to influence each other at a distance and become ineluctably drawn to each other if vibrating out of phase (in a complementary way)."** -- The Real Bioinformatics Revolution: Proteins and Nucleic Acids Singing to One Another?
 
-Paper available at [report@i-sis.org.uk](mailto:report@i-sis.org.uk)
+Paper available at [[email redacted]](mailto:[email redacted])
 
 ### BTA — 2014-10-26T04:54:57+0200
 **Source:** <https://forum.jackkruse.com/threads/pushing-the-envelope-quantum-astro-philosophy.11985/post-145189>
@@ -25522,7 +25522,7 @@ Ken
 ### Jack Kruse — 2014-10-28T19:18:36+0200
 **Source:** <https://forum.jackkruse.com/threads/october-28th-webinar.12016/post-145436>
 
-There will be a Live Q & A. Diane should send you a number to access the call. you can email [skruse613@gmail.com](mailto:skruse613@gmail.com) to make sure you get hooked up. Make sure you listen to October webinar before the Q & A so you can ask anything about this webinar. You also can ask any other questions at all too. There is no limit to the topics.
+There will be a Live Q & A. Diane should send you a number to access the call. you can email [[email redacted]](mailto:[email redacted]) to make sure you get hooked up. Make sure you listen to October webinar before the Q & A so you can ask anything about this webinar. You also can ask any other questions at all too. There is no limit to the topics.
 
 ### rlee314 — 2014-10-28T20:53:10+0200
 **Source:** <https://forum.jackkruse.com/threads/october-28th-webinar.12016/post-145447>
@@ -30036,7 +30036,7 @@ Pollack's book helped me a lot to understand this!
 
 Yeah, and now it is translated into german. I will order it
 
-### patgrif@hotmail.com — 2014-11-17T20:36:21+0200
+### [email redacted] — 2014-11-17T20:36:21+0200
 **Source:** <https://forum.jackkruse.com/threads/explanation-of-the-photoelectric-effect-in-humans.12042/post-147646>
 
 [http://www.counterpunch.org/2014/11/17/an-electronic-silent-spring/](http://www.counterpunch.org/2014/11/17/an-electronic-silent-spring/)
@@ -38730,7 +38730,7 @@ I still have to listen - cant wait!
 
 Game is going to be upgraded soon........just wait.
 
-### patgrif@hotmail.com — 2014-11-19T03:17:36+0200
+### [email redacted] — 2014-11-19T03:17:36+0200
 **Source:** <https://forum.jackkruse.com/threads/how-about-that-call-yesterday.12181/post-147773>
 
 I found the hints about physics very intriguing. I have long been 'frustrated' with modern physics and I find the whole kind of Stephen Hawking worship unconvincing. Not to mention parallel universes black holes, wormholes etc etc. I am really looking forward to more on this kind of stuff. In an earlier Q&A Dr Kruse mentioned his notion that Dark Matter was a kind of construct made up to account for some limitations in the theory. Instinctively I find/feel that to be on the right path and personally can't wait for more on gravity etc etc. His notions initially sound a bit outlandish but I have learned not to dismiss, there is almost certainly big nuggets in there.
@@ -39941,7 +39941,7 @@ Just wondering how much of this knee pain is new and how much is just a change i
 > [Jamner LD](http://www.ncbi.nlm.nih.gov/pubmed/?term=Jamner%20LD%5BAuthor%5D&cauthor=true&cauthor_uid=9526150)1, [Girdler SS](http://www.ncbi.nlm.nih.gov/pubmed/?term=Girdler%20SS%5BAuthor%5D&cauthor=true&cauthor_uid=9526150), [Shapiro D](http://www.ncbi.nlm.nih.gov/pubmed/?term=Shapiro%20D%5BAuthor%5D&cauthor=true&cauthor_uid=9526150), [Jarvik ME](http://www.ncbi.nlm.nih.gov/pubmed/?term=Jarvik%20ME%5BAuthor%5D&cauthor=true&cauthor_uid=9526150).
 > **[Author information](http://www.ncbi.nlm.nih.gov/pubmed/9526150#)**
 >
-> -   1Department of Psychology and Social Behavior, School of Social Ecology, University of California 92697-7085, USA. [ljamner@uci.edu](mailto:ljamner@uci.edu)
+> -   1Department of Psychology and Social Behavior, School of Social Ecology, University of California 92697-7085, USA. [[email redacted]](mailto:[email redacted])
 >
 > **Abstract**
 > The ability of nicotine to decrease sensitivity to pain in humans has been a subject of dispute. Decreased sensitivity has been demonstrated in studies involving men, whereas the effect has been less obvious or absent in studies involving predominantly, or entirely, women. To determine whether there are gender differences in nicotine's hypoalgesic actions, ratings of electrocutaneous stimulation were obtained from 30 male and 44 female smokers and nonsmokers under placebo and nicotine conditions. Nicotine increased the pain threshold and tolerance ratings of men but had no effect on the pain ratings of women. Among men, there was no effect of smoking history, suggesting that the changes in pain perception reflect a direct pain-inhibitory effect of nicotine rather than a relief from acute nicotine withdrawal. Nicotine had no effect on mood or task ratings, indicating that the antinociceptive effects observed were not due to nicotine's putative mood effects.
@@ -40580,7 +40580,7 @@ I've got a bit of a mental tick..not sure what you would call it...a pet peeve a
 
 Anyway thanks for all the links and things hope no one is too bothered by my correction...don't know how to do it without feeling like I'm being mean or possibly making people think I'm more bothered than I am...its hard to describe what I mean..
 
-### patgrif@hotmail.com — 2014-11-19T22:11:04+0200
+### [email redacted] — 2014-11-19T22:11:04+0200
 **Source:** <https://forum.jackkruse.com/threads/cold-thermogenesis-temps-how-long.12190/post-147850>
 
 Jonathan. First off I find you very honest and very un-pretentious. It takes real courage to lay out your problems as you do. About the whole subject of "Cold" and let me be very clear here I am speaking ONLY for myself but I can relate to what you are saying very much. Personally I CANNOT do it unless in the presence of 'warmth'!!! What I mean is I do it at the beach here in LA only after a good dose of sunshine and I go in but only as long as it does not begin to feel 'masochistic'. Now this can vary also according to circumstance like I have notices if I am with someone talking etc in the water I can and tend to say MUCH LONGER than I do by myself. By myself it can easily start to feel 'masochistic' and not actually good for me.

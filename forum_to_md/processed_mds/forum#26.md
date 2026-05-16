@@ -1451,7 +1451,7 @@ Anything else I should be doing, or not doing?
 **Subforum:** The Epi-Paleo Diet
 **Posts:** 9
 ══════════════════════════════════════════════════════════════════════
-### kjgraffin@yahoo.com — 2013-10-30T03:01:29+0200
+### [email redacted] — 2013-10-30T03:01:29+0200
 **Source:** <https://forum.jackkruse.com/threads/oyster-mushrooms.8607/post-99394>
 
 I saw in a post that Jack highly recommended that Martin start eating oyster mushrooms this winter but I never did see why. Does anyone know why these would be important? I know that he is dealing with a biotoxin issue, so are these type of mushrooms helpful?
@@ -1499,7 +1499,7 @@ I made shrimp curry instead. It was delish! Thanks for the idea. Bone broth, coc
 
 I got some stuff to make that this weekend too, yum yum yum
 
-### kjgraffin@yahoo.com — 2013-11-01T01:52:24+0200
+### [email redacted] — 2013-11-01T01:52:24+0200
 **Source:** <https://forum.jackkruse.com/threads/oyster-mushrooms.8607/post-99583>
 
 Great article! Thanks for posting that. Maybe one of these days I will be able to tolerate coconut milk and can try that soup. It sounds delicious.
@@ -5503,7 +5503,7 @@ Would someone mind telling me how to add a picture to my profile?
 
 Bonniebelle,
 
-I emailed a jpg to [support@jackkruse.com](mailto:support@jackkruse.com) and requested that they attach it to my profile.
+I emailed a jpg to [[email redacted]](mailto:[email redacted]) and requested that they attach it to my profile.
 
 In a past version of this forum we were able to upload the photo ourselves. After one of the migrations to a new forum we lost that ability.
 
@@ -8437,7 +8437,7 @@ Barrie and Freeman showed how the act of smelling molecules made a long range al
 
 From here:Chaotic oscillations and the genesis of meaning in cerebral cortex
 Walter J. Freeman and John M. Barrie (1994)
-Department of Molecular & Cell Biology, LSA 129 University of California, Berkeley CA 94720 USA TEL 1 (510) 642-4220; FAX (510) 643-6791 e-mail: [wfreeman@garnet.berkeley.edu](mailto:wfreeman@garnet.berkeley.edu)
+Department of Molecular & Cell Biology, LSA 129 University of California, Berkeley CA 94720 USA TEL 1 (510) 642-4220; FAX (510) 643-6791 e-mail: [[email redacted]](mailto:[email redacted])
 
 Insulin secretion is lost in diabetes because of a lack of this coherence all tied to a lack of entrainment of circadian cycles.
 
@@ -10494,7 +10494,7 @@ Im not sure why the recording is not up either........
 **Subforum:** The EMF Rx
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### redneckrobot@gmail.com — 2013-11-08T22:59:58+0200
+### [email redacted] — 2013-11-08T22:59:58+0200
 **Source:** <https://forum.jackkruse.com/threads/somapulse-and-dr-bill-pawluk.8702/post-100203>
 
 There's a new podcast about electromagnetism at Bulletproof Exec with Dr. Bill Pawluk that is interesting.
@@ -17459,7 +17459,7 @@ Alex, do not fall prey to believe food is not important! It absolutely is in our
 
 ....... I have lots of knowledge on eating cheap and well, some ideas for you
 
-Write this very friendly women at max metzgers; [angela.galbierz@max-metzger.de](mailto:angela.galbierz@max-metzger.de) Ask for grassfed beef and fat and hearts, you might get liver too. Very cheap! You can buy the cheapest cuts, just ask her she will know. I have ordered form her for many years, they even send me stuff to Finland! Das Paket wird bei dir in ein paar Tage sein und die Versandkosten sind echt guenstig auch wen du viel bestellst
+Write this very friendly women at max metzgers; [[email redacted]](mailto:[email redacted]) Ask for grassfed beef and fat and hearts, you might get liver too. Very cheap! You can buy the cheapest cuts, just ask her she will know. I have ordered form her for many years, they even send me stuff to Finland! Das Paket wird bei dir in ein paar Tage sein und die Versandkosten sind echt guenstig auch wen du viel bestellst
 
 Then... eat lots of Pollock, look that it is caught in North Atlantic, not Pacific if possible. Prefrozen Pollock is very cheap and tastes just nice! I eat it raw, but for sure you can cook it gently too if you like (I eat all my fish raw always, no compromises there, because I do not want breast cancer... there is something in raw fish that protects against it ;-) )
 
@@ -21000,7 +21000,7 @@ Maybe you already help your friends... just by being you...... I think we have m
 
 Nice. I have now no brain freeze anymore, when I drink much ice cold water fast.
 
-### patgrif@hotmail.com — 2016-06-12T05:01:11+0300
+### [email redacted] — 2016-06-12T05:01:11+0300
 **Source:** <https://forum.jackkruse.com/threads/butters-journal.8818/post-196397>
 
 > [Butters said:](/goto/post?id=192001)
@@ -26680,7 +26680,7 @@ Since our skin has a photoelectric effect, is it possible that our hair can coll
 After all, our brains are energy hogs.
 ( Maybe Samson really DID lose all his power when his hair was cut (lol!))
 
-### patgrif@hotmail.com — 2015-02-28T21:36:49+0200
+### [email redacted] — 2015-02-28T21:36:49+0200
 **Source:** <https://forum.jackkruse.com/threads/responses-to-ray-peats-conclusions.8834/post-156908>
 
 Mike, I think Dr K's idea is we lost our hair to GAIN photo-electric effect. I believe he is saying it was one of the major gains in power that we needed for our brains. That makes a lot of sense to me. Maybe hair can somehow transmit 'power' but I imagine it was more to keep animals warm losing hair would on the face of it have many dis-advantages but the increase in power would have been a greater advantage for a creature with a big brain (us)
@@ -26879,7 +26879,7 @@ Osho
 
 Via Josh Ferber........very appropriate for this thread. There is a deep lesson here. I'm not interested in being liked........just correct. And my curiosity always is my best critic.
 
-### patgrif@hotmail.com — 2015-03-02T20:48:40+0200
+### [email redacted] — 2015-03-02T20:48:40+0200
 **Source:** <https://forum.jackkruse.com/threads/responses-to-ray-peats-conclusions.8834/post-157190>
 
 > [NeilBB said:](/goto/post?id=156983)
@@ -31107,7 +31107,7 @@ Healthman
 **Subforum:** The Epi-Paleo Diet
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### redneckrobot@gmail.com — 2013-11-26T21:44:08+0200
+### [email redacted] — 2013-11-26T21:44:08+0200
 **Source:** <https://forum.jackkruse.com/threads/eating-habits-of-mid-victorians.8893/post-101683>
 
 Interesting research paper on how the mid-Victorians in U.K. worked, ate, lived and died:
@@ -31160,7 +31160,7 @@ Grandma always had a jar of pickled herring in the fridge. She liked to have it 
 **Subforum:** Optimal Labs
 **Posts:** 5
 ══════════════════════════════════════════════════════════════════════
-### kjgraffin@yahoo.com — 2013-11-26T23:44:58+0200
+### [email redacted] — 2013-11-26T23:44:58+0200
 **Source:** <https://forum.jackkruse.com/threads/advanced-oxidant-stress-profile.8894/post-101692>
 
 My doctor ordered an oxidative stress test to see what my glutathione levels look like. We are working on so many things (Lyme, leaky gut, hypothyroidism), she thought it would be helpful. I'm wondering if anyone on here is familiar with it and what you might think. She seemed to think things looked great. What I would really like to know, is why this is good information to have and what exactly is it telling me (if anything).
@@ -31180,7 +31180,7 @@ Glutathione Peroxidase 25.6 (18.1-191.2)
 SOD I 26.9 (4.9-23.0)
 SOD II 25.7 (9.4-47.0)
 
-### kjgraffin@yahoo.com — 2013-12-04T19:03:49+0200
+### [email redacted] — 2013-12-04T19:03:49+0200
 **Source:** <https://forum.jackkruse.com/threads/advanced-oxidant-stress-profile.8894/post-102295>
 
 So no one has any thoughts? With the importance of glutathione, I would just like to know if mine looks good and that it looks like I am able to use it.
@@ -37552,7 +37552,7 @@ Heck yeah!  Sounds like a blast!
 ### Sarah Turner — 2014-11-06T20:51:11+0200
 **Source:** <https://forum.jackkruse.com/threads/i-finally-feel-like-a-success-story.8975/post-146370>
 
-Hey -this is a lovely story - thank-you for sharing. I'm currently involved a film project that will cover some of the science behind this new way of looking at biology an health - perhaps Dr Kruse has told you about it? Could mail me at [sarah.turner@neshealth.com](mailto:sarah.turner@neshealth.com) - it would be great to chat to you about your experiences?
+Hey -this is a lovely story - thank-you for sharing. I'm currently involved a film project that will cover some of the science behind this new way of looking at biology an health - perhaps Dr Kruse has told you about it? Could mail me at [[email redacted]](mailto:[email redacted]) - it would be great to chat to you about your experiences?
 Thanks, Sarah Turner.
 
 ### nonchalant — 2014-11-06T23:22:22+0200
@@ -39029,7 +39029,7 @@ Understood, will do..
 **Subforum:** Optimal Labs
 **Posts:** 11
 ══════════════════════════════════════════════════════════════════════
-### thomasdoud@gmail.com — 2013-12-06T16:34:15+0200
+### [email redacted] — 2013-12-06T16:34:15+0200
 **Source:** <https://forum.jackkruse.com/threads/bun-creatinine-ratio-and-what-labs-show-it-is-ok-to-exercise.8982/post-102575>
 
 I just listened to the Dec 2012 webinar on weight loss in women and was wondering if someone can help. My wife exercises a lot and eats normal or less than normal but struggles. Jack mentioned you need a certain level of mitochondrial function before you should even do any exercise but it wasn't clear to me exactly how he determines when it is ok. Seems to me leptin reset covers that and broadly you want to be leptin sensitive. My wife has a BUN/Creatinine level of 20 which was discussed briefly. Is this certain evidence that she is LR? Does it means she should avoid all exercise? If not what labs determine if someone is ok to exercise. This would be a hard sell but if needed I need some clinical data to convince her to stop for a while.
@@ -39045,7 +39045,7 @@ The individuals who've had the best results - like Mr. Pinkies have followed the
 
 labs that tell you its ok to exercise: Lipid panel, Thyroid panel, All hormones, ASI w/Salivary Melatonin. these should show you're not in a stressed state caused by Pregnenenolone steal. Though it should be noted - Misty had perfect labs - but was still having pregnenolone steal that wasn't dx until she did the Genova Dx Compete Hormone Panel.
 
-### thomasdoud@gmail.com — 2013-12-06T18:17:58+0200
+### [email redacted] — 2013-12-06T18:17:58+0200
 **Source:** <https://forum.jackkruse.com/threads/bun-creatinine-ratio-and-what-labs-show-it-is-ok-to-exercise.8982/post-102598>
 
 Thanks that is very helpful. I know she needs to just follow protocols but I need to convert her first. Many labs are still pending. I will look into Genova test as I think she is doing their complete GI test but had other hormone panels not Genova.
@@ -39065,12 +39065,12 @@ Soon I will have a monster 14K blog on the redox potential and how it all works.
 
 It seems like C-reactive protein as a marker for inflammation and the ASI would be relevant to know
 
-### thomasdoud@gmail.com — 2013-12-07T01:51:03+0200
+### [email redacted] — 2013-12-07T01:51:03+0200
 **Source:** <https://forum.jackkruse.com/threads/bun-creatinine-ratio-and-what-labs-show-it-is-ok-to-exercise.8982/post-102649>
 
 Would an hs-CRP of 2.53 be indicative of some inflammation? I know its in the "normal" range but have heard it should be as low as possible.
 
-### thomasdoud@gmail.com — 2013-12-07T02:06:20+0200
+### [email redacted] — 2013-12-07T02:06:20+0200
 **Source:** <https://forum.jackkruse.com/threads/bun-creatinine-ratio-and-what-labs-show-it-is-ok-to-exercise.8982/post-102651>
 
 Some other questions if you don't mind. Jack mentioned three types of Magnsesium but did not list them. Any links for that?
@@ -39079,7 +39079,7 @@ Also, pointed out need to follow four protocols LR, CT, Epi-Paleo diet and Mitoc
 ### ATL_Paleo — 2013-12-07T02:25:20+0200
 **Source:** <https://forum.jackkruse.com/threads/bun-creatinine-ratio-and-what-labs-show-it-is-ok-to-exercise.8982/post-102656>
 
-> [thomasdoud@gmail.com said:](/goto/post?id=102649)
+> [[email redacted] said:](/goto/post?id=102649)
 >
 > Would an hs-CRP of 2.53 be indicative of some inflammation? I know its in the "normal" range but have heard it should be as low as possible.
 
@@ -39090,14 +39090,14 @@ Dr. Kruse likes the HS-CRP below 0.5. .... You are correct; the lower the better
 ### SeaHorse — 2013-12-07T14:58:56+0200
 **Source:** <https://forum.jackkruse.com/threads/bun-creatinine-ratio-and-what-labs-show-it-is-ok-to-exercise.8982/post-102715>
 
-> [thomasdoud@gmail.com said:](/goto/post?id=102651)
+> [[email redacted] said:](/goto/post?id=102651)
 >
 > Some other questions if you don't mind. Jack mentioned three types of Magnsesium but did not list them. Any links for that?
 > Also, pointed out need to follow four protocols LR, CT, Epi-Paleo diet and Mitochondrial Rx. I am familiar w first three but don't see a blog on MRx, is that a webinar or what resources should be reviewed to better understand?
 
 Type in Magnesium l-threonate, Magnessium malate and Magnesium orotate...Threonate in the am, orotate in afternoon and malate in the pm is the best way to take them. I think the mitochondria Rx was a webinar, but there was also a bunch of threads on the subject that will be helpful to read...good luck
 
-### thomasdoud@gmail.com — 2013-12-07T21:34:04+0200
+### [email redacted] — 2013-12-07T21:34:04+0200
 **Source:** <https://forum.jackkruse.com/threads/bun-creatinine-ratio-and-what-labs-show-it-is-ok-to-exercise.8982/post-102745>
 
 Thanks for the mag info. Jack just posted a great resource blog on facebook that outlined the Mito webinar and other resources.

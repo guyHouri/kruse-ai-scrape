@@ -1139,7 +1139,7 @@ Mailing Address:-
 phone 212 246 4237
 
 overseas phone 001 212 246 4237
-email to: [Gil.Lederman@RSNY.org](mailto:Gil.Lederman@RSNY.org)
+email to: [[email redacted]](mailto:[email redacted])
 
 [http://www.rsny.org/brochure\_request.html](http://www.rsny.org/brochure_request.html)
 
@@ -1246,7 +1246,7 @@ All indications are that it is slow growing and I have put off the biopsy for mo
 > phone 212 246 4237
 >
 > overseas phone 001 212 246 4237
-> email to: [Gil.Lederman@RSNY.org](mailto:Gil.Lederman@RSNY.org)
+> email to: [[email redacted]](mailto:[email redacted])
 >
 >
 > [http://www.rsny.org/brochure\_request.html](http://www.rsny.org/brochure_request.html)
@@ -4679,7 +4679,7 @@ I will submit your information to Dr.Kenson.
 His contact information is Office number:
 +8631189261575 Mobile
 (Whatsapp/Viber): +8613582363683
-Email: [sjz-kidneyhope@sjzkidneyhospital.com](mailto:sjz-kidneyhope@sjzkidneyhospital.com)
+Email: [[email redacted]](mailto:[email redacted])
 Skype ID: wang.kenson
 Facebook: [https://www.facebook.com/kenson.wang.12](https://www.facebook.com/kenson.wang.12)
 
@@ -13342,7 +13342,7 @@ Thanks so much Jansz,
 
 Thank you so much for all the testing info and supplement suggestions. Very helpful! I will ask for the lyme test when I go back to my gp. I will also look further into my tests and as soon as my gluten challenge is done I will start epi paleo. I do already have a great chiropractor so that's a start. Have a great day!
 
-### gsteppe14@gmail.com — 2013-08-21T07:41:14+0300
+### [email redacted] — 2013-08-21T07:41:14+0300
 **Source:** <https://forum.jackkruse.com/threads/beverly-posting-labs.7712/post-93325>
 
 I agree with JanSz. They don't jump out at you but when you look at the pattern, they're all low-normal. Not enough to concern a busy physician but if you're a health gumshoe with time to burn like us ... and we all are in this forum! ... then they're vital clues. I think it may have to do with the positive ANA susceptible for Scleroderma. The other antibody test excluded Sjogren's, Sjogren's-come-lupus, and RA to some degree. Why did your doc test you for these antibodies anyway?
@@ -13357,7 +13357,7 @@ Whys is your creatinine so low? Did you drink too much water before testing? Whe
 >
 > All above is low. There are preliminary suggestions there, but for now you may want to wait with any supplementation until we get test results.
 
-### gsteppe14@gmail.com — 2013-08-21T07:52:59+0300
+### [email redacted] — 2013-08-21T07:52:59+0300
 **Source:** <https://forum.jackkruse.com/threads/beverly-posting-labs.7712/post-93326>
 
 Your cholesterol is a non-issue when you don't know the components. Your very low trigs suggest you're ketogenic. That's all I can say. Your Neuts are also a non-issue since it's based on your low-normal total WBCs. Your lymph % is high so one of your non-lymphs is bound to be low. Your non-lymphs are 4.2-2.2 = 2.0. As you go below 2.0, you become more susceptible to infection. Not too low now but I'd keep an eye on your total WBCs for now.
@@ -13379,7 +13379,7 @@ Your cholesterol is a non-issue when you don't know the components. Your very lo
 
 Thanks for having a look at my labs.
 
-> [gsteppe14@gmail.com said:](/goto/post?id=93325)
+> [[email redacted] said:](/goto/post?id=93325)
 >
 > I agree with JanSz. They don't jump out at you but when you look at the pattern, they're all low-normal. Not enough to concern a busy physician but if you're a health gumshoe with time to burn like us ... and we all are in this forum! ... then they're vital clues. I think it may have to do with the positive ANA susceptible for Scleroderma. The other antibody test excluded Sjogren's, Sjogren's-come-lupus, and RA to some degree. Why did your doc test you for these antibodies anyway?
 >
@@ -13407,7 +13407,7 @@ That's what I thought.
 >
 > Not even close to normal........
 
-### gsteppe14@gmail.com — 2013-08-23T06:04:58+0300
+### [email redacted] — 2013-08-23T06:04:58+0300
 **Source:** <https://forum.jackkruse.com/threads/beverly-posting-labs.7712/post-93469>
 
 You're ANA positive and the ENA test excluded your seropositivity for Sm, SS-A, SS-B, Scl-70, Jo-1 and RNP. That's a select few and those are mostly Sjogren's,Lupus and some other antibodies. But that's not all such antibodies. I keep saying you need the DS DNA and antiphospho because they could be related to pregnancy complications. There are countless antibodies. Just because you're negative doesn't mean you don't have the disease. Especially if you have symptoms, you are probably in the process of becoming seropositive, especially for Sjogren's, whose symptoms you seem to have. Whoever tested you and said you don't have autoimmunity is an idiot. You may not have systemic scleroderma, but you could have Crest. You're seronegative for RA based on CCP, but you could be positive based on RA Factor and symptoms, which also was not tested. Unless you go to a knowledgeable rheumy, you'll be chasing your tail like this. Autoimmune patients with connective tissue issues get tested every 3 months to see what else becomes positive. They piggyback one after another. It's not like you test once and it's all clear. Go see a rheumy. Tell her your symptoms. Tell her you need the remaining antibody tests to rule out SLE, RA and other issues. Funny you mention C6/C7. You need C3/C4. See how low they are. I bet they're below or at the low end of the reference range. Also need to test TPO/TG/TSI, as they overlap frequently with ANA. At this point, I think you need a rheumy more than a neuro. What you need are more antibody tests, not MRI.
@@ -13432,7 +13432,7 @@ my next few blogs will answer this directly..........make sure you dissect what 
 
 DDD in the neck is tied to disc dehydration..........what else is it tied to if you been following my blog or the recent podcast? EMF exposure.............listen to the podcast I just did with Beverly Myers.
 
-### gsteppe14@gmail.com — 2013-08-24T01:34:29+0300
+### [email redacted] — 2013-08-24T01:34:29+0300
 **Source:** <https://forum.jackkruse.com/threads/beverly-posting-labs.7712/post-93562>
 
 I think you're closing in on the culprit, Dr. Kruse. There is just way too much autoimmunity. The rate is 10 times year 2000. Can't just be all due to people eating gluten. And it's not due to vaccines.
@@ -15220,7 +15220,7 @@ BGH
 
 WTG! That is so motivating to hear, Huck! Thanks for the inspiration
 
-### info@sorrentinodental.com — 2013-10-28T21:16:34+0200
+### [email redacted] — 2013-10-28T21:16:34+0200
 **Source:** <https://forum.jackkruse.com/threads/made-goal-weight-set-new-goal.7750/post-99276>
 
 Congratulations Huck. As you have demonstrated, change in results goes hand in hand with a change in approach.
@@ -17408,7 +17408,7 @@ Hi Caroline, sorry I didn't get back to you before now on the wool underlays. I 
 Before reading that warning on the Magnetico site I knew there was a risk of alternating currents if the magnets weren't placed exactly right in relation to each other, but it seems there's more to it than that. It's clearly explained on the magnetico site and I trust their advice on this.
 Re putting a couple of the cheaper ones under a mattress...I \*think\* you'd want to watch the positioning of the magnets (in relation to each other) quite carefully to make sure you were getting the gauss you expect at the distance you need.
 
-### stuartfolkard@gmail.com — 2013-10-22T10:17:21+0300
+### [email redacted] — 2013-10-22T10:17:21+0300
 **Source:** <https://forum.jackkruse.com/threads/magnetic-sleep-pad-options-in-australia.7804/post-98561>
 
 > [Matthew Cassidy said:](/goto/post?id=98538)
@@ -21571,7 +21571,7 @@ Andrea
 Andrea Morash
 Customer Service
 tel#800-265-1119
-[info@magneticosleep.com](mailto:info@magneticosleep.com)
+[[email redacted]](mailto:[email redacted])
 Magnetico Sleep Pads
 
 ### Terminator — 2013-08-24T07:23:20+0300
@@ -36469,7 +36469,7 @@ Do a search on varicocele testosterone and varicocele embolization. There are al
 
 ETA: Don't forget CT. Cold helps increase testosterone.
 
-### alanmjones@gmail.com — 2013-08-20T14:26:14+0300
+### [email redacted] — 2013-08-20T14:26:14+0300
 **Source:** <https://forum.jackkruse.com/threads/a-few-testosterone-replacement-quesitons.7951/post-93209>
 
 Do you have a link for the article comparing IM to subQ injections?
@@ -37594,7 +37594,7 @@ Been emailing with support...they are on it...fingers crossed I make this weeks 
 
 Hi there!
 
-Can you email us at [support@jackkruse.com](mailto:support@jackkruse.com)?
+Can you email us at [[email redacted]](mailto:[email redacted])?
 
 I can easily send you the links to the first 2 weeks from there and make sure you are put on the correct emailing lists.
 
@@ -42309,7 +42309,7 @@ This all makes me curious about the redox of the typical Amish person. The Amish
 **Subforum:** Optimal Labs
 **Posts:** 9
 ══════════════════════════════════════════════════════════════════════
-### jim@shirreff.com — 2013-08-28T22:46:01+0300
+### [email redacted] — 2013-08-28T22:46:01+0300
 **Source:** <https://forum.jackkruse.com/threads/first-time-labs-what-do-you-think.8083/post-94103>
 
 Hi all. I am a 45 yr old male, 6' tall, 265 lbs, with an office job. Just got my first set of labs done and reviewed with my ND. ND recommends Androgel for low T, and a Leptin reset diet. I don't understand most of this.
@@ -42415,7 +42415,7 @@ Jim,
 
 Can you add the reference ranges for each test above?
 
-### jim@shirreff.com — 2013-08-29T01:15:57+0300
+### [email redacted] — 2013-08-29T01:15:57+0300
 **Source:** <https://forum.jackkruse.com/threads/first-time-labs-what-do-you-think.8083/post-94111>
 
 @ATL\_Paleo - Thanks. I have been reading the Leptin reset and CT. I will add that to my list!
@@ -42424,7 +42424,7 @@ Can you add the reference ranges for each test above?
 
 Anything other than eating epi-paleo and adding CT you would recommend?
 
-### jim@shirreff.com — 2013-08-29T01:16:40+0300
+### [email redacted] — 2013-08-29T01:16:40+0300
 **Source:** <https://forum.jackkruse.com/threads/first-time-labs-what-do-you-think.8083/post-94112>
 
 @ATL\_Paleo - Thanks. I have been reading the Leptin reset and CT. I will add that to my list!
@@ -42433,7 +42433,7 @@ Anything other than eating epi-paleo and adding CT you would recommend?
 
 Anything other than eating epi-paleo and adding CT you would recommend?
 
-### jim@shirreff.com — 2013-08-29T01:30:55+0300
+### [email redacted] — 2013-08-29T01:30:55+0300
 **Source:** <https://forum.jackkruse.com/threads/first-time-labs-what-do-you-think.8083/post-94113>
 
 @ATL\_Paleo - Thanks for the review and info. I will add those to my reading list!
@@ -42458,7 +42458,7 @@ Basically you really need to implement everything that Jack's been writing about
 
 Honey child is correct.........field effect is there and he said he qworks a desk job..........he needs to beging first the the Letin Rx reset and CT........once he has that done make sure he is straight Epi paleo........then comes EMF mitigation.
 
-### jim@shirreff.com — 2013-08-29T21:07:38+0300
+### [email redacted] — 2013-08-29T21:07:38+0300
 **Source:** <https://forum.jackkruse.com/threads/first-time-labs-what-do-you-think.8083/post-94232>
 
 Thanks to all for looking in. After re-reading all the blogs, it makes more sense when I have my own labs to reference. Leptin reset & CT - Here I go.

@@ -15950,7 +15950,7 @@ You'll have to contact Patreon because I do not control the login process there.
 ### Jack Kruse — 2017-12-18T18:22:20+0200
 **Source:** <https://forum.jackkruse.com/threads/not-able-to-read-on-patreon.20593/post-230571>
 
-I would tell you if you are silver gold or plat you can ask for help via [info@jackkruse.com](mailto:info@jackkruse.com) and my team will try to make sure its not your membership login that is messed up.
+I would tell you if you are silver gold or plat you can ask for help via [[email redacted]](mailto:[email redacted]) and my team will try to make sure its not your membership login that is messed up.
 
 ### Inger — 2017-12-18T18:33:04+0200
 **Source:** <https://forum.jackkruse.com/threads/not-able-to-read-on-patreon.20593/post-230580>

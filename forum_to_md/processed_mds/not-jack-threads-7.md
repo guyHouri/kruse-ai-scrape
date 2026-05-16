@@ -3356,7 +3356,7 @@ This excelent podcast was released today. Dr. Kruse starts at near 41 minute mar
 
 [http://www.bengreenfieldfitness.com/2015/01/is-bluetooth-radiation-dangerous/](http://www.bengreenfieldfitness.com/2015/01/is-bluetooth-radiation-dangerous/)
 
-### patgrif@hotmail.com — 2015-01-25T07:11:25+0200
+### [email redacted] — 2015-01-25T07:11:25+0200
 **Source:** <https://forum.jackkruse.com/threads/new-ben-greenfield-podcast-with-dr-kruse.12687/post-153795>
 
 I think Dr K is in VERY strong form in this one. Very clear and impressive at least to me it is. I think what he said about how Google Glass has 'disappeared' is very interesting and make me really wonder about the 'ethics' of these guys. I mean the teck mavens and movers and shakers. Do they HAVE ethics?
@@ -3912,7 +3912,7 @@ Kelowna, BC
 V1Y 9H2
 CA
 
-[info@yourvibranthealthsecrets.com](mailto:info@yourvibranthealthsecrets.com)
+[[email redacted]](mailto:[email redacted])
 250-769-8804
 
 
@@ -6282,7 +6282,7 @@ We mistakenly think that touch occurs on the periphery of our self, a skin thing
 
 I can personally attest to this.
 
-### patgrif@hotmail.com — 2015-02-24T21:44:43+0200
+### [email redacted] — 2015-02-24T21:44:43+0200
 **Source:** <https://forum.jackkruse.com/threads/great-article-on-importance-of-touch.13045/post-156494>
 
 Hope, that is a very interesting article, I was kind of speculating too how food could become a substitute for touch. Like the way Dr K talks about food as something that 'un-condenses' the body, things 'swell' as proteins are un-condensed and then this swelling causes pizo-electric currents to flow (Hope I am right about this!) result is we are getting a kind of 'internal massage' but if this was supplied by the environment by actual touch the need for 'internal touching' might be less. Could it be that the 'touching starvation' we are trying to make up with 'internal touching' through food. This might be an interesting idea in terms of food addiction or whatever. I count myself as someone who was/is 'addicted' to food and is in part occasioned I now think by 'touching starvation'. I think also that is why when Dr K says food is not primordial it is putting us into the right track if we believe it is we keep doing the same thing looking for a different result and not finding.................
@@ -6292,7 +6292,7 @@ Anyway that aside I really liked that article. Thanks Hope.
 ### Hope — 2015-02-25T00:01:09+0200
 **Source:** <https://forum.jackkruse.com/threads/great-article-on-importance-of-touch.13045/post-156504>
 
-> [patgrif@hotmail.com said:](/goto/post?id=156494)
+> [[email redacted] said:](/goto/post?id=156494)
 >
 > Hope, that is a very interesting article, I was kind of speculating too how food could become a substitute for touch. Like the way Dr K talks about food as something that 'un-condenses' the body, things 'swell' as proteins are un-condensed and then this swelling causes pizo-electric currents to flow (Hope I am right about this!) result is we are getting a kind of 'internal massage' but if this was supplied by the environment by actual touch the need for 'internal touching' might be less. Could it be that the 'touching starvation' we are trying to make up with 'internal touching' through food. This might be an interesting idea in terms of food addiction or whatever. I count myself as someone who was/is 'addicted' to food and is in part occasioned I now think by 'touching starvation'. I think also that is why when Dr K says food is not primordial it is putting us into the right track if we believe it is we keep doing the same thing looking for a different result and not finding.................
 >
@@ -6302,7 +6302,7 @@ That's great, PatGrif!! I have always loved physical touch - even holding hands 
 
 I'm not sure there is a substitute for touch........even food or vice versa! Though I will say, my desire for food has gone down in recent years, and my desire for touch has gone up. Wonder if there is a connection?
 
-### patgrif@hotmail.com — 2015-02-25T01:02:55+0200
+### [email redacted] — 2015-02-25T01:02:55+0200
 **Source:** <https://forum.jackkruse.com/threads/great-article-on-importance-of-touch.13045/post-156516>
 
 Yes Hope I would agree there is no 'real' substitute but substitutes are by definition you might say not that real. Sometimes I think of 'healing' as getting under our substitutes to what is real at least as best we can. Anyway enough rambling from me I love this song "Substitute" by The Who
@@ -9541,7 +9541,7 @@ It's been about 4 days now.  Is there an ETA on the fix? I want to continue my b
 
 Monte
 
-contact [support@jackkruse.com](mailto:support@jackkruse.com)
+contact [[email redacted]](mailto:[email redacted])
 
 Sandy will hook you up!!!
 
@@ -10186,7 +10186,7 @@ I will definitely keep in touch here if I have more questions. Thanks so much!
 
 Magnetico might not be wired for euro power plug. If your N=1 is good go and do your best. If poor health say no thanks and stay home!
 
-### patgrif@hotmail.com — 2015-04-09T06:15:43+0300
+### [email redacted] — 2015-04-09T06:15:43+0300
 **Source:** <https://forum.jackkruse.com/threads/year-abroad-in-bosnia-and-herzegovina.13701/post-160698>
 
 > [Nittygrittydanny said:](/goto/post?id=160692)
@@ -13500,7 +13500,7 @@ I've been talking to my daughter about circadian signals, light and all I am lea
 
 I like that, Jeanne, thanks for posting. When we are sick, our world shrinks down until we get something like tunnel vision. Concern for nature goes away, then concern for others, and finally concern for our own selves.
 
-### tjmackey1@hotmail.com — 2015-05-26T17:36:38+0300
+### [email redacted] — 2015-05-26T17:36:38+0300
 **Source:** <https://forum.jackkruse.com/threads/native-american-wisdom.14335/post-165429>
 
 I was in grad school in NYC and thinking about staying in the city. I read this quote and realized I needed to get out as soon as graduation was over. Thank you Chief.
@@ -25207,7 +25207,7 @@ This is the video...
 **Subforum:** Feedback/Suggestions
 **Posts:** 1
 ══════════════════════════════════════════════════════════════════════
-### imstein@gmail.com — 2015-10-07T09:01:15+0300
+### [email redacted] — 2015-10-07T09:01:15+0300
 **Source:** <https://forum.jackkruse.com/threads/recommended-places-courses-to-study-nutrition.16953/post-178794>
 
 Hi,
@@ -26656,7 +26656,7 @@ By the way, on polio - notice the academic writing in the Times there says:
 
 > The successful development of a [polio vaccine](http://health.nytimes.com/health/guides/specialtopic/polio-immunization-vaccine/overview.html?inline=nyt-classifier) in the 1950s made these debates much less pressing.
 
-Hmmm … that's the story, but I wonder. Maybe @[patgrif@hotmail.com](mailto:patgrif@hotmail.com) has some comments on that.
+Hmmm … that's the story, but I wonder. Maybe @[[email redacted]](mailto:[email redacted]) has some comments on that.
 
 There's recent comment on this from Sally Fallon:
 
@@ -29456,7 +29456,7 @@ Very cool, literally! I used to make home-made cool packs using zip-locks filled
 
 For those who lack google skills like I typically do, the website is: [https://coolfatburner.com/](https://coolfatburner.com/)
 
-### blgolpe@aol.com — 2016-03-18T01:09:48+0200
+### [email redacted] — 2016-03-18T01:09:48+0200
 **Source:** <https://forum.jackkruse.com/threads/just-ordered-the-cool-fat-burner.17276/post-191107>
 
 What does that mean times 6?
@@ -29464,13 +29464,13 @@ What does that mean times 6?
 ### Rubicon — 2016-03-18T01:41:57+0200
 **Source:** <https://forum.jackkruse.com/threads/just-ordered-the-cool-fat-burner.17276/post-191109>
 
-> [blgolpe@aol.com said:](/goto/post?id=191107)
+> [[email redacted] said:](/goto/post?id=191107)
 >
 > What does that mean times 6?
 
 [https://www.jackkruse.com/time-6-time-and-dopamine/](https://www.jackkruse.com/time-6-time-and-dopamine/)
 
-### blgolpe@aol.com — 2016-03-22T12:21:39+0200
+### [email redacted] — 2016-03-22T12:21:39+0200
 **Source:** <https://forum.jackkruse.com/threads/just-ordered-the-cool-fat-burner.17276/post-191279>
 
 Ahhhhhhh! I see the light.
@@ -30291,7 +30291,7 @@ I eat about 1-2 tablespoons a day of salmon roe
 
 I love it... When I get it I eat it... yum!
 
-### curtwht@yahoo.com — 2016-01-17T17:20:19+0200
+### [email redacted] — 2016-01-17T17:20:19+0200
 **Source:** <https://forum.jackkruse.com/threads/any-one-eat-lots-of-caviar.17399/post-186574>
 
 [http://www.lokifish.com/collections/flash-frozen-ikura](http://www.lokifish.com/collections/flash-frozen-ikura) if you order four lbs. it is $128 with free shipping I like the 4 oz. jars I thaw them out once a week so they stay fresh and they are delicious.
@@ -34142,7 +34142,7 @@ hey, I'm just starting using a chiller, and can't find the right one. Any sugges
 **Subforum:** Beginners Area
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### joangtaylor@gmail.com — 2016-04-15T17:16:48+0300
+### [email redacted] — 2016-04-15T17:16:48+0300
 **Source:** <https://forum.jackkruse.com/threads/so-stupidly-i-recently-had-cataract-surgery.17817/post-192755>
 
 Last December.
@@ -41472,7 +41472,7 @@ you can also google this: 660nm led bone cancer 660 and 830 appear to be popular
 ### Grace Davies — 2017-01-30T18:32:24+0200
 **Source:** <https://forum.jackkruse.com/threads/vancouver-bc-oyster-share.18484/post-207582>
 
-I could potentially be interested in doing an Oyster Share with you - I am in Victoria but visit occasionally. [graci3davies@gmail.com](mailto:graci3davies@gmail.com) if you are still inclined.
+I could potentially be interested in doing an Oyster Share with you - I am in Victoria but visit occasionally. [[email redacted]](mailto:[email redacted]) if you are still inclined.
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -47251,7 +47251,7 @@ Thanks guys
 > 1 Box Stetzerizer G-S Filters $1125.00
 > 1 Stetzerizer Meter .. 185.00
 > Total: . . . ... .. 1310.00
-> His name was Steve Hall [stevestetzer@gmail.com](mailto:stevestetzer@gmail.com) Can't remember if he had a website.
+> His name was Steve Hall [[email redacted]](mailto:[email redacted]) Can't remember if he had a website.
 > Cheers Jenny
 
 

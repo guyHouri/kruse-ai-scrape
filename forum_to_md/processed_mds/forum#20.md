@@ -121,7 +121,7 @@ Where can I learn more about how to repair the Thyroid blood barrier?
 
 My understanding is that flouride is virtually impossible to filter. What type of filter system are you using to remove flouride?
 
-### kjgraffin@yahoo.com — 2013-03-08T18:17:31+0200
+### [email redacted] — 2013-03-08T18:17:31+0200
 **Source:** <https://forum.jackkruse.com/threads/could-it-be-the-seaweed.6234/post-79673>
 
 Check out the Berkey filter system. It has filters that you can get that remove flouride.
@@ -4088,7 +4088,7 @@ that image have an error. can you share again in this post please?
 **Subforum:** Optimal Labs
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### kjgraffin@yahoo.com — 2013-03-12T13:53:29+0200
+### [email redacted] — 2013-03-12T13:53:29+0200
 **Source:** <https://forum.jackkruse.com/threads/help-with-estrogen-results.6295/post-80173>
 
 I had my hormone labs drawn last month on CD 20. I thought the lab had made a mistake because my total estrogens were less than my estradiol. They let me redo them this month. I tested on CD21 and the same thing happened, but much higher results. Anyone have any ideas on what could be going on? I did increase DHEA and testosterone a bit, could that be contributing to the increase? I still don't understand how my total estrogen can be less than my estradiol.
@@ -4108,7 +4108,7 @@ I had a short cycle this month at 23 days and I have been having night sweats th
 
 The DHEA could be converting to estrogen in you which is highly likely. Maybe you are also an estrogen collector. You may want to try to drop the DHEA and test again and see what happens. Something in your hormones is obviously messed up if you are having night sweats and estrogen that high. Have you done Pg testing? Looking at the Pg/E2 ratio maybe helpful too.
 
-### kjgraffin@yahoo.com — 2013-03-13T19:18:16+0200
+### [email redacted] — 2013-03-13T19:18:16+0200
 **Source:** <https://forum.jackkruse.com/threads/help-with-estrogen-results.6295/post-80382>
 
 I'm using the 7keto DHEA, so I didn't think that would convert to estrogen. My PG is very low so I know my ratio stinks, but it has always been low. I can't figure out why all of a sudden my E is climbing but yet I am having the night sweats.
@@ -6075,7 +6075,7 @@ Nothing was said specifically about flouride free water but I'll take Dr K's rec
 
 this...............
 
-### kjgraffin@yahoo.com — 2013-03-18T13:43:52+0200
+### [email redacted] — 2013-03-18T13:43:52+0200
 **Source:** <https://forum.jackkruse.com/threads/flouride-free-spring-water-and-blood-viscosity.6372/post-80951>
 
 This gives me a lot of hope! I have been having MAH (major autohematherapy) treatments for lyme disease. Every week someone comments on how dark, thick & sludgy my blood is. For the last 3 weeks I have been drinking spring water & non-flouridated water from my Berkey. On my last visit, my blood drained much quicker. It still takes a long time to be reabsorbed and there is still quite a bit of sludge, but I felt like it was progress. I told them I thought it was the spring water I was drinking, but they kind of chuckled when I said it.
@@ -6861,7 +6861,7 @@ Possibly because magnesium is a cofactor for utilizing vitamin D. Arguably, some
 **Subforum:** The New Monster Thread
 **Posts:** 19
 ══════════════════════════════════════════════════════════════════════
-### granitereno@gmail.com — 2013-03-18T18:55:31+0200
+### [email redacted] — 2013-03-18T18:55:31+0200
 **Source:** <https://forum.jackkruse.com/threads/optimal-water-containers.6386/post-80987>
 
 I have gathered here that for home, ceramic or glass jugs are what we should choose.
@@ -6891,12 +6891,12 @@ We use lifefactory water bottles. It's glass with a silicone/rubber protective o
 
 I'm using stainless steel right now but looking for a good glass one. I need something to bring to work that doesn't look obnoxious!
 
-### kjgraffin@yahoo.com — 2013-03-18T21:03:23+0200
+### [email redacted] — 2013-03-18T21:03:23+0200
 **Source:** <https://forum.jackkruse.com/threads/optimal-water-containers.6386/post-81008>
 
 I use a bamboobottle. It is a glass container with a bamboo sleeve. I love it! It holds 16oz.
 
-### granitereno@gmail.com — 2013-03-18T21:59:58+0200
+### [email redacted] — 2013-03-18T21:59:58+0200
 **Source:** <https://forum.jackkruse.com/threads/optimal-water-containers.6386/post-81016>
 
 How do we feel about titanium?
@@ -7013,7 +7013,7 @@ Just a thought....we use silver to treat our hot/cold tub
 
 [http://www.ehow.com/way\_5538843\_can-colloidal-silver-treat-pool.html](http://www.ehow.com/way_5538843_can-colloidal-silver-treat-pool.html)
 
-### kjgraffin@yahoo.com — 2013-03-18T20:52:45+0200
+### [email redacted] — 2013-03-18T20:52:45+0200
 **Source:** <https://forum.jackkruse.com/threads/saltwater-pool.6387/post-81006>
 
 I've been looking into the ecosmarte system as well. I refuse to go back to using chlorine in my pool. If I have no other choice, I won't open it this year.
@@ -7066,7 +7066,7 @@ I'm certain that I'm leptin resistant, and am sure that my hormones are out of w
 Any recommendations? Does Jack even work with people directly? I just can't get through everything on his blog. it's too much for me and i have too much other stuff going on. Thanks so much.
 
 Shauna
-[sandandsea4g@gmail.com](mailto:sandandsea4g@gmail.com) or [shaunareisewitz@yahoo.com](mailto:shaunareisewitz@yahoo.com)
+[[email redacted]](mailto:[email redacted]) or [[email redacted]](mailto:[email redacted])
 
 ### caroline — 2013-03-18T22:55:14+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-looking-for-a-coach.6390/post-81019>
@@ -7287,7 +7287,7 @@ There’s no time like the present to look at your nutritional health. Please jo
 
 When: March 21 or April 4 from 12:00 to 1:00 PM
 Where: The Training Room – The Woodlands
-Seating is limited. Please RSVP to [xxxxxxxx@xxx.com](mailto:xxxxxxxx@xxx.com). Bring your lunch and see if it’s as healthy as you think.
+Seating is limited. Please RSVP to [[email redacted]](mailto:[email redacted]). Bring your lunch and see if it’s as healthy as you think.
 
 I stopped by her table and after looking at the flyers said, "I don't eat this way. I eat epi-paleo and with lots of fat."
 
@@ -7338,7 +7338,7 @@ That is the problem, they really do not have a clue! You almost have to feel sor
 >
 > When: March 21 or April 4 from 12:00 to 1:00 PM
 > Where: The Training Room â€“ The Woodlands
-> Seating is limited. Please RSVP to [xxxxxxxx@xxx.com](mailto:xxxxxxxx@xxx.com). Bring your lunch and see if itâ€™s as healthy as you think.
+> Seating is limited. Please RSVP to [[email redacted]](mailto:[email redacted]). Bring your lunch and see if itâ€™s as healthy as you think.
 >
 > I stopped by her table and after looking at the flyers said, "I don't eat this way. I eat epi-paleo and with lots of fat."
 >
@@ -7667,7 +7667,7 @@ Perhaps you're like Jack and need a LOT more CT...
 **Subforum:** Meet and Greet
 **Posts:** 6
 ══════════════════════════════════════════════════════════════════════
-### memullen1@yahoo.com — 2013-03-20T12:20:44+0200
+### [email redacted] — 2013-03-20T12:20:44+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-oregon.6408/post-81165>
 
 I'm a 48 yo female with Lyme disease and Fibromyalgia (with PTSD). I started a dairy free paleo diet again, am taking Mag Malate, Mag Threonate, high dose fish oil (1325 mg tid), Armour Thyroid 60mg, Kelp. I haven't started CT yet. Which protocol should I start first? Is there a way to combine them?
@@ -7693,7 +7693,7 @@ Fitness@home gave some great advice. Fixing your circadian rhythm will allow you
 
 One other small thing to add at the beginning, along with seafood and good water, is sunlight and walking barefoot. So you can work on the Leptin reset protocol, but add those other factors, so that you get a head start on the other protocols.
 
-### memullen1@yahoo.com — 2013-03-20T19:34:36+0200
+### [email redacted] — 2013-03-20T19:34:36+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-oregon.6408/post-81201>
 
 Thanks you two! I forgot to add that I'm 5'6 1/2" and 255 lbs. 15 of which I gained on my overnight job as a gluten free chef this past year. Also, about 9 months ago I had a total hysterectomy and am without a gallbladder. It gets worse! 2 or 3 days back into Paleo I got my first "smart" phone. After feeling remarkably better on the diet I suddenly felt awful again! Problem is, that's how I read Jack's info. So now I've been voraciously reading up on the articles in the middle of the night again, but this time it's closer to my head. I was supposed to be on day by now, but it looks like it's going to another month.
@@ -8588,7 +8588,7 @@ Florida (Jacksonville)
 /////////////////////////////////////////////////////////////
 
 LONG LIST for LabCorp
-Send copy to patient [johndoe@vghkiy.net](mailto:johndoe@vghkiy.net)
+Send copy to patient [[email redacted]](mailto:[email redacted])
 1 ------- Pregnenolone, Mass Spectrometry--Test Number: 140707 CPT Code: 84140
 2 ------- 17α-Hydroxypregnenolone by HPLC-MS/MS
 3 ------- 17α-Hydroxyprogesterone by HPLC-MS/MS
@@ -9570,7 +9570,7 @@ USA
 Telephone: 888.320.8338 (toll free)
 856.825.8338 (outside the US)
 Fax: 856.825.2143
-E-mail: [custserv@bodybio.net](mailto:custserv@bodybio.net)
+E-mail: [[email redacted]](mailto:[email redacted])
 
 bodybio-wellness.com
 
@@ -11124,7 +11124,7 @@ London W1W 6DB, UK
 
 Telephone: (+44) 020 7636 5959/5905
 Fax: (+44) 020 7580 3910
-Email: [reception@biolab.co.uk](mailto:reception@biolab.co.uk)
+Email: [[email redacted]](mailto:[email redacted])
 ..........
 
 **Biolab-Laboratory-Guide**
@@ -11853,7 +11853,7 @@ and post #122
 ### JanSz — 2019-03-25T21:23:41+0200
 **Source:** <https://forum.jackkruse.com/threads/pg-e2-ratio.6427/post-266417>
 
-Nelson Vergel from ExcelMale.com <excelmale@gmail.com>
+Nelson Vergel from ExcelMale.com <[email redacted]>
 [https://www.youtube.com/results?search\_query=excelmale](https://www.youtube.com/results?search_query=excelmale)
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
@@ -12602,7 +12602,7 @@ Steroid calculator is designed to calculate the daily amount of active substance
 spectracell.com
 providers in my area 5/15/2020
 
-Taiwan Hancock <thancock@spectracell.com>
+Taiwan Hancock <[email redacted]>
 \======================================
 197 Ridgedale Avenue
 Gerard Malanga , MD
@@ -12854,7 +12854,7 @@ What say you Dr. Jack Kruse?
 
 [https://emr-tek.com/products/firewa...227&utm\_medium=email&utm\_source=shopify\_email](https://emr-tek.com/products/firewave?utm_campaign=emailmarketing_77680345227&utm_medium=email&utm_source=shopify_email)
 
-[emrprotectionservices@gmail.com](mailto:emrprotectionservices@gmail.com)
+[[email redacted]](mailto:[email redacted])
 
 ### Dan2 — 2020-08-16T21:19:15+0300
 **Source:** <https://forum.jackkruse.com/threads/pg-e2-ratio.6427/post-291555>
@@ -13861,7 +13861,7 @@ Bitcoin Introduction (If needed): [Why you shouldn't sell your Bitcoin for the n
 Dr. Nyjon Eccles
 8 Upper Wimpole St, Marylebone, London W1G 6LH
 020 7224 4622
-[info@thenaturaldoctor.org](mailto:info@thenaturaldoctor.org)
+[[email redacted]](mailto:[email redacted])
 Monday to Friday 9.30 am – 5 pm
 
 ### Pebbles — 2021-11-06T06:59:32+0200
@@ -13940,7 +13940,7 @@ I seem to remember that you are in the field of science?
 ### JanSz — 2022-04-07T20:25:46+0300
 **Source:** <https://forum.jackkruse.com/threads/pg-e2-ratio.6427/post-311879>
 
-Dr. Hertoghe <dr.hertoghe@hertoghe.eu>
+Dr. Hertoghe <[email redacted]>
 "A la carte" hormone and nutritional therapy lessons
 
 ### JanSz — 2022-04-09T00:05:01+0300

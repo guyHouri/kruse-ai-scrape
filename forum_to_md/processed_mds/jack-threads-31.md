@@ -1246,7 +1246,7 @@ I use macbook.
 ### Jack Kruse — 2015-11-01T15:12:21+0200
 **Source:** <https://forum.jackkruse.com/threads/targets.12648/post-180891>
 
-send your issues to [skruse613@gmail.com](mailto:skruse613@gmail.com) Well get it done soon.
+send your issues to [[email redacted]](mailto:[email redacted]) Well get it done soon.
 
 ### ElEva — 2015-11-21T10:08:10+0200
 **Source:** <https://forum.jackkruse.com/threads/targets.12648/post-182464>
@@ -3497,7 +3497,7 @@ What could possible go wrong with wifi in your brain ?????
 .
 .
 
-### patgrif@hotmail.com — 2015-01-25T04:44:33+0200
+### [email redacted] — 2015-01-25T04:44:33+0200
 **Source:** <https://forum.jackkruse.com/threads/end-of-the-internet.12688/post-153792>
 
 How utterly crazy is that..............
@@ -3946,7 +3946,7 @@ Damn Jack, you ask a tough question. I think I have to answer my own way: I chec
 Thanks,
 Brother John
 
-### patgrif@hotmail.com — 2015-02-01T07:21:40+0200
+### [email redacted] — 2015-02-01T07:21:40+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-154418>
 
 I would give it a 1.01 because 'nothing' is perfect. My main/only quibble would be with the 'technology' glitches but that is not such a major thing once one has a little patience.
@@ -4118,7 +4118,7 @@ This is kind of what I'm talking about - when you say "lattice structure" for in
 
 It would also be a helluva lot more work...
 
-### patgrif@hotmail.com — 2015-02-11T04:26:10+0200
+### [email redacted] — 2015-02-11T04:26:10+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-155327>
 
 > [PaulG said:](/goto/post?id=155302)
@@ -4144,7 +4144,7 @@ See [https://xenforo.com/community/threads/recent-activity-remove-the-likes.8722
 
 I have sent a request to support.
 
-### patgrif@hotmail.com — 2015-03-06T05:00:19+0200
+### [email redacted] — 2015-03-06T05:00:19+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-157605>
 
 Dr Kruse, I don't know if you are definitely coming to LA around the middle of the month..............but if you are I know of this 'perfect' (I think) restaurant for you. It's by the ocean south of Malibu (Topanga actually) it's called "The Reel Inn" it's a fish place (pun on reel) and I really like their oysters. I am not an oyster connoisseur but I much prefer them to the Whole Foods ones. To-day they had something 'bragging' about them they are called Kumiai Oysters and they get them from Baja California. They have a big menu of fish (they do not serve any meats etc) and they also have wine.
@@ -4158,12 +4158,12 @@ I also want you to know it would be my 'treat'.........a small token for the ove
 
 im coming............
 
-### patgrif@hotmail.com — 2015-03-11T03:41:56+0200
+### [email redacted] — 2015-03-11T03:41:56+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158158>
 
 Maybe this is not quite the right place to ask but I don't know how to use the 'private messaging' function here on the blog. I would appreciate any help and of course if one person can explain it to me that is enough. Thanks as this is something I need to do
 
-### patgrif@hotmail.com — 2015-03-11T03:53:25+0200
+### [email redacted] — 2015-03-11T03:53:25+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158159>
 
 Oops!............problem solved (I think). Thanks Cinnamon! No need for anyone to spend any more time on this. Thanks again
@@ -4173,7 +4173,7 @@ Oops!............problem solved (I think). Thanks Cinnamon! No need for anyone t
 
 Well Pat I think I am coming in Thursday.......not sure but if you want maybe we can do it Thursday......not sure if they are arranging a pick up for me or not.
 
-### patgrif@hotmail.com — 2015-03-11T14:06:31+0200
+### [email redacted] — 2015-03-11T14:06:31+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158195>
 
 > [Jack Kruse said:](/goto/post?id=158165)
@@ -4216,7 +4216,7 @@ Just had an idea for you about this blog - you might implement an FAQ - like the
 
 You could put the most common and repeated questions plus answers in there and it might save you a lot of time - and the moderators could refer people to it - you could also update it periodically -
 
-### patgrif@hotmail.com — 2015-03-15T18:06:31+0200
+### [email redacted] — 2015-03-15T18:06:31+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158560>
 
 I just woke up around 9 am now................was at Jack's speech and more to the point this several Q@A's afterwards left around 1am. So I have actually got close to 8 hours sleep but I feel DESTROYED! Really quite as bad as some of my college days but those involved some very heavy drinking plus maybe some pot...........depending. Anyway yesterday I had no alcohol no 'abuse' of food even drank plenty of water but just the fact of being up so late (I usually go to bed around 8-9 pm) but honestly that feels 'tied' with the effect of the lights. Actually I would say the effect of the lights feels more (worse)
@@ -4230,7 +4230,7 @@ Jack should be on a plane by now.................I have to admit I cannot concei
 ### NeilBB — 2015-03-15T18:12:23+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158561>
 
-> [patgrif@hotmail.com said:](/goto/post?id=158560)
+> [[email redacted] said:](/goto/post?id=158560)
 >
 > I just woke up around 9 am now................was at Jack's speech and more to the point this several Q@A's afterwards left around 1am. So I have actually got close to 8 hours sleep but I feel DESTROYED! Really quite as bad as some of my college days but those involved some very heavy drinking plus maybe some pot...........depending. Anyway yesterday I had no alcohol no 'abuse' of food even drank plenty of water but just the fact of being up so late (I usually go to bed around 8-9 pm) but honestly that feels 'tied' with the effect of the lights. Actually I would say the effect of the lights feels more (worse)
 >
@@ -4242,7 +4242,7 @@ Jack should be on a plane by now.................I have to admit I cannot concei
 
 Patrick, how was your personal time with Jack? That place looks awesome from the FB pic...
 
-### patgrif@hotmail.com — 2015-03-15T18:59:54+0200
+### [email redacted] — 2015-03-15T18:59:54+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158565>
 
 > [NeilBB said:](/goto/post?id=158561)
@@ -4259,7 +4259,7 @@ I have been in that kind of situation before with Dr Arthur Janov and primal the
 
 I am sorry this begins to sound a bit silly but I am gathering my thoughts and impressions here and being as honest as I can. And actually now I think this is all 'healthy' for me I will walk out the door now and maybe know and feel a bit that there is 'no guru, no master, no teacher' who can 'save' me...................I am alone in the world and that has always been hard for me to know and accept, I feel like crying a bit now.............
 
-### patgrif@hotmail.com — 2015-03-15T19:09:54+0200
+### [email redacted] — 2015-03-15T19:09:54+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158566>
 
 Neil you like music............that just writing that triggered a Van Morrison song who is I suppose my all time favorite singer. (Greater than Dylan, Neil Young even). Anyway he is Irish too and we are proud of that but this song is called "No Guru, No Method, No Teacher" and if you find the song drags a bit go to around the 3:50 mark where that kind of chorus come in.............
@@ -4267,7 +4267,7 @@ Neil you like music............that just writing that triggered a Van Morrison s
 ### NeilBB — 2015-03-15T19:50:59+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158569>
 
-> [patgrif@hotmail.com said:](/goto/post?id=158565)
+> [[email redacted] said:](/goto/post?id=158565)
 >
 > Neil, you are asking a 'big' question there (I just got up and don't feel so bad now might even be able to venture out in a while and get the NY Times)...........it's a big question in so many ways. For me 'big' at least in that it was/is a kind of a situation where a 'young' man (I am 62 y.o. but 'young' at heart some people would say 'immature') meets his 'guru'. I had never met Jack before in the flesh (pod) so it was kind of big and maybe slightly fraught situation for me.
 >
@@ -4297,7 +4297,7 @@ Everyone has a different role to play in this drama. I haven't really figured ou
 
 I like Van Morrison a lot too. You know he always had horrible stagefright?
 
-### patgrif@hotmail.com — 2015-03-15T20:04:21+0200
+### [email redacted] — 2015-03-15T20:04:21+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158572>
 
 > [NeilBB said:](/goto/post?id=158569)
@@ -4329,7 +4329,7 @@ Thanks Neil..................it just occurs to me now also Jack's 'message' is a
 
 \- Robert A. Heinlein (1949)
 
-### patgrif@hotmail.com — 2015-03-15T22:22:09+0200
+### [email redacted] — 2015-03-15T22:22:09+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158583>
 
 I just read this in the Letters Section of the NY Times magazine..............it is in response to a story by this Norwegian writer Karl Ove Knausgaard who did a kind of 'travel story' of driving around in the US. And he is kind of 'cynical' about the US as we Europeans sometimes (often!) are. But one letter writer objected to his making fun of the US and wrote in reply about Norway
@@ -4353,7 +4353,7 @@ Thanks so much!
 ### Josh — 2015-03-15T23:47:11+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158592>
 
-> [patgrif@hotmail.com said:](/goto/post?id=158565)
+> [[email redacted] said:](/goto/post?id=158565)
 >
 > Neil, you are asking a 'big' question there (I just got up and don't feel so bad now might even be able to venture out in a while and get the NY Times)...........it's a big question in so many ways. For me 'big' at least in that it was/is a kind of a situation where a 'young' man (I am 62 y.o. but 'young' at heart some people would say 'immature') meets his 'guru'. I had never met Jack before in the flesh (pod) so it was kind of big and maybe slightly fraught situation for me.
 >
@@ -4370,7 +4370,7 @@ Important to separate the message from the messenger....one has to digest this m
 ### Brother John — 2015-03-16T02:17:19+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158605>
 
-> [patgrif@hotmail.com said:](/goto/post?id=158565)
+> [[email redacted] said:](/goto/post?id=158565)
 >
 > Neil, you are asking a 'big' question there (I just got up and don't feel so bad now might even be able to venture out in a while and get the NY Times)...........it's a big question in so many ways. For me 'big' at least in that it was/is a kind of a situation where a 'young' man (I am 62 y.o. but 'young' at heart some people would say 'immature') meets his 'guru'. I had never met Jack before in the flesh (pod) so it was kind of big and maybe slightly fraught situation for me.
 >
@@ -4386,7 +4386,7 @@ Ya know Pat, you are a pretty good writer and a damn honest guy. It takes a big 
 Thanks Pat!
 Brother John
 
-### patgrif@hotmail.com — 2015-03-16T04:46:53+0200
+### [email redacted] — 2015-03-16T04:46:53+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158619>
 
 > [Brother John said:](/goto/post?id=158605)
@@ -4412,7 +4412,7 @@ Sometimes I feel hobbled by not knowing more 'science' but even that I feel more
 Patrick was a pleasure to spend time with. He gave me a book and I got it half done on the plane home. Pat don't worry about the science. Not knowing those details it is actually a huge advantage, because their is less dogma you have to navigate.
 The most precious etchings of caring about people can be traced not in the scope of the message youre sending, but in the integrity of its purpose. What I tried to convey to you is that most of our beliefs cause us to see and think linearly. We must stop taking each element separately, and begin to connect our thoughts and fit them together properly as nature requires.
 
-### patgrif@hotmail.com — 2015-03-16T05:01:25+0200
+### [email redacted] — 2015-03-16T05:01:25+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158622>
 
 And the great thing is we BOTH agree on this! Like the physics equations all of them can be read both ways back to front and front to back. On a bit of a 'serious' note I honestly think those 6 bright chandeliers really did my brain in! It just shows I suppose people are just used to that to me not being used to it anymore it was a shock to the system. When I think about now I can still 'see' the lights. Total overload.
@@ -4432,7 +4432,7 @@ Pat that is why I made them turn them off during my talk!!!
 
 Jack were any of the other "guru's" getting it?
 
-### patgrif@hotmail.com — 2015-03-16T05:19:28+0200
+### [email redacted] — 2015-03-16T05:19:28+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158628>
 
 > [Jack Kruse said:](/goto/post?id=158625)
@@ -4460,7 +4460,7 @@ Witnessed that in Vancouver Caroline.
 
 Nice......... cant wait for the cruise.......
 
-### patgrif@hotmail.com — 2015-03-16T16:58:18+0200
+### [email redacted] — 2015-03-16T16:58:18+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158667>
 
 Neil, I hope I am not over doing this I mean with the music and all but this thing about Jack's 'message' being uplifting and positive but also dark reminded me of this marvelous (I think) Bob Dylan song "It's not dark yet (but it's getting there)" Some snatches of the words...............
@@ -4494,7 +4494,7 @@ There is something about those words so 'pessimistic' but beautiful at the same 
 ### NeilBB — 2015-03-16T17:15:27+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158671>
 
-> [patgrif@hotmail.com said:](/goto/post?id=158667)
+> [[email redacted] said:](/goto/post?id=158667)
 >
 > Neil, I hope I am not over doing this I mean with the music and all but this thing about Jack's 'message' being uplifting and positive but also dark reminded me of this marvelous (I think) Bob Dylan song "It's not dark yet (but it's getting there)" Some snatches of the words...............
 >
@@ -4535,7 +4535,7 @@ You want to know why I really love art and music so much, Pat? It is and has alw
 ### NeilBB — 2015-03-16T19:38:18+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158678>
 
-> [patgrif@hotmail.com said:](/goto/post?id=158667)
+> [[email redacted] said:](/goto/post?id=158667)
 >
 > Neil, I hope I am not over doing this I mean with the music and all but this thing about Jack's 'message' being uplifting and positive but also dark reminded me of this marvelous (I think) Bob Dylan song "It's not dark yet (but it's getting there)" Some snatches of the words...............
 >
@@ -4545,7 +4545,7 @@ Also, Pat. You have to look at it this way. You don't get to choose the era you 
 
 The advantage of living now, at this time I think, is that we are seeing and benefiting from what may likely be the "peak of humanity." And we do have a lot of advantages today Pat. You are in LA and I am in Alabama, and we are having a chat. Try doing that from a cave 10,000 years ago. Contrary to what a lot of paleo people might think, personally, I think life would have sucked living as a caveman. I mean we can dress it up and glorify it and call it "Grok," all we want. But I'll take now over then. Warts and all. That's just me... It would actually be possible to "have our modern cake and eat it too," but first society would have to acknowledge that we have a big problem. Most are not there yet. Will they get there? I don't know. Personally, I'm not sure that I care too much either. I have to live for today and do what I think is right, today. That's all.
 
-### patgrif@hotmail.com — 2015-03-16T19:43:36+0200
+### [email redacted] — 2015-03-16T19:43:36+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158679>
 
 Cool Neil I just wrote this...............
@@ -4564,7 +4564,7 @@ practicing magical thinking again
 ### NeilBB — 2015-03-16T19:49:18+0200
 **Source:** <https://forum.jackkruse.com/threads/the-quality-of-our-relationship.12710/post-158680>
 
-> [patgrif@hotmail.com said:](/goto/post?id=158679)
+> [[email redacted] said:](/goto/post?id=158679)
 >
 > Cool Neil I just wrote this...............
 >
@@ -7144,7 +7144,7 @@ I think that's all the ramblings I'll do for now. Perhaps more in the future
 
 ....
 
-### patgrif@hotmail.com — 2015-02-12T19:30:00+0200
+### [email redacted] — 2015-02-12T19:30:00+0200
 **Source:** <https://forum.jackkruse.com/threads/reverse-electron-flow.12744/post-155481>
 
 Yew, thanks for those 2 posts, I find it quite useful and it is nice to read something by someone imbued with 'Krusian' principles. The whole 'circadian mismatch' idea is so powerful and deep I particularly like this sentence of yours
@@ -7386,7 +7386,7 @@ You just have more DC current linking more particles now..........and my words g
 >
 > Of course... These concepts are as old as time itself! It's not about who discovered them first, but rather which interpretation and 'metaphor' resonates the most With you. Aikido is simply a physical metaphor and one that has been easy to understand complex concepts through for me... N=1!
 
-### patgrif@hotmail.com — 2015-02-01T07:37:53+0200
+### [email redacted] — 2015-02-01T07:37:53+0200
 **Source:** <https://forum.jackkruse.com/threads/what-is-entanglement.12748/post-154420>
 
 "Entanglement" is the first concept I have allowed myself to 'accept' without actually 'understanding' it...........it FEELS right I will take my time with it, it feels helpful and 'right' so I go with it for now but at the same time I like to 'understand' not that it stands in the way of 'understanding' plus there is always time to understand it later.............
@@ -8317,7 +8317,7 @@ Sounds like you need energy. Do you get much sunshine?
 
 I love the sunshine. I just have no energy. I am sure I have leaky gut and this is attributing to my fatigue. Bookwork never turns up anything abnormal and I'm sick of wasting my money on doctors who don't care. I'm starting to feel like a hypochondriac its gone on so long without any clues as to what is causing it. I really think my stomach issues are either messing up my hormones or my neurotransmitters or both. The tamiflu sent me into a horrible downward spiral for about a week. I still don't feel like I am connected to my husband...its a very weird thing and difficult to explain. It was the tamiflu though...not lack of sunshine. Although I am missing the sunshine lol
 
-### patgrif@hotmail.com — 2015-02-04T23:35:50+0200
+### [email redacted] — 2015-02-04T23:35:50+0200
 **Source:** <https://forum.jackkruse.com/threads/tamiflu-and-neurotransmitters.12768/post-154745>
 
 Hi ga777, I happen to know 3 women in the past year who have had vertigo and it sounds quite scary. One of them is my sister who is a Medical Doctor but though very knowledgeable subscribes to the whole 'low fat' dogma. Her husband also now has A-FIB and other heart problems. The two other women as far as I know them are also very much believing in the 'low fat' notion and this is a complete guess but I think it has something to do with their vertigo problems. All are on the skinny side and even look kinda famished.
@@ -22266,7 +22266,7 @@ Make sure breakfast is big and full of fat and protein
 
 Thanks to everybody for this really good thread. It has helped me a lot
 
-### dennis.london@gmail.com — 2018-04-26T17:47:46+0300
+### [email redacted] — 2018-04-26T17:47:46+0300
 **Source:** <https://forum.jackkruse.com/threads/too-much-protein.12842/post-239973>
 
 Getting caught up on the posts and this one seems to jump out at me simply because I was always hungry in the beginning which had me wanting to snack as well. For me, having the BAB (Big Ass Breakfast) was the key to removing the snacks - which in turn pushed my Leptin reset into high gear. Starting my day with 3 eggs, 3 or 4 slices of bacon, and half an avocado was what held me, not just up to lunch, but well into the afternoon - sometimes until dinner. That typically relied on my daily activity level, of which I didn't (and still don't) get a ton of due to my job sitting at a computer all day. Once the snacking demon was removed I was well on my way to optimal. Just remember - it won't happen overnight and you will have to quiet that demon with something. What worked for me was drinking a big glass (12 to 16 oz) of water whenever I felt the need to snack. I believe Dr Kruse mentioned somewhere that our snacking urge could be tied to improper hydration...especially if you're in a high EMF area.
@@ -22278,7 +22278,7 @@ I know it seems fairly basic, but honestly, this is what worked best for me.
 
 Dennis, you need a human pic up ASAP. Forum rule.
 
-### dennis.london@gmail.com — 2018-04-27T17:59:29+0300
+### [email redacted] — 2018-04-27T17:59:29+0300
 **Source:** <https://forum.jackkruse.com/threads/too-much-protein.12842/post-240029>
 
 > [Jack Kruse said:](/goto/post?id=239976)
@@ -22295,7 +22295,7 @@ Thanks dennis. That’s great to know and you’re probably right. I have a life
 I did the BAB last year but stopped and when I met jack in Mexico he said I didn’t need to do that anymore as he didn’t think I was leptin resistant. But I do agree a good breakfast helps the cravings a lot. I’m a long way from 1 meal a day though. I get hungry by lunch still.
 I’ve had a few hormone issues so gonna get them checked out I think. That’s not helping the cravings.
 
-> [dennis.london@gmail.com said:](/goto/post?id=239973)
+> [[email redacted] said:](/goto/post?id=239973)
 >
 > Getting caught up on the posts and this one seems to jump out at me simply because I was always hungry in the beginning which had me wanting to snack as well. For me, having the BAB (Big Ass Breakfast) was the key to removing the snacks - which in turn pushed my Leptin reset into high gear. Starting my day with 3 eggs, 3 or 4 slices of bacon, and half an avocado was what held me, not just up to lunch, but well into the afternoon - sometimes until dinner. That typically relied on my daily activity level, of which I didn't (and still don't) get a ton of due to my job sitting at a computer all day. Once the snacking demon was removed I was well on my way to optimal. Just remember - it won't happen overnight and you will have to quiet that demon with something. What worked for me was drinking a big glass (12 to 16 oz) of water whenever I felt the need to snack. I believe Dr Kruse mentioned somewhere that our snacking urge could be tied to improper hydration...especially if you're in a high EMF area.
 >
@@ -22347,7 +22347,7 @@ Well the posts below suggest breakfast is super important but as you’ll see fr
 > Hi Emma
 > I may not be leptin resistant anymore either now. I am not overweight. So if you are going to do one meal a day, Its breakfast right? i do feel i don't sleep as well since i go to bed hungry. I'm a post menopausal woman. 54 Yrs. I think Jack is saying one meal a day. I am presuming its breakfast. Does anyone have any other suggestion
 
-### dennis.london@gmail.com — 2018-05-02T17:45:18+0300
+### [email redacted] — 2018-05-02T17:45:18+0300
 **Source:** <https://forum.jackkruse.com/threads/too-much-protein.12842/post-240356>
 
 > [Emma Sabin said:](/goto/post?id=240307)
@@ -22374,7 +22374,7 @@ The precise mechanism is discussed how we go from a normal metabolism to a redox
 ### Emma Sabin — 2018-05-08T19:23:41+0300
 **Source:** <https://forum.jackkruse.com/threads/too-much-protein.12842/post-240823>
 
-> [dennis.london@gmail.com said:](/goto/post?id=240356)
+> [[email redacted] said:](/goto/post?id=240356)
 >
 > Emma - by no means did I ever go to just one meal a day. Sorry if it came across that way. What I meant to convey was that by eating a BAB I was able to basically eliminate the snacking urges while getting my Leptin reset. I would still have a small lunch, typically something like a childs portion or a cobb salad (or whatever). Then dinner would be a nice steak or preferably some seafood. Of course we would try to eat earlier as you don't want to eat 4 hours prior to going to bed...so, if you typically go to bed at 10pm you'll want to be done eating by 6pm.
 
@@ -23420,7 +23420,7 @@ I recall JanSZ mentioning that he takes doses as high as 400mg DHEA and 900mg Pr
 >
 >
 > 1.  Bernd Nilius and Thomas Voets are in the Department of Molecular Cell Biology, Laboratory of Ion Channel Research, KU Leuven, Campus Gasthuisberg, Herestraat 49, bus 802, B-3000 Leuven, Belgium.
->     e-mail: [bernd.nilius@med.kuleuven.be](mailto:bernd.nilius@med.kuleuven.be)
+>     e-mail: [[email redacted]](mailto:[email redacted])
 >
 >
 > **Abstract**
@@ -41357,7 +41357,7 @@ The officials will never link the Germanwings pilot to the the real culprit. Non
 
 -   There are over ten commercial crashes and incidnts that are similar........and the military has a lot more. NASA major concern now is the psychological status of astronauts off this planet. The physics is clear.........Calcium efflux ruins seed germination and voltage gates working in neurons. The physics is clear if you look for it.
 
-### patgrif@hotmail.com — 2015-03-27T15:55:17+0200
+### [email redacted] — 2015-03-27T15:55:17+0200
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-159551>
 
 > [Jack Kruse said:](/goto/post?id=159530)
@@ -41376,7 +41376,7 @@ And a lot of these kids the go nuts don't have any real thing that separates the
 
 Another interesting aspect (to me at least) is if you really probe these stories I would say almost always there are on some kind of psycho-active drug. I mean of the 'legal kind' some 'anti-depressant' something to combat 'manic-depression' etc etc. I will closely watch this story about the pilot to see if there is some involvement of that. It is something the media typically studiously ignores after all it is very bad 'advertising' for Merck , Pziser or whoever that these guys are most often on one of their 'products'. To me it shows in microcosm the vast waste of resources etc in 'standard psychology'. I could imagine the syllogistic effects of psycho-active drugs with blue light, nnEMF and sleep disorders could be horrendous as this story is an example. Also most of these guys seem to act 'out of the blue' like nobody suspects until it happens that is quite unlike 9/11 which required years of planning.
 
-### patgrif@hotmail.com — 2015-03-27T15:57:26+0200
+### [email redacted] — 2015-03-27T15:57:26+0200
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-159553>
 
 Maybe off the topic a bit but this is 'funny'/'sad'
@@ -41384,7 +41384,7 @@ Maybe off the topic a bit but this is 'funny'/'sad'
 ### nonchalant — 2015-03-27T17:30:40+0200
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-159560>
 
-> [patgrif@hotmail.com said:](/goto/post?id=159551)
+> [[email redacted] said:](/goto/post?id=159551)
 >
 > I must admit I thought of something similar when I heard the Germanwings story. They will do a huge amount of probing of his 'psychology' and analyse that to death.............but at you say not much about the effects of being up so high etc. Of course that applies in different ways to a lot of these 'mass killers' stories. Like I read a book about the Columbine school shooters and at the time there was this whole thing about how bullied they were how un-popular they were etc...............this book claims that was not really true and implied the real factor was they were often literally up all night playing video games. Even then he focuses though more on the content of the games (violence of all kinds) but I thought following Dr K well maybe it was not the content so much as being up all night with all the blue light from the monitor.
 >
@@ -41394,12 +41394,12 @@ Maybe off the topic a bit but this is 'funny'/'sad'
 
 Acting 'out of the blue'. Indeed.
 
-### patgrif@hotmail.com — 2015-03-27T17:58:27+0200
+### [email redacted] — 2015-03-27T17:58:27+0200
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-159563>
 
 'out of the blue' and 'into the black'
 
-### patgrif@hotmail.com — 2015-03-27T18:47:53+0200
+### [email redacted] — 2015-03-27T18:47:53+0200
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-159567>
 
 > [Jack Kruse said:](/goto/post?id=159530)
@@ -41438,7 +41438,7 @@ Good source of amber lightbulbs....
 ### Da-mo — 2015-03-28T21:23:12+0200
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-159679>
 
-> [patgrif@hotmail.com said:](/goto/post?id=159551)
+> [[email redacted] said:](/goto/post?id=159551)
 >
 > I must admit I thought of something similar when I heard the Germanwings story. They will do a huge amount of probing of his 'psychology' and analyse that to death.............but at you say not much about the effects of being up so high etc. Of course that applies in different ways to a lot of these 'mass killers' stories. Like I read a book about the Columbine school shooters and at the time there was this whole thing about how bullied they were how un-popular they were etc...............this book claims that was not really true and implied the real factor was they were often literally up all night playing video games. Even then he focuses though more on the content of the games (violence of all kinds) but I thought following Dr K well maybe it was not the content so much as being up all night with all the blue light from the monitor.
 >
@@ -41448,7 +41448,7 @@ Good source of amber lightbulbs....
 
 I made a similar observation when last year my son attended the funeral of an old schoolmate who had taken his own life. As I found out, the young man was studying law at university all day and playing video games all night and hardly sleeping. It seemed his suicide was not a great surprise to those that knew him.
 
-### patgrif@hotmail.com — 2015-03-28T21:49:49+0200
+### [email redacted] — 2015-03-28T21:49:49+0200
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-159680>
 
 **"Numerous [psychiatric medications](http://m.welt.de/vermischtes/article138877866/Andreas-L-hatte-schwere-psychosomatische-Erkrankung.html) were reportedly found in Lubitz's (the co-pilot) apartment."**
@@ -41474,7 +41474,7 @@ It's catching on.
 
 [http://mobile.nytimes.com/2015/05/26/health/sids-risk-living-at-high-altitude.html?\_r=0&referrer=](http://mobile.nytimes.com/2015/05/26/health/sids-risk-living-at-high-altitude.html?_r=0&referrer=)
 
-### patgrif@hotmail.com — 2015-05-25T18:33:55+0300
+### [email redacted] — 2015-05-25T18:33:55+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165303>
 
 > [Lahelada said:](/goto/post?id=165302)
@@ -41496,7 +41496,7 @@ Dr. William Torch of the University of Nevada School of Medicine did a study of 
 
 Pat ,babies in Nepal are usually from Nepal. Sherpas live to a ripe old age due to a genetic mutation I believe . Not everyone has it . Does one vaccinate babies this early now ? No idea .
 
-### patgrif@hotmail.com — 2015-05-25T18:59:16+0300
+### [email redacted] — 2015-05-25T18:59:16+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165309>
 
 > [Lahelada said:](/goto/post?id=165306)
@@ -41507,7 +41507,7 @@ Lahelada: In the US it is shocking how early they vaccinate, my understanding is
 
 This is an interview with Jon Rappoport who to me is a very good writer and clear thinker. I am aware some of this starts to sound a bit 'conspiracy theory' but if you think about it the same has been done re the dangers on nnEMF (Andrew Marino "Going Somewhere"). I don't go for 'conspiracies' but at the same time what would you call the downplaying of the dangers of nnEMF. The SAME can be and I believe has been done re vaccines.
 
-### patgrif@hotmail.com — 2015-05-25T19:12:32+0300
+### [email redacted] — 2015-05-25T19:12:32+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165311>
 
 > [Lahelada said:](/goto/post?id=165306)
@@ -41524,7 +41524,7 @@ There is no genetic advantage. It is a fallacy of modern biologic dogma. There i
 
 Life is a kind of prison for us when we believe the wrong things. We are connected to the universe, but we experience this world disconnected from the whole. It is an optical delusion of our conscious perception allowing us to separate space from time. This prison is unique. We can constrict our life or we can broaden its walls via our perspective. Our perspective is our conscious optical delusion of how we control the flow of light in our brain and emit those frequencies back to others to sense. As you shine your light you become your own social media company to others to share or reject broadening of tightening the walls of your prison. Day and night is part of the game of life. Your mind is a key in this game, and whatever ideas it unlocks can lead to unlimited potential. Use your mind to eavesdrop on your thoughts. As it listens, you learn and gain wisdom. Optimal is found subtracting bad old ideas from new ones that you bio hack and find work to re connect you to nature. Life has limits but your mind has none if you allow it freedom to operate.
 
-### patgrif@hotmail.com — 2015-05-25T20:55:12+0300
+### [email redacted] — 2015-05-25T20:55:12+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165321>
 
 > [Jack Kruse said:](/goto/post?id=165312)
@@ -41539,7 +41539,7 @@ Dr Kruse: I wanted to thank you again for pointing the way with Van Wijk ("Light
 ### Lahelada — 2015-05-25T20:59:42+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165322>
 
-> [patgrif@hotmail.com said:](/goto/post?id=165309)
+> [[email redacted] said:](/goto/post?id=165309)
 >
 > Lahelada: In the US it is shocking how early they vaccinate, my understanding is they vacc. for Hepatitus B at one day old! A 'disease' you get from shooting drugs and prostitution (they say).............at least give the child time lol. You live in Argentina right? I don't know what they do there but how early and how often they vacc. in the US is frightening and shocking to me.
 
@@ -41565,7 +41565,7 @@ Vaccinations cause many "measurements" in our DNA and are subject to all of the 
 
 I guess the 15 feet or so I was up in the tree might have raised my dopamine levels...LOL
 
-### patgrif@hotmail.com — 2015-05-25T23:37:41+0300
+### [email redacted] — 2015-05-25T23:37:41+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165341>
 
 > [Lahelada said:](/goto/post?id=165322)
@@ -41655,7 +41655,7 @@ Eastern philosophy kinda relays this same sort of thought process, whereby there
 
 ....
 
-### patgrif@hotmail.com — 2015-05-26T02:48:44+0300
+### [email redacted] — 2015-05-26T02:48:44+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165350>
 
 > [Josh said:](/goto/post?id=165324)
@@ -41673,7 +41673,7 @@ And not to mention less 'exotic' effects like neuron death from mercury or a con
 ### Josh — 2015-05-26T02:58:04+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165352>
 
-> [patgrif@hotmail.com said:](/goto/post?id=165350)
+> [[email redacted] said:](/goto/post?id=165350)
 >
 > Yes Josh - but also maybe less exotic effects like mercury causing brain cells death or alumin
 >
@@ -41738,7 +41738,7 @@ electromagnetic effects are not "exotic", they are foundational....
 
 I will never be that good at math with my sticky gates and all....
 
-### patgrif@hotmail.com — 2015-05-26T03:36:44+0300
+### [email redacted] — 2015-05-26T03:36:44+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165360>
 
 > [Josh said:](/goto/post?id=165352)
@@ -41761,7 +41761,7 @@ That maybe so Josh, but this kind of 'quantum measurement' goes on all the time 
 ### Jack Kruse — 2015-05-26T03:40:25+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165362>
 
-> [patgrif@hotmail.com said:](/goto/post?id=165360)
+> [[email redacted] said:](/goto/post?id=165360)
 >
 > That maybe so Josh, but this kind of 'quantum measurement' goes on all the time with no great consequence. I don't think it is correct to equate something as 'benign' as that with wha tI see as a toxic assault on an infant's very undeveloped immune system and more than just the immune system. I am sure that also might occasion 'quantum measurement' or maybe a better word would be 'quantum chaos'
 
@@ -41772,7 +41772,7 @@ Pat what if I told you this is how all AI occurs?
 
 All autoimmune diseases are fundamentally disorders of ubiquitin marking. Why? Adaptation occurs in temporal sequences. Time is a function of light and mass interaction allowing us to conceive of evolution as carrying out adaptive walks toward peaks that represent how well proteins perform specific catalytic or ligand binding tasks. Evolution of proteins is what the immune system specializes in. What is time or temporal sequences a synonym for? = CIRCADIAN BIOLOGY
 
-### patgrif@hotmail.com — 2015-05-26T03:59:17+0300
+### [email redacted] — 2015-05-26T03:59:17+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165366>
 
 > [Jack Kruse said:](/goto/post?id=165362)
@@ -42534,7 +42534,7 @@ All over the Earth there are natural vortex - areas with weird gravitational pul
 
 How would there areas affect us?
 
-### patgrif@hotmail.com — 2015-02-24T17:22:09+0200
+### [email redacted] — 2015-02-24T17:22:09+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156481>
 
 I must admit there is a lot about this whole SCN, gravity, effect of being tall, speed/bending of light etc etc.............that I'm not 'getting' but a thought then occurs. When we are laying down things are different, all that stuff is you might say 'out the window' for the moment............and if I think about it it is I suppose..............like it's hard to imagine sleeping while NOT laying down, that would not really be sleeping, or even when we lay down say on the grass outside or inside on a sofa or bed the 'quality' is kind of different. Like probably not the best for 'mental' work. So I accept there is a lot to this even if I can't really 'understand' it.
@@ -42551,7 +42551,7 @@ Pat is is simple......SCN needs DHA to run faster than the clocks in your liver 
 
 This is why you retina has higher DHA levels than your brain or tissues by design, the SCN has to run faster than your liver or pancreas clock.
 
-### patgrif@hotmail.com — 2015-02-24T21:35:42+0200
+### [email redacted] — 2015-02-24T21:35:42+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156493>
 
 Thanks Dr Kruse. I will and do take your word for it. It is interesting to me also the very things I have 'difficulty' in understanding are it seems the very areas I have a 'problem' with. Like my mind is throwing up 'objections' so I don't have to (be able to ) get well
@@ -42671,7 +42671,7 @@ My latest concern with coffee is the effect it has on adrenalin response.
 ### Da-mo — 2015-02-26T00:24:47+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156624>
 
-> [patgrif@hotmail.com said:](/goto/post?id=156493)
+> [[email redacted] said:](/goto/post?id=156493)
 >
 > Thanks Dr Kruse. I will and do take your word for it. It is interesting to me also the very things I have 'difficulty' in understanding are it seems the very areas I have a 'problem' with. Like my mind is throwing up 'objections' so I don't have to (be able to ) get well
 >
@@ -42736,7 +42736,7 @@ yep - no electricity, no wifi, no cell phone towers, high fat - low carb diet, n
 
 .
 
-### patgrif@hotmail.com — 2015-02-26T06:44:16+0200
+### [email redacted] — 2015-02-26T06:44:16+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156671>
 
 > [Jack Kruse said:](/goto/post?id=156495)
@@ -42752,7 +42752,7 @@ I know this has implication for T2D (my problem) so is the organ clock of the pa
 ### yewwei.tan — 2015-02-26T08:29:21+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156679>
 
-> [patgrif@hotmail.com said:](/goto/post?id=156671)
+> [[email redacted] said:](/goto/post?id=156671)
 >
 > Yes indeed...........I just read that again and I remembered that a bit. BUT I will admit I am quite mystified by this thing of 'organ clocks' running too fast etc. I mean I just read an article in Scientific American that explained 'clock genes' quite well it made sense that say a bacterium is 'programmed' by genes to be in a certain state during daytime and another state in nighttime to take advantage from an energy standpoint to the different environment(s).
 >
@@ -42903,7 +42903,7 @@ Does the gyromagnetic ratio of N matter?
 
 to stick an O2 on iron?
 
-### patgrif@hotmail.com — 2015-02-26T21:34:09+0200
+### [email redacted] — 2015-02-26T21:34:09+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156741>
 
 > [yewwei.tan said:](/goto/post?id=156679)
@@ -42972,7 +42972,7 @@ So now I am getting it a bit the SCN is primary it is BEFORE the pancreas 'clock
 
 Thanks to every one for bearing with me. Maybe my 'job' here is to ask the 'stupid question'. BTW this morning I was thinking in terms of 'psychology' and say an infant with it's mother. Food is VERY important but it is not the ONLY thing..............there are things 'MORE' important for one thing in the womb there was no 'food' in the accepted sense of that word, after being born food becomes an issue of course...........but there are other things the sense of night and day, heat and cold, the mother's presence (or absence) the light in the environment and the light in the mother's eyes .................so many things. And I know it's just a 'conceit' but I thought this thing of making food the most important thing is like a limitation in thinking. It's like saying none of these things are so important only food is important. The 'paleo leaders' are in a way repeating that kind of history. Maybe a world so poor that the only thing is food..................anyway I am not explaining well but it made sense at the time!
 
-### patgrif@hotmail.com — 2015-02-26T21:42:32+0200
+### [email redacted] — 2015-02-26T21:42:32+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156743>
 
 Next question HOW do I make my SCN run 'faster' actually ahead or at least I prefer that word................I'm thinking have plenty DHA in the eyes to pick up the sunshine, actually go in the sunshine, do everything to 'sense/feel' the environment, heat, cold all the rest of it. See one reason I was confused also is I'm thinking the SCN CANNOT run faster/ahead of the pancreas say because it is getting it's 'information' FROM the pancreas, how could it possibly be ahead of it. I pictured the SCN ONLY getting information from the 'inside' all the organs like the liver, pancreas etc. What I was forgetting was the 'outside' so if the SCN is receiving all the outside information properly and efficiently it then relays that information to the pancreas etc it is then 'ahead'. I pictured it getting ONLY information from the 'inside'....................another limitation in thinking that I have just realized. This is one of the things I love about this place, I feel I am literally clearing up my 'thinking' and even 'feeling' too........................
@@ -42992,7 +42992,7 @@ And that rule I should call the Patrick rule..........because I been telling tha
 
 Now I think you may see why...........
 
-### patgrif@hotmail.com — 2015-02-27T03:10:01+0200
+### [email redacted] — 2015-02-27T03:10:01+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156766>
 
 > [Jack Kruse said:](/goto/post?id=156750)
@@ -43017,7 +43017,7 @@ And I STILL don't get what the 'rule' is......................OMG sometimes I fe
 It is in the blog!!!!!
 New Rule: No human being itself should be considered impaired innately, instead there are environmental short comings that cause the impairment. Thus, it is incumbent on the on the clinician to recommend treatment of the environment their patient is in. People react to an inferior environment, way before their genome is altered.
 
-### patgrif@hotmail.com — 2015-02-27T04:24:23+0200
+### [email redacted] — 2015-02-27T04:24:23+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156772>
 
 > [Jack Kruse said:](/goto/post?id=156767)
@@ -43048,7 +43048,7 @@ Should the gut clock (thinking "second brain") also run faster than the organ cl
 ### nonchalant — 2015-02-28T18:51:35+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156889>
 
-> [patgrif@hotmail.com said:](/goto/post?id=156772)
+> [[email redacted] said:](/goto/post?id=156772)
 >
 > OK OK..............I see what you are saying now that it is not 'me' that is impaired it's my environment (LA). Well it would be nice to blame it all on LA and it does seem to be a factor but I would say I have had some deep rooted problems long before LA but I would agree LA did not help also. And NOT only in the nnEMF arena other arenas too.....................but it would take too long to go into now......................
 

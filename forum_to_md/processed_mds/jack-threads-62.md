@@ -5469,7 +5469,7 @@ SEPTEMBER 10, 2025: THE EXECUTION While Charlie was on stage, the ground team wa
 
 The Escape: Two Egyptian Air Force jets were on the runway nearby. One of them (SU-BND) powered on its transponder exactly 17 minutes after the shot was fired. THE CONCLUSION: Charlie Kirk wasn't killed for his politics. He was killed because his audit was about to pierce the Delaware shell wall. He was about to expose who the Beneficial Owners of those shell companies really were.
 
-Who is We? Email: [projectconstitutionvideos@gmail.com](mailto:projectconstitutionvideos@gmail.com)
+Who is We? Email: [[email redacted]](mailto:[email redacted])
 
 ### Jack Kruse — 2026-02-15T19:45:05+0200
 **Source:** <https://forum.jackkruse.com/threads/deep-state-coups.29805/post-366937>
@@ -24693,7 +24693,7 @@ Dr. jack Kruse, I paid for the gold membership but I still don't have access to 
 >
 > Dr. jack Kruse, I paid for the gold membership but I still don't have access to the content, only to this forum. Kindly help.
 
-Contact Christy in the office: [info@kruseatdestin.com](mailto:info@kruseatdestin.com)
+Contact Christy in the office: [[email redacted]](mailto:[email redacted])
 
 ### Villiam — 2025-03-03T17:55:50+0200
 **Source:** <https://forum.jackkruse.com/threads/iodine-and-cancer.30212/post-347800>
@@ -27126,7 +27126,7 @@ There are videos where he dismantles particular science publications in depth. B
 
 ### [Professor Bart Kay - Main Channel](https://www.youtube.com/@bart-kay)
 
-Consults, merch, etc here: https://bit.ly/bart-kay Email: bart.kay.nz@gmail.com Alt YT channel @Prof-Kays-Carnivore-Cult Social Media Discord : https://discord.gg/h8NgdDGvYK Bart is a professor in cardiovascular and respiratory physiology, exercise physiology, nutrition, research methods, and...
+Consults, merch, etc here: https://bit.ly/bart-kay Email: [email redacted] Alt YT channel @Prof-Kays-Carnivore-Cult Social Media Discord : https://discord.gg/h8NgdDGvYK Bart is a professor in cardiovascular and respiratory physiology, exercise physiology, nutrition, research methods, and...
 
  www.youtube.com
 
@@ -27175,7 +27175,7 @@ Also whatever is the best information or method going on we should all pick up f
 >
 > ### [Professor Bart Kay - Main Channel](https://www.youtube.com/@bart-kay)
 >
-> Consults, merch, etc here: https://bit.ly/bart-kay Email: bart.kay.nz@gmail.com Alt YT channel @Prof-Kays-Carnivore-Cult Social Media Discord : https://discord.gg/h8NgdDGvYK Bart is a professor in cardiovascular and respiratory physiology, exercise physiology, nutrition, research methods, and...
+> Consults, merch, etc here: https://bit.ly/bart-kay Email: [email redacted] Alt YT channel @Prof-Kays-Carnivore-Cult Social Media Discord : https://discord.gg/h8NgdDGvYK Bart is a professor in cardiovascular and respiratory physiology, exercise physiology, nutrition, research methods, and...
 >
 >  www.youtube.com
 >

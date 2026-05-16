@@ -396,7 +396,7 @@ Corey Nelson, that was what I was thinking. ADH needs to adjust. I don't expect 
 >
 > I have been trying to order for a couple weeks I get no reply back from online sources, thank you
 
-Loretta, I order my water direct from Qlarivia and deal with Loana, who is great. I just ordered more this morning. Email her here: [office@qlarivia.com](mailto:office@qlarivia.com)
+Loretta, I order my water direct from Qlarivia and deal with Loana, who is great. I just ordered more this morning. Email her here: [[email redacted]](mailto:[email redacted])
 
 ### Sun Disciple — 2019-03-27T01:45:34+0200
 **Source:** <https://forum.jackkruse.com/threads/is-drinking-large-qualities-of-water-still-recommended-in-light-of-deuterium-considerations.23227/post-266539>
@@ -7436,7 +7436,7 @@ VieLights: 655nm & 810nm
 
 Sperti-D: The UV Vitamin-D Lamp. Comes complete in mint condition with every bulb and part intact.
 
-What You Need To Do Next If You Are Interested: Send me your offer by e-mail at [adamf@adamfiddler.net](mailto:adamf@adamfiddler.net)
+What You Need To Do Next If You Are Interested: Send me your offer by e-mail at [[email redacted]](mailto:[email redacted])
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -8047,13 +8047,13 @@ Perhaps nobody knows the answer to this question but: if you could somehow separ
 Is there a reason I send messages from the Forum in the link at the bottom left and get no response? I send emails to support@ and get this:
 
 **Message blocked**
-Your message to **[support@jackkruse.com](mailto:support@jackkruse.com)** has been blocked. See technical details below for more information.
+Your message to **[[email redacted]](mailto:[email redacted])** has been blocked. See technical details below for more information.
 
 and this:
 
 h8sor6750278wmc.5 - gsmtp
 
-Final-Recipient: rfc822; [support@jackkruse.com](mailto:support@jackkruse.com)
+Final-Recipient: rfc822; [[email redacted]](mailto:[email redacted])
 Action: failed
 Status: 5.0.0
 Diagnostic-Code: smtp; Unauthenticated email from [aol.com](http://aol.com/) is not accepted due to domain's DMARC policy. Please contact the administrator of [aol.com](http://aol.com/) domain if this was a legitimate mail. Please visit [https://support.google.com/mail/answer/2451690](https://support.google.com/mail/answer/2451690) to learn about the DMARC initiative. h8sor6750278wmc.5 - gsmtp
@@ -8067,7 +8067,7 @@ You have reached a page that is not accessible to you. If you need to upgrade yo
 
 If you are looking to purchase a bootcamp, click on the bootcamp link below:
 
-If you are seeing this page and feel it’s an error, please contact us at [support@jackkruse.com](mailto:support@jackkruse.com).
+If you are seeing this page and feel it’s an error, please contact us at [[email redacted]](mailto:[email redacted]).
 
 Auto pay to my credit card works fine. Account in good standing.
 
@@ -19256,7 +19256,7 @@ Delivery charge (to Latvia, by air) for 36l - 260 Euro and 72l - 320 Euro.
 Langvey 50ppm, the price is 200 euro/36l.
 Moreover, this does not include costs at the airport of Riga, local costs and delivery to the recipient.
 Shall I investigate further or is this not interesting anymore?
-In order to have a tailored quotes, I would suggest you get a quote to your place by contacting Yuliya: <[y.solomovskaya@langvey.ru](mailto:y.solomovskaya@langvey.ru)\>
+In order to have a tailored quotes, I would suggest you get a quote to your place by contacting Yuliya: <[[email redacted]](mailto:[email redacted])\>
 
 ### JanSz — 2019-05-17T15:14:29+0300
 **Source:** <https://forum.jackkruse.com/threads/ddw-25.23669/post-270679>
@@ -19269,7 +19269,7 @@ In order to have a tailored quotes, I would suggest you get a quote to your plac
 > Langvey 50ppm, the price is 200 euro/36l.
 > Moreover, this does not include costs at the airport of Riga, local costs and delivery to the recipient.
 > Shall I investigate further or is this not interesting anymore?
-> In order to have a tailored quotes, I would suggest you get a quote to your place by contacting Yuliya: <[y.solomovskaya@langvey.ru](mailto:y.solomovskaya@langvey.ru)\>
+> In order to have a tailored quotes, I would suggest you get a quote to your place by contacting Yuliya: <[[email redacted]](mailto:[email redacted])\>
 
 To compare costs between different waters all costs must be included.
 When you have all costs
@@ -23163,7 +23163,7 @@ USA
 
 Ph: 888.327.9554 (toll free)
 856.825.8338 (outside the US)
-Email: [help@bodybio.com](mailto:help@bodybio.com)
+Email: [[email redacted]](mailto:[email redacted])
 Fx: 856.825.2143
 
 ### Elizabeth G — 2019-05-30T16:16:51+0300
@@ -36045,7 +36045,7 @@ Hi
 
 Are any of these lamps still available. Can they be ordered directly from the research facility in China?
 
-[pfieber@gotsky.com](mailto:pfieber@gotsky.com)
+[[email redacted]](mailto:[email redacted])
 
 ### Mark959 — 2021-03-04T12:23:54+0200
 **Source:** <https://forum.jackkruse.com/threads/candlelight-oled.24298/post-296009>
@@ -40456,7 +40456,7 @@ Regards
 
 **Terry Stotyn
 Owner/Managing Partner**
-[Terry@poweremt.com](mailto:Terry@poweremt.com)
+[[email redacted]](mailto:[email redacted])
 [www.poweremt.com](http://www.poweremt.com/)
 
 **_“Delivering Safe, Healthy Electricity”_** "
@@ -42999,7 +42999,7 @@ And black lungs.
 
 Cosine wave
 [https://whatis.techtarget.com/definition/cosine-wave](https://whatis.techtarget.com/definition/cosine-wave)
-[](mailto:mrouse@techtarget.com)
+[](mailto:[email redacted])
 "A cosine wave is a [signal](https://searchnetworking.techtarget.com/definition/signal) [waveform](https://whatis.techtarget.com/definition/waveform) with a shape identical to that of a [sine wave](https://whatis.techtarget.com/definition/waveform) , except each point on the cosine wave occurs exactly 1/4 cycle earlier than the corresponding point on the sine wave. A cosine wave and its corresponding sine wave have the same frequency, but the cosine wave leads the sine wave by 90 degrees of [phase](https://whatis.techtarget.com/definition/phase) .
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
@@ -43013,7 +43013,7 @@ In most practical situations, a lone cosine wave is the same as a lone sine wave
 >
 > Cosine wave
 > [https://whatis.techtarget.com/definition/cosine-wave](https://whatis.techtarget.com/definition/cosine-wave)
-> [](mailto:mrouse@techtarget.com)
+> [](mailto:[email redacted])
 > "A cosine wave is a [signal](https://searchnetworking.techtarget.com/definition/signal) [waveform](https://whatis.techtarget.com/definition/waveform) with a shape identical to that of a [sine wave](https://whatis.techtarget.com/definition/waveform) , except each point on the cosine wave occurs exactly 1/4 cycle earlier than the corresponding point on the sine wave. A cosine wave and its corresponding sine wave have the same frequency, but the cosine wave leads the sine wave by 90 degrees of [phase](https://whatis.techtarget.com/definition/phase) .
 >
 >
@@ -48865,7 +48865,7 @@ I'm in Sydney and I just bought a new Sperti - the Fiji sun lamp, and I no longe
 ### Tara.P — 2020-01-30T07:24:25+0200
 **Source:** <https://forum.jackkruse.com/threads/gold-or-titanium-membership.24634/post-285361>
 
-Hi! I am ready to get a gold membership but have a question first. I already emailed [info@jackkruse.com](mailto:info@jackkruse.com) and the "contact us" through the forum over a week ago but haven't received a response yet.
+Hi! I am ready to get a gold membership but have a question first. I already emailed [[email redacted]](mailto:[email redacted]) and the "contact us" through the forum over a week ago but haven't received a response yet.
 I see Titanium membership is the same as gold except there is "family access". Can anyone tell me who that would include? My mom lives with us and she also wants a membership here. Would she be included as a family member, or would it only be my husband and kids?
 Also, is being a patient at the farm still an option?
 Eager to get started! Thank you!
@@ -48897,7 +48897,7 @@ Yes, I thought about that - it being the weekend and all. I'll wait another day 
 ### Support — 2020-02-05T17:55:45+0200
 **Source:** <https://forum.jackkruse.com/threads/gold-or-titanium-membership.24634/post-285663>
 
-[@Tara.P](https://forum.jackkruse.com/members/22363/) you will receive an email from [info@jackkruse.com](mailto:info@jackkruse.com) in the next hour to help with your account.
+[@Tara.P](https://forum.jackkruse.com/members/22363/) you will receive an email from [[email redacted]](mailto:[email redacted]) in the next hour to help with your account.
 
 Team Kruse
 
@@ -49964,7 +49964,7 @@ It is time for us to get a new mattress, but a purely foam mattress is not our p
 ### ElectricUniverse — 2020-02-10T00:26:54+0200
 **Source:** <https://forum.jackkruse.com/threads/mattress-in-shielded-bedroom.24666/post-285805>
 
-> [gene@kalmens.org said:](/goto/post?id=285803)
+> [[email redacted] said:](/goto/post?id=285803)
 >
 > Last month, I had Brian Hoier's company Shielded Healing make EMF assessment of my house. I had already listened to a very detailed podcast by Ben Greenfeld about such assessment of his house, and it went exactly as I expected.
 >
@@ -49988,7 +49988,7 @@ Thank you, [@ElectricUniverse](https://forum.jackkruse.com/members/21203/)! We w
 ### ElectricUniverse — 2020-02-12T18:06:06+0200
 **Source:** <https://forum.jackkruse.com/threads/mattress-in-shielded-bedroom.24666/post-285944>
 
-> [gene@kalmens.org said:](/goto/post?id=285863)
+> [[email redacted] said:](/goto/post?id=285863)
 >
 > Thank you, [@ElectricUniverse](https://forum.jackkruse.com/members/21203/)! We will continue to look for a metal-free mattress.
 

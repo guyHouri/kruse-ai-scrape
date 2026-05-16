@@ -16280,7 +16280,7 @@ If it were my eyes, I'd try high DHA levels, good hydration, and good sleep (aut
 
 Could the resources mentioned in this thread help with Pellucid Marginal Degeneration?
 
-### thomasdoud@gmail.com — 2014-09-23T03:45:44+0300
+### [email redacted] — 2014-09-23T03:45:44+0300
 **Source:** <https://forum.jackkruse.com/threads/biohacking-eyesight.11430/post-141663>
 
 I am a developmental optometrist who treats patients with in office vision therapy. This is much more intensive than the Bates model and would glad to give you some input. For nearsightedness (myopia) you can reduce your prescription some if you are willing to put in a lot of work. Much of what you gain by doing this type of work is not a reduction in refractive error (eyeglass power) but and improved ability to interpret blur. All myopes have some extra focusing they are not relaxing and are in a sense wearing too strong of a prescription. This is only about 10% of most prescriptions. It goes away typically in late 40's or early 50's. For someone who is 60 you will not change your prescription but might get better at blur interpretation. My personal opinion and that of the patients I have personally worked with who tried these methods is that they are not worth the time invested. If you have a child with a new myopia diagnosis find a doc that does Ortho-K and stop it in its tracks. As far as presbyopia that is going to happen with all of us. It occurs because the lens gets too big and the zonular system no longer works. We used to think it was hardening of lens or weakness of muscle but neither of those are the major issue. All near point focusing is stressful to humans. Reducing that stress with lenses is very helpful. Quit reading or get the proper lenses if you want to be optimal. If you want to find a functional optometrist search at oepf.org or covd.org. As far as improving visual function there are nutritional issues and following all Dr. K's advice is critical but one proven method is to increase the lutein and zeaxanthine in your macula. Find someone who does MPOD (macular pigment optical density) testing to see if you are low and need fortified supplementation.
@@ -24815,7 +24815,7 @@ If you preview the book and read the first 10 pages, he explains voltage, PH in 
 
 zinc is really great for the eyes BTW... my eyes are no longer killing me
 
-### patgrif@hotmail.com — 2014-08-15T11:10:02+0300
+### [email redacted] — 2014-08-15T11:10:02+0300
 **Source:** <https://forum.jackkruse.com/threads/healing-is-voltage-healing-eye-diseases-jerry-tennant-md.11508/post-137893>
 
 Sorry I am almost picking this thread at random.............but I thought it interesting his wife is now saying Robin Williams was beginning to develop Parkinson's Disease he also was a vegan. Lack of fats for a healthy brain?
@@ -24842,7 +24842,7 @@ his heart and I'm sure he didn't leave the Cardiologist's office without a scrip
 ### Jack Kruse — 2014-08-15T22:43:57+0300
 **Source:** <https://forum.jackkruse.com/threads/healing-is-voltage-healing-eye-diseases-jerry-tennant-md.11508/post-137962>
 
-> [patgrif@hotmail.com said:](/goto/post?id=137893)
+> [[email redacted] said:](/goto/post?id=137893)
 >
 > Sorry I am almost picking this thread at random.............but I thought it interesting his wife is now saying Robin Williams was beginning to develop Parkinson's Disease he also was a vegan. Lack of fats for a healthy brain?
 
@@ -28668,7 +28668,7 @@ she is like a textbook for the diseases she has from her hysterectomy and choles
 I don't want to be "right" tho like that because my husband has said that he thinks I just want people to know im right and when they get ill I can say "told you so, if you had done what I told you then you would be ok"
 my mother in law cant handle me as im far too opinionated for her and as she always thinks she is right then we have clashed so much over the years-----her other daughter in laws just do everything she says and she thinks they are wonderful-----yes they are all wonderful and getting sicker with their hashimotos, obesity, asthma, depression, raging pmt, irritable bowel, gastric issues----omg that is just my in laws------but its me and paul who don't live our lives properly---there must be something wrong with us because we would rather go up the forest all day instead of spending money on the latest gadget which will make us the happiest people on the planet
 sometimes you just need a good old rant about other people-----It just tells me I have a long long way to go because I still get irritated too easily by others.
-[fitness@home...thats](mailto:fitness@home...thats) great he is building you the ct tank---men do have their uses after all..lol
+[[email redacted]](mailto:[email redacted]) great he is building you the ct tank---men do have their uses after all..lol
 inger--I know some people are interested and I wish I could put myself in their position and see how I would react to this type of info
 anyway I am looking for some new recipes especially for fish as im a bit bored with my meals at the moment. I bought some red snapper and am in the process of finding something different to do with it, and I got some lovely organic ghee along with other goodies from the health shop.
 
@@ -44156,7 +44156,7 @@ Margao, Goa India 403601
 
 Phone: +91-832-3235662
 Fax: +91-832-2732958
-Email: [info@rafaelmedicare.com](mailto:info@rafaelmedicare.com)
+Email: [[email redacted]](mailto:[email redacted])
 Website: [www.rafaelmedicare.com](http://www.rafaelmedicare.com/)
 
 ### Jack Kruse — 2014-10-02T21:43:38+0300

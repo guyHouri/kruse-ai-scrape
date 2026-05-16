@@ -5086,7 +5086,7 @@ Instead I should have searched the blog first to find:
 
 [http://forum.jackkruse.com/threads/...tigue-me-and-my-twinbrother.28522/post-340005](http://forum.jackkruse.com/threads/optimal-journal-chronic-fatigue-me-and-my-twinbrother.28522/post-340005)
 
-On Fri, Sep 27, 2024 at 8:39 AM, Brian Wilford <brian@brianwilford.com> wrote:
+On Fri, Sep 27, 2024 at 8:39 AM, Brian Wilford <[email redacted]> wrote:
 
 > Increasing stimulation of the vagus nerve can have various health benefits, including improved mood, reduced stress, and enhanced digestion. Here are several methods to stimulate the vagus nerve:
 >
@@ -5513,7 +5513,7 @@ I received a welcome email with login credentials but when I try to log in the m
 >
 > I received a welcome email with login credentials but when I try to log in the member site says email not recognized. It’s been two days now since signing up and no response.
 
-We have not received any tickets from you. Please email [support@jackkruse.com](mailto:support@jackkruse.com) with a cc to [info@kruseatdestin.com](mailto:info@kruseatdestin.com).
+We have not received any tickets from you. Please email [[email redacted]](mailto:[email redacted]) with a cc to [[email redacted]](mailto:[email redacted]).
 
 ### Jack Kruse — 2024-10-02T01:06:33+0300
 **Source:** <https://forum.jackkruse.com/threads/can%E2%80%99t-access-the-member-site.29514/post-340264>
@@ -21960,7 +21960,7 @@ When genuine problems occur, we almost always refund or replace glasses without 
 
 Also worth mentioning: most of our profits fund an anti-suicide nonprofit focused on helping kids struggling with anxiety and depression. This company exists for reasons bigger than selling eyewear or maximizing profit.
 
-If you had a real experience, please contact me [DH@LUCIAEYE.COM](mailto:DH@LUCIAEYE.COM) or share your order info so we can investigate and make it right.
+If you had a real experience, please contact me [[email redacted]](mailto:[email redacted]) or share your order info so we can investigate and make it right.
 
 If not, we’d encourage criticism to come from firsthand experience rather than forum mythology.
 
@@ -22005,7 +22005,7 @@ Dan
 >
 > Also worth mentioning: most of our profits fund an anti-suicide nonprofit focused on helping kids struggling with anxiety and depression. This company exists for reasons bigger than selling eyewear or maximizing profit.
 >
-> If you had a real experience, please contact me [DH@LUCIAEYE.COM](mailto:DH@LUCIAEYE.COM) or share your order info so we can investigate and make it right.
+> If you had a real experience, please contact me [[email redacted]](mailto:[email redacted]) or share your order info so we can investigate and make it right.
 >
 > If not, we’d encourage criticism to come from firsthand experience rather than forum mythology.
 >
@@ -32861,7 +32861,7 @@ SEPTEMBER 10, 2025: THE EXECUTION While Charlie was on stage, the ground team wa
 
 The Escape: Two Egyptian Air Force jets were on the runway nearby. One of them (SU-BND) powered on its transponder exactly 17 minutes after the shot was fired. THE CONCLUSION: Charlie Kirk wasn't killed for his politics. He was killed because his audit was about to pierce the Delaware shell wall. He was about to expose who the Beneficial Owners of those shell companies really were.
 
-Who is We? Email: [projectconstitutionvideos@gmail.com](mailto:projectconstitutionvideos@gmail.com)
+Who is We? Email: [[email redacted]](mailto:[email redacted])
 
 ### Jack Kruse — 2026-02-15T19:45:05+0200
 **Source:** <https://forum.jackkruse.com/threads/deep-state-coups.29805/post-366937>
@@ -39030,7 +39030,7 @@ But basically, what Jack said. All RF is bad.
 >
 > All RF is bad
 
-I can't log into my account for optimal klub with the email [dr.george@neurowellnessinstitute.com](mailto:dr.george@neurowellnessinstitute.com) I have paid for the last 2 months plus purchase Kruse for dummies and the synopsis of Danny Jones and have no access to my platinum membership. Not sure what else to do...I keep getting the error message every time I reply to you and have send messages for the last 10 days through email as well. Can you help...here is the error message
+I can't log into my account for optimal klub with the email [[email redacted]](mailto:[email redacted]) I have paid for the last 2 months plus purchase Kruse for dummies and the synopsis of Danny Jones and have no access to my platinum membership. Not sure what else to do...I keep getting the error message every time I reply to you and have send messages for the last 10 days through email as well. Can you help...here is the error message
 "Your content can not be submitted. This is likely because your content is spam-like or contains inappropriate elements. Please change your content or try again later. If you still have problems, please contact an administrator."
 
 ### rtd — 2024-12-03T20:19:39+0200

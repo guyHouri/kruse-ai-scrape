@@ -251,14 +251,14 @@ It’s not forever but it is for now! As I delve deeper I may consult with Antho
 >
 > It’s not forever but it is for now! As I delve deeper I may consult with Anthony—one thing at a time. Sun first.
 
-Where exactly are you? I will be in the Bay area all next week April 22 - 27. [Anthony@EMFSafeInc.com](mailto:Anthony@EMFSafeInc.com)
+Where exactly are you? I will be in the Bay area all next week April 22 - 27. [[email redacted]](mailto:[email redacted])
 
 ### KellyMonroe — 2024-04-14T20:37:47+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-the-36%C2%B0-n-latitude.28786/post-333585>
 
 > [Anthony Smith said:](/goto/post?id=333583)
 >
-> Where exactly are you? I will be in the Bay area all next week April 22 - 27. [Anthony@EMFSafeInc.com](mailto:Anthony@EMFSafeInc.com)
+> Where exactly are you? I will be in the Bay area all next week April 22 - 27. [[email redacted]](mailto:[email redacted])
 
 We’re in Hollister—about 80 miles south of San Francisco. Are you familiar with the location of Gilroy?
 
@@ -6064,7 +6064,7 @@ Hi everyone,
 
 For those looking to come to El Salvador who are needing a place to stay, I have a mito-friendly housing arrangement available for rent with close proximity to the beach. Please feel free to contact me for more details:
 whatsapp: +16047911001
-email: [jacobmaud@icloud.com](mailto:jacobmaud@icloud.com).
+email: [[email redacted]](mailto:[email redacted]).
 
 Sending love and light,
 
@@ -6079,7 +6079,7 @@ Jacob
 >
 > For those looking to come to El Salvador who are needing a place to stay, I have a mito-friendly housing arrangement available for rent with close proximity to the beach. Please feel free to contact me for more details:
 > whatsapp: +16047911001
-> email: [jacobmaud@icloud.com](mailto:jacobmaud@icloud.com).
+> email: [[email redacted]](mailto:[email redacted]).
 >
 > Sending love and light,
 >
@@ -6096,7 +6096,7 @@ Jacob, I’ll message you on what’s app soon. Thanks!
 >
 > For those looking to come to El Salvador who are needing a place to stay, I have a mito-friendly housing arrangement available for rent with close proximity to the beach. Please feel free to contact me for more details:
 > whatsapp: +16047911001
-> email: [jacobmaud@icloud.com](mailto:jacobmaud@icloud.com).
+> email: [[email redacted]](mailto:[email redacted]).
 >
 > Sending love and light,
 >
@@ -8459,7 +8459,7 @@ Well worth getting out of bed for!
 
 I've referred a mom with a 16 year old paralyzed daughter (from a bike accident) to reach out to Jack for a consult.
 
-What is the best way for her to contact Jack or the admin team for a consult? Is it to email [info@kruseatdestin.com](mailto:info@kruseatdestin.com) ?
+What is the best way for her to contact Jack or the admin team for a consult? Is it to email [[email redacted]](mailto:[email redacted]) ?
 
 Thx
 
@@ -8470,7 +8470,7 @@ Thx
 >
 > I've referred a mom with a 16 year old paralyzed daughter (from a bike accident) to reach out to Jack for a consult.
 >
-> What is the best way for her to contact Jack or the admin team for a consult? Is it to email [info@kruseatdestin.com](mailto:info@kruseatdestin.com) ?
+> What is the best way for her to contact Jack or the admin team for a consult? Is it to email [[email redacted]](mailto:[email redacted]) ?
 >
 > Thx
 
@@ -11097,7 +11097,7 @@ Hi,
 
 I am asking this question here as I've cancelled my gold membership on 9/22/25 but was billed in October on 10/9/22.
 I emailed RE cancelling membership x2, once 10/10/25, and again on 11/4/25, both with no response.
-Today, 11/8/25, I emailed [support@jackkruse.com](mailto:support@jackkruse.com) and [support@jackkruse.com](mailto:support@jackkruse.com) to inquire.
+Today, 11/8/25, I emailed [[email redacted]](mailto:[email redacted]) and [[email redacted]](mailto:[email redacted]) to inquire.
 
 I did get an email at some point about support tickets being marked as Spam and there were issues with emails getting through.
 
@@ -12172,7 +12172,7 @@ On another note, met with Tom (The mito-realtor) today and he is AMAZING. Vibed 
 
 I asked clusk at the last market and he said they do have non prescription Lucia eyes for sale in the city . Please email
 
-[M@palestrasociety.com](mailto:M@palestrasociety.com)
+[[email redacted]](mailto:[email redacted])
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -12863,7 +12863,7 @@ I am a new gold member. Looking forward to the info here. Just starting to navig
 ### Anthony Smith — 2026-05-11T23:03:38+0300
 **Source:** <https://forum.jackkruse.com/threads/help.32742/post-373769>
 
-Email the office - [info@kruseatdestin.com](mailto:info@kruseatdestin.com)
+Email the office - [[email redacted]](mailto:[email redacted])
 
 
 ══════════════════════════════════════════════════════════════════════

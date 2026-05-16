@@ -14365,7 +14365,7 @@ but someone is there
 
 I think youre Dad should not go in debt for your ex.......bad idea.
 
-### patgrif@hotmail.com — 2015-08-20T00:00:23+0300
+### [email redacted] — 2015-08-20T00:00:23+0300
 **Source:** <https://forum.jackkruse.com/threads/ingers-journal.6472/post-175167>
 
 > [Inger said:](/goto/post?id=175154)
@@ -14415,7 +14415,7 @@ I like to touch.. and be close to people... I like that a lot! I touch people al
 
 I swear I will touch you a lot when we meet one day. Sorry.
 
-### patgrif@hotmail.com — 2015-08-20T21:15:04+0300
+### [email redacted] — 2015-08-20T21:15:04+0300
 **Source:** <https://forum.jackkruse.com/threads/ingers-journal.6472/post-175230>
 
 > [Inger said:](/goto/post?id=175193)
@@ -14446,7 +14446,7 @@ So the ex and his girlfriend with a daughter are history now? I think the pair o
 ### Inger — 2015-08-24T18:56:16+0300
 **Source:** <https://forum.jackkruse.com/threads/ingers-journal.6472/post-175542>
 
-> [patgrif@hotmail.com said:](/goto/post?id=175230)
+> [[email redacted] said:](/goto/post?id=175230)
 >
 > That's great Inger and I probably should not even 'intrude'. As you say each relationship is unique nobody knows what really happens from the 'outside' and even from the 'inside' too a lot of the time. But you follow your instincts I am sure they are good and actually what you say makes all the sense in the world
 
@@ -27291,7 +27291,7 @@ This forum is an amazing wealth of information every single day - not just JK bu
 
 and - yep- I keep running into people who don't quite recognise me ......
 
-### opelecky@yahoo.com — 2013-03-29T04:12:46+0200
+### [email redacted] — 2013-03-29T04:12:46+0200
 **Source:** <https://forum.jackkruse.com/threads/emf-boot-camp.6503/post-82119>
 
 I managed to delete the email with the boot camp info. Is there any way that you guys can post the link to where I go to purchase it? Thanks in advance, Olga
@@ -27323,7 +27323,7 @@ OMG I hope it's for the whole series!
 
 When I clicked the link in the email, the top line with price says **"EMF Webinar Series**" .... thus one price should cover all 5 parts.
 
-### opelecky@yahoo.com — 2013-03-29T23:46:32+0200
+### [email redacted] — 2013-03-29T23:46:32+0200
 **Source:** <https://forum.jackkruse.com/threads/emf-boot-camp.6508/post-82206>
 
 Ok. I'll just wait then. Thanks. Olga
@@ -27560,7 +27560,7 @@ I only feel it in my spine when I am laying down.
 
 .. Shocking!
 
-### opelecky@yahoo.com — 2013-03-29T02:29:56+0200
+### [email redacted] — 2013-03-29T02:29:56+0200
 **Source:** <https://forum.jackkruse.com/threads/can-you-feel-the-energy-when-grounding.6518/post-82115>
 
 I don't feel anything. Sadly. I also was hoping that grounding would help me with jet leg last summer in Europe but it didn't. I didn't do this right away though. Maybe in 1 day after I landed...
@@ -31970,7 +31970,7 @@ It's 100% clear to me that.....we must do all we can to reduce EMF. I can't wait
 
 I have decided that starting today, I must sit outside with bare feet on the grass for 30 minutes every single day, first thing in the morning, or do some weeding in bare feet - no matter the temperature outside. It's just a necessity. It will be like a little experiment.
 
-### opelecky@yahoo.com — 2013-04-01T01:16:54+0300
+### [email redacted] — 2013-04-01T01:16:54+0300
 **Source:** <https://forum.jackkruse.com/threads/live-on-saturday-night-with-my-trifield-meter.6551/post-82391>
 
 Hi Hope,
@@ -31997,7 +31997,7 @@ You can try to measure anything. So far I've done a lot of things in the house, 
 
 Was that when the fridge was running? That makes a big difference. I have two bedside table lamps, one with a compact fluorescent bulb and one with an incandescant. The CF was WAY worse...
 
-### opelecky@yahoo.com — 2013-04-01T04:50:20+0300
+### [email redacted] — 2013-04-01T04:50:20+0300
 **Source:** <https://forum.jackkruse.com/threads/live-on-saturday-night-with-my-trifield-meter.6551/post-82416>
 
 Thanks, Hope. I was readying
@@ -32016,7 +32016,7 @@ You know you can talk to Michael yourself...he can give you help. He charges $12
 
 Krista - I'd try to get rid of the CF bulbs. I bought tons of incandescents but some places around where i live still carry them. It's a horrible thing with CF. I have always been against them bc of the mercury. But, as I am realizing through this blog, that is only a tiny fraction as we are all affected by whatever anyone else is doing. But at least this way, if I break a bulb, we won't be inhaling mercury vapors - I did that for 27 years of my life.
 
-### opelecky@yahoo.com — 2013-04-01T23:46:29+0300
+### [email redacted] — 2013-04-01T23:46:29+0300
 **Source:** <https://forum.jackkruse.com/threads/live-on-saturday-night-with-my-trifield-meter.6551/post-82524>
 
 Hope,
@@ -33593,7 +33593,7 @@ Jack will not be doing consults after **_April 21st_**. This means that you want
 
 Lost the link to book your consult? No problem - go to the member dashboard to have the link emailed to you: [http://www.jackkruse.com/member-dashboard/](http://www.jackkruse.com/member-dashboard/)
 
-As always, please contact email support with any questions: [support@jackkruse.com](mailto:support@jackkruse.com)
+As always, please contact email support with any questions: [[email redacted]](mailto:[email redacted])
 
 Now, get to booking!
 

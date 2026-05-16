@@ -24,7 +24,7 @@ Chronological slice (by first-post date) of every thread we extracted from forum
 **Subforum:** My Optimal Journal
 **Posts:** 680
 ══════════════════════════════════════════════════════════════════════
-### nosnhojjennifer@yahoo.com — 2012-03-20T18:00:53+0200
+### [email redacted] — 2012-03-20T18:00:53+0200
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-3297>
 
 Gonna start using this journal to keep me honest and to help me figure out what optimal eating is for me.
@@ -67,7 +67,7 @@ Lunch at noon was ahi tuna steak, some tuna with MCT oil, celery, sauerkraut, an
 
 Dinner at 4:30 I was STARVING mini burger, more pork loin, spinach and seaweed cooked with CO. More pork loin. Coconut manna. My stomach is just gnawing at me. Not sure what is up but I had to stop eating. I also have a serious headache now and un-quenchable thirst. Drinking some salt water now. I took the estradiol 0.5mg. We'll see if it helps. CT next and then bed. EARLY
 
-### nosnhojjennifer@yahoo.com — 2012-03-21T16:55:37+0200
+### [email redacted] — 2012-03-21T16:55:37+0200
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-3897>
 
 Leptin Reset Day 19
@@ -112,7 +112,7 @@ But I am also trying to take a more positive outlook. Stop focusing on how broke
 
 I read CT 7 and now know I have to give up the electric blanket. I'm so cold after CT that I put it on to warm up. No more.
 
-### nosnhojjennifer@yahoo.com — 2012-03-22T15:18:13+0200
+### [email redacted] — 2012-03-22T15:18:13+0200
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-4344>
 
 Leptin Reset Day 20
@@ -148,7 +148,7 @@ CT at 9pm (right now- going for 40)
 
 I love your journal!!! Just a thought, but when I stopped everything cold turkey (all of my bad foods), I first started doing a slow-carb diet and I was MISERABLE. I kept reading about Paleo those first couple of days, but I kept thinking, "If I am miserable now with some carbs, I can't imagine reducing them more!" But then with the Leptin Reset, I was STUFFING myself for breakfast everyday. To the point where I was miserable. And I had ZERO carb cravings! I still have ZERO carb cravings. It makes me wonder if you are not eating enough for breakfast?? What if, just as an experiment, you tried to eat even MORE for breakfast?
 
-### nosnhojjennifer@yahoo.com — 2012-03-22T18:12:12+0200
+### [email redacted] — 2012-03-22T18:12:12+0200
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-4479>
 
 Thanks for reading and sharing. I am still fighting my brain on eating a BAB w/o overeating! Head games I think. But worth a shot! I just feel so physically full but brain says hungry. Glad to hear you are doing well - gives me hope! I just read some more of Dr K's responses on the blog and am getting clues as to what is going on with me. He told one person that if they have hypoglycemia issues it has to do with circadian rhythms. Which totally makes sense because this week I have been so tired I regularly go to bed at 9 pm and feel so tired all day. He also said that if you cut calories to lose weight, you'll gain during leptin reset at first. So, I think it's all sypmtOns of rewiring!
@@ -168,7 +168,7 @@ Yesterday was the first time I've had something besides eggs. Instead, I had por
 
 I know what you mean about needing the re-wiring though. I \*feel\* like I could have lost more if I would have just eaten less. But I keep reminding myself that it was that mindset that got me to 203.8 in the first place.
 
-### nosnhojjennifer@yahoo.com — 2012-03-23T13:01:02+0200
+### [email redacted] — 2012-03-23T13:01:02+0200
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-4896>
 
 Leptin Reset Day 21
@@ -203,7 +203,7 @@ I have zero energy and after this note, hitting CT bath and bed. I hope my belly
 
 Learning to obey the Leptin Reset - eat CO, BAB, 9pm bed time.
 
-### nosnhojjennifer@yahoo.com — 2012-03-23T13:01:40+0200
+### [email redacted] — 2012-03-23T13:01:40+0200
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-4897>
 
 Can you get duck eggs? They have more protein per egg. I plan to hit the farmer's market Saturday!
@@ -220,14 +220,14 @@ Hmmmmm. . .interesting idea! I will have to try it. Also, today I ate 42g and I 
 
 I have tried duck eggs. Both times they gave me a stomach ache, funny. I eat organic eggs every day with no problem. I may try them again but regular eggs are fine.
 
-### nosnhojjennifer@yahoo.com — 2012-03-24T01:48:43+0200
+### [email redacted] — 2012-03-24T01:48:43+0200
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-5239>
 
 > **donkjellberg;5113 wrote:** I have tried duck eggs. Both times they gave me a stomach ache, funny. I eat organic eggs every day with no problem. I may try them again but regular eggs are fine.
 
 interesting...wonder what set your stomach off...I am not eating eggs because of the autoimmune protocol, but I love breakfast food more than any other meal...sigh
 
-### nosnhojjennifer@yahoo.com — 2012-03-24T15:23:02+0200
+### [email redacted] — 2012-03-24T15:23:02+0200
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-5387>
 
 Leptin Reset Day 22
@@ -254,7 +254,7 @@ BAB - really thought I would up the protein after yesterday being so hungry. SO 
 
 I also got my TSH back and it's not as low as I'd like - only 2.82 (range .40-4.50). Probably why my temp is so low. Hoping CT will get my hormones in order so I only need the estradiol for a month. Just praying I can make it through three more weeks of Leptin Reset and estradiol without totally blowing up.
 
-### nosnhojjennifer@yahoo.com — 2012-03-25T00:21:08+0200
+### [email redacted] — 2012-03-25T00:21:08+0200
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-5587>
 
 HI August!
@@ -285,7 +285,7 @@ Some of these otherwise Paleo-friendly foods have been shown to be problematic i
 
 hope that helps!
 
-### nosnhojjennifer@yahoo.com — 2012-03-26T02:11:17+0300
+### [email redacted] — 2012-03-26T02:11:17+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-6118>
 
 Leptin Reset Day 23
@@ -318,7 +318,7 @@ I purchased a liver at the farmer's market and had it soaking and defrosting in 
 
 Well, I gotta hit my cold tubby...
 
-### nosnhojjennifer@yahoo.com — 2012-03-26T22:16:43+0300
+### [email redacted] — 2012-03-26T22:16:43+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-6553>
 
 Leptin Reset Day 24
@@ -347,7 +347,7 @@ Well, that must not have been a big enough BAB because although I was NOT starvi
 
 12:30 pm – needed my lunch so that I could function at work without killing any one. I had some left over cabbage and spinach with the turkey/liver meatballs and some mustard. They were actually pretty good. I made them with cumin, curry and chili powder. The chili powder was a good call. I also had some CO and a small amount of bone broth that I had left over. I definitely need to pound the protein as I still feel like crap. I can’t wait to go home and get my contacts out of my eyes and pound some protein!
 
-### nosnhojjennifer@yahoo.com — 2012-03-27T23:12:43+0300
+### [email redacted] — 2012-03-27T23:12:43+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-7363>
 
 Leptin Reset Day 25
@@ -387,7 +387,7 @@ Sorry you are having a tough day.  I was having a whole week of those last week.
 
 Hang in there. Tomorrow is a new day!
 
-### nosnhojjennifer@yahoo.com — 2012-03-28T01:12:54+0300
+### [email redacted] — 2012-03-28T01:12:54+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-7409>
 
 > **differentstory;7416 wrote:** I love this line!!! I was trying to tell DH about how I was feeling the other night and I couldn't explain it. Next time I'm going to use your words.
@@ -417,7 +417,7 @@ The reason I started the coffee though was so that I could get the CO and butter
 
 I also find that I am ridiculously full with 2 BP coffees. Between that and my BAB, I can't eat for 7-8 hours at least. I am completely full up until that point. Love it too because I honestly hate thinking about food. It is such an ordeal.
 
-### nosnhojjennifer@yahoo.com — 2012-03-28T14:59:04+0300
+### [email redacted] — 2012-03-28T14:59:04+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-7671>
 
 I do but CO and ghee in my caffiene free tea each morning and whip it up in the blender. Its ok but not as good as coffee! You know there are a lot of different coconut oils and some have much less smell and taste. I enjoy mine though, which is a good and bad thing. I was mixing some CO with unsweetened cocoa powder, stevia and some mix-ins (like cacao nibs or chia seeds) and then I stick it in the freezer and eat it like candy. I liked it. But I had to give up the chocolate too for adrenal Rx  My poor adrenals....hope they get better ASAP so I can have coffee and chocolate again!
@@ -426,7 +426,7 @@ Glad to hear you can do two meals a day. I usually can do it on the weekend but 
 
 Have a great day!
 
-### nosnhojjennifer@yahoo.com — 2012-03-28T15:57:35+0300
+### [email redacted] — 2012-03-28T15:57:35+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-7692>
 
 Leptin Reset Day 26
@@ -466,7 +466,7 @@ YAY!! Double yay! Glad to see you are feeling better and down in weight.
 
 What CO do you like best?
 
-### nosnhojjennifer@yahoo.com — 2012-03-29T13:57:38+0300
+### [email redacted] — 2012-03-29T13:57:38+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-8188>
 
 > **differentstory;7834 wrote:** YAY!! Double yay! Glad to see you are feeling better and down in weight.
@@ -481,7 +481,7 @@ I use all different kinds of coconut oil and don't really have a favorite. I hav
 
 I have to say, you are such a positive and sweet person! Thanks for your support and encouragement. It makes my day!
 
-### nosnhojjennifer@yahoo.com — 2012-03-29T18:32:47+0300
+### [email redacted] — 2012-03-29T18:32:47+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-8324>
 
 Leptin Reset Day 27
@@ -506,7 +506,7 @@ Wow. Morning temp is 97.5! Go me. But a quick look in the mirror results in ugh 
 
 I am hoping to be able to skip lunch today because I am pressed for time tonight. I have an appointment at the sauna at 4:30 and want to do CT afterward. And I need to be at a friend’s house by 6pm. Kind of tight. Might have to just blast the AC in the car and do CT tonight. But I also need to go to the grocery store and clean my house. Not sure how I will fit that in before 9pm! LOL I am going away on Saturday and need to be ready. My parents are coming Saturday to pick me up. I could always clean Saturday morning. I am nervous about the trip and sticking with Leptin Reset. We are going to visit my grandparents because my grandfather is not doing well. He has Parkinson’s Disease and recently took a turn for the worse. They had to take him off one medication because it was giving him hallucinations but now his muscle rigidity is much worse. Any way, my grandmother is VERY OPINIONATED and I do not want to get into it with her. So, I am worried my eating schedule coinciding with others. I hope to be able to just do two meals and cut back on some stress there. I also know that CT bath will not be an option. I might go back to face dunks. I kind of skipped that because my sinuses could not tolerate it. I felt like I was choking every time I tried to do it and got a bad sinus upset afterward. The up side is, I am going to Maine and will be by the ocean! Lots of seafood available and I guess if I was brave I could go jump in the ocean! LOL People would think I am nuts! I might bring a suit just in case.
 
-### nosnhojjennifer@yahoo.com — 2012-04-10T15:48:25+0300
+### [email redacted] — 2012-04-10T15:48:25+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-13319>
 
 Leptin Reset Day 39
@@ -533,7 +533,7 @@ Today I did the BAB, I figured it wasn’t worth potentially messing up the Lept
 
 I’m also so confused about CT and whether it’s working for me or not. I noticed my morning temps were higher last week without the cold tubs. And since coming home, I did two days of CT tubs and gained a pound both days. And I have been dreading the tubs. The last tub I did was Sunday and I did it in the afternoon. I was exhausted and freezing afterward. I hated it the whole time. I skipped the tub yesterday and had a short CT session too (I got up late) and gained a pound. So, I don’t know what is setting me off and what is working for me. With tub CT my morning temp is 97. When I skip, it’s higher. So confusing. Do I want my morning temp to be low? I’ve been on the Estradial for three weeks and still no sign of TOM. Of course, my mood is miserable (interestingly enough I felt really great last night), so who knows what is going on inside my body…I could cry today.
 
-### nosnhojjennifer@yahoo.com — 2012-04-24T18:13:08+0300
+### [email redacted] — 2012-04-24T18:13:08+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-18381>
 
 Good gravy, I have no idea where I'm at other than to say, probably back at the beginning. I've been on quite a bender. The triggers started at the beginning of April when I went to Maine to visit my grandparents with my parents. My grandpa has Parkinson's Disease and has gotten to the point of hospice care and frequent hallucinations. Being with my family is always a trigger to eat. They are all sugar junkies, especially my grandmother. My grandmother is a control freak (I love her dearly but she has always been wound too tight and with my grandpa sick and she, at 84 and not great health, is his primary care giver, well she's about 100x worse). She has diabetes and is overweight. Sugar is her drug of choice and you will never convince her to give it up. She also is always right about everything and my dietary choices did not go unnoticed by her. Also my weight, as in "too thin." which of course at 5'6&1/2 and 132 pounds I was not too thin. My grandmothers behavior definitely was not good for my poor adrenal glands. She is very dramatic (yes, it might be a trait I share with her!) and very short fused. Again, I'm sure her adrenals are shot given everything with my gramps.
@@ -548,21 +548,21 @@ But bottom line is, my hormones are a mess. My current docs are not helping me o
 
 I follow more of an Eastern philosophy and there is a teacher who sums up his work in one word - "STOP" and that is what I keep telling myself - just STOP (the mind f-ing behavior). Just stop
 
-### nicebeanst@yahoo.com — 2012-04-24T19:39:50+0300
+### [email redacted] — 2012-04-24T19:39:50+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-18406>
 
 Jennifer, hang in there. I'm at work now, can't be long here, but wanted to let you know you are not alone. I had a bender last weekend of sorts and I am up 5# from where I started and 7 total ( I was 152, went to 150, now I'm 157) We'll figure it out, and we are in the right place (literally, if not mentally LOL) to figure our stuff out.
 
 Take care
 
-### nosnhojjennifer@yahoo.com — 2012-04-24T20:27:15+0300
+### [email redacted] — 2012-04-24T20:27:15+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-18416>
 
 Thanks Teenie Leek!
 
 It cheers me to get your note of support. I know my life is really good and I am lucky. But stuffing feelings doesn't work. It's so food to be honest and feel supported! Sending you support right back!
 
-### nosnhojjennifer@yahoo.com — 2012-04-26T23:52:32+0300
+### [email redacted] — 2012-04-26T23:52:32+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-19147>
 
 April 26, 2012
@@ -601,7 +601,7 @@ I was reading Dr Lam's adrenal blog. It outlines the different stages of adrenal
 
 Tootles for now...
 
-### nosnhojjennifer@yahoo.com — 2012-05-05T04:45:27+0300
+### [email redacted] — 2012-05-05T04:45:27+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-21503>
 
 5/4/12
@@ -632,7 +632,7 @@ Since I tried to start the reset in March, I have had wine only once. No other a
 
 But, Monday I gotta get back on the keto and CT wagon STAT!
 
-### nosnhojjennifer@yahoo.com — 2012-05-05T05:33:26+0300
+### [email redacted] — 2012-05-05T05:33:26+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-21520>
 
 Friday night
@@ -643,7 +643,7 @@ here's a blog about the thing, if anyone is interested
 
 [http://www.bulletproofexec.com/emwave2-hrv-data-export/](http://http://www.bulletproofexec.com/emwave2-hrv-data-export/)
 
-### nosnhojjennifer@yahoo.com — 2012-05-05T16:17:43+0300
+### [email redacted] — 2012-05-05T16:17:43+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-21600>
 
 Saturday-just my random thoughts here
@@ -677,7 +677,7 @@ Ok, off my soap box. I sure hope you keep going. Have you been tested for Candid
 
 Feel free to come over to my journal and give me some feedback too.
 
-### nosnhojjennifer@yahoo.com — 2012-05-05T22:32:27+0300
+### [email redacted] — 2012-05-05T22:32:27+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-21678>
 
 Hi V~
@@ -721,7 +721,7 @@ I am going to look up N.E.T. I have never heard of that. I tried counseling but 
 
 Anyway, enough rambling. I need to go to bed. I sure hope you find some success.
 
-### nosnhojjennifer@yahoo.com — 2012-05-07T21:42:50+0300
+### [email redacted] — 2012-05-07T21:42:50+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-22002>
 
 Monday May 7th
@@ -748,7 +748,7 @@ He had a resident with him, so there was some conversation to the resident as "t
 
 So, I am putting myself back on the ketodiet. We'll see how i feel. I noticed that the less I ate carbs, the more I got low blood sugar crashes. Why is that? Something seems wrong there. So, today I had steak, eggs, and bacon for breakfast along with tea and MCT oil and some CO with cinnamon. I felt very iritated after my doctor's appointment but, I don't know if that was from the doctor or me. I had a small piece of steak and salmon along with two more bacon for lunch and feel hungry/full - my head hurts and I feel hungry but my stomach physically feels full. Typical feelings I get when eating keto diet. I know Dr K says Keto is best BUT I FEEL LIKE CRAP when I eat this way! Someone please enlighten me. Because if I start feeling super irritated and low blood sugar again, I'm not gonna be able to eat keto. It's too miserable to feel this way!**
 
-### nosnhojjennifer@yahoo.com — 2012-05-09T20:16:32+0300
+### [email redacted] — 2012-05-09T20:16:32+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-22623>
 
 Leptin Reset Day 2 (starting over third time)
@@ -767,7 +767,7 @@ Still working the keto train. I have change my approach after some advice from t
 
 I am sort of freaked about my endo ordering the Pituitary MRI. But I am more freaked by what the heck could be causing my hormones to tank so much. Could it be teh hcg? Did it break my HPA axis or something? Seriously, where are my hormones?!
 
-### nosnhojjennifer@yahoo.com — 2012-05-13T15:26:08+0300
+### [email redacted] — 2012-05-13T15:26:08+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-23634>
 
 Leptin Reset Day 6 (starting over third time)
@@ -789,7 +789,7 @@ ACK...MORE WEIGHT GAIN....I could scream! My clothes are all so tight! I want to
 
 I hear ya Jennifer! My frustration level is through the roof some days. Started this on March 19th & have gained 5 lbs; I'm trying to trust that I have hormone trouble but URGHHHH! I remember reading that you were feeling good on high fat. Maybe it'll take some time on that before you reap the benefits??? If you're anything like me, I want to see results yesterday! My biggest frustration is not having lost anything for this summer...no shorts again!!! Patience!
 
-### nosnhojjennifer@yahoo.com — 2012-05-14T01:42:30+0300
+### [email redacted] — 2012-05-14T01:42:30+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-23769>
 
 > **paulalynn;23776 wrote:** I hear ya Jennifer! My frustration level is through the roof some days. Started this on March 19th & have gained 5 lbs; I'm trying to trust that I have hormone trouble but URGHHHH! I remember reading that you were feeling good on high fat. Maybe it'll take some time on that before you reap the benefits??? If you're anything like me, I want to see results yesterday! My biggest frustration is not having lost anything for this summer...no shorts again!!! Patience!
@@ -798,12 +798,12 @@ Hi Paula Lynn. Thanks for dropping in to cheer me up. I totally was freaking out
 
 I just don't know if I'll ever make it through this Leptin Reset
 
-### nosnhojjennifer@yahoo.com — 2012-05-14T02:09:50+0300
+### [email redacted] — 2012-05-14T02:09:50+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-23774>
 
 Oh, so about today. I had two eggs, 4 bacon, and one turkey burger for BAB. Along with a can of coconut milk with CO. And plenty of butter. I also did a face dunk session. I don't know what my problem is but I always try to breathe when I face dunk. I mean, WTH. I Know how to swim. So, I have to plug my nose which is super annoying. I have been kind of cranky the last two days. Not sure if it is because I ran out of 5 HTP or the blood sugar thing. That's how I got into trouble last night. I was noticing myself getting snippy with my friends and thought, before we are not friends any more, I should eat. Stupid food truck. ANY WHOO...I had a turkey burger, two sausage patties with butter and a swipe of cream cheese. Ok, bad call on my part with the cream cheese, holy bloat. And some CO with butter and cocoa powder. YUM I was gonna skip dinner but felt hungry so I had some CO and an egg with some spinach. Trying to motivate myself to do some push ups and pull downs or something. I cannot stand this fat around my belly. I mean, if I have to re-gain weight, why can't it go back on the boobs! Instead of the love handles
 
-### nosnhojjennifer@yahoo.com — 2012-05-14T16:59:36+0300
+### [email redacted] — 2012-05-14T16:59:36+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-23895>
 
 Leptin Reset Day 7 (starting over third time)
@@ -820,12 +820,12 @@ Hashimoto’s, Raynaud’s, Adrenal Fatigue, No TOM in 8 months +, Leaky Gut (I 
 
 Really not hungry this morning and kind of feeling sick. Last night I had bad stomach ache, like I did when I had gastric erosions. Is is the coconut milk or the bulletproof coffee? I went to be pretty early last night and still could not get up this morning. I feel tired and zony. I'm out of 5HTP, so not sure if it is that or the fact that maybe I pushed it with the coffee. I need to learn that just because I can have something once and feel good, doesn't mean that I can have it every day. I'm super thirsty today too. For my BAB, I had this flank steak (which wasn't very good) and some bacon along with the coconut milk shake (half a can). I went a few days without HCL and at first was ok, but the heartburn got pretty bad. The worse being Saturday night when I ate off the food truck. At least my appetite is down. Today is my MRI and Wed I see the functional med doctor. Funny, a few days ago I was thinking I felt so great I didn't need to go. Now IDK.
 
-### nosnhojjennifer@yahoo.com — 2012-05-14T23:05:56+0300
+### [email redacted] — 2012-05-14T23:05:56+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-24000>
 
 Ah ha! So I just got an email back from the food truck and they use bead crumbs in their burgers! AH, I was gluten-ized! Well, live and learn. I should have asked. Although, when I told them to hold the bun because I can't eat wheat, they maybe should have mentioned. I knew it when I was eating it that it just didn't seem right. Should have stopped and asked. Next time!
 
-### nosnhojjennifer@yahoo.com — 2012-05-15T13:44:43+0300
+### [email redacted] — 2012-05-15T13:44:43+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-24153>
 
 OMG, will it ever stop? I am near tears. After what I would call a "good" day - no cheats, total keto diet, even skipped dinner and I gained a half pound. What do I have to do to get this weight off?! I am seriously close to tears. I just don't know what to do. It seems like this is not working and now I'm up 16 pounds. OMG - how will I ever lose weight? Monday I did some pushups and pull downs. And I have mild soreness. Yesterday I didn't have time for anything. I had my MRI and they were really behind schedule, so I skipped dinner because I wasn't hungry and then it was too late. I did get an injection of contrast. Could that explain the weight? But OMG, when I am gonna start trending down? I don't know how much longer I can do this if I am going to continue to gain weight. I think 16 pounds is excessive. How can you possibly gain on a keto diet? Does high fat not work for everyone? If ANYONE has advice, please lay it on me...I am close to breaking here
@@ -847,7 +847,7 @@ Hashimotoâ€™s, Raynaudâ€™s, Adrenal Fatigue, No TOM in 9 months +, Lea
 
 stop looking at the scale would be the number one thing you should do........
 
-### nosnhojjennifer@yahoo.com — 2012-05-15T15:02:16+0300
+### [email redacted] — 2012-05-15T15:02:16+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-24167>
 
 the truth is I am **terrified**...that's why I look at the scale every day...there doesn't seem to be an end in sight here. I think the reason I got so upset this morning is because yesterday I was thinking maybe this working...my appetite is down, my mood is up, food obsessions down, not in the mood for coffee...went to be early. Oh and somewhere along the way my tinnitus went away. But arghhh…the fat. I can’t take it. I’ve moved from depression to rage. I just want to rip it out. I’m so sick of the struggle. Sorry, purging voices here…
@@ -856,14 +856,14 @@ I will skip the scale tomorrow-going to the dentist today and that's always good
 
 I will work on myself to move to weighing just on Fridays, but that terrifies me...like weighing myself is a way to be in control, although obviously I am not in control because my body is making fat not burning it. UGh Functional Med appointment tomorrow
 
-### nosnhojjennifer@yahoo.com — 2012-05-15T15:09:03+0300
+### [email redacted] — 2012-05-15T15:09:03+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-24170>
 
 I also decided to stop all supplements except for Hcl, Mag, & Aloe until I see the FX Med Dr.
 
 F-u, fat, I am taking back control here.
 
-### kathiebu@hotmail.com — 2012-05-15T15:17:07+0300
+### [email redacted] — 2012-05-15T15:17:07+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-24174>
 
 Dr Kruse is right...
@@ -872,7 +872,7 @@ You have to put your focus on your health, not on your weight. You have been bro
 
 I hope I don't sound too harsh. That's not my goal. I only don't want you to quit. It's doable, many others have successed, so you will too, even if it takes longer. I hope you feel better and you'll have a good day. I'm sending you a hug. And throw that scale away, please!!
 
-### nosnhojjennifer@yahoo.com — 2012-05-15T15:45:30+0300
+### [email redacted] — 2012-05-15T15:45:30+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-24185>
 
 > **AbetterME;24256 wrote:** Dr Kruse is right...
@@ -923,7 +923,7 @@ This is probably easier said than done, but still, I think the Key is to focus o
 
 Hang in there.
 
-### nicebeanst@yahoo.com — 2012-05-15T20:28:51+0300
+### [email redacted] — 2012-05-15T20:28:51+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-24307>
 
 Jennifer Jennifer Jennifer.
@@ -943,14 +943,14 @@ staying home b/c of weight gain is not okay in my world... get some clothes you 
 
 Lol, I \*wish\* I'd have the dating problem... \*some\* things are working themselves out, apparently
 
-### nosnhojjennifer@yahoo.com — 2012-05-15T20:59:00+0300
+### [email redacted] — 2012-05-15T20:59:00+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-24326>
 
 Thanks so much Souldanzer, Youthfuliz, and Teenie Leek! Thank you for being the voice of reason. I know I have a history of quitting right before the breakthrough. I guess I never really realized how much negative feelings I have toward myself when I gain weight. I get split into two people - the one who wants to be thin and the one who is f-ing it all up. This war we go through with our bodies. If Dr K could only tell me how to move the fat from my belly and love handles to my very flat behind, then I would happily weigh 143.5. I really am not feeling myself today. I've been super tired the past few days and not sure why because I'm alseep before 10pm. Today my eyes are so dry and I feel so moody, like I have PMS but the MS never comes.
 
 It means a lot to get your support! Thanks again
 
-### kathiebu@hotmail.com — 2012-05-15T23:06:20+0300
+### [email redacted] — 2012-05-15T23:06:20+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-24362>
 
 > **Jennifer;24267 wrote:** Thanks ABetterMe, no you don't sound harsh. In fact, you sound very kind. I really just want to feel good and be health and look good! I LOVED how I looked and felt in my body at 127. I hate how I feel now. And I did the whole, I just won't weigh myself and see what happens and that was +10, now I'm at +15. I just can't gain any more. It doesn't really matter if I weigh myself or not. I know when I try to get dressed in the morning and looking in the mirror raises my cortisol more than the scale. I'm just super frustrated because I'm trying to make positive changes in my life. Trying to be happy. Trying to date. Dating is tough enough but dating while eating a crazy diet, no alcohol and an early bedtime. And now I've gained weight to be boot. I just feel really stuck. Caught in a trap.
@@ -1010,7 +1010,7 @@ Didn't you have a consult with Jack? If so, how is that going? If not, do it. Le
 
 Please smile today even if forced and try to have a nice day. Lots of hugs to you!
 
-### nosnhojjennifer@yahoo.com — 2012-05-16T15:44:04+0300
+### [email redacted] — 2012-05-16T15:44:04+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-24567>
 
 Thanks ladies! I feel better today. Skipping the coconut milk and had Optimal Upgraded Bulletproof coffee instead. We’ll see how the adrenals take it.
@@ -1033,14 +1033,14 @@ I am thankful I have you all to gently guide me back when I veer off course.
 
 Sometimes I really do think the leptin thing is resetting. I wonder how given my big cheats with nuts and just plain ole eating too much. But I never stopped the BAB. It’s just hard to get my brain to relax about the “you’re gaining weight, something is not working, must be the diet” thing. I eventually re-gain weight on any diet I’ve done. So maybe there is something I am not considering in this…a factor x, perhaps??
 
-### nosnhojjennifer@yahoo.com — 2012-05-16T16:20:43+0300
+### [email redacted] — 2012-05-16T16:20:43+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-24581>
 
 They're having a sale on mind body cd/audidownloads, here:
 
 [http://www.soundstrue.com/shop/STSearch.do?promoName=changeyourbrainmay&utm\_source=Sounds\_True&utm\_medium=email&utm\_content=postcard&utm\_campaign=CNGYBNb&\_bta\_tid=3.RM0.AXaGUA.Ai7N.EhOE..TOe4.s.HHI.l.ATe6.a.T7MmQA.T7MmQA.OgPFtg&\_bta\_c=7zq4ew0rbs5sjzb6dpajvande48xe](http://http://www.soundstrue.com/shop/STSearch.do?promoName=changeyourbrainmay&utm_source=Sounds_True&utm_medium=email&utm_content=postcard&utm_campaign=CNGYBNb&_bta_tid=3.RM0.AXaGUA.Ai7N.EhOE..TOe4.s.HHI.l.ATe6.a.T7MmQA.T7MmQA.OgPFtg&_bta_c=7zq4ew0rbs5sjzb6dpajvande48xe)
 
-### nicebeanst@yahoo.com — 2012-05-17T01:38:42+0300
+### [email redacted] — 2012-05-17T01:38:42+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-24728>
 
 Hey girl, saw abt your appt with func med doc. What a dud.
@@ -1063,7 +1063,7 @@ The way out? Create chaos in your brain. Trash the scale and allow your brain to
 
 I'm right there with you, Jen! I was complaining and asking question after question everywhere I could find today because I've gained a pound each of the last two days. Was getting told how if you're gaining it's because your hormones are wacky, maybe this, maybe that. I just did another round of hcg and I seriously can't put 20 lbs on!! All of a sudden, there's a post on my journal from Jack saying "if you're weighing yourself you're not doing the reset correctly. i said throw out the scale - just looking at it raises your cortisol." And I'm suddenly sitting there like "ok, yes sir, Dr. Kruse. I did read that and forgot it." I believe the man really cares about us all and believes fervently in everything he's teaching. And since I haven't gotten far with mainstream medicine, I've decided to give this a try and trust him. So I made an appointment for next week with THE ONLY doctor in town that works with BHRT. I have been wanting to do that for 15 years and doctors look at you like you've got two heads! Then I went through menopause and figured "what's the point"? But today, it all fell into place. This doctor that I normally couldn't get in with until end of June had JUST told her receptionist she'll be working a couple of days next week that she wasn't going to, and that's when I called for an appointment. My gut says it's all going to fall into place. Well, well, I meant for this to be a quick post and there was my soapbox!! Hang in there! We'll all hang in there together! I want to be in the club too!!
 
-### nosnhojjennifer@yahoo.com — 2012-05-17T06:03:40+0300
+### [email redacted] — 2012-05-17T06:03:40+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-24810>
 
 > **Teenie Leek;24810 wrote:** Hey girl, saw abt your appt with func med doc. What a dud.
@@ -1086,7 +1086,7 @@ And get to bed...I should not be on technology this late at night even with the 
 
 thanks a million for checking on me
 
-### nosnhojjennifer@yahoo.com — 2012-05-17T06:05:54+0300
+### [email redacted] — 2012-05-17T06:05:54+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-24811>
 
 > **Souldanzer;24820 wrote:** Scales are for fish. Who would let their self worth be determined by an appliance?
@@ -1105,14 +1105,14 @@ Mismatch, yes....chaos in the brain is something that i am good at! LOL
 
 thanks for the advice in plain ole english!
 
-### nosnhojjennifer@yahoo.com — 2012-05-17T06:09:51+0300
+### [email redacted] — 2012-05-17T06:09:51+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-24812>
 
 > **justjoan060;24833 wrote:** I'm right there with you, Jen! I was complaining and asking question after question everywhere I could find today because I've gained a pound each of the last two days. Was getting told how if you're gaining it's because your hormones are wacky, maybe this, maybe that. I just did another round of hcg and I seriously can't put 20 lbs on!! All of a sudden, there's a post on my journal from Jack saying "if you're weighing yourself you're not doing the reset correctly. i said throw out the scale - just looking at it raises your cortisol." And I'm suddenly sitting there like "ok, yes sir, Dr. Kruse. I did read that and forgot it." I believe the man really cares about us all and believes fervently in everything he's teaching. And since I haven't gotten far with mainstream medicine, I've decided to give this a try and trust him. So I made an appointment for next week with THE ONLY doctor in town that works with BHRT. I have been wanting to do that for 15 years and doctors look at you like you've got two heads! Then I went through menopause and figured "what's the point"? But today, it all fell into place. This doctor that I normally couldn't get in with until end of June had JUST told her receptionist she'll be working a couple of days next week that she wasn't going to, and that's when I called for an appointment. My gut says it's all going to fall into place. Well, well, I meant for this to be a quick post and there was my soapbox!! Hang in there! We'll all hang in there together! I want to be in the club too!!
 
 Just Joan, I feel ya. I really do. I regained all my weight I lost my last round of hcg. Part of me is saying, omg now I'll have to do another round. But, the other side says, you only keep the weight off for a few months, are you gonna live like this forever? The one thing I really came to hate was that dam 2 pound window. It was like my whole life revolved around this window and god forbid you were over on day you had plans. It really was stressful. Well, let's just be the ones that come out and say "Yes, I gained weight on the Leptin Reset and it was all worth it because now I'm at my ideal weight naturally and i am not struggling to maintain!" Deal?
 
-### nosnhojjennifer@yahoo.com — 2012-05-17T16:36:40+0300
+### [email redacted] — 2012-05-17T16:36:40+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-24875>
 
 Disclaimer - the ugly truth is what follows here, serious garbage of thoughts purging...please excuse the self-indulgence but I think I need to fess up to some mental crap that is driving my scale obsession...by acknowledging, I am hoping I can move past it instead of continuing. I have a long standing history of avoiding feelings by lots of different means.
@@ -1155,7 +1155,7 @@ Thinking of you....
 
 Lauren
 
-### kathiebu@hotmail.com — 2012-05-18T14:47:13+0300
+### [email redacted] — 2012-05-18T14:47:13+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-25148>
 
 I've been really touched reading your last post Jennifer. I was there last year, thinking I was having control on my life because I could "control" my weight. My life was miserable, but at least I had that. And I wasn't worth having someone in my life until I reached perfection. What a pressure to live with. I'm so much more in peace with myself since I let it go. Now I want to meet someone who will like me just the way I am. For those who don't, too bad for them. And like vkiernan said, if a good guy likes me the way I am now and support me through this, it can only get better.
@@ -1192,7 +1192,7 @@ Having your self-worth attached to an appliance is a very neolithic human distin
 
 Well said Souldanzer! Sometimes it takes someone else saying something before it sinks it! I mean, I try to focus on the positive and live in the "Now" but sometimes it's easy to slip back into old patterns.
 
-### nosnhojjennifer@yahoo.com — 2012-05-18T21:46:36+0300
+### [email redacted] — 2012-05-18T21:46:36+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-25297>
 
 > **Souldanzer;24999 wrote:** The best way to get to establishing this in yourself is to remove everything else from your life. Remove the scale, remove the looking at other people for self-worth, let it all go and find what is within yourself. Your life won't be all fixed once your self worth is found within yourself... but it is the basis you need to build a life on. I'm in a similar place as you currently with my life, the difference is that I have changed my feelings about it. Create space for the new, empty your cup, allow the things you want into your life. Welcome them by preparing for them and taking action. The monk book is great for working on these things but there's other mindfulness/buddhist approaches you can use.
@@ -1207,7 +1207,7 @@ Well said Souldanzer! Sometimes it takes someone else saying something before it
 
 Souldanzer! I so appreciate your feedback and suggestions, especially from someone who has gone through similar experiences. Thinking that I am SO DIFFERENT from the rest of the world is part of this. I've traveled to India and have a spiritual path that I follow and study, sometimes more ardently than others. So, I know logically what I must do, but emotionally I still rail against these things. And it can be very sneaky. I knew I did these little ego games “to be ok” – if I date the right guy, I’m ok; if I have “cool friends”, I’m ok; etc…I hadn’t realized I was doing this “ok game” with the scale. So, you are pointing to letting go of everything external and see what remains….yeah, kind of terrifying but inevitable. Thank you for these pointers. The funniest thing about myself and humans in general, is often the one thing you are trying to avoid, is usually the thing you’re already living with…in my case, it’s being alone. But that’s a blog for another day
 
-### nosnhojjennifer@yahoo.com — 2012-05-18T22:26:22+0300
+### [email redacted] — 2012-05-18T22:26:22+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-25307>
 
 > **KiwiLauren;25216 wrote:** Jennifer, two unrelated things. But first... I think it's great that you're 'venting' here and working through the truth of how you really feel. It can be so easy to hide behind how we want others to perceive us, but that just means we're treating ourselves badly, acting as if we aren't OK as we are. It's a lot to take on, huge life changes in the face of medical issues and a mostly-unsupportive medical community. Hang in there. We're all in this together, even if (as Quelsen says) everyone's broken is different.
@@ -1230,7 +1230,7 @@ Thank you Lauren. That means so much. It actually was a really hard thing to put
 
 Thanks for the tip on the podcast. I downloaded both of hers to listen to! I need the hormone help bad. My func med doc feels it will straighten itself out once I stop the leaky gut, which triggers the adrenal fatigue, which gives me pregnenolone steal and zero sex hormones. Which I totally get, but in the meantime, I have such terrible mood swings! OMG, this morning my tolerance was zilch! I seriously almost got in a â€œfightâ€￾ with Siri â€“ my iphoneâ€™s personal assistant. You know your hormones are bad when you are yelling at your phoneâ€¦
 
-### nosnhojjennifer@yahoo.com — 2012-05-18T22:31:09+0300
+### [email redacted] — 2012-05-18T22:31:09+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-25308>
 
 > **AbetterME;25230 wrote:** I've been really touched reading your last post Jennifer. I was there last year, thinking I was having control on my life because I could "control" my weight. My life was miserable, but at least I had that. And I wasn't worth having someone in my life until I reached perfection. What a pressure to live with. I'm so much more in peace with myself since I let it go. Now I want to meet someone who will like me just the way I am. For those who don't, too bad for them. And like vkiernan said, if a good guy likes me the way I am now and support me through this, it can only get better.
@@ -1259,7 +1259,7 @@ I hear myself saying, well if I was just under 140, I'd be ok with it. I'd feel 
 
 Gotta be happy where I am at to get to where I am going
 
-### nosnhojjennifer@yahoo.com — 2012-05-18T22:33:27+0300
+### [email redacted] — 2012-05-18T22:33:27+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-25309>
 
 > **Souldanzer;25302 wrote:** Having your self-worth attached to an appliance is a very neolithic human distinct phenomenon. Self-worth does exist outside of this. It's just that it's wired the wrong way for a lot of us.
@@ -1268,14 +1268,14 @@ Someone start a thread for amazing quotes! You really have such a way with cutti
 
 Thanks
 
-### nosnhojjennifer@yahoo.com — 2012-05-18T22:35:19+0300
+### [email redacted] — 2012-05-18T22:35:19+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-25311>
 
 > **paulalynn;25330 wrote:** Well said Souldanzer! Sometimes it takes someone else saying something before it sinks it! I mean, I try to focus on the positive and live in the "Now" but sometimes it's easy to slip back into old patterns.
 
 Hi Paula Lynn! I feel the same way!
 
-### nosnhojjennifer@yahoo.com — 2012-05-18T22:53:19+0300
+### [email redacted] — 2012-05-18T22:53:19+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-25315>
 
 So, today has been a rollercoaster day for me. I chose to have coffee the last two days and was feeling kind of edgy, so today I figured Iâ€™d better cut it out. Itâ€™s not exactly on the list for leaky gut, AF, etc. But after my BAB (pork tenderloin, an egg made with unsweetened cocoa powder, and CO with cocoa powder and tea) I was feeling crappy. IDK, maybe pork and I donâ€™t get along or maybe it is left over from yesterday? At any rate, when I got to work, the first person I encountered I could feel myself getting annoyed. And it continued from there. I was in a seriously angry mood. It was like anger was just coursing through my body with no real reason. I knew it was bad when I got into a huge fight with Siri (my iPhone personal assistant). I was screaming at her to clean her ears out because she was getting my talk to text wrong. Something not right there. But then, as the morning went on, I started to feel better. IDK Iâ€™m kind of all over the place lately. Oh, I totally forgot that I had run out of 5 Htp, so I was off that and the L-tyrosine for more than a few days. I finally bought some last night and today was the first day I took them again. So maybe they have kicked in.
@@ -1288,14 +1288,14 @@ OH, I almost forgot â€“ I skipped the scale this morning. Partly because I 
 
 Kind of something that sounds worth cultivatingâ€¦being happy in a deeper way will help my adrenal glands stop â€œfreaking outâ€! Oh my, what would I do with that kind of freedom!
 
-### nicebeanst@yahoo.com — 2012-05-18T23:24:52+0300
+### [email redacted] — 2012-05-18T23:24:52+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-25326>
 
 Good for no scale!
 
 Tell us about this vacation.....! It requires a bathing suit, so it can't be THAT bad!
 
-### kathiebu@hotmail.com — 2012-05-20T01:47:29+0300
+### [email redacted] — 2012-05-20T01:47:29+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-25601>
 
 > **Jennifer;25390 wrote:** Thank you, Katy! You mean, I'm not the only one? I really thought this was some secret behavior only I did! LOL
@@ -1311,7 +1311,7 @@ Oh no, you're not alone!! Like you, it was never good enough...I weighted 122 lb
 
 Your belly fat is a symptom your hormones are a mess. You'll lose it once you'll be LS and all hormones are balanced. Instead of having a goal linked to your belly fat, foccus on your hormones and what you can do to have them in the good place. It will be much easier to stay on the plan and way less frustrating. You'll be thin and happy one day, that's for sure. I'm confident I will be too even if it takes long.
 
-### nosnhojjennifer@yahoo.com — 2012-05-20T05:48:51+0300
+### [email redacted] — 2012-05-20T05:48:51+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-25647>
 
 Epigenetics is all in my head?
@@ -1326,7 +1326,7 @@ nite!
 
 Oh yeah. One more thing I wanted to make note of - I've been having some belly aches. Can't figure if it's from eating foods that don't agree w me, coffee, or if I'm having gastric erosions again. It's prob the coffee.
 
-### nosnhojjennifer@yahoo.com — 2012-05-20T15:47:19+0300
+### [email redacted] — 2012-05-20T15:47:19+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-25669>
 
 > **Teenie Leek;25408 wrote:** Good for no scale!
@@ -1341,7 +1341,7 @@ I'm going to Denver to visit my brother, sister in law and their new baby! MY ni
 
 We are taking a weekend trip to Salida, which I am super psyched about. One of my most favorite things to do in Colorado is to go to hot springs. So I will be in my one piece in the hot springs! I"m sure there will be a cold spring too
 
-### nosnhojjennifer@yahoo.com — 2012-05-20T15:48:58+0300
+### [email redacted] — 2012-05-20T15:48:58+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-25670>
 
 > **AbetterME;25684 wrote:** Oh no, you're not alone!! Like you, it was never good enough...I weighted 122 lbs (at 5'5'') and was still thinking I was fat and had to lose more...So, so sad. I spent so much time ruining my health instead of being happy for what I had. I'm glad it's behind me, and I know it's not easy to let go...
@@ -1352,14 +1352,14 @@ We are taking a weekend trip to Salida, which I am super psyched about. One of m
 
 Thanks for the advice and confidence in me! I want out of this weight loss nightmare bad! LS is the goal and I am keeping my eye on the prize.
 
-### nosnhojjennifer@yahoo.com — 2012-05-20T15:50:50+0300
+### [email redacted] — 2012-05-20T15:50:50+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-25671>
 
 > **Souldanzer;24407 wrote:** Lol, I \*wish\* I'd have the dating problem... \*some\* things are working themselves out, apparently
 
 I missed this...love life on an upswing???
 
-### nosnhojjennifer@yahoo.com — 2012-05-20T18:07:28+0300
+### [email redacted] — 2012-05-20T18:07:28+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-25710>
 
 I got a slip from Fx Med doc for bloodwork...there are fasting labs involved, so I'm going to go on Wed.
@@ -1406,7 +1406,7 @@ She asked if I had a Vit D level checked and I said maybe. She also asked about 
 
 The endo said that when I was diagnosed with Hashimoto's that my thyroid antibodies were negative, but my ultrasound showed IDK something about "diffuse infiltrates" or something, so he gave me Ha\*\*\*\*omotos...so it will be interesting to see if I have antibodies now.
 
-### nosnhojjennifer@yahoo.com — 2012-05-20T18:09:46+0300
+### [email redacted] — 2012-05-20T18:09:46+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-25711>
 
 > **Jennifer;25794 wrote:**
@@ -1444,7 +1444,7 @@ Jennifer,
 
 I hope you have a fantastic vacation. Just remember to do what you need to do for YOU!!!! Don't let anyone convince you that anything is ok that you know is not. Enjoy the baby and relax! I hope you feel better very soon. Sucks to be "contaminated" unknowingly.
 
-### nosnhojjennifer@yahoo.com — 2012-05-21T15:04:36+0300
+### [email redacted] — 2012-05-21T15:04:36+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-25920>
 
 > **Patty Cakes;25809 wrote: Unfortunately candida is diagnosed through a stool test. I call it the "poop test". I did the Metametrix GI Effects test and waiting for results right now. So it's separate from the blood tests but I would ask you doc if you can get a stool test for candida anyway.
@@ -1483,12 +1483,12 @@ Thanks V! I hope to leave my crazy-brain at home! LOL
 
 I feel much better today. Went to bed super early and had to get up to pee twice last night! Weird Hopefully whatever it was is flushing out.
 
-### nosnhojjennifer@yahoo.com — 2012-05-21T17:51:52+0300
+### [email redacted] — 2012-05-21T17:51:52+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-25975>
 
 Oh, so I guess I did have a Vit D drawn this year. It was 44. (range 30-100). That's really sad because I've been supplementing.  I need more sunshine! Working all weekend did not get me that!
 
-### nosnhojjennifer@yahoo.com — 2012-05-22T01:20:46+0300
+### [email redacted] — 2012-05-22T01:20:46+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-26128>
 
 SO...I hadn't heard any results from my MRI. I usually go on the old adage, "no news is good news" but I figured let's hear it. So, I called for my results and to my shock, the endo says I actually do have a spot on my pituitary which he believes is a Rathke cleft cyst. He says it is really small and that he actually does not think it is causing my symptoms. But it needs to be watched and if it gets bigger then it has to be drained. YUCK
@@ -1499,12 +1499,12 @@ So, I still have no real reason for no TOM except leaky gut and pregnenelone ste
 
 Well, I guess it doesn't matter because it doesn't change the game plan of diet and CT.
 
-### nosnhojjennifer@yahoo.com — 2012-05-23T19:14:28+0300
+### [email redacted] — 2012-05-23T19:14:28+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-26740>
 
 I was late today on my BAB because I went for my fasting bloodwork this morning. Took the dude 30 min to figure out how to draw the labs--all 14 vials. Took both arms to complete. He said you are gonna eat after this, right? I laughed to myself - oh yes don't you worry. Guess it will be interesting to see what comes out of it all. But I'm on a plane to Denver now, so that can all wait....
 
-### nosnhojjennifer@yahoo.com — 2012-05-26T00:24:12+0300
+### [email redacted] — 2012-05-26T00:24:12+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-27474>
 
 re-reading leptin blogs and i need to remember this x100!!
@@ -1520,7 +1520,7 @@ The muscle strain from weight lifting is the best way to stimulate the pituitary
 
 Let me know how that works out with your adrenal fatigue. I want to do something and I was told no exercise with AF. I am assuming that means no weights either correct? What do you think?
 
-### nosnhojjennifer@yahoo.com — 2012-05-31T17:07:39+0300
+### [email redacted] — 2012-05-31T17:07:39+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-28586>
 
 > **vkiernan;27683 wrote:** Let me know how that works out with your adrenal fatigue. I want to do something and I was told no exercise with AF. I am assuming that means no weights either correct? What do you think?
@@ -1551,7 +1551,7 @@ Super fit = eats what he wants does not equal healthy always
 
 The conclusion "doesn't have to worry" is based in CW thinking.
 
-### nosnhojjennifer@yahoo.com — 2012-05-31T18:35:54+0300
+### [email redacted] — 2012-05-31T18:35:54+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-28625>
 
 > **Souldanzer;28714 wrote: Super fit = eats what he wants does not equal healthy always
@@ -1569,14 +1569,14 @@ The conclusion "doesn't have to worry" is based in CW thinking.
 
 Yes, I was thinking about you guys!
 
-### nosnhojjennifer@yahoo.com — 2012-06-02T22:08:42+0300
+### [email redacted] — 2012-06-02T22:08:42+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-29093>
 
 Just noticed that I'm filling out my bras once again. I am peeved with myself for gaining weight but happy that at least some of it is going back to "the girls." I think that means that my estrogen level is getting higher? No one has told me which hormone gives you a behind, but I do believe I remember reading the estrogen puts fat in your chest. The rest of my labwork came in the mail today. I posted them here : [http://forum.jackkruse.com/showthread.php?1424-Labs-up-for-hacking](http://http://forum.jackkruse.com/showthread.php?1424-Labs-up-for-hacking)
 
 The func med doc ordered some food sensitivity tests and I came up high on wheat, eggs, dairy. Chicken and salmon were ok. Total bummer. I went to an acupuncture guy for NAET treatments and spent $$ on clearing egg sensitivity. I guess I really should have waited until after the elimination diet and really worked on leaky gut RX before going. I didn’t realize the whole mechanism behind food allergy being the stuff leaking out of your gut and into the body. Makes sense to stop the leaky before training your body not to attack it.
 
-### nosnhojjennifer@yahoo.com — 2012-06-05T18:09:20+0300
+### [email redacted] — 2012-06-05T18:09:20+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-29556>
 
 Day three elimination diet. So far, I am eating chicken and salmon primarily. I am also eating homemade sauerkraut, bone broth, kefir water, and kombucha. Sat and Sun I had no appetite. Monday I was STARVING. Today I feel pretty full. I did weigh myself Monday because I knew I had to get on the scale at the doctor and I figured better to see the naked pre-eating number than the full dressed and post BAB number. 145.5
@@ -1587,7 +1587,7 @@ Jack said on fb today “Are you living at the end of your history......or start
 
 My thinking is kind of stuck on the present as being the future. Which is not what I want to create. I have been thinking that when I gain weight, I “won’t be able to lose it.” I have been thinking that I’ll never see TOM again. I was also reading the thread by tweety “Eating Disorder Tendency” and that has got me thinking as well. Some great posts by Souldanzer and others over there. My choice is to keep my eye on the prize and live today as if I have already achieved my objective instead of focusing on what I don’t have right now. I’m gonna stop asking when TOM is going to return and just assume that each and every time I make a healthy choice, I am that much closer. Which means, elimination diet, leaky gut RX, adrenal RX, Leptin RX, sleep, CT, and most importantly keeping reign on my thoughts. I was late for work and totally working up my adrenals over this when I said to myself “Jennifer, is it worth stressing your adrenals because you’ll be 15 minute late?” NO – nothing is worth stressing my adrenals out for. That is my new mantra.
 
-### nosnhojjennifer@yahoo.com — 2012-06-07T16:21:45+0300
+### [email redacted] — 2012-06-07T16:21:45+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-29893>
 
 Day four elimination diet....feeling better every day...sticking with Leptin Rx but I still haven't gotten CT in. And I am unhappy with how late I have been staying up but living life keeps getting in the way! LOL
@@ -1596,7 +1596,7 @@ I'm still no TOM and still up in weight. Although several people have recently t
 
 I'm pretty worried about my mom (and dad). She is stuck in poor eating and literally falling apart.  She has migranes, some crazy eye disease that mostly surfers and people who live at the equator get (which her doctor has told her she has to wear sunglasses all the time for), osteoporosis, and now body parts are falling out (prolapsed bladder last year and now her uterus). She is coming to visit for a few days next week and I am going to get her trying some of my foods. She was trying to do BAB but says it makes her want to throw up. Certain foods she can't eat in the morning - like eggs. So she's been eating Speacial K!  I told her, at least please buy a gluten free ceral, so she got Rice Chex. I suggested maybe she could do sweet potatoes or crock pot for breakfast, since I know she likes those. I also suggested she get the book "Sweet Potato Power" and a collagen supplement. You think that would help?
 
-### kathiebu@hotmail.com — 2012-06-07T17:07:06+0300
+### [email redacted] — 2012-06-07T17:07:06+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-29902>
 
 I'm glad you are feeling better  What is elimination diet Jennifer? Is it the AI protocol?
@@ -1607,7 +1607,7 @@ I'm sorry to read that about your mother. I hope you'll be able to help her out.
 
 Have a nice day
 
-### nosnhojjennifer@yahoo.com — 2012-06-07T19:48:12+0300
+### [email redacted] — 2012-06-07T19:48:12+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-29937>
 
 > **AbetterME;30004 wrote:** I'm glad you are feeling better  What is elimination diet Jennifer? Is it the AI protocol?
@@ -1634,7 +1634,7 @@ Then after 28 days, you add one food in at a time for three days. (one new food 
 
 Thanks for the care and concern for my mom. We'll see how she does when she's here. If I could only get my dad on board, then she would do it. My dad has opposite problems. He has lymphocytic colitis and is allergic to things like lettuce. They did paleo a la Nora Gedgaudas and both did well and lost weight. But my dad didn't feel better because of his weird colitis thing. SO, they fell off  I told them about the 23andme sale, and my mom sounded interested, so I pray they do that and start working on changing their future. My dad's dad is currently on Hospice care with Parkinson's Disease and my mom's mom passed with Alzheimers. Dad's mom has diabetes and mom's dad had MI. Well, at the very least I hope to help my mom work on healing leaky gut and giving up gluten and diet pop! AGHHHH
 
-### nosnhojjennifer@yahoo.com — 2012-06-07T22:10:10+0300
+### [email redacted] — 2012-06-07T22:10:10+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-29961>
 
 Hmm...stumbled on some articles about Hypothalamic amenorrhea. My brain fog seems to be kind of bad today. I had that issue with feeling full physically but starting to feel hungry chemically (as in mood getting short). I ate a little canned salmon with avocado, sauer kraut and bone broth but now I feel out of it. Can't focus. I tried reading a few article on her website here. They are very interesting to me in regards to my situation of losing weight and not getting TOM. She talks about how your body gets used to your fat cells making estrogen and then your ovaries don't produce as much. When you lose weight, your ovaries need to step up but sometimes they don't. This is where I start getting lost.
@@ -1648,14 +1648,14 @@ She kind of goes both ways with it...she is a safe starch advocate and suggests 
 
 I don't buy into the carbs are needed theory. I had HPA amenorrhea up to age 27 and mine fixed itself after gaining weight. I'm really low-carb now and still pretty regular.
 
-### nosnhojjennifer@yahoo.com — 2012-06-08T04:59:55+0300
+### [email redacted] — 2012-06-08T04:59:55+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-30039>
 
 > **Souldanzer;30118 wrote:** I don't buy into the carbs are needed theory. I had HPA amenorrhea up to age 27 and mine fixed itself after gaining weight. I'm really low-carb now and still pretty regular.
 
 Hi Souldanzer...I am not sold on the carbs are needed theory either. I think you can become a fat burner and then not stress your liver out. But I like how she writes about how HA happens. The only thing I can't figure is, number one, I was never severely underweight and number two I have gained like 15 pounds and still nothing! My cholesterol is now great. I take pregnenolone. What do I need? Vit A? DHEA? Prayers? IDK
 
-### nosnhojjennifer@yahoo.com — 2012-06-08T05:44:02+0300
+### [email redacted] — 2012-06-08T05:44:02+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-30059>
 
 Although I have considered that maybe the no TOM is a blessing in disguise. Like my body knows it needs to conserve eggs or something. Is that crazy?
@@ -1675,7 +1675,7 @@ According to the article you posted you could be leptin insensitive/resistant an
 
 I'm not sure I know what I'm talking about here  That's how I put it together for myself.
 
-### nosnhojjennifer@yahoo.com — 2012-06-08T05:49:21+0300
+### [email redacted] — 2012-06-08T05:49:21+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-30063>
 
 Although I have considered that maybe the no TOM is a blessing in disguise. Like my body knows it needs to conserve eggs or something. Is that crazy?
@@ -1695,7 +1695,7 @@ Anyone up on schumann resonance? I am listening to this audiobook "Living the Fi
 
 sorry, nope. when my periods finally started I hated it b/c I was still so sick in my mind with AN but no period during childbearing years is terrible for your body... unless your nursing maybe.
 
-### nosnhojjennifer@yahoo.com — 2012-06-08T14:30:45+0300
+### [email redacted] — 2012-06-08T14:30:45+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-30094>
 
 > **Souldanzer;30164 wrote:** From the Eating Disorders blog:
@@ -1723,7 +1723,7 @@ Thanks for that pointer Souldanzer. My rt3 is in range 29 (11-32) but on the hig
 
 Mornin' Jen. I hope you have a smiley day!
 
-### nosnhojjennifer@yahoo.com — 2012-06-08T19:50:54+0300
+### [email redacted] — 2012-06-08T19:50:54+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-30169>
 
 Ok, that's two days in a row that lunch has given me a serious case of head fog or rather my head cement. Super weird. Yesterday I had salmon and avocado and some homemade sauerkraut. Today, tuna, avocado, sauerkraut. So, I guess it's either the avocado or sauerkraut. Also my freaking fingers started going white with a Raynaud thing after lunch. They have the A/C on and it's cool but seriously. I notice my Raynauds tends to flare after I eat. If cold makes you not hungry, what the heck is eating making you cold all about?
@@ -1735,7 +1735,7 @@ Ok, that's two days in a row that lunch has given me a serious case of head fog 
 
 I'm not really into the whole fixing thyroid craze. I figure I just get really cold and stop worrying about it  Appears to work for me. Or maybe I just got too many other things to fix so it's on the end of my list.
 
-### nosnhojjennifer@yahoo.com — 2012-06-10T17:07:26+0300
+### [email redacted] — 2012-06-10T17:07:26+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-30407>
 
 One week in the elimination diet, although I slipped up yesterday. I was at a festival with friends and kind of forgot and ate read meat. I don't really get the whole avoid red meat part of the diet any way. I don't react to red meat. I think I figured out why Dr K is down on chicken, it has more O6 than grass fed beef. My doctor wanted me to buy this medical food supplement Metagenix Ultra Clear Sustain but it is made with rice flour and rice syrup, so I said no. But I am seriously considering this [http://www.betterbabybook.com/coconut-protein-formula-with-colostrum/](http://http://www.betterbabybook.com/coconut-protein-formula-with-colostrum/)
@@ -1746,7 +1746,7 @@ I feel better every day. More happy and I am so glad to be out of that hell of i
 
 We got into a bit of a discussion on nutrition yesterday and this guy, who is very fit and very athletic was telling me that he is following this Thrive diet. It's basically a vegan diet for athletes. He says he feels better and it sounds like he is doing it gluten free with his largest meal at breakfast. I did notice that he looked thin for him (he's never heavy). He likes this amaranth for breakfast. I guess it's not as bad as some of the other vegan choices out there but ....Well, it seems like he is not eating a lot of food and still doing his running, cycling, racing stuff. He said he is interested in eating optimally and wants to know "why everyone is suddenly gluten intolerant when we've eaten it for centuries." So, I sent him a few links. I'm sure we'll discuss it more. I have no desire to eat like a bird, but well people have to make their own choices I guess.
 
-### nosnhojjennifer@yahoo.com — 2012-06-10T17:10:07+0300
+### [email redacted] — 2012-06-10T17:10:07+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-30408>
 
 One week in the elimination diet, although I slipped up yesterday. I was at a festival with friends and kind of forgot and ate read meat. I don't really get the whole avoid red meat part of the diet any way. I don't react to red meat. I think I figured out why Dr K is down on chicken, it has more O6 than grass fed beef. My doctor wanted me to buy this medical food supplement Metagenix Ultra Clear Sustain but it is made with rice flour and rice syrup, so I said no. But I am seriously considering this [http://www.betterbabybook.com/coconut-protein-formula-with-colostrum/](http://http://www.betterbabybook.com/coconut-protein-formula-with-colostrum/)
@@ -1771,7 +1771,7 @@ Did you see this....
 
 I see scales in your future........
 
-### nosnhojjennifer@yahoo.com — 2012-06-13T19:27:24+0300
+### [email redacted] — 2012-06-13T19:27:24+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-30929>
 
 > **Souldanzer;31031 wrote:** Did you see this....
@@ -1801,7 +1801,7 @@ Jennifer, I thought of you today while I was doing some research on Maca. Of cou
 
 [http://www.wholeworldbotanicals.com/blog/1-royal-maca/how-very-sensitive-women-can-achieve-hormone-balance-naturally/](http://http://www.wholeworldbotanicals.com/blog/1-royal-maca/how-very-sensitive-women-can-achieve-hormone-balance-naturally/)
 
-### nosnhojjennifer@yahoo.com — 2012-06-13T20:26:21+0300
+### [email redacted] — 2012-06-13T20:26:21+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-30942>
 
 > **paulalynn;31040 wrote:** Jennifer, I thought of you today while I was doing some research on Maca. Of course I didn't copy the link at the time and can't find the exact page right now but this link will get you started if you haven't already checked it out. There was a part "somewhere" that talked about women who hadn't had periods and it sounded like there was hope
@@ -1823,7 +1823,7 @@ I am hoping that once my adrenals have had some time off, I'll be able to use so
 
 What happened with the maca, I am taking it right now. Want to know if maybe it is affecting me and I don't know it.
 
-### nosnhojjennifer@yahoo.com — 2012-06-13T20:38:24+0300
+### [email redacted] — 2012-06-13T20:38:24+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-30947>
 
 > **vkiernan;31048 wrote:** What happened with the maca, I am taking it right now. Want to know if maybe it is affecting me and I don't know it.
@@ -1837,7 +1837,7 @@ I read your journal. Sounds like a big week for you. Good luck! I hope you can g
 
 I just started taking the Maca last night. I really wanted to get the Whole World Botanicals brand but they don't ship to Canada so until I can figure out a way to get theirs I picked up another one. We'll see!
 
-### nosnhojjennifer@yahoo.com — 2012-06-13T22:53:38+0300
+### [email redacted] — 2012-06-13T22:53:38+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-30974>
 
 Keep me posted Paula.
@@ -1851,7 +1851,7 @@ Maybe just a teaspoon instead of the two I tried today? And more fat. Now that I
 
 I get that low-blood sugary feeling from green tea in the AM and if I don't eat with it (even if it has coco milk in it), I start to feel really nauseous. Weird.
 
-### nosnhojjennifer@yahoo.com — 2012-06-14T01:50:58+0300
+### [email redacted] — 2012-06-14T01:50:58+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-31010>
 
 > **Souldanzer;31102 wrote:** I get that low-blood sugary feeling from green tea in the AM and if I don't eat with it (even if it has coco milk in it), I start to feel really nauseous. Weird.
@@ -1860,7 +1860,7 @@ Interesting....Dr K once weighed in when I said Maca caused my blood sugars to c
 
 I've really done something wrong for my body today as I now feel like crap! My heart rate is in the 80s which is pretty high for me and I really only want to lay down (but I need to clean this house!). Seems odd to say that the matcha could possibly still be bothering me. Could be the coconut milk (FODMAP) but usually it doesn't make me feel this bad. The last differential diagnosis that I can figure is the pregnelone. I upped my dose considerable (300mg in am and 200mg at lunch). What does too much preg feel like?? Anyone?
 
-### nicebeanst@yahoo.com — 2012-06-14T03:12:29+0300
+### [email redacted] — 2012-06-14T03:12:29+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-31022>
 
 I stole your signature line, added a little of my own flair to it LOL
@@ -1878,7 +1878,7 @@ What is the maca supposed to be good for?
 
 I think too much preg can do that. 500mg a day total is way high. Dr. Kalish today told me that 100mg is too high..... I'd say that depends on your levels. Did you test really low?
 
-### nosnhojjennifer@yahoo.com — 2012-06-14T03:49:12+0300
+### [email redacted] — 2012-06-14T03:49:12+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-31032>
 
 > **Teenie Leek;31126 wrote:** I stole your signature line, added a little of my own flair to it LOL
@@ -1893,7 +1893,7 @@ Maca is an adaptogen for adrenals but it looks like it is also good for PMS and 
 
 Ride the waves, baby!
 
-### nosnhojjennifer@yahoo.com — 2012-06-14T15:18:24+0300
+### [email redacted] — 2012-06-14T15:18:24+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-31095>
 
 > **Souldanzer;31135 wrote:** I think too much preg can do that. 500mg a day total is way high. Dr. Kalish today told me that 100mg is too high..... I'd say that depends on your levels. Did you test really low?
@@ -1902,7 +1902,7 @@ JanSz recommended that for my non-existant hormones and to get TOM back. Actuall
 
 I just don't get it. I have plenty of cholesterol. None of my other hormones are really elevated. Where the f are my hormones? My adrenals are way calmer. Eating this freaking elimination diet - which is pretty much chicken or turkey for breakfast (I need the purine to feel full) and salmon for lunch and dinner. I think the chicken is f-ing up my sinuses. Patience, Jennifer. Timing. Just understand that I absolutely get optimal and work backward from there.
 
-### nosnhojjennifer@yahoo.com — 2012-06-14T15:37:12+0300
+### [email redacted] — 2012-06-14T15:37:12+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-31098>
 
 > **Souldanzer;31135 wrote:** Dr. Kalish today told me
@@ -1928,7 +1928,7 @@ Something isn't quite right. I feel irritable again. Might have to stop all new 
 
 I guess I'm not sure why you're choosing to eat stuff that you know you can't tolerate? I wouldn't call chicken/turkey the optimal protein... if you know you can have red meat, design your own elimination diet.
 
-### nosnhojjennifer@yahoo.com — 2012-06-14T16:14:14+0300
+### [email redacted] — 2012-06-14T16:14:14+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-31101>
 
 > **Souldanzer;31203 wrote:** I guess I'm not sure why you're choosing to eat stuff that you know you can't tolerate? I wouldn't call chicken/turkey the optimal protein... if you know you can have red meat, design your own elimination diet.
@@ -1961,7 +1961,7 @@ I don't know what that means and can't find it googling  Does it mean in someone
 
 I'd say your func med doc is using her "one size fits all" approach in this case. You have more information than that it sounds like.... I'd use it. You are unique, therefore, you need to find your own unique path to health. If I tell my doc I'm allergic to chicken and he tells me to eat it anyways, he better have some darn good reasoning. Does she?
 
-### nosnhojjennifer@yahoo.com — 2012-06-14T19:20:31+0300
+### [email redacted] — 2012-06-14T19:20:31+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-31159>
 
 > **Jennifer;31205 wrote: Guess I'm not as comfortable with being rouge as you!  But playing it safe hasn't fixed me yet
@@ -1988,7 +1988,7 @@ I'm reading indigo's blog right now and loving what u r saying regarding binge e
 
 I'd say if I end up rewiring ANYbody's brain then my journey will be a success.... lol. Hopefully my own brain will be involved.
 
-### nosnhojjennifer@yahoo.com — 2012-06-14T19:27:39+0300
+### [email redacted] — 2012-06-14T19:27:39+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-31165>
 
 > **indigogirl;31215 wrote:** Jennifer,
@@ -2006,14 +2006,14 @@ Indigo! Thanks for this and you are too funny! I think I will back off the preg 
 
 Love to wake up and be done with it, lol!
 
-### nicebeanst@yahoo.com — 2012-06-14T20:33:46+0300
+### [email redacted] — 2012-06-14T20:33:46+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-31192>
 
 > **Jennifer;31205 wrote:** Guess I'm not as comfortable with being rouge as you!  But playing it safe hasn't fixed me yet
 
 Or as being as Jersey as me?
 
-### nicebeanst@yahoo.com — 2012-06-14T20:36:22+0300
+### [email redacted] — 2012-06-14T20:36:22+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-31196>
 
 > **Jennifer;31263 wrote:** Thanks SOuldanzer. U might be rewiring my brain lol
@@ -2041,7 +2041,7 @@ teeny, are you from Joisey? ( trying to invoke a nasal Jersey accent).
 
 I am originally.
 
-### nosnhojjennifer@yahoo.com — 2012-06-15T00:07:59+0300
+### [email redacted] — 2012-06-15T00:07:59+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-31254>
 
 > **Teenie Leek;31296 wrote:** Or as being as Jersey as me?
@@ -2050,24 +2050,24 @@ I could use a little Jersey, lol.
 
 I love it when something blows a hole in my mind - so much more space for living. We are the ones with the crazy rules and they are rules about ourselves - how to be "good" win approval be ok. Blah I'm sick of it. I just wanna live and be happy and healthy and feel good. Feel good and the rest will follow. Eat to feel good not just for the moment.
 
-### nosnhojjennifer@yahoo.com — 2012-06-16T07:03:36+0300
+### [email redacted] — 2012-06-16T07:03:36+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-31506>
 
 My mother is visiting and we are working on my house while I try to expose her to Some healthier eating habits. She is a tough sell. I'm too tired from all the work we did on the disgusting porch to complain. The former owner used to smoke out there on the enclosed porch. Omg if any smoker saw the amount of dirt and soot on the window where she had her butt parked smoking butts, they would quit. tomorrow painting and yard work.
 
 Xo
 
-### nosnhojjennifer@yahoo.com — 2012-06-19T15:38:45+0300
+### [email redacted] — 2012-06-19T15:38:45+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-32125>
 
 Minor major miracle - TOM has returned. I went 10 months w nothing. Now for the major major miracle -- finding Mr Right
 
-### kathiebu@hotmail.com — 2012-06-19T15:48:13+0300
+### [email redacted] — 2012-06-19T15:48:13+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-32128>
 
 Wow, that is fantastic!! It means that you're healing somehow!! All that hard work is paying back, I'm really glad for you
 
-### nosnhojjennifer@yahoo.com — 2012-06-19T16:56:16+0300
+### [email redacted] — 2012-06-19T16:56:16+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-32135>
 
 > **AbetterME;32240 wrote:** Wow, that is fantastic!! It means that you're healing somehow!! All that hard work is paying back, I'm really glad for you
@@ -2095,7 +2095,7 @@ Yay! You are \*are\* moving to optimal!
 
 WooHoo. I am so happy for you. I just read that on another thread and had to come over and congratulate you. As for Mr. Right - First things first, right!
 
-### nosnhojjennifer@yahoo.com — 2012-06-19T20:26:19+0300
+### [email redacted] — 2012-06-19T20:26:19+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-32210>
 
 > **paulalynn;32248 wrote: Oh Jennifer! That is great!!!! You're on the healing track!
@@ -2112,21 +2112,21 @@ Thank you ladies! I must admit, I am terrified of scaring him off...LOL...It's h
 
 I had such a busy weekend with my mom that I didn't have much time to think about things, just doing doing doing...who knows what finally tipped the scale but I'm glad it happened
 
-### nicebeanst@yahoo.com — 2012-06-21T02:32:31+0300
+### [email redacted] — 2012-06-21T02:32:31+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-32556>
 
 (((hugs))) and  happy dance
 
 don't worry about Mr Right. Apparently we just have to keep you from Mr. Wrong. Send me all their data and I will use my mad PI skillz to hunt them down and determine any false advertising. Too funny about Mr. Medical Doctor yesterday. TTYL xoxoxo
 
-### nicebeanst@yahoo.com — 2012-06-21T02:33:35+0300
+### [email redacted] — 2012-06-21T02:33:35+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-32557>
 
 Oh and HAPPY SOLSTICE!
 
 Burn something in the backyard tonight. I'm going to
 
-### nosnhojjennifer@yahoo.com — 2012-06-21T06:04:43+0300
+### [email redacted] — 2012-06-21T06:04:43+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-32624>
 
 > **Teenie Leek;32675 wrote:** Oh and HAPPY SOLSTICE!
@@ -2141,7 +2141,7 @@ Pooped.
 
 Xoxo
 
-### nosnhojjennifer@yahoo.com — 2012-06-21T15:52:50+0300
+### [email redacted] — 2012-06-21T15:52:50+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-32673>
 
 So, first off I am super happy that TOM is back but I forgot about this bloating stuff. I am used to getting bloat after eating but every morning when I wake up its gone - not now.  My body seems all jacked up now. I'm super thirsty and peeing like a racehorse and OMG my bowels are super out of whack. It's hard to respond to this with my head. I guess it's time to learn how to trust my body to tell me what it needs.
@@ -2155,7 +2155,7 @@ I want to dedicate this little ditty to all my Krusing friends out there:
 
 I read yesterday that CT helps with menstrual cramps and bloating...get in the tub lady! (Then, you will truly be 'cooler!')
 
-### nosnhojjennifer@yahoo.com — 2012-06-21T18:18:19+0300
+### [email redacted] — 2012-06-21T18:18:19+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-32725>
 
 > **PaleoCowgirl;32829 wrote:** I read yesterday that CT helps with menstrual cramps and bloating...get in the tub lady! (Then, you will truly be 'cooler!')
@@ -2164,7 +2164,7 @@ Yes you are so right there. I totally fell of the CT and now am back to face dun
 
 [http://forum.jackkruse.com/showthread.php?2040-Freezed-my-fat-first-time-since-CT](http://http://forum.jackkruse.com/showthread.php?2040-Freezed-my-fat-first-time-since-CT)
 
-### nosnhojjennifer@yahoo.com — 2012-06-21T18:30:46+0300
+### [email redacted] — 2012-06-21T18:30:46+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-32735>
 
 speaking of strawberries, PaleoCowgirl...I've been eating them as well. But I mix them with stuff or eat them with CO, which is really good. For example frozen strawberries with coconut milk and avocado for ice cream and I made a salad dressing with balsamic vinegar and olive oil - YUM. Although, I do wonder if they are the source of bloating. I did read that CT blog Dr K pointed us to and she said she could not tolerate fruit while on TOM. Things that make you go hmmmmm. And I saw somewhere a post about sugar content of fruit. And something about certain types of sugar in fruit is better than others...Oh, I can't remember! Maybe raspberries are a better choice. Or Rhubarb is in season now!
@@ -2177,7 +2177,7 @@ Fruits Low to Medium in Sugar
 
 •Strawberries •Casaba Melon •Papaya •Watermelon•Peaches•Nectarines•Blueberries
 
-### nosnhojjennifer@yahoo.com — 2012-06-21T19:36:28+0300
+### [email redacted] — 2012-06-21T19:36:28+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-32756>
 
 OMG, the bacteria in my gut knows when I'm stressed out? IF this doesn't convince me to avoid stressing out about things, I don't know what will! STESS causes a MESS in my body. No more stress:
@@ -2246,7 +2246,7 @@ The good news is that you can change your diet to change the bacteria in your bo
 
 [http://bodyecology.com/articles/is-your-stress-causing-leaky-gut-and-candida](http://http://bodyecology.com/articles/is-your-stress-causing-leaky-gut-and-candida)
 
-### nosnhojjennifer@yahoo.com — 2012-06-22T20:11:51+0300
+### [email redacted] — 2012-06-22T20:11:51+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-32979>
 
 still bloating  but I decided to use some P cream this morning and it seems like the bloating is down???
@@ -2282,7 +2282,7 @@ And I just plain love this blog by an Aussie with Hashimoto's:
 
 Jennifer, I loved your post on the gut and stress. And, Sarah Wilson's blog rocks! She has some great stuff on adrenal fatigue too! Hope you had a great weekend!
 
-### nosnhojjennifer@yahoo.com — 2012-06-25T16:08:12+0300
+### [email redacted] — 2012-06-25T16:08:12+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-33433>
 
 > **PaleoCowgirl;33543 wrote:** Jennifer, I loved your post on the gut and stress. And, Sarah Wilson's blog rocks! She has some great stuff on adrenal fatigue too! Hope you had a great weekend!
@@ -2326,7 +2326,7 @@ Takes just 15 minutes and can be done anywhere, so it’s convenient and easier 
 
 T-Tapp looks pretty cool. Did you buy the workout package?
 
-### nosnhojjennifer@yahoo.com — 2012-06-26T15:02:27+0300
+### [email redacted] — 2012-06-26T15:02:27+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-33633>
 
 > **PaleoCowgirl;33612 wrote:** T-Tapp looks pretty cool. Did you buy the workout package?
@@ -2341,7 +2341,7 @@ Here are some videos. She says the "hoedown" brings down blood sugar readings, s
 
 [http://youtu.be/jK7hs7Dvmzo\[/video\]\]\[video=youtube\_share;jK7hs7Dvmzo\]http://youtu.be/jK7hs7Dvmzo\[/video\]](http://[video=youtube_share;jK7hs7Dvmzo)
 
-### nosnhojjennifer@yahoo.com — 2012-06-27T20:02:52+0300
+### [email redacted] — 2012-06-27T20:02:52+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-33997>
 
 not much to report. Elimination diet is almost over, then I'm supposed to add things in one at a time for three days at a time but honestly, i have no idea how to tell if I am sensitive to a food or not. I get a lot of bloating and it seems really random (as in my diet doesn't change hugely and some days I am and some days I'm not). So...kind of like I don't know what the point is but I keep going.
@@ -2359,7 +2359,7 @@ Which foods are you adding back in? I have random days of bloating, too, but I h
 
 I cut all caffeine in Feb. and don't miss it at all. I think it messes with me more than anything!
 
-### nosnhojjennifer@yahoo.com — 2012-06-28T17:26:04+0300
+### [email redacted] — 2012-06-28T17:26:04+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-34169>
 
 Omg. Just lost my post. Geez. I was rambling too. Will re do later!
@@ -2371,7 +2371,7 @@ Omg. Just lost my post. Geez. I was rambling too. Will re do later!
 
 I can SO relate to this Jennifer. I often wonder when this detective work will end or at least result in some major improvement. All in good time I guess
 
-### nosnhojjennifer@yahoo.com — 2012-06-28T19:40:40+0300
+### [email redacted] — 2012-06-28T19:40:40+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-34193>
 
 > **PaleoCowgirl;34205 wrote: Which foods are you adding back in? I have random days of bloating, too, but I have found when I slowly add things in, testing it for 3 days before adding in anything else, it gives me a good indication of what I do well with and what I don't. I also notice changes in skin and energy, too.
@@ -2410,26 +2410,26 @@ Sounds like your family is a lot like mine. What I have found is if I bring a pa
 
 [http://www.thepaleogourmet.com/2011/01/warm-spinach-salad-with-bacon-apple-and.html](http://http://www.thepaleogourmet.com/2011/01/warm-spinach-salad-with-bacon-apple-and.html) (I did this for Christmas with hard boiled eggs chopped in there too and no apple and it was a huge hit at Christmas with my non-paleo relatives)
 
-### nosnhojjennifer@yahoo.com — 2012-06-29T20:22:31+0300
+### [email redacted] — 2012-06-29T20:22:31+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-34418>
 
 Thanks for the recipes PCG...I need a better handle for you! LOL I'll be staying in a cottage in Maine walking distance to the ocean with my family that I love but they drive me nuts too. We are all spread out, so it is heaven to be together but we'll all be sleeping under one roof. I know my one brother and his wife (she eats fake butter and low fat yogurt) will probably look at my eating weird, but my other two brothers and wives are cool. LOL It's gonna be hard for me because I'm the oldest and still not married. My youngest brother got married first and has two children (5 years old and a baby in April). The next youngest got married next and has a 9 month old. Then my brother closest in age to me got married a year ago and had a baby in April as well. SO, my feelings about myself being 40, single and childless are gonna be raw. Or then again, maybe I'll just freaking enjoy myself! HA
 
 Any whoo....I've been keeping myself distracting with a little project I am doing with my friend. I do like to obsess about something, so this at least has nothing to do with food or weight! It does have to do with dreams. We are doing a bit of an experiement which involves me keeping track of my dreams. What I'm learning is that I dream a lot about FOOD. I have had dreams about my brother and I discuss eating gluten free and my other brother on hcg. All this crazy stuff. But I also have been dreaming a lot about work and about the past (when I first moved back to Buffalo). I had this one dream that I was working with this GI doctor again (I worked for him in early 2000s). And low and behold, that day I was with my client at the hospital and I saw this woman who I worked with at the same GI doc. She's working at the hospital now. So weird. Consciousness and time are funny things. You know there are experiments that show that the future can affect the past. Makes me pray that the future optimal me is guiding the current me to make the right choices to get me there....
 
-### nosnhojjennifer@yahoo.com — 2012-06-29T20:45:25+0300
+### [email redacted] — 2012-06-29T20:45:25+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-34426>
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### jeanie@truelongmont.com — 2012-06-29T22:54:59+0300
+### [email redacted] — 2012-06-29T22:54:59+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-34452>
 
 > **Jennifer;34585 wrote:**
 
 Amen. At least there is company in here.
 
-### nosnhojjennifer@yahoo.com — 2012-06-30T04:32:02+0300
+### [email redacted] — 2012-06-30T04:32:02+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-34525>
 
 Free online conference happening in July
@@ -2438,7 +2438,7 @@ Free online conference happening in July
 
 Gary Taubes is scheduled to speak. Starts July 10. Two speakers a day. It's free but they are advertising "upgrades".
 
-### nosnhojjennifer@yahoo.com — 2012-06-30T14:08:14+0300
+### [email redacted] — 2012-06-30T14:08:14+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-34558>
 
 I was up way too early for a Saturday, like earlier than I get up for a work day. I am not happy with that because I really need my rest. If it wasn't for Leptin Rx I would have stayed in bed half awake. I think I need a serious reality check. I've been pushing myself too much. It started w my mom being here to help me with my house. We worked our tails off. Sun up to Past sun down. And of course now the projects are never ending! Lol. So I've been doing something almost every day that I wasn't out having fun! Last night I was doing wash and ended up lying on floor for a good 15 minutes lacking the desire to get up. I did finally make it into a cold tub!! I was so hot after doing yard work that it was rather easy. I don't know water temp. Did some warm to melt my Epsom salts and then all the way cold. Did 40 min easily. Going to a friends pool today and she says she can't get in unless it's over 80! Lol. I want to do lots of CT this week in prep for my trip to Maine! Ocean water is usually in 60s. We'll be walking distance to beach so I can go every morning while the others sleep. I did ice my carotids in bed last night as well but eventually took them off to sleep. Doing it again now while I watch a DVD. Thinking about going to the farmers market and grocery and store for a shovel. I need to dig some big roots up. Or maybe a day off is warranted.
@@ -2469,7 +2469,7 @@ Jennifer;34718 wrote:** I was up way too early for a Saturday, like earlier than
 
 I think a day off is totally warranted! Totally. Take care of yourself! Jealous of you CT in the ocean!!!
 
-### nosnhojjennifer@yahoo.com — 2012-07-01T16:58:13+0300
+### [email redacted] — 2012-07-01T16:58:13+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-34783>
 
 Had a major monkey wrench thrown into my day yesterday and I am afraid I didn't handle it well. My parents live about 6 hours away in Ohio which got pounded by a storm and now they and about a million other people are out of power. Their power isn't projected to come back on until 7/6/12. My parents have a raised ranch and just did a major restoration in the downstairs, which is three bedrooms, full bath and a living room. The foundation had shifted, so it was a total gut job. Any way, even though we discussed a generator last fall, they never bought one. So, I was enjoying a wonderful afternoon at my friend's house at her pool (my kind of heaven) when my dad called. I started searching for a store any where near them that had generators. I was at four hours away from them when I kind of realized that the store would close before they could drive there. So I agreed to buy one in Buffalo and start driving toward them. Any way, this whole situation totally triggered my adrenals. My friends were coming up with alternatives that included me not having to drive but my dad was getting really cranky with me and I was in turn getting cranky with my friends. In the end, what I realized is that my dad and I have the same stress response - we try to act fast without necessarily thinking everything through. And we get really snappy. When I suddenly felt starving, I realized my adrenals had just tripped out. In the end, my parents got to the meeting point way ahead of me and probably had time to buy the freaking generator themselves (the Lowes in that town had some but my dad just wasn't able to take the time to process the whole thing out). And it turned out I was looking at my friend's clock to time it out but the clock was broken! So it was really an hour earlier than I thought! Any way, I get lost in details sometimes.
@@ -2511,7 +2511,7 @@ OK, well this was LONG and I actually need to do some work!
 
 TTYL blog world
 
-### nosnhojjennifer@yahoo.com — 2012-07-01T23:59:19+0300
+### [email redacted] — 2012-07-01T23:59:19+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-34884>
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
@@ -2581,7 +2581,7 @@ Jim Rohn quotes (American Speaker and Author. He is famous for motivational audi
 
 Food elimination diets are very hard to do. I did it with 100 percent gf animal protein and fat.... it was easy to eat just that but it was hard to re-introduce correctly. You do have to wait a few days and I'd recommend you eat quite a bit of the test food to actually trigger a nice obvious reaction. I started with the least likely allergic foods just to get a bit of a base back into my diet. My outcome was pretty much don't eat anything that has anything added... not even natural flavors. Protein, fats, veggies, I'm fine with. But they have to be super squeaky clean.
 
-### nosnhojjennifer@yahoo.com — 2012-07-02T00:40:11+0300
+### [email redacted] — 2012-07-02T00:40:11+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-34896>
 
 > **Souldanzer;35052 wrote:** Food elimination diets are very hard to do. I did it with 100 percent gf animal protein and fat.... it was easy to eat just that but it was hard to re-introduce correctly. You do have to wait a few days and I'd recommend you eat quite a bit of the test food to actually trigger a nice obvious reaction. I started with the least likely allergic foods just to get a bit of a base back into my diet. My outcome was pretty much don't eat anything that has anything added... not even natural flavors. Protein, fats, veggies, I'm fine with. But they have to be super squeaky clean.
@@ -2621,7 +2621,7 @@ It sucks that so many folks went through all of that. But they are ok. Right? An
 
 I hope you rein things in soon. You have to find a way not to let them yank your chain. (those people that lovingly gave you life)
 
-### nosnhojjennifer@yahoo.com — 2012-07-02T01:47:30+0300
+### [email redacted] — 2012-07-02T01:47:30+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-34905>
 
 > **chocolate;35064 wrote:** Jennifer, that is so funny about your Dad wanting you to pull his bacon out of the fire. It just tells me that he thinks you can make everything alright for him, or he needed someone to yell at or something. He must have been frustrated.
@@ -2647,7 +2647,7 @@ Made me think of you and some others.....
 
 [http://www.lef.org/protocols/metabolic\_health/thyroid\_regulation\_01.htm](http://http://www.lef.org/protocols/metabolic_health/thyroid_regulation_01.htm)
 
-### nosnhojjennifer@yahoo.com — 2012-07-02T03:09:53+0300
+### [email redacted] — 2012-07-02T03:09:53+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-34924>
 
 > **Souldanzer;35068 wrote:** Made me think of you and some others.....
@@ -2695,7 +2695,7 @@ Sounds like you had a bit of a stressful weekend! I have a hard time when my pla
 
 I like what you wrote about spiritual cleansing. I'm going to work on that this week....some healing, detoxing, meditating, walking, breathing, loving. That's my plan.
 
-### nosnhojjennifer@yahoo.com — 2012-07-02T06:16:27+0300
+### [email redacted] — 2012-07-02T06:16:27+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-34959>
 
 > **PaleoCowgirl;35106 wrote:** Sounds like you had a bit of a stressful weekend! I have a hard time when my plans are ruined with the unexpected! Having to drive all that way and dealing with crabby parents is rough. Oddly, I had to leave a wedding in May to buy my parents a generator when their house was flooding and the electricity was out. It lead to some pretty abusive behaviors on my body...but we learn. I'm learning to cope with stress in different ways.
@@ -2706,7 +2706,7 @@ I like what you wrote about spiritual cleansing. I'm going to work on that this 
 
 Love your plan, Mandy!! And too weird on the generator coincidence. Yesterday my dad was calling me every half hour, today not a word even though I called him like four times (ok, maybe two). Parents! What can u do? Lol
 
-### nosnhojjennifer@yahoo.com — 2012-07-02T15:33:47+0300
+### [email redacted] — 2012-07-02T15:33:47+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-34983>
 
 It is by going down into the abyss
@@ -2717,7 +2717,7 @@ Where you stumble, there lies your treasure.
 
 ― Joseph Campbell
 
-### nosnhojjennifer@yahoo.com — 2012-07-02T15:45:06+0300
+### [email redacted] — 2012-07-02T15:45:06+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-34984>
 
 Sean Croxton is having another free online summit starting Sunday July 8th - Real Food Summit
@@ -2788,7 +2788,7 @@ copied from my facebook... idk if its propaganda or not
 
 Totally listening in on this one! My family is camping at my grandparent's cabin from the 4th through the weekend, but I'm choosing to stay home. All they do is sit around and eat and drink and I really can't handle the temptations right now. I know that sounds weak, and it probably is, but at this point, I'm on shaky ground, and I might give in to temptation and that would be a disaster. This is healing week, and the food summit at the end of it will be PERFECT! Thanks for posting this!
 
-### nosnhojjennifer@yahoo.com — 2012-07-02T21:29:28+0300
+### [email redacted] — 2012-07-02T21:29:28+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35095>
 
 > **chocolate;35217 wrote:** 300 generators just arrived at the John Deere dealership on Merritt's Creek Dr in Barboursville, WV. 100 are being shipped to the Wurtland, KY store an 100 to the Bidwell, OH store. The remaining 100 will be sold at the Barboursville location.
@@ -2799,7 +2799,7 @@ Totally listening in on this one! My family is camping at my grandparent's cabin
 
 Thanks Chocolate...I'll pass along info. FINALLY got a voicemail from my dad...sounds like he feels like they are living in a disaster zone...no power for them yet and gasoline is scarce. I was looking at generators on craigslist for myself just in case 2012 really does want to get all crazy on us. Maybe it's time to start stockpiling canned fish and water
 
-### nosnhojjennifer@yahoo.com — 2012-07-02T21:53:38+0300
+### [email redacted] — 2012-07-02T21:53:38+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35099>
 
 > **PaleoCowgirl;35229 wrote:** Totally listening in on this one! My family is camping at my grandparent's cabin from the 4th through the weekend, but I'm choosing to stay home. All they do is sit around and eat and drink and I really can't handle the temptations right now. I know that sounds weak, and it probably is, but at this point, I'm on shaky ground, and I might give in to temptation and that would be a disaster. This is healing week, and the food summit at the end of it will be PERFECT! Thanks for posting this!
@@ -2813,7 +2813,7 @@ a staycation sounds great...I wish I had one! I need the world to stop for a wee
 
 One thing I have learned since dealing with adrenal fatigue, is that when it's time to rest, don't feel guilty about it, just rest.
 
-### nosnhojjennifer@yahoo.com — 2012-07-03T04:47:16+0300
+### [email redacted] — 2012-07-03T04:47:16+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35218>
 
 > **PaleoCowgirl;35337 wrote:** One thing I have learned since dealing with adrenal fatigue, is that when it's time to rest, don't feel guilty about it, just rest.
@@ -2825,14 +2825,14 @@ Omg 100xs Yes! So important. I am kind of scared that I pushed myself too hard w
 
 Oh, you're gonna sleep so well after that CT! The house.... just be okay with it not being perfect. Does it really matter so much. Houses are projects... always something to do or fix. One thing at a time. Get some rest
 
-### nosnhojjennifer@yahoo.com — 2012-07-03T17:43:06+0300
+### [email redacted] — 2012-07-03T17:43:06+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35286>
 
 > **Souldanzer;35394 wrote:** Oh, you're gonna sleep so well after that CT! The house.... just be okay with it not being perfect. Does it really matter so much. Houses are projects... always something to do or fix. One thing at a time. Get some rest
 
 I need to train my brain to operate this way. I always feel like it ALL has to be done NOW. I'm not so good at chunking things into smaller projects. But we'll see. Hopefully today will be play day (outdoor concert if it doesn't rain). Now just to decide whether I return the ex's phone call or let it slide....
 
-### nosnhojjennifer@yahoo.com — 2012-07-03T17:52:13+0300
+### [email redacted] — 2012-07-03T17:52:13+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35289>
 
 Note to self - the liver detox tea makes you feel like crap.
@@ -2867,7 +2867,7 @@ Quite a task! But at the end of the experience I was more able to let go of chao
 
 As for the ex.... no idea  Sounds like it could go either way. Go with your gut?
 
-### nosnhojjennifer@yahoo.com — 2012-07-03T19:50:52+0300
+### [email redacted] — 2012-07-03T19:50:52+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35306>
 
 > **Souldanzer;35461 wrote:** When I moved to Boulder I was having trouble finding my final living destination for a few weeks and living in chaos and disaster around me (boxes.... trashed b/c I had to pull stuff out all the time). I had a buddhist mentor since I was attending a buddhist university and I was required to sit everyday.... I said the same thing. Can't do it, sorry, chaos around me. SO, my teacher had me sit in the worst spot of the place I was temporarily staying at..... and I had to learn to clear my mind and the chatter in right that spot.
@@ -2889,7 +2889,7 @@ The ex was no biggy. I make things up in my head like this one decision writes t
 
 Yes I KNOW! ;-) it's nice if they can make themselves useful though....
 
-### nicebeanst@yahoo.com — 2012-07-03T20:28:55+0300
+### [email redacted] — 2012-07-03T20:28:55+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35312>
 
 > [Jennifer said:](/goto/post?id=0)
@@ -2908,7 +2908,7 @@ Yes I KNOW! ;-) it's nice if they can make themselves useful though....
 >
 > I just mapquested your 'hood. Less than 7 hours.... ROAD TRIP?!?! Have canned fish, will travel.
 
-### nosnhojjennifer@yahoo.com — 2012-07-03T20:39:34+0300
+### [email redacted] — 2012-07-03T20:39:34+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35313>
 
 > **Souldanzer;35471 wrote: Yes I KNOW! ;-) it's nice if they can make themselves useful though....
@@ -2936,7 +2936,7 @@ Yes I KNOW! ;-) it's nice if they can make themselves useful though....
 >
 > Sure, come on over! I worked on the yard last night and the porch is done. Trying to schedule a woman's circle later in July. When do you go to Paris??
 
-### nicebeanst@yahoo.com — 2012-07-03T20:59:28+0300
+### [email redacted] — 2012-07-03T20:59:28+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35318>
 
 No Paris this summer, boo. Was there last summer 2 weeks, totally paleo, cheap too. loved it. My 2nd home, at least in my heart. Will prolly go to Switzerland next summer (where my daughter was born) girls only trip. C-c-c-c-o-l-d glacier water.... woo hoo! Keep that idea on the back burner......!
@@ -2945,7 +2945,7 @@ I went to the Falls when I was about 3, don't remember it. Remember the campgrou
 
 I will come up with some dates, let you know. Exciting prospect!
 
-### nosnhojjennifer@yahoo.com — 2012-07-03T21:45:38+0300
+### [email redacted] — 2012-07-03T21:45:38+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35331>
 
 [http://www.grassfedgirl.com/one-month-without-a-scale/](http://http://www.grassfedgirl.com/one-month-without-a-scale/)
@@ -2973,7 +2973,7 @@ Its been four weeks since I weighed myself and you know what happened? My weight
 
 Wars seem to coincide with solar storms and a few other things. Maybe that darned tsunami was caused by a far off universe's magnetic field. LOL. Lemme just say it in hillbilly...I seen thangs.
 
-### nosnhojjennifer@yahoo.com — 2012-07-03T22:53:50+0300
+### [email redacted] — 2012-07-03T22:53:50+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35345>
 
 > **chocolate;35499 wrote:** Wars seem to coincide with solar storms and a few other things. Maybe that darned tsunami was caused by a far off universe's magnetic field. LOL. Lemme just say it in hillbilly...I seen thangs.
@@ -2999,7 +2999,7 @@ I try to think of the daily pressures and chaos as little reminders to return to
 
 Glad to know there are fellow travelers on this journey
 
-### nosnhojjennifer@yahoo.com — 2012-07-04T01:07:57+0300
+### [email redacted] — 2012-07-04T01:07:57+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35372>
 
 Trailer for Medical, Inc is up on Facebook. Looks good
@@ -3008,7 +3008,7 @@ Trailer for Medical, Inc is up on Facebook. Looks good
 
 [http://www.youtube.com/watch?v=9wzKN4N3leg&feature=youtube\_gdata\_player\[/video\]\]\[video=youtube\_share;9wzKN4N3leg\]http://www.youtube.com/watch?v=9wzKN4N3leg&feature=youtube\_gdata\_player\[/video\]](http://[video=youtube_share;9wzKN4N3leg)
 
-### nosnhojjennifer@yahoo.com — 2012-07-04T01:14:52+0300
+### [email redacted] — 2012-07-04T01:14:52+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35376>
 
 > **KiwiLauren;35515 wrote:** I've had this exact instruction given to me! It's the perfect antidote to the thinking that goes..."things will be just fine when....". As Pema Chodron likes to say (as Souldanzer knows, she's one of my heros), it's easy when you go up the mountaintop to meditate. The real living is when you get off the mountain. Can you keep your centre then?
@@ -3023,7 +3023,7 @@ Trailer for Medical, Inc is up on Facebook. Looks good
 
 Thanks for sharing that Kiwi. I've heard it said "if you think you're enlightened, go spend the weekend with your parents"! Lol. Yes we need to practice in peace time is what my teacher always says. I feel like I've gotten away from my spiritual roots and I'm not happy w myself on that. Life is such bliss when you're "there" makes you wonder why you let yourself fall back into the suffering traps. Oh well. Guess its all part of the plan. I do think Leptin Reset and CT are both good for spiritual practices. My intuition goes way up when I CT. I think it's true for Dr k too. But I'm just guessing.
 
-### nosnhojjennifer@yahoo.com — 2012-07-04T01:17:16+0300
+### [email redacted] — 2012-07-04T01:17:16+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35378>
 
 > **Teenie Leek;35479 wrote:** No Paris this summer, boo. Was there last summer 2 weeks, totally paleo, cheap too. loved it. My 2nd home, at least in my heart. Will prolly go to Switzerland next summer (where my daughter was born) girls only trip. C-c-c-c-o-l-d glacier water.... woo hoo! Keep that idea on the back burner......!
@@ -3040,7 +3040,7 @@ Cool cool. Or rather
 
 Cold cold
 
-### nosnhojjennifer@yahoo.com — 2012-07-04T02:58:58+0300
+### [email redacted] — 2012-07-04T02:58:58+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35396>
 
 I'm so tired. I wanted to go to this fun outdoor concert tonight but it looked like rain. Skies cleared up but my motivation evaporated. Tried so hard to talk myself into going to the store for just a few little things. Even got dressed up decided to cold tub it instead. I need sleep and rest for my vacation! Better rehab the adrenals or I'll never make it with all the babies and grandparent stress! Lol. Don't cry for me, I'm going to the beach!
@@ -3049,7 +3049,7 @@ This morning after BAB I was HOT. Of course its summer. The house said 76. Felt 
 
 So tired. Gonna do 30 min then bed. Wish I could sleep outside its cool w a breeze. Love that
 
-### nosnhojjennifer@yahoo.com — 2012-07-05T15:57:52+0300
+### [email redacted] — 2012-07-05T15:57:52+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35612>
 
 booo...my freaking cystic acne is back with my cycle. Just posted an ASK JACK about it. In the past I took minocycline ofr it and that works great, but I'm guessing its no good for my gut to do this???
@@ -3089,7 +3089,7 @@ Jennifer, when I did muscle testing for foods, I found out zucchini and squash w
 
 My body being in a state of recovering weight that was lost due to starvation. Often co-occurs with hyper-metabolism after AN and requires significant amounts of caloric intake beyond the expected level to achieve necessary weight restauration.
 
-### nosnhojjennifer@yahoo.com — 2012-07-05T19:10:50+0300
+### [email redacted] — 2012-07-05T19:10:50+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35666>
 
 > **Souldanzer;35805 wrote: Isn't acne an indicator of something being out of whack with the hormones? I rarely can get myself to go anywhere at night.. it get's dark I want to sleep.... I figure one thing that's working in my body no matter how it's affecting my social life.
@@ -3121,7 +3121,7 @@ I need to learn about this re-feed biz. I THINK my weight is holding steady and 
 
 I had cystic acne as a teen. It went away with AN and before than with abx. I had the clearest skin with AN.... no hormones is no acne but there is also imbalance in hormones. I still get a breakout now every once in a while. For me it's food allergies.... dairy is deadly, the cleaner I eat the better my skin. DHEA can make me break out, as well.
 
-### nosnhojjennifer@yahoo.com — 2012-07-05T22:28:17+0300
+### [email redacted] — 2012-07-05T22:28:17+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35712>
 
 Guess Dr K busted me on the sweet potatoes and berries - his answer to my cystic acne question
@@ -3133,7 +3133,7 @@ Sounds like a hormone issue.....likely IR and increase testosterone likely due t
 
 get over it Jen ... I got busted, too. I think I'm still re-feeding. Dang it. You'd think 60lbs would be enough! We need to stop asking questions if we know we won't like the answers
 
-### nosnhojjennifer@yahoo.com — 2012-07-05T23:43:59+0300
+### [email redacted] — 2012-07-05T23:43:59+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35718>
 
 > **Souldanzer;35876 wrote:** get over it Jen ... I got busted, too. I think I'm still re-feeding. Dang it. You'd think 60lbs would be enough! We need to stop asking questions if we know we won't like the answers
@@ -3149,7 +3149,7 @@ Wait, I'm gonna do that for you.... let me get out my magic wand.... #(\*#)(#$\_
 
 I'd burn some sage, too, but that's not allowed in my place anymore b/c there's O2 in use and everything would go up into flames
 
-### nosnhojjennifer@yahoo.com — 2012-07-06T06:17:50+0300
+### [email redacted] — 2012-07-06T06:17:50+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35806>
 
 Thanks Soul! Maybe I can wish them away like a wart. Lol
@@ -3197,7 +3197,7 @@ I love your wisdom and your lectures to yourself. And your humour. I just wanted
 
 I'm now grateful for my body, too. With all it's limitations. I eat, I gain, I don't like it, but when I step back.... it's nothing. What I do now feels like self-care, not punishment. I might not like it, but the long-term goal sometimes requires us to do the things we do not like. The monk book says that people who are willing to endure discomfort in the now for the bigger goal are the ones who will be successful. I do believe that.
 
-### nosnhojjennifer@yahoo.com — 2012-07-06T15:43:00+0300
+### [email redacted] — 2012-07-06T15:43:00+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35831>
 
 Thanks Lauren. I gain so much from your posts. This really isn't about carbs or no carbs, is it? Sometimes I do think it's a lot to expect of our bodies - keep me alive, process and filter all the toxins I expose you to, make sure I feel good and be thin! Lol. I did love my thin belly. A lot. I miss it. It felt good but I felt a mess. I'm gonna have it again and I'm gonna do it right so I feel good!
@@ -3212,19 +3212,19 @@ It's amazing to me how much I have come to realize I don't know any thing at all
 
 Luv ya too Soul! And I would have loved to read your post - any length! Lol. I wish my computer was working. Can't post pics w this phone. Oh wait. Talk tap? Right. I'm gonna Try it.
 
-### nosnhojjennifer@yahoo.com — 2012-07-06T16:29:12+0300
+### [email redacted] — 2012-07-06T16:29:12+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35836>
 
 [](http://http://www.jackkruse.com/forum/convert_files/attachments/36000=318-ImageUploadedByTapatalk1341581330.116824.jpg)
 
 So true
 
-### nosnhojjennifer@yahoo.com — 2012-07-06T16:29:48+0300
+### [email redacted] — 2012-07-06T16:29:48+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35837>
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### nosnhojjennifer@yahoo.com — 2012-07-06T16:36:21+0300
+### [email redacted] — 2012-07-06T16:36:21+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-35838>
 
 Chocolate posted the reason why dr k says carbs give cystic acne: the liver releases unbound testosterone when there are too many carbs.
@@ -3264,17 +3264,17 @@ This is clicking with me. I feel like every day is a battle and the biggest one 
 
 I think that it is great that you are realizing that you have negative thoughts about yourself and finding it ridiculous.
 
-### nosnhojjennifer@yahoo.com — 2012-07-08T04:02:18+0300
+### [email redacted] — 2012-07-08T04:02:18+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-36167>
 
 Finally made it to ocean. And water is unseasonably warm! Lol figures. 70degrees. My niece loved it and sit CTed on way home.
 
-### nosnhojjennifer@yahoo.com — 2012-07-08T20:27:53+0300
+### [email redacted] — 2012-07-08T20:27:53+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-36215>
 
 Ocean is 65 today - like bath water , for wusses!! Lol.
 
-### nosnhojjennifer@yahoo.com — 2012-07-09T05:55:14+0300
+### [email redacted] — 2012-07-09T05:55:14+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-36290>
 
 Lots of vit d today and more ocean ct. Water was posted as 65 when I got there. 60 when I left. Chocolate seems to be a fail for me - huge zit and now eczema. Bloat finally better. Pretty sure that was the onion powder in my penzey spice mix. Too bad. I liked that one. Lobster for dinner. Yum. Guess butter is my add in next. Vacationland.
@@ -3288,7 +3288,7 @@ How do you post images via tapatalk? Been trying to figure it out.... I can post
 
 Enjoy your vacation and the ocean
 
-### nosnhojjennifer@yahoo.com — 2012-07-10T04:12:38+0300
+### [email redacted] — 2012-07-10T04:12:38+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-36452>
 
 Images vs pic? I save image from Facebook to my phone and upload as pic.
@@ -3297,14 +3297,14 @@ Bday party for runts. Not even gonna tell U what I ate. Vacation.
 
 I def got enough vit D but not enough CT for sure
 
-### nosnhojjennifer@yahoo.com — 2012-07-10T04:13:30+0300
+### [email redacted] — 2012-07-10T04:13:30+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-36453>
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
 Me and my niece
 
-### nosnhojjennifer@yahoo.com — 2012-07-10T04:30:17+0300
+### [email redacted] — 2012-07-10T04:30:17+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-36455>
 
 60th bday party for the runts $215 of lobster meat ...they put up w us. Guess they r worth it
@@ -3320,14 +3320,14 @@ That's 6#s
 
 The baby is amazing and you are so skinny, Jennifer! From your postings, I thought you were plum.You look great!! Don't change anything.
 
-### kathiebu@hotmail.com — 2012-07-10T15:43:56+0300
+### [email redacted] — 2012-07-10T15:43:56+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-36533>
 
 Nice pics! You look so great Jennifer!
 
 I hope you're having fun with your familly. This is precious time, enjoy it!
 
-### nosnhojjennifer@yahoo.com — 2012-07-10T23:57:50+0300
+### [email redacted] — 2012-07-10T23:57:50+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-36632>
 
 Thanks Katy and Destiny. A well placed baby hiding my belly!! Its looking really flubby. Sigh. I gain on love handles and. Belly. What is the mantra for building a butt out of belly fat?!!
@@ -3341,7 +3341,7 @@ Thanks Katy and Destiny. A well placed baby hiding my belly!! Its looking really
 
 Wow! You look great! You are so thin!
 
-### nosnhojjennifer@yahoo.com — 2012-07-11T00:21:36+0300
+### [email redacted] — 2012-07-11T00:21:36+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-36645>
 
 Here is a recent shopping pic. It's the belly!
@@ -3353,7 +3353,7 @@ Here is a recent shopping pic. It's the belly!
 
 You still look great to me! I know what you mean though...I have love handles and a belly like nobodies business. I get puffy everwhere, too, but no matter how skinny I got, the love handles NEVER went away. It must be a hormonal imbalance.
 
-### nosnhojjennifer@yahoo.com — 2012-07-11T01:01:41+0300
+### [email redacted] — 2012-07-11T01:01:41+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-36665>
 
 > **PaleoCowgirl;36814 wrote:** You still look great to me! I know what you mean though...I have love handles and a belly like nobodies business. I get puffy everwhere, too, but no matter how skinny I got, the love handles NEVER went away. It must be a hormonal imbalance.
@@ -3367,7 +3367,7 @@ I know. I don't want to lose weight just relocate it! To my tush. Ok affirmation
 
 Affirmations...so important. Okay, let me try...I love my fuller breasts and womanly hips. Dang, I'm sexay!
 
-### nicebeanst@yahoo.com — 2012-07-11T01:34:49+0300
+### [email redacted] — 2012-07-11T01:34:49+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-36676>
 
 how did I know that you were gonna post those pics from kohl's to negate the observations?!? Silly goose.
@@ -3376,14 +3376,14 @@ Glad you are enjoying your family time. Being at the seashore is good for the so
 
 (((hugs)))
 
-### nosnhojjennifer@yahoo.com — 2012-07-11T01:53:00+0300
+### [email redacted] — 2012-07-11T01:53:00+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-36678>
 
 > **PaleoCowgirl;36836 wrote:** Affirmations...so important. Okay, let me try...I love my fuller breasts and womanly hips. Dang, I'm sexay!
 
 Yay! I like it!
 
-### nosnhojjennifer@yahoo.com — 2012-07-11T01:53:32+0300
+### [email redacted] — 2012-07-11T01:53:32+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-36679>
 
 > **Teenie Leek;36842 wrote:** how did I know that you were gonna post those pics from kohl's to negate the observations?!? Silly goose.
@@ -3398,17 +3398,17 @@ Yay! I like it!
 
 Cause ur scarey good
 
-### nicebeanst@yahoo.com — 2012-07-11T02:09:02+0300
+### [email redacted] — 2012-07-11T02:09:02+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-36684>
 
 cause I'm a LEO. leos are awesome like that LOL
 
-### nosnhojjennifer@yahoo.com — 2012-07-11T17:07:49+0300
+### [email redacted] — 2012-07-11T17:07:49+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-36819>
 
 Morning ocean CT - I walk in sideways like a crab with my hands in prayer position and scream like an ewok when a wave crashes on me but once in it was fabulous. I swam a little against the tow and enjoyed the solitude. Only momentary panic when I realized I couldn't touch and I was the only person in the ocean with no life guard on duty. But that's pretty much just me
 
-### kathiebu@hotmail.com — 2012-07-11T17:25:37+0300
+### [email redacted] — 2012-07-11T17:25:37+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-36822>
 
 Totally jealous here
@@ -3441,7 +3441,7 @@ Jennifer if you ever complain of being fat again I am gonna come there myself an
 
 The ocean looks fantastic. Wish I were there!
 
-### nosnhojjennifer@yahoo.com — 2012-07-12T15:05:35+0300
+### [email redacted] — 2012-07-12T15:05:35+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-37128>
 
 Thanks ladies. Believe me I am very appreciative of my legs and arms. Doesn't mean it still isn't painful to me to deal with a flubby belly. But for my own cortisol level I think the subject is best dropped. I can tell this is a hot button for me. Triggering something inside of me that doesn't like my concerns being brushed off. I know you beautiful ladies are trying to support me and I love you all for it but inside is a hurt that doesn't like being ignored. So, thank you for showing me that wound because If i don't take care of it I will continue in this freaking roller coaster of weight loss and gain, telling myself I love myself and wanting to rip this layer of bulb right off my stomach. The bloating doesn't help and that is something I am still struggling to figure out. I've cut way back on supplements. And my scoliosis doesn't help either. I know I should be easier on myself. I'm fighting a major structural issue. If my poor spine was straight I'd be about 5'10 and I'd have a lot more room in that belly of mine. Lol.
@@ -3450,12 +3450,12 @@ Well I've been up since 7 am. Everyone else is asleep. I'm gonna clean up my bre
 
 I had a smorgasbord today - eggs w leftover lobster meat, greens and sweet potato. Chicken w greens and strawberries. I'm out of CO (I ate a whole jar of it already) so I'm using ghee. I feel very sad on a lot of levels. My gramps is sick (Parkinson's disease) and my gram is a mess dealing with it. She is trying to be primary care giver and is not in great shape herself not to mention she's 84! She's very controlling and my gramps is not liking it. I had a heart to heart w him last night and it's breaking my heart. ESP hard for me because there is very little I can do from grandchild role to fix it and I'm a little fixer by nature. My gram whom I love dearly! Throws my adrenals into overdrive. It's hard to deal with. And yet I see how alike we are. And end of vacation always brings up sadness over our family living spread apart. This is heaven right now being with them by the sea....
 
-### nosnhojjennifer@yahoo.com — 2012-07-12T15:35:17+0300
+### [email redacted] — 2012-07-12T15:35:17+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-37136>
 
 Ok. I've decided you ladies Re right and my focus is in the wrong place. I need to be working on body comp and not focused on belly flub. I know there are rocking abs in there. Time to dig them out. Thanks
 
-### nosnhojjennifer@yahoo.com — 2012-07-12T15:42:06+0300
+### [email redacted] — 2012-07-12T15:42:06+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-37138>
 
 Teenie I need ya!
@@ -3480,7 +3480,7 @@ I feel that sadness when I have to leave from visiting Europe. I'm usually a cry
 
 Sorry, not much help here. I think it's normal. It's your family and it's hard to not live close by. I sometimes think I'm crazy for living overseas. Maybe nature intended for all of us to stay around but we created planes and such.
 
-### nosnhojjennifer@yahoo.com — 2012-07-12T16:50:44+0300
+### [email redacted] — 2012-07-12T16:50:44+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-37159>
 
 Yes Soul. Not sure why I'm trying
@@ -3489,7 +3489,7 @@ To win this argument. Lol. Just know that when I feel hurt I need to be taken se
 
 Here is a pic I accidentally took walking the beach this morning. In one hand is my phone and in the other shells I picked up for my niece { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### nosnhojjennifer@yahoo.com — 2012-07-12T16:53:15+0300
+### [email redacted] — 2012-07-12T16:53:15+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-37160>
 
 > **Souldanzer;37312 wrote:** I feel that sadness when I have to leave from visiting Europe. I'm usually a crying mess in the airport and plane.... haven't found a different way to deal with it than through
@@ -3520,7 +3520,7 @@ That's what I keep thinking... and fly in my fam first class b/c my parents won'
 
 I'm so jealous. I wanna go the beach. I need to pick up a rich boyfriend when I go shopping today. On my list.
 
-### kathiebu@hotmail.com — 2012-07-12T19:28:14+0300
+### [email redacted] — 2012-07-12T19:28:14+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-37205>
 
 > **Souldanzer;37342 wrote:** I'm so jealous. I wanna go the beach. I need to pick up a rich boyfriend when I go shopping today. On my list.
@@ -3532,7 +3532,7 @@ Lol. If you find one, tell me where you go shopping, I'd take one too
 
 U could come visit and we could frequent the st julien in boulder every night.... That's where the rich people hang out
 
-### jeanie@truelongmont.com — 2012-07-12T20:11:31+0300
+### [email redacted] — 2012-07-12T20:11:31+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-37218>
 
 > **Souldanzer;37382 wrote:** U could come visit and we could frequent the st julien in boulder every night.... That's where the rich people hang out
@@ -3554,7 +3554,7 @@ Unless I drink that is :0)
 
 Jennifer, sorry you're sad and sorry about your grandpa. I've learned you can't save everyone; you have to save yourself first. I'm glad you are loving your body instead of hating on it. I want to start lifting, too! I really need to gain some muscle that I lost when I was wasting away. I used to be able to do 100 pushups at a time, now I can barely do 3. Sad. Sad. Sad.
 
-### nosnhojjennifer@yahoo.com — 2012-07-12T21:44:24+0300
+### [email redacted] — 2012-07-12T21:44:24+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-37246>
 
 "excuse me which aisle for hot rich single men?"
@@ -3572,14 +3572,14 @@ Just prating the best things happen for us all
 
 I like sporty  I love climbers. The carbs are a problem. Is he hot and rich? Might make up for it.
 
-### nosnhojjennifer@yahoo.com — 2012-07-12T23:26:28+0300
+### [email redacted] — 2012-07-12T23:26:28+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-37276>
 
 > **Souldanzer;37424 wrote:** I like sporty  I love climbers. The carbs are a problem. Is he hot and rich? Might make up for it.
 
 I'm not sure he's rich but his name is Rich. Lol. He is a graphic designer.
 
-### nosnhojjennifer@yahoo.com — 2012-07-12T23:28:18+0300
+### [email redacted] — 2012-07-12T23:28:18+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-37278>
 
 I finally got a good CT session in today. Perfect timing too because I could not get in later. Lol. The waves were rough. I swam against the tide for some exercise and got slapped in the face by waves a few times. Lol. Tomorrow I am going to attempt a sunrise CT session.
@@ -3593,7 +3593,7 @@ LOL
 
 sorry, I promised myself no more computer engineers forever.... I might join you in that early morning CT session. if I happen to wake up early
 
-### nicebeanst@yahoo.com — 2012-07-13T01:06:54+0300
+### [email redacted] — 2012-07-13T01:06:54+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-37314>
 
 > **Souldanzer;37448 wrote:** LOL
@@ -3604,7 +3604,7 @@ My ex is computer engineer.... I swore them off too.
 
 Lifting IS so empowering! The pic on that CF blog, the one on the right, looks like me, but I have bigger boobs and more belly. Not a big deal, I realize. I am super duper muscular, even before I was lifting. I have barely any fat on my legs, they are big, but not flabby at all, just a little cush on my butt, mostly is all in hips belly boobs. i will see if I can dig up some pics, and if I have the nerve to post them LOL how's this to blow your mind, when I was in my best looking shape, very defined arms, small waist, I was 132#, and a size TWO or FOUR. I'd buy size fours sometimes and get the waist taken in, cause my butt was too JLo for some twos. I was 117# in HS, and I wore a CHILDS 14. At 157 now, I am a 6/8, maybe a 10 sometimes because of boobage. No one ever believes me when I tell them how much I weigh. They always think 10-15# less. I would totally be a pin up girl, if this were the 50s.
 
-### kathiebu@hotmail.com — 2012-07-13T01:42:19+0300
+### [email redacted] — 2012-07-13T01:42:19+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-37318>
 
 > **Souldanzer;37382 wrote:** U could come visit and we could frequent the st julien in boulder every night.... That's where the rich people hang out
@@ -3625,14 +3625,14 @@ Jennifer, I think you can do both... focus on body comp and attend to the pain o
 
 Isn't that mandatory for being optimal? They try to over rationalize everything. It's like Joan Rivers said about her degree in Philosophy being worthless. She could go to the butcher and prove the meat didn't exist. LAST WORD isn't the best word.
 
-### kathiebu@hotmail.com — 2012-07-13T02:17:37+0300
+### [email redacted] — 2012-07-13T02:17:37+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-37337>
 
 > **KiwiLauren;37488 wrote:** Jennifer, I think you can do both... focus on body comp and attend to the pain of what gets triggered. For me, what is usually under the pain is a lot of grief. I think grief is totally normal but we tend to block it, trying to be optimistic or focussed on what we 'can' do. But you can grieve and feel pain even while you lift heavy and happy. You know this, I know. Letting go of what we thought we were or what we missed and still want opens the door to the unknown, which is scary. But is also likely where the rich, hot, paleo boyfriend resides
 
 I love that.
 
-### nosnhojjennifer@yahoo.com — 2012-07-13T02:25:31+0300
+### [email redacted] — 2012-07-13T02:25:31+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-37340>
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
@@ -3646,7 +3646,7 @@ For my ladies
 
 Let's run a test for that.
 
-### nosnhojjennifer@yahoo.com — 2012-07-13T12:58:09+0300
+### [email redacted] — 2012-07-13T12:58:09+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-37450>
 
 Got up for sunrise but didn't get in super windy. Couldn't do it. Now I'm waiting for something to open for brekky.
@@ -3660,7 +3660,7 @@ Thanks for posting all your lovely ocean pics. I love the ocean and wish I were 
 
 Btw- I like going in water when it is windy and cold cuz the water feels warm then.
 
-### nosnhojjennifer@yahoo.com — 2012-07-13T21:20:41+0300
+### [email redacted] — 2012-07-13T21:20:41+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-37564>
 
 Finally did some CT. Water is 58 today with strong waves and undertow. It took some time to get my arms in. Hands feel the worst. Finally did and swam against the tide for exercise. Last beach day
@@ -3680,7 +3680,7 @@ Finally did some CT. Water is 58 today with strong waves and undertow. It took s
 
 awesome. I didn't sleep very well so was glad I could sleep in at my choice. But missed the sunrise. Will try again tomorrow which sorta means I should go to bed now
 
-### nosnhojjennifer@yahoo.com — 2012-07-15T15:54:51+0300
+### [email redacted] — 2012-07-15T15:54:51+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38030>
 
 Back home. No ocean to CT in today. I know my weight is up from vacation. I wasn't exactly under on carbs. It frustrates me because I feel less confident to date. But I guess I'll just need to spanx up and keep going. This week I need to do some HIIT or LHT. idk. The t-tapp workout is hard to judge right now. I might try to do something different each day. I want to get back to my yoga too. I'm sure sun salutations would be a challenge right now. I do like feeling strong. Today is day 27 of my cycle.... Fingers crossed.
@@ -3690,14 +3690,14 @@ Back home. No ocean to CT in today. I know my weight is up from vacation. I wasn
 
 Been reading up on yr journal to try and find out where this gorgeous sunrise is...??
 
-### jeanie@truelongmont.com — 2012-07-15T19:22:33+0300
+### [email redacted] — 2012-07-15T19:22:33+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38082>
 
 > **Jennifer;38199 wrote:** Back home. No ocean to CT in today. I know my weight is up from vacation. I wasn't exactly under on carbs. It frustrates me because I feel less confident to date. But I guess I'll just need to spanx up and keep going. This week I need to do some HIIT or LHT. idk. The t-tapp workout is hard to judge right now. I might try to do something different each day. I want to get back to my yoga too. I'm sure sun salutations would be a challenge right now. I do like feeling strong. Today is day 27 of my cycle.... Fingers crossed.
 
 This is my new favorite thing to say "Just spanx up and do it!" "put your big girl spanx on and suck it up!"
 
-### nosnhojjennifer@yahoo.com — 2012-07-15T19:22:47+0300
+### [email redacted] — 2012-07-15T19:22:47+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38083>
 
 > **janagram;38248 wrote:** Been reading up on yr journal to try and find out where this gorgeous sunrise is...??
@@ -3711,7 +3711,7 @@ Ogunquit Maine! I just was blessed to spend a week there. If you know the area, 
 
 Beautiful area. We'll be up in the mid-coast area in a few weeks and I hope to step foot in the ocean, though I don't think there are any nice sandy beaches there.
 
-### nosnhojjennifer@yahoo.com — 2012-07-16T18:49:17+0300
+### [email redacted] — 2012-07-16T18:49:17+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38374>
 
 Having one of those mind f\*\*\*ing days. Excuse my French. Lol my mind was panicking this morning and mumbling to me to do another round of hcg. I know this would not be good for me and I would just end up back in the trap of obsessing over the scale and feeling like crap and losing and regaining.
@@ -3728,19 +3728,19 @@ In a quantum state a particle exists as a collection of all possible future selv
 
 I feel like that. No one has pinned me down and measured me yet. All my possible futures selves are there...
 
-### nosnhojjennifer@yahoo.com — 2012-07-16T18:50:12+0300
+### [email redacted] — 2012-07-16T18:50:12+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38375>
 
 > **Lyndra;38259 wrote:** Beautiful area. We'll be up in the mid-coast area in a few weeks and I hope to step foot in the ocean, though I don't think there are any nice sandy beaches there.
 
 Bummer. Hope you find one!! I love vacation.
 
-### nosnhojjennifer@yahoo.com — 2012-07-16T18:50:51+0300
+### [email redacted] — 2012-07-16T18:50:51+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38376>
 
 A handy reference { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### nosnhojjennifer@yahoo.com — 2012-07-16T20:53:31+0300
+### [email redacted] — 2012-07-16T20:53:31+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38439>
 
 I am seriously considering changing my diet to strictly meat, seafood, CO, eggs, and lindt 90% chocolate (and maybe blueberries-maybe sweet potato). Vegetables are turning into a rea PITA. Between the FODMAP and the nightshade and the goiter-making, I can barely eat anything any way - I mean, it's basically like fennel and chard! LOL
@@ -3756,12 +3756,12 @@ I am seriously considering changing my diet to strictly meat, seafood, CO, eggs,
 
 I have seriously considered the same thing. I still can't get those 5lbs off from the HC and it is xxxxing me off. I had actually lost just a bit from CT and then BAM!!! Thought it might help if I cut the veggies. My son's wedding is in 3 weeks and I am bummed I can't get it off. If I cut them, I won't have to shop as often either as most of my meat is in the freezer. Did you add the eggs back in? Response from them?
 
-### nosnhojjennifer@yahoo.com — 2012-07-16T21:07:05+0300
+### [email redacted] — 2012-07-16T21:07:05+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38442>
 
 I have been eating eggs here and there. I did NAET to "clear" the allergy. I think I do OK with them. I had a reaction to the 100% Nestle's baking chocolate but Lindt and other brands seem OK. Again, as long as I don't eat too much. It's so hard to tell because I bloat up on pretty much everything. My poor belly. I probably need to give it a serious break. Let me add kombucha, kefir water, bone broth and sauerkraut to the list. Oh and wine, right?
 
-### kathiebu@hotmail.com — 2012-07-16T21:20:18+0300
+### [email redacted] — 2012-07-16T21:20:18+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38446>
 
 Yeah, when you look at the chart, there's not much left...But if it makes the bloating go away, it might be worth it?
@@ -3777,7 +3777,7 @@ Jennifer, I'd love to get your take on a theory I'm trying to sort, given some o
 
 The diet Dr K told me to stick by is what you're suggesting... fish/shellfish, meat, eggs (though he suspects Hashis and they may go) and CO. A little ghee is OK, but lots of CO. Now I have major hormone issues too, so not suggesting that this is right for you because it's right for me, but I am wondering what you think, especially because of the 'poor belly' issue. (Oh, and he said that the chocolate was fine, too... and yes, even wine (as long as it was an Australian shiraz!)).
 
-### nosnhojjennifer@yahoo.com — 2012-07-16T23:04:27+0300
+### [email redacted] — 2012-07-16T23:04:27+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38494>
 
 > **KiwiLauren;38621 wrote:** Jennifer, I'd love to get your take on a theory I'm trying to sort, given some of Dr K's comments to me. He has said that the source of my many issues start with the gut. Got it. But then, since getting my diet optimal, I've had MORE symptoms of food intolerances, gut disruption, allergy symptoms (even swollen fingers!). I noted that BJK (can't remember her full forum letter combo) also posted in Ask Jack about a similar thing (and wondered if it was oxalate dumping). In any case, when I started having symptoms _after_ 6 months of really tight diet/lights/etc, Dr K gut bacteria is changing its composition and allowing more inflammation in. To BJK he said, "Can you say you have a gut flora/leaky gut/fundamental problem that is causing this.........focus on that and not on what it does and watch what happens." What I take this to mean is that symptoms in the gut aren't the problem... and may be a sign of reorganisation on the way to healing.
@@ -3810,7 +3810,7 @@ Love the analogy. Makes total sense. I had to give up coconut milk too (everythi
 
 Whenever I feel like my diet is limited because of the AI protocol, I remind myself what I CAN eat, not what I can't. It seems to help my mindset.
 
-### nosnhojjennifer@yahoo.com — 2012-07-17T05:26:37+0300
+### [email redacted] — 2012-07-17T05:26:37+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38630>
 
 > **PaleoCowgirl;38700 wrote:** Whenever I feel like my diet is limited because of the AI protocol, I remind myself what I CAN eat, not what I can't. It seems to help my mindset.
@@ -3824,7 +3824,7 @@ Yes we are very lucky. I mean what other way of eating allows for steak bacon an
 
 May I ask why you had to give up coconut milk? I've been eating a lot of it as I can't see much of a difference between the milk and the oil. My milk has only 1g carb per serving, so it's about 7g for the whole can. Not that much. I know other brands have more. Mine also is pure and doesn't have the thickeners. I love my coconut milk. Put it in the fridge overnight and I go through a can a day pretty much. Have stopped the ridiculous coconut oil consumption with that which I was doing before.
 
-### nosnhojjennifer@yahoo.com — 2012-07-17T06:02:57+0300
+### [email redacted] — 2012-07-17T06:02:57+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38636>
 
 > **Souldanzer;38809 wrote:** May I ask why you had to give up coconut milk? I've been eating a lot of it as I can't see much of a difference between the milk and the oil. My milk has only 1g carb per serving, so it's about 7g for the whole can. Not that much. I know other brands have more. Mine also is pure and doesn't have the thickeners. I love my coconut milk. Put it in the fridge overnight and I go through a can a day pretty much. Have stopped the ridiculous coconut oil consumption with that which I was doing before.
@@ -3833,7 +3833,7 @@ Bloat  don't think it's the guar gum either (I had a can w/o it and still bloate
 
 [http://chriskresser.com/3-reasons-why-coconut-milk-may-not-be-your-friend](http://http://chriskresser.com/3-reasons-why-coconut-milk-may-not-be-your-friend)
 
-### nosnhojjennifer@yahoo.com — 2012-07-17T06:05:12+0300
+### [email redacted] — 2012-07-17T06:05:12+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38638>
 
 > **KiwiLauren;38685 wrote:** Love the analogy. Makes total sense. I had to give up coconut milk too (everything but CO, which I've been ordered to drown myself in ... internally and externally!) and am really crossing fingers it will be back on the menu someday. Maybe I should just eat fish head smoothies all day long and see what my tummy thinks of that  I still wonder about 'gut composition changing and allowing more inflammation in.' Does indeed sound like a war of sorts (open the gates, ready, aim... fire!).
@@ -3855,7 +3855,7 @@ Why would increased gut permeability be a good thing? Why would increased inflam
 
 I also eliminated to test if I was having a reaction to it. I definitely react to avocados, btw. The kind I use is pure (no additives at all) and very low carb, but still very different to the oil. Also, Dr K told me to 'drown myself in CO' and to eliminate all carbs so it's another reason. I'm not sure if this is crazy or not, but sometimes I find the things I like the best (and therefore would enjoy eating daily) are things that don't work well for me, at least for the moment. Coconut milk is something I really like, which is what made me suspicious. CO on the other hand, I'm bloody sick of (or should I say healthy of?).
 
-### nosnhojjennifer@yahoo.com — 2012-07-17T16:45:09+0300
+### [email redacted] — 2012-07-17T16:45:09+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38711>
 
 > **KiwiLauren;38842 wrote:** I also eliminated to test if I was having a reaction to it. I definitely react to avocados, btw. The kind I use is pure (no additives at all) and very low carb, but still very different to the oil. Also, Dr K told me to 'drown myself in CO' and to eliminate all carbs so it's another reason. I'm not sure if this is crazy or not, but sometimes I find the things I like the best (and therefore would enjoy eating daily) are things that don't work well for me, at least for the moment. Coconut milk is something I really like, which is what made me suspicious. CO on the other hand, I'm bloody sick of (or should I say healthy of?).
@@ -3882,7 +3882,7 @@ I use Natural Value from Vitamin Cottage, which might be a local brand. Do NOT l
 
 I get a bit bloated some times or maybe even quite a lot it's just not on my radar like your girls'.... if there's a particular food that causes it, yes I would probably avoid it. But if \*everything\* is causing it.... I just keep walking the path to optimal. THat's what I did when I was permanently bloated during re-feeding. I survived. Spanx.
 
-### nosnhojjennifer@yahoo.com — 2012-07-17T18:49:02+0300
+### [email redacted] — 2012-07-17T18:49:02+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38752>
 
 > **Souldanzer;38916 wrote:** I use Natural Value from Vitamin Cottage, which might be a local brand. Do NOT like Thai Kitchen at all anymore. All I can taste is Guar GUm and there's like 3g carbs per serving, which would get my count up to 21 a day just from a can of coco milk.
@@ -3898,19 +3898,19 @@ Things that make you go HMMMM
 
 it is getting better with time.... but took a whole long while..... b/c it was so bad I don't care about the moments I look a bit pregnant now.
 
-### nosnhojjennifer@yahoo.com — 2012-07-17T19:30:03+0300
+### [email redacted] — 2012-07-17T19:30:03+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38772>
 
 This morning I had 2.2 pounds of steak (YUM), CO, and an egg with shredded sweet potato and blueberries (I am too wierd). And I have pretty medium bloat. OH and my homemade kombucha. I am so craving blueberries right now. I have tuna for lunch. I'm not starving, but I feel my temper coming up, so I know I'll need to eat any way. Salmon for dinner. Gotta hit the grocery store, sales on shrimp, cod, haddock and scallops this week. And shark steak, but I guess I'll skip that. I hit up one store last night and am stocked up on salmon. I bought one of theose Florida avocados. What's the deal with them? They look weird. Still hunting a DHEA cream. I'm cutting back on supplements. I'm taking reuteri, pregnenolone, 7 keto, buyric acid, hcl when I need it. ; carnitine when I remember, K2 (for my teeth - although swishing hydrogen peroxide has been working pretty good). I finished up my bottle of phosphatidyl choline and fish oil. I have Raynaud's and I read a recent "Ask Jack" about that and he said that Raynaud's peeps have the worst ratio's of essential fatty acids in cell membranes that he's seen  So, I'm guessing I need to keep focusing on that. MORE FISH, right Souldanzer? So, is there an actual list of this epi-paleo diet that dr K is recommending? I'll admit I have not read the full BG series. The first one fried my brain. LOL I guess I need me a mackerel smoothie first.
 
 in other news...my mom is having a partial hysterectomy today for her falling out uterus and my dad has yet to give an update. frustrating. Why don't guys get it? His phone is off...
 
-### nosnhojjennifer@yahoo.com — 2012-07-17T19:33:37+0300
+### [email redacted] — 2012-07-17T19:33:37+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38775>
 
 Oh and today is day 29
 
-### kathiebu@hotmail.com — 2012-07-17T19:38:42+0300
+### [email redacted] — 2012-07-17T19:38:42+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38779>
 
 Didn't realize that avocados were on the list of food to avoid from Fodmap  Sadness here. I have one everyday. Will finish those I bought and will try this Fodmap thing for a few weeks.
@@ -3930,12 +3930,12 @@ I'm not saying you should eat less but that was 2.2 lbs of steak? I would get bl
 
 Oh, yes, MORE FISH!!! Bring on the mackerels  As I understand of right now, shellfish tops the list, then you want small fishies, then the bigger ones. Wild caught over farmed. Farmed over GF meat. Throw in some GF offal and bacon once in a while. Always eat the skin with the fish. Not sure I got it all correct.
 
-### nosnhojjennifer@yahoo.com — 2012-07-17T20:32:41+0300
+### [email redacted] — 2012-07-17T20:32:41+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38796>
 
 thanks soul...and yes, i feel full but hungry...prob too much protein, it was a fattier cut of beef and I had a lot of CO. I just ate some tuna and seaweed and wow, tummy is full. That's gotta be it for me today! The canned mackerel made me so sick. Not sure I could go there again but scallops and shrimp are on sale this week! One place has florida wild caught shrimp for 19.95/lb (sold in 2 lbs bags). That's a lot for me, but maybe...
 
-### nosnhojjennifer@yahoo.com — 2012-07-17T21:03:04+0300
+### [email redacted] — 2012-07-17T21:03:04+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38807>
 
 > **AbetterME;38957 wrote:** Didn't realize that avocados were on the list of food to avoid from Fodmap  Sadness here. I have one everyday. Will finish those I bought and will try this Fodmap thing for a few weeks.
@@ -3961,7 +3961,7 @@ Thanks Katy. He finally sent me an imessage from his ipad saying surgery got pus
 
 Jen, noting what Soul just said, do you need enzymes to help you digest your food? HCL won't do it all. Perhaps that will stop some of the bloat. I know it helps me. Make sure it has pacreatic enzymes in them. Have you had a GI Effects test done yet? Might not be a bad idea since it is all gut. I am waiting for my results. Excited but scared too. Never know what might be creeping in there.
 
-### nosnhojjennifer@yahoo.com — 2012-07-18T00:55:44+0300
+### [email redacted] — 2012-07-18T00:55:44+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38859>
 
 > **Jennifer;38950 wrote:** This morning I had 2.2 pounds of steak (YUM), CO, and an egg with shredded sweet potato and blueberries (I am too wierd). And I have pretty medium bloat. OH and my homemade kombucha. I am so craving blueberries right now. I have tuna for lunch. I'm not starving, but I feel my temper coming up, so I know I'll need to eat any way. Salmon for dinner. Gotta hit the grocery store, sales on shrimp, cod, haddock and scallops this week. And shark steak, but I guess I'll skip that. I hit up one store last night and am stocked up on salmon. I bought one of theose Florida avocados. What's the deal with them? They look weird. Still hunting a DHEA cream. I'm cutting back on supplements. I'm taking reuteri, pregnenolone, 7 keto, buyric acid, hcl when I need it. ; carnitine when I remember, K2 (for my teeth - although swishing hydrogen peroxide has been working pretty good). I finished up my bottle of phosphatidyl choline and fish oil. I have Raynaud's and I read a recent "Ask Jack" about that and he said that Raynaud's peeps have the worst ratio's of essential fatty acids in cell membranes that he's seen  So, I'm guessing I need to keep focusing on that. MORE FISH, right Souldanzer? So, is there an actual list of this epi-paleo diet that dr K is recommending? I'll admit I have not read the full BG series. The first one fried my brain. LOL I guess I need me a mackerel smoothie first.
@@ -3972,7 +3972,7 @@ Ok maybe it wasn't two pounds after all. My friend gave it to me b/c they had it
 
 I feel better now. Lol
 
-### nosnhojjennifer@yahoo.com — 2012-07-18T01:51:58+0300
+### [email redacted] — 2012-07-18T01:51:58+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38873>
 
 > **vkiernan;38986 wrote:** Jen, noting what Soul just said, do you need enzymes to help you digest your food? HCL won't do it all. Perhaps that will stop some of the bloat. I know it helps me. Make sure it has pacreatic enzymes in them. Have you had a GI Effects test done yet? Might not be a bad idea since it is all gut. I am waiting for my results. Excited but scared too. Never know what might be creeping in there.
@@ -3984,7 +3984,7 @@ Keep me posted on the results and if it's helpful. I would like to do this test 
 
 Jennifer, that seaweed can be a buggar, too. We're eating avocados, even though they are fodmaps. We just quit for a couple of weeks. I have a new theory about that anyway. The biotin stops the stuff from making alcohol and the fermenting process. Avocados have tons of great stuff in them. Not having any bloating with them. The biotin helps, I'm sure.
 
-### nosnhojjennifer@yahoo.com — 2012-07-18T06:15:35+0300
+### [email redacted] — 2012-07-18T06:15:35+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-38942>
 
 > **chocolate;39073 wrote:** Jennifer, that seaweed can be a buggar, too. We're eating avocados, even though they are fodmaps. We just quit for a couple of weeks. I have a new theory about that anyway. The biotin stops the stuff from making alcohol and the fermenting process. Avocados have tons of great stuff in them. Not having any bloating with them. The biotin helps, I'm sure.
@@ -3993,21 +3993,21 @@ Awesome. Thanks for the tip chocolate. I would live not to give them up. U takin
 
 Just googled it. Been craving berries and they are high in biotin along w nuts, which if course I love but my omega ratios suck. Eggs. I can do in small doses. I hate carrots but would do halibut. Gotta keep that in mind
 
-### nosnhojjennifer@yahoo.com — 2012-07-18T18:12:30+0300
+### [email redacted] — 2012-07-18T18:12:30+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-39027>
 
 So after yesterday's huge BAB, today I might have undershot. I've been busy so I had to do all my prep and cooking this am. I have liver out and I purÃ©ed it with sweet potato and ground beef with cilantro cinnamon and the last of my turmeric. Not bad. I also made a salmon "pancake". And lots of CO. I know Dr K says eat a lot but I often wonder if he realizes how much I can eat! Lol. If it was not so expensive I could easily down a cup or more a day. Bowel tolerance is a laugh for me - nothing puts a dent into my constipation. Lol
 
 Really gonna focus on seafood. Salmon for lunch. I have no time for dinner so I hope I can skip.
 
-### nosnhojjennifer@yahoo.com — 2012-07-18T22:41:47+0300
+### [email redacted] — 2012-07-18T22:41:47+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-39146>
 
 got all excited when I saw this article until I read their recommendations...whole grains and canola oil? FAIL
 
 [http://finance.yahoo.com/news/science-behind-americas-deadliest-diseases-031400919.html](http://http://finance.yahoo.com/news/science-behind-americas-deadliest-diseases-031400919.html)
 
-### nicebeanst@yahoo.com — 2012-07-19T03:24:15+0300
+### [email redacted] — 2012-07-19T03:24:15+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-39251>
 
 I talk to you so much every day, I hardly EVER write in your journal.
@@ -4025,7 +4025,7 @@ GET the frikkin' mackerel heads. Your ute needs primo nutrition. Fuhgeddaboudit.
 
 +1 on the HCL. I take that, as well as NOW Super Digestive Enzymes.
 
-### nosnhojjennifer@yahoo.com — 2012-07-19T17:44:36+0300
+### [email redacted] — 2012-07-19T17:44:36+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-39353>
 
 Thanks ladies.
@@ -4049,7 +4049,7 @@ Jen I noticed a huge change in myself after getting out into the sun every day f
 
 We're all so focused on avoiding artificial light after dark.... let's start focusing on getting \*daylight\* during the day as well and see what happens. I'm pretty sure this was one major important part for me feeling a bit better lately - getting real daylight and sun for as many hours as I can during the day. Now it's like my body flips the switch at night. Sun down and I want to go to bed.
 
-### nosnhojjennifer@yahoo.com — 2012-07-19T18:15:31+0300
+### [email redacted] — 2012-07-19T18:15:31+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-39362>
 
 > **Teenie Leek;39436 wrote:** I talk to you so much every day, I hardly EVER write in your journal.
@@ -4068,7 +4068,7 @@ We're all so focused on avoiding artificial light after dark.... let's start foc
 
 love you!!!!!!
 
-### nosnhojjennifer@yahoo.com — 2012-07-19T18:23:06+0300
+### [email redacted] — 2012-07-19T18:23:06+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-39367>
 
 > **Souldanzer;39547 wrote:** Jen I noticed a huge change in myself after getting out into the sun every day for extended periods of time. I think not cooping up inside is one of the more important things to get your hormones back to normal.
@@ -4087,7 +4087,7 @@ OK, complaining. Stop talking about what I can't do and talk about what I can.
 
 Today, I have no evening plans. I am going to tackle the rest of my vacation laundry and get my food sorted out. I need to check in on my booch and get my water kefir up and running again. Hopefully at least do some push up or sun salutations. Maybe outside in my yard?? I need to enjoy this house of mine too! Why is time sped up so fast??
 
-### nosnhojjennifer@yahoo.com — 2012-07-19T18:46:56+0300
+### [email redacted] — 2012-07-19T18:46:56+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-39381>
 
 also on my mind...solar flares?
@@ -4100,7 +4100,7 @@ My coworkers are saying the flu is going around the building (GI Upset) and anot
 
 "Interesting about that solar flare that occurred last week. Many people reported getting ill around and after that time, and I (who am never ill) got flu twice in two weeks (the second time a strange viral conjunctivitis). We are only beginning to realize how much we are affected by the sun and how much we are an intergalactic superorganism." Lynne McTaggart
 
-### nosnhojjennifer@yahoo.com — 2012-07-19T18:59:15+0300
+### [email redacted] — 2012-07-19T18:59:15+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-39384>
 
 brain is super active today - lol - fishy food?
@@ -4120,7 +4120,7 @@ If I have any prayer at all at reproducing, I need to be LS and it's taking me a
 
 I always thought that Dr K wasn't entirely human. Now we got proof.
 
-### nosnhojjennifer@yahoo.com — 2012-07-19T22:46:55+0300
+### [email redacted] — 2012-07-19T22:46:55+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-39475>
 
 Soul,
@@ -4135,14 +4135,14 @@ Cooking of these marine food sources impedes their optimal usefulness to the opt
 
 Raw seafood will not limit the production of estradiol and estrone by the gut flora, as well that confers major advantages to humans as they age as well. These are commonly found in humans who eat large amounts of undercooked seafood. Both of these estrogens are been shown to have links to many human diseases when other systems are out of their allosteric hormonal balance.
 
-### nosnhojjennifer@yahoo.com — 2012-07-20T04:50:01+0300
+### [email redacted] — 2012-07-20T04:50:01+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-39582>
 
 Took the raw plunge ... Well I guess of I'm honest, it was a toe dip. Scallop ceviche - just lime juice and white wine. Had to go to grocery store after dinner to pick up a few things. More raw ceviche tomorrow. I did look at the fish at the store but the only thing with a head was a farm raised trout so I passed.
 
 I took a 40 min cool tub. Now I'm in bed with ice packs on my neck and throat. My jaw is killing me from dds
 
-### nosnhojjennifer@yahoo.com — 2012-07-20T05:41:25+0300
+### [email redacted] — 2012-07-20T05:41:25+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-39599>
 
 Anyone else out there taking butyric acid? I can't remember what I read that made me buy it but it's supposed to be good for colon and reducing inflammation and gut permeability. I know I can vouch for the fact that it smells pretty bad
@@ -4158,7 +4158,7 @@ Good morning. Happy Friday. Wondering how much HCL you are taking? I got thinkin
 
 Congrats on trying the rawish seafood. I am not quite there yet but might try Inger's recipe for the salmon.
 
-### nosnhojjennifer@yahoo.com — 2012-07-20T16:16:06+0300
+### [email redacted] — 2012-07-20T16:16:06+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-39660>
 
 > **vkiernan;39832 wrote:** Good morning. Happy Friday. Wondering how much HCL you are taking? I got thinking and remember when I had to take 11-15 a day and due to CT'ing and whatever else, I don't take any anymore. You mentioned somewhere that nothing helped. I tried a couple the last few days and OMG, nope can't go there. Mag citrate has always helped me too but the HCL with that made all the difference.
@@ -4169,7 +4169,7 @@ Congrats on trying the rawish seafood. I am not quite there yet but might try In
 
 I take one hcl w brekky and one w dinner when I think of it. But the reason I take them is for heartburn or that feeling like food us just sitting in my stomach not constipation. Do they help w that? I didn't take any on vacation and was just fine. I've had problems w my colon since I had this big old cyst on my left ovary. It was pressing on my colon for about a week before surgery and I coped by taking laxatives and eating fiber. Omg Never been right since.
 
-### nosnhojjennifer@yahoo.com — 2012-07-20T16:19:41+0300
+### [email redacted] — 2012-07-20T16:19:41+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-39662>
 
 Radical Self Love - Yes [http://www.youtube.com/watch?v=GFXHYtY9ag8&sns=em\[/video\]\]\[video=youtube\_share;GFXHYtY9ag8\]http://www.youtube.com/watch?v=GFXHYtY9ag8&sns=em\[/video\]](http://[video=youtube_share;GFXHYtY9ag8)
@@ -4219,14 +4219,14 @@ I'm learning I can't fight my body, too, and if my body needs to be a little hea
 
 Yes it helps constipation big time. You aren't taking very much. Have you tried taking more? Take 2 with BAB and and 1 with lunch, see how you do, then take 2 with BAB and perhaps 2 with lunch and see how you do and keep titrating it up until you find the good spot. Might also help with the bloating. I really use to take 7 with BAB and 3 or 4 with lunch and some at dinner if I remembered too. I remember when it all turned the other way and I couldn't take anymore. That was a good day although in the process it sucked. Bad reflux. No more though. I still think you need to add pancreatic enzymes to your diet too. That helps with the proten digestion.
 
-### nosnhojjennifer@yahoo.com — 2012-07-21T01:14:50+0300
+### [email redacted] — 2012-07-21T01:14:50+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-39839>
 
 Ok, V, I'll give it a try and look for enzymes.
 
 I kind of screwed up. I tried this scallop ceviche recipe that called for plums and tarragon. Two things I don't normally eat but I thought its summer what the hey. Had it for lunch and had a bad sugar crash. My stomach hurt real bad, I was hot and short tempered and hungry. I got nauseous, which happens when my blood sugar goes low but I was kind of scared my belly was unhappy with the raw scallops. Any way. I had a big dinner and i feel better now. I had haddock, avocado w spicy mustard, cooked a few scallops and gone sweet potato. I asked dr k about butyric avid and he said eat it. Lol. Eggs and butter are a good source but I tread lightly there. Gonna need to get some ghee. Of course nuts also have butyric acid which I wonder If that has anything to do with my craving them. I must say i did notice colon works better with them. But I'll stick w what dr k recommends. Actually oddly enough the things he suggested to eat are all thing I am eating. I seems like with the new challenge of eating seafood raw, I've been naturally eating the right things. I've been eating seafood for two meals a day for over a month now (started when I was doing elimination diet). I've been drinking homemade booch and eating homemade kraut. Moving away from the bloaty veggies but I'm eating berries and dark chocolate. Gave up the coffee for the most part. Some ghee but mostly CO. I NEED yo get my carbs down, I know but overall doing ok I think!
 
-### nosnhojjennifer@yahoo.com — 2012-07-21T05:42:51+0300
+### [email redacted] — 2012-07-21T05:42:51+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-39914>
 
 Phew! Coming in right under the wire of Day 32 - TOM!!!
@@ -4242,7 +4242,7 @@ Phew! Coming in right under the wire of Day 32 - TOM!!!
 
 I think you can do ghee instead of the butter if you wanted to. Nuts have a lot of fiber that might be what's helping the digestion with them. You know that choc isn't AI, do you? I ate some today, too  When I have a bad day with AN, I usually give myself a bit of freedom the next to get back into the swing of things. Tomorrow will be strict again. But my carbs went over, as well today. Oh well, live and learn!
 
-### nosnhojjennifer@yahoo.com — 2012-07-21T06:22:33+0300
+### [email redacted] — 2012-07-21T06:22:33+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-39928>
 
 > **Souldanzer;40102 wrote:** I think you can do ghee instead of the butter if you wanted to. Nuts have a lot of fiber that might be what's helping the digestion with them. You know that choc isn't AI, do you? I ate some today, too  When I have a bad day with AN, I usually give myself a bit of freedom the next to get back into the swing of things. Tomorrow will be strict again. But my carbs went over, as well today. Oh well, live and learn!
@@ -4263,7 +4263,7 @@ I want to say it's part of leaky gut but it might be adrenal. I do them both....
 
 Yippee! Things are working. Great.
 
-### nosnhojjennifer@yahoo.com — 2012-07-22T03:07:04+0300
+### [email redacted] — 2012-07-22T03:07:04+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-40148>
 
 Day 2 of my cycle and I've got the bloating and back pain and the over emotionalness. I'm trying not to stuff down or freeze the emotions but also not trying to believe them too much. Emotions are fleeting it's the stories we tell about them that can get stuck.
@@ -4284,7 +4284,7 @@ I used half smelts today in my Inger's Cocktail. It was good
 
 That added chemical was probably sulphites, preservatives commonly used in fish. It s\*cks, I know. I won't buy it.
 
-### nosnhojjennifer@yahoo.com — 2012-07-22T03:21:03+0300
+### [email redacted] — 2012-07-22T03:21:03+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-40155>
 
 > **Souldanzer;40336 wrote:** I used half smelts today in my Inger's Cocktail. It was good
@@ -4296,7 +4296,7 @@ I almost got the smelts but thru didn't have heads so I passed. Lol
 
 oh, mine did have heads.... kinda required at this point
 
-### nosnhojjennifer@yahoo.com — 2012-07-22T20:25:36+0300
+### [email redacted] — 2012-07-22T20:25:36+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-40250>
 
 Back to life back to reality
@@ -4311,7 +4311,7 @@ Buffalo sunset ended with a glass of wine served to me by a very young very cute
 
 I need my computer fixed!
 
-### nosnhojjennifer@yahoo.com — 2012-07-23T01:24:18+0300
+### [email redacted] — 2012-07-23T01:24:18+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-40299>
 
 Dr k finally weighed in on the J Lo butt. But sounds like it comes with a price. I do think I'm done trading health for image.
@@ -4323,7 +4323,7 @@ Dr k finally weighed in on the J Lo butt. But sounds like it comes with a price.
 
 what does Kardashian mean?
 
-### jeanie@truelongmont.com — 2012-07-23T02:10:44+0300
+### [email redacted] — 2012-07-23T02:10:44+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-40311>
 
 > **Souldanzer;40496 wrote:** what does Kardashian mean?
@@ -4339,7 +4339,7 @@ LOL
 
 I think google gave the answer. The trick was to add a\*\* to the keyword.
 
-### nosnhojjennifer@yahoo.com — 2012-07-24T01:28:49+0300
+### [email redacted] — 2012-07-24T01:28:49+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-40510>
 
 Ok boring day. One of those days where it feels like all I say is "blah blah, blah" more stuff I think is important but really isn't "blah."
@@ -4368,7 +4368,7 @@ I pretty much live off Vitamin Cottage, WFM, and Rocky Plains Quality Meats - ne
 
 Honestly, I don't know how people can read this stuff.... I even bring my own reading to the doc's waiting rooms.
 
-### nosnhojjennifer@yahoo.com — 2012-07-24T05:04:05+0300
+### [email redacted] — 2012-07-24T05:04:05+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-40581>
 
 Lol. U guys kill me.
@@ -4403,21 +4403,21 @@ I figured that one out the hard way, too.
 
 dance barefoot in the grass  essential addition.....
 
-### nosnhojjennifer@yahoo.com — 2012-07-26T16:41:19+0300
+### [email redacted] — 2012-07-26T16:41:19+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-41195>
 
 > **Souldanzer;41345 wrote:** dance barefoot in the grass  essential addition.....
 
 Agree! But you should see my poor grass - toast! Guess not get much grounding w that.
 
-### nosnhojjennifer@yahoo.com — 2012-07-27T05:29:47+0300
+### [email redacted] — 2012-07-27T05:29:47+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-41451>
 
 Saw the new gyn today. I loved her personality and she is very easy to talk to but she is pretty CW. suggested cardio when I said my weight is higher than I like. But any way, she said quit taking the estradiol and get repeat labs. She rechecking my TSH which I'm happy about because I've been on the "pig" as my endo puts it and I wonder where I'm at.
 
 Other than that I don't have much go say. Well I am kind of wondering if I'll ever get LS. I still eat three meals and have only ever been able to skip on weekends. Should I be eating more at the BAB? I eat a lot of CO, believe me. I've decided not to buy any more chocolate although I change my mind about that a lot. I need to give it up. I've been noticing the sugar crashes. It's probably triggering my adrenals. I also am going to stop the FODMAPS. God help me. I love avocado and coconut milk. Def stopping the fruit. I gotta do it! Might keep the sweet potato. Still need to get the book Sweet Potato Power. Half listened to a podcast with the author and Abel James (fat burning man). I like her. She does crazy experiments. I should get a glucometer. Put it on the list. Nite kiddos!
 
-### nosnhojjennifer@yahoo.com — 2012-07-27T19:24:23+0300
+### [email redacted] — 2012-07-27T19:24:23+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-41536>
 
 I'll be making this tonight (minus the red pepper - NIGHTSHADE no no)
@@ -4429,7 +4429,7 @@ I'll be making this tonight (minus the red pepper - NIGHTSHADE no no)
 
 anything but squid  freaks me out
 
-### nosnhojjennifer@yahoo.com — 2012-07-27T21:13:54+0300
+### [email redacted] — 2012-07-27T21:13:54+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-41572>
 
 > **Souldanzer;41776 wrote:** anything but squid  freaks me out
@@ -4444,7 +4444,7 @@ I guess it's good I've been eating a lot of avocado with my fish
 
 How's the belly?
 
-### nosnhojjennifer@yahoo.com — 2012-07-27T21:32:07+0300
+### [email redacted] — 2012-07-27T21:32:07+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-41575>
 
 Just for a laugh. Laughing is on epi-paleo diet
@@ -4458,7 +4458,7 @@ Lol. You guys are making me laugh today
 
 I missed BAB today  I'd like to blame it on the tummy but that was AN this morning. I'm having a bowl of seaweed, greens, and canned baby clams/anchovies in olive oil right now. Tummy is taking well to it. I thought I'd give the raw a break until tonight b/c I didn't want to have date with the bathroom again.
 
-### nosnhojjennifer@yahoo.com — 2012-07-27T22:55:14+0300
+### [email redacted] — 2012-07-27T22:55:14+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-41583>
 
 > **Souldanzer;41800 wrote:** Lol. You guys are making me laugh today
@@ -4499,7 +4499,7 @@ I was just going to add in the avo's. Sorry they're not working for you. You do 
 
 Squid is the one seafood my children actually eat and love. It's pretty tasteless... sort of the tofu of the seafood world... and will absorb the sauce it's in. I do caution against buying a whole one and cleaning it yourself... it was, um, interesting. This 2-foot long creature on my cutting board, all wobbly and weird. i suggest small ones or ones already cleaned (I read the ink can stain your fingers for weeks and your clothes forever. Perhaps we could use it to print optimal t-shirts)
 
-### nosnhojjennifer@yahoo.com — 2012-07-28T02:25:09+0300
+### [email redacted] — 2012-07-28T02:25:09+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-41604>
 
 > **Souldanzer;41809 wrote:** Ok! Breakup time  U know toilet, it's just not working out anymore. I thought we were going to walk the same path in this life but now that I've looked deeper and peeled away some more layers on the search for \*me\* I am discovering that might not be true after all. No, there is nobody else, I promise. No I have not cheated on you. Well, maybe I'm cheating a bit.... leptin rx, epi-paleo, and some frosties.....not of the sugar-glazed kind... nothing serious, though, I swear. So yeah, I hope we can be friends
@@ -4524,7 +4524,7 @@ The squid was interesting. I pan grilled it b/c I don't have a grill. A little r
 
 What shall be the next adventure in seafood eating? Mussels?
 
-### nosnhojjennifer@yahoo.com — 2012-07-28T02:28:37+0300
+### [email redacted] — 2012-07-28T02:28:37+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-41605>
 
 > **KiwiLauren;41824 wrote:** Squid is the one seafood my children actually eat and love. It's pretty tasteless... sort of the tofu of the seafood world... and will absorb the sauce it's in. I do caution against buying a whole one and cleaning it yourself... it was, um, interesting. This 2-foot long creature on my cutting board, all wobbly and weird. i suggest small ones or ones already cleaned (I read the ink can stain your fingers for weeks and your clothes forever. Perhaps we could use it to print optimal t-shirts)
@@ -4563,7 +4563,7 @@ You, Lauren, and I need to get together to do some food experiments
 
 I think you saved the day by drowning the apple in fat
 
-### nosnhojjennifer@yahoo.com — 2012-07-28T19:07:24+0300
+### [email redacted] — 2012-07-28T19:07:24+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-41684>
 
 > **Souldanzer;41836 wrote:** You, Lauren, and I need to get together to do some food experiments
@@ -4617,21 +4617,21 @@ I can relate to fruit and chocolate being trigger foods that need to be avoided.
 
 Glad to hear you like your doctor. Hopefully the gyn can get you on the right track.
 
-### nosnhojjennifer@yahoo.com — 2012-07-31T15:16:56+0300
+### [email redacted] — 2012-07-31T15:16:56+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-42036>
 
 [http://www.forbes.com/sites/alicegwalton/2012/07/25/how-parents-stress-can-hurt-a-child-from-the-inside-out/](http://http://www.forbes.com/sites/alicegwalton/2012/07/25/how-parents-stress-can-hurt-a-child-from-the-inside-out/)
 
 no joke
 
-### nosnhojjennifer@yahoo.com — 2012-07-31T17:45:18+0300
+### [email redacted] — 2012-07-31T17:45:18+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-42051>
 
 "Our attention to something defines what we have faith in. So--if you are constantly worried about germs, radiation, etc., that is what you have faith in. Our cells are replaced daily--and their health is determined more by what we believe than anything else."
 
 ~ Dr. Christiane Northrup
 
-### nosnhojjennifer@yahoo.com — 2012-07-31T18:00:35+0300
+### [email redacted] — 2012-07-31T18:00:35+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-42057>
 
 Is laughter on your diet today?
@@ -4643,7 +4643,7 @@ Jen, you rock..... I love your siggy now!!!
 
  At first I felt like I shouldn't have said but now.... I'm so glad I did  Makes me love looking at your posts now while before I'd constantly try to avoid catching a glimpse of the signature
 
-### nosnhojjennifer@yahoo.com — 2012-07-31T18:54:37+0300
+### [email redacted] — 2012-07-31T18:54:37+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-42068>
 
 > **Souldanzer;42312 wrote:** Jen, you rock..... I love your siggy now!!!
@@ -4711,7 +4711,7 @@ I keep wanting to put "Optimizing Goal: Sexiest Hormone Panel you can imagine " 
 
 LOL! Not too forward at all. Isn't that what we are all going for?
 
-### nosnhojjennifer@yahoo.com — 2012-08-01T16:01:13+0300
+### [email redacted] — 2012-08-01T16:01:13+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-42244>
 
 > **PaleoCowgirl;42380 wrote:** LOL! Not too forward at all. Isn't that what we are all going for?
@@ -4745,7 +4745,7 @@ I Love \*Me\***
 
 Forgot a little detail.... important detail....
 
-### nosnhojjennifer@yahoo.com — 2012-08-01T19:23:13+0300
+### [email redacted] — 2012-08-01T19:23:13+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-42295>
 
 > **Souldanzer;42543 wrote:
@@ -4780,7 +4780,7 @@ Lovin what is is such a awesome thing to do
 
 Awesome signatures Girls!
 
-### nosnhojjennifer@yahoo.com — 2012-08-02T17:53:56+0300
+### [email redacted] — 2012-08-02T17:53:56+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-42515>
 
 Laugh a day at least! { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
@@ -4790,7 +4790,7 @@ Laugh a day at least! { "lightbox\_close": "Close", "lightbox\_next": "Next", "l
 
 LOL...Thanks for sharing!!!
 
-### nosnhojjennifer@yahoo.com — 2012-08-03T19:35:58+0300
+### [email redacted] — 2012-08-03T19:35:58+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-42717>
 
 rolling along here...feel like I'm eating less but not seeing the clotheing get loose or anything...been back in teh dating world which has meant less sleep time - either late dates or not falling asleep because I've got boys on the brain
@@ -4807,7 +4807,7 @@ be careful what you ask for?  If you changed in real life and online dating the 
 
 I keep reading about potassium. Acne and bloating are symptoms of deficiency. I have a zit and a puffy tummy and thought you might still have the same issue. Coffee makes you dump potassium. Pretty interesting stuff. It makes your guts act weird.
 
-### nosnhojjennifer@yahoo.com — 2012-08-04T06:12:04+0300
+### [email redacted] — 2012-08-04T06:12:04+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-42810>
 
 > **chocolate;43079 wrote:** I keep reading about potassium. Acne and bloating are symptoms of deficiency. I have a zit and a puffy tummy and thought you might still have the same issue. Coffee makes you dump potassium. Pretty interesting stuff. It makes your guts act weird.
@@ -4816,7 +4816,7 @@ Was just checking out a huge zit in the mirror! You must be reading my mind. I g
 
 Thanks chocolate!
 
-### nosnhojjennifer@yahoo.com — 2012-08-04T22:26:15+0300
+### [email redacted] — 2012-08-04T22:26:15+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-42896>
 
 Feed your brain - but not chia seeds and flax lol
@@ -4839,7 +4839,7 @@ I want that for my room.....
 
 and that as a bumper sticker.... or how about some short shorts with it printed across the butt
 
-### nosnhojjennifer@yahoo.com — 2012-08-04T22:53:15+0300
+### [email redacted] — 2012-08-04T22:53:15+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-42905>
 
 > **Souldanzer;43182 wrote:** and that as a bumper sticker.... or how about some short shorts with it printed across the butt
@@ -4853,7 +4853,7 @@ I'd have to take a hoodie my tushy can't carry that many words YET
 
 Oh my goodness, mine could!!! Oh wait, wait....better not.. he-he
 
-### nosnhojjennifer@yahoo.com — 2012-08-05T11:54:56+0300
+### [email redacted] — 2012-08-05T11:54:56+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43019>
 
 Ugh. I could scream. I've been sleeping like a champ for months and now it's 5 am and I've been up for over two hours! Shiâ€¢
@@ -4871,7 +4871,7 @@ Take your power back  You're awesome, just \*you\*.
 
 On the good side you must've seen the sunrise this morning. I'm jealous. B/c I slept right through it.
 
-### nosnhojjennifer@yahoo.com — 2012-08-05T21:49:14+0300
+### [email redacted] — 2012-08-05T21:49:14+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43104>
 
 > **Souldanzer;43351 wrote:** Take your power back  You're awesome, just \*you\*.
@@ -4895,7 +4895,7 @@ That is awesome.
 
 And hang in there re: your sleep. Big changes and fluctuations happen on our road to better... they may look like we're falling apart but I believe it's temporary and we're cycling upwards. I should say, I believe YOU are doing this too!
 
-### nosnhojjennifer@yahoo.com — 2012-08-06T15:55:57+0300
+### [email redacted] — 2012-08-06T15:55:57+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43190>
 
 > **KiwiLauren;43453 wrote:** That is awesome.
@@ -4906,7 +4906,7 @@ And hang in there re: your sleep. Big changes and fluctuations happen on our roa
 
 Thanks Lauren. I read your post on Souls page and got a lot out of it. Especially the hypervigilence part. I'm experiencing that in my dating life right now. And giving myself a hard time over it yet I should be thankful that I'm concerned with self preservation. Lol. The last one wrecked me! Of course I'm hypervigilent. But where is the space for a different outcome? A new paradigm. I'm telling myself stop trying to predict the future. I always want to know the end result before I make a choice and I guess that's really just not possible for all situations in life.
 
-### nosnhojjennifer@yahoo.com — 2012-08-06T16:23:17+0300
+### [email redacted] — 2012-08-06T16:23:17+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43197>
 
 So I have a complaint and some observations.
@@ -4917,12 +4917,12 @@ Some observations. I seem to care less about food. I think I'm eating less but i
 
 I'm not using as many supplements - taking the probiotic, drinking my homemade bouch, (out of sauerkraut but have a cabbage head, just need the time to do it), 7 keto, pregnenelone, Vit d, Mag, red clover, aloe, hcl when i need it, my pig hormone.
 
-### nosnhojjennifer@yahoo.com — 2012-08-06T18:04:45+0300
+### [email redacted] — 2012-08-06T18:04:45+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43227>
 
 Also of note really short tempered today. Interesting since I'm off my estrogen and OTC p cream
 
-### nosnhojjennifer@yahoo.com — 2012-08-06T19:33:03+0300
+### [email redacted] — 2012-08-06T19:33:03+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43240>
 
 â€œYou are the sky. Everything else â€“ itâ€™s just the weather.â€￾
@@ -4948,7 +4948,7 @@ I'm learning to lose "interest" in food, too.... I got so dependent on everythin
 
 Gah, I go to bed hungry all the time! 4hrs no food makes me.... hungry
 
-### nosnhojjennifer@yahoo.com — 2012-08-06T22:27:17+0300
+### [email redacted] — 2012-08-06T22:27:17+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43275>
 
 Oh yes, a butt should be added to the siggy line b/c its a goal!
@@ -4968,7 +4968,7 @@ Oh yes, a butt should be added to the siggy line b/c its a goal!
 
 we need a smilie that is rocking a DHA butt.....
 
-### nosnhojjennifer@yahoo.com — 2012-08-07T00:04:09+0300
+### [email redacted] — 2012-08-07T00:04:09+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43295>
 
 > **Souldanzer;43563 wrote:** we need a smilie that is rocking a DHA butt.....
@@ -4977,7 +4977,7 @@ Eating my shrimp as we speak. Teenie could help me build a butt. Too bad she's i
 
 I've been super anxious all day. This generational stuff is rough. I feel restless and like something is about to rip loose. Thanks for telling me to smile. I need that. Opposite action requires the brain.
 
-### jeanie@truelongmont.com — 2012-08-07T00:31:30+0300
+### [email redacted] — 2012-08-07T00:31:30+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43301>
 
 > **Jennifer;43582 wrote:** Eating my shrimp as we speak. Teenie could help me build a butt. Too bad she's in jersey! Optimal boot camp here I come.!
@@ -4993,24 +4993,24 @@ Don't underestimate that "taking care of the parents" stuff. It is supremely imp
 
 It never affected me at all........
 
-### jeanie@truelongmont.com — 2012-08-07T00:46:05+0300
+### [email redacted] — 2012-08-07T00:46:05+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43309>
 
 > **Jack Kruse;43594 wrote:** It never affected me at all........
 
 Ever done a scan on the orbital lobes? Wonder if you've got some damage there.
 
-### nosnhojjennifer@yahoo.com — 2012-08-07T14:52:01+0300
+### [email redacted] — 2012-08-07T14:52:01+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43401>
 
 Thanks Cavemam. I know my dad is having a hard time watching his dad pass and he tends to stuff things down like I do. The first area to get hit for me w stress is usually my sleep and stomach. So like him. So I wonder how to turn off those genetic switches. If my dad mellows out and becomes more accepting and expressive, will I? And vice versa? I'm doing a lot of asking questions about how I'm feeling and why and using some healing techniques. Staying calm. Centered accepting. Saying yes to life.
 
-### nosnhojjennifer@yahoo.com — 2012-08-07T15:29:48+0300
+### [email redacted] — 2012-08-07T15:29:48+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43405>
 
 So I'm icing my poor unhappy elbow and it's so weird how I can feel a cold line going up the side of my hand to my pinky finger.
 
-### nosnhojjennifer@yahoo.com — 2012-08-07T18:43:39+0300
+### [email redacted] — 2012-08-07T18:43:39+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43441>
 
 Just found out my great uncle passed away. Must have been why I was so agitated yesterday. I am really sensitive to my family's energy. The day my maternal gramps passed away I woke up unable to stand for more than a few minutes. Had to skip classes and lay in bed until I heard the news. We are way more connected than we realize.
@@ -5029,33 +5029,33 @@ Sorry Jen  Hope you take care of yourself today. I'll clear my PM box in case yo
 
 I think we all do that to some degree... become our own parents. I think you can direct it and guide the progress in the right directions..... learn from them by observation, grow faster that way, and maybe by learning to accept the short comings of our parents we can learn to accept ourselves.
 
-### nosnhojjennifer@yahoo.com — 2012-08-07T21:40:31+0300
+### [email redacted] — 2012-08-07T21:40:31+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43490>
 
 > **Souldanzer;43738 wrote:** Sorry Jen  Hope you take care of yourself today. I'll clear my PM box in case you need it....
 
 Thanks Soul! I'm ok. Its super sad because he was such a great guy but he was in his 90s. I feel bad for his children and my mom. But personally I feel so much better today. I seriously thought I was going nuts yesterday. Phew insides are so much happier today.
 
-### nosnhojjennifer@yahoo.com — 2012-08-07T21:42:13+0300
+### [email redacted] — 2012-08-07T21:42:13+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43491>
 
 > **Souldanzer;43741 wrote:** I think we all do that to some degree... become our own parents. I think you can direct it and guide the progress in the right directions..... learn from them by observation, grow faster that way, and maybe by learning to accept the short comings of our parents we can learn to accept ourselves.
 
 Yes. Thanks for that Pointer. Acceptance is the key to freedom to love without conditions
 
-### kathiebu@hotmail.com — 2012-08-08T00:41:03+0300
+### [email redacted] — 2012-08-08T00:41:03+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43514>
 
 I'm sorry about your lost Jennifer. My thoughts go for you and your familly. Hugs.
 
-### nosnhojjennifer@yahoo.com — 2012-08-08T05:06:23+0300
+### [email redacted] — 2012-08-08T05:06:23+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43578>
 
 > **AbetterME;43805 wrote:** I'm sorry about your lost Jennifer. My thoughts go for you and your familly. Hugs.
 
 Thanks Katy! Means a lot
 
-### nosnhojjennifer@yahoo.com — 2012-08-09T18:32:26+0300
+### [email redacted] — 2012-08-09T18:32:26+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43907>
 
 I saw a new PMD today. My func med doc recommended her. At first I was disappointed because its a teaching practice and I got stuck talking to another Doogie Howzer about my history. But I liked her. She is interested in my HDL which was 145. I guess I win the prize because she says it's the highest she's ever seen. She says she is researching HDL so I guess that makes me interesting. She ordered a VAP. She asked about a mammo and I said no, I don't believe in them. She laughed which I really didn't know what to make of. Later she repeated that and said "you're my kind of person." so I'm glad about that. My most recent TSH was 2 something which makes me happier. Last one was 4. But my free T4 is only 0.7. Touch low. She says she could give a little more Armour but she'll wait two months. Only thing is after all that I forgot to have her look at my elbow! Doh and after Doogie Nd I talked about it for a good 5 minutes.
@@ -5073,7 +5073,7 @@ Important if there's print-outs involved: Bring a black permanent marker and bef
 
 For me, I've decided I don't need to be weighed a few times a week..... not necessary. I allow them to weigh me where it's important - anesthesiologist needs to know my weight, I get that. But most times, I now decline.
 
-### nosnhojjennifer@yahoo.com — 2012-08-09T20:17:09+0300
+### [email redacted] — 2012-08-09T20:17:09+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-43924>
 
 > **Souldanzer;44207 wrote:** I step on the scale backwards, while I clearly announce that I do not want to know my weight b/c I'm recovering from AN. I then make sure to not look at the sheet that they are writing on, even if it is left with me in the exam room while I wait for the doc.
@@ -5103,7 +5103,7 @@ I think it's a good sign that the number wasn't important.... see, for me, or ED
 
 I'm ready..... I'm waiting..... I'm almost there....
 
-### nosnhojjennifer@yahoo.com — 2012-08-11T04:46:06+0300
+### [email redacted] — 2012-08-11T04:46:06+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-44256>
 
 Since I forgot to ask my PMD about my elbow, I asked my friend who is a pain mgt doc. He diagnosed me with ulnar nerve pain or something. Treatment - don't lean on it. Lol
@@ -5113,7 +5113,7 @@ Since I forgot to ask my PMD about my elbow, I asked my friend who is a pain mgt
 
 how about lean on ice
 
-### nosnhojjennifer@yahoo.com — 2012-08-11T05:29:27+0300
+### [email redacted] — 2012-08-11T05:29:27+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-44268>
 
 > **Souldanzer;44565 wrote:** how about lean on ice
@@ -5129,7 +5129,7 @@ vein in the groin that goes to the heart.... that's how they put in the implant.
 
 PFO will be PFO.... ice or not me thinks. But ice will shunt blood to my brain.... and O2 with that.
 
-### nosnhojjennifer@yahoo.com — 2012-08-12T16:12:10+0300
+### [email redacted] — 2012-08-12T16:12:10+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-44520>
 
 So I have been noticing that I care less about food and eat less in general. Yesterday I went to a funeral for my great uncle and a lunch with family afterward at an Italian place. Can u say gluten-Fest? Luckily they had Italian sausage although it was in tomato sauce. I had salad, sausage and the chicken meat I dug out of chicken parm. And butter. Sorry. I was scared I'd be starving and feel sick w low blood sugar but I was surprisingly satisfied. Hmm
@@ -5157,7 +5157,7 @@ On another note, dad takes nexium to suppress stomach acid b/c w/o it he'll have
 
 Awesome about the eating, Jen. I thought I might be going that direction and proved myself different last night, lol. God I'm hungry now having missed BAB this AM again.....
 
-### nosnhojjennifer@yahoo.com — 2012-08-13T21:11:03+0300
+### [email redacted] — 2012-08-13T21:11:03+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-44742>
 
 Omg having one of those days.
@@ -5180,7 +5180,7 @@ I made sole fillets into ceviche and noticed they don't need long to marinate at
 
 My back pain w/ PMS/TOM went bye-bye the last couple cycles. Strangest thing. It was getting so bad I couldn't bend over for a couple weeks a month without crying out loud. Poof, gone
 
-### nosnhojjennifer@yahoo.com — 2012-08-13T22:55:48+0300
+### [email redacted] — 2012-08-13T22:55:48+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-44767>
 
 > **Souldanzer;45056 wrote:** I made sole fillets into ceviche and noticed they don't need long to marinate at all.... rubber
@@ -5215,7 +5215,7 @@ I'd guess (just a guess, absolutely no knowledge here) that your cycle will be c
 
 Hang in there. How's the elbow?
 
-### nosnhojjennifer@yahoo.com — 2012-08-14T18:58:08+0300
+### [email redacted] — 2012-08-14T18:58:08+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-44919>
 
 > **KiwiLauren;45094 wrote:** You're attitude is just fine! So you have up moments and down moments. So what? You're human. If you had a static optimistic attitude that wouldn't leave any room for questioning... and we question everything, remember?
@@ -5232,7 +5232,7 @@ Thanks kiwi! I was cycling short prior to all this so I'm kind of nervous.
 
 The elbow is still hurting. I have a feeling it's because my computer is dead so I'm using my phone for everything. Which means I'm bending my elbow and holding phone in left had and surfing with right. Lol iPhone injury
 
-### nosnhojjennifer@yahoo.com — 2012-08-15T01:04:39+0300
+### [email redacted] — 2012-08-15T01:04:39+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-44956>
 
 I'm out of CO and too lazy to go to store. Plus I'm feeling a lot less bloated w/o it. So I made some ghee. I hope I did well enough. I think I might have overdone because there was brown stuff. Oh well.
@@ -5243,14 +5243,14 @@ I'm ok. Worried about grams more.
 
 Other than that I'm bored. Which is never good. Lol.
 
-### kathiebu@hotmail.com — 2012-08-15T15:06:38+0300
+### [email redacted] — 2012-08-15T15:06:38+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-45008>
 
 Hi Jen!
 
 Got a question for you...I know you did the Elimination Diet...How did it go? Did it help? My doctor wants me to do it, and I'm not super exited about it, but if it can help...Can I have your input on it?? Thank you
 
-### nosnhojjennifer@yahoo.com — 2012-08-15T17:25:47+0300
+### [email redacted] — 2012-08-15T17:25:47+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-45025>
 
 > **AbetterME;45337 wrote:** Hi Jen!
@@ -5268,7 +5268,7 @@ Hope that helps. I would say do it. It's 3 weeks.
 
 Argh! Where did my birthday wishes for you go?????
 
-### nosnhojjennifer@yahoo.com — 2012-08-15T22:22:54+0300
+### [email redacted] — 2012-08-15T22:22:54+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-45073>
 
 Something gobbled them up?? I never saw them  but I felt them!
@@ -5284,7 +5284,7 @@ Birthday
 
 Jen
 
-### nosnhojjennifer@yahoo.com — 2012-08-16T00:03:37+0300
+### [email redacted] — 2012-08-16T00:03:37+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-45082>
 
 **Souldanzer;45408 wrote:** Well, it was a fancy post kinda like this
@@ -5295,7 +5295,7 @@ Birthday
 
 Jen
 
-### kathiebu@hotmail.com — 2012-08-16T15:02:13+0300
+### [email redacted] — 2012-08-16T15:02:13+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-45183>
 
 > **Jennifer;45355 wrote:** Hi Katy. Well I felt like you that it was a stupid exercise. However after I did it, I got TOM so maybe it's worth it. At least you can eat fish. Dr K feels fowl has no nutritional value and chicken is one of the approved meats. I went ahead and ate some grass fed beef b/c I don't feel that I have an issue w it. The adding things back in wasn't very insightful for me. I don't have patience for that. The only take away was that cheap chocolate makes me break out. So now I eat chocolate, wine, ghee, red meat and pork. Otherwise everything else is the same as elimination diet so no biggie really.
@@ -5304,22 +5304,22 @@ Jen
 
 Thank's Jen!!  I'll do it, you're right, it's only 3 weeks....
 
-### kathiebu@hotmail.com — 2012-08-16T15:03:09+0300
+### [email redacted] — 2012-08-16T15:03:09+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-45184>
 
 It was your BD yesterday!?? Happy Birthday Jennifer, I hope you had a nice day and enjoyed it
 
-### nosnhojjennifer@yahoo.com — 2012-08-16T16:34:05+0300
+### [email redacted] — 2012-08-16T16:34:05+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-45192>
 
 Thanks Katy! I am very blessed to have special girlfriends in my life!!
 
-### nosnhojjennifer@yahoo.com — 2012-08-17T18:30:13+0300
+### [email redacted] — 2012-08-17T18:30:13+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-45365>
 
 Crappy nights sleep and not quite BAB. I meant to go to store but got distracted so I woke up to nothing thawed. I had to have three eggs and Tuna. Which i choked down. The eggs made me nauseous. I usually only have one at a time. Blech. And I have a new pimple. Omg give me a break!! I've got to get to supp store. I'm out of everything - Mag, Pregnelelone, aloe, vit D, probiotics, co. Dang
 
-### nosnhojjennifer@yahoo.com — 2012-08-20T14:14:50+0300
+### [email redacted] — 2012-08-20T14:14:50+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-45828>
 
 So the dhea cream and I are not getting along. I have three huge ugly painful pimples. Scratch that. Still haven't gotten to vitamin store. Went yesterday after pool party dinner w friends but it was closed b/c it was Sunday. Hmm
@@ -5331,14 +5331,14 @@ Second on my mind is the dentist this afternoon. Three more cavities to get fill
 
 Do you think suddenly stopping your hormone supplements might create an imbalance that would cause acne? Just thinking here. I'd also check the additives in the DHEA cream. My concoction is working so far.... no pimples.
 
-### nosnhojjennifer@yahoo.com — 2012-08-20T19:27:01+0300
+### [email redacted] — 2012-08-20T19:27:01+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-45867>
 
 > **Souldanzer;46249 wrote:** Do you think suddenly stopping your hormone supplements might create an imbalance that would cause acne? Just thinking here. I'd also check the additives in the DHEA cream. My concoction is working so far.... no pimples.
 
 What brand are you using?
 
-### nosnhojjennifer@yahoo.com — 2012-08-20T20:07:13+0300
+### [email redacted] — 2012-08-20T20:07:13+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-45884>
 
 Dang it. I may need to drop on. Lol. My is made w aloe. Shea butter and a lot of stuff
@@ -5350,7 +5350,7 @@ I just need to get to store and get the Pregnenolone that doesn't bother me or m
 
 I could send you a little test container  Mine has vitamin E and K2 added, as well, in coconut oil. Dr K's concoction for those embarrassing frost bite spots on my tummy. I'm also taking the resveratrol and turmeric he advised. I think it's getting better!
 
-### nosnhojjennifer@yahoo.com — 2012-08-20T21:04:13+0300
+### [email redacted] — 2012-08-20T21:04:13+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-45900>
 
 > **Souldanzer;46283 wrote:** I could send you a little test container  Mine has vitamin E and K2 added, as well, in coconut oil. Dr K's concoction for those embarrassing frost bite spots on my tummy. I'm also taking the resveratrol and turmeric he advised. I think it's getting better!
@@ -5364,7 +5364,7 @@ I've been lax on turmeric and drinking my resveratrol
 
 PM me your addy and I'll make some frost bite concoction ala kruse just for ya'  Just have to find a mailable container
 
-### nosnhojjennifer@yahoo.com — 2012-08-21T05:47:26+0300
+### [email redacted] — 2012-08-21T05:47:26+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-46001>
 
 So not sure on my verdict about the Novocain. I still am happy I skipped it once the whole thing is over but it makes me so freaking hungry that I have to be suspicious that Ilthey stress trips the adrenals. I only had two done this time. Means I have FOUR to do next time. I think I'll take the shot for them. An experiment any way.
@@ -5376,7 +5376,7 @@ Finally hit the vit store. Thought I only had a few things to buy so why does it
 
 U know buying them online at bulk suppliers is much cheaper..... K2 is hard to get from food entirely mostly in organs and ghee I think. Leave the probiotics on the shelf unless you do lab experiments like I do in the kitchen. Just drink some kombucha or eat some sauerkraut.
 
-### nosnhojjennifer@yahoo.com — 2012-08-25T15:05:16+0300
+### [email redacted] — 2012-08-25T15:05:16+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-46985>
 
 Been away at gramp's funeral. Observing how family members deal with stress grief and loss. Pretty sure my dad has blown out his adrenals. At least he rests instead of drinking coffee or exercising more.
@@ -5407,7 +5407,7 @@ Hey Jen.... good to hear from you. Was a bit worried yesterday. Hang in there. T
 
 I'm with ya' on the wrecked sleep.
 
-### nicebeanst@yahoo.com — 2012-08-25T20:45:24+0300
+### [email redacted] — 2012-08-25T20:45:24+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47084>
 
 Hey girl, sounds like we insomniacs all need a slumber party...
@@ -5419,7 +5419,7 @@ Hey girl, sounds like we insomniacs all need a slumber party...
 
 who's place.... cloud 9, a dark cold cave, or .... USA.....
 
-### jeanie@truelongmont.com — 2012-08-25T22:35:12+0300
+### [email redacted] — 2012-08-25T22:35:12+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47115>
 
 > **Teenie Leek;47509 wrote:** Hey girl, sounds like we insomniacs all need a slumber party...
@@ -5430,7 +5430,7 @@ who's place.... cloud 9, a dark cold cave, or .... USA.....
 
 I have a firepit and plenty of unused bedrooms!
 
-### nosnhojjennifer@yahoo.com — 2012-08-25T23:00:53+0300
+### [email redacted] — 2012-08-25T23:00:53+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47118>
 
 Need to find the private jet first.
@@ -5442,7 +5442,7 @@ Need to find the private jet first.
 
 com'on - you STILL haven't manifested that rich boyfriend?? That's the story we were dying to hear about.
 
-### nosnhojjennifer@yahoo.com — 2012-08-26T01:39:58+0300
+### [email redacted] — 2012-08-26T01:39:58+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47152>
 
 > **Souldanzer;47567 wrote:** com'on - you STILL haven't manifested that rich boyfriend?? That's the story we were dying to hear about.
@@ -5451,21 +5451,21 @@ Yes that is a much better story than the broken record I have currently playing.
 
 Throw me ur rejects
 
-### nosnhojjennifer@yahoo.com — 2012-08-26T01:46:06+0300
+### [email redacted] — 2012-08-26T01:46:06+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47154>
 
 Our destiny changes with our thought; we Shall become what we wish to become, do what we wish to do, when are habitual thought corresponds with our desire.
 
 ~ Orison Swett Marden
 
-### nosnhojjennifer@yahoo.com — 2012-08-26T02:05:08+0300
+### [email redacted] — 2012-08-26T02:05:08+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47156>
 
 > **chocolate;47461 wrote:** I hope the sun makes you start to feel better. Sorry about your Gramps and hoping your Dad settles soon.
 
 Thanks Chocolate. Hope ur doing ok too w ur girl across country. Sounds like she trusts you. Ur both learning how to eat for ur body. I feel like my list is getting kind of small too. We'll see tho
 
-### nosnhojjennifer@yahoo.com — 2012-08-26T02:24:41+0300
+### [email redacted] — 2012-08-26T02:24:41+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47162>
 
 > **Jack Kruse;44415 wrote:** you can gain with Stevia if the gut bacteria is way off.......it is possible. When I hear this I think there is a K2 issue in that gut.
@@ -5481,7 +5481,7 @@ I need to ponder this
 
 lol........
 
-### nosnhojjennifer@yahoo.com — 2012-08-26T06:04:57+0300
+### [email redacted] — 2012-08-26T06:04:57+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47187>
 
 Do not pursue what should be, but understand what is.
@@ -5494,7 +5494,7 @@ Sigh
 
 Sometimes I like to exercise in futility. If only that burned fat cells I'd be in great shape.
 
-### nosnhojjennifer@yahoo.com — 2012-08-26T17:41:28+0300
+### [email redacted] — 2012-08-26T17:41:28+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47248>
 
 More thoughts on k2. Thought I needed it for my teeth but now I think I need it for more
@@ -5509,14 +5509,14 @@ More thoughts on k2. Thought I needed it for my teeth but now I think I need it 
 >
 > I've also discovered since really pushing the seafood - that chicken is crap. I DO NOT LIKE IT. Who BRIAN WASHED me into thinking it actually tasted good. blech! I told DH I will not eat chicken any more. yucky. it doesn't satisfy me AT. ALL! And when I do eat it - I have to load it w/Ghee to even make it palatable and cover it in horseradish - which I dislike!
 
-### nosnhojjennifer@yahoo.com — 2012-08-26T18:14:35+0300
+### [email redacted] — 2012-08-26T18:14:35+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47261>
 
 Listening to Lynne MacTaggart very interesting. You can trick your brain into thinking everything is ok and turning off pain receptors By keeping your mouth full of salvia and repeating a positive intention. A dry mouth is the first signal to your body that something is wrong. Now If only I could have my dental work done w/o getting all my salvia sucked out. Lol
 
 She also says that you can get benefit of exercise just by sitting on a chair and thinking about exercising - lifting the weight, flexing your muscles etc. gonna try it w abs!
 
-### jeanie@truelongmont.com — 2012-08-27T05:09:31+0300
+### [email redacted] — 2012-08-27T05:09:31+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47423>
 
 > **Jennifer;47700 wrote:** Listening to Lynne MacTaggart very interesting. You can trick your brain into thinking everything is ok and turning off pain receptors By keeping your mouth full of salvia and repeating a positive intention. A dry mouth is the first signal to your body that something is wrong. Now If only I could have my dental work done w/o getting all my salvia sucked out. Lol
@@ -5534,7 +5534,7 @@ I am visualizing eating a MHS!
 
 You are getting closer..... when am I bringing my vitamix?
 
-### nosnhojjennifer@yahoo.com — 2012-08-27T05:42:15+0300
+### [email redacted] — 2012-08-27T05:42:15+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47431>
 
 > **Cavemam;47869 wrote:** I am visualizing eating a MHS!
@@ -5548,7 +5548,7 @@ I'd better not say what I'm visualizing. Lol. It's not for me, it's for my hormo
 
 Just stay away from blenders then!
 
-### nosnhojjennifer@yahoo.com — 2012-08-28T16:10:34+0300
+### [email redacted] — 2012-08-28T16:10:34+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47764>
 
 I need to have a conversation with my gut flora. Not sure what is going on in there but the bloating is hella out of control right now. Consequences of last week's gluten, coconut milk, CO, and/or store bought bacon?
@@ -5564,7 +5564,7 @@ I feel like a balloon
 
 Uh, you \*wake up\* with bloating? That's not good  That's is and always has been the time for me and my gut to feel best. Wonder what is going on. Your gut is supposed to rest at night!
 
-### nosnhojjennifer@yahoo.com — 2012-08-28T16:26:12+0300
+### [email redacted] — 2012-08-28T16:26:12+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47768>
 
 > **Souldanzer;48217 wrote:** Uh, you \*wake up\* with bloating? That's not good  That's is and always has been the time for me and my gut to feel best. Wonder what is going on. Your gut is supposed to rest at night!
@@ -5578,7 +5578,7 @@ Fall out from last weeks fruit? CO? Bacon - reg store bacon. Could be. Think may
 
 Been checked for parasites? Just b/c this appears to be kinda... ongoing.
 
-### nosnhojjennifer@yahoo.com — 2012-08-28T16:58:15+0300
+### [email redacted] — 2012-08-28T16:58:15+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47774>
 
 No. Good thought. This bloating is pretty acute though. Woke up with it three days in a row. That's why I suspect the coconut milk. Although CO always seems to give me bloat. Which is weird. Right?
@@ -5590,12 +5590,12 @@ I was so in the mood to go dancing last night, Soul! Like bad 80s music techno d
 
 I don't know. I think if I had that persistent problems without my AN hx (that was pretty bad bloating times but to be expected) then I would probably start to look for the cause..... at least eliminate some.... like parasites.
 
-### nosnhojjennifer@yahoo.com — 2012-08-28T22:47:59+0300
+### [email redacted] — 2012-08-28T22:47:59+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47905>
 
 Starting to think its the bacon. Damn so tasty
 
-### nosnhojjennifer@yahoo.com — 2012-08-28T22:48:47+0300
+### [email redacted] — 2012-08-28T22:48:47+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47906>
 
 Sticks of butter and bacon bits
@@ -5605,24 +5605,24 @@ Sticks of butter and bacon bits
 
 lol you're going nutz
 
-### nosnhojjennifer@yahoo.com — 2012-08-28T23:02:01+0300
+### [email redacted] — 2012-08-28T23:02:01+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47913>
 
 > **Souldanzer;48358 wrote:** lol you're going nutz
 
 I am. I gotta change my Siggy. I can't handle hormones of a 25 year old!
 
-### nosnhojjennifer@yahoo.com — 2012-08-28T23:04:36+0300
+### [email redacted] — 2012-08-28T23:04:36+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47914>
 
 Really do need to update Siggy as I'm technically 41
 
-### nosnhojjennifer@yahoo.com — 2012-08-28T23:08:16+0300
+### [email redacted] — 2012-08-28T23:08:16+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-47918>
 
 This is the pic I really want as my profile pic but I'm too chicken { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### nosnhojjennifer@yahoo.com — 2012-08-29T17:01:06+0300
+### [email redacted] — 2012-08-29T17:01:06+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-48082>
 
 So I prob should actually read that hormone book I got so I might have a clue what's going on with me now that I have hormones again. I admit that I have no idea about any of that female Mumbo jumbo. But yesterday I was convinced my hormones where that of an 18 year old male. Made me want to drive fast, shoot guns and get into other troubles. So anyone know what the he-ll happens days 13-16. Damn.
@@ -5631,12 +5631,12 @@ Forget Leptin reset. I need a Dating Reset stat.
 
 Now day 17 and I'm feeling more in control. More meh. A little depressed maybe. Not used to this...
 
-### kathiebu@hotmail.com — 2012-08-29T18:10:31+0300
+### [email redacted] — 2012-08-29T18:10:31+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-48096>
 
 A dating reset? Lol I need that too.
 
-### nosnhojjennifer@yahoo.com — 2012-08-29T19:40:13+0300
+### [email redacted] — 2012-08-29T19:40:13+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-48123>
 
 Saw the gyn today for BW results. First cycle was 32 days, last one was 24 days. On day 13 now. She's friendly enough and supportive but VERY CW. I got a mammogram lecture. Turns out she had breast ca herself at age 32, so I doubt I'll win this agrument with her. I asked about feeling pretty up and down on the hormone thing and she said that it's like I have the hormones of an 18 year old right now. Which I pretty much had figured out on my own. She offered me some Celexa. I said pass. Any who...here's what I'm looking at:
@@ -5669,7 +5669,7 @@ Estradiol 109-----------------
 
 Estradiol 109-----------------
 
-### nosnhojjennifer@yahoo.com — 2012-08-29T20:10:29+0300
+### [email redacted] — 2012-08-29T20:10:29+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-48131>
 
 > **differentstory;48576 wrote:** WOW! I think results are amazing!! Maybe I didn't read back through your thread enough. Are you doing BHRT? Just on your inner arm or where? How long? I had been doing BHRT but wasn't having the luck you are. How has your weight been?
@@ -5690,7 +5690,7 @@ I was on estradiol for maybe 4 months and was using OTC p cream. But I've been o
 
 How's ur dhea? U take Pregnenolone?
 
-### nosnhojjennifer@yahoo.com — 2012-08-29T20:56:32+0300
+### [email redacted] — 2012-08-29T20:56:32+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-48151>
 
 > **AbetterME;48547 wrote:** A dating reset? Lol I need that too.
@@ -5703,7 +5703,7 @@ But seriously time to pick a new "type". Well that's half of it. I think I also 
 
 I wonder if you change your hormones do you attract and are you attracted different? Hasnt happened yet but maybe...
 
-### jeanie@truelongmont.com — 2012-08-29T21:05:57+0300
+### [email redacted] — 2012-08-29T21:05:57+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-48156>
 
 > **Jennifer;48603 wrote:** Dating reset. Let's see. I guess my dating reset is to do the opposite of what I've always done. So that means no more giving ala doormat aka giving without getting anything in return. Also means no more pursuing. Also means no more men named J\*\*\* and no more narcissistic, type A, Momma's little prince boys.
@@ -5737,7 +5737,7 @@ Lol, getting in to the real stuff here.... I agree no more J\*\*\*!! Too funny.
 
 About the hormones, I think you do but it might be lagging a bit.... says who
 
-### nosnhojjennifer@yahoo.com — 2012-08-29T21:37:08+0300
+### [email redacted] — 2012-08-29T21:37:08+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-48161>
 
 > **Cavemam;48608 wrote:** It MUST work this way. You have to be confident AND womanly. There is no need to be a bitch at all, but do not feel bad about rejecting them if they don't behave in a way that you want in a mate. They can smell that a mile away, and will know you don't have to be a priority.
@@ -5769,7 +5769,7 @@ Woman, you're cheering me up today  Which one is the lucky one?
 
 Aliases only get you so far. Someone who knows me read my journal and even just the alias will tell it all. I'm pretty sure there's a few people reading along by now. Too bad. Get over it if I say something to your not liking. Nobody's forcing you to read.
 
-### nosnhojjennifer@yahoo.com — 2012-08-29T22:01:35+0300
+### [email redacted] — 2012-08-29T22:01:35+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-48166>
 
 > **Cavemam;48608 wrote:** It MUST work this way. You have to be confident AND womanly. There is no need to be a bitch at all, but do not feel bad about rejecting them if they don't behave in a way that you want in a mate. They can smell that a mile away, and will know you don't have to be a priority.
@@ -5784,7 +5784,7 @@ I have no problem being this way w men I have no interest in and they do chase a
 
 Problem is I meet a guy I like and it all goes out the window. So what I need to do is pretend (to myself) that i don't like him. Act as If. Maybe.
 
-### nosnhojjennifer@yahoo.com — 2012-08-29T22:02:05+0300
+### [email redacted] — 2012-08-29T22:02:05+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-48167>
 
 Can I change the name of this journal please ?
@@ -5796,7 +5796,7 @@ Can I change the name of this journal please ?
 
 I had mine move so it might not be impossible...
 
-### nosnhojjennifer@yahoo.com — 2012-08-29T22:07:59+0300
+### [email redacted] — 2012-08-29T22:07:59+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-48172>
 
 > **Souldanzer;48615 wrote:** Woman, you're cheering me up today  Which one is the lucky one?
@@ -5809,7 +5809,7 @@ Lol
 
 CPA tonight
 
-### nosnhojjennifer@yahoo.com — 2012-08-29T22:16:57+0300
+### [email redacted] — 2012-08-29T22:16:57+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-48174>
 
 > **Souldanzer;48621 wrote:** I had mine move so it might not be impossible...
@@ -5834,12 +5834,12 @@ I'm on a roll but I swear it's gluten free
 
 Personally I like "get over it already"
 
-### jeanie@truelongmont.com — 2012-08-29T22:20:08+0300
+### [email redacted] — 2012-08-29T22:20:08+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-48175>
 
 Something Fishy This Way Comes. . . .
 
-### nosnhojjennifer@yahoo.com — 2012-08-29T23:30:19+0300
+### [email redacted] — 2012-08-29T23:30:19+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-48187>
 
 > **Cavemam;48628 wrote:** Something Fishy This Way Comes. . . .
@@ -5852,7 +5852,7 @@ How about
 
 You or my blueblockers (aka r u worth wrecking my sleep)
 
-### kathiebu@hotmail.com — 2012-08-30T00:45:34+0300
+### [email redacted] — 2012-08-30T00:45:34+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-48213>
 
 > **Jennifer;48603 wrote:** Dating reset. Let's see. I guess my dating reset is to do the opposite of what I've always done. So that means no more giving ala doormat aka giving without getting anything in return. Also means no more pursuing. Also means no more men named J\*\*\* and no more narcissistic, type A, Momma's little prince boys.
@@ -5869,7 +5869,7 @@ I'm sure when hormones are balanced you feel so much better about yourself and y
 
 Have a great time tonight. Think about the moment, and enjoy it.
 
-### kathiebu@hotmail.com — 2012-08-30T00:48:02+0300
+### [email redacted] — 2012-08-30T00:48:02+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-48214>
 
 > **Jennifer;48640 wrote:**
@@ -5919,7 +5919,7 @@ he should make your sleep \*better\*.... lol. And then we can save the sixty buc
 
 I will be waiting to see if it happens....if so there is hope for me too. I think we dated the same guy, judging from the description!
 
-### nosnhojjennifer@yahoo.com — 2012-09-01T20:09:32+0300
+### [email redacted] — 2012-09-01T20:09:32+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-48769>
 
 Well the wake up bloat is goan but I still get bloating as soon as i eat. Which means as soon as I get up! Not happy with how I look right now  not sure what is causing this. Is it payback for the cheese and fruit I ate over a week ago? Could my gut flora go to hell over one day?
@@ -5955,14 +5955,14 @@ Two or three potassiums at a time could fix that. It really wakes up your guts. 
 
 What are your thoughts on the acetaldehydes in the kombucha and other ferments? Could that be causing more gut problems than it's helping?
 
-### nosnhojjennifer@yahoo.com — 2012-09-02T20:00:19+0300
+### [email redacted] — 2012-09-02T20:00:19+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-48995>
 
 > **KiwiLauren;49395 wrote:** What are your thoughts on the acetaldehydes in the kombucha and other ferments? Could that be causing more gut problems than it's helping?
 
 Hmm. I don't know enough about this. Maybe I need to buy some ph strips. I absolutely ferment mine to sour. Wonder if I'm taking it too far? Maybe I'll try a few days without and see.
 
-### nosnhojjennifer@yahoo.com — 2012-09-02T20:03:07+0300
+### [email redacted] — 2012-09-02T20:03:07+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-48996>
 
 > **chocolate;49308 wrote:** Two or three potassiums at a time could fix that. It really wakes up your guts. Like you didn't know your were constipated until you took them. My husband is the constipation king and he now loves potassium and magnesium. Its totally managable. He won't say that's why he takes them. But I know it is. He is exhaustingly undisciplined.
@@ -5971,7 +5971,7 @@ Thanks choco. Supplement store ASAP
 
 I think I need zinc also. Vit c doesn't seem to do anything. I never got the recommendation to take to bowel tolerance - what a laugh.
 
-### nosnhojjennifer@yahoo.com — 2012-09-02T22:11:30+0300
+### [email redacted] — 2012-09-02T22:11:30+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49036>
 
 Well I slept in until 9am this morning. Pretty late for me. I wasn't even doing that on a week vacation. But I have been really tired and lethargic lately. Maybe a little too much go go go mid-cycle when I felt like I wanted to do do do. Now I'm feeling tired tired tired. So sleep was good.
@@ -5982,7 +5982,7 @@ The continuous bloat, crazy hormones, and bad taste in men is giving me a few th
 
 I'd love dating to be something other than super highs and lows. I'm not on a roller coaster it's a free fall. And constant worry, misery and loneliness would be nice to lose as well. Imagine if dating was fun exhilarating and rewarding? Hmm
 
-### nosnhojjennifer@yahoo.com — 2012-09-02T22:14:37+0300
+### [email redacted] — 2012-09-02T22:14:37+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49038>
 
 What's the best test of candida?
@@ -6001,7 +6001,7 @@ Dr k commented somewhere that vinegar and the acetaldehydes (sp) in ferments do 
 
 Metamatrix GI effects I think.
 
-### nosnhojjennifer@yahoo.com — 2012-09-02T23:10:07+0300
+### [email redacted] — 2012-09-02T23:10:07+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49051>
 
 > **Souldanzer;49545 wrote:** Dr k commented somewhere that vinegar and the acetaldehydes (sp) in ferments do not mix so well with hashi's.
@@ -6016,7 +6016,7 @@ Btw. I'm finding bacon quite had to quit. Made two pieces. Then a third. Feel li
 
 Might need you on stand by later, S. gotta date tonight. Of course. I could just tell him the truth - i'm sorry I can't stay out too late I need to get home to make liver meatballs for tomorrows brekky.
 
-### nosnhojjennifer@yahoo.com — 2012-09-02T23:13:03+0300
+### [email redacted] — 2012-09-02T23:13:03+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49052>
 
 So how the h e double hockey sticks do u heal ur gut (which gave u Hashi) of u have Hashi?!
@@ -6054,7 +6054,7 @@ He's commented several places about ferments being not-so-great for Hashi's and 
 
 Context keeps me from going insane
 
-### nosnhojjennifer@yahoo.com — 2012-09-03T05:00:00+0300
+### [email redacted] — 2012-09-03T05:00:00+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49109>
 
 > **KiwiLauren;49577 wrote:** He's commented several places about ferments being not-so-great for Hashi's and for gut issues, actually. Ferment less and you get more sugar. Ferment more and you get more _acetaldehydes_. There was a blog comment or two about this, too. I think the consensus was that a bit was OK, a lot not. And he was definitely asked on Ask Jack if he'd eat them with Hashi's and pretty sure he said no. I'm trying to make sense of it, too, as I'm operating as if I have Hashi's until I get 3 consecutive tests that prove otherwise. I think this is 'context' again. Context makes my head hurt.
@@ -6069,7 +6069,7 @@ maybe no booch tomorrow and we'll see how the belly does
 
 thanks
 
-### nosnhojjennifer@yahoo.com — 2012-09-03T05:10:05+0300
+### [email redacted] — 2012-09-03T05:10:05+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49112>
 
 So, for those of you dating vicariously, had date with B tonight. He's a nice guy but after talking on the phone, I could sort of tell that we probably weren't gonna be a match. But as everyone says to date outside of your type, I met him. Very nice guy and we had a lovely chat but no bells or whistles.
@@ -6082,7 +6082,7 @@ keep on keeping on, I guess.
 
 Oh almost forgot...so I did make the liver meatballs. I hope they are gonna taste good because they smelled really bad! I def dumped way too much turmeric and then too much cinnamon (I put it in everything, I weird like that) in them, so I'm praying that is what the smell was and it wasn't the liver. I didn't notice the smell until after I added the spices. Any way, I also threw in some zucchini and basil. IDK, could be a weird combo. And an egg. My liver meatballs are always so runny...any advice on that?
 
-### jeanie@truelongmont.com — 2012-09-03T05:25:09+0300
+### [email redacted] — 2012-09-03T05:25:09+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49117>
 
 > **Jennifer;49613 wrote:** So, for those of you dating vicariously, had date with B tonight. He's a nice guy but after talking on the phone, I could sort of tell that we probably weren't gonna be a match. But as everyone says to date outside of your type, I met him. Very nice guy and we had a lovely chat but no bells or whistles.
@@ -6101,7 +6101,7 @@ Ovary flips are where it's at!
 
 For meatballs - I suggest abit o gelatin (msg free) and some coconut flakes or minced schrooms.
 
-### nosnhojjennifer@yahoo.com — 2012-09-03T05:43:30+0300
+### [email redacted] — 2012-09-03T05:43:30+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49125>
 
 > **Cavemam;49618 wrote:** Ovary flips are where it's at!
@@ -6116,7 +6116,7 @@ And for Cavemadam, unfortunately T fits my unsuccessful dating mold - talks a go
 
 So door number 3 (or is it 23)....
 
-### jeanie@truelongmont.com — 2012-09-03T05:47:20+0300
+### [email redacted] — 2012-09-03T05:47:20+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49127>
 
 > **Jennifer;49626 wrote:** Thanks for the meatball suggestions Cavemam
@@ -6127,7 +6127,7 @@ So door number 3 (or is it 23)....
 
 He could be just a different delivery device for oxy . Just tell him you have only one use for him at this point.
 
-### nosnhojjennifer@yahoo.com — 2012-09-03T05:56:52+0300
+### [email redacted] — 2012-09-03T05:56:52+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49132>
 
 > **Cavemam;49628 wrote:** He could be just a different delivery device for oxy . Just tell him you have only one use for him at this point.
@@ -6142,7 +6142,7 @@ Reminds me of top gun
 
 Sad but true
 
-### nosnhojjennifer@yahoo.com — 2012-09-03T06:19:41+0300
+### [email redacted] — 2012-09-03T06:19:41+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49133>
 
 From Dr K's Facebook:
@@ -6159,7 +6159,7 @@ Give the gift of your absence to those who do not appreciate your presence.
 
 This basically is the dating advice I needed to hear/heed for the last 26 years or so I've been dating. I'm trying not to think "if only my dad had given me this advice EVER".
 
-### jeanie@truelongmont.com — 2012-09-03T06:29:26+0300
+### [email redacted] — 2012-09-03T06:29:26+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49135>
 
 > **Jennifer;49634 wrote:** From Dr K's Facebook:
@@ -6188,7 +6188,7 @@ Might want to compare all those dates to daddy and see if there are patterns. . 
 
 I thought facebook was done?
 
-### nosnhojjennifer@yahoo.com — 2012-09-03T15:16:22+0300
+### [email redacted] — 2012-09-03T15:16:22+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49165>
 
 > **Cavemam;49636 wrote:** Might want to compare all those dates to daddy and see if there are patterns. . .
@@ -6213,17 +6213,17 @@ The liver meatballs were not disgusting but not sure I could put them in the goo
 
 At work today. Laboring on labor day. It's gonna be a long one
 
-### nosnhojjennifer@yahoo.com — 2012-09-03T16:02:32+0300
+### [email redacted] — 2012-09-03T16:02:32+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49171>
 
 Look what was in my work inbox - is the universe trying to tell me something? { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### nosnhojjennifer@yahoo.com — 2012-09-03T16:15:09+0300
+### [email redacted] — 2012-09-03T16:15:09+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49172>
 
 Look what was in my work inbox - is the universe trying to tell me something?
 
-### nosnhojjennifer@yahoo.com — 2012-09-03T16:19:14+0300
+### [email redacted] — 2012-09-03T16:19:14+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49174>
 
 any consensus on those whole body vibrational plate things...I see an one line deal
@@ -6239,21 +6239,21 @@ Well, Dr K said for me those vibration plates are like pissing in the lake (for 
 
 I guess the warning I would give you is that I doubt 12min of shaking you up is like an hour in the gym...... but boy does it feel good when I have a back pain. Better than massage!!
 
-### jeanie@truelongmont.com — 2012-09-03T19:14:22+0300
+### [email redacted] — 2012-09-03T19:14:22+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49195>
 
 > **Jennifer;49675 wrote:** Look what was in my work inbox - is the universe trying to tell me something? { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
 Hehe, i am kind of a narcissist - is this a how to on getting some codependent minions?
 
-### nosnhojjennifer@yahoo.com — 2012-09-04T03:44:37+0300
+### [email redacted] — 2012-09-04T03:44:37+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49304>
 
 > **Cavemam;49698 wrote:** Hehe, i am kind of a narcissist - is this a how to on getting some codependent minions?
 
 but you are a kind leader
 
-### nosnhojjennifer@yahoo.com — 2012-09-06T21:37:16+0300
+### [email redacted] — 2012-09-06T21:37:16+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49827>
 
 Note to self on t3
@@ -6262,7 +6262,7 @@ Note to self on t3
 
 At func med doc now. What are my complaints? Lol
 
-### nosnhojjennifer@yahoo.com — 2012-09-07T05:11:48+0300
+### [email redacted] — 2012-09-07T05:11:48+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49922>
 
 So func med doc. I wanted to leave there w a script for T3 but instead I left with a slip for more bloodwork. Sigh. I've had so many TSH's drawn this year and they've been all over the place.
@@ -6326,14 +6326,14 @@ Some random thoughts based on Dr K's consults with me about healing my gut.... I
 
 I realise there is actually no coherent thought in that above paragraph. You said context keeps you sane... maybe you can give it some?
 
-### kathiebu@hotmail.com — 2012-09-07T14:11:45+0300
+### [email redacted] — 2012-09-07T14:11:45+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49952>
 
 > **KiwiLauren;50475 wrote:** Some random thoughts based on Dr K's consults with me about healing my gut.... I'm assuming you're on HCl but perhaps you need to up the dose? Add digestive enzymes? NAC and tumeric supp? Lots of bone broths, lose the ferments. There are 2 issues re: gut health... lack of sufficient gut bacteria and lack of variety of gut bacteria (plus leakiness of course). So the idea is to work on both simultaneously.
 
 Lauren, why to you say you have to lose the ferments to heal your gut? I'm confused about that. I read at some places that ferments are good for the gut, and some are saying it's not.
 
-### nosnhojjennifer@yahoo.com — 2012-09-07T15:51:49+0300
+### [email redacted] — 2012-09-07T15:51:49+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49972>
 
 > **KiwiLauren;50475 wrote:** Don't you love it when your brain changes its mind on you. You'll be in love with your blender and frozen whole fish soon enough!
@@ -6360,7 +6360,7 @@ So good to hear about your successes down there.
 
 Love good news and hints
 
-### nosnhojjennifer@yahoo.com — 2012-09-07T15:56:57+0300
+### [email redacted] — 2012-09-07T15:56:57+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-49974>
 
 Strange morning. I woke up a little at 4:30 so I got up and took my Armour. Noticed the belly looked a little cut even with the flub. Peed and went back to bed. Got up at 6 and BLOAT. WTF! I thought water and Armour make me bloat? How can water make u bloat?
@@ -6420,7 +6420,7 @@ So I'm still in the stage of begging my doc for thyroid meds, but.... is it poss
 
 I 'think' that taking NAC with meals is OK. Maybe better to take them separately, but I wouldn't stress about that too much. Also, I forgot, there is colostrum. It's not fermented!
 
-### kathiebu@hotmail.com — 2012-09-08T00:31:03+0300
+### [email redacted] — 2012-09-08T00:31:03+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-50124>
 
 > **KiwiLauren;50631 wrote:** So I'm still in the stage of begging my doc for thyroid meds, but.... is it possible that your Armour could make you bloat? Maybe another reason to make a case for T3 only???
@@ -6434,36 +6434,36 @@ Thank's Lauren. i have a consult soon with Dr K, I will make that clear.
 
 I'd love to hear some clearer thinking on this. I hope you get some resolution. Right now I'm not even sure if I should be giving the homemade kevita to my children or not.
 
-### nosnhojjennifer@yahoo.com — 2012-09-09T02:09:41+0300
+### [email redacted] — 2012-09-09T02:09:41+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-50341>
 
 So TOM has arrived and brought with him a zit and bloating. We shall see what the next 28 days bring. It's really a roller coatster these days. Today i am SO tired. Of course I was out last night until 11 and into the wine. Plus I have a situation around me that is stressful. A friend's husband was in a bike accident while doing a triathlon and he's in the TICU with a broken neck and other broken stuff including his brain stem. Doctors say they don't think he will ever breathe on his own but he is conscious. Of course, no one iced him. Even though I live in Buffalo, home of the doc that saved the football player from being paralyzed with ice. I was at the hospital today. He looks worse than he did a week ago and the docs have pretty much given up on him and have been putting a lot of pressure on his wife to sign DNR and take him off ventilator. I can't imagine. If you feel drawn to do so, say a prayer for them. Thanks
 
-### nosnhojjennifer@yahoo.com — 2012-09-09T04:14:58+0300
+### [email redacted] — 2012-09-09T04:14:58+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-50387>
 
 OMG, it's saturday night and Im posting videos on a forum, with blue blockers on
 
 [http://youtu.be/LXVSaQ3ABbQ\[/video\]\]\[video=youtube\_share;LXVSaQ3ABbQ\]http://youtu.be/LXVSaQ3ABbQ\[/video\]](http://[video=youtube_share;LXVSaQ3ABbQ)
 
-### kathiebu@hotmail.com — 2012-09-09T04:21:45+0300
+### [email redacted] — 2012-09-09T04:21:45+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-50391>
 
 OMG. I sure will make a prayer for them. So sad.
 
-### nosnhojjennifer@yahoo.com — 2012-09-09T04:22:22+0300
+### [email redacted] — 2012-09-09T04:22:22+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-50394>
 
 > **AbetterME;50945 wrote:** OMG. I sure will make a prayer for them. So sad.
 
 thanks Katy!
 
-### jeanie@truelongmont.com — 2012-09-09T04:24:21+0300
+### [email redacted] — 2012-09-09T04:24:21+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-50396>
 
 Sorry, too. Reminder to enjoy what you can when you can.
 
-### nosnhojjennifer@yahoo.com — 2012-09-09T04:26:30+0300
+### [email redacted] — 2012-09-09T04:26:30+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-50397>
 
 > **Cavemam;50950 wrote:** Sorry, too. Reminder to enjoy what you can when you can.
@@ -6477,14 +6477,14 @@ amen. they have three boys
 
 I pray for a miracle.
 
-### nosnhojjennifer@yahoo.com — 2012-09-10T03:37:00+0300
+### [email redacted] — 2012-09-10T03:37:00+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-50615>
 
 > **Destiny;51161 wrote:** I pray for a miracle.
 
 Thanks Destiny, a miracle is what they need xoxo
 
-### nosnhojjennifer@yahoo.com — 2012-09-10T03:43:29+0300
+### [email redacted] — 2012-09-10T03:43:29+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-50617>
 
 note taking (like soul)
@@ -6494,7 +6494,7 @@ note taking (like soul)
 >
 > Jack Kruse;51152 wrote:** If you dont have free T3 (hypothyroidism of any cause) or Vitamin A (bad diet and is pretty rare even on a SAD) your cells will be constantly oxidized and over time chronic oxidation destroys cellular signaling. When signaling is broken nothing works.......never mind having a kid. This is why the obese and the anorexic have fertility issues. It is why the old and the sick also have trouble being fertile. This applies to both sexes. It is more critical in women.......but it is as deadly in men. Oxidation kills slowly and reduction increases longevity and fertility.
 
-### nosnhojjennifer@yahoo.com — 2012-09-10T03:45:52+0300
+### [email redacted] — 2012-09-10T03:45:52+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-50621>
 
 and
@@ -6537,7 +6537,7 @@ Answer: @Mitch when the effect is CHRONIC the decision in the cell is always on�
 
 The critical equation of life = LDL + T3 = pregnenolone. If free T3 is low you cant make pregnenolone. If you live a life in the modern world you are in survival mode (living in the cortisol pathway of oxidation) shunting the already low amount of pregnenolone your cells can make to cortisol at the sake of making progesterone. Progesterone is the base hormone for the testosterone, estrogen, DHEA, etc (the hormones of fertility)……..The more we shunt to survival mode hormones the less fertility ones we make. More survival path activation of cortisol makes the cell more oxidized the faster the cell ages…….Moreover, the more oxidized the cell becomes the more Vitamin D has to be used to offset this increased oxidation by the immune system so Vitamin D levels also falls with oxidation. I hope this clarifies it. This is why modern humans are infertile (1 in 7 couples) because to have a child you must be more reduced than oxidized because it favors a higher level of the pro- GESTATION hormone called progesterone. Most modern humans are starved for progesterone because modern life keeps them in the survival pathway of cortisol. The cell always has to chose between survival or reproduction and inflammation is the traffic cop for the decision. Hence why we see upside down PG/E2 ratios in all modern neolithic diseases. when this happens the lab panel show increased HS CRP, increased E2, and LR, with LOW free T3 levels
 
-### nosnhojjennifer@yahoo.com — 2012-09-12T03:28:59+0300
+### [email redacted] — 2012-09-12T03:28:59+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51099>
 
 bloating and acne
@@ -6549,7 +6549,7 @@ will it ever end???
 
 Sorry Jen  Not much to offer. Wait for BG 12?
 
-### nosnhojjennifer@yahoo.com — 2012-09-12T04:25:06+0300
+### [email redacted] — 2012-09-12T04:25:06+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51122>
 
 Thanks Soul ...
@@ -6558,7 +6558,7 @@ Also on my mind, guys with shaved heads. Why r they so sexy? What in their hormo
 
 (ovary still flips like dam Pavlov's dog every time I see one, stupid T)
 
-### jeanie@truelongmont.com — 2012-09-12T04:26:18+0300
+### [email redacted] — 2012-09-12T04:26:18+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51123>
 
 > **Jennifer;51697 wrote:** Thanks Soul ...
@@ -6584,7 +6584,7 @@ The link between youthful testosterone and male pattern baldness?
 
 Lol.... You think that's true for girls, too?? Shave head, be sexy?
 
-### nosnhojjennifer@yahoo.com — 2012-09-12T04:33:01+0300
+### [email redacted] — 2012-09-12T04:33:01+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51126>
 
 > **Souldanzer;51701 wrote:** Lol.... You think that's true for girls, too?? Shave head, be sexy?
@@ -6593,7 +6593,7 @@ Maybe but you might not hit your target audience.
 
 I think men like a slightly different hormone panel
 
-### nosnhojjennifer@yahoo.com — 2012-09-12T04:34:18+0300
+### [email redacted] — 2012-09-12T04:34:18+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51127>
 
 > **Cavemam;51699 wrote:** The link between youthful testosterone and male pattern baldness?
@@ -6605,7 +6605,7 @@ Inquiring minds want to know. Have you seen some of those crossfitters? Oh my. A
 
 Jen, Did you say recently that you were not going to drink Kombucha anymore? If so, how is your bloat? Are you seeing results?
 
-### kathiebu@hotmail.com — 2012-09-12T15:25:56+0300
+### [email redacted] — 2012-09-12T15:25:56+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51174>
 
 Where is your acne? Everytime I have zits on my left cheek, I know I ate something wrong the day before.
@@ -6614,19 +6614,19 @@ Check this out, I thought it might interest you:
 
 [https://www.facebook.com/media/albums/?id=149444195083012#!/photo.php?fbid=474739729220122&set=a.292462337447863.89983.149444195083012&type=3&theater](http://https://www.facebook.com/media/albums/?id=149444195083012#!/photo.php?fbid=474739729220122&set=a.292462337447863.89983.149444195083012&type=3&theater)
 
-### nicebeanst@yahoo.com — 2012-09-12T15:38:44+0300
+### [email redacted] — 2012-09-12T15:38:44+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51176>
 
 > **Jennifer;51703 wrote:** Inquiring minds want to know. Have you seen some of those crossfitters? Oh my. Almost makes me want to join a "box" ...Teenie?
 
 wellllll, there is a box in Rochester that I'd vouch for, I don't know anything about the Buffalo area. I can look into it if you are serious. I know the questions to ask (as well as the answers I want to hear.) At my place, we have a Strength & Power class 2 x week, those classes are only olympic weightlifting and powerlifting, that is what you want. (That is basically all I do) Sometimes it is called a barbell club or oly club. Separate $ from the CF membership. You will not be doing crazy conditioning that JK is always referring to as CF madness. CF can be a worthwhil endeavor, but one has to do their research first with the owners.
 
-### nicebeanst@yahoo.com — 2012-09-12T15:39:32+0300
+### [email redacted] — 2012-09-12T15:39:32+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51177>
 
 and thanks so much for helping me out with 9-11. I think I cleared a major hurdle there. (((hugs)))
 
-### nosnhojjennifer@yahoo.com — 2012-09-12T16:57:16+0300
+### [email redacted] — 2012-09-12T16:57:16+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51194>
 
 > **Teenie Leek;51758 wrote:** wellllll, there is a box in Rochester that I'd vouch for, I don't know anything about the Buffalo area. I can look into it if you are serious. I know the questions to ask (as well as the answers I want to hear.) At my place, we have a Strength & Power class 2 x week, those classes are only olympic weightlifting and powerlifting, that is what you want. (That is basically all I do) Sometimes it is called a barbell club or oly club. Separate $ from the CF membership. You will not be doing crazy conditioning that JK is always referring to as CF madness. CF can be a worthwhil endeavor, but one has to do their research first with the owners.
@@ -6637,14 +6637,14 @@ I saw a Groupon for crossfitting in tonawanda. But yes I don't want to do anythi
 
 Help Teenie.
 
-### nosnhojjennifer@yahoo.com — 2012-09-12T17:01:11+0300
+### [email redacted] — 2012-09-12T17:01:11+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51195>
 
 > **Teenie Leek;51759 wrote:** and thanks so much for helping me out with 9-11. I think I cleared a major hurdle there. (((hugs)))
 
 I love u!!
 
-### nosnhojjennifer@yahoo.com — 2012-09-12T17:03:37+0300
+### [email redacted] — 2012-09-12T17:03:37+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51197>
 
 > **AbetterME;51756 wrote:** Where is your acne? Everytime I have zits on my left cheek, I know I ate something wrong the day before.
@@ -6661,28 +6661,28 @@ Very interesting. Thanks that is super helpful. Chin. So gyno and fat. I'm not e
 
 Thanks Katy!
 
-### nosnhojjennifer@yahoo.com — 2012-09-12T17:11:47+0300
+### [email redacted] — 2012-09-12T17:11:47+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51199>
 
 > **vkiernan;51751 wrote:** Jen, Did you say recently that you were not going to drink Kombucha anymore? If so, how is your bloat? Are you seeing results?
 
 Hi V. Yes. I stopped drinking it until I get ph strips And test. But the bloat is so bad it's hard to say. I did have a little w olive oil on a sAlad and was bloating but what doesn't make me bloat.
 
-### nosnhojjennifer@yahoo.com — 2012-09-13T03:58:37+0300
+### [email redacted] — 2012-09-13T03:58:37+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51345>
 
 Whatever.
 
 That's all I got
 
-### nicebeanst@yahoo.com — 2012-09-13T04:11:31+0300
+### [email redacted] — 2012-09-13T04:11:31+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51353>
 
 Whatev
 
 (my adrenals won't even let me finish the whole word)
 
-### nosnhojjennifer@yahoo.com — 2012-09-13T04:15:54+0300
+### [email redacted] — 2012-09-13T04:15:54+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51358>
 
 > **Teenie Leek;51938 wrote:** Whatev
@@ -6695,19 +6695,19 @@ Yeah. What up, Teenie? Why r ur labs so depressed?
 
 Cheer up already!
 
-### nosnhojjennifer@yahoo.com — 2012-09-13T04:17:16+0300
+### [email redacted] — 2012-09-13T04:17:16+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51359>
 
 I'm 50 shades of pissed off right now and it's got nuthin to do w labs or bloat for a change.
 
-### nicebeanst@yahoo.com — 2012-09-13T04:22:44+0300
+### [email redacted] — 2012-09-13T04:22:44+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51365>
 
 oddly enough I am not depressed right now, but my labs sing a diff tune!
 
 Imma get you a mail order groom, k? Complete with babymaker.
 
-### nosnhojjennifer@yahoo.com — 2012-09-13T04:31:00+0300
+### [email redacted] — 2012-09-13T04:31:00+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51369>
 
 > **Teenie Leek;51950 wrote:** oddly enough I am not depressed right now, but my labs sing a diff tune!
@@ -6727,7 +6727,7 @@ Make it go away or make it better...
 
 Sorry Jen so wrapped up in myself these days  Wish I could make something better for you. I got nothing.... except you're awesome no matter your size or bloat or dating success. You're just very special... takes a very special man ya' know?
 
-### nosnhojjennifer@yahoo.com — 2012-09-13T16:18:13+0300
+### [email redacted] — 2012-09-13T16:18:13+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51421>
 
 > **Souldanzer;51976 wrote:** Sorry Jen so wrapped up in myself these days  Wish I could make something better for you. I got nothing.... except you're awesome no matter your size or bloat or dating success. You're just very special... takes a very special man ya' know?
@@ -6736,7 +6736,7 @@ Thanks for saying that Soul. Not sure. Wrestling a pretty old ugly story about m
 
 Glad you felt up to getting your living space and medical stuff in order. Sounds like a lot of great research. Going back to Germany maybe, huh? Seems fitting. Back to where it all began. Praying for a optimal solution for you.
 
-### nosnhojjennifer@yahoo.com — 2012-09-14T02:36:05+0300
+### [email redacted] — 2012-09-14T02:36:05+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51545>
 
 Chow stalker just posted on Facebook asking if they are the only ones who are disappointed when they open a can of sardines and there is no heads. Makes you wonder?? Are they secretly downing SHS?
@@ -6770,12 +6770,12 @@ Ugly. Maybe that's why I don't have a fb account. Well, I have one to follow oth
 
 lol..... Lauren, how much ferments have you had today??
 
-### nosnhojjennifer@yahoo.com — 2012-09-14T18:25:27+0300
+### [email redacted] — 2012-09-14T18:25:27+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51648>
 
 September 14 from The Book of Awakening: Just like fish we must keep swimming to stay alive. We must keep swimming through the days. We cannot stop the flow of experience or the need to take it in. Rather, all our efforts must go into learning the secret of the gill, the secret of transforming what we go through into air.
 
-### nosnhojjennifer@yahoo.com — 2012-09-14T18:30:26+0300
+### [email redacted] — 2012-09-14T18:30:26+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51649>
 
 OK, little bit of freakiness with the messages for today. Getting a strong vibe that there is a lot of confusion in the air and you gotta go inward to figure it out. JK's facebook is also saying this;
@@ -6804,7 +6804,7 @@ Namaste ~
 
 I'm kind of sensitive to energy. Just hoping and praying I can keep my mouth shut and not make any judgements about anything today. Pretty much ready to hide under covers...if you could see my poor hair, I am frazzled for sure! LOL
 
-### nosnhojjennifer@yahoo.com — 2012-09-15T06:26:38+0300
+### [email redacted] — 2012-09-15T06:26:38+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51764>
 
 Well. The morning was a bumpy ride but I managed. afternoon better and evening pretty good. Of course Malbec helps
@@ -6824,7 +6824,7 @@ Jennifer
 
 Lately I've been having to rely on the duct tape instead. Fine line between expressing your feelings and creating a mess. Choose whatever serves \*you\*.....
 
-### nosnhojjennifer@yahoo.com — 2012-09-16T06:58:01+0300
+### [email redacted] — 2012-09-16T06:58:01+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-51908>
 
 > **Souldanzer;52372 wrote:** Fine line between expressing your feelings and creating a mess. Choose whatever serves \*you\*.....
@@ -6833,24 +6833,24 @@ That there be gospel.
 
 Xoxo
 
-### nosnhojjennifer@yahoo.com — 2012-09-17T20:42:26+0300
+### [email redacted] — 2012-09-17T20:42:26+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-52180>
 
 So what's on the list for optimal pain management. Spent a very long time in the ICU supporting a friend and the standing in very flat shoes and the emotions of it all have me in some pain today. I'd love to pop some ibuprofen and drink a large coffee but my gut flora comes first. So is there anything to take for pain? Can't ice my ass at work.
 
-### nosnhojjennifer@yahoo.com — 2012-09-18T22:00:53+0300
+### [email redacted] — 2012-09-18T22:00:53+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-52498>
 
 Ugh. I ate a huge piece of salmon cooked in bacon grease and seaweed for lunch and I feel BLECH...headache and like I could puke. Noticed Cavemam's oyster fart post and Dr K says gas is sign of gut flora changing....that's a good thing, right?
 
-### jeanie@truelongmont.com — 2012-09-18T22:10:21+0300
+### [email redacted] — 2012-09-18T22:10:21+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-52501>
 
 > **Jennifer;52797 wrote:** So what's on the list for optimal pain management. Spent a very long time in the ICU supporting a friend and the standing in very flat shoes and the emotions of it all have me in some pain today. I'd love to pop some ibuprofen and drink a large coffee but my gut flora comes first. So is there anything to take for pain? Can't ice my ass at work.
 
 Vicodin rocks.
 
-### nosnhojjennifer@yahoo.com — 2012-09-19T14:00:08+0300
+### [email redacted] — 2012-09-19T14:00:08+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-52652>
 
 Does anyone else ever wish they had someone to dress them, do your hair and drive me to work?
@@ -6868,7 +6868,7 @@ Oooh, you sound exhausted! Or, maybe you want to be called Princess Jen! Actuall
 
 Keep hoping and thinking that way and when the stars align, that is what you will get!!!
 
-### nosnhojjennifer@yahoo.com — 2012-09-19T15:53:17+0300
+### [email redacted] — 2012-09-19T15:53:17+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-52674>
 
 > **vkiernan;53281 wrote:** Oooh, you sound exhausted! Or, maybe you want to be called Princess Jen! Actually, I wish I had someone to cook me dinner, snuggle up in the evening and then put me to bed. My mornings are great. It is night time that I have nothing left.
@@ -6895,7 +6895,7 @@ I wonder if my condition is contagious through texting
 
 All the time.... the closet part can be real difficult. Wide, flowy dresses.... room to move and be comfy I say, that's usually my choice.
 
-### nosnhojjennifer@yahoo.com — 2012-09-19T18:19:32+0300
+### [email redacted] — 2012-09-19T18:19:32+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-52716>
 
 > **Souldanzer;53339 wrote:** I wonder if my condition is contagious through texting
@@ -6906,14 +6906,14 @@ I think it was the seaweed. We'll see cause I brought it for lunch.
 
 I wish I had gone w flowy dress but went w fitting jacket and the girls are tight. Gotta go to wake later. Number 3-I'm done. Hear that? No more...
 
-### nosnhojjennifer@yahoo.com — 2012-09-21T03:27:22+0300
+### [email redacted] — 2012-09-21T03:27:22+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-53074>
 
 What's with the strange gassy colon? By the feel of what's going on in there u would think that I ate dairy or beans ?? Wth?! And weird cyst-like things popping up like on my gum and random on my leg?
 
 Anyone?
 
-### jeanie@truelongmont.com — 2012-09-21T03:28:25+0300
+### [email redacted] — 2012-09-21T03:28:25+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-53075>
 
 > **Jennifer;53709 wrote:** What's with the strange gassy colon? By the feel of what's going on in there u would think that I ate dairy or beans ?? Wth?! And weird cyst-like things popping up like on my gum and random on my leg?
@@ -6922,7 +6922,7 @@ Anyone?
 
 Demon possession? Perhaps you need more meditation
 
-### nosnhojjennifer@yahoo.com — 2012-09-21T04:06:31+0300
+### [email redacted] — 2012-09-21T04:06:31+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-53097>
 
 > **Cavemam;53710 wrote:** Demon possession? Perhaps you need more meditation
@@ -6936,7 +6936,7 @@ Haha or yoga. How not to make yoga friends: take ur gassy colon to class for "wi
 
 lmao...... maybe it's a good thing remember Cavemam's fart post
 
-### nosnhojjennifer@yahoo.com — 2012-09-23T20:04:50+0300
+### [email redacted] — 2012-09-23T20:04:50+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-53641>
 
 so, no brazil nuts, huh? Guess it was only recommended to eat one a day. I must be floating in selenium.
@@ -6993,7 +6993,7 @@ copper is in Oysters........get some.
 
 my zinc is super high from the piles of oysters I've been eating??? but copper is lowish
 
-### nosnhojjennifer@yahoo.com — 2012-09-23T21:19:10+0300
+### [email redacted] — 2012-09-23T21:19:10+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-53669>
 
 > **Souldanzer;54305 wrote:** my zinc is super high from the piles of oysters I've been eating??? but copper is lowish
@@ -7022,7 +7022,7 @@ Paging choco STAT
 
 unfortunately, choco makes me  and it's not AI approved either
 
-### nosnhojjennifer@yahoo.com — 2012-09-23T21:37:12+0300
+### [email redacted] — 2012-09-23T21:37:12+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-53674>
 
 Not chocolate to eat!
@@ -7082,7 +7082,7 @@ By Walter Last
 
 It's a pretty good article. I guess it gets to be tough call because zinc and copper need to be in balance. but you can't tell how much you have.
 
-### nosnhojjennifer@yahoo.com — 2012-09-24T02:58:00+0300
+### [email redacted] — 2012-09-24T02:58:00+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-53717>
 
 Thanks Choco!
@@ -7096,12 +7096,12 @@ Here that Soul. Maybe ease up on the Vit C?
 
 hmmmm I was lowish on that, too..... maybe different time of day
 
-### nosnhojjennifer@yahoo.com — 2012-09-24T06:40:58+0300
+### [email redacted] — 2012-09-24T06:40:58+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-53753>
 
 I must say the world does look nicer through orange colored glasses....
 
-### nosnhojjennifer@yahoo.com — 2012-09-24T21:50:15+0300
+### [email redacted] — 2012-09-24T21:50:15+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-53883>
 
 crap, time to break up with Brazil Nuts
@@ -7158,14 +7158,14 @@ Abate off on's voice that you be experiencing a slew of outfits that you unreser
 
 Traditionally, hooks cast-off to come in little styles but in the present climate a fully scale of hooks are handy in stock exchange with different colours, shapes, styles and colours. They are for the time being known to be a fashion statement and are appreciated fake louis vuitton: [http://www.ukbootser.com](http://http://www.ukbootser.com) for their practicality. Basically, there are 4 main types of hooks that can be adapted to with any personification of handbag.
 
-### kathiebu@hotmail.com — 2012-09-26T03:43:38+0300
+### [email redacted] — 2012-09-26T03:43:38+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-54328>
 
 What is that??
 
 Are fake Louis Vuitton purses AI approved?
 
-### nosnhojjennifer@yahoo.com — 2012-09-26T15:55:16+0300
+### [email redacted] — 2012-09-26T15:55:16+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-54401>
 
 > **AbetterME;55057 wrote:** What is that??
@@ -7200,7 +7200,7 @@ _\-- Sent from my Palm Pre using [Forums](http://http://developer.palm.com/appre
 
 oh, and boy before I forget, thanky you!!! Loved the note you sent me  That was very sweet!!
 
-### nosnhojjennifer@yahoo.com — 2012-10-13T05:31:29+0300
+### [email redacted] — 2012-10-13T05:31:29+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-57928>
 
 I'm here. My face is BAD. NOTsure wtf to do. New job. Busy. Not really stressful. Yet. Can't tell what I'm gonna do. T is obviously ruling. Prolly E and P I toilet again
@@ -7217,7 +7217,7 @@ Serious
 
 I think
 
-### nosnhojjennifer@yahoo.com — 2012-10-13T05:32:01+0300
+### [email redacted] — 2012-10-13T05:32:01+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-57929>
 
 > **Souldanzer;59239 wrote:** oh, and boy before I forget, thanky you!!! Loved the note you sent me  That was very sweet!!
@@ -7245,7 +7245,7 @@ Luv u!!!
 
 Jen, I've had acne increase since going on P (not before). It is any particular time of the month, or constant? I'm trying to figure mine out, too. Do you have high T? (I'm sure you've written this info a lot before, but I can't remember.)
 
-### nosnhojjennifer@yahoo.com — 2012-10-13T23:13:42+0300
+### [email redacted] — 2012-10-13T23:13:42+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-58005>
 
 > **KiwiLauren;59330 wrote:** Jen, I've had acne increase since going on P (not before). It is any particular time of the month, or constant? I'm trying to figure mine out, too. Do you have high T? (I'm sure you've written this info a lot before, but I can't remember.)
@@ -7320,7 +7320,7 @@ Dietary Modification
 
 A review of the extensive literature specific to lifestyle factors in PCOS demonstrates that an essential treatment strategy for ameliorating the symptoms of PCOS and resolving the underlying metabolic derangements is the implementation of a low carbohydrate diet. This will tightly control blood sugar levels and resultant insulin production. High levels of insulin result in high levels of triglycerides and low levels of high density lipoproteins, which puts these patients into a high cardiovascular disease risk category. Modulating the diet not only helps the female endocrine cycle, but also serves as preventative medicine against these cardiovascular risk factors. As the insulin levels normalize, this will also improve circulating levels of SHBG, therefore limiting the problematic effects of free androgens on the menstrual cycle. (2,6)
 
-### nosnhojjennifer@yahoo.com — 2012-10-13T23:22:28+0300
+### [email redacted] — 2012-10-13T23:22:28+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-58007>
 
 Got some good ideas here
@@ -7344,7 +7344,7 @@ I'm trying to rule out PCOS too. Dr K said he doesn't know if I have it (but I c
 
 I try to remember healing is non-linear. But it's awful bumpy, too  I do however have a history of zinc deficiency and I've added back in supplementation (and also been dabbing it directly on my face). It seems to have helped. Are you going to be on the Spree Chat today? I know Gretchen is dealing with acne, too... maybe we can have a group think?
 
-### nosnhojjennifer@yahoo.com — 2012-10-14T06:38:09+0300
+### [email redacted] — 2012-10-14T06:38:09+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-58054>
 
 Recap.
@@ -7404,7 +7404,7 @@ You need a prescription for spironolactone.
 
 I wonder if you are getting carbs somewhere? My son had cystic acne and took minocycline off and on for years. He was a soda drinker and when he quit, it just went away. He only eats meat, eggs, fish, bacon and salads. He drinks beer and liquor and it shows on his face when he does.
 
-### nosnhojjennifer@yahoo.com — 2012-10-14T21:43:46+0300
+### [email redacted] — 2012-10-14T21:43:46+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-58178>
 
 for a laugh
@@ -7420,7 +7420,7 @@ My struggle with acne is recent (since starting P... of course that doesn't mean
 
 Hey Jen, re: your dating life, maybe you're just so far toward optimal that you're having trouble finding any men who are in the ballpark. Maybe take some 40 year old out for a couple dozen oysters then drag them along with your hormone panel.
 
-### nosnhojjennifer@yahoo.com — 2012-10-15T05:17:50+0300
+### [email redacted] — 2012-10-15T05:17:50+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-58245>
 
 > **Inger;59472 wrote:** Jennifer. I am sorry about your acne.. it sucks. My skin likes no dairy.. except of maybe raw organic goats milk from old brand goats. I can buy it here and drink it occasionally. Butter, cream, cheese.. makes me not pretty. I wonder if you would suffer less if you went HARD CORE with your food and light and dropped all hormones? That your body get a chance to regulate itself slowly? I am thinking of yucky foods like MHS, raw hearts and stuff. Rotten meat. Candles only after dark, triple protection when using computer evenings.. dark sunglasses when going to parties or shops or stuff after sunset. Yeah.. I know but I bet you would be happier with your outlook fast! Look, I can tell you it works for me that way at least. I kinda need to choose.. to please my palate.. or looking good. I cannot have both. Sure I eat delicious stuff too like salmon tartar and oysters and sashimi but they are well choosen and on purpose. Now I am used to stuff like raw lambs hearts carpaccio and like it a lot but it might be you need to get used to it first.
@@ -7449,7 +7449,7 @@ I stay away from fruit like the plague now and dairy has been out for so long, e
 
 THANKS INGER
 
-### nosnhojjennifer@yahoo.com — 2012-10-15T05:23:41+0300
+### [email redacted] — 2012-10-15T05:23:41+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-58246>
 
 > **indigogirl;59546 wrote: Jennifer, you might want to look at spironolactone to counter the cystic acne effects of T.
@@ -7479,14 +7479,14 @@ hmm...well I still eat cocoa powder and some sweet potato, but not in weeks. I r
 
 Pepitas? I got into those hard for two days. They have lots of zinc though....it's a mystery. Sometimes i think I need another elimination diet. My way
 
-### nosnhojjennifer@yahoo.com — 2012-10-15T15:41:09+0300
+### [email redacted] — 2012-10-15T15:41:09+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-58294>
 
 "Managing our emotions increases intuition and clarity. It helps us self-regulate our brain chemicals and internal hormones. It gives us natural highs, the real fountain of youth we've been searching for. It enables us to drink from elixirs locked within our cells, just waiting for us to discover them."
 
 \- Doc Childre
 
-### nosnhojjennifer@yahoo.com — 2012-10-17T15:49:33+0300
+### [email redacted] — 2012-10-17T15:49:33+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-58703>
 
 Doc appt Monday to review labs - VAP and thyroid. I want to ask for straight T3. Need some info to back myself up. Any pointers would be appreciated. Body temp was 96.6 last night. Weight is creeping up. Skin so dry. My T3 ratio from previous labs was out of range but need to see new labs.
@@ -7497,7 +7497,7 @@ RT3 29 (11-32)
 
 Gives me a ratio of 6.2 optimal is above 20
 
-### jeanie@truelongmont.com — 2012-10-17T22:59:13+0300
+### [email redacted] — 2012-10-17T22:59:13+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-58800>
 
 Did you see this?
@@ -7521,7 +7521,7 @@ The thing is, it looks like the acne is partially generated by unwanted bacteria
 
 I copied the pages from the STTM book on the t3 protocol to clear the rt3 which you clearly have. I also gave her Jack's pearls on T3. Then I assured her I would not be careless and would follow the rules. She agreed. Make sure you clarify exactly what you want. Oh, I also gave her a spreadsheet of my titrating schedule. It was very nice and clearly laid my plan out visually. Remind him/her that the t3 is not getting into your cells and doing its thing and you are worried that more harm is being done. Remember, you will take your temp and your pulse to make sure you "don't" go hyper!!!! Good luck!
 
-### nosnhojjennifer@yahoo.com — 2012-10-18T15:59:44+0300
+### [email redacted] — 2012-10-18T15:59:44+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-58910>
 
 > **Cavemam;60336 wrote:** Did you see this?
@@ -7536,14 +7536,14 @@ I copied the pages from the STTM book on the t3 protocol to clear the rt3 which 
 
 Thanks Mam. Just wondering how to order up the good kind! I'm finding the zinc directly on them shrinks them fast but the tissue around takes a beating as well. Been trying to take the zinc orally but it's so nasty. I think it is either totally not related to food at all (and just low e) or it was a bad batch of ghee. Idk. Stress also gets me. Thanks for thinking of me.
 
-### nosnhojjennifer@yahoo.com — 2012-10-18T16:03:24+0300
+### [email redacted] — 2012-10-18T16:03:24+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-58912>
 
 > **vkiernan;60397 wrote:** I copied the pages from the STTM book on the t3 protocol to clear the rt3 which you clearly have. I also gave her Jack's pearls on T3. Then I assured her I would not be careless and would follow the rules. She agreed. Make sure you clarify exactly what you want. Oh, I also gave her a spreadsheet of my titrating schedule. It was very nice and clearly laid my plan out visually. Remind him/her that the t3 is not getting into your cells and doing its thing and you are worried that more harm is being done. Remember, you will take your temp and your pulse to make sure you "don't" go hyper!!!! Good luck!
 
 Thanks fir the tip V. I don't have that book. I have the other one by dr kharrazian - why Do I still have thyroid symptoms when my lab tests are normal? Gonna have to look through that and do some googling on T3. Really can't deal w the weight gain and dry hair/skin any more. Lord knows I eat enough fish and fat
 
-### nosnhojjennifer@yahoo.com — 2012-10-18T17:00:57+0300
+### [email redacted] — 2012-10-18T17:00:57+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-58925>
 
 Interesting info on stop the thyroid madness including to chew Armour pills. And to take then earlier like 1&1/2 hr b4 waking up to help cortisol. For the past two weeks I've been off hcl for poop test, wonder if that didn't help bid coust I wasn't taking hcl w Armour but shortly there after. Also wondering if eating too soon after taking Armour has been a problem. Also curious about the fact try list stopping T4 as a way to fix high rT3.
@@ -7562,7 +7562,7 @@ I chewed mine and let it sit under my tongue as long as I possibly could w/out g
 
 I have been gaining weight lately too. I think it is my progesterone cream pushing my E. dom. That or t3 only isn't enough and it might take a bit for the rt3 to clear so it can actually do something. Just so hard to know what is really doing what.
 
-### nosnhojjennifer@yahoo.com — 2012-10-22T23:13:56+0300
+### [email redacted] — 2012-10-22T23:13:56+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-59711>
 
 Just back from doc visit and BW was most surprising:
@@ -7590,14 +7590,14 @@ My doc is not gonna like it until it comes down. My Lp(a) cholesterol is H at 16
 
 Jen, I have no clue about bloat and related issues, but even though your RT3 is much better, your T3 and T4 are still super low and your TSH is high. That alone can stall weight loss/create weight gain. And your antibodies are still up it appears. So if eggs/dairy are an antigen for you, then that will also cause gain. The dairy/ghee can also bounce around your blood sugar potentially, yea? I can't really see anything too worrying with your cholesterol panel, though. (Btw, how does raising zinc negatively effect D3?)
 
-### nosnhojjennifer@yahoo.com — 2012-10-24T04:57:37+0300
+### [email redacted] — 2012-10-24T04:57:37+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-59941>
 
 > **KiwiLauren;61301 wrote:** Jen, I have no clue about bloat and related issues, but even though your RT3 is much better, your T3 and T4 are still super low and your TSH is high. That alone can stall weight loss/create weight gain. And your antibodies are still up it appears. So if eggs/dairy are an antigen for you, then that will also cause gain. The dairy/ghee can also bounce around your blood sugar potentially, yea? I can't really see anything too worrying with your cholesterol panel, though. (Btw, how does raising zinc negatively effect D3?)
 
 Other way around - supplementing D is one cause of low zinc.
 
-### nosnhojjennifer@yahoo.com — 2012-10-24T04:58:27+0300
+### [email redacted] — 2012-10-24T04:58:27+0300
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-59942>
 
 Dang nambit! TOM Day 22!! Why so early?? What does a short cycle say about your hormones??
@@ -7609,7 +7609,7 @@ Dang nambit! TOM Day 22!! Why so early?? What does a short cycle say about your 
 
 Ah, fascinating. Thanks! Another reason for nakedness I suppose.
 
-### nosnhojjennifer@yahoo.com — 2012-10-28T18:36:24+0200
+### [email redacted] — 2012-10-28T18:36:24+0200
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-60594>
 
 Kind of worried about my high dha and EPA. Really questioning whether I can properly digest fat and if I should be eating it?? Waiting for GI stool test results so that should tell. I posted all my labs here
@@ -7637,7 +7637,7 @@ I eat greens and eggs and sweet potatoes. And CO, OO, bacon fat. I eat cacao pow
 
 I'm a little worried too, about the whole fat situation. Vitamin K is the opposite of a blood thinner.
 
-### nosnhojjennifer@yahoo.com — 2012-10-30T22:35:44+0200
+### [email redacted] — 2012-10-30T22:35:44+0200
 **Source:** <https://forum.jackkruse.com/threads/jennifers-moving-from-leptin-reset-ct-adrenal-rx-leaky-gut-rx-ai-to-optimal.323/post-60993>
 
 > **chocolate;62285 wrote:** I'm a little worried too, about the whole fat situation. Vitamin K is the opposite of a blood thinner.
@@ -7699,12 +7699,12 @@ Ok, seems like I'm not the only one who can't stand them, but are they only toug
 
 I can't do the showers. Submersion is way easier for me. My skin goes numb very quickly. LOL
 
-### omlh@todmi.com — 2012-03-20T19:21:48+0200
+### [email redacted] — 2012-03-20T19:21:48+0200
 **Source:** <https://forum.jackkruse.com/threads/what-is-better-showers-or-baths.324/post-3356>
 
 I find showers much easier than submersion. But the submersion does, for me at least, seem to be more effective than the showers. I reckon that 8 days in, it's too early to tell other than that I feel energised by the showers in the morning, and the baths leave me feeling tireder in the evening ....
 
-### jeanie@truelongmont.com — 2012-03-20T19:21:50+0200
+### [email redacted] — 2012-03-20T19:21:50+0200
 **Source:** <https://forum.jackkruse.com/threads/what-is-better-showers-or-baths.324/post-3357>
 
 I've found showers to be the most difficult! I'm ice packing and going to try to go to bath . I've been forcing myself to cold shower - and I seriously scream and jump and can't make it 2 a moment past 2 mins.
@@ -7815,7 +7815,7 @@ I am with you on this one - really hard to do!!
 
 i havent got a tub so ive had to do just cold showers. usually 15-20 minutes sometimes 2 x a day. ive started to love the initial shock actually.
 
-### omlh@todmi.com — 2012-03-21T14:14:56+0200
+### [email redacted] — 2012-03-21T14:14:56+0200
 **Source:** <https://forum.jackkruse.com/threads/what-is-better-showers-or-baths.324/post-3830>
 
 Haven't been having problems with the cold showers until today - this morning my reaction was, inexplicably, close to Sharon's
@@ -8347,7 +8347,7 @@ Hello My name is Mitch Baird and I am from Thorold Ontario Canada.
 
 the website for my organization is [www.soadi.ca](http://http://www.soadi.ca)
 
-### terryfischer39@yahoo.com — 2012-03-21T00:09:47+0200
+### [email redacted] — 2012-03-21T00:09:47+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-turtle-island.328/post-3567>
 
 Welcome!! hope you enjoy all the info here.
@@ -8559,12 +8559,12 @@ Thanks for posting your journey MamaGrok! It gives us all inspiration and hope!
 
 Thank you for showing your fabulous progress! I've followed you over at MDA and you're amazing!!
 
-### nosnhojjennifer@yahoo.com — 2012-03-21T01:28:42+0200
+### [email redacted] — 2012-03-21T01:28:42+0200
 **Source:** <https://forum.jackkruse.com/threads/beating-sugar-addiction-ed-cf-much-more.330/post-3620>
 
 Beautiful! Thank you for sharing your success!
 
-### rbu5@sssnet.com — 2012-03-21T02:00:21+0200
+### [email redacted] — 2012-03-21T02:00:21+0200
 **Source:** <https://forum.jackkruse.com/threads/beating-sugar-addiction-ed-cf-much-more.330/post-3643>
 
 Awesome, just awesome MG!
@@ -8770,7 +8770,7 @@ I was just looking at my measurements and saw that I lost **4" in the waist** th
 
 And I lost 5" in the thigh. 5"! How do you even get 5" on a thigh and still be able to walk?! Proves it wasn't just "baby fat" I suppose.
 
-### chrystin.comeau@live.com — 2012-03-31T19:40:29+0300
+### [email redacted] — 2012-03-31T19:40:29+0300
 **Source:** <https://forum.jackkruse.com/threads/beating-sugar-addiction-ed-cf-much-more.330/post-9288>
 
 > **MamaGrok;9344 wrote:
@@ -9109,7 +9109,7 @@ ha ha I know I haven't answered your question! I think nobody really knows what 
 
 All the studies you see discuss activating the BAT at chilly--not super cold temps, so I'm sure non-shivering is OK. Whether that means shivering madly is better, I do not know.
 
-### jeanie@truelongmont.com — 2012-03-21T01:58:02+0200
+### [email redacted] — 2012-03-21T01:58:02+0200
 **Source:** <https://forum.jackkruse.com/threads/shivering.332/post-3641>
 
 I've read in detail almost all the studies - plus I've been watching this whole thing unfold since Jack started this series. I would advise to go slower. You should not be "real shivering" for the most part.
@@ -9166,12 +9166,12 @@ My well water is 50 F in the tub.
 
 I have only shivered once, and it was my very first 5 minute immersion bath. After that, I have not shivered for cold showers, immersions, icepacks - not sure if that is good or bad.
 
-### omlh@todmi.com — 2012-03-21T18:57:21+0200
+### [email redacted] — 2012-03-21T18:57:21+0200
 **Source:** <https://forum.jackkruse.com/threads/shivering.332/post-3938>
 
 My first bath I shivered violently (but also overdid it, probably hypothermic), and since then I haven't really shivered. I've been lowering the temperature of the water slowly every day. Today I had the weirdest sensation of everything inside me shivering whilst I was in the bath, and now my skin feels as though it's crawling. Is this a good thing, or not? I've also never shivered from the spot icing, nor from the cold showers - just this weird feeling following today's bath.
 
-### meyoolia@gmail.com — 2012-03-21T20:30:52+0200
+### [email redacted] — 2012-03-21T20:30:52+0200
 **Source:** <https://forum.jackkruse.com/threads/shivering.332/post-3982>
 
 Bath number 12 last night (11 & 12 were at 48F) and as long as I can bop around and keep moving for 20 minutes or so afterward, I only spend the first 10-15 post-CT minutes shivering now. The first few dunks, I shivered madly for over an hour or so afterward - yay progress! And, science geek that I am, I started measuring pre and post CT water temps: #9, raised it from 50-53F in 40 minutes...#10 same... #11, 48-52F in 35 minutes... and last night, 48-53F in 40! I'm HOT! No actual tub shivering, just some 'buzzing' and goosebumps now and then. (and, yes, once I did measure immediately post and 40-minutes post tub temps - no change)
@@ -9328,7 +9328,7 @@ I've been on the LR since Jan. 1. I, too, have gone off the wagon; the longest w
 
 My best advice is, the very next time you eat, make it super clean Paleo. If you're absolutely starving, have a slice or two of bacon. Then hold out till your next meal, which might be a BA salad with meat, CO oil, veggies. Don't beat yourself up about it. But DO take note of how you feel, how you sleep, what your skin looks like, when you eat processed carbs, because this knowledge will help you a ton the next time you see that bagel that's so "hard to resist".
 
-### jeanie@truelongmont.com — 2012-03-21T02:00:27+0200
+### [email redacted] — 2012-03-21T02:00:27+0200
 **Source:** <https://forum.jackkruse.com/threads/confession-completely-off-the-wagon-today.333/post-3644>
 
 suffer through tonight! Should give your body the fasting to get through the junk. Start the day with the BAB and move on! It's all about how you try again when failing. If you are not failing at anything, you are not doing anything!!
@@ -9447,7 +9447,7 @@ The chambers expose the body to a mist of cooled gas of temperatures as low as -
 **Subforum:** Cold Thermogenesis
 **Posts:** 147
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2012-03-21T01:31:38+0200
+### [email redacted] — 2012-03-21T01:31:38+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-3624>
 
 Ok, 2 weeks face dunking, 2 CT ice pack sessions.
@@ -9465,7 +9465,7 @@ Vain in Colorado.
 
 I have a skin tag near my eye. Other stuff is getting much nicer. I had a fatty deposit near my other eye melt. My palms peeled also. Really odd. They weren't dry or scaly, they just peeled or more like shed. My eye wrinkles are still bad. But I'm not dunking, I just swim in a pool an go under water. After I shower, I turn it on cold until I start deep breathing.
 
-### jeanie@truelongmont.com — 2012-03-21T01:49:11+0200
+### [email redacted] — 2012-03-21T01:49:11+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-3633>
 
 The somewhat alarming thing is these are NEW. Didn't have them 3 weeks ago. I think I've only ever had one, and that was during pregnancy. My hope is it's CT, and will go away with perserverance. It was warmer today, and I wore a boatneck kind of shirt, and was running my hand along my neck - and voila! I noticed I had like 6 areas where they were already tags, or were brewing.
@@ -9480,7 +9480,7 @@ I think I remember reading skin tags are connected to estrogen dominance. So per
 
 Huh. I've heard that skin tags are usually connected to insulin resistance, but that wouldn't make sense in this case...
 
-### jeepifer@gmail.com — 2012-03-21T05:52:31+0200
+### [email redacted] — 2012-03-21T05:52:31+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-3787>
 
 They are common during pregnancy because of high hormone levels. I had a few that are gone now. I'd imagine that's what is being flushed out, and they should hopefully go away! That's just a guess, tho.
@@ -9513,7 +9513,7 @@ I have no idea why one would pop out suddenly, however.
 
 Yeah I have skin tags and other IR symptoms, and I'm as big as a whale.
 
-### jeanie@truelongmont.com — 2012-03-21T22:13:29+0200
+### [email redacted] — 2012-03-21T22:13:29+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-4035>
 
 Doc Dan,
@@ -9542,7 +9542,7 @@ I have had them myself since college, as well as my sister and my father. My wei
 
 [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2856367/](http://http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2856367/)
 
-### jeanie@truelongmont.com — 2012-03-22T01:47:47+0200
+### [email redacted] — 2012-03-22T01:47:47+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-4139>
 
 > **tweety;4153 wrote:** I have had them myself since college, as well as my sister and my father. My weight has always been good, but I do have estrogen dominance. I am definitely not insulin resistant, nor my sister. My dad I cannot say, because he is overweight and probably has issues we don't even know about. He is however low in testosterone and had several other symptoms of male estrogen excess.
@@ -9576,7 +9576,7 @@ What worked for me was realizing I didn't have to share everything the first app
 
 Turned out it was all about building a relationship and just like any relationship, it took time and not everything was revealed immediately!
 
-### jeepifer@gmail.com — 2012-03-22T02:27:27+0200
+### [email redacted] — 2012-03-22T02:27:27+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-4160>
 
 > **Cavemam;4061 wrote:** I've got great insurance, and I'm willing to pay!
@@ -9588,12 +9588,12 @@ Look for a doc that's listed on the functional medicine website... That's how I 
 
 You can tie thread or dental floss around them and they die off. Just like banding livestock.
 
-### trishalinn@gmail.com — 2012-03-22T03:23:55+0200
+### [email redacted] — 2012-03-22T03:23:55+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-4204>
 
 My husband has been getting nosebleeds quite frequently any chance this could be from the CT?
 
-### iliarski@yahoo.com — 2012-03-22T04:34:03+0200
+### [email redacted] — 2012-03-22T04:34:03+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-4230>
 
 > **jeepifer;4186 wrote:** Look for a doc that's listed on the functional medicine website... That's how I found my holistic MD; she takes my insurance, and is awesome and cutting-edge! [http://www.functionalmedicinedoctors.com/](http://http://www.functionalmedicinedoctors.com/)
@@ -9606,14 +9606,14 @@ I would very much appreciate the info.
 
 Thank you.
 
-### finnite@dccnet.com — 2012-03-22T14:47:31+0200
+### [email redacted] — 2012-03-22T14:47:31+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-4325>
 
 > **Trisha;4230 wrote:** My husband has been getting nosebleeds quite frequently any chance this could be from the CT?
 
 frequent nosebleeds can indicate a lack of K2
 
-### trishalinn@gmail.com — 2012-03-22T14:51:34+0200
+### [email redacted] — 2012-03-22T14:51:34+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-4326>
 
 > **ColleenM;4353 wrote:** frequent nosebleeds can indicate a lack of K2
@@ -9625,7 +9625,7 @@ Thanks for the heads up! I'll get him some K2 asap then
 
 some bleed with high fish oil...
 
-### jeanie@truelongmont.com — 2012-03-22T16:34:41+0200
+### [email redacted] — 2012-03-22T16:34:41+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-4413>
 
 > **jeepifer;4186 wrote:** Look for a doc that's listed on the functional medicine website... That's how I found my holistic MD; she takes my insurance, and is awesome and cutting-edge! [http://www.functionalmedicinedoctors.com/](http://http://www.functionalmedicinedoctors.com/)
@@ -9638,14 +9638,14 @@ How do you start that conversation with the receptionist anyway "I'm looking for
 
 I keep holding out as JK said he was working on some option for us? Some way to do this remotely? Jack - some kind of online clinic or something? Any ETA in mind?
 
-### jeanie@truelongmont.com — 2012-03-22T16:36:01+0200
+### [email redacted] — 2012-03-22T16:36:01+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-4415>
 
 > **L8F;4408 wrote:** some bleed with high fish oil...
 
 Completely anecdotal - but when I started (and was adding cod liver oil daily as part of starting) I started having breakthrough bleeding every week.
 
-### jeepifer@gmail.com — 2012-03-22T17:28:48+0200
+### [email redacted] — 2012-03-22T17:28:48+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-4435>
 
 > **tsatsa;4256 wrote:** Hi jeepifer,
@@ -9765,7 +9765,7 @@ Hugh doses of fish oil and krill oil caused me spontaneous nosebleeds. Prescript
 
 I'm getting a burning sensation in my tummy while in full immersion, this happening to anybody else?
 
-### nosnhojjennifer@yahoo.com — 2012-03-23T00:13:03+0200
+### [email redacted] — 2012-03-23T00:13:03+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-4673>
 
 > **Cavemam;4441 wrote:** Darn, there was only 1 - and it looks like he passed away a year ago!
@@ -9786,7 +9786,7 @@ Have you tried
 
 [http://paleophysiciansnetwork.com/](http://http://paleophysiciansnetwork.com/)
 
-### omlh@todmi.com — 2012-03-23T09:32:13+0200
+### [email redacted] — 2012-03-23T09:32:13+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-4882>
 
 > **Mikey7;4699 wrote:** I'm getting a burning sensation in my tummy while in full immersion, this happening to anybody else?
@@ -9838,7 +9838,7 @@ I've been having aches in my arms and legs down to what feels like the bone. It 
 
 Also, right after I get out of a bath, deep veins in my legs are very visible. These aren't little varicose veins on the surface or even broken capillaries, but deeper veins that turn bright green while the skin is cherry red. WTH?
 
-### jeanie@truelongmont.com — 2012-03-23T15:35:55+0200
+### [email redacted] — 2012-03-23T15:35:55+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-4942>
 
 I get that really numb lack of ability to use my arms when they get too cold. When I've gone walking outside and it's below freezing I get that. Hard to use my hands for a bit. I wonder if you should keep your arms out. . .perhaps your body isn't quite heating up enough in the extremities yet.
@@ -9849,7 +9849,7 @@ Jack stresses doing this on a full stomach, perhaps see if you can do that more 
 
 Keep going! Good Luck.
 
-### jeanie@truelongmont.com — 2012-03-23T15:42:40+0200
+### [email redacted] — 2012-03-23T15:42:40+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-4945>
 
 > **Jennifer;4701 wrote:** Have you tried
@@ -9875,7 +9875,7 @@ This is an ache in my arms and legs that shows up 6-8 hours after the bath - not
 
 As for meals, I've been eating the 3rd meal around 6-7pm to make sure I allow for 4 hours between last meal and sleep (as underlined in CT7), go to my 2nd job, then am home around 10:45pm for a CT soak. I'm afraid to eat anything before the bath when it's that late at night and I don't have time to take one before going to my 2nd job. I am so frustrated. And THAT's probably increasing cortisol and not helping one damn bit. Ugh.
 
-### jeanie@truelongmont.com — 2012-03-23T16:04:45+0200
+### [email redacted] — 2012-03-23T16:04:45+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-4957>
 
 > **Clabbergirl;4981 wrote:** This is an ache in my arms and legs that shows up 6-8 hours after the bath - not during and not immediately following when my body is trying to warm up. It's not numbness or heaviness - I wake up with what feels like an onset of the flu or something. Like the bones actually ache inside the muscles. I haven't been submerging my arms at all, and I can't do much about my legs since that's the only part of me that I can really cover with water.
@@ -9951,7 +9951,7 @@ I've been experiencing this too. Just 2 of these "zits", one on the back of my h
 
 Ine one of his blog postings, Dr. K mentioned the functionalmedicine.org site as a way to find a functional medicine practitioner. It lists some MDs in Boulder. The only places I've tried are Boulder Longevity Institute (MDs, PAs, NPs) and NatureMed (NDs plus an MD to allow them to write prescriptions).
 
-### zzzcjr@comcast.net — 2012-03-23T20:41:26+0200
+### [email redacted] — 2012-03-23T20:41:26+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-5095>
 
 > **Lyndra;5061 wrote:** Ine one of his blog postings, Dr. K mentioned the functionalmedicine.org site as a way to find a functional medicine practitioner. It lists some MDs in Boulder. The only places I've tried are Boulder Longevity Institute (MDs, PAs, NPs) and NatureMed (NDs plus an MD to allow them to write prescriptions).
@@ -10049,7 +10049,7 @@ Does anyone ever get a numb feeling in their fingers or toes after doing the imm
 
 I've had this happen only twice - but last night for about 40 minutes after the bath, my pinky finger in my right hand went numb - as did my small toe in my right foot. I didn't have any shivering - so I don't think this is from hyperthermia.
 
-### jeanie@truelongmont.com — 2012-03-26T16:05:56+0300
+### [email redacted] — 2012-03-26T16:05:56+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-6316>
 
 > **Glamazon;5743 wrote:** Dr. John Oro in Denver is paleo and a neurosurgeon. I know him slightly from making rounds at his hospital. I just found him on that site. I am going to email him next week and see if he knows any other paleo docs. (He's not in the Kaiser network so I can't use him.) Plus I will share Dr. K's site with him.
@@ -10060,14 +10060,14 @@ I've had this happen only twice - but last night for about 40 minutes after the 
 
 Keep us posted, I would consider driving to Denver I think.
 
-### jeanie@truelongmont.com — 2012-03-26T16:09:14+0300
+### [email redacted] — 2012-03-26T16:09:14+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-6322>
 
 > **vkiernan;5645 wrote:** What is wrong with a Naturopath? I started seeing one in Jan. and she is way better than my prev. MD. She found my Candida, adrenal fatigue, estrogen dominace, low stomach acid, etc. She is an actual doctor by the way unlike a chiropractor who can't prescribe. Maybe give it another shot and call the office and see what might be in store for you. It is only a phone call.
 
 Good Point, I think I should have been clear, I'm all for a naturopath that IS an MD - for me I spend so much on insurance, I want to find someone who can take insurance and is part of "the system" for practical reasons. I know it sounds a little too nutters, but I figure if they don't have enough training to be at least an MD, then I probably know more than they do and at that point can do it myself for less $.
 
-### mycrazycartoons@gmail.com — 2012-03-28T01:10:55+0300
+### [email redacted] — 2012-03-28T01:10:55+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-7408>
 
 Would small bruises on my legs be caused by low K2? I see them now after full CTing and icing on a daily basis. I typically never bruise.
@@ -10079,7 +10079,7 @@ Would small bruises on my legs be caused by low K2? I see them now after full CT
 
 If you are taking fish or krill oil, eating lots of fish, you might need to add K2 to keep from bruising. So it might not be low K2 directly just that you are thinning your blood with all the O3 and need to balance that with extra K2.
 
-### mycrazycartoons@gmail.com — 2012-03-28T01:45:57+0300
+### [email redacted] — 2012-03-28T01:45:57+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-7427>
 
 > **Melinda;7461 wrote:** If you are taking fish or krill oil, eating lots of fish, you might need to add K2 to keep from bruising. So it might not be low K2 directly just that you are thinning your blood with all the O3 and need to balance that with extra K2.
@@ -10095,7 +10095,7 @@ If someone has a lot of these symptoms, they probably have to slow down a bit. I
 
 Ain't if fun playing on the bleeding edge of science?
 
-### trishalinn@gmail.com — 2012-03-28T04:47:01+0300
+### [email redacted] — 2012-03-28T04:47:01+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-7535>
 
 Alrighty, I've got one that I haven't seen mentioned. I apologize if I've missed it. My husband and I, after a couple of weeks of baths, decided to start using our pool. The pool temp has been in the mid 50's, though the outside air-temp has taken a nose dive. Anyhow, both yesterday and today My wrists and forearms got really achey in the water. When I moved my wrists in the water or even for a while after I got out of the water I would get a very strange and unpleasant sensation. The best I can describe is that it was like a current shooting up my forearm. Very weird, not like anything I've felt before. Any ideas?
@@ -10135,7 +10135,7 @@ After nearly four weeks of CT and Leptin Reset my armpits are stinky (unusual fo
 
 I've been having arthritic like aches in my shoulders, arms and hands. The aches seem to come and go. I'll wake up two or three morning with aches and the next day the aches are gone....rinse and repeat. This has been going on for about six weeks.
 
-### nosnhojjennifer@yahoo.com — 2012-03-28T15:07:30+0300
+### [email redacted] — 2012-03-28T15:07:30+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-7675>
 
 > **Trisha;7573 wrote:** Alrighty, I've got one that I haven't seen mentioned. I apologize if I've missed it. My husband and I, after a couple of weeks of baths, decided to start using our pool. The pool temp has been in the mid 50's, though the outside air-temp has taken a nose dive. Anyhow, both yesterday and today My wrists and forearms got really achey in the water. When I moved my wrists in the water or even for a while after I got out of the water I would get a very strange and unpleasant sensation. The best I can describe is that it was like a current shooting up my forearm. Very weird, not like anything I've felt before. Any ideas?
@@ -10186,7 +10186,7 @@ Clabbergirl, There is a question today in the comments section of the last CT ar
 
 Mikey, On a comment today on the last CT blog someone mentions something similar to this. Dr. K said that it could be a sign of the gut healing.
 
-### trishalinn@gmail.com — 2012-03-28T18:54:13+0300
+### [email redacted] — 2012-03-28T18:54:13+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-7769>
 
 > **Jennifer;7715 wrote:** Do you have a history of any kind of trouble with your wrists, arms, shoulders? I had something similar when I tried spot CTing right above my right wrist which I broke when I was a kid and which bothers me. I think it's good
@@ -10233,14 +10233,14 @@ I've been eating so much healthier in the past 3 months and I've gained at least
 
 I have read and reread many of Dr. Kruse's posts, and he is a brilliant man. I respect him and am not knocking him in any way. I'm just frustrated to the point of exhaustion and withdrawal. I'm deeply saddened that what is working for so many in little and big ways is working in the opposite way for me. I don't know what I am going to do because I can't go back to exercising for hours at a time either. I feel I am at the end, and if this doesn't work, afraid I will be fat forever. I thought I had made peace with that until I ran across the Paleo/Primal way of eating and Dr. Kruse, and fell victim to Hope again.
 
-### nicebeanst@yahoo.com — 2012-03-28T20:11:19+0300
+### [email redacted] — 2012-03-28T20:11:19+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-7820>
 
 For the first two weeks, I had shooting almost burning pains from elbows to fingers, not anymore. That was while I was in the water (45-60 min)
 
 Now I am experiencing same odd pain in my breasts, a heavy, hot ache. Not the tenderness that comes with Aunt Flo, it's deep inside and hurts like crazy for about 15 minutes. Then vanishes. it has happened twice this week, 30 min after a soak, Sunday and today.
 
-### nicebeanst@yahoo.com — 2012-03-28T20:20:51+0300
+### [email redacted] — 2012-03-28T20:20:51+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-7828>
 
 Clabbergirl, I'm pretty sure I have put on muscle since I started CT ~3 weeks ago, I didn't want to take measurements too soon, I may do so on Saturday.
@@ -10306,7 +10306,7 @@ Thank you, and I consoled myself with this also, until this morning, that is, wh
 
 I believe, and this is just my opinion, that if you are feeling like sh\*t now and have a poor attitude, what you are doing is not working for you. Change something today. Change something everyday until you start to see an improvement (in mood, energy, weight, whatever). That's what I do. I personally don't believe in waiting 2 weeks if I see no changes (unless maybe I weighed 140lbs.). If I blindly wait 2 weeks, then I get to the 2-week mark, see no improvement and sink into a deeeeeeep depression.
 
-### spinnsugar@hotmail.com — 2012-03-28T20:29:38+0300
+### [email redacted] — 2012-03-28T20:29:38+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-7836>
 
 Hi all I posted this in the Meet and Greet area as well....I wanted to say a hello to everyone, and pick your brain.
@@ -10361,7 +10361,7 @@ Also, I can only relate to those things that I have issues with so here me out o
 
 I wish you many better days. Back off the progesterone until you can have someone help you figure it out. Read about betaine, then about Candida. Start small with these things and save your supps until you know they are benefitting you. Eat real food for now. You did not get this way overnight, just remember that. Please, keep on a CT'ing. The worse thing that will happen is you will lose a little imflamation in your body.
 
-### nosnhojjennifer@yahoo.com — 2012-03-28T21:04:53+0300
+### [email redacted] — 2012-03-28T21:04:53+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-7860>
 
 > **spinnsugar;7878 wrote: Hi all I posted this in the Meet and Greet area as well....I wanted to say a hello to everyone, and pick your brain.
@@ -10477,7 +10477,7 @@ We are on the same page. Pretty darn fascinating if that is what is actually occ
 
 vkiernan, what a GREAT post!!!!!
 
-### spinnsugar@hotmail.com — 2012-03-28T23:25:01+0300
+### [email redacted] — 2012-03-28T23:25:01+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-7943>
 
 > [Jennifer said:](/goto/post?id=7902)
@@ -10694,7 +10694,7 @@ I looked for the books at my library last night too and they don't have them. Gu
 
 Congrats to you! I only do baths but I noticed this this morning. My thighs seem to have bigger muscles or tightened skin or something. They look really different. I was pretty impressed when I noticed and did a double-take.
 
-### spinnsugar@hotmail.com — 2012-03-29T20:33:36+0300
+### [email redacted] — 2012-03-29T20:33:36+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-8388>
 
 > **differentstory;7993 wrote:**
@@ -10732,7 +10732,7 @@ Congrats to you! I only do baths but I noticed this this morning. My thighs seem
 >
 > I know what you mean! I start analyzing every part of my body and asking DH if he notices new hair growth. HA! My grandfather was very hairy - hair coming out of his nose and ears - yuck! (But loved him to death) Now I keep having to check those places.
 
-### spinnsugar@hotmail.com — 2012-03-29T20:55:37+0300
+### [email redacted] — 2012-03-29T20:55:37+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-8401>
 
 > **differentstory;8438 wrote:**
@@ -10774,7 +10774,7 @@ Anybody having blurry vision? I'm wondering if that is a side-effect too?
 
 I am using a makeshift ice vest that covers the midsection/back/waist. I use a scarf to tie the vest on more snugly, kind of acts like a belt to keep the ice in contact. I am getting muscle contractions in my abs/sternum/serratus that go into like a charly horse cramp! Also getting a lot of gut rumbling & churning sounds....like before you have to go I've noticed the red skin bumps too.
 
-### Szara.loring@gmail.com — 2012-03-30T19:46:59+0300
+### [email redacted] — 2012-03-30T19:46:59+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-8855>
 
 > **vkiernan;8249 wrote:** Ladies, thanks so much for your support.
@@ -10799,7 +10799,7 @@ I'm getting pimples on my chest. Wow, how high school for a 47 year old.
 
 I have to wonder about the shortened cycle thing too. Not there yet but sure wondering as this week has not been fun. I'll be glad when it all subsides and normalizes.
 
-### trishalinn@gmail.com — 2012-03-30T21:35:23+0300
+### [email redacted] — 2012-03-30T21:35:23+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-8912>
 
 What about dry skin? Do you think this could be because of the CT? My skin seems to have gotten really dry lately.
@@ -10809,7 +10809,7 @@ What about dry skin? Do you think this could be because of the CT? My skin seems
 
 +1 for dry skin/itchiness. I also get small red bumps (smaller than pimples) too.
 
-### meyoolia@gmail.com — 2012-03-30T22:44:57+0300
+### [email redacted] — 2012-03-30T22:44:57+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-8953>
 
 > **WeAreDevo;8907 wrote:** I just caught up with this thread today. Thanks to all of you for sharing so openly. I have so many of the same issues and reading this lifted a weight off my shoulders.
@@ -10856,7 +10856,7 @@ Meanwhile I'm going to enjoy the paleo way of eating and not worry about the wei
 
 I saw that Jack recommended using Olive Oil on the dry skin that CT causes. (Maybe it needs some O6?)
 
-### trishalinn@gmail.com — 2012-03-31T03:02:49+0300
+### [email redacted] — 2012-03-31T03:02:49+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-9047>
 
 > **BJK77;9091 wrote:** +1 on this for me too. I was actually gonna start a post and ask if anyone else has been experiencing it. My arms and legs are so dry the skin is starting to flake off . . . ewww! I've been using tons of coconut oil, but it doesn't seem to be helping.
@@ -11008,7 +11008,7 @@ As for my local doc?  He is studying up and will soon begin dispensing BHRT. I j
 
 I think I'm ready! I'm 49 and sluggish, but feel great at the same time. I think its gotta be the hormones. My head feels like a separate being.
 
-### trishalinn@gmail.com — 2012-04-03T04:26:32+0300
+### [email redacted] — 2012-04-03T04:26:32+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-10654>
 
 > **Clabbergirl;10370 wrote:** Agreed! I would very much like to get a female perspective on this whole thing.
@@ -11102,7 +11102,7 @@ Didn't know you could get the pills or else I'd've done that instead.
 
 e
 
-### jeepifer@gmail.com — 2012-04-03T20:19:51+0300
+### [email redacted] — 2012-04-03T20:19:51+0300
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-10862>
 
 Could you dunk with epsom salts in the water? Great source of magnesium. I've only done it in bathwater, not a face dunk...
@@ -11174,7 +11174,7 @@ Interesting, thanks for posting. A lot of us out here have had old injuries flar
 ### gokhals — 2014-02-18T05:21:16+0200
 **Source:** <https://forum.jackkruse.com/threads/symptoms-ive-not-seen-on-here-before-post-unusual-ct-symptoms-benefits.335/post-110949>
 
-> [jeanie@truelongmont.com said:](/goto/post?id=3624)
+> [[email redacted] said:](/goto/post?id=3624)
 >
 > Ok, 2 weeks face dunking, 2 CT ice pack sessions.
 >
@@ -11270,7 +11270,7 @@ Richmond Victoria 3121
 
 Phone: 1300 689 984
 
-Email: [info@cryosauna.com.au](mailto:info@cryosauna.com.au)
+Email: [[email redacted]](mailto:[email redacted])
 
 Mon-Fri 10am - 6pm
 
@@ -11356,7 +11356,7 @@ Oh, we've got one in Boulder:
 >
 > Phone: 1300 689 984
 >
-> Email: [info@cryosauna.com.au](mailto:info@cryosauna.com.au)
+> Email: [[email redacted]](mailto:[email redacted])
 >
 > Mon-Fri 10am - 6pm
 >
@@ -11444,7 +11444,7 @@ I am taking it slow, too. We'll get there.
 
 I did this too, it helped me stay in the bath, and got rid of some frank dread I was feeling. Once you are in the bath, you can always add ice if you want. Best not to burn out.
 
-### jeanie@truelongmont.com — 2012-03-21T03:39:26+0200
+### [email redacted] — 2012-03-21T03:39:26+0200
 **Source:** <https://forum.jackkruse.com/threads/turning-up-the-heat-starting-tonight.337/post-3731>
 
 I agree, you've got to have time to adapt at your pace. If it's sheer dread I think you SHOULD step back. On the other hand, perhaps your just detoxing all kinds of cranky, depressed, futile feeling hormones - and you need to back off while you work through them. In a few days you could be through, feeling better, and ready to go cold!
@@ -11578,7 +11578,7 @@ It burns like crazy  even today - even after applying CO and an aloe leaf!
 
 I'll certainly _be more careful from now on_!
 
-### jeanie@truelongmont.com — 2012-03-27T02:20:08+0300
+### [email redacted] — 2012-03-27T02:20:08+0300
 **Source:** <https://forum.jackkruse.com/threads/anyone-else-get-hives-cold-urticaria-with-ct.338/post-6691>
 
 > **Marsha;6674 wrote:** Just a warning so you don't make the same mistake I did!!!
@@ -11612,12 +11612,12 @@ I got a tummy burn too, ice pack was over my shirt and only on for 8 minutes! an
 
 Yep, that's what my hives looked like...maybe the second time it was an ice burn and not hives.
 
-### meyoolia@gmail.com — 2012-03-31T21:12:13+0300
+### [email redacted] — 2012-03-31T21:12:13+0300
 **Source:** <https://forum.jackkruse.com/threads/anyone-else-get-hives-cold-urticaria-with-ct.338/post-9328>
 
 I'm starting to wonder if mine might actually be cold urticaria, but is it possible for it to appear on my head/neck, the only two parts NEVER immersed?
 
-### meyoolia@gmail.com — 2012-04-02T04:35:43+0300
+### [email redacted] — 2012-04-02T04:35:43+0300
 **Source:** <https://forum.jackkruse.com/threads/anyone-else-get-hives-cold-urticaria-with-ct.338/post-10136>
 
 Ok, so it's looking like a weird cold urticaria: "Localized cold reflex urticaria leads to symptoms of hives and swelling away from the area of direct exposure to cold. An ice-cube test on the arm may cause hives to form a few inches away from the site of ice-cube application, for example."
@@ -11822,7 +11822,7 @@ I tried it yesterday and it tasted good! Going to add cocoa and cinnamon to the 
 
 What the heck is bulletproof coffee? The beans themselves or something you mix w coffee?
 
-### jeanie@truelongmont.com — 2012-03-24T17:48:11+0200
+### [email redacted] — 2012-03-24T17:48:11+0200
 **Source:** <https://forum.jackkruse.com/threads/bulletproof-coffee.340/post-5446>
 
 > **donkjellberg;5121 wrote:** I tried it yesterday and it tasted good! Going to add cocoa and cinnamon to the mix today. Everything can be optimized, lol.
@@ -11877,7 +11877,7 @@ Well worth the money. My 10 lbs should last me the rest of the year.
 
 Remember to get the CEYLON cinnamon. That is the one, not the other one (can't think of the name right now). But _do_ remember ceylon cinnamon.
 
-### finnite@dccnet.com — 2012-03-24T21:25:59+0200
+### [email redacted] — 2012-03-24T21:25:59+0200
 **Source:** <https://forum.jackkruse.com/threads/bulletproof-coffee.340/post-5525>
 
 > **Lexi;5519 wrote:** anyone try this without egg?
@@ -12094,7 +12094,7 @@ Diet Coke (when I used to drink it) would do a number on me, too.
 
 re: cocoa - I'm currently using Ghiradelli unsweetened cocoa, which I believe is NOT alkalized. It was the best stuff I could find at the time. I'm getting low, and I'm thinking about ordering some [cocoa from Penzeys](http://http://www.penzeys.com/cgi-bin/penzeys/p-penzeyscocoapowder.html) next time, as I've heard good things about it. They have awesome cinnamon too, for anyone looking to add high-quality cinnamon to their coffee or cocoa crack.
 
-### zoebarry@yahoo.com — 2012-04-05T22:07:29+0300
+### [email redacted] — 2012-04-05T22:07:29+0300
 **Source:** <https://forum.jackkruse.com/threads/bulletproof-coffee.340/post-11855>
 
 Wow! I made this for the first time this morning and I expected it to be nasty, but it was pretty good! I thought I could NEVER drink any coffee without my beloved whipping cream. I let my 12 and 14 year old kids try it, and they both asked me to make it for them tomorrow!!! hahaha! You know it has to be good if they like it!
@@ -12127,7 +12127,7 @@ Hello Again, Dr. Kruse recommends adding coconut oil to your coffee. Here's how 
 
 Wow, neat...we get commercials now.
 
-### jeanie@truelongmont.com — 2012-04-06T19:50:12+0300
+### [email redacted] — 2012-04-06T19:50:12+0300
 **Source:** <https://forum.jackkruse.com/threads/bulletproof-coffee.340/post-12200>
 
 I guess I was feeling "shoppy" yesterday. Thank god I have more energy to work more - this rabbit hole is getting deep. I ordered the BP coffee, MCT-Oil, AND fermented cod oil/butter oil.
@@ -12145,7 +12145,7 @@ I've been puting Nutive CO in my coffee and green tea since last Summer and just
 
 Question, does it have to be blended? Does this change the texture or flavor some how or just better than mixing with a spoon?
 
-### finnite@dccnet.com — 2012-04-06T21:22:47+0300
+### [email redacted] — 2012-04-06T21:22:47+0300
 **Source:** <https://forum.jackkruse.com/threads/bulletproof-coffee.340/post-12226>
 
 no, you can just mix it in and it would be the same as you are doing right now just with a butter slick as well. Blending it though gives a real latte feel to it
@@ -12228,7 +12228,7 @@ Welcome to the forum!
 **Subforum:** HCG Protocol
 **Posts:** 8
 ══════════════════════════════════════════════════════════════════════
-### jeepifer@gmail.com — 2012-03-21T17:45:37+0200
+### [email redacted] — 2012-03-21T17:45:37+0200
 **Source:** <https://forum.jackkruse.com/threads/p2-paleo-style.342/post-3911>
 
 Hi all, I'll be starting HCG soonish, probably next month giving shipping times, etc. So I'd love suggestions for a paleo-style P2. I've already decided to nix the "toast" and fruit, and make up the calories with more protein. Any menu recommendations or other ideas are more than welcome!
@@ -12244,7 +12244,7 @@ Thanks!
 
 There are several on the big forum doing that, jeepifer. I'd try to load as much of the protein for breakfast as you can so you can go through until dinner. Eager to hear how you do!
 
-### jeepifer@gmail.com — 2012-03-21T19:17:32+0200
+### [email redacted] — 2012-03-21T19:17:32+0200
 **Source:** <https://forum.jackkruse.com/threads/p2-paleo-style.342/post-3947>
 
 Thanks, I found a P3 group but no one seems to be in P2. Although I'm sure I'll end up coinciding with some people eventually.
@@ -12256,7 +12256,7 @@ Oh, does the tomato count as a fruit? I know in P&I, it's listed as a veggie. I 
 
 It counts as a veggie.  Check this link, Jeepifer. There are several threads relating to it: [http://hcgdietinfo.com/hcgdietforums/f42/](http://http://hcgdietinfo.com/hcgdietforums/f42/)
 
-### thomasina838@gmail.com — 2012-03-30T17:04:36+0300
+### [email redacted] — 2012-03-30T17:04:36+0300
 **Source:** <https://forum.jackkruse.com/threads/p2-paleo-style.342/post-8775>
 
 > **jeepifer;3936 wrote:** Hi all, I'll be starting HCG soonish, probably next month giving shipping times, etc. So I'd love suggestions for a paleo-style P2. I've already decided to nix the "toast" and fruit, and make up the calories with more protein. Any menu recommendations or other ideas are more than welcome!
@@ -12319,7 +12319,7 @@ I was stable for weeks (early December through end of January), Then it just sta
 
 I wouldn't call that rapid, but it's not far off what Mark Sisson calls "effortless". I do stay below 25g carbs (often WELL below that), but don't avoid dairy (make my own whole milk kefir, eat hard cheeses). I also ate a helluva lot larger BAB the first several weeks, and took awhile to actually get the fat intake up, I suspect I was getting too much protein early on and not enough fat.
 
-### kc_boxerman@yahoo.com — 2012-03-21T21:07:30+0200
+### [email redacted] — 2012-03-21T21:07:30+0200
 **Source:** <https://forum.jackkruse.com/threads/weight-loss-on-leptin-reset-for-men.343/post-4004>
 
 I'm at about the same # of weeks as you. I have been fairly strict with the exception of dairy. Big change was cutting all rice and white potato. Also the high protein breakfast. I have snacked nearly zero but did not do a lot of that before. Protein may be a little low as my usual breakfast is 4 quality eggs and 3-4 good sized pieces of thick bacon.
@@ -12561,7 +12561,7 @@ Good news! Ice packs on my skin don't really bother me too much, but cold shower
 
 I started losing weight immediately. I had been low carb paleoish for awhile but I hadn't had any luck losing weight, just not gaining as fast as SAD. Started the reset and it started coming off. Quite honestly the easiest weight I have ever loss. I never have gotten what I would call ridiculous losses though. 6-10 pounds a month consistently.
 
-### mmuskopf@gmail.com — 2012-03-27T00:53:17+0300
+### [email redacted] — 2012-03-27T00:53:17+0300
 **Source:** <https://forum.jackkruse.com/threads/weight-loss-on-leptin-reset-for-men.343/post-6642>
 
 > **Cody;6637 wrote:** Good news! Ice packs on my skin don't really bother me too much, but cold showers do, depending on the day. I'm looking forward to getting to where you guys are!
@@ -12951,7 +12951,7 @@ I might go for the direct labs special (Thanks for the link, Garfield!). That wo
 **Subforum:** Cold Thermogenesis
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### trishalinn@gmail.com — 2012-03-21T20:58:12+0200
+### [email redacted] — 2012-03-21T20:58:12+0200
 **Source:** <https://forum.jackkruse.com/threads/competition-need-measurable-goals.347/post-3997>
 
 Here's the deal. My husband joined me in LRx and CT a few weeks ago. The bum only has about 20ish pounds to lose and he's already lost at least 5 of those (he hasn't weighed in about a week). Me, I've lost 0. No surprise.
@@ -13007,7 +13007,7 @@ There are a few more details, but that is the gist of it. The categories are med
 
 Measurable goals...weight loss, change in body fat composition, changes in blood levels (I haven't done my labs yet so I don't know what the specifics here are) but maybe things like changes in cholesterol, 03s to 06s, change in overall lifting ability maybe? You get stronger the more you CT...
 
-### trishalinn@gmail.com — 2012-03-22T19:19:50+0200
+### [email redacted] — 2012-03-22T19:19:50+0200
 **Source:** <https://forum.jackkruse.com/threads/competition-need-measurable-goals.347/post-4527>
 
 Inches lost and weight loss would be easy measurable goals, but my husband doesn't have much to lose. Actually he'd like to lose a bit in some areas and gain some inches in other areas. Some of the labs might be good, but I'm not sure if he could get his group to do that as it would cost money. Maybe lifting ability would work. hmmmm...
@@ -13035,14 +13035,14 @@ Also been reading about poor T4 -> T3 conversion leading to low metabolism on ke
 
 I need someone more knowledgeable than me to look at this and help alleviate my fears... I'm 2 weeks into CT and 3 days into
 
-### jeanie@truelongmont.com — 2012-03-21T21:37:52+0200
+### [email redacted] — 2012-03-21T21:37:52+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-4014>
 
 Long story short with CT, keto is needed for the "ancient pathway" to work. SO if you are not ketogenic, the pathway has a roadblock.
 
 This is a therapy to reverse things wrong. Once "fixed" you can then choose to live by natural cycles such as more carbs in summer, more keto in winter.
 
-### kc_boxerman@yahoo.com — 2012-03-21T21:49:01+0200
+### [email redacted] — 2012-03-21T21:49:01+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-4016>
 
 > **Cavemam;4040 wrote:** This is a therapy to reverse things wrong. Once "fixed" you can then choose to live by natural cycles such as more carbs in summer, more keto in winter.
@@ -13075,12 +13075,12 @@ MamaGrok, it's reassuring that your cholesterol is doing good. I'm going to keep
 
 He covered this today pretty well in CT7
 
-### nosnhojjennifer@yahoo.com — 2012-03-22T15:20:54+0200
+### [email redacted] — 2012-03-22T15:20:54+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-4346>
 
 How long does it take for keto to kick in? I've been eating under 50g and usually under 25g for 20 days and the ketosticks are not showing any sign of ketosis?? What percentage of fat is everyone eating? I am consistently in 60-70% range.
 
-### finnite@dccnet.com — 2012-03-22T15:33:52+0200
+### [email redacted] — 2012-03-22T15:33:52+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-4356>
 
 > **Jennifer;4374 wrote:** How long does it take for keto to kick in? I've been eating under 50g and usually under 25g for 20 days and the ketosticks are not showing any sign of ketosis?? What percentage of fat is everyone eating? I am consistently in 60-70% range.
@@ -13102,7 +13102,7 @@ I have to stay below 15-20 to get some pink on the stick. But it's unlikely you'
 
 Can someone advise me on a good ketone test product?
 
-### nosnhojjennifer@yahoo.com — 2012-03-22T16:53:39+0200
+### [email redacted] — 2012-03-22T16:53:39+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-4427>
 
 Thanks MamaGrok and Primat. Hadn't considered that. Just looking to shred this belly blubber but I'm only 5 pounds from my goal. I'll just keep going!
@@ -13135,7 +13135,7 @@ Remember, weight is a symptom of underlying problems - your weight will likely n
 
 sorry about odd typos; my arms are still shaking from my cold bath!
 
-### nosnhojjennifer@yahoo.com — 2012-03-22T23:53:21+0200
+### [email redacted] — 2012-03-22T23:53:21+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-4668>
 
 Snowyky...have you read the Oprah blog? I re-read it today along with comments and it helped. Sorry, I don't know anything about labs but I am wondering why you are exercising. If you are still Leptin Resistant, exercise will not help, and may only make things worse. If you want, list out the foods you are eating...could be a food sensitivity or something.
@@ -13213,12 +13213,12 @@ Been trying to eat more seafood, if we have fish I usually raise the size to 6oz
 
 thanks for you help ~Eleanor
 
-### trishalinn@gmail.com — 2012-03-23T00:55:07+0200
+### [email redacted] — 2012-03-23T00:55:07+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-4697>
 
 I also thought I'd mention that it's possible to get ketostix that are duds! I got a whole big package on them that were duds, I guess that's why they were so cheap. I've been showing the darkest level of ketones on my current ketostix for several weeks now but haven't lost even a pound! ARGH.
 
-### jeanie@truelongmont.com — 2012-03-23T01:07:32+0200
+### [email redacted] — 2012-03-23T01:07:32+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-4710>
 
 > **Snowyky;4718 wrote:**
@@ -13254,7 +13254,7 @@ Keep us posted!
 
 I don't know for sure what my percentage of fat is, but I do know that so far, anything over 30g carbs a day brings me out of ketosis.
 
-### nosnhojjennifer@yahoo.com — 2012-03-23T01:10:09+0200
+### [email redacted] — 2012-03-23T01:10:09+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-4713>
 
 > **Snowyky;4718 wrote:**
@@ -13451,7 +13451,7 @@ Lauren, how do you prepare the bruschwhatever. I have two different packagess in
 
 MamaGrok, I just slice and pan fry (usually in CO). It's very mild (at least to me) and doesn't taste at all of liver in any other form that I've tried it. Sometimes, if I'm having it in the morning, I'll pan fry and cut those slices into bite-sized bits and add eggs.
 
-### nosnhojjennifer@yahoo.com — 2012-03-23T13:05:55+0200
+### [email redacted] — 2012-03-23T13:05:55+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-4898>
 
 Eleanor, It sounds like you are really putting effort and love to healing yourself! Keep it up and it will pay off!
@@ -13468,7 +13468,7 @@ Eleanor, keep it up and you'll reap great rewards !! You're on the right path.
 
 Fried Braunschweiger, eggs, and sauerkraut is a traditional German breakfast and very good for you. Especially fried in butter or coconut oil. Good stuff!
 
-### jeanie@truelongmont.com — 2012-03-24T17:31:21+0200
+### [email redacted] — 2012-03-24T17:31:21+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-5436>
 
 I have to second the idea of spending the $ on food before supps. Read some of the paleo books/info on bad oils. It makes you realize how bad the oils are that are not "clean".
@@ -13500,7 +13500,7 @@ Athletes who take the time to get fully fat adapted perform better and longer th
 
 There are essential fats and essential proteins, but no essential sugars. Wanna guess why???
 
-### edance83@yahoo.com — 2012-03-25T01:51:27+0200
+### [email redacted] — 2012-03-25T01:51:27+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-5615>
 
 > **Snowyky;4718 wrote:** Thanks for your input MamaGrok,
@@ -13717,7 +13717,7 @@ Months ago, Dr K responded to my question about the 'hierarchy' of meat/protein 
 
 Wild Fish > shellfish > offal > pastured eggs > wild game meats like Deer/elk Bison > grass fed skeletal muscle meat >Ostrich > pastured pork > cured grass fed meats > protein from fowlâ€™s
 
-### gr8tfl1@yahoo.com — 2012-03-26T13:13:33+0300
+### [email redacted] — 2012-03-26T13:13:33+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-6283>
 
 > **Snowyky;4675 wrote:** Not sure where to stick this but barely above trace on a ketostix has me wondering what the heck. I'm feeling pretty down about all this, why can't I lose weight? I'm over 300 lbs, I did lose when I first started but nothing since. 2 1/2 months on the leptin reset and over a month doing CT with ice packs, face dunks and cold baths and am now having ice baths for 60mins with the temp being 50\* - 55\* everyday now for 2 weeks. I take all the supplements Dr K mentions, I've been using the yellow glasses at night and am usually in bed by 9:30 with lights out by 10, I still wake up quite a bit at night and am getting hungrier by the day  I did better it seemed when I first started, I thought it was because I was going so very very low carb with no veggies, just fat and meat, so I added back a salad for lunch, add mushrooms to my BAB omelet.
@@ -14062,7 +14062,7 @@ I've struggled with my diet soda demon for a long, long time. I'm fine when I'm 
 
 I'll start by switching to Zevia, and limit myself to just a can every other day.
 
-### omlh@todmi.com — 2012-03-27T12:16:35+0300
+### [email redacted] — 2012-03-27T12:16:35+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-6898>
 
 > **MamaGrok;6828 wrote:** I can't tell you how many times I've seen the eye-opening moment when a person lists his (or his child's) favorite meals and I point out, gently, that they are all sweetened or breaded - store yogurt, ketchup, General Tso's chicken, Chick-Fil-A, frappes, smoothies, the list goes on and on and on...
@@ -14082,7 +14082,7 @@ For me, I have to completely avoid sweetened foods otherwise I trigger major car
 
 I get trapped in this mindset too, every now and then. Repeat after me: "My body is not a wastebin" - you don't HAVE to finish the batch... (Though you might choose too )
 
-### nosnhojjennifer@yahoo.com — 2012-03-27T15:50:16+0300
+### [email redacted] — 2012-03-27T15:50:16+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-6955>
 
 > **KiwiLauren;6272 wrote: Months ago, Dr K responded to my question about the 'hierarchy' of meat/protein he recommends. Here is what he said, in case it's helpful to others. (You can see fowl is last - 'fowl is foul' was another quote he had in the blog comments! - and that the meat should be pastured.
@@ -14109,7 +14109,7 @@ The "omg give me food or I'll kill you for food" thing is the whole reason I sta
 
 Cinnamon can really help with blood sugar issues. Give it a try. Use Ceylon cinnamon, though. Ginger seems to help there as well, as well as improving digestion and lowering inflammation. Also, increasing intake of fish, or O3s can really help with blood sugar issues as well.
 
-### nosnhojjennifer@yahoo.com — 2012-03-27T15:55:22+0300
+### [email redacted] — 2012-03-27T15:55:22+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-6963>
 
 I also wanted to mention that the issue with sweeteners is what it does to your blood sugar-IMO. I read Dr K say that he is even off Stevia now because even though it is all natural, etc, if your body says "yum, sweet" it still can react with too much insulin. I can tell if something sets my insulin off because it makes me feel like I could go into a feeding frenzy - one taste is never enough! I recently found some 99% chocolate and it does not trigger this response in me. I haven't mixed it with anything yet. You do have to watch the carbs with it though. I guess the key is to know your own body and if you can handle it or not.
@@ -14121,7 +14121,7 @@ I also wanted to mention that the issue with sweeteners is what it does to your 
 
 Definitely. Diet soda can trigger huge hunger surges in me, and Dr. K also mentioned recently that the taste of something sweet can stop some process from happening, have to look it up again, can't remember the specifics...
 
-### nosnhojjennifer@yahoo.com — 2012-03-27T16:09:33+0300
+### [email redacted] — 2012-03-27T16:09:33+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-6974>
 
 > **Cody;6998 wrote:** Cinnamon can really help with blood sugar issues. Give it a try. Use Ceylon cinnamon, though. Ginger seems to help there as well, as well as improving digestion and lowering inflammation. Also, increasing intake of fish, or O3s can really help with blood sugar issues as well.
@@ -14146,7 +14146,7 @@ My first two weeks on the LR were horrendous - all kinds of weird emotional & ph
 
 lol yep I hear ya, I am savouring the last piece, only had 2 T left, had the last this morning after breakfast.
 
-### nosnhojjennifer@yahoo.com — 2012-03-27T17:28:10+0300
+### [email redacted] — 2012-03-27T17:28:10+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-7024>
 
 > **MamaGrok;7045 wrote:** Have you tested to see if your blood sugar is actually low during these times? I ask b/c I thought mine was, and it wasn't. Sometimes it was, but not as often as I though, and rarely enough that it became clear that all the things I was blaming on low b.s. were not actually that.
@@ -14191,7 +14191,7 @@ I remember Dr. K saying that too about Reynauds (which I have). I just got back 
 
 Definitely. Diet soda can trigger huge hunger surges in me, and Dr. K also mentioned recently that the taste of something sweet can stop some process from happening, have to look it up again, can't remember the specifics...
 
-### nosnhojjennifer@yahoo.com — 2012-03-27T18:59:22+0300
+### [email redacted] — 2012-03-27T18:59:22+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-7114>
 
 > **lisaeh3;7068 wrote: What about supplementing with progesterone. I take Progest. I have had a total hysterectomy and can't live without it. Prior to my surgery I was a total mess and found that it would calm me down and allow me to least be civil to others. Hormones suck! They get worse after you have kids. Good luck to you!
@@ -14226,7 +14226,7 @@ You have got to purge the excess omega 6 that is crammed into every cell of your
 
 Yeah, it's crazy, but this can be a totally normal part of this process. Yes, I'd just go wtih the hunger urges, but if you find yourself getting cravings, DO NOT SKIP lunch or any other meal. Even if you're not hungry. Have a cup of broth with a tablespoon of coconut oil, or something.
 
-### nosnhojjennifer@yahoo.com — 2012-03-27T19:19:50+0300
+### [email redacted] — 2012-03-27T19:19:50+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-7145>
 
 > **shilohman;7158 wrote: You have got to purge the excess omega 6 that is crammed into every cell of your body. So keep on keeping on with the CT and over time you will start to see the difference. I don't have Raynaud's, but I do have years of excess omega 6 in my body and the improvements are gradual, but sure. Keep-on-Trucking.
@@ -14428,7 +14428,7 @@ Thats what I was looking for. If CT does have this effect then i have no more pr
 
 Thanks...
 
-### nosnhojjennifer@yahoo.com — 2012-03-28T15:12:54+0300
+### [email redacted] — 2012-03-28T15:12:54+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-7678>
 
 > **BJK77;7448 wrote:** Interesting . . . I didn't know Raynaud's was linked to a high O6:O3 ratio. I've been eating TONS of shellfish and wild fish lately so I would hope my ratio would be improving, but after my bath last night my fingers went numb for the first time doing CT and my toes stayed numb for 2 hours afterwards! I don't even put them in the water!
@@ -14443,7 +14443,7 @@ Do you wear gloves or socks when doing CT? I keep my feet out and wrap them in a
 
 I LOLed when reading about your work situation...we have the opposite here. It's so freakin cold in our office you think I'd be further along with cold adaption!
 
-### nosnhojjennifer@yahoo.com — 2012-03-28T15:43:21+0300
+### [email redacted] — 2012-03-28T15:43:21+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-7686>
 
 > **Destiny;7492 wrote:** Jennifer, you can buy PROGEST on Amazon 4 oz. around $20.00. No prescription needed. It lasts me a few months.
@@ -14515,7 +14515,7 @@ I read in the Natural hormone balance by Dr. Uzzi Reiss if you start using estro
 
 My doctor just took my blood tests yesterday so I will see my new results in a few days.
 
-### nosnhojjennifer@yahoo.com — 2012-04-11T00:48:50+0300
+### [email redacted] — 2012-04-11T00:48:50+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-13506>
 
 > **Destiny;12097 wrote:** Jennifer,
@@ -14532,7 +14532,7 @@ Keep me posted on your labs!
 
 THANKS
 
-### nosnhojjennifer@yahoo.com — 2012-04-11T00:49:35+0300
+### [email redacted] — 2012-04-11T00:49:35+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-keto-concerns.348/post-13507>
 
 > **Snowyky;11812 wrote:** Thought I'd drop in and let y'all know that things are moving south  I looked back at what I was eating and took your suggestions and they have helped alot. I was eating way to much processed food, I dropped the bacon rinds, when I was eating carbs my favorite snack was barbeque chips, guess the rinds were a leftover of those days, so I got rid of them. I also quit drinking lemon with splenda in my water, plain ice water now. I stopped taking most of the supplements I was taking (because of the possible leaky gut and it was all going down the drain anywho), although I'm thinking of adding them back because the CT is not as pleasant as it was before, I kept the bitter melon which is what Dr K suggested to help with the CT. I did add Betaine HCL for the low acid problem with my stomach and it seems to be helping, the diarrhea has slowed down and I don't notice as much un-digested food passing through that I used. Been eating as clean as I can and trying not to stress about it all, I've relaxed when it comes to 'am I doing this all perfectly' which I think was my biggest problem.
@@ -14867,7 +14867,7 @@ Someone on a thyroid forum posted a link to Dr. K as a resource. I clicked, I re
 
 Maile on the hcg forum told me about him and his work on leptin. That led me to Paleohacks and MDA, and I started the leptin reset last July.
 
-### judithzthompson@hotmail.com — 2012-03-22T23:20:00+0200
+### [email redacted] — 2012-03-22T23:20:00+0200
 **Source:** <https://forum.jackkruse.com/threads/so-how-did-you-hear-about-dr-kruse.352/post-4652>
 
 Some time during 2010 - I was low-carbing (still am), found Jimmy Moore via Atkins, saw Jack post comments on Jimmy's facebook - he took no prisoners, his attitude and honesty impressed the heck out of me. I said then that this guy was about to turn the world on its head. I garner my knowledge in numerous ways - I read his blogs (understanding very little initially as I'm no scientist by a long shot, but I do have common sense), then reading the comments/answers explain alot - I may leave it there even I don't quite get it - the follow up blogs usually pull it all together for me and I get the "ah hah" moment.
@@ -14877,7 +14877,7 @@ Some time during 2010 - I was low-carbing (still am), found Jimmy Moore via Atki
 
 Someone started a thread on LowCarbFriends about Dr Kruse, the Leptin Rx, and the MDA thread. Cravings had killed my weight loss every time I tried for almost 10 years, so I was ready to try just about anything to beat them. For me, my cravings were gone after the 1st BAB.
 
-### interludium.env@gmail.com — 2012-03-23T05:11:10+0200
+### [email redacted] — 2012-03-23T05:11:10+0200
 **Source:** <https://forum.jackkruse.com/threads/so-how-did-you-hear-about-dr-kruse.352/post-4838>
 
 I discovered Jimmy Moore in 2009 and it was after that when I heard Dr Kruse on Jimmys program. I was pretty thrilled when Jimmy asked a question of Dr Jack when he recently appeared on Jimmy's show "Ask the Low Carb Experts".
@@ -14892,7 +14892,7 @@ A friend recommended a site about 'fixing your metabolism.' That woman mentioned
 
 Trawling Jimmy Moore's podcast archive. Kruse rocks!
 
-### dkenward@yahoo.com — 2012-03-23T12:11:02+0200
+### [email redacted] — 2012-03-23T12:11:02+0200
 **Source:** <https://forum.jackkruse.com/threads/so-how-did-you-hear-about-dr-kruse.352/post-4891>
 
 I had become obsessed with the blog Hyperlipid. There they do a lot of debunking the endless stream of studies that seek to validate the Lipid Hypothesis. I had almost zero biology in school because it did not interest me at the time. But I found it fascinating that something so ingrained in our culture as true was by any objective measure as imaginary as Santa Claus!
@@ -14968,7 +14968,7 @@ And I am just so thankful that I found Dr. Kruse last fall, because it would be 
 
 I had already been following Dr. Rosedale, so I perked up when I heard "leptin". In the early days, we had to slog through every post (sometimes 3-4 times), as that was before the summaries. There was already lots of controversy on paleohacks, but eventually things established themselves on MDA. People over at PH didn't believe he was a real doc and made him change his name. For awhile, the whole MDA forum was abuzz with it, but then it settled down to the main monster thread. I was sold after reading the rT3 post, hormones 101 I think. By the time AHS11 came around, there were already tons of people doing the LReset successfully, and he ruffled more than a few feathers there. By then, lots of people were fully engulfed in paleo2.0.
 
-### kevinrutherford@msn.com — 2012-03-24T21:39:03+0200
+### [email redacted] — 2012-03-24T21:39:03+0200
 **Source:** <https://forum.jackkruse.com/threads/so-how-did-you-hear-about-dr-kruse.352/post-5535>
 
 I first stumbled across Dr k on the MDA form I use to post there a lot but stopped visiting regularly I still eat pb but one day I was board and stumbled across the monster thread
@@ -15096,7 +15096,7 @@ I saw Leptin mentioned on a Fibromyalgia forum a while back and a couple of thos
 
 Anyway, googling Leptin Reset in the past couple of weeks brought me here quicksmart and I kinda fell in love with some of Dr Kruses other ideas too. So I signed up and I'm 4 days in to LR with CT just getting onboard.
 
-### skline@peak.org — 2012-04-04T06:59:07+0300
+### [email redacted] — 2012-04-04T06:59:07+0300
 **Source:** <https://forum.jackkruse.com/threads/so-how-did-you-hear-about-dr-kruse.352/post-11163>
 
 Monster thread, like so many others. I resisted opening it for awhile, which just meant that I had a long reading task once I did.
@@ -15212,7 +15212,7 @@ I'm up to 22 minutes of cold immersion baths. Already seeing some changes in my 
 
 My order of Bitter Melon just came in - at this point should I even bother? I hate to mess with success but I don't want to pass up a good thing either.
 
-### jeanie@truelongmont.com — 2012-03-22T16:17:36+0200
+### [email redacted] — 2012-03-22T16:17:36+0200
 **Source:** <https://forum.jackkruse.com/threads/bitter-melon-question.356/post-4390>
 
 I haven't read about any negative side effects. Doc did use it. He advised to take 2 hrs prior to CT. Since you bought it, might see if you notice any difference between use and non use and report back to us!
@@ -15227,7 +15227,7 @@ I noticed that the products on iHerb states it should not be used by men (or pre
 
 Don't people eat bitter melon in other parts of the world? Why would it be contraindicated for men?
 
-### finnite@dccnet.com — 2012-03-22T18:24:12+0200
+### [email redacted] — 2012-03-22T18:24:12+0200
 **Source:** <https://forum.jackkruse.com/threads/bitter-melon-question.356/post-4486>
 
 > **villjamur\_stevenson;4478 wrote:** Don't people eat bitter melon in other parts of the world? Why would it be contraindicated for men?
@@ -15248,7 +15248,7 @@ No Conundrum. Just use your brain to think about it. LOL
 
 Doc says its ok, research and a billion Chinese can't be wrong???
 
-### finnite@dccnet.com — 2012-03-22T20:10:57+0200
+### [email redacted] — 2012-03-22T20:10:57+0200
 **Source:** <https://forum.jackkruse.com/threads/bitter-melon-question.356/post-4572>
 
 > **Cody;4591 wrote:** No Conundrum. Just use your brain to think about it. LOL
@@ -15268,7 +15268,7 @@ Bitter Melon is eaten in many Asian countries, probably in far larger quantities
 
 Seriously. Google. Think. Maybe do some (more) CT?
 
-### finnite@dccnet.com — 2012-03-22T20:22:22+0200
+### [email redacted] — 2012-03-22T20:22:22+0200
 **Source:** <https://forum.jackkruse.com/threads/bitter-melon-question.356/post-4580>
 
 > **Cody;4603 wrote:** Bitter Melon is eaten in many Asian countries, probably in far larger quantities than the supplements Dr. Kruse is talking about.
@@ -15314,7 +15314,7 @@ Hongcouver is one if the city's nicknames, due to the large influx of residents 
 
 Did Dr. K ever post how much Bitter Melon to take?
 
-### omlh@todmi.com — 2012-04-04T17:03:43+0300
+### [email redacted] — 2012-04-04T17:03:43+0300
 **Source:** <https://forum.jackkruse.com/threads/bitter-melon-question.356/post-11266>
 
 I've just ordered some - it doesn't appear to be that easy to get hold of here in the UK - and will try it once it arrives ... I hope that it does help with setting one's "pilot light", and I could do with some help at the moment
@@ -15328,7 +15328,7 @@ When I was looking for some green tea I saw that the store also sold a bitter me
 
 Thanks!
 
-### finnite@dccnet.com — 2012-04-04T17:36:20+0300
+### [email redacted] — 2012-04-04T17:36:20+0300
 **Source:** <https://forum.jackkruse.com/threads/bitter-melon-question.356/post-11282>
 
 > **Jim;11349 wrote:** Any thoughts on using the pill form vs the real thing? I have been using pills however I was in an international market over the weekend and saw some for sale. They looked like shriveled up cucumbers. I'm not sure how to eat/cook them either. I would be interested in any recipes that people have tried and like.
@@ -15352,7 +15352,7 @@ it\`s traditionally served as soup \`tong\`in Cantonese (tong would loosely be t
 
 Thanks ColleenM! Have you tried either recipe?
 
-### finnite@dccnet.com — 2012-04-04T17:48:23+0300
+### [email redacted] — 2012-04-04T17:48:23+0300
 **Source:** <https://forum.jackkruse.com/threads/bitter-melon-question.356/post-11296>
 
 no, I\`ve had it many times in restaurants though and it is good. the second recipe is the more traditional
@@ -15677,7 +15677,7 @@ I steep it cold and drink it with ice while I am CTing in the bath, hoping for a
 
 Great I will look for this! Thanks!
 
-### meyoolia@gmail.com — 2012-03-25T21:27:45+0300
+### [email redacted] — 2012-03-25T21:27:45+0300
 **Source:** <https://forum.jackkruse.com/threads/green-tea.358/post-5948>
 
 > **Patty Cakes;5139 wrote:** Bulletproof tea is a must. I whip it together with my stick blender and 10 sec later there is this nice hot drink. I've yet to try it cold but I hear its wonderful too! Next on my list.
@@ -15780,7 +15780,7 @@ so its gotta be something i am doing on the Leptin Rx + CT combo.
 
 If those were your choices, which would you do to get the biggest bang? So far I'm only managing about 20-22 minutes in the tub at 55 degrees water temp. I just can't stand more and most evenings I don't have the time to do more either, which is going to be the case tonight. I figure I should be able to get an hour of spot CT'ing in though since I can do it while making dinner, doing the dishes, etc.
 
-### omlh@todmi.com — 2012-03-22T17:39:32+0200
+### [email redacted] — 2012-03-22T17:39:32+0200
 **Source:** <https://forum.jackkruse.com/threads/20-min-bath-or-hour-long-spot-ct.360/post-4443>
 
 I do both - bath mid-afternoon, then walk the dogs to warm up, and spot CT during the evening. That way I don't feel guilty if, for any reason, I miss a bath. I also make sure that my shower is cold in the morning as well.
@@ -15841,7 +15841,7 @@ My vote is on immersion. I have been acclimating with my pool at 62 degrees. I h
 
 I use cold showers too but also need hot showers in order to get clean since cold is not as effective in that arena. Have to open up those pores.
 
-### nosnhojjennifer@yahoo.com — 2012-03-23T14:19:47+0200
+### [email redacted] — 2012-03-23T14:19:47+0200
 **Source:** <https://forum.jackkruse.com/threads/20-min-bath-or-hour-long-spot-ct.360/post-4915>
 
 I agree...I think I remember Dr K say you will cold adapt much faster in water. I do spot CT in the morning with ice packs and cold bath at night. But I have been wondering which would be more optimal - the 40 mins I do in 55 degree water or 20 mins in 50 degrees? It is all I can do to convince myself to get in the 55 degree water and I freeze my already flat tushy off
@@ -15956,7 +15956,7 @@ Note to self: get the freakin' lights turned off before 9pm.
 
 Note to my teenagers: get the hell to bed and if I catch you texting after 10pm you are doing an extra hour of CT.
 
-### jeanie@truelongmont.com — 2012-03-23T01:19:53+0200
+### [email redacted] — 2012-03-23T01:19:53+0200
 **Source:** <https://forum.jackkruse.com/threads/circadian-anything.363/post-4719>
 
 You know, I keep reading about sleep cycles being different by developmental age. . .for instance babies sleep differently than teens and adults etc.
@@ -15970,7 +15970,7 @@ Jack, does your youngest keep the same sleep schedule as the grownups?
 
 my daughter is in bed by 8:30 my son I have no idea.....he is in college. I probably dont want to know what he does but he looks amazing so it cant be all bad. My wife is still the worse offender.
 
-### trishalinn@gmail.com — 2012-03-23T03:58:27+0200
+### [email redacted] — 2012-03-23T03:58:27+0200
 **Source:** <https://forum.jackkruse.com/threads/circadian-anything.363/post-4795>
 
 ahhhhh... if only I could get my two 9 month olds on a decent sleep schedule. They don't seem to understand circadian rhythms yet though.
@@ -16214,7 +16214,7 @@ Pituitary hormone circadian rhythm alterations in cirrhosis patients with subcli
 >
 >
 >
-> Nephrology Department, General Hospital of Rhodes, Agioi Apostoloi, Rhodes, Greece. [gaperis@yahoo.com](mailto:gaperis@yahoo.com)
+> Nephrology Department, General Hospital of Rhodes, Agioi Apostoloi, Rhodes, Greece. [[email redacted]](mailto:[email redacted])
 >
 > Abstract
 >
@@ -16385,7 +16385,7 @@ Here's an example of DH's sleep cycle...these are not recent, by the way.
 
 DH was up super early this morning and made me a monster shake and coffee.
 
-### kathiebu@hotmail.com — 2012-03-25T15:55:05+0300
+### [email redacted] — 2012-03-25T15:55:05+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-5754>
 
 That dinner looks delicious!!  Makes me want to have some!
@@ -16656,7 +16656,7 @@ I also supplement with virgin coconut oil. I used to do a shot glass of melted C
 
 Looking back in history, this is actually one of my shorter lists of supplements. Eep!
 
-### kathiebu@hotmail.com — 2012-03-27T02:31:17+0300
+### [email redacted] — 2012-03-27T02:31:17+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-6699>
 
 Seems that you are doing good!!
@@ -16734,12 +16734,12 @@ I realized tonight that my dinners are too big. I need to seriously focus on mak
 
 Okay...signing off for the night (I think). It's 8:44 and I need to wind down for bed. No melatonin or GABA tonight. I had CAH-RAYZEE dreams this morning. Mostly about SCUBA diving in a cartoon from my childhood (I think it was a British production, actually...I vaguely remember it) and seeing a cat walking around on the lagoon floor (I'm not even sure what a lagoon is exactly, but I saw one in my dream LOL). Nothing bad, just wild with seriously vivid colors. And I didn't sleep that great the rest of the night, either (could've been my breathing through the air piece - you're not supposed to hold your breath when underwater with pressurized air LOL).
 
-### jeepifer@gmail.com — 2012-03-28T06:23:23+0300
+### [email redacted] — 2012-03-28T06:23:23+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-7590>
 
 Which MCT oil did you get from Amazon? I love to order on Thursdays with my Prime because 90% of the time it arrives Friday for free.
 
-### kathiebu@hotmail.com — 2012-03-28T16:36:10+0300
+### [email redacted] — 2012-03-28T16:36:10+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-7706>
 
 No, you won't be left behind  Men see changes usualy most faster than we do...Hormonal thing.... Hang in there, you too will have positive changes, but it might take a few weeks...Remind yourself of your goals and how good you are going to feel soon.
@@ -16891,7 +16891,7 @@ I've been reading a bit about CT...interesting stuff. Makes sense...
 
 Thanks, Katy.  You have a great day, too.
 
-### jeepifer@gmail.com — 2012-03-28T22:52:15+0300
+### [email redacted] — 2012-03-28T22:52:15+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-7927>
 
 > **Slone07;7966 wrote:** I got this one: [http://www.amazon.com/gp/product/B0019LRY8A/ref=oh\_o03\_s00\_i00\_details](http://http://www.amazon.com/gp/product/B0019LRY8A/ref=oh_o03_s00_i00_details) It's not Prime, unfortunately, and the shipping took quite a few days! I was not happy after being spoiled with Amazon Prime for so long. LOL Oh, first world problems...
@@ -16913,7 +16913,7 @@ It's flavorless and odorless. Completely clear. I'm going to try making mayo wit
 
 What is this Bulletproof Coffee that everyone's talking about? I totally missed the memo on that one. LOL
 
-### jeepifer@gmail.com — 2012-03-28T23:29:32+0300
+### [email redacted] — 2012-03-28T23:29:32+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-7948>
 
 Basically, you add (unsalted) butter to your coffee, and MCT oil as an option. He's peddling his own coffee too, maybe not without good reason, but I just add the butter, and a little coconut oil in lieu of the MCT oil, to what I have on hand for now. It tastes good, that's for sure!
@@ -16953,7 +16953,7 @@ Was down .6 pounds from yesterday, which brings me to that steady 230.0.
 
 Time to turn this day around. Crank up some good tunes and get the boys laughing...
 
-### kathiebu@hotmail.com — 2012-03-29T21:06:09+0300
+### [email redacted] — 2012-03-29T21:06:09+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-8408>
 
 You're doing good! I really enjoy reading your journal! You sound more optimistic than earlier this week, that's great
@@ -16985,7 +16985,7 @@ I did it. I started my hCG last night. It's the beginning of hot summer days her
 
 I'm excited.
 
-### jeepifer@gmail.com — 2012-04-06T18:10:08+0300
+### [email redacted] — 2012-04-06T18:10:08+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-12167>
 
 Sounds awesome! I'm starting hCG tomorrow. It's new to me, so will be interesting to see how it all goes.
@@ -17001,7 +17001,7 @@ I've been reading about how vitamin D produces natural sunscreen type results in
 
 Interesting...
 
-### kathiebu@hotmail.com — 2012-04-08T16:26:29+0300
+### [email redacted] — 2012-04-08T16:26:29+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-12646>
 
 Good morning Slone!
@@ -17024,7 +17024,7 @@ Doing awesome! Down 12 pounds already and feeling great. Not as energetic as I w
 
 WOW...12 lbs sounds awesome! I don't know much about the whole HCG thing, other than the calorie restriction but it sure sounds interesting & sounds like ppl lose weight even when they are resistent to quick weight loss? Anyway, good for you!! I'd love some weight loss. I really thought I'd be able to wear shorts this summer but it doesn't look that way; the majority of my weight is on my legs...urgh!
 
-### kathiebu@hotmail.com — 2012-04-21T23:02:23+0300
+### [email redacted] — 2012-04-21T23:02:23+0300
 **Source:** <https://forum.jackkruse.com/threads/slone.364/post-17537>
 
 Slone! How is it going? Are you still on the HCG protocol? Give some news
@@ -17195,7 +17195,7 @@ I'm a bit confused... CT reduces appetite = calorie restriction = weightloss. Bu
 
 From a survival point of view, I don't understand why the cold would both make us want to eat less and burn tons of calories. That sounds great for weightloss, but super bad if I just want to survive the winter without starving.
 
-### kc_boxerman@yahoo.com — 2012-03-22T22:50:49+0200
+### [email redacted] — 2012-03-22T22:50:49+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-caloric-burn-or-reduced-calorie-consumption.367/post-4642>
 
 > **PaleoMom;4660 wrote:** I'm a bit confused... CT reduces appetite = calorie restriction = weightloss. But it also burns tons of calories = weightloss.
@@ -17237,7 +17237,7 @@ Yeah, I guess this is my problem. The CT makes me SO hungry and craving carbs. M
 
 I fidn it helps immensly to just add more CO with your meals or eat fats like butter/cream. That way the carb-cravings die before you do any real damage.
 
-### omlh@todmi.com — 2012-03-23T09:26:19+0200
+### [email redacted] — 2012-03-23T09:26:19+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-caloric-burn-or-reduced-calorie-consumption.367/post-4880>
 
 So far (although, reading this, I'm expecting it to change) CT has suppressed hunger for me. I find I can eat a really good, big breakfast, and a decentish lunch (but really only because I'll be doing a cold soak a bit later), but I have no appetite thereafter, and can quite easily do without any supper. Breakfast has been creeping later, too. I don't know whether this will change, or not.
@@ -17311,7 +17311,7 @@ Dr Kruse told me that the increased drive in hunger and craving carbs with CT is
 
 I think the problem that CT+keto addresses is that modern homo sapiens end up living their entire lives as if it was a perpetual summer (long light cycles from technology, climate control and always available easily digestible carbs). I believe that Dr. Kruse has said that once your hormones/labs and weight are normalized you can go back to eating carbs in-season. IIRC, he said he starts adding carbs back into his diet in mid-April. If you're sick or overweight however, you need to essentially _make up for lost winters_ by staying cold-adapted and keto-adapted until healed.
 
-### finnite@dccnet.com — 2012-03-24T03:31:47+0200
+### [email redacted] — 2012-03-24T03:31:47+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-caloric-burn-or-reduced-calorie-consumption.367/post-5274>
 
 > **KetoWarrior;5282 wrote:** If you're sick or overweight however, you need to essentially _make up for lost winters_ by staying cold-adapted and keto-adapted until healed.
@@ -17335,7 +17335,7 @@ Honestly, I think it varies depending on how dialed in you are when starting CT.
 **Subforum:** The New Monster Thread
 **Posts:** 10
 ══════════════════════════════════════════════════════════════════════
-### zzzcjr@comcast.net — 2012-03-23T00:53:11+0200
+### [email redacted] — 2012-03-23T00:53:11+0200
 **Source:** <https://forum.jackkruse.com/threads/costco-wild-sardines-in-evoo.368/post-4694>
 
 Just wanted to share because I think it's new to Costco.
@@ -17354,14 +17354,14 @@ If you want an optimal CT experience, freeze those sardines, then suck on them w
 
 Perfect! Let us know how it goes LOL.
 
-### jeanie@truelongmont.com — 2012-03-23T05:42:20+0200
+### [email redacted] — 2012-03-23T05:42:20+0200
 **Source:** <https://forum.jackkruse.com/threads/costco-wild-sardines-in-evoo.368/post-4854>
 
 > **Dan in Utah;4729 wrote:** If you want an optimal CT experience, freeze those sardines, then suck on them while you soak in an ice bath. (I'm laughing, but I might just try it to freak my wife out.) Note to self: like she doesn't think your crazy for sitting in a ice bath already.
 
 Factor X! This is it!
 
-### jeanie@truelongmont.com — 2012-03-23T05:42:53+0200
+### [email redacted] — 2012-03-23T05:42:53+0200
 **Source:** <https://forum.jackkruse.com/threads/costco-wild-sardines-in-evoo.368/post-4855>
 
 > **Kath;4722 wrote:** Just wanted to share because I think it's new to Costco.
@@ -17379,14 +17379,14 @@ Now I see my Dad in me, lol. He use to do the same thing. Herring, kippers, sard
 
 BTW, I use a fork or spoon when available.
 
-### zzzcjr@comcast.net — 2012-03-23T17:26:47+0200
+### [email redacted] — 2012-03-23T17:26:47+0200
 **Source:** <https://forum.jackkruse.com/threads/costco-wild-sardines-in-evoo.368/post-4993>
 
 > **Dan in Utah;4729 wrote:** If you want an optimal CT experience, freeze those sardines, then suck on them while you soak in an ice bath. (I'm laughing, but I might just try it to freak my wife out.) Note to self: like she doesn't think your crazy for sitting in a ice bath already.
 
 Thanks to you I kept giggling while eating my sardines this morning.
 
-### zzzcjr@comcast.net — 2012-03-23T17:29:05+0200
+### [email redacted] — 2012-03-23T17:29:05+0200
 **Source:** <https://forum.jackkruse.com/threads/costco-wild-sardines-in-evoo.368/post-4994>
 
 > **Cavemam;4886 wrote:** How do you eat these?
@@ -17395,12 +17395,12 @@ Straight from the can until that becomes boring.
 
 Record high temps in Colo. today. For the first time I'm not happy about that.
 
-### jeepifer@gmail.com — 2012-03-23T17:47:51+0200
+### [email redacted] — 2012-03-23T17:47:51+0200
 **Source:** <https://forum.jackkruse.com/threads/costco-wild-sardines-in-evoo.368/post-5006>
 
 I saw those at my Costco too! I eat them straight out of the can, as does my 6-year old. She'll ask for them as a snack!
 
-### jeanie@truelongmont.com — 2012-03-23T18:24:17+0200
+### [email redacted] — 2012-03-23T18:24:17+0200
 **Source:** <https://forum.jackkruse.com/threads/costco-wild-sardines-in-evoo.368/post-5034>
 
 > **Kath;5026 wrote:** Straight from the can until that becomes boring.
@@ -17651,7 +17651,7 @@ So, bad news. The worse of my Achilles is hurting me a bit today. Not a lot, not
 
 [](http://http://www.jackkruse.com/forum/convert_files/attachments/8744=71-6884613008_790689040a_m.jpg)
 
-### kathiebu@hotmail.com — 2012-03-30T14:10:22+0300
+### [email redacted] — 2012-03-30T14:10:22+0300
 **Source:** <https://forum.jackkruse.com/threads/paleosues-weight-loss-journey.369/post-8699>
 
 Woooow!! That was the real test and you did awesome!!  You must be so proud!
@@ -17887,7 +17887,7 @@ I did just that with my steak tonight! YUM!
 
 I remember seeing it and the light going on. I think it's on the blog where he talks about how you know when your lepton is reset... Less dead skin on elbows palms and feet, that your pedicurist would notice.. I'll find and quote it here.
 
-### jeanie@truelongmont.com — 2012-03-24T17:45:55+0200
+### [email redacted] — 2012-03-24T17:45:55+0200
 **Source:** <https://forum.jackkruse.com/threads/fun-little-side-benefits-of-eating-paleo-primal.371/post-5444>
 
 My fav shocker to CW folks is adding a big spoon of CO to some green tea. The concept of adding a big scoop of white saturated fat to something for health is just incomprehensible to most.
@@ -18125,7 +18125,7 @@ I think it would help if you can include the ranges for all of these?
 
 Agree with ranges, also your ferritin and B12 are low as I scanned quickly. I would get a methyl B12 supp lozenge, cause likely you are not able to get enough B12 which can lead to low iron (ferritin) stores. A1C is most excellent!
 
-### finnite@dccnet.com — 2012-03-23T17:40:15+0200
+### [email redacted] — 2012-03-23T17:40:15+0200
 **Source:** <https://forum.jackkruse.com/threads/seeking-all-hackers-please.372/post-5000>
 
 Agree that B12 is very low and so I believe is that FT4
@@ -18146,7 +18146,7 @@ Thanks so much for pointing out a few things, I did add the ranges.
 
 I don't believe I am menopausal as of yet...phew and as for cycle, I was about a week out of my last period. Had to hold off because of that
 
-### finnite@dccnet.com — 2012-03-23T20:11:17+0200
+### [email redacted] — 2012-03-23T20:11:17+0200
 **Source:** <https://forum.jackkruse.com/threads/seeking-all-hackers-please.372/post-5083>
 
 > **Llanabanana;4877 wrote:**
@@ -18192,7 +18192,7 @@ Any suggestions?
 
 Thanks again
 
-### finnite@dccnet.com — 2012-03-24T00:13:17+0200
+### [email redacted] — 2012-03-24T00:13:17+0200
 **Source:** <https://forum.jackkruse.com/threads/seeking-all-hackers-please.372/post-5175>
 
 I have problems with iron as well. Dr K suggests eating liver buuut that's not working out so well for me so I found a dessicated liver supplement at a compounding pharmacy that seems to be helping, will know when I get my next set of labs.
@@ -18223,7 +18223,7 @@ Just curious who else is experiencing itching since starting CT, and what do you
 
 Yes, I have, especially on the legs. I also had pimples in the first 2 weeks. I put it down to detox. Crap seem to come out left, right and centre. The skin is a major organ for detox, no wonder we all seem to get itchy, pimply, greasy and dry all at the same time.
 
-### omlh@todmi.com — 2012-03-23T09:18:12+0200
+### [email redacted] — 2012-03-23T09:18:12+0200
 **Source:** <https://forum.jackkruse.com/threads/itching.374/post-4878>
 
 Yes - I've been very itchy, particularly on the soles of my feet and the small of my back. Spots/pimples are beginning to appear now, too.
@@ -18245,7 +18245,7 @@ Yes my shins are itching again. I have eaten grain-free scd diet for 6 years and
 
 My shins are itching too, and in the past it meant gluten exposure or liver issues. So I'm confound because my diet is clean and my liver enzymes were taken last week and were at a fantastic low. I also have itching and rash in the small of my back. A few pimples here and there too.
 
-### jeanie@truelongmont.com — 2012-03-23T16:08:39+0200
+### [email redacted] — 2012-03-23T16:08:39+0200
 **Source:** <https://forum.jackkruse.com/threads/itching.374/post-4960>
 
 Itchy an Scratchy an Rashy here, too.
@@ -18406,7 +18406,7 @@ Is this a problem? Does everyone doing CT turn a dark cherry red?
 
 After rereading the protocol, what is cherry red? Is it a dark color or just a pink color? I eat all kinds of cherries! Even yellow ones. And I am red/green color blind - lol!
 
-### kc_boxerman@yahoo.com — 2012-03-23T22:18:10+0200
+### [email redacted] — 2012-03-23T22:18:10+0200
 **Source:** <https://forum.jackkruse.com/threads/skin-color.377/post-5139>
 
 > **villjamur\_stevenson;5006 wrote:** Okay, now my question - my skin never turns cherry red. I do get a slight pink - I never get white. Is this a problem? Does everyone doing CT turn a dark cherry red?
@@ -18420,7 +18420,7 @@ yes, I got up to 60 minutes of ice with the compression shirt. slight patches of
 
 Is it just pink? or is it a darker color?
 
-### omlh@todmi.com — 2012-03-24T19:13:47+0200
+### [email redacted] — 2012-03-24T19:13:47+0200
 **Source:** <https://forum.jackkruse.com/threads/skin-color.377/post-5479>
 
 For the first time ever today I was a consistent, bright reddish/pinkish colour all over from my bath, and that was at the lowest temperature I've managed so far (other than my first, over-the-top bath!). 25 minutes did me! Although the water was at 52F, my skin temp. on the infrared thermometer measured 57F, so I don't think I'm at optimum temperature yet. I have been noticing that the skin around my collarbone and on the back of the neck down to the shoulderblades goes a much deeper colour, so maybe that is a good sign?
@@ -18440,7 +18440,7 @@ Ok, I'm not getting anything dark yet. it is more like the color of a blush wine
 
 Well, I think I know what cherry red is now. I started taking the bitter melon, and after about 60 minutes all of my skin turns cherry red....Anyone know what is going on? What is happening at the skin level for it to be turning red?
 
-### kc_boxerman@yahoo.com — 2012-03-30T20:38:03+0300
+### [email redacted] — 2012-03-30T20:38:03+0300
 **Source:** <https://forum.jackkruse.com/threads/skin-color.377/post-8884>
 
 > **villjamur\_stevenson;8926 wrote:** Well, I think I know what cherry red is now. I started taking the bitter melon, and after about 60 minutes all of my skin turns cherry red....Anyone know what is going on? What is happening at the skin level for it to be turning red?
@@ -18697,7 +18697,7 @@ Chris...that's a nice summary of how to start. It's been overwhelming reading ab
 
 great summary Chris!
 
-### cljcj04@gmail.com — 2012-03-26T06:01:17+0300
+### [email redacted] — 2012-03-26T06:01:17+0300
 **Source:** <https://forum.jackkruse.com/threads/where-is-the-best-place-to-start.379/post-6232>
 
 All the advice seems perfect, except I thought Dr. K said we were not to excercise when we started the LRx until we were LS? I am getting off HCG and starting LRx and I didn't think I was supposed to start excercise. Can someone please clarify?
@@ -18772,7 +18772,7 @@ I am confused about evening meal timing. How early could I have dinner if I'm sk
 **Subforum:** Cold Thermogenesis
 **Posts:** 13
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2012-03-23T17:16:45+0200
+### [email redacted] — 2012-03-23T17:16:45+0200
 **Source:** <https://forum.jackkruse.com/threads/what-is-going-to-happen-in-the-summer-heat.380/post-4989>
 
 So, as I keep tossing around the idea of buying a small room a/c and setting up some kind of sleeping chamber in the basement for the summer months, it got me to wondering. . .
@@ -18890,7 +18890,7 @@ Overall, I seem to be about the same as before. I will say that if I'm out side 
 **Subforum:** The New Monster Thread
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2012-03-23T17:21:56+0200
+### [email redacted] — 2012-03-23T17:21:56+0200
 **Source:** <https://forum.jackkruse.com/threads/building-a-proper-sleep-cave.381/post-4990>
 
 We are pretty darn neolithic. Our large 2 story house with all beds up, run the whole house a/c in the summer, etc.
@@ -18969,7 +18969,7 @@ Thanks for the responses. My hormone levels are mostly normal wih the exception 
 
 Work on cortisol asap. Sounds like you have that cortisol burst in the middle of the night from overtaxed/mixed up adrenals. Everything caves with adrenal stress. Adrenal support stuff..also, the more I listened to Sean Croxton last night on Mag, I think it is really really important for proper whole body function. We all need a lot of it!!!
 
-### jeepifer@gmail.com — 2012-03-23T19:15:52+0200
+### [email redacted] — 2012-03-23T19:15:52+0200
 **Source:** <https://forum.jackkruse.com/threads/neurotransmitter-experts-or-just-people-with-opinions.383/post-5054>
 
 Would 5-htp at bedtime help, I wonder?
@@ -18999,7 +18999,7 @@ Bren, I highly recommend Joan Mathews-Larson's book: [http://www.amazon.com/Depr
 
 if i remember right, she does not recommend 5-htp....
 
-### jeepifer@gmail.com — 2012-03-23T22:34:39+0200
+### [email redacted] — 2012-03-23T22:34:39+0200
 **Source:** <https://forum.jackkruse.com/threads/neurotransmitter-experts-or-just-people-with-opinions.383/post-5144>
 
 > **ColdBren;5138 wrote:** Hmm, I take 5 htp in the morning...maybe I will try it at night. I do think the keto-CT and light cycle stuff is going to maybe fix everything....this is my hope!
@@ -19052,7 +19052,7 @@ Have you ever done any meditation? It can be hugely helpful both to help calm th
 **Subforum:** The New Monster Thread
 **Posts:** 6
 ══════════════════════════════════════════════════════════════════════
-### chrystin.comeau@live.com — 2012-03-23T18:17:40+0200
+### [email redacted] — 2012-03-23T18:17:40+0200
 **Source:** <https://forum.jackkruse.com/threads/how-much-is-your-cortisol-level-affected-by-caffeine.384/post-5032>
 
 ...not looking for precise numbers, obviously. But I looked and looked before I did my salivary testing and didn't see any suggestions to abstain while testing. Now I'm wondering how much effect my whole milk latte might have had on my results... Like could they have boosted me from under optimal range into acceptable? The range I have on my lab sheet reads 1.2-3 for noon and .6-1.9 for evening and I was 1.8 and .8, respectively. Is there any way to speculate without having another test run?
@@ -19299,7 +19299,7 @@ I've used
 
 I am absolutely concerned about the mainstream stuff and would stay away. There are many crystal deodorants that are very safe, as well as other alternatives like a bit of coconut oil and some baking soda. What you put on your skin you also put into your body. As someone once said to me, if you wouldn't eat it, don't wear it. But that's just me. (Btw, I refuse to 'stink' and am very very conscious of body odor. Between safe deodorants, perfume oils etc and a very clean diet, I smell good! My hubby will vouch for me.  )
 
-### finnite@dccnet.com — 2012-03-24T03:36:40+0200
+### [email redacted] — 2012-03-24T03:36:40+0200
 **Source:** <https://forum.jackkruse.com/threads/deoderant.388/post-5277>
 
 I was using TOMs and found it wasn\`t as good as I would have liked for smell. switched to crystal and pretty happy with this one so far
@@ -19365,14 +19365,14 @@ I use a rock crystal thing. Works well. I don't smell since going primal though.
 
 I have been using [this](http://http://www.vitacost.com/alvera-all-natural-roll-on-deodorant-aloe-unscented) for over a year. I works great for odors but does not help with sweat. I may be changing to a more natural alternative in the future.
 
-### barattafam@gmail.com — 2012-03-25T16:43:28+0300
+### [email redacted] — 2012-03-25T16:43:28+0300
 **Source:** <https://forum.jackkruse.com/threads/deoderant.388/post-5779>
 
 I've tried Tom's, which didn't work well enough for my liking. The crystal stuff gave me a rash as well, and honestly, contain aliminum themselves. Ive also used the coconut oil/baking soda concoction, and it did work well. I didn't like the slight residue it left, but perhaps I was over applying. I'm back to the hypoallergenic Dry Idea gel, as I have sensitive skin and and it's just easier.
 
 I may give the coconut oil another try now that the weather is warmer.
 
-### barattafam@gmail.com — 2012-03-25T16:44:56+0300
+### [email redacted] — 2012-03-25T16:44:56+0300
 **Source:** <https://forum.jackkruse.com/threads/deoderant.388/post-5782>
 
 I kept a small container premixed in the bathroom. Just apply with the fingertips - however, it does harden/soften with temp changes.
@@ -19384,12 +19384,12 @@ I'm curious: How much oil to baking soda?
 
 I'm currently using the Crystal, and have been pleasantly surprised that I think I actually smell better than when I was using standard deodorant/antiperspirant. But there is still a little bit of smell.
 
-### barattafam@gmail.com — 2012-03-26T02:21:11+0300
+### [email redacted] — 2012-03-26T02:21:11+0300
 **Source:** <https://forum.jackkruse.com/threads/deoderant.388/post-6126>
 
 The recipe I've used is 1/4 cup corn starch, 1/4 cup baking soda, and 5 tablespoons coconut oi.
 
-### jeanie@truelongmont.com — 2012-03-26T21:21:22+0300
+### [email redacted] — 2012-03-26T21:21:22+0300
 **Source:** <https://forum.jackkruse.com/threads/deoderant.388/post-6510>
 
 > **hazyjane;5636 wrote:** I usually use fresh lemon juice (it does sting if I've just shaved!)
@@ -19403,7 +19403,7 @@ This is easy to make at home - and mucho cheap! I also use it on wet hair to bri
 
 This sounds great.... Thx for all the ideas, Especially shampoo... Haven't gone there yet but may!
 
-### cuivie@me.com — 2012-10-20T07:06:04+0300
+### [email redacted] — 2012-10-20T07:06:04+0300
 **Source:** <https://forum.jackkruse.com/threads/deoderant.388/post-59294>
 
 After a few years being cleanly keto paleo, I only use baking soda as deodorant. As long as my diet is clean (no sugar, etc), the only smell I produce is a normal human musk that baking soda easily takes care of for times when the natural human smell isn't socially appropriate. And no, I don't mean "stinky" by that, I mean a slight, "clean" but animal-like smell. If I do eat any sugar or wheat type foodstuff, then my sweat gets a burnt/sour smell like it did back in my pre-paleo days.
@@ -19433,7 +19433,7 @@ I have been using mag oil that i make from nigari crystals. I rub down entire bo
 
 Can you say more about how to make the oil, Dali Dula? I've always wanted to try the mag oil but it's super expensive. Thanks!
 
-### amber_tyrrell@hotmail.com — 2012-10-21T06:38:01+0300
+### [email redacted] — 2012-10-21T06:38:01+0300
 **Source:** <https://forum.jackkruse.com/threads/deoderant.388/post-59435>
 
 I've been using crystal deodorant for twenty years now - its so effective. I think its really important not to put chemicals under the arms, but also i was very conscious when i was breastfeeding my babies not to have strong smells there as their little noses where so close
@@ -19452,7 +19452,7 @@ I buy nigari at the local co-op. It is available online. Very inexpensive- 3$ fo
 
 Cavemam, were you saying the sea salt spray is easy to make? Can you elaborate on how you use it? I'm interested in trying it.
 
-### jeanie@truelongmont.com — 2012-10-22T21:00:20+0300
+### [email redacted] — 2012-10-22T21:00:20+0300
 **Source:** <https://forum.jackkruse.com/threads/deoderant.388/post-59686>
 
 > **Nonchalant;61248 wrote:** Cavemam, were you saying the sea salt spray is easy to make? Can you elaborate on how you use it? I'm interested in trying it.
@@ -19501,7 +19501,7 @@ I think I missed it somewhere along the way - what are the benefits of using mag
 
 Wow, thank you! Brilliant.
 
-### jeanie@truelongmont.com — 2012-10-23T00:41:36+0300
+### [email redacted] — 2012-10-23T00:41:36+0300
 **Source:** <https://forum.jackkruse.com/threads/deoderant.388/post-59733>
 
 > **ealachan;61261 wrote:** I think I missed it somewhere along the way - what are the benefits of using magnesium oil, again? Is it just an additional way to supplement, or are there skin benefits as well?
@@ -19522,7 +19522,7 @@ I am T2D so i need all the mag I can get. I take 800mg malate,800 mg threonate, 
 
 My husband is T2D as well. I've recently gotten him to start taking Mg Malate. Wondering if I could talk him into Mag oil as well. Do you rub it on and then wash it off, or do you just leave it on (like lotion, kind of)? Does it taste like anything? Could I sneak it into his tea? LOL
 
-### jeanie@truelongmont.com — 2012-10-23T17:54:57+0300
+### [email redacted] — 2012-10-23T17:54:57+0300
 **Source:** <https://forum.jackkruse.com/threads/deoderant.388/post-59829>
 
 > **ealachan;61388 wrote:** My husband is T2D as well. I've recently gotten him to start taking Mg Malate. Wondering if I could talk him into Mag oil as well. Do you rub it on and then wash it off, or do you just leave it on (like lotion, kind of)? Does it taste like anything? Could I sneak it into his tea? LOL
@@ -19564,7 +19564,7 @@ that's interesting! Does it help with stinky feet at all, do you know? If I coul
 
 Theoretically, yes... people definitely use it as a natural deodorant, too. I plan to do the bottom-of-the-feet thing with my children cause it's quick and easy (and thanks to Dali Dula I can now make this stuff cheaply where before I couldn't afford to buy it!).
 
-### amber_tyrrell@hotmail.com — 2012-10-24T00:41:37+0300
+### [email redacted] — 2012-10-24T00:41:37+0300
 **Source:** <https://forum.jackkruse.com/threads/deoderant.388/post-59905>
 
 > **ealachan;61261 wrote:** I think I missed it somewhere along the way - what are the benefits of using
@@ -19580,7 +19580,7 @@ I bought some magnesium oil the other day for my daughter - heard it helps with 
 
 Amber, try diluting it with water. One part magnesium oil, one part (or less) of water.
 
-### amber_tyrrell@hotmail.com — 2012-10-24T02:25:54+0300
+### [email redacted] — 2012-10-24T02:25:54+0300
 **Source:** <https://forum.jackkruse.com/threads/deoderant.388/post-59911>
 
 > **Nonchalant;61487 wrote:** Amber, try diluting it with water. One part
@@ -19644,7 +19644,7 @@ Soy sauce likely includes gluten...
 
 Sent from my Sprint Samsung Galaxy S II Epic.
 
-### jeanie@truelongmont.com — 2012-03-24T17:41:19+0200
+### [email redacted] — 2012-03-24T17:41:19+0200
 **Source:** <https://forum.jackkruse.com/threads/rice-opinions.389/post-5441>
 
 > **PrimalPam;5331 wrote:** Is rice optimal or not? I read differing opinions. Why is white rice different than brown rice vis a vis Paleo?
@@ -19671,7 +19671,7 @@ I'm thinking that isn't a huge issue. I have heard you have to monitor ph and so
 
 Supposedly in a properly maintained pool chlorine doesn't have any negatives...I don't think I buy that, but don't know enough since I'm new to pools.
 
-### barattafam@gmail.com — 2012-03-25T19:10:04+0300
+### [email redacted] — 2012-03-25T19:10:04+0300
 **Source:** <https://forum.jackkruse.com/threads/optimal-pool.390/post-5873>
 
 What type of pool do you own? Gunnite? Vinyl liner? In or above ground? How many gallons?
@@ -20096,7 +20096,7 @@ And that was a real commercial for a real product.
 
 I have a business trip next week to Vegas of all places and I'm wondering what you all eat for BAB on the road. I've been avoiding eggs and would like to continue, but I might just have to go back to that traditional protein for breakfast unless I can come up with an idea of something else. I'll not have a car, so it'll be whatever the hotel offers, what is within walking distance, or what I can pack in my suitcase. I'd love to hear your thoughts and suggestions!
 
-### nosnhojjennifer@yahoo.com — 2012-03-24T15:08:42+0200
+### [email redacted] — 2012-03-24T15:08:42+0200
 **Source:** <https://forum.jackkruse.com/threads/bab-while-traveling.396/post-5380>
 
 Great question...I have to travel in a week, so I am thinking about this too. I will be staying with relatives, which in some ways makes it easier but in other ways harder. My grandmother is so opinionated! I am afraid lunch and dinner may be more difficult (timing wise). I'm not doing eggs either, and for complicated reasons, I may not have access to the kitchen whenever I want to start cooking bacon...LOL. But I was thinking I'll just pack a lot of canned salmon. Maybe sausage that I could microwave in a pinch. I purchased canned herring but cannot bring myself to try it yet. I also am going to pack my crockpot. That will probably help. The upside is I am going to Maine - lots of seafood!
@@ -20190,7 +20190,7 @@ Shijin - you can only guess how closely she's followed. NROTC scholarship to Not
 
 congrats on all of your accomplishments
 
-### jeanie@truelongmont.com — 2012-03-24T19:55:31+0200
+### [email redacted] — 2012-03-24T19:55:31+0200
 **Source:** <https://forum.jackkruse.com/threads/yes.397/post-5501>
 
 > **cgk;5410 wrote:** You can find my back story scattered around here - mostly in the meet/greet - but I will post more to follow. But today I absolutely must take a moment to note that I'm at 158 lbs this am. So what, I'm sure you may say since I am 47 @ 5'8 and my optimal weight is probably somewhere in the high 140s. But this is the first time in a DECADE that I have been below 160.
@@ -20337,7 +20337,7 @@ this is very new to me and a bit confusing, hope that some CT veterans will weig
 
 Alex
 
-### jeanie@truelongmont.com — 2012-03-24T17:56:36+0200
+### [email redacted] — 2012-03-24T17:56:36+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-newwbie-confused.399/post-5448>
 
 > **PaleoDentist;5476 wrote:** Hi Everyone,
@@ -20469,7 +20469,7 @@ After a week, I was able to do 45 min easily and now I do 1.25 hours easily in 6
 **Subforum:** My Optimal Journal
 **Posts:** 686
 ══════════════════════════════════════════════════════════════════════
-### kathiebu@hotmail.com — 2012-03-24T18:34:22+0200
+### [email redacted] — 2012-03-24T18:34:22+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-5458>
 
 I feel the need to start this journal to write not only my progress, but also my thoughts and how I feel...And I do I feel today? Awful!!
@@ -20517,7 +20517,7 @@ I've done HCG very successfully...but this LR has me much healthier mentally, wh
 
 You've got this. You can totally do it...if you stay away from the second week "comfies," where you get lax. I know, I'm really one to talk as I'm still in the first week, but I've been there with everything else before. Even HCG. I feel for you. I get it. A lot of other people here do, too...and look how successful they are! Let's do this.
 
-### kathiebu@hotmail.com — 2012-03-27T02:47:07+0300
+### [email redacted] — 2012-03-27T02:47:07+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-6709>
 
 All right...The week-end went ok, but still struggling to follow the prescription...No problem with the BAB, but if I wait to much for lunch, I find myself eating what ever's on sight: chocolate, nuts, cocco manna. Yesterday I binged on cocco manna!! That thing is so expensive, I ate half of the jar in one sitting!! Ewww
@@ -20531,7 +20531,7 @@ Will go to bed early tonight and will rock this week
 
 If you get way too hungry before lunch in the first few weeks, try some coconut oil. As for me, I'd keep the chocolate out of the house until the reset is over. I thought it was the sugar, but I used to have problems even with the powdered cocoa. It was just a big trigger for me.
 
-### kathiebu@hotmail.com — 2012-03-27T15:51:19+0300
+### [email redacted] — 2012-03-27T15:51:19+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-6957>
 
 Thank's Birdy, will do!!
@@ -20541,12 +20541,12 @@ Thank's Birdy, will do!!
 
 Hey You! I just wanted to let you know I read what you have wrote. Wow there's a lot of us who have shared similar histories. I hope you're feeling better & know that you're not going through this alone.
 
-### kathiebu@hotmail.com — 2012-03-28T16:12:37+0300
+### [email redacted] — 2012-03-28T16:12:37+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-7696>
 
 Thank's Paula! I do feel better and back on the right track
 
-### kathiebu@hotmail.com — 2012-03-28T16:25:24+0300
+### [email redacted] — 2012-03-28T16:25:24+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-7701>
 
 Yesterday went pretty good. The most difficult is not eating at night. I'm having a BAB (up to 75g of protein), light lunch and a decent dinner. I est until I am feel full, and sometimes a little beyond at dinner to make sure I'll be fine in the evening, but yesterday I was hungry a few hours after dinner. Thought about eating crap for a minute, but talked myself out of it and had water instead. Went to bed still hunggry and tried to sleep anyway, but couldn't...
@@ -20562,7 +20562,7 @@ Good for you making it through the evening hungry. Hungry in the evening is a ba
 
 Hope all is going well!
 
-### kathiebu@hotmail.com — 2012-03-30T03:34:11+0300
+### [email redacted] — 2012-03-30T03:34:11+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-8546>
 
 Today went ok...BAB ever: 85g of protein!! Trying to kill the hunger I'm having at night. Ate little for lunch. Wasn't hungry but since I wanted to get in a cold bath, had sardines and avocado and was really full.
@@ -20584,7 +20584,7 @@ Curry sounds wonderful...I may have to make some tomorrow... And will you please
 
 Have a good night, Katy.
 
-### kathiebu@hotmail.com — 2012-03-30T13:57:41+0300
+### [email redacted] — 2012-03-30T13:57:41+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-8696>
 
 Thank you Slone for your message... I will see in time if I feel like telling her...My sister and my dad know, but I've always feel less confortable to have real talks with my mom. And it's also really hard to admit to the people you love, showing how vulnerable you are.
@@ -20593,7 +20593,7 @@ I'd be please to have your BAB. lol. Not really a problem for me. The trick for 
 
 Have a good day!!
 
-### kathiebu@hotmail.com — 2012-03-30T15:28:55+0300
+### [email redacted] — 2012-03-30T15:28:55+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-8707>
 
 The good news this morning: the BAB from yesterday did the job, I went to bed last night with no hunger. I felt I could have skipped lunch, but not sure if a good idea right now. I might keep it very small just to make just I don't get home for dinner starving.
@@ -20604,7 +20604,7 @@ I'm having my BAB: liver, eggs and kale. And deca coffee with cream. The bath tu
 
 Wanted to weight myself this morning, but I'll wait until I have a full night sleep and feel good as I get up. I rarely weight myself so it's not a problem, but thought I just monitor it from time to time...Not in a hurry though, the last time I almost had a heart attack
 
-### kathiebu@hotmail.com — 2012-03-30T15:35:50+0300
+### [email redacted] — 2012-03-30T15:35:50+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-8710>
 
 OMG- how come the tub fills up faster when I'm away doing my things than when I'm sitting in it waiting for the water to go up??? LOL
@@ -20618,7 +20618,7 @@ Enjoy your hiking. I read your whole story. You've been through a lot. It's grea
 
 I have a good feeling we're going to do well with all of this. It may not be a perfect journey but that's okay. We're going to get there & be so happy we stuck it out!
 
-### kathiebu@hotmail.com — 2012-03-31T18:12:04+0300
+### [email redacted] — 2012-03-31T18:12:04+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-9251>
 
 BAB: liver, eggs and kale (85 g of protein)
@@ -20635,7 +20635,7 @@ Didn't go hiking, the place was too muddy  Went for half an hour walk before bed
 
 Good day overall, even if pretty tired bc of the 3 hours sleep the previous night.
 
-### kathiebu@hotmail.com — 2012-03-31T18:37:23+0300
+### [email redacted] — 2012-03-31T18:37:23+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-9272>
 
 BAB: liver, eggs, kale
@@ -20700,7 +20700,7 @@ LOL, if I had ever known, two years ago at nearly 190lb, that it would take TWO 
 
 MamaGrok, I think that advise is bang-on! I, too can't expect the 1-2 lb/week weight loss. Some weeks, maybe, some months perhaps nothing & in the past that would lead to a "why both Binge"!
 
-### kathiebu@hotmail.com — 2012-04-01T06:26:59+0300
+### [email redacted] — 2012-04-01T06:26:59+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-9696>
 
 (MammaGrok, I don't know how to respond with quotes!!)
@@ -20754,7 +20754,7 @@ I can't wear makeup for long, either - sebum sheds it after about 6hrs, lol. (No
 
 There's a transition period that I can tell you more about if you're interested.
 
-### kathiebu@hotmail.com — 2012-04-01T20:45:21+0300
+### [email redacted] — 2012-04-01T20:45:21+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-9891>
 
 > **MamaGrok;9802 wrote: Click on the "Reply with Quote" button at the bottom of the post you want to quote. If you want to quote several posts, click on the "+ button on the bottom of each of them, then when you hit "Reply" at the bottom of the page, it will automatically quote them all.
@@ -20807,7 +20807,7 @@ Yes I would like to!!
 
 I'm still reading your journey on MDA...When in the tub this morning, I read that you started your leptin reset...On June 22nd, you wrote : "50gm of magic protein, my foot. I don't like Dr. Kruse very much, but I'll give it a try." I was laughing so loud!!
 
-### kathiebu@hotmail.com — 2012-04-01T21:01:56+0300
+### [email redacted] — 2012-04-01T21:01:56+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-9898>
 
 New month, new challenge??
@@ -20828,7 +20828,7 @@ I might add some as I think of new ones...
 
 No chocolate and no nuts for the month....
 
-### kathiebu@hotmail.com — 2012-04-01T21:05:18+0300
+### [email redacted] — 2012-04-01T21:05:18+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-9901>
 
 Slept 9 hours again last night!! wow!
@@ -20858,7 +20858,7 @@ That is hilarious! Your mention of page 37 led me to re-read some things that I 
 
 Great to hear of your good sleep and filling full enough on your BAB!
 
-### kathiebu@hotmail.com — 2012-04-02T20:13:39+0300
+### [email redacted] — 2012-04-02T20:13:39+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-10402>
 
 8 days binge-free. Went through the week-end with no problem
@@ -20877,7 +20877,7 @@ CT: 30 minutes ice pack on belly on my way to work. 45 minutes bath after dinner
 
 At bed by 10:30.
 
-### kathiebu@hotmail.com — 2012-04-03T23:16:10+0300
+### [email redacted] — 2012-04-03T23:16:10+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-10953>
 
 Had a horrible night sleep again...CT related? Maybe...I hope so...My mood is also very up and down. Mornings are pretty difficult, very sleepy, no patience...I could bite someone!
@@ -20901,7 +20901,7 @@ You got through the weekend!!  And over a week binge free!!! Awesome!!!
 
 P.S. I made it through the Hunger Games movie this weekend without popcorn.
 
-### kathiebu@hotmail.com — 2012-04-04T03:42:05+0300
+### [email redacted] — 2012-04-04T03:42:05+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-11076>
 
 > **paulalynn;11135 wrote:** You got through the weekend!!  And over a week binge free!!! Awesome!!!
@@ -20921,7 +20921,7 @@ I'm glad to know you did good on Friday night! And you'll do awesome this week-e
 
 GO, LADIES!!! Ra ra ra!!
 
-### kathiebu@hotmail.com — 2012-04-04T18:04:53+0300
+### [email redacted] — 2012-04-04T18:04:53+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-11313>
 
 Went to bed at 10:15 last night, but when I saw at 11:15 that I wasn't sleeping yet, I cheated...I had Tylenol Pain to make sure I would sleep...I did, but that wasn't good sleep. I feel like crap this morning, I have no energy and I would go back to bed if I could. Mood is better than testerday though...
@@ -20934,7 +20934,7 @@ Dinner: salmon, avocado, CO
 
 CT: 35 minutes cold bath (12 degrees). Ice packs: 3 hours and a half in total on belly.
 
-### kathiebu@hotmail.com — 2012-04-05T15:21:53+0300
+### [email redacted] — 2012-04-05T15:21:53+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-11690>
 
 11 days binge-free!!
@@ -20968,7 +20968,7 @@ Went for a 45 minutes walk at night...This was part of my goals for the month (m
 
 Binge-free in the double digits!!! Good luck at the doc's office.
 
-### kathiebu@hotmail.com — 2012-04-06T15:30:15+0300
+### [email redacted] — 2012-04-06T15:30:15+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-12091>
 
 12 days binge-free!
@@ -21009,7 +21009,7 @@ Don't be stupid like me!
 
 A friend told me an AA motto is something like, "One drink is too much; a thousand is not enough."
 
-### kathiebu@hotmail.com — 2012-04-07T04:48:15+0300
+### [email redacted] — 2012-04-07T04:48:15+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-12359>
 
 Thank's girls!  It went really well, I'm pretty proud of myself!! I'll have to eat out a lot this week-end, it makes things a little more complicated, but it's doable. Really motivated here!!!
@@ -21019,7 +21019,7 @@ Thank's girls!  It went really well, I'm pretty proud of myself!! I'll have to e
 
 Awesome!!!!!! Motivation really helps!!! Go Girl GO!!!
 
-### kathiebu@hotmail.com — 2012-04-08T16:11:54+0300
+### [email redacted] — 2012-04-08T16:11:54+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-12643>
 
 13 days binge-free!!
@@ -21030,7 +21030,7 @@ Had dinner to late though...And went to bed past midnight. I feel the supplement
 
 CT: 45 minutes in the bath (14-15C, I'll have to start to go down...) and an hour ice packs.
 
-### kathiebu@hotmail.com — 2012-04-08T16:16:56+0300
+### [email redacted] — 2012-04-08T16:16:56+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-12644>
 
 14 days binge-free!! yah!! My record is 3 weeks I think...And as long as I can go through week-ends, I'm ok.
@@ -21045,7 +21045,7 @@ Dinner:
 
 CT: won't do any today
 
-### kathiebu@hotmail.com — 2012-04-10T17:54:10+0300
+### [email redacted] — 2012-04-10T17:54:10+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-13363>
 
 The week-end went pretty well. Ended up in NY for a road trip on Sunday and slept there. There was nothing but eggs at breakfast that I could eat, and they tasted awfull  Had a little with some fruit, and later in the day, I was starving. I had GF protein bars..Oh oh... The good news is that it didn't lead to a binge. They tasted so bad, as soon as I ate them I regret it. Oh well, it's not that bad I guess. At least they were gluten free. Also had a few almonds in the week-end. Was starving again when I got back home after a 7 hours drive, had some CO and went straight to bed.
@@ -21054,7 +21054,7 @@ Slept really bad saturday night, so, so on sunday, and passed out last night!!  
 
 No CT on Sunday and Monday. I'm missing my cold!!
 
-### kathiebu@hotmail.com — 2012-04-10T17:56:20+0300
+### [email redacted] — 2012-04-10T17:56:20+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-13364>
 
 16 days binge free
@@ -21087,7 +21087,7 @@ read this whole thread...really inspiring! You guys are doing just what I want t
 
 just lettin y'all know!
 
-### kathiebu@hotmail.com — 2012-04-11T02:31:58+0300
+### [email redacted] — 2012-04-11T02:31:58+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-13535>
 
 Welcome janagram!
@@ -21105,7 +21105,7 @@ Your' doing great! But you don't have to give up your coffee. Bullet Proof Coffe
 
 Traveling scares me as do visits to relatives as they're eating habits are worse than mine. I'm still trying to figure out how I'll deal with that.
 
-### kathiebu@hotmail.com — 2012-04-11T14:30:24+0300
+### [email redacted] — 2012-04-11T14:30:24+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-13692>
 
 Thank's Darllen!!
@@ -21114,7 +21114,7 @@ I gave up coffee because of sleep problems and adrenal fatigue...I first switche
 
 I hear you, it can be difficult to travel and to eat at relatives...I used to tell people I have some kind of allergy to gluten and dairy and I feel really bad when I eat them. People are less likely to insist. Or I would also tell them that this "diet" has been prescribed by my doctor to fix such or such thing... Once YOU are convinced that is the way you should eat and it does good to YOU, you won't let anyone poison you  My friends and familly know why I'm doing it, they don't try anymore to convince to have "only one bite", and often I bring my own food. No one is offended, and I get to eat what I want...
 
-### kathiebu@hotmail.com — 2012-04-11T15:12:11+0300
+### [email redacted] — 2012-04-11T15:12:11+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-13703>
 
 17 days binge free!
@@ -21158,7 +21158,7 @@ Heading out for a walk before I go to sleep.
 
 You're doing great!! 17 days....Yeah!!! Keep Kruising!!
 
-### kathiebu@hotmail.com — 2012-04-12T04:19:34+0300
+### [email redacted] — 2012-04-12T04:19:34+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-14054>
 
 > **paulalynn;13787 wrote:** You're doing great!! 17 days....Yeah!!! Keep Kruising!!
@@ -21170,7 +21170,7 @@ Keep Kruising...I love it!  You bet I'm gonna keep kruising, watch me girl
 
 17 days!!!! I'm so impressed! Keep it up, girl!
 
-### kathiebu@hotmail.com — 2012-04-12T21:32:41+0300
+### [email redacted] — 2012-04-12T21:32:41+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-14356>
 
 18 days binge-free....I'm close to my personnal record
@@ -21208,7 +21208,7 @@ Ok, gonna get in that tub, aiming for a 20 minutes, and once in there, I might s
 
 Here's to blowing open personal records!!
 
-### kathiebu@hotmail.com — 2012-04-13T01:26:51+0300
+### [email redacted] — 2012-04-13T01:26:51+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-14473>
 
 > **Slone07;14359 wrote:** 17 days!!!! I'm so impressed! Keep it up, girl!
@@ -21217,7 +21217,7 @@ Me too!!  Somehow tonight I feel like messing around!! But I so don't want to go
 
 I read your journal: you are doing amazing on the HCG! A little jaleous over here  I bet you feel amazing! How many days long is that round?
 
-### kathiebu@hotmail.com — 2012-04-13T01:36:24+0300
+### [email redacted] — 2012-04-13T01:36:24+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-14478>
 
 yes, yes, yes!!  I'm far from yours, MG, but one day at the time, I will get there! Journaling is helping me so much... This is funny because tonight I dont really have sugar cravings, but I feel like I could easily slip and binge on the first thing on my way. Luckily I don't have any coconut manna, nuts or chocolate around. I wasn't really hungry for dinner after having a little sauerkraut and some butter, but I ate 3 eggs and 1 avocado anyway, just to make just I'll be fine tonight. Plus, tomorrow I have blood testing so I have to go there on an empty stomach...When I eat and ignore my statiety feelings, it's like I can't stop myself once I start. I KNOW I'm not hungry, but I would continue anyway. Good I only made 3 eggs, I would have eaten a dozen if they would have been in front of me!!
@@ -21246,7 +21246,7 @@ Honestly, I don't feel as good as I did on the LR, so I'm eager to get back to i
 
 Stay in control of yourself. It feels so much better than the alternative.
 
-### kathiebu@hotmail.com — 2012-04-13T15:04:11+0300
+### [email redacted] — 2012-04-13T15:04:11+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-14661>
 
 19 days binge-free Woot! woot!!
@@ -21360,7 +21360,7 @@ Each binge was "better" than the last ... well, most ... I still ate half a cook
 
 2) You said your legs were swollen, how much water are you drinking? For your body weight you probably should be drinking at least 60 oz of water a day. Once you become hydrated, you will be amazed how the selling will go away.
 
-### kathiebu@hotmail.com — 2012-04-14T00:41:04+0300
+### [email redacted] — 2012-04-14T00:41:04+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-14896>
 
 > **MamaGrok;14889 wrote:** Heard a nice nugget from Dr. Kruse on one of the podcasts: If you fall, make sure you fall forwards.
@@ -21373,7 +21373,7 @@ When I started this journal, I was feeling like my old self... I was caught in t
 
 "Fat, protein, BAB...Fat, protein, BAB...rinse & repeat" Love it
 
-### kathiebu@hotmail.com — 2012-04-14T00:47:15+0300
+### [email redacted] — 2012-04-14T00:47:15+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-14901>
 
 > **paulalynn;14816 wrote: You're doing great!!! Everytime I read your journal I think to self "have to try kale"!!!
@@ -21398,7 +21398,7 @@ I don't remember on what book I read it, and my doctor also reminded me of that 
 
 Have a great week-end too Paula!!
 
-### kathiebu@hotmail.com — 2012-04-14T00:51:49+0300
+### [email redacted] — 2012-04-14T00:51:49+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-14905>
 
 > **shilohman;14897 wrote:** 1) If you haven't read Dr K's blog on the 10 supplements, then you need to.
@@ -21422,7 +21422,7 @@ That's \*exactly\* what I'm talking about!
 
 You know, of all the supplements that are supposed to kill a craving in its tracks, the only thing that ever worked for me was kombucha, and then it stopped working, too, lol.
 
-### kathiebu@hotmail.com — 2012-04-14T21:55:23+0300
+### [email redacted] — 2012-04-14T21:55:23+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-15119>
 
 20 ays binge-free!!
@@ -21459,7 +21459,7 @@ Hope you sleep well tonight. I feel for you; I can't stand when I have trouble w
 
 you're doing so weeeeeeeellll, i'm doing a lil cheerleading jig for you now! be glad you can't see it ;D
 
-### kathiebu@hotmail.com — 2012-04-15T00:38:21+0300
+### [email redacted] — 2012-04-15T00:38:21+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-15154>
 
 > **.lina;15216 wrote:** you're doing so weeeeeeeellll, i'm doing a lil cheerleading jig for you now! be glad you can't see it ;D
@@ -21478,7 +21478,7 @@ Just flipping through some of my old journal pages, and man, I had a lot of crap
 
 I still have occasional mysterious symptoms but needing a nap every day, feeling like death or a total bear for whole days ... gone. Good riddance.
 
-### kathiebu@hotmail.com — 2012-04-15T15:59:37+0300
+### [email redacted] — 2012-04-15T15:59:37+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-15291>
 
 > **MamaGrok;15283 wrote:** Just flipping through some of my old journal pages, and man, I had a lot of crappy days. It's amazing how long (two years) it took me to tie them to dairy, and to occasional wheat. My poor gut!
@@ -21491,7 +21491,7 @@ I'll try to learn from you
 
 What about butter? Can you have any? I'm not sure if it's a no-no for me...
 
-### kathiebu@hotmail.com — 2012-04-15T16:17:22+0300
+### [email redacted] — 2012-04-15T16:17:22+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-15294>
 
 21 days binge-free!! I can't believe it!! No binge, and I did stick to the Rx for 3 entire weeks!!  Thank's to that journal that helps me not to slack off!! And thank's to all of you encouraging me and showing me it going to be better one day! I was feeling so out of myself yesterday, this is better be worth it!! lol
@@ -21517,7 +21517,7 @@ Went I first start the Rx at the beginning of Febuary, I was sleeping like a bab
 
 I still don't know about butter. I haven't tried it on its own, except I know there was some in some of the dishes I had in Puerto Rico, and had no reaction to it. I suspect thatbutter, or at least ghee, will be okay for me, since I can have CO but not coconut products with the flesh in it.
 
-### kathiebu@hotmail.com — 2012-04-17T01:00:14+0300
+### [email redacted] — 2012-04-17T01:00:14+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-15743>
 
 22 days binge-free!
@@ -21540,7 +21540,7 @@ Daily walk: nop. It's raining
 
 Found a new way to get down the Maca podwer: I mix it with CO, raw chocolate and cinnamon, and I freeze it in a ball. I'm having another (minus the MP) for dinner. This is really delicious!
 
-### kathiebu@hotmail.com — 2012-04-17T01:12:52+0300
+### [email redacted] — 2012-04-17T01:12:52+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-15748>
 
 > **MamaGrok;15815 wrote:** 22 days!!!!
@@ -21552,7 +21552,7 @@ Next goal is to hit the 30 days mark, and I'm pretty confident I can reach it ea
 
 Good for you, 22 days. Just curious though, how bad have the urges/cravings been? Less or greater or totally gone?
 
-### kathiebu@hotmail.com — 2012-04-17T15:00:10+0300
+### [email redacted] — 2012-04-17T15:00:10+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-15857>
 
 Hi Shilohman!
@@ -21561,7 +21561,7 @@ I'd say a lot less to gone! It really depends of my BAB. If I don't have enough 
 
 How are you doing with the Rx?
 
-### kathiebu@hotmail.com — 2012-04-17T15:05:52+0300
+### [email redacted] — 2012-04-17T15:05:52+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-15860>
 
 23 days binge-free!!
@@ -21587,12 +21587,12 @@ As I sat in the tub after dinner, it rang at the door. Had to get out and run do
 
 I went through similar sleep problems mid-LR. I can't say what started or stopped it; maybe it was circadian hormone rearranging. I didn't have big problems with DHEA, melatonin, or other things that usually plague those with sleep problems. My sleep was perfect before (albeit TOO LENGTHY, but solid), and is now again (still too lengthy! Tired of waking sleepy after 9+hrs!).
 
-### kathiebu@hotmail.com — 2012-04-17T19:12:30+0300
+### [email redacted] — 2012-04-17T19:12:30+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-15913>
 
 Can't wait to get my labs back to see what's wrong!! I'll also be starting progesterone this week, I've read that it can help with sleep too....
 
-### kathiebu@hotmail.com — 2012-04-18T19:24:01+0300
+### [email redacted] — 2012-04-18T19:24:01+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-16240>
 
 24 days binge-free! Can't believe I'm not hungry at night anymore and that the cravings are so rare now.
@@ -21611,7 +21611,7 @@ Energy: so far so good. Maybe 7/110.
 
 Daily walk: will do it tonight. (45 minutes)
 
-### kathiebu@hotmail.com — 2012-04-20T03:39:32+0300
+### [email redacted] — 2012-04-20T03:39:32+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-16850>
 
 25 binge-free days
@@ -21632,7 +21632,7 @@ Daily walk: 1 hour this afternoon under the sun
 
 Went to a market today and found a butcher with organic and grassfed beef. Was so glad! People are not into that at all in here, and this is the first place I find with any. I always ask when I go to a new butcher, and they give me strange looks...I guess they never heard of that. There's a few farms an 100 miles from here where I can order online, but you can't choose the cuts, they only sell pre-esthablished packages. It was a bit expensive, I'll do more research to see if I can find something more affordable.
 
-### kathiebu@hotmail.com — 2012-04-20T17:26:44+0300
+### [email redacted] — 2012-04-20T17:26:44+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-17068>
 
 26 days binge-free. It's getting so much easier, binging seems like an old memories now. I can see the 30 days mark coming and so exited about it!
@@ -21667,7 +21667,7 @@ Happy Friday
 
 Isn't it great when you get that far that not only does it seem long ago, but you can't really imagine doing it now? Toward the end of my whole30, I was hanging on by the nails for dear life, and fell apart before it ended, but this year, I'm doing a whole30/60/90/whatever it takes me to without trying, no problem, no clinging to the edge, but steadily on top of the cliff and far away from the brink!
 
-### kathiebu@hotmail.com — 2012-04-21T15:54:52+0300
+### [email redacted] — 2012-04-21T15:54:52+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-17364>
 
 > **paulalynn;17190 wrote:** I'm so glad you slept better. It's so awesome that the binging has been become a part of the past!
@@ -21684,14 +21684,14 @@ Thank's Paula. I read somewhere on the forum that's what Jonathan is doing for V
 
 Have a nice week-end!!
 
-### kathiebu@hotmail.com — 2012-04-21T15:57:32+0300
+### [email redacted] — 2012-04-21T15:57:32+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-17365>
 
 > **MamaGrok;17265 wrote:** Isn't it great when you get that far that not only does it seem long ago, but you can't really imagine doing it now? Toward the end of my whole30, I was hanging on by the nails for dear life, and fell apart before it ended, but this year, I'm doing a whole30/60/90/whatever it takes me to without trying, no problem, no clinging to the edge, but steadily on top of the cliff and far away from the brink!
 
 Yessssss  It's funny, I'm wondering how I could have done it!! And for so long! I know the war is not ended, I will have to battle the urge to binge again, but thank's to the Rx, now i know it's possible to go with no cravings. Viva BAB!!
 
-### kathiebu@hotmail.com — 2012-04-21T22:13:28+0300
+### [email redacted] — 2012-04-21T22:13:28+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-17515>
 
 27 bingre-free day and week 4 is almost completed!!
@@ -21725,7 +21725,7 @@ Doing good girl!! I need to catch up with you on the CT. I purchased the webinar
 
 Have a good weekend!
 
-### kathiebu@hotmail.com — 2012-04-21T22:57:50+0300
+### [email redacted] — 2012-04-21T22:57:50+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-17533>
 
 lol No, that's not a good excuse!!  I don't have separate cold tap neither, I just turn it a little to get only cold water. It takes very long to fill up the tub, but I better like to sit in it once it's full. I started with warmer water (maybe 18C/65F), and once I felt confortable in that temperature for 30 minutes, I gradually decrease the temperature. It didn't take that long though. Just do it. It's not really pleasant at first, but if you do it at your rythm, it's gonna get easier that you thought. And it seems to be THE WAY to speed healing, to balance hormones and to lose weight.
@@ -21739,7 +21739,7 @@ I'm sorry you missed the webinar! It was pretty interesting. Next one will be ab
 
 Sounds awesome. Oh I can't wait to listen to the webinar. I guess there were some technical issues so the good news is they emailed it to anyone who purchased it & weren't able to listen. I have to add krill oil to my supplements too. OK, tub tomorrow..."Just like liposuccion"...I'm in!
 
-### kathiebu@hotmail.com — 2012-04-22T16:25:59+0300
+### [email redacted] — 2012-04-22T16:25:59+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-17716>
 
 Beginning of week 5!!  And 28 days binge free!
@@ -21762,7 +21762,7 @@ I think I souldn't have lunch. It's been like that for a few days. I'm not hungr
 
 At 6 pm, I was still full from lunch! What the heck? I had a little dinner anyway to make sure I could go through the night, but I def ate too much today. Feel really full and stonac is a little upset...
 
-### kathiebu@hotmail.com — 2012-04-24T01:22:33+0300
+### [email redacted] — 2012-04-24T01:22:33+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-18194>
 
 29 days binge-free
@@ -21792,14 +21792,14 @@ Must I say it? OK, I must.
 
 YOU ROCK!
 
-### kathiebu@hotmail.com — 2012-04-24T01:31:43+0300
+### [email redacted] — 2012-04-24T01:31:43+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-18201>
 
 Thank's Darleen!!!!
 
 You rock too, you had a great week-end....with NO pop corn last night!! Whoot! Whoot!! It's been almost a month for you on the reset, how do u feel??
 
-### kathiebu@hotmail.com — 2012-04-24T16:33:57+0300
+### [email redacted] — 2012-04-24T16:33:57+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-18344>
 
 30 days binge-free!! Record broken!! I'm so, so, exited about this!! It's becoming easier everyday!!
@@ -21829,14 +21829,14 @@ Yah!! Broken record!!! Way to go
 
 I wish I could help you on the sleep trouble. I've had bad stretches too but luckily it's been a while. I guess you've tried the typical recommendations, like meditation, homeopathics (rescue sleep), etc. Have you ever heard of EFT? It seems to help some people. Here's a like to an article [http://articles.mercola.com/sites/articles/archive/2002/12/07/eft-sleep.aspx](http://http://articles.mercola.com/sites/articles/archive/2002/12/07/eft-sleep.aspx) Or just google EFT+sleep & you'll get some You Tube videos. Looks a little hokey pokey but I've used it. That's my cents on sleep....Whoooot Whoooot on the 30 day Binge-Free mark!!!
 
-### kathiebu@hotmail.com — 2012-04-25T00:22:30+0300
+### [email redacted] — 2012-04-25T00:22:30+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-18496>
 
 Thank's Paula
 
 Yes, I've tried it all...Meditation, hypnosis, supplements, herbal tea, medication...Never heard of EFT, I'll have a look, i'm open to anything that could possibly help!!
 
-### kathiebu@hotmail.com — 2012-04-25T17:12:17+0300
+### [email redacted] — 2012-04-25T17:12:17+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-18699>
 
 31 days binge-free
@@ -21859,7 +21859,7 @@ I've seen better days. I'm pissed off today. I'm 32 y/o, I worked really hard to
 
 Had increased energy around 5 for 2 hours or so...It's like my day was beginning! Going out for a walk. No more TV or computer for the night.
 
-### kathiebu@hotmail.com — 2012-04-27T01:04:43+0300
+### [email redacted] — 2012-04-27T01:04:43+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-19168>
 
 32 days binge-free!!  Was seriously thinking about that number this afternoon when I was cravings macaroons...
@@ -21900,7 +21900,7 @@ Hang in there. Someday we'll be inspiring others' with our story. 32 days  binge
 
 Detox! Congratulations! You just got rid of some crap! (I used to get ... overwhelmed... when I felt overwhelmed. Now it's a very clear pattern of detox and I just wait it out, grumping at the world, though, till it's gone.)
 
-### kathiebu@hotmail.com — 2012-04-29T18:20:48+0300
+### [email redacted] — 2012-04-29T18:20:48+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-19826>
 
 LOL. Congrats?  I'm not sure if it's detox or the lack of sleep. Didn't sleep much last week and was so, so exhausted. Had to take sleep pills  I'm way too stressed, and not sleeping adds on on the stress. Those last few days, I felt I was on an emergency mode all the time. Any little thing that usually don't bother me were stressing me out so much. Like mini panic attack all day! And of course couldn't shut down the brain at night, even with meditation or breathing exercices. So I took pills the last 2 nights...I ordered DHEA and pregnenolone, hoping it's gonna help.
@@ -21912,14 +21912,14 @@ For me, one of my biggest signs of either "I accidentally ate something my body 
 
 I felt that way Friday and needed sleep all day, but it didn't make sense ... I had had enough sleep. I started DHEA two weeks ago, then after a few days found myself not able to get to sleep at night, so stopped it. Don't know how it may all be tied together.
 
-### kathiebu@hotmail.com — 2012-04-30T02:52:07+0300
+### [email redacted] — 2012-04-30T02:52:07+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-19970>
 
 MG, I know what you mean because I was feeling like that when I first started CT. I knew it was some detoxing, so I could live with it and actually told myself it was a good sign. But those last few days, it was clearly linked to the lack of sleep and high stress. It's been years with so-so sleep, and when I'm just not sleeping at all, it's like a switch turns on and I go nuts!
 
 I took some PC today along with L-Theanine, and I can really feel the difference. I'm more calm and the "noise" in my brain, as Souldanzer would say, has decreaded a lot. I know it's not the best, but I'll use the sleeping pills for a few nights, to make sure I sleep well and rest a little. And in 2 weeks I'll get out of the city to visit my parents and relax, that should help a lot too.
 
-### kathiebu@hotmail.com — 2012-04-30T03:02:52+0300
+### [email redacted] — 2012-04-30T03:02:52+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-19973>
 
 35 days binge-free
@@ -21945,14 +21945,14 @@ Yah for you!!! No binge! We have over a month Binge Free!
 
 I"m sorry to hear your sleep is so off. I KNOW that sucks. I hope you find your answer soon.
 
-### kathiebu@hotmail.com — 2012-05-01T14:54:05+0300
+### [email redacted] — 2012-05-01T14:54:05+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-20335>
 
 Thank's ladies  I'm truly amazed how good I'm doing despite the sleep. I'm so, so glad about it!!
 
 I've taken sleeping pills for a few nighths, and this morning I'm waking up exhausted anyway. I might drop them, now that the "crisis" is over and see how it goes.
 
-### kathiebu@hotmail.com — 2012-05-01T15:04:12+0300
+### [email redacted] — 2012-05-01T15:04:12+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-20339>
 
 37 days binge-free!!
@@ -21980,14 +21980,14 @@ I'm more relax tonight, it feels good. I'll go to bed with no pills, only supple
 
 A new baby in the family!!! Congrats Auntie K!
 
-### finnite@dccnet.com — 2012-05-01T15:52:10+0300
+### [email redacted] — 2012-05-01T15:52:10+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-20353>
 
 yeah you for 37 days binge free!!
 
 fÃ©licitacions Ã  la naissance de votre neveu
 
-### kathiebu@hotmail.com — 2012-05-01T19:37:22+0300
+### [email redacted] — 2012-05-01T19:37:22+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-20474>
 
 Thank you!!  I'm so happy about this. This little bundle of love is amazing and it helps put all my problems in perspective. Doesn't help to sleep though, but it sounds less dramatic
@@ -22000,7 +22000,7 @@ Sorry about that, I'm rambling
 
 Have a good day everyone
 
-### kathiebu@hotmail.com — 2012-05-01T19:45:51+0300
+### [email redacted] — 2012-05-01T19:45:51+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-20484>
 
 Colleen, your French is pretty good. Impresionnant. Tu parles courament?
@@ -22037,7 +22037,7 @@ So THAT's where the word 'nephew' came from!
 
 Congratulations!
 
-### kathiebu@hotmail.com — 2012-05-02T02:03:01+0300
+### [email redacted] — 2012-05-02T02:03:01+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-20556>
 
 Thank's MG!
@@ -22050,7 +22050,7 @@ I'm doing muuuuch better with binging now, so I know I have other positive thing
 
 I'll report back after my appointment with doc tomorrow. Can't wait to see what is gonna tell me...have a nice evening everyone.
 
-### kathiebu@hotmail.com — 2012-05-02T13:18:50+0300
+### [email redacted] — 2012-05-02T13:18:50+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-20628>
 
 38 days binge-free
@@ -22076,7 +22076,7 @@ Energy: even with no sleep at all, I feel pretty great and have good energy. Wen
 
 Today you go to the doc yes?!?! I am excited for you. Happy Wednesday. Hope all goes well. I will be thinking about you.
 
-### finnite@dccnet.com — 2012-05-02T16:06:28+0300
+### [email redacted] — 2012-05-02T16:06:28+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-20645>
 
 > **AbetterME;20557 wrote:** Colleen, your French is pretty good. Impresionnant. Tu parles courament?
@@ -22085,7 +22085,7 @@ lol, merci beacoup! Vous Ãªtes trop gentils
 
 J\`ai mon bac en franÃ§ais et les enfants assistent Ã  l\`Ã©cole d\`immersion mais Ã  Vancouver il y a peu de chances de parler franÃ§ais
 
-### finnite@dccnet.com — 2012-05-02T16:07:38+0300
+### [email redacted] — 2012-05-02T16:07:38+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-20646>
 
 > **AbetterME;20701 wrote:** 38 days binge-free
@@ -22123,19 +22123,19 @@ I hope all goes well with the doc today!!! And by the way, the burping thing, I'
 
 Looking forward to hearing about your visit with the doc!
 
-### kathiebu@hotmail.com — 2012-05-02T23:34:36+0300
+### [email redacted] — 2012-05-02T23:34:36+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-20826>
 
 Thank's v!! Happy Wednesday to you to!!
 
-### kathiebu@hotmail.com — 2012-05-02T23:35:17+0300
+### [email redacted] — 2012-05-02T23:35:17+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-20827>
 
 > **vkiernan;20703 wrote:** Today you go to the doc yes?!?! I am excited for you. Happy Wednesday. Hope all goes well. I will be thinking about you.
 
 Thank's v! happy Wednesday to you to!
 
-### kathiebu@hotmail.com — 2012-05-02T23:36:29+0300
+### [email redacted] — 2012-05-02T23:36:29+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-20828>
 
 > **ColleenM;20718 wrote:** lol, merci beacoup! Vous Ãªtes trop gentils
@@ -22146,7 +22146,7 @@ Thank's v! happy Wednesday to you to!
 
 Oh nice! And good for the kids!! Mais c'est vrai qu'Ã  Vancouver, Ã§a ne sert pas beaucoup...Mais tout de mÃªme, c'est une belle opportunitÃ© pour eux!
 
-### kathiebu@hotmail.com — 2012-05-02T23:37:43+0300
+### [email redacted] — 2012-05-02T23:37:43+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-20829>
 
 > **paulalynn;20745 wrote:** I hope all goes well with the doc today!!! And by the way, the burping thing, I've had that too! Mine started about a year ago but I was eating crap so I figured that's what it was. It was worse in the morning before I ate. It went away for a while but it's back on & off again but I can't seem to connect it to a specific food.
@@ -22159,7 +22159,7 @@ Thank's Paula!!
 
 Interesting about the burping...It's really new to me, and generally occurs after dinner...Will have to take more notes....
 
-### kathiebu@hotmail.com — 2012-05-02T23:56:55+0300
+### [email redacted] — 2012-05-02T23:56:55+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-20832>
 
 Just got back for the Dr office...In French, we say it was whatever...N'importe quoi!! I got out with few prescriptions, but he didn't seem to see what was the interest for testing any hormones...Oh well...
@@ -22177,7 +22177,7 @@ I hear you on the "whatever"! I have a feeling I'm going to be leaving my appt t
 
 A few years ago when I was going through a really stressful time my doc gave me Elavil for sleep. He knows I hate taking any medication but assured me it wasn't addictive & it was a really low does. I have to admit the first night I took it I fell in love with the stuff. I slept so well. I took it for months and gradually weaned myself off with no problems (at least none that I know of!). I'd be interested to know what others think about it. Back in November, because of another period of stress and being at my wits end with the type of sleep you described I asked for a script for it again. It's such a comforting feeling knowing that you're going to sleep! Good luck & if you decide to take it; have a good sleep!
 
-### kathiebu@hotmail.com — 2012-05-03T02:30:29+0300
+### [email redacted] — 2012-05-03T02:30:29+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-20862>
 
 At least I didn't pay to see him for nothing, I've got prescriptions for the next year...I didn't wait and finally ordered the labs online. If I can get some of them with my friend that's fine, but he can't prescribe cortisol salavi tests anyway, and that way I'll make sure I have all the information I need asap.
@@ -22207,7 +22207,7 @@ I don't understand why docs do that either - they tell you something and change 
 
 If nothing else, maybe you will sleep. That in itself will comfort you and make you feel better.
 
-### kathiebu@hotmail.com — 2012-05-03T14:53:16+0300
+### [email redacted] — 2012-05-03T14:53:16+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-20933>
 
 39 days binge-free
@@ -22228,7 +22228,7 @@ Daily walk: 30 minutes
 
 Energy. A little low as I got up (bc of the pills). Felt kind of foggy for a couple of hours. Energy was good in the afternoon and stil good in the evening!!
 
-### kathiebu@hotmail.com — 2012-05-04T02:57:24+0300
+### [email redacted] — 2012-05-04T02:57:24+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-21173>
 
 > **vkiernan;20950 wrote:** Not great but better. At least he willing to try something. The DHEA will be good for you and your adrenals. The progesterone should help too. Those can both help you sleep better. Interesting on the T3. You must have thyroid issues.
@@ -22267,7 +22267,7 @@ sibo.........
 
 For sure you will get better. All in good time. It took me forever to start sleeping better - could have been the dhea. I started that almost 2 months ago. Yes, your FT3 should be at the top of the range.
 
-### kathiebu@hotmail.com — 2012-05-04T15:26:39+0300
+### [email redacted] — 2012-05-04T15:26:39+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-21292>
 
 40 days binge-free!!
@@ -22288,7 +22288,7 @@ Energy: not much...
 
 Basically, this is a day to forget about... Ate too much fruits, too much nuts (wasn't home and was hungry...). Very tired, which doesn't help at all with the food. Feeling like having Sushis tonight, but I won't. I'll behave myself for the rest of the day.
 
-### finnite@dccnet.com — 2012-05-04T15:57:56+0300
+### [email redacted] — 2012-05-04T15:57:56+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-21298>
 
 > **AbetterME;21248 wrote:** Can't wait to try the DHEA! Dr said I might be having thiroid problem since T3 is normal-low...I'm not gonna start it now though, I'll go with DHEA first and see how I feel before I add somethig else.
@@ -22299,14 +22299,14 @@ Basically, this is a day to forget about... Ate too much fruits, too much nuts (
 
 dhea won\`t affect the T3 much fwiw.
 
-### kathiebu@hotmail.com — 2012-05-05T02:31:45+0300
+### [email redacted] — 2012-05-05T02:31:45+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-21468>
 
 Thank's Colleen.
 
 Do you know what time of the month is better to test E/T/PROG/DHEA...First or second half on my cycle?
 
-### kathiebu@hotmail.com — 2012-05-05T14:28:55+0300
+### [email redacted] — 2012-05-05T14:28:55+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-21587>
 
 41 days binge-free!!
@@ -22378,7 +22378,7 @@ sent from my phone while wrangling at least 1 toddler...expect typos, smile when
 
 I have to try this too. I just read about it in the last couple of days while researching other issuesand completely forgot about it!!
 
-### kathiebu@hotmail.com — 2012-05-06T19:59:52+0300
+### [email redacted] — 2012-05-06T19:59:52+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-21789>
 
 Thank's girls!  Didn't sleep as well last night, but I least I slept all night.
@@ -22387,7 +22387,7 @@ Thank's girls!  Didn't sleep as well last night, but I least I slept all night.
 
 Have a good day all
 
-### kathiebu@hotmail.com — 2012-05-06T20:10:12+0300
+### [email redacted] — 2012-05-06T20:10:12+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-21791>
 
 42 days binge-free!!
@@ -22417,7 +22417,7 @@ Wondering if I should add some HCL to the supplements I'm taking...No bloating, 
 
 Crappy days suck!!! But...there have been improvements; you rarely think about "blowing it"!!! That's a big improvement!
 
-### kathiebu@hotmail.com — 2012-05-07T02:42:45+0300
+### [email redacted] — 2012-05-07T02:42:45+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-21856>
 
 @ paula: you are right!!  it's not a daily battle anymore, I am so grateful of that!!
@@ -22431,7 +22431,7 @@ IM feeling much better now...cortisol is probably high at night...Can't wait to 
 
 True MamaGrok. You are tweaking your habits and improving personal food choices. I am reset after losing 130 pounds but have one weak spot, spicy Cheetos. Don't know why. I can resist everything else, those Cheetos just gnaw at my cravings especially when stressed or sleep deprived.
 
-### kathiebu@hotmail.com — 2012-05-07T15:10:11+0300
+### [email redacted] — 2012-05-07T15:10:11+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-21909>
 
 43 days binge-free
@@ -22452,14 +22452,14 @@ Daily walk: an hour at llunch time
 
 Energy: surprising, but ok...
 
-### kathiebu@hotmail.com — 2012-05-08T01:20:09+0300
+### [email redacted] — 2012-05-08T01:20:09+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-22042>
 
 Got my saliva test from Canary Club!  But I have to wait a few days to do it because i'm only on day 8...Can't wait to do it and have the results!! I'm gonna get progesterone and 7-keto DHEA this week, put I guess I'm better to do the testing before I start...
 
 No CT 'til then...I'm missing it...And my tights too. They are way less firm then they use to be when I Ct...Well, it's for a good cause
 
-### kathiebu@hotmail.com — 2012-05-08T23:21:38+0300
+### [email redacted] — 2012-05-08T23:21:38+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-22360>
 
 44 days binge-free!!
@@ -22480,7 +22480,7 @@ Energy: very low all day, and came to life around dinner time
 
 Added HCL at lunch...no effect at all. Will go with 3 pills for dinner...
 
-### kathiebu@hotmail.com — 2012-05-10T00:02:38+0300
+### [email redacted] — 2012-05-10T00:02:38+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-22674>
 
 45 days binge-free!!!
@@ -22501,7 +22501,7 @@ Energy: way better than the last few days. Maybe 6/10
 
 Went to pick up my supplements in the states today (7-keto DHEA, Pregnolone, PS and DIM). Was expecting a gallon of CO, but it wasn't there yet  I wanted to wait until I get my sakiva test done to start DHEA and preg, but I am so lokking forward a few nights sleep that I'll start them first thing tomorrow!!
 
-### kathiebu@hotmail.com — 2012-05-11T00:29:16+0300
+### [email redacted] — 2012-05-11T00:29:16+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-23032>
 
 46 days binge-free!!
@@ -22533,14 +22533,14 @@ You don't think the date would have understood the rationale behind the orange g
 
 Good luck with the new supplements! Question for you...I was looking into the saliva testing, did you use canary labs? I don't know if we have lots to choose from here in Canada.
 
-### kathiebu@hotmail.com — 2012-05-11T01:45:08+0300
+### [email redacted] — 2012-05-11T01:45:08+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-23044>
 
 @ paula: lol I didn't want to kill the first impression and have him run away!!! I'll wait a bit before talking about my odd habits
 
 I did order the tests through Canary Labs (205$ for cortisol and female hormones, including shipping). Rocky Mountain Labs is also avalaible in Canada, but the tests have to be ordered by a Dr...
 
-### kathiebu@hotmail.com — 2012-05-13T00:59:11+0300
+### [email redacted] — 2012-05-13T00:59:11+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-23528>
 
 48 days binge-free!
@@ -22566,7 +22566,7 @@ Congrats on 49 days...that's 7 weeks!!!!!
 
 sent from my phone while wrangling at least 1 toddler...expect typos, smile when you see them...the toddlers or the typos
 
-### kathiebu@hotmail.com — 2012-05-13T21:38:52+0300
+### [email redacted] — 2012-05-13T21:38:52+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-23730>
 
 Thank's kate!!  yep, 7 weeks. Can't believe it myself
@@ -22583,7 +22583,7 @@ Dinner: lobster and veggies
 
 Will do my saliva test tomorrow, can't wait to go back to CT!!
 
-### kathiebu@hotmail.com — 2012-05-15T15:37:47+0300
+### [email redacted] — 2012-05-15T15:37:47+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-24183>
 
 51 days binge-free! I see the 60-days mark coming
@@ -22600,12 +22600,12 @@ Going to my mom's tomorrow for a couple of days. Can't wait to get out of the ci
 
 Going back on Ct today...Sitting in the tub as I'm typing, aiming for 30 minutes. Water is a little warmer than usual ( alot warmer actualy, after checking -65F-). I'll try to do some Ct at my mom's she has a really deep tub, its gonna more confortable than mine.
 
-### nosnhojjennifer@yahoo.com — 2012-05-15T16:03:03+0300
+### [email redacted] — 2012-05-15T16:03:03+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-24192>
 
 Thanks for stopping by to cheer me up, ABetterME! You are an inspiration! Enjoy your time with your mum!
 
-### kathiebu@hotmail.com — 2012-05-17T17:55:58+0300
+### [email redacted] — 2012-05-17T17:55:58+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-24916>
 
 53 days binge-free
@@ -22623,17 +22623,17 @@ Spent the whole day yesterday in car with my mom...And told her about my past ED
 
 I'm glad the conversation went well with your Mom and that you feel good about it. What a relief that must be  I hope you enjoy every minute of your 2 weeks away!
 
-### nosnhojjennifer@yahoo.com — 2012-05-17T22:31:27+0300
+### [email redacted] — 2012-05-17T22:31:27+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-24996>
 
 How awesome and healing for you and your mom! I applaud your bravery!
 
-### kathiebu@hotmail.com — 2012-05-18T20:11:09+0300
+### [email redacted] — 2012-05-18T20:11:09+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-25255>
 
 Thank's Jennifer!! It is sure healing for me. It's easier to talk about it now that I'm much better, but still...I'm glad my mom now knos about what I went through.
 
-### kathiebu@hotmail.com — 2012-05-18T20:33:23+0300
+### [email redacted] — 2012-05-18T20:33:23+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-25266>
 
 54 days binge-free!
@@ -22644,7 +22644,7 @@ Did Ct in the tub this morning. Started at 44F and finished at 55F. Lasted an ho
 
 I'm doing good with food. Had a chocolate craving yesterday, but didn't have any. It is usualy pretty challenging to stay at my mom's, she loves to cook, especially cakes and deserts. But now that she knows about my past, she doesn't push anymore so I have any.
 
-### kathiebu@hotmail.com — 2012-05-19T18:50:19+0300
+### [email redacted] — 2012-05-19T18:50:19+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-25523>
 
 55 days binge-free
@@ -22660,7 +22660,7 @@ Getting ready to listen to the webinar...Can't wet to hear about the Factor X!!
 
 Glad things are going well. Enjoy the webinar. I can't be home on Saturday's when they start so I couldn't sign up for today. I think I'll become a member so that I can watch it.
 
-### kathiebu@hotmail.com — 2012-05-20T18:53:00+0300
+### [email redacted] — 2012-05-20T18:53:00+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-25731>
 
 57 days binge-free
@@ -22673,7 +22673,7 @@ I did split up a little with food...Was craving fruits, so I had a banana in the
 
 Didn't do CT this morning. Might go in the river, but my mom is freaking out about it, she sais is too dangerous. I'd love to try it anyway
 
-### kathiebu@hotmail.com — 2012-05-20T22:41:01+0300
+### [email redacted] — 2012-05-20T22:41:01+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-25811>
 
 I did it! Did Ct in the river, with the sun heating me up...That was awesome! Didn't bring my thermometer, but will do tomorrow. Stayed for 20 minutes, sitting with water covering my waist. Love it. So much nicier to do it outside. Cant wait to do it again
@@ -22685,7 +22685,7 @@ I did it! Did Ct in the river, with the sun heating me up...That was awesome! Di
 
 Awesome! Hehe...so glad you didn't listen to your Mom
 
-### kathiebu@hotmail.com — 2012-05-21T22:07:04+0300
+### [email redacted] — 2012-05-21T22:07:04+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-26078>
 
 I feel like crap today. Slept all night but got up very tired. As all my summer clothes dont fit anymore, I went shopping to buy a few things...Didn't stay long. Nothing fitted, I was really discouraged....Didnt buy anything. Was having sugar craviing after lunch time. Had a banana. Stupid me. Not the end of the world, but that wasn't wise. Now i feel even more crapier, Im nauseous, my belly hurts  Is it detox? Is it because TOM is coming in a few days? Very emotional too... IDK.. I wish I would go to bed and wake up tomorrow. And wake up LS too
@@ -22697,17 +22697,17 @@ I read the blog about leaky gut earlier...thinking about removing eggs from my d
 
 Hope you're feeling much better soon! A banana is definitely not the end of the world!
 
-### kathiebu@hotmail.com — 2012-05-22T03:20:40+0300
+### [email redacted] — 2012-05-22T03:20:40+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-26160>
 
 Nope, it's not that bad, you,re right  I got myself together and went Ct in the river again for 30 minutes. Gonna kill those those fat cells!!
 
-### kathiebu@hotmail.com — 2012-05-23T23:23:18+0300
+### [email redacted] — 2012-05-23T23:23:18+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-26825>
 
 No Ct yesterday. Slept very well last night. Was in bed at 10, woke up once at 3, went back to sleep until 6:30 or so. But even when I sleep better, I feel kind of lethargic all day anyway. When I eat I feel better, but it doesn't last long. Cut the eggs yesterday  I love eggs, so easy and so convenient. But getting my health back would be even more convenient, so I'll give it a try... I replaced them by canned fish. I know it's not optimal, but I'll do better once I go back home.
 
-### kathiebu@hotmail.com — 2012-05-23T23:34:23+0300
+### [email redacted] — 2012-05-23T23:34:23+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-26831>
 
 Got my saliva test results this morning...And I don't know what to think. I was expecting something wrong with the cortisol since my energy is really low in the morning and because of bad sleep (and also increased waist line), but it appears to be pretty normal. Was also expecting higher estradiol (fat in thigh and hips).
@@ -22785,7 +22785,7 @@ I was surprised by my cortisol results for the same reason, but your morning is 
 
 IDK enough to figure out anything else, or the total picture.
 
-### kathiebu@hotmail.com — 2012-05-24T00:33:35+0300
+### [email redacted] — 2012-05-24T00:33:35+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-26848>
 
 Thank's MG.
@@ -22794,7 +22794,7 @@ Just reading a little on PCOS...Never had excess or dark body/facial hair, but I
 
 Again, what's wrong with me??!!
 
-### kathiebu@hotmail.com — 2012-05-24T00:44:40+0300
+### [email redacted] — 2012-05-24T00:44:40+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-26849>
 
 Also, I went for blood testing 6 weeks ago, and T was normal to low (Testosterone T. 1.3 (0-2.9 nmol/L))
@@ -22806,12 +22806,12 @@ Also, I went for blood testing 6 weeks ago, and T was normal to low (Testosteron
 
 Such a mystery, isn't it? I know some prefer salivary & some prefer blood for hormones; there is a regular T and a high sensitivity T test for females; I don't know if T varies cyclically; I do know cycle irregularities are a major red flag that most docs would prefer to cover up with BCP rather than treat; I don't know much else.
 
-### kathiebu@hotmail.com — 2012-05-24T01:03:07+0300
+### [email redacted] — 2012-05-24T01:03:07+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-26857>
 
 Thank's again, MG, hopefully someone will be able to help me
 
-### kathiebu@hotmail.com — 2012-05-25T00:58:01+0300
+### [email redacted] — 2012-05-25T00:58:01+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-27189>
 
 61 binge-free day!! yah to me!! Can't believe it's been 2 MONTHS with no binge!!!
@@ -22829,7 +22829,7 @@ It really has seemed to go so fast; I can't believe you're already there, too!
 
 I never made it that far till the last time, so, here's hoping this is absolutely the end of binges for you!
 
-### kathiebu@hotmail.com — 2012-05-25T15:05:42+0300
+### [email redacted] — 2012-05-25T15:05:42+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-27289>
 
 Thank's MG! I'm so glad about it!! Now I'm aiming for 100 days
@@ -22842,7 +22842,7 @@ Will get some new supplements when I go back home. Will do testing again to chec
 
 That means I'll have to stop CT again until I test  I feel much better this week, I'm going to miss it. Plus, I feel leaner and my stomac has reduced in size. But testing is priority right now. Dr Kruse is so right: we can't guess, we have to test. I was working on lowering cortisol and I might only have lose my time and money. I still don't understand why my doc don't do more testing before assuming x or y problem...
 
-### kathiebu@hotmail.com — 2012-05-26T16:56:08+0300
+### [email redacted] — 2012-05-26T16:56:08+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-27627>
 
 Whoot whoot!!  Am I getting my life back? Third day in a row than I feel good!! Not fantastic because I'm a little tired, but so much better than the last months!! I'm not a zombie anymore!! Is it because I don't eat eggs anymore? Is it because I'm not taking my adrenal support supplements? Whatever it is, I'M really glad about it, it feel so great to be myself again!
@@ -22854,14 +22854,14 @@ Upped the 7-keto DHEA to 75 mg yesterday and will add another 50 mg today. Slept
 
 WooHoo, good for you. Glad you are doing better. You will love the consult. Make sure you add your history and don't be brief.
 
-### kathiebu@hotmail.com — 2012-05-26T17:56:30+0300
+### [email redacted] — 2012-05-26T17:56:30+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-27646>
 
 > **vkiernan;27728 wrote:** WooHoo, good for you. Glad you are doing better. You will love the consult. Make sure you add your history and don't be brief.
 
 Thank's V! I read what you wrote about your consult and I'll make sure to write my whole history!! Can't wait to talk to him. I'll have to wait for my blood test to come back, and it's pretty long, I've been told it takes 32 days to get the DHEAs result, that means I won't have the consult before end of June/beginning of July.
 
-### kathiebu@hotmail.com — 2012-05-26T18:00:50+0300
+### [email redacted] — 2012-05-26T18:00:50+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-27648>
 
 I posted this in The Lab forum:
@@ -23132,7 +23132,7 @@ At wakeup look (almost) straight at the sun for 15 min, or high intensity light.
 
 I also asked in the Ask Jack section what I should do about testing Testosterone (saliva or blood), and he told me he prefer AM fasting blood test.
 
-### kathiebu@hotmail.com — 2012-05-28T16:52:22+0300
+### [email redacted] — 2012-05-28T16:52:22+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-28026>
 
 Went to bed at 9:30 last night, was so tired b/c of poor sleep the night before and driving all day to come back home. Was asleep pretty fast and went on til 4:30. I'm in pretty good shape this morning. Went for blood testing and just had my BAB. Made an iced coffee with coconut milk, cinamon and dark chocolate. Was so, so...Not a fan of the coconut milk taste. Will do it w/o the next time and will add much more ice.
@@ -23148,7 +23148,7 @@ Oh, and I forgot: 65 days binge-free!!
 
 ghee ... my understanding is you melt the butter and just skim off the foamy gunk. That's why it's aka clarified butter.
 
-### kathiebu@hotmail.com — 2012-05-29T01:30:05+0300
+### [email redacted] — 2012-05-29T01:30:05+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-28093>
 
 Thank's Darleen!! Will try it this week
@@ -23158,12 +23158,12 @@ Thank's Darleen!! Will try it this week
 
 Jansz is a great guy......wish he'd come around more.
 
-### kathiebu@hotmail.com — 2012-05-29T03:37:15+0300
+### [email redacted] — 2012-05-29T03:37:15+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-28108>
 
 I agree, and he's really good!!
 
-### kathiebu@hotmail.com — 2012-05-29T03:40:15+0300
+### [email redacted] — 2012-05-29T03:40:15+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-28110>
 
 Did some CT tonight: 20 minutes in a warm-ish bath (60F) + an hour of ice packs on belly. I'll miss the river at my mom's!!
@@ -23191,7 +23191,7 @@ I would show up more, but it is hard keep track of so many things happening on s
 
 .
 
-### kathiebu@hotmail.com — 2012-05-30T01:24:18+0300
+### [email redacted] — 2012-05-30T01:24:18+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-28252>
 
 66 days binge-free!!
@@ -23221,14 +23221,14 @@ Food is still ok. Ate at 8 this morning and then at 3:30. Did some ghee butter t
 
 Mornin'. My experience with this whole thing is some days I feel good and some days I just don't. I keep doing mainly the same things. As for the mag, what kind are you taking and how much? Dr. K recommends that new mag theonate (sp). I still have to order it. Although, sleep does have a lot to do with it. Sounds like your sleep is finally a little better. I also think with CT'ing that it just keeps fixing things which tax our bodies in ways we can't see. Might be why some days are good and some are bad. How much energy is being used to fix something we are unaware. Anyway, that's my "best" guess! We gotta just keep rollin' with it. I also think people like you and me who really need some fixin' will just take a long time to get better and as long as we make some progress, even if small that is a win and we are in the right direction.
 
-### kathiebu@hotmail.com — 2012-05-30T15:47:31+0300
+### [email redacted] — 2012-05-30T15:47:31+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-28337>
 
 Good Morning V, thank's for stopping by. I got my neuro-mag Monday, and I think I overdo it...I usually take up tp 1000mg of mag glycinate, so I had 900mg of neur0-mag and also took a little mag malate... I took less yesterday, slept like a baby last night and I'm feeling great today.
 
 I'm sure you're right about CT: it does so much to our body and hormones that some days all energy is used to heal ourself. I've been feeling so much better in the last week, I am so glad about it. I thought I would never get there! It's not done, but I feel I'm getting closer to the goal. Can't wait to get my labs back and take an appointment with Dr kruse! Did you get some testing lately?
 
-### kathiebu@hotmail.com — 2012-05-30T18:02:23+0300
+### [email redacted] — 2012-05-30T18:02:23+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-28364>
 
 Slept very well last night. Didn't get up to pee!!  Feeling great today.
@@ -23237,7 +23237,7 @@ Had a hard time getting BAB down this morning. I am not sure I got 50g of protei
 
 Did some CT this morning in 60 something degrees water + cold shower.
 
-### kathiebu@hotmail.com — 2012-05-31T14:54:21+0300
+### [email redacted] — 2012-05-31T14:54:21+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-28540>
 
 Slept ok last night, went to bed too late after a date. The guy couldn't believe I wasn't having any alchool. You know what, I'm not gonna die from it. And then he was shocked I have a no gluten/dairy diet. Game over!!
@@ -23246,7 +23246,7 @@ I'm leaving for a conference today and tomorrow. I hate that. We'll be in a smal
 
 NO CT today but the cold shower this morning.
 
-### kathiebu@hotmail.com — 2012-06-02T16:08:58+0300
+### [email redacted] — 2012-06-02T16:08:58+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-29033>
 
 70 days binge-free
@@ -23283,14 +23283,14 @@ Just from my own experience of not being able to eat all that protein for breakf
 
 and congrats on going 70 days without bingeing!
 
-### kathiebu@hotmail.com — 2012-06-04T15:53:55+0300
+### [email redacted] — 2012-06-04T15:53:55+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-29340>
 
 > **paulalynn;29141 wrote:** Happy Birthday "70 day Binge Free GIRL!!!!" Have fun tonight. You're doing so well!
 
 Thank's Paula!!  Did have fun, and also too much alchool
 
-### kathiebu@hotmail.com — 2012-06-04T15:54:51+0300
+### [email redacted] — 2012-06-04T15:54:51+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-29341>
 
 > **DarleenMB;29147 wrote:** Just from my own experience of not being able to eat all that protein for breakfast ... are you eating eggs? I was and since I quit I can chow down on 8 ounces of GF beef and 4 slices of bacon with NO problem. Seems I DO have an issue with eggs. maybe you do to?
@@ -23301,7 +23301,7 @@ Thank's Paula!!  Did have fun, and also too much alchool
 
 Nop, no eggs anymore, and since I cut them off, I'm having a hard time with the breakfast...Weird...
 
-### kathiebu@hotmail.com — 2012-06-04T16:01:51+0300
+### [email redacted] — 2012-06-04T16:01:51+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-29342>
 
 72 days binge-free
@@ -23314,7 +23314,7 @@ Had some liver for BAB, around 50g of protein instead of the usual 75. Added mor
 
 Have a nice day everyone!!
 
-### kathiebu@hotmail.com — 2012-06-05T16:19:08+0300
+### [email redacted] — 2012-06-05T16:19:08+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-29530>
 
 Was feeling very tired and low energy yesterday...Could it be the butter I had on Sunday? Didn't have any ghee left so I used regular butter... Or the alchool from Saturday night catching up? I also often find myself nauseus lately. Yesterday afternoon and at night it was the case....Not fun.
@@ -23323,7 +23323,7 @@ Went to bed at 10:30 last night, was very tired. Woke up at 3 and then at 7:30. 
 
 Heading for a cold shower now. I think it will be my CT for the summer + ice spotting....
 
-### kathiebu@hotmail.com — 2012-06-05T23:46:01+0300
+### [email redacted] — 2012-06-05T23:46:01+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-29619>
 
 Just had some coconut milk and feeling very nauseus again...eurk...don't feel like having dinner now.
@@ -23337,7 +23337,7 @@ Will take a cold shower, maybe I'll feel better after...
 
 Feel better. Don't let yourself be hungry. Take it from me...bad things loom in the hunger fields...lol!
 
-### kathiebu@hotmail.com — 2012-06-07T17:19:33+0300
+### [email redacted] — 2012-06-07T17:19:33+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-29905>
 
 75 days binge-free
@@ -23354,12 +23354,12 @@ Went to a new gyn yesterday to get a IUD. She didn't want me to get it before I 
 
 Need to get going...Have a good day all.
 
-### kathiebu@hotmail.com — 2012-06-07T17:35:29+0300
+### [email redacted] — 2012-06-07T17:35:29+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-29908>
 
 Oh and I forgot...Got part of my labs back on Tuesday, and progesterone is high, so I'm not taking Prometrium anymore at night. My doc Rx it to help me sleep better. So that might be why I didn't sleep much that night...Half-life is 35-55 hours, so it will take up to 12 days to get rid of it completely...Will test again in a few weeks.... Now I'm waiting for DHEA and pregnenolone results.
 
-### kathiebu@hotmail.com — 2012-06-08T15:29:53+0300
+### [email redacted] — 2012-06-08T15:29:53+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-30105>
 
 76 days binge-free
@@ -23387,7 +23387,7 @@ PS, NAC, Iodine, Selenium
 
 Hang in there on the sleep. It will come. You are taking a lot of DHEA and it takes time to build up and fix things. I am sleeping sooo much better again. Every now and then I have a bump in the road and it is crappy but then I seem to move more forward.
 
-### kathiebu@hotmail.com — 2012-06-08T21:36:34+0300
+### [email redacted] — 2012-06-08T21:36:34+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-30185>
 
 Thank's for stopping by V  At least sleep in improving. I no longer stay up all night. But I hate to feel like crap all day. I have a hard time to get going and get things done. I want my life back please!!! I'll hang in there, I know I'm on the right track...
@@ -23401,7 +23401,7 @@ It sounds like your sleep has generally been getting better. Better than your da
 
 Have a good weekend!
 
-### kathiebu@hotmail.com — 2012-06-10T18:30:40+0300
+### [email redacted] — 2012-06-10T18:30:40+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-30419>
 
 Yes, sleep is getting better and better!!  I can now sleep through the night, every night! I don't even get up anymore to use the bathroom! I generally wake up pretty early to do so (around 6), but I can go back to sleep after. I'm still going to bed too late though.
@@ -23414,7 +23414,7 @@ I'll go the an no-appointement clinic this week to get a prescription for labs a
 
 I'll foccus on this beautiful sunny day, enjoy it and have fun
 
-### kathiebu@hotmail.com — 2012-06-10T18:37:31+0300
+### [email redacted] — 2012-06-10T18:37:31+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-30420>
 
 Oh, and I ordered some books this morning:
@@ -23429,17 +23429,17 @@ Oh, and I ordered some books this morning:
 
 Yeah, I'm thinking about HCG. But not now. I want to have my hormones in balance first. Don't want to lose weight and gain it all back because hormones are a mess. I'll read about it and see. Maybe next automn or winter. Wondering if HCG could help me get LS faster too...
 
-### nosnhojjennifer@yahoo.com — 2012-06-10T21:50:17+0300
+### [email redacted] — 2012-06-10T21:50:17+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-30438>
 
 Hi Katy! Hope you're feeling better!!
 
-### kathiebu@hotmail.com — 2012-06-11T02:05:59+0300
+### [email redacted] — 2012-06-11T02:05:59+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-30457>
 
 Thank's Jennifer!! I'm feeling pretty good actualy!  Friday was a crapy day, but yesterday and today were great, I'm feeling alive again  Seems that you are doing good too, that's great, keep going!!
 
-### kathiebu@hotmail.com — 2012-06-12T16:44:10+0300
+### [email redacted] — 2012-06-12T16:44:10+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-30690>
 
 80 days binge-free!!
@@ -23459,7 +23459,7 @@ Have a good day all!!
 
 I also miss eggs, and it's only been 3 days for me
 
-### kathiebu@hotmail.com — 2012-06-14T22:13:04+0300
+### [email redacted] — 2012-06-14T22:13:04+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-31220>
 
 Thank's Allison!!  Don't be jealous, you can and you will do the same, one day at the time. And if you binge, just get back on the track as soon as possible and forget about it! The 80 days ride haven't been perfect, sometimes I'm having too much carbs or a glass of wine, but I don't have the desire to binge anymore, even if I'm tired or stressed, which is just fantastic! Get your BAB and see the magic happen
@@ -23468,7 +23468,7 @@ I'm thinking about re-introducing the eggs to see how I feel, but I'm a little s
 
 Does anybody know if it's ok the have eggs and nightshades once the gut is healed??
 
-### kathiebu@hotmail.com — 2012-06-14T22:26:29+0300
+### [email redacted] — 2012-06-14T22:26:29+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-31224>
 
 Last too night have been so, so...Waking up at 3 and having mediocre sleep until I get up. It is the sushis I had last Friday, plus the few french fries on Saturday, plus the Mijito on Sunday?  I KNOW I shouldn't have those, but it's only when my body react to them by refusing to sleep that I truly understand the impact of bad choices... And that's only what I can see/feel!! My poor cells must be in such a mess!!
@@ -23484,7 +23484,7 @@ Awesome that you've been binge free for 80+ days!
 
 I love kayaking too, need to find a way to get back to it (I live in a small city, but surrounded by water).
 
-### kathiebu@hotmail.com — 2012-06-15T01:31:03+0300
+### [email redacted] — 2012-06-15T01:31:03+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-31263>
 
 Thank's indigogirl!!
@@ -23496,12 +23496,12 @@ Kayaking is such a great activity, and no special skills are needed. It was real
 
 I love Bodyrock!!! That's so awesome that you do that too! I was also doing it just about everyday a few months ago, but I haven't been lately. For some reason I just can't bring myself to do it as much as I used to, although I'm feeling more motivated lately. Thanks for the pep talk about binging- I needed it tonight  Didn't binge, but had a "snack" that I'm not happy about. Anyway, you're right. The road will be bumpy for all of us...if we were already optimal we wouldn't be here
 
-### kathiebu@hotmail.com — 2012-06-16T16:39:17+0300
+### [email redacted] — 2012-06-16T16:39:17+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-31537>
 
 I love BR too! I love Lisa! She is so sweet, and a real good motivator. It's hard for me not to w/o, but I came to understood that it was better for my body for a while. I'll do weight training today, but I'll keep it pretty short and allow myself enough rest before the next one.
 
-### kathiebu@hotmail.com — 2012-06-16T17:01:49+0300
+### [email redacted] — 2012-06-16T17:01:49+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-31540>
 
 Felt asleep real quick last night, slept all night, got up once at 4, and woke up very tired. I hate that. But the good thing is that I'm sleeping at least. It pisses me off that disgressing only a little is affecting my sleep that much!! But the good news it that I can totally control that and its pretty easy actually. Can't wait to wake up again fresh and rested!!
@@ -23559,7 +23559,7 @@ well in case bolt ons are my above guess..... a MALE environment would select fo
 
 Ok ok - so she has some fake boobs. I agree she looked better before the enhancements, but it's her call, right?
 
-### kathiebu@hotmail.com — 2012-06-17T18:31:46+0300
+### [email redacted] — 2012-06-17T18:31:46+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-31759>
 
 Frankenboobs?? loll
@@ -23573,7 +23573,7 @@ OMG!! Last time I saw Lisa at least her boob size matched her body size.... now 
 
 Just FYI for those of you who think she is in "great" shape..... I'm not so sure about that at all. Look at some real healthy women and create your internal ideal after those. I would never want to look like her (again).
 
-### kathiebu@hotmail.com — 2012-06-19T02:08:18+0300
+### [email redacted] — 2012-06-19T02:08:18+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-32045>
 
 Have had hard time falling asleep last 2 nights. Saturday night wasn't that bad (maybe an hour and a half), but I slept in til 10 am, so I was in great shape yesterday. Last night was another story: only fell asleep at 3 am!!  And had to get up at 8. I'm not as tired as I've been not so long ago, but I'm lacking some hours sleep....
@@ -23596,14 +23596,14 @@ So jealous of your eggs AND lobster!!! Sounds delish! I hope your sleep is impro
 
 Are you still taking the DHEA? I really bumped mine up after my consult with Dr. K. I have to believe that is helping. Most nights I sleep very well. If the dh wouldn't wake me I don't think I would wake up until daylight. I am doing 25 DHEA and 50 7-keto DHEA. My labs also revealed very tanked levels.
 
-### kathiebu@hotmail.com — 2012-06-20T03:51:47+0300
+### [email redacted] — 2012-06-20T03:51:47+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-32316>
 
 @Allison: thank you, I slept way better last night. And that lobster was very good!!  It's really cheap at this time of the year so I enjoy it!!
 
 @V: yes, I am taking DHEA, and more than you do. Still, I can't sleep well  I don't know what's wrong. What was your DHEA level when you tested? My appointment with Dr K is scheduled in one month, hopefuly he will help me with that!! Thank's for stopping by. K
 
-### kathiebu@hotmail.com — 2012-06-20T04:03:07+0300
+### [email redacted] — 2012-06-20T04:03:07+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-32322>
 
 85 days binge-free! I see the 100-days mark coming soon
@@ -23625,7 +23625,7 @@ I think I gained weight again. Didn't weight (and don't want too), but my belly 
 
 My level was 1 the range was 3-10. It did take me a long while to sleep better. I think I have been on it for 3 months now but didn't up it to 75 total until 1 month ago. Could also be the HC doing something. So hard to say when we do so much. I know you and I have the same things going on. I should read your journal to see what you are doing and if I can make any comparisons. It's bed time now, but maybe I will start in the morning.
 
-### kathiebu@hotmail.com — 2012-06-20T16:35:09+0300
+### [email redacted] — 2012-06-20T16:35:09+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-32397>
 
 Hi V,
@@ -23638,7 +23638,7 @@ Have a nice day,
 
 K
 
-### kathiebu@hotmail.com — 2012-06-20T16:56:41+0300
+### [email redacted] — 2012-06-20T16:56:41+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-32404>
 
 Had another badd night sleep. Finally went to sleep around 3, and slept til 7  I ate late (was hungry at midnight)
@@ -23660,12 +23660,12 @@ Dinner: shrimps, brocoli and muchrooms
 
 Too much DHEA can make for bad sleep also for me. My sweet spot appears to be around 50mg/day right now but I don't take 7-keto. If I've got the CT dialed in with my DHEA supplementation I sleep well, it appears. Sorry you're not sleeping well. I know how that is.... it just really ruins your day and mood  Dunking my head in ice water puts me to sleep but that might be unique to me. And lots of PS at night.
 
-### kathiebu@hotmail.com — 2012-06-20T17:28:33+0300
+### [email redacted] — 2012-06-20T17:28:33+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-32412>
 
 Thank's Souldanzer. I will try face dunking and PS at night, hoping it might help...Will lower the 7-keto-DHEA too... At this point, I really have nothng to lose, I doubt it could be worst
 
-### kathiebu@hotmail.com — 2012-06-20T18:00:53+0300
+### [email redacted] — 2012-06-20T18:00:53+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-32424>
 
 How much PS are you taking at night Souldanzer?
@@ -23677,7 +23677,7 @@ Just a thought, Jack's next webinar is on BHRT. You might want to think about si
 
 ETA I looked "lisa" up and found her FB page. hahahaha. LOVE the crotch shot. And "frankenboobs" doesn't even BEGIN to describe her chest. ewwwwwww. Sorry, but I'd rather look like the woman diving with the beluga whales.
 
-### kathiebu@hotmail.com — 2012-06-20T18:13:54+0300
+### [email redacted] — 2012-06-20T18:13:54+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-32427>
 
 Hi Darleen!!
@@ -23695,7 +23695,7 @@ I know it takes times, and I have to try a few things before it works, but I don
 
 Hang in there! I've been slowly (and by that I mean I have spent the last 12 years+ trying to fix my broken sleep) gaining ground in the sleep dept. I wish that when I was your age I would have known what I know now ... I could have avoided DECADES of agony. You just keep to the path. You'll get there!
 
-### kathiebu@hotmail.com — 2012-06-20T20:24:17+0300
+### [email redacted] — 2012-06-20T20:24:17+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-32464>
 
 Thank's Darleen!! I'm so glad I now know this can be solved and that I'll sleep better some day. It's horrible that you slept so bad for so many years, I'm really glad it's over
@@ -23709,12 +23709,12 @@ Just got "Sex, lies and menopause" in the mail, I'm going to do some reading!!
 
 I take a lot for TBI support as well. Just start somewhere between 100-300mg of PS (not the complex, that would be 500-1500mg of that) and increase or decrease from there.
 
-### kathiebu@hotmail.com — 2012-06-20T21:14:48+0300
+### [email redacted] — 2012-06-20T21:14:48+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-32474>
 
 Thank's Souldanzer. Will start tonight!
 
-### kathiebu@hotmail.com — 2012-06-21T16:12:15+0300
+### [email redacted] — 2012-06-21T16:12:15+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-32683>
 
 Slept way better latter last night, but still took a long time to fall asleep even if I was tired and relaxed after the massage. Is cortisol wrecked again?
@@ -23727,7 +23727,7 @@ Lunch: small salad and chicken
 
 Dinner:shrimps and veggies
 
-### kathiebu@hotmail.com — 2012-06-22T16:51:16+0300
+### [email redacted] — 2012-06-22T16:51:16+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-32937>
 
 88 days binge-free
@@ -23832,7 +23832,7 @@ Will try to get myself going now...The day is going to be long  And a have a Spa
 
 Have a nice Friday all!!
 
-### kathiebu@hotmail.com — 2012-06-23T17:05:53+0300
+### [email redacted] — 2012-06-23T17:05:53+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-33148>
 
 Slept fairly well last night. Went to bed late and it took me around an hour and a half to fall asleep. Woke up once at 6 to use the bathroom and get back to sleep til 9. I feel pretty good today so far.
@@ -23864,7 +23864,7 @@ Dinner: will be at restaurant. Had tuna fish and veggies.
 
 How'd that go? I was thinking of trying that out sometime....
 
-### kathiebu@hotmail.com — 2012-06-24T05:56:04+0300
+### [email redacted] — 2012-06-24T05:56:04+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-33250>
 
 > **Souldanzer;33375 wrote:** How'd that go? I was thinking of trying that out sometime....
@@ -23889,7 +23889,7 @@ The more I (try) to read and understand what Jack is saying the more I embrace t
 
 Ok, this morning's rant is now complete.
 
-### kathiebu@hotmail.com — 2012-06-25T16:58:31+0300
+### [email redacted] — 2012-06-25T16:58:31+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-33442>
 
 > **DarleenMB;33443 wrote:** Heavy and frequent periods with large clots could also be a sign of fibroid tumors. THAT was what I had. When they finally yanked my parts the doc was in near hysteria ... he came barreling into my room the day after just AGLOW with the news that I had a kilo's worth of fibroids ... 2 fist sized and dozens of thumb sized inside and outside of the uterine wall. he TOOK PICTURES for me! It was so deformed it didn't even LOOK like a uterus. He told me, with great glee, that his fellow OB/GYN who assisted in the surgery said, with a great deal of sarcasm, "Well, THAT didn't need to come out, did it?" MEN.
@@ -23925,7 +23925,7 @@ Well I'm not giving up my hormones.
 
 I think it's very important to remember that creams today are not the same as the ones back in the 50's. Neither was tuna or beef. People are either too young to know that or have forgotten it. I don't think tuna even came water-packed back in the 50's. And they've fiddled with beef so much to make it "low-fat" that honestly I don't see how eating either could be a problem. We'll see. If my allergy panel turns out like I'm afraid it will I may have no choice in the matter.
 
-### kathiebu@hotmail.com — 2012-06-26T01:06:59+0300
+### [email redacted] — 2012-06-26T01:06:59+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-33547>
 
 91 days binge-free
@@ -23940,7 +23940,7 @@ Dinner: mackerel, dark chocolate
 
 Went for a long walk with a friend, maybe 6 km. I was beat after, and my legs were sore, but it feels great.
 
-### kathiebu@hotmail.com — 2012-06-27T02:44:12+0300
+### [email redacted] — 2012-06-27T02:44:12+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-33817>
 
 92 days binge-free
@@ -23964,7 +23964,7 @@ Congratulations on 92 days binge free. If you had to pinpoint little things that
 
 Also, your shrimp curry sounds great. I have only experimented with coconut milk a little bit, and that was to make a frosting for carrot cake bars...I may have to try it your way though!
 
-### kathiebu@hotmail.com — 2012-06-27T18:22:22+0300
+### [email redacted] — 2012-06-27T18:22:22+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-33961>
 
 Thank's PCG!
@@ -23993,7 +23993,7 @@ It's not vain to want to fit in tiny clothes or be as thin as your friends. I kn
 
 If I think of something else, I'll come add it. I'm with you with all my heart, I know it's hard but I know you can do it and you will do it.
 
-### kathiebu@hotmail.com — 2012-06-27T18:29:25+0300
+### [email redacted] — 2012-06-27T18:29:25+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-33965>
 
 I've had some treat here and there in the past weeks (glass of wine, nuts, fruits) and I want to go back to a keto diet now. It makes it difficult with all the parties with friends, but I know I can do it.
@@ -24041,12 +24041,12 @@ If I think of something else, I'll come add it. I'm with you with all my heart, 
 
 This is amazingly helpful...you have no idea. The last paragraph about fighting yourself and needing control and isolating yourself is exactly what I was doing! I'm going to repost this in my journal, so I don't lose your advice. Actually, I'm going to print it out and hang it on my fridge as a constant reminder. THANK YOU!
 
-### kathiebu@hotmail.com — 2012-06-28T14:57:06+0300
+### [email redacted] — 2012-06-28T14:57:06+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-34132>
 
 I'm glad I can help PCG. Don't hesitate to come back to all of us when you need help or some motivation. K
 
-### kathiebu@hotmail.com — 2012-06-28T15:44:54+0300
+### [email redacted] — 2012-06-28T15:44:54+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-34139>
 
 Had my first consult with Dr Kruse last night. Wow!! He's really great! I'm glad my history and labs were almost finished written down so I could book the consult. I wish I was better in English though, it would be easier to exchange, but I really enjoyed it anyway.
@@ -24072,7 +24072,7 @@ Oh, and I forgot: I got to love my fat!  The weight I gained in the last year ma
 
 Sounds like you got a lot of great info from your consult! I hope it's not HA for you. I'm getting some tests done to confirm or deny that DX. I, too, need to focus on the light. I'm not nearly as strict as I need to be.
 
-### kathiebu@hotmail.com — 2012-06-28T16:30:27+0300
+### [email redacted] — 2012-06-28T16:30:27+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-34152>
 
 Yes, I'm really glad I did it!! Can't wait to get tested and to find out about HA. Seems pretty complicated to treat
@@ -24092,7 +24092,7 @@ Dr. K was pretty adamant that reducing stress and eating lots of fat with BAB we
 
 And you're right...we are worth it!
 
-### nosnhojjennifer@yahoo.com — 2012-06-28T17:04:04+0300
+### [email redacted] — 2012-06-28T17:04:04+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-34161>
 
 Hi Katy, just catching up on your journal. Sounds like you've really got your mind right, sleep is bound tO follow! I used to have sleep trouble but ever since I bOught my house, it's stopped. Wish I had some advice. I used melatonin for a long time but Dr K says it messes with your hormones (and I do NOT need any more problems in that area). So I am grateful to be sleeping well. I'm glad you decided against Hcg. I really think bad hormones and Hcg is a combo for disaster. LS is the goal. We'll get there!
@@ -24107,7 +24107,7 @@ I'm so glad you got to do your consult early! Things must happen for a reason, o
 
 Im thinking about offering another two for one over the holiday but I have to talk to the family first.......well see.
 
-### kathiebu@hotmail.com — 2012-06-28T20:28:34+0300
+### [email redacted] — 2012-06-28T20:28:34+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-34205>
 
 > **PaleoCowgirl;34310 wrote:** Dr. K was pretty adamant that reducing stress and eating lots of fat with BAB were the main components to treating HA. He just said it would take 12-18 months (at least in my case). I didn't get the go ahead to CT, which I have been really wanting to do lately. I still spot CT because it feels good and isn't stressful at all.
@@ -24118,7 +24118,7 @@ Im thinking about offering another two for one over the holiday but I have to ta
 
 He said CT for me should be fine, but no deep CT. Haven't done any spot CT in the last few days, but I guess I coudl do that do.
 
-### kathiebu@hotmail.com — 2012-06-28T20:37:43+0300
+### [email redacted] — 2012-06-28T20:37:43+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-34206>
 
 > **Jennifer;34318 wrote:** Hi Katy, just catching up on your journal. Sounds like you've really got your mind right, sleep is bound tO follow! I used to have sleep trouble but ever since I bOught my house, it's stopped. Wish I had some advice. I used melatonin for a long time but Dr K says it messes with your hormones (and I do NOT need any more problems in that area). So I am grateful to be sleeping well. I'm glad you decided against Hcg. I really think bad hormones and Hcg is a combo for disaster. LS is the goal. We'll get there!
@@ -24129,7 +24129,7 @@ I hope I'm gonna sleep better with the increase of DHEA. Everything seems so muc
 
 Thank's for stopping by
 
-### kathiebu@hotmail.com — 2012-06-28T20:46:49+0300
+### [email redacted] — 2012-06-28T20:46:49+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-34208>
 
 > **paulalynn;34332 wrote:** I'm so glad you got to do your consult early! Things must happen for a reason, otherwise you'd probably be starting Hcg. It sounded like the consult was awesome! I decided I am going to do one too. I need to know if I'm headed in the right direction!
@@ -24138,19 +24138,19 @@ You're right, it probably happened at the right time to make sure I wouldn't do 
 
 You won't regret it if you do a consult, it's the best money you could spend on yourself.
 
-### nosnhojjennifer@yahoo.com — 2012-06-29T21:50:48+0300
+### [email redacted] — 2012-06-29T21:50:48+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-34437>
 
 Just saw this and thought of you!!
 
 > **Jack Kruse;34536 wrote:** When I was overweight I used to sleep with ice bags on my carotid arteries to cool the blood going to my brain.......it raised several hormones to help me sleep to loose the weight fast. I did so many outside the box things it was hilarious......but my family stopped laughing in 11 months when they saw me transform before their eyes. Sometimes unconventional gives exceptional results if you let it.
 
-### kathiebu@hotmail.com — 2012-06-29T22:33:13+0300
+### [email redacted] — 2012-06-29T22:33:13+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-34446>
 
 Thank's Jennifer, I will try it! I think I read in your journal that you did it do, am I right?
 
-### kathiebu@hotmail.com — 2012-06-29T22:47:13+0300
+### [email redacted] — 2012-06-29T22:47:13+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-34449>
 
 95 days binge-free
@@ -24173,12 +24173,12 @@ Also, I forgot to ask him about supplements...Are the ones I'm taking ok, or sho
 
 I've noticed a change in my sweating pattern lately...I sweat much more than before. I used to not sweat at all, even forgetting to put anti-perspirant was ok for me. I really sweat a lot right now, and odor has changed. Also this week, it seems that I'm always hungry!! I'm not eating between meals, but if I could I would eat 2 to 3 hours after each meal!
 
-### nosnhojjennifer@yahoo.com — 2012-06-30T00:18:28+0300
+### [email redacted] — 2012-06-30T00:18:28+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-34461>
 
 I've iced my carotids but never in bed. Lol. My ice bags leak. Gotta get better equip and I'm gonna do it!
 
-### kathiebu@hotmail.com — 2012-06-30T00:51:58+0300
+### [email redacted] — 2012-06-30T00:51:58+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-34465>
 
 Lol
@@ -24194,14 +24194,14 @@ Have a good long weekend!
 
 Paula
 
-### kathiebu@hotmail.com — 2012-06-30T15:09:45+0300
+### [email redacted] — 2012-06-30T15:09:45+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-34566>
 
 Dr K also said heavy whipping cream is good. He told me to drink some in the morning. Haven't got any get, but I'm having coconut milk.
 
 Have a good long week-end too, enjoy camping and the ocean CT!
 
-### kathiebu@hotmail.com — 2012-06-30T15:28:27+0300
+### [email redacted] — 2012-06-30T15:28:27+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-34571>
 
 96 days binge-free!
@@ -24218,7 +24218,7 @@ Third day of high dose of DHEA.
 
 Have a BD party tonight, I'll try to come back home not too late so I get a good night sleep.
 
-### kathiebu@hotmail.com — 2012-07-04T04:36:22+0300
+### [email redacted] — 2012-07-04T04:36:22+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-35413>
 
 Time for a little update. Had a really nice long week-end, lots of times outside. I'm still going to bed too late tho. I'll focus on that in July, its gonna be my goal.
@@ -24233,7 +24233,7 @@ Good night all! Going to CT my carotids in my bed.
 
 DHEA: 350mg
 
-### kathiebu@hotmail.com — 2012-07-05T03:08:54+0300
+### [email redacted] — 2012-07-05T03:08:54+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-35569>
 
 100 days binge-free!! wouou!!!
@@ -24255,19 +24255,19 @@ You soundsgreat Katy! Things are really coming together for you. I've been away 
 
 100 days binge-free...The crowd cheers!!!!
 
-### nosnhojjennifer@yahoo.com — 2012-07-05T16:01:56+0300
+### [email redacted] — 2012-07-05T16:01:56+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-35614>
 
 Congrats Katy!
 
 Don't look back!
 
-### kathiebu@hotmail.com — 2012-07-07T18:54:54+0300
+### [email redacted] — 2012-07-07T18:54:54+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-36107>
 
 Thank's Paula and Jennifer!!
 
-### kathiebu@hotmail.com — 2012-07-07T19:28:56+0300
+### [email redacted] — 2012-07-07T19:28:56+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-36112>
 
 Slept good last night again (thank's to my dear DHEA), but woke up aroubd 5 for a while. Pretty tired this morning. Had a big day yesterday for work, maybe that's why.
@@ -24278,7 +24278,7 @@ Nothing else to report...Still haven't done blood testing, can't get a prescript
 
 Have a good week-end all!!
 
-### kathiebu@hotmail.com — 2012-07-10T15:36:04+0300
+### [email redacted] — 2012-07-10T15:36:04+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-36529>
 
 Spent two days with a friend by a lake. That was amazing. Could have stayed there forever! Got plenty of sun, slept very good and enjoyed the nature.
@@ -24310,7 +24310,7 @@ I am curious too! You do sound great Katy!!!
 
 You have such a positive attitude! Sounds like things are going so well for you! I want to hear all about your business, too!
 
-### kathiebu@hotmail.com — 2012-07-11T00:15:05+0300
+### [email redacted] — 2012-07-11T00:15:05+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-36640>
 
 Thank's girls! I'm actually feeling super good!  Never felt that good before. Still feeling tired at the end of the day if I have too much on my plate, but people who know me are commenting on how great and relaxed I look. Pretty nice to hear
@@ -24333,14 +24333,14 @@ That's great you are feeling better and ready to pursue your career dreams! Be c
 
 I hope you like vibrams and barefooting.... my pod did not  had to fire him. oops.
 
-### kathiebu@hotmail.com — 2012-07-11T15:31:43+0300
+### [email redacted] — 2012-07-11T15:31:43+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-36798>
 
 > **PaleoCowgirl;36820 wrote:** That's great you are feeling better and ready to pursue your career dreams! Be careful not to overdo it...Adrenal fatigue seems to be a mean sister! She always comes back with a vengeance whenever I get cocky and think I have more energy than I really do!
 
 I'm a little afraid once I start working again that I'll end up exhausted again, but I have several weeks before it starts to rest and sleep, so I hope I'll be fine. It should also be starting slow, leaving me time to adjust. The only thing I don't like is that I'll have to work evenings. I don't like it, but if I want to see patients, I'll have to do it at least twice a week
 
-### kathiebu@hotmail.com — 2012-07-11T15:40:50+0300
+### [email redacted] — 2012-07-11T15:40:50+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-36801>
 
 > **Souldanzer;36821 wrote:** I hope you like vibrams and barefooting.... my pod did not  had to fire him. oops.
@@ -24351,7 +24351,7 @@ You won't find many pod liking vibrams and barefooting...I think it's great if y
 
 I like my profession, and I love the fact that I'm helping my patients, but knowing what I know now, I would have choosen another field. I'll probably take another degree within a few years in biochemistry or nutrition to be able to concentrate my practice on chronic pain and DM patients. I already talk about food and impact on arthritis and other conditions with my patients, but few are willing to change. It's killing me. They prefer to take their cocktail of medications than avoid chimical stuff in their plate. But I'm talking about it anyway, and I show them testimonals of people that healed with changing diet.
 
-### kathiebu@hotmail.com — 2012-07-11T15:49:49+0300
+### [email redacted] — 2012-07-11T15:49:49+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-36806>
 
 107 days binge-free
@@ -24384,7 +24384,7 @@ This winter some of the pain came back b/c I had to wear boots at times. It alwa
 
 Just stopping by to say your daily count of how many days you've been binge free is inspiring. I think I'm going to start that in my journal. Thanks!
 
-### nosnhojjennifer@yahoo.com — 2012-07-12T15:01:21+0300
+### [email redacted] — 2012-07-12T15:01:21+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-37125>
 
 Hi Katy. Congrats on your accomplishment. Podiatry is a very competitive field in the states. I'm sure it's the same in CA, eh?
@@ -24393,7 +24393,7 @@ Lol
 
 Good luck!
 
-### kathiebu@hotmail.com — 2012-07-13T02:00:11+0300
+### [email redacted] — 2012-07-13T02:00:11+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-37327>
 
 > **Souldanzer;37021 wrote:** Count me in on the bunions, knee pain, tendonitis. I have orthotics all over the place. Ditched the shoes when I was faced with surgery and for now I am fine. I'll admit I ditched some of the chronic cardio at the same time. But that doesn't keep people from wondering b/c I have \*bad\* bunions from dancing (never wore high heels but probably too tight shoes).
@@ -24406,14 +24406,14 @@ Shoes are rarely the source of bunions. Over pronation from ligaments hyperlaxit
 
 Funny that you are pain free when ditching the shoes....Don't have enough experience since to tell if going barefoot would be better for patients...Will get back to you in a few years
 
-### kathiebu@hotmail.com — 2012-07-13T02:02:34+0300
+### [email redacted] — 2012-07-13T02:02:34+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-37329>
 
 > **PaleoCowgirl;37160 wrote:** Just stopping by to say your daily count of how many days you've been binge free is inspiring. I think I'm going to start that in my journal. Thanks!
 
 It helped me very much! At first, my goal was to reach the next 5-days mark, and then, the next 10-days one. When I wanted to binge, I was thinking about that and didn't want to go back to zero. I'm not counting anymore, I have to go back to calculate where I am, and I'm the first to be impressed to see I'm over 100 days binge-free. You'll get there two, be patient
 
-### kathiebu@hotmail.com — 2012-07-13T02:05:57+0300
+### [email redacted] — 2012-07-13T02:05:57+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-37330>
 
 > **Jennifer;37292 wrote:** Hi Katy. Congrats on your accomplishment. Podiatry is a very competitive field in the states. I'm sure it's the same in CA, eh?
@@ -24426,7 +24426,7 @@ Thank's Jennifer
 
 It is, but not as much as you guys. The profession is pretty new here, and we are not a lot of pod deserving the whole province (150 pods for 8 million population). There's real need for our cares, so that's cool
 
-### kathiebu@hotmail.com — 2012-07-13T02:13:22+0300
+### [email redacted] — 2012-07-13T02:13:22+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-37334>
 
 Slept good last night. Woke up at 5 this morning, went back to sleep til 8.
@@ -24443,7 +24443,7 @@ ETA: TOM got here yesterday. I know, not so much interesting information. Last c
 
 DHAE: 250 mg
 
-### kathiebu@hotmail.com — 2012-07-14T18:33:33+0300
+### [email redacted] — 2012-07-14T18:33:33+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-37781>
 
 110 days binge-free
@@ -24456,7 +24456,7 @@ Going to the beach today with some friends. Never been to this one, don't even k
 
 Have a nice day all, enjoy the sun
 
-### jeanie@truelongmont.com — 2012-07-14T21:53:46+0300
+### [email redacted] — 2012-07-14T21:53:46+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-37818>
 
 > **AbetterME;37497 wrote:** Thank's Jennifer
@@ -24469,7 +24469,7 @@ Is this the kind of Clinic you are opening? With the number of Pods to people - 
 
 What's your take on barefoot stuff? I am a barefoot convert - but always up for learned discussions!
 
-### kathiebu@hotmail.com — 2012-07-16T18:54:59+0300
+### [email redacted] — 2012-07-16T18:54:59+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-38379>
 
 Slept good last night. It has taking me a while to fall asleep the last 2 nights.
@@ -24493,7 +24493,7 @@ K
 
 nice to hear you are getting some good sleep! I believe that that in itself will go a long way toward weight loss. I'm workin on it too....former night owl!
 
-### kathiebu@hotmail.com — 2012-07-16T22:37:53+0300
+### [email redacted] — 2012-07-16T22:37:53+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-38486>
 
 Oh yes...because no sleep = high cortisol and inflammation. And high cortisol, in my case, means bad hormones. There's no way you can lose weight while your body is on "survival mode".
@@ -24505,7 +24505,7 @@ Yoga! I keep reminding myself to get out my video tape and do yoga again. I thin
 
 Congrats on getting good sleep! That's so, so important and something I need to do better on. Lately, I've been staying up late reading books.
 
-### kathiebu@hotmail.com — 2012-07-17T01:04:14+0300
+### [email redacted] — 2012-07-17T01:04:14+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-38539>
 
 Hi Mandy! I love yoga, it's really good to focus on my body and breath, I feel soooo relax when I'm done. I found a 35 minutes video on youtube and that's what I'm doing. I don't think doing some dumbbells is adding stress on your body, I would keep going
@@ -24521,12 +24521,12 @@ shudder
 
 Congrats on the sleep thing. It's wonderful when it happens, eh?
 
-### kathiebu@hotmail.com — 2012-07-17T01:13:22+0300
+### [email redacted] — 2012-07-17T01:13:22+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-38546>
 
 Can't believe I just had my first mackerel smoothie...I'm so lucky there was 2 left at the grocery store. The taste is not that bad, but the color and the texture is not particulary appealing. How many times a week/month should I do that??
 
-### kathiebu@hotmail.com — 2012-07-17T01:15:09+0300
+### [email redacted] — 2012-07-17T01:15:09+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-38548>
 
 > **DarleenMB;38718 wrote:** mackeral smoothies???? gack ack ralf hurl
@@ -24593,7 +24593,7 @@ Glad to hear your sleep is improving. It does take time but you stuck it out!
 
 Btw, iirc Dr. K mentioned that fruit ruined his sleep at 1 point. Don't know if that is what is getting in the way lately or not.
 
-### kathiebu@hotmail.com — 2012-07-17T19:04:22+0300
+### [email redacted] — 2012-07-17T19:04:22+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-38760>
 
 Yes, only heads  Raw. In the blender with some water and lemon juice. Why mackerel? I know it's pretty high in Omega-3, but couldn't tell if other fish could do it.
@@ -24625,7 +24625,7 @@ Mackerel smoothies ... that is wrong in just SO many ways I can't count.
 
 The problem with this is that you're not supposed to make fish broth from fatty fish.... DHA likes to be handled carefully. No boiling in a pot for hours.
 
-### kathiebu@hotmail.com — 2012-07-18T18:09:04+0300
+### [email redacted] — 2012-07-18T18:09:04+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-39023>
 
 114 days binge-free
@@ -24636,7 +24636,7 @@ Did 25 minutes CT this morning. My body is getting firmer, I love that. Didn't s
 
 Did not had lunch yesterday but the coffee + CO. Typical meals are 4 eggs in the morning + fat (cream and CO). BPC for lunch and shrimps for dinner. Few berries and fruits. Few veggies but not much.
 
-### kathiebu@hotmail.com — 2012-07-20T02:04:23+0300
+### [email redacted] — 2012-07-20T02:04:23+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-39524>
 
 Didn't sleep last night. Was it because of the french fries I had on dinner? Or maybe because of the glass of wine? Or maybe both? I was having a party in my belly and it wasn't so great. I was drowsy til 2 or so, and then I was wide awake for the rest of the night. Finally felt asleep at 7 and slept three hours. Was miserable for a few hours this morning. It's 7 pm and feeling very tired. Will do some yoga and be in bed early.
@@ -24645,7 +24645,7 @@ Had srimps for lunch and lobster for dinner. Lucky me, I got a lady lobster full
 
 Read BG5 this morning...Wow. Will have to repeat the smoothie experience. Pretty hard to fing mackerel here, but I guess fresh sardines would be fine too. Have to try Inger recipe with the salmon too.
 
-### kathiebu@hotmail.com — 2012-07-21T16:17:00+0300
+### [email redacted] — 2012-07-21T16:17:00+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-39985>
 
 Slept good the last 2 nights. Don't know what's wrong, but I have a hard time falling asleep. It can take me up to an hour. Still doing some yoga to help me relax before I go to bed. I upped the mag yesterday and the night before, but it might be too much.
@@ -24668,7 +24668,7 @@ Falling asleep ... I wonder if it's the time of year. I've been having trouble m
 
 Interesting about the sardines. I was wondering if I could do a sardine smoothie as a beginner's way of easing into mackerel head smoothies. Maybe it's because you're a pro at MHS that the sardines didn't work out . Good to hear you're sleeping better.
 
-### kathiebu@hotmail.com — 2012-07-22T02:57:35+0300
+### [email redacted] — 2012-07-22T02:57:35+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-40145>
 
 @ Lyndra: I would do it again with mackerel, it barely smells, but I wont do it in the morning
@@ -24680,19 +24680,19 @@ Interesting about the sardines. I was wondering if I could do a sardine smoothie
 
 you think there might have been something wrong with the sardines? I hate to talk about my dog again  but she could pick out a bad fish in the bunch. It's like, she'd eat all of the bowl full of smelts I gave her except three. Those she'd sniff and leave. And that dog was food-focused! I'd give her the benefit of the doubt those days.
 
-### kathiebu@hotmail.com — 2012-07-23T01:34:36+0300
+### [email redacted] — 2012-07-23T01:34:36+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-40300>
 
 IDk Sould, but the odor was so strong, I would have gagged on it drinking it. I know sardines smell much more than mackerel, but I'll stick to the later. I would trust your dog too  if she's not willing to eat them, there is def something wrong!!
 
-### kathiebu@hotmail.com — 2012-07-23T01:40:23+0300
+### [email redacted] — 2012-07-23T01:40:23+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-40301>
 
 Slept real bad last night. It seems that I'm going back to where I was in May. I don't like it. Hard time to fall asleep (it took me 3 hours last night!!), feeling tired all morning. I was at a friends house last night babysitting their 3 kids and sleeping there. Was so tired I went to bed at 9:30, but couldn't sleep. It wasn't dark, the bed was inconfortable, I ate too late... Enjoyed the sun at the lake today, drove back to the city and had a 2 hours nap.
 
 No BAB this morning, and no CT today. I don't like being at friend's or family because of that. Will go back on track tomorrow morning.
 
-### kathiebu@hotmail.com — 2012-07-24T04:26:45+0300
+### [email redacted] — 2012-07-24T04:26:45+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-40566>
 
 Last night has been a nightmare. Took me 3 hours again to fall asleep  And felt miserable part of the day.
@@ -24705,7 +24705,7 @@ Good night all.
 
 K
 
-### nosnhojjennifer@yahoo.com — 2012-07-24T04:53:22+0300
+### [email redacted] — 2012-07-24T04:53:22+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-40577>
 
 > **AbetterME;40754 wrote:** Last night has been a nightmare. Took me 3 hours again to fall asleep  And felt miserable part of the day.
@@ -24766,7 +24766,7 @@ In case it helps, I can rarely find whole mackerel here, but can pretty much alw
 
 Hope you're sleeping soundly right now.
 
-### kathiebu@hotmail.com — 2012-07-24T16:55:02+0300
+### [email redacted] — 2012-07-24T16:55:02+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-40679>
 
 Thank's Lauren, will have to try that. Are you using a regular blender?
@@ -24784,7 +24784,7 @@ Sorry you're having trouble sleeping! A lack of sleep is so hard on the body! I 
 
 On another note, kudos to you on drinking the smoothies! I don't think I could do it, but you rock, girl!
 
-### kathiebu@hotmail.com — 2012-07-24T23:51:26+0300
+### [email redacted] — 2012-07-24T23:51:26+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-40861>
 
 Thank's Mandy! I thought I already figured it out, but it seems I'll have to dig deeper...
@@ -24796,7 +24796,7 @@ Seems that my courage fade away with sleep...Didn't find the courage to do anoth
 
 I wish I could sit in on it. Let us know how it goes!
 
-### kathiebu@hotmail.com — 2012-07-25T16:54:46+0300
+### [email redacted] — 2012-07-25T16:54:46+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-40999>
 
 If I find it back PG, I'll send some to you
@@ -24805,14 +24805,14 @@ Fell asleep very easily last night. Slept from 10:30 to 1:30, and couldn't fall 
 
 I hope the fog on the brain will lift soon, I have much to do today. Took my DHEA as usual this morning. Will get my lab results soon and will book a consult with Dr K to have a better idea on what's going on.
 
-### kathiebu@hotmail.com — 2012-07-26T01:42:07+0300
+### [email redacted] — 2012-07-26T01:42:07+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-41113>
 
 The day went pretty well. Was tired, but at least I could do my things. Was very tired by 4. Had BAB at 5 this morning before I went back to bed. Was hungry for lunch, had shrimps at 12, and had a small dinner with shrimps and sweet potatoe. Not usualy having any, but I bought some instead of the fruits. Will see how it goes...
 
 Getting off the computer. Will read and relax tonight to male sure I sleep well.
 
-### kathiebu@hotmail.com — 2012-07-26T15:24:17+0300
+### [email redacted] — 2012-07-26T15:24:17+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-41183>
 
 122 days binge-free!! That's 4 months!!
@@ -24830,7 +24830,7 @@ I'm going to Hampton Beach, NH, this week-end. We couldn't rent rooms with kitch
 
 Have a great weekend!!! Glad you got some good sleep last night!
 
-### kathiebu@hotmail.com — 2012-07-26T15:36:49+0300
+### [email redacted] — 2012-07-26T15:36:49+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-41189>
 
 Thank's Paula!!  I sure will, can't wait to be there!! Have a good week-end too, and drop that beer!!  I'm gonna sent you some GF ones!! Never had any, but apparently we have some good ones here.
@@ -24840,7 +24840,7 @@ Thank's Paula!!  I sure will, can't wait to be there!! Have a good week-end too,
 
 Hehe...ok Katy! I'll check out the GF!
 
-### kathiebu@hotmail.com — 2012-08-01T00:58:09+0300
+### [email redacted] — 2012-08-01T00:58:09+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-42152>
 
 Came back from the beach last night. I was a really nice week-end, even though the weather wasn't so great. Did some CT in the ocean, ate well all week-end (snacked on almonds and had a few sips of wine), but didn't sleep well.
@@ -24871,19 +24871,19 @@ Dr K mentioned this is what can happen with Hashi's..... Antibodies and TSH all 
 
 But definitely ask for them to be re-done if you feel something is wrong.
 
-### kathiebu@hotmail.com — 2012-08-01T15:20:55+0300
+### [email redacted] — 2012-08-01T15:20:55+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-42239>
 
 Thank's girls!! I'm crossing my fingers it's only a lab mistake.
 
-### nosnhojjennifer@yahoo.com — 2012-08-01T15:56:40+0300
+### [email redacted] — 2012-08-01T15:56:40+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-42243>
 
 Katy if you have Hashimotos your TSH can swing like that.
 
 Wondering what you decided on apartment?
 
-### kathiebu@hotmail.com — 2012-08-01T16:27:26+0300
+### [email redacted] — 2012-08-01T16:27:26+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-42247>
 
 Hi Jen!
@@ -24894,7 +24894,7 @@ Had to let go on the appart  Really too expensive for me right now, it's not rea
 
 I love your new signature btw. You rock
 
-### kathiebu@hotmail.com — 2012-08-02T23:37:01+0300
+### [email redacted] — 2012-08-02T23:37:01+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-42570>
 
 Sleot not so good last night. It took me a while to fall asleep, I woke up at 4, and then slept til 8. Very, very tired today and I've been nauseous all day. It happens a lot, but not this intense and not this long.
@@ -24912,7 +24912,7 @@ Had some eggs for BAB, and decided to cut them back, along with nuts, chocolate,
 
 Is it the nausea you are talking about happening a lot? I wonder if you are having some sort of die-off. I did last fall and it went on for about 2 weeks. I hate that feeling. Hope you feel better soon.
 
-### kathiebu@hotmail.com — 2012-08-03T15:42:07+0300
+### [email redacted] — 2012-08-03T15:42:07+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-42658>
 
 Thank's V. It does happen a lot, but not on a daily basis. The more I'm tired, the more it happens. And yesterday it was really intense
@@ -24924,7 +24924,7 @@ Slept pretty good last night, woke up once at 1:30 and slept til 7 this morning.
 
 I gave up coffee about a month ago & although I haven't really missed it, I agree with you, it was a great way to get in the extra fat! Plain CO is not appealing to me!
 
-### kathiebu@hotmail.com — 2012-08-03T22:50:14+0300
+### [email redacted] — 2012-08-03T22:50:14+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-42759>
 
 Oh my. Don't know what's wrong with me today. I was hungry at 11 (had BAB at 8!), had some smoked salmon, and was hungry again at 2, and feeling a little hypoglycemic. Wasn't home and really needed to eat. Had a fruit and almonds. Too much almonds. I went on eating even if I knew I wasn't hungry. And then thought about purging. Which I didn't do, but for a few minutes I was seriously thinking about it.
@@ -24933,14 +24933,14 @@ What is that? I feel rather good today, not as tired as this morning. Is it the 
 
 and note to myself: DON'T BUT NUTS. EVER. capiche?
 
-### kathiebu@hotmail.com — 2012-08-04T14:56:53+0300
+### [email redacted] — 2012-08-04T14:56:53+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-42825>
 
 Th rest of the day went well yesterday. Went out for dinner, had oysters and salmon tartare. I don't know if I ate something wrong in the evening or if it's because of the almonds, but I went to bed bloated and in pain. I felt asleep pretty easilly though and did not got up once in the night. Slept til 6:30 this morning.
 
 Having BAB, trying to have more fat than yesterday to avoid any cravings, and no sweet potatoe today.
 
-### kathiebu@hotmail.com — 2012-08-05T23:59:13+0300
+### [email redacted] — 2012-08-05T23:59:13+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-43126>
 
 Soooo tired again today. It's weird, it's like I feel the tireness is my eyes, they are very sensitive. Went to bcould never have thoed late last nigt and slept weel til 6:30 this morning.
@@ -24949,7 +24949,7 @@ TOM is here. Last cycle was 28 days. Better than the last one that was only 22 d
 
 Still not having any coffee, chocolate and eggs. Not seeing any difference so far, but I'll stick to it for now....
 
-### kathiebu@hotmail.com — 2012-08-06T20:49:02+0300
+### [email redacted] — 2012-08-06T20:49:02+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-43256>
 
 Slept good last night. Went to bed late again, woke up at 6 and went back to sllep til 9:30!! Feeling pretty good today. Had BAB late, so I don't think I'll have lunch today other than Kombucha. First time I'm having this, it really is delicious! Also bought a SCOBY so I can do my own. My place is too chilly with the ac, I'll have to store at a friend's house. I hope she won't be grossed out by it  I should be doing some sauerkraut too.
@@ -24958,7 +24958,7 @@ Missing my chocolate. I have some in the fridge, not a good idea, but I won't be
 
 Have a nice day all!!
 
-### kathiebu@hotmail.com — 2012-08-08T00:32:41+0300
+### [email redacted] — 2012-08-08T00:32:41+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-43510>
 
 134 days binge-free
@@ -24969,7 +24969,7 @@ Did a 12 minute work out Ã  la Bodyrock yesterday, and I'm sore today. Maybe I
 
 My appointment with Dr K is Friday and most of my labs aren't back yet  Don't have thyroid panel but TSH and antibodies, I wish I would know about T3, T4 and rT3 before I tlk to him and before my apt next week with my Dr here. Got DHEA though and it's in the roof. Might need to stop taking any for a while...
 
-### kathiebu@hotmail.com — 2012-08-08T15:02:46+0300
+### [email redacted] — 2012-08-08T15:02:46+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-43629>
 
 6:15 seems to be the new time to wake up. Slept good again, and through the night. Will have to go to bed earlier to get my 8 hours of sleep.
@@ -24978,7 +24978,7 @@ My butt is still sore this morning.
 
 Not taking DHEA this morning. And forgot to note that I added Ashwagandha last week. Haven't feeling as tired as last week the last two days, and throat is less swollen too.
 
-### kathiebu@hotmail.com — 2012-08-11T00:29:54+0300
+### [email redacted] — 2012-08-11T00:29:54+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-44204>
 
 Been feeling pretty good all week. Sleep was ok. Woke up at 5 yesterday morning. Did a w/o the night before, and skiped the DHEA. Not sure what caused the short night sleep. Was tired all day but feeling better than the last weeks. Throat is not as swollen as sore as it was last week. Had some wine last night on a date, but slept ok anyway. Have much to do with clinic, which is opening in 16 days  Will be very busy in the next days, but I'm pretty exited about it.
@@ -24987,7 +24987,7 @@ I have my consult with Dr K tonight, will report back.
 
 Of to do some yoga before the consult.
 
-### kathiebu@hotmail.com — 2012-08-11T15:31:16+0300
+### [email redacted] — 2012-08-11T15:31:16+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-44312>
 
 Slept like a baby last night  Did not use my relaxatin tape and fell asleep in no time, til 6:30 this morning. Would have like to sleep longer but I had to get up anyway. Feeling pretty good.
@@ -25006,17 +25006,17 @@ Dr K also suggested me bone or seafood broth. Can't really get any bones from GF
 
 Now I can't wait to see my doctor and start the T3 to see how I'll feel . Thank's Dr K!!
 
-### nosnhojjennifer@yahoo.com — 2012-08-11T16:26:43+0300
+### [email redacted] — 2012-08-11T16:26:43+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-44321>
 
 Great consult and great sleep Katy! Wow you make it found so simple. Lol. You're on your way. My thyroid is better and I'm feeling like a million bucks too
 
-### kathiebu@hotmail.com — 2012-08-12T15:50:30+0300
+### [email redacted] — 2012-08-12T15:50:30+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-44514>
 
 I'm glad to read you are doing good Jennifer! That's awesome! I feel so much better and I haven't start medication yet. Watch me, I'll be in fire!!
 
-### kathiebu@hotmail.com — 2012-08-12T16:01:25+0300
+### [email redacted] — 2012-08-12T16:01:25+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-44517>
 
 Slept good again last night. Went to bed a little late after a great evening with my best friend at restaurant. Had oysters and salmon tartare. I'm still having the same dose of magnesium every night, but as Dr K suggested, I have one capsule of neuro mag sublingual. Don't know if its because of that, but I was asleep in no time last night and the night before. Woke up at 6:30 again, feeling a little tired but not too bad.
@@ -25027,17 +25027,17 @@ Works started at clinic yesterday. I have much to do, but I'm pretty exited. I'm
 
 Have a nice Sunday all
 
-### nicebeanst@yahoo.com — 2012-08-13T04:20:08+0300
+### [email redacted] — 2012-08-13T04:20:08+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-44620>
 
 katy, I had a consult on Saturday, and basically the SAME issues as you..I've been reading your journal all along, just thought I'd pop out of the woodwork to say HOWDY and let ya know I'm in the same boat
 
-### kathiebu@hotmail.com — 2012-08-13T15:37:20+0300
+### [email redacted] — 2012-08-13T15:37:20+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-44670>
 
 Hi Teenie! Thank's for stopping by. Hashis, low hormones, bad sleep, Ed...I'm so glad this is becoming history. I can see the new and better me coming out and I love it  Are you taking any medication yet?
 
-### kathiebu@hotmail.com — 2012-08-13T15:53:10+0300
+### [email redacted] — 2012-08-13T15:53:10+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-44672>
 
 140 days binge-free
@@ -25053,12 +25053,12 @@ Got to work a little now. Have a nice day all
 
 So glad to read everything is coming together for you. So awesome!!!
 
-### kathiebu@hotmail.com — 2012-08-15T01:17:38+0300
+### [email redacted] — 2012-08-15T01:17:38+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-44959>
 
 Thank's Paula! I'm really glad about it, and the timing couldn't more perfect. I feel way better and can handle everything with the clinic opening in less than 2 weeks
 
-### kathiebu@hotmail.com — 2012-08-15T14:56:14+0300
+### [email redacted] — 2012-08-15T14:56:14+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-45006>
 
 Stiil sleeping good but waking up pretty early. 4:30 yesterday and 5:15 today. I feel great though today, better than usually.
@@ -25069,14 +25069,14 @@ He also told me to take supplements to support the adrenals. I don't understand 
 
 I'll get the T3/T4 in a couple of days and will see how I feel.
 
-### kathiebu@hotmail.com — 2012-08-18T02:37:02+0300
+### [email redacted] — 2012-08-18T02:37:02+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-45474>
 
 Very tired today. Went to bed way too late last night and the night before. Slept well, but had to get up early. Woke up at 5 again this morning, an hour before my alarm. Got a total of 5 and half hour of sleep. Def not enough for me. I'm tired, but still can function properly, which is pretty good. Had a nap this afternoon and will go to bed early tonight and will try to rest.
 
 Started my T3/T4 this morning. I guess it will take several days for me to see any difference. Haven't start the Elimination diet yet, I'll wait until I start working and I have a more stable schedule. Really have to avoid nuts. I had some yesterday and today because I was hungry at lunch and didn't have anything on hand. Have to plan a little more.
 
-### kathiebu@hotmail.com — 2012-08-19T16:18:08+0300
+### [email redacted] — 2012-08-19T16:18:08+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-45670>
 
 146 days binge-free
@@ -25113,12 +25113,12 @@ My generic Rx was for 5 micrograms, not mgs.
 
 I was pretty sure something was wrong.... but had to call back anyways about it on Monday.
 
-### kathiebu@hotmail.com — 2012-08-20T04:15:18+0300
+### [email redacted] — 2012-08-20T04:15:18+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-45786>
 
 Hummmm...On my T3/T4 bottle, it says 30mg, but I don't know exactly how much T3 and T4 are in it. Will check tomorrow with the pharmacist.
 
-### kathiebu@hotmail.com — 2012-08-21T00:09:49+0300
+### [email redacted] — 2012-08-21T00:09:49+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-45926>
 
 Verified with the pharmacist and each pill is 25mcg T3 and 0.1mcg... Makes more sense.
@@ -25136,7 +25136,7 @@ if it just turned a bit tan... that's fine. Sometimes they get darker spots. The
 
 Now if the color you're talking about is mold, then you need to throw it away. Did you leave the door ajar to the cupboard? You need air circulation.
 
-### kathiebu@hotmail.com — 2012-08-22T14:29:58+0300
+### [email redacted] — 2012-08-22T14:29:58+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-46265>
 
 It looks more like mold... The door of the cupboard was closed in order to keep it warm. Do I need to throw the SCOBY and the tea away? I'm not home, but I'll take a pic tonight. Thank's Soul.
@@ -25146,12 +25146,12 @@ It looks more like mold... The door of the cupboard was closed in order to keep 
 
 If the door was closed it could be mold. You need to provide air circulation. Yes, If it's mold I would throw the whole thing away. Mold has never happened to me I think. I do get the little flies and then the scoby goes in the trash.
 
-### kathiebu@hotmail.com — 2012-08-23T12:47:57+0300
+### [email redacted] — 2012-08-23T12:47:57+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-46499>
 
 Thank's again Soul. I threw the whole thing away  I'll start a new one this week-end. Was really looking forward to have my own Kombucha in the morning, but I'm not into having any mold. Yeurk.
 
-### kathiebu@hotmail.com — 2012-08-24T21:54:09+0300
+### [email redacted] — 2012-08-24T21:54:09+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-46803>
 
 151 days binge-free
@@ -25162,12 +25162,12 @@ Food is good, having lots if caned sardines and mackerel. Shrimps were in specia
 
 I have been taking my T3/almost-non-existant-T4 for a week now. I'm so tired I don't know if it's working yet. Have to do more yoga to relax at night.
 
-### kathiebu@hotmail.com — 2012-08-24T22:00:33+0300
+### [email redacted] — 2012-08-24T22:00:33+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-46807>
 
 Oh yeah, one more thing: I think I've lost some weight. I think. I almost weigted myself yesterday, but changed my mind. I didn't want to be disapointed and ruin the day with that. My jeans (the only ones that still fit) and a little less tight than they were, and my love handles are less apparent. That's good news
 
-### kathiebu@hotmail.com — 2012-08-25T15:39:41+0300
+### [email redacted] — 2012-08-25T15:39:41+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-46992>
 
 Slept bad again last night...Went to bed at 9:30, candle lights in the evening, no computer. Woke up at midnight and took almost 3 hours to go back to sleep.
@@ -25190,14 +25190,14 @@ I slept like \*\*\*\* too........too much light from a new webinar.
 
 Pill splitter?
 
-### kathiebu@hotmail.com — 2012-08-25T21:50:04+0300
+### [email redacted] — 2012-08-25T21:50:04+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-47103>
 
 > **Jack Kruse;47432 wrote:** I slept like \*\*\*\* too........too much light from a new webinar.
 
 But I'm so glad you recorded it again, because I missed it on Thursday night. Thank's for your time Dr K!!
 
-### kathiebu@hotmail.com — 2012-08-26T02:06:08+0300
+### [email redacted] — 2012-08-26T02:06:08+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-47157>
 
 Oh oh. I should get rid of that dark chocolate I bought at Lindt Outlet when I was in the States...Had a piece this afternoon, and another one, and so on...And ate the whole thing. NO GOOD!! I have no problem staying away from nuts and coffee, but this chocolate is calling my name, especially when I don't have lunch and getting hungry late afternoon... It almost finished in the garbage, but I'll give it to a friend instead. SOON.
@@ -25209,7 +25209,7 @@ Oh oh. I should get rid of that dark chocolate I bought at Lindt Outlet when I w
 
 I think that would be a formidable task  It was just the rx it got corrected before the pharmacy actually made it.
 
-### kathiebu@hotmail.com — 2012-08-27T02:28:51+0300
+### [email redacted] — 2012-08-27T02:28:51+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-47395>
 
 Past out as soon as I hit the pillow last night and slept for 7 and a half hour. I was pretty surprised about that, especially after the chocolate episode. The other bars I had are now in the garbage. I know, it's a shame, but I was about to do the same than yesterday. I have to go strict AI. I know I'll feel even better. I was very low energy today, I'm sure it was partly from the chocolate.
@@ -25221,12 +25221,12 @@ Tried to listen to the last webinar, but it kept shuting down. Will try again th
 
 Sometimes we have to do such things. I have gone to the store in the past during my ED just to throw the garbage away on the way home. Still better than hurting yourself more. Feel proud of yourself for taking the right action.
 
-### kathiebu@hotmail.com — 2012-08-27T14:48:55+0300
+### [email redacted] — 2012-08-27T14:48:55+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-47466>
 
 Thank's Soul  You're right: I'm not a garbage and don't want that crap in my body. I probably have an intolerance to chocolate too, that would explain why I crave it that much. It's out. No more. Ciao ciao!!
 
-### kathiebu@hotmail.com — 2012-08-27T14:59:53+0300
+### [email redacted] — 2012-08-27T14:59:53+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-47468>
 
 154 days binge-free
@@ -25253,7 +25253,7 @@ Happy Monday to all of you,
 
 K
 
-### kathiebu@hotmail.com — 2012-08-28T13:13:26+0300
+### [email redacted] — 2012-08-28T13:13:26+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-47742>
 
 155 days binge-free
@@ -25276,7 +25276,7 @@ No light at night: Got home at 7:30. No lights but candles to read and relax.
 
 Ct: nop, didn't happen.
 
-### kathiebu@hotmail.com — 2012-08-29T18:06:15+0300
+### [email redacted] — 2012-08-29T18:06:15+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-48094>
 
 156 days binge-free
@@ -25297,7 +25297,7 @@ No light at night: getting off the computer now!! (7:40)
 
 CT: water is still warm, but trying to lower T of water is the shower. Much harder than expected!
 
-### kathiebu@hotmail.com — 2012-08-30T14:53:50+0300
+### [email redacted] — 2012-08-30T14:53:50+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-48337>
 
 157 days binge-free
@@ -25320,7 +25320,7 @@ No lights at night: got home from work at 8: no computer and only candle light
 
 Ct: no
 
-### kathiebu@hotmail.com — 2012-08-31T13:49:32+0300
+### [email redacted] — 2012-08-31T13:49:32+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-48547>
 
 158 days binge-free
@@ -25348,12 +25348,12 @@ Up at 4 again, too
 
 Sucks. This was happening before I started T3. I think I sleep longer with more melatonin at night. So I guess I'll have to up that again. But yeah, a drag, if you want to get anything accomplished during the day other then trying to stay awake.
 
-### kathiebu@hotmail.com — 2012-08-31T23:08:59+0300
+### [email redacted] — 2012-08-31T23:08:59+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-48633>
 
 It does suck. I can't think clearly today. It's 4 pm and I'm going for a nap. Maybe I could try some melatonin at night too...
 
-### kathiebu@hotmail.com — 2012-09-01T16:12:39+0300
+### [email redacted] — 2012-09-01T16:12:39+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-48714>
 
 159 days binge-free
@@ -25381,12 +25381,12 @@ Ct: shower this morning was colder than usual and felt pretty good
 
 Enjoy the sun! I like September too, it is easier to be active without the intense heat!
 
-### kathiebu@hotmail.com — 2012-09-02T16:54:34+0300
+### [email redacted] — 2012-09-02T16:54:34+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-48936>
 
 Thank's Endless! I agree with you!!
 
-### kathiebu@hotmail.com — 2012-09-02T17:04:18+0300
+### [email redacted] — 2012-09-02T17:04:18+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-48939>
 
 160 days binge-free
@@ -25409,7 +25409,7 @@ No lights at night: didn't happen. Spent the night out with a friend.
 
 Ct: no.
 
-### kathiebu@hotmail.com — 2012-09-03T15:53:27+0300
+### [email redacted] — 2012-09-03T15:53:27+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-49169>
 
 161 days binge-free
@@ -25434,7 +25434,7 @@ No lights at night: was on computer too late
 
 CT: 30 minutes bath!!  The T was at 71 degrees, but it's a beginning.
 
-### kathiebu@hotmail.com — 2012-09-05T01:43:49+0300
+### [email redacted] — 2012-09-05T01:43:49+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-49484>
 
 162 days binge-free
@@ -25460,28 +25460,28 @@ CT: nop
 
 How do you cook your mackerel at home?
 
-### kathiebu@hotmail.com — 2012-09-06T15:04:43+0300
+### [email redacted] — 2012-09-06T15:04:43+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-49722>
 
 Hi Endless,
 
 I usually eat it caned  This one was home made caned by my friend's mother, I think she boiled it. When I buy iy fresh and cook it myself, I simply put it in the oven, with some oil mixed with mustard, balsamic vinegar and a bit of honey or maple syrup over it.
 
-### kathiebu@hotmail.com — 2012-09-06T15:10:26+0300
+### [email redacted] — 2012-09-06T15:10:26+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-49726>
 
 As a result of going to bed late and having some wine, I only slept 4 hours and woke up feeling like crap. Great way to undo the work we got done with acupuncture. Not so proud of me. Throat was swollen for a bit in the morning. Not good at all.
 
 Was very tired, but after taking the second dose of T3 in the afternoon, I was feeling much better. Called to renew my prescription at pharmacy, but I might be in trouble: Dr only prescribe 25mgr QD 3 months for and I'm taking 75mgr QC...Runing out and only have an appointement with him at the end of October. Oh oh.
 
-### kathiebu@hotmail.com — 2012-09-06T15:13:33+0300
+### [email redacted] — 2012-09-06T15:13:33+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-49729>
 
 Dating world is not a good idea for a girl needing much sleep and dark at night. Went to bed too late lately, and I can feel it. Slept 7 hours last night, but still wired this morning. Got to do something about it. Will take it easy this week-end for sure.
 
 I try to think about taking second dose of T3 in the afternoon, but I keep forgeting to bring it with me at work.
 
-### kathiebu@hotmail.com — 2012-09-06T21:18:59+0300
+### [email redacted] — 2012-09-06T21:18:59+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-49824>
 
 I'm feeling pretty good today even if I woke up soooo tired. And busy at work , that helps also.
@@ -25490,7 +25490,7 @@ Got some sun at lunch time. Only 10 minutes, but it felt good.
 
 Had shrimps for BAB with avocado and coconut milk, caned mackerel for lunch, and I'm supposed to go out for dinner, will probably have a tartare or something light. ETA: Finally had sardines late pm because I was hungry, and had a glass of wine in the evening.
 
-### kathiebu@hotmail.com — 2012-09-07T14:00:23+0300
+### [email redacted] — 2012-09-07T14:00:23+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-49951>
 
 165 days binge-free
@@ -25511,7 +25511,7 @@ No lights at night: no lights and no computer after 8
 
 CT: bath tub is ready, gonna go for 30 minutes as soon as BAB is done. And did another 30 minutes at night
 
-### kathiebu@hotmail.com — 2012-09-07T14:27:19+0300
+### [email redacted] — 2012-09-07T14:27:19+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-49953>
 
 My tea as been fermenting for 2 weeks now. I don't know if looks right. So afraid to have mold, I'd like an opinion on it. Soul?
@@ -25520,12 +25520,12 @@ Can't post the pics
 
 [http://www.facebook.com/stroump.coquin.9?ref=tn\_tnmn#!/photo.php?fbid=117286601753559&set=a.117286598420226.23625.100004166582473&type=1&theater](http://http://www.facebook.com/stroump.coquin.9?ref=tn_tnmn#!/photo.php?fbid=117286601753559&set=a.117286598420226.23625.100004166582473&type=1&theater)
 
-### nosnhojjennifer@yahoo.com — 2012-09-07T15:21:31+0300
+### [email redacted] — 2012-09-07T15:21:31+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-49963>
 
 I can't tell from pick - do You have a lid on it?
 
-### kathiebu@hotmail.com — 2012-09-07T16:00:52+0300
+### [email redacted] — 2012-09-07T16:00:52+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-49976>
 
 > **Jennifer;50508 wrote:** I can't tell from pick - do You have a lid on it?
@@ -25539,7 +25539,7 @@ I'm having a hard time telling, too. Never used a coffee filter as cover but not
 
 From what I can see on the pic I'd say it's probably just a bubble in the scoby and they will get them more with less airflow and they can turn brown. Is it filled with air or solid?
 
-### kathiebu@hotmail.com — 2012-09-07T16:25:37+0300
+### [email redacted] — 2012-09-07T16:25:37+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-49985>
 
 It's filled with air...
@@ -25551,7 +25551,7 @@ I hope I won't have to throw it away again
 
 I always used a coffee filter for mine, I used to make it a lot. Sometimes the scoby will get a gas bubble, or just some air trapped under it...
 
-### kathiebu@hotmail.com — 2012-09-08T15:19:51+0300
+### [email redacted] — 2012-09-08T15:19:51+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-50233>
 
 166 days binge-free
@@ -25577,12 +25577,12 @@ CT: 30 minutes this morning
 
 I just ate a pound of raw shrimp for breakfast during an educational consult. Now for a quick swim before the next one.
 
-### nosnhojjennifer@yahoo.com — 2012-09-09T02:12:45+0300
+### [email redacted] — 2012-09-09T02:12:45+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-50343>
 
 How was your consult Katy? (did you have it yet?)
 
-### kathiebu@hotmail.com — 2012-09-09T04:14:10+0300
+### [email redacted] — 2012-09-09T04:14:10+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-50385>
 
 It is supposed to be tomorrow, but not sure it will happen, I'm trying to change the time of the consult but don't know how...
@@ -25594,7 +25594,7 @@ It is supposed to be tomorrow, but not sure it will happen, I'm trying to change
 
 You should be able to cancel it on the Tungle. You get a cancellation e-mail. Then, book a new slot for your consult.
 
-### kathiebu@hotmail.com — 2012-09-09T19:04:17+0300
+### [email redacted] — 2012-09-09T19:04:17+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-50512>
 
 Thank's Destiny, I finally fugured it out
@@ -25678,14 +25678,14 @@ I sleep better with carbs too. I know that is bad and I'm sure my t3 is low. Tha
 
 Katy, English is my first language and I can barely understand half the time (and usually forget to ask most of what I meant to during consults). Thanks for sharing. It's good to know ferments are OK for some with Hashi's. Sounds like you had a really good consult even without labs. Well done.
 
-### kathiebu@hotmail.com — 2012-09-10T15:20:35+0300
+### [email redacted] — 2012-09-10T15:20:35+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-50692>
 
 > **Souldanzer;51083 wrote:** Thanks for sharing..... got some tid bits for myself
 
 My pleasure. I hope it can help
 
-### kathiebu@hotmail.com — 2012-09-10T15:25:10+0300
+### [email redacted] — 2012-09-10T15:25:10+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-50693>
 
 > **vkiernan;51108 wrote:** I sleep better with carbs too. I know that is bad and I'm sure my t3 is low. Thanks for sharing that tip. I have gut issues too here and there and everytime I have some nausea, I know that is a good thing and just accept it. When I started eating my own kraut and kombucha, I was nauseated a lot. Hoping it is the good buggies killing the bad ones and they are pissed. It is pretty much gone now since this weekend. I am going to give up eggs. Your advice is well taken and to hear that you felt better so quickly is a good reason to do it.
@@ -25703,7 +25703,7 @@ Hey, about the sore throat thing, I have been battling that for about 8 years no
 
 I did NOT eat eggs today. Yeah, day no. 1!
 
-### kathiebu@hotmail.com — 2012-09-11T02:56:41+0300
+### [email redacted] — 2012-09-11T02:56:41+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-50859>
 
 I've had that for a long time too, but thought it was because of purging. Yeah on Day 1 w/o eggs! I hope you'll feel better very soon. Keep me posted!
@@ -25715,7 +25715,7 @@ Purging isn't something I could ever do. I gag and I don't like gaging! I got re
 
 I was told many years ago that it is from stress. That is probably why it waxes and wanes. Never gets 100% though. Some day. How does yours feel? But, you aren't purging now though are you?
 
-### kathiebu@hotmail.com — 2012-09-11T03:03:57+0300
+### [email redacted] — 2012-09-11T03:03:57+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-50862>
 
 168 days binge-free
@@ -25742,7 +25742,7 @@ No lights at night: check
 
 CT: had a 30 minutes bath after work
 
-### kathiebu@hotmail.com — 2012-09-11T03:07:14+0300
+### [email redacted] — 2012-09-11T03:07:14+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-50863>
 
 > **vkiernan;51421 wrote:** Purging isn't something I could ever do. I gag and I don't like gaging! I got really drunk by accident one time and really tried to make myself throwup and I failed completely. I was really sick for a day or two afterwards. I drank 2 long island ice teas, well almost 2, by the time I was half way thru the 2nd I was gone.....
@@ -25753,7 +25753,7 @@ CT: had a 30 minutes bath after work
 
 Mine feel really good now and have been for a few weeks. In July, while I was having LOTS of eggs, it was very swollen and sore (and not purging anymore). Last week I had 2 glasses of wine with one dinner, and not much sleep that night, and it was swollen the next morning, and it lasted almost all day.
 
-### kathiebu@hotmail.com — 2012-09-11T03:09:52+0300
+### [email redacted] — 2012-09-11T03:09:52+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-50865>
 
 To me, it felt like my lymph nodes were always swollen, and I was feeling "tight" on the front part of my throat. Weird feeling, just like I was going to be sick.
@@ -25779,7 +25779,7 @@ That tightness is what I feel too on the outside. hard to explain to others. It 
 
 Ok, I have to really think about all of this as you have me wondering what is up with both of us. But, I never gave up eggs. Ok, I promise you as a test I will be very strict and not eat eggs or drink wine or anything that I am not supposed to. I do eat a little 99% chocolate though as cocobark but only with lunch. Ok or not???
 
-### kathiebu@hotmail.com — 2012-09-11T03:19:51+0300
+### [email redacted] — 2012-09-11T03:19:51+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-50874>
 
 Thank's V. I wish you would feel the same, I know it's been a long time for you on the reset.
@@ -25788,7 +25788,7 @@ Honestly, I don't change it up much...Always the same things: game meat in the m
 
 I'm really good with my diet. I want to get better so bad, the only things I was having problem with is dark chocolate, so I did throw it away. I love wine, but I know I'll feel bad for days if I have any, so I'm really careful with that.
 
-### kathiebu@hotmail.com — 2012-09-11T03:24:29+0300
+### [email redacted] — 2012-09-11T03:24:29+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-50875>
 
 I'd say if you really want to do it the right way, you have to forget about chocolate for now. No dairies, no nuts, no chocolate, no coffee, no rice, no corn, no nightshades. I know. It's a lot of no's... But you can't expect to feel great if you don't do it at 100%. Keeping only a little of what can nurture inflammation will keep you from feeling better. We are so sensitive to it, we can't take any chance. The first few days are the worst, and then you get used to it. And hopefully you feel better.
@@ -25800,7 +25800,7 @@ Well then I guess my chocolate will have to go too. You make a very good point a
 
 I am really tired tonight and my throat is sore but it is down more on the inside where the bones are in between that spot. Can you relate?
 
-### kathiebu@hotmail.com — 2012-09-11T03:36:26+0300
+### [email redacted] — 2012-09-11T03:36:26+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-50880>
 
 Yes, I can, and it also often felt just like you said, like when you clear up your throat.
@@ -25817,7 +25817,7 @@ So what the hell is it??? Did you actually have AF? Can't remember the actual ou
 
 Hey you! It sounds like you are doing G-R-E-A-T!!! So happy for you!
 
-### kathiebu@hotmail.com — 2012-09-11T23:49:02+0300
+### [email redacted] — 2012-09-11T23:49:02+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-51064>
 
 > **vkiernan;51445 wrote:** So what the hell is it??? Did you actually have AF? Can't remember the actual outccome. I'm asking because it might really be stress related. But, you have had a lot of stress lately and yet you are doing better. You voice never goes? Mine was almost completely gone a few years back when I was going thru a ton of stress. I remember trying to interview people for a job and I could barely speak. Not a fun time.
@@ -25829,14 +25829,14 @@ No, I don't think I have AF. And my voice never goes. I rewad on StopTheThyroidM
 
 Ok, 3rd morning with no eggs and I'm still living. My stomach is not quite as bloated either. Yes, I blew it on the chocolate yesterday at work. It was one of those feed me now moments and that is all I had. Didn't eat a lot but I still ate it regardless. I am not eating any today. Thanks for all of your input and support!
 
-### kathiebu@hotmail.com — 2012-09-12T22:29:07+0300
+### [email redacted] — 2012-09-12T22:29:07+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-51246>
 
 > **paulalynn;51599 wrote:** Hey you! It sounds like you are doing G-R-E-A-T!!! So happy for you!
 
 Yes, I'm doing good!!  So happy too! Seems that I'm in the right direction
 
-### kathiebu@hotmail.com — 2012-09-12T22:51:31+0300
+### [email redacted] — 2012-09-12T22:51:31+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-51252>
 
 170 days binge-free (the 6 months mark is coming!!! )
@@ -25857,7 +25857,7 @@ No lights at night: check
 
 CT: half an hour bath this morning. Tap water is getting colder  And another 30 minutes after dinner.
 
-### kathiebu@hotmail.com — 2012-09-13T18:09:02+0300
+### [email redacted] — 2012-09-13T18:09:02+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-51445>
 
 171 days binge-free
@@ -25883,7 +25883,7 @@ Ct: 30 minutes bath after BAB and 30 minutes at night
 
 What times of the day are you taking your T3? My doc is going to put me on it 2x a day. I'm pretty excited. Another step down the path.
 
-### kathiebu@hotmail.com — 2012-09-14T16:21:41+0300
+### [email redacted] — 2012-09-14T16:21:41+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-51636>
 
 > **vkiernan;52160 wrote:** What times of the day are you taking your T3? My doc is going to put me on it 2x a day. I'm pretty excited. Another step down the path.
@@ -25897,14 +25897,14 @@ That's great! I take first dose as soon as I get up, and second dose around 2-2:
 
 Suprisingly, I feel a little happier today. Slept like pooh last night though. I have not slept like that in a long time. But, I still feel ok. My stomach is a lot less bloated today too. The other thing though is the ox bile I am taking is causing D every am for the last 3 days unless it is something else. I have cut back on it. We'll see how things go. I do have to e-mail her on the t3 as this should be a titrating up thing and not just a steady dose to clear the rt3. I would like to buy the book on the t3 protocol so I know more about it and what to expect.
 
-### kathiebu@hotmail.com — 2012-09-14T23:21:26+0300
+### [email redacted] — 2012-09-14T23:21:26+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-51691>
 
 > **vkiernan;52256 wrote:** Suprisingly, I feel a little happier today. Slept like pooh last night though. I have not slept like that in a long time. But, I still feel ok. My stomach is a lot less bloated today too. The other thing though is the ox bile I am taking is causing D every am for the last 3 days unless it is something else. I have cut back on it. We'll see how things go. I do have to e-mail her on the t3 as this should be a titrating up thing and not just a steady dose to clear the rt3. I would like to buy the book on the t3 protocol so I know more about it and what to expect.
 
 What is that book V?
 
-### kathiebu@hotmail.com — 2012-09-15T00:47:21+0300
+### [email redacted] — 2012-09-15T00:47:21+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-51714>
 
 172 days binge-free!
@@ -25930,12 +25930,12 @@ CT: did 15 minutes this morning and will do some more tonight afer dinner.
 
 Recovering with T3: My Journey from Hypothyroidism to Good Health Using the T3 Thyroid Hormone by Paul Robinson I think Pattycakes is doing this. Someone out here. Someday I will be able to remember the details!
 
-### kathiebu@hotmail.com — 2012-09-15T15:31:16+0300
+### [email redacted] — 2012-09-15T15:31:16+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-51795>
 
 Found it. You can buy it here: [http://recoveringwitht3.com/](http://http://recoveringwitht3.com/)
 
-### kathiebu@hotmail.com — 2012-09-15T22:17:57+0300
+### [email redacted] — 2012-09-15T22:17:57+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-51863>
 
 173 days binge-free
@@ -25958,7 +25958,7 @@ No lights at night:
 
 CT: 30 minutes bath after BAB
 
-### kathiebu@hotmail.com — 2012-09-18T22:23:46+0300
+### [email redacted] — 2012-09-18T22:23:46+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-52508>
 
 176 days binge-free
@@ -25985,7 +25985,7 @@ CT: no. was going to have a bath after dinner, but wasn't feeling like it so I s
 
 No lights at night: watched tv all night with oranges glasses....
 
-### kathiebu@hotmail.com — 2012-09-19T16:31:16+0300
+### [email redacted] — 2012-09-19T16:31:16+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-52680>
 
 177 days binge-free
@@ -26019,7 +26019,7 @@ Doc is only letting me have 40 mcg of T3 per day. Pretty bummed over that since 
 
 Can you explain why coffee is bad? I have 1 cup in the am and load it with co. This actually helps me get more fat in my diet. I keep telling myself to stop it but apparently I don't listen well!
 
-### kathiebu@hotmail.com — 2012-09-20T15:37:31+0300
+### [email redacted] — 2012-09-20T15:37:31+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-52887>
 
 Good morning V,
@@ -26030,7 +26030,7 @@ Seems that there's a protein in coffee that triggers gluten antibodies. It's pre
 
 I loved my coffee too, especially to load it with fat, just like you, but I really think it's better to let it go. You can replace it with tea maybe? I know, it's not the same, but you can still add CO in it.
 
-### kathiebu@hotmail.com — 2012-09-20T15:44:48+0300
+### [email redacted] — 2012-09-20T15:44:48+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-52889>
 
 179 days binge-free
@@ -26072,7 +26072,7 @@ I snacked on fruits this afternoon, again. Had strawberries and rasberries. I th
 
 Dumb question, if he Rx'd 25 how are you upping to 100 when you would run out after a week if it is a month's supply? This is what happened to me the last time and she would not refill it. It did just occur to me that I might have script there yet which I could add to this one. I will have to look for the old bottle. Hmmm!
 
-### kathiebu@hotmail.com — 2012-09-20T23:24:04+0300
+### [email redacted] — 2012-09-20T23:24:04+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-53006>
 
 You're right, I'm running out pretty quickly, so I just went back to the pharmacy to get more, and after a month, I called my doctor so he could re-new it for me. I hope you'll find a way to get more!
@@ -26082,12 +26082,12 @@ You're right, I'm running out pretty quickly, so I just went back to the pharmac
 
 Can we eat any dark chocolate or not? What about Yerba Mate tea that uses cocoa beans? I did not drink coffee today. First day. We'll see how it goes.
 
-### kathiebu@hotmail.com — 2012-09-21T15:57:52+0300
+### [email redacted] — 2012-09-21T15:57:52+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-53161>
 
 No, no dark chocolate or anything with cocoa. Sorry, it seems that I'm the party breaker, but you have to cut all wheat, corn, rice, chocolate, coffee, nuts, eggs and nightshades. Yay for you on the coffee.
 
-### kathiebu@hotmail.com — 2012-09-21T16:10:49+0300
+### [email redacted] — 2012-09-21T16:10:49+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-53167>
 
 180 days binge-free
@@ -26129,12 +26129,12 @@ Have a nice Friday you all!! Bonne journÃ©e!!
 
 Interesting tidbit. I am at where you are and have actually been eating some veggies this week. Sounds like the wrong time especially since I have been loading up on progesterone cream. Yikes. Thanks for that. I will keep that in mind!
 
-### kathiebu@hotmail.com — 2012-09-22T16:14:30+0300
+### [email redacted] — 2012-09-22T16:14:30+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-53394>
 
 I don't think veggies are enough carbs to bother. I'm not having much of them, but I def have to cut back on fruits!!
 
-### kathiebu@hotmail.com — 2012-09-22T16:47:57+0300
+### [email redacted] — 2012-09-22T16:47:57+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-53398>
 
 181 days binge-free
@@ -26168,7 +26168,7 @@ Paula
 
 _\-- Sent from my Palm Pre using [Forums](http://http://developer.palm.com/appredirect/?packageid=com.newnessdevelopments.forums)_
 
-### kathiebu@hotmail.com — 2012-09-24T16:09:41+0300
+### [email redacted] — 2012-09-24T16:09:41+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-53779>
 
 183 days binge-free.
@@ -26193,7 +26193,7 @@ Here's something I read on Bellatrix Nutrition FB page this am:
 
 "Something nobody can take away from you is the way you choose to respond to what others say and do to you. The last of your freedoms is to choose your attitude in any given circumstance. Choose to be happy and positive. It is not always easy to find happiness in ourselves, but it is always impossible to find it elsewhere. Regardless of the situation we face, our attitude is our choice. So smile as you walk away and move on from negative people and their actions." I like it...
 
-### kathiebu@hotmail.com — 2012-09-28T22:07:30+0300
+### [email redacted] — 2012-09-28T22:07:30+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-55071>
 
 187 days binge-free
@@ -26232,14 +26232,14 @@ Mornin' K. Doubled my dose this am. We'll see how the day goes. I took my t3 and
 
 Congrats on the 6 months and putting the ice cream back. I have really wanted some lately too.
 
-### kathiebu@hotmail.com — 2012-09-29T18:47:06+0300
+### [email redacted] — 2012-09-29T18:47:06+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-55231>
 
 > **Endless;56126 wrote:** Congratulations on the six months! I just celebrated 7 months smoke free....it feels so good to get some time under your belt!
 
 Thank's Endless!
 
-### kathiebu@hotmail.com — 2012-09-29T18:51:35+0300
+### [email redacted] — 2012-09-29T18:51:35+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-55233>
 
 > **vkiernan;56200 wrote:** Mornin' K. Doubled my dose this am. We'll see how the day goes. I took my t3 and 1.5 gr of Armour yesterday and didn't feel any different. The dh has a lot of physical work for me today. Here's hoping the t3 helps.
@@ -26252,7 +26252,7 @@ Looking forward to hear back from you. I was listening to a webinar last night f
 
 Try to take it on the physical work, and have a nice day
 
-### kathiebu@hotmail.com — 2012-09-29T18:57:45+0300
+### [email redacted] — 2012-09-29T18:57:45+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-55236>
 
 188 days binge-free
@@ -26267,7 +26267,7 @@ No snacking: yes
 
 CT: yes- 40 minutes after BAB
 
-### kathiebu@hotmail.com — 2012-10-01T16:25:16+0300
+### [email redacted] — 2012-10-01T16:25:16+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-55562>
 
 190 days binge-free
@@ -26291,7 +26291,7 @@ I have a question; did you go more hypo when starting the t3? I still have swoll
 
 I did double my dose Sat. and didn't feel any different. I would think it would take more than 1 day though.
 
-### kathiebu@hotmail.com — 2012-10-02T21:44:22+0300
+### [email redacted] — 2012-10-02T21:44:22+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-55917>
 
 > **vkiernan;56776 wrote:** Hi K. Sorry you aren't feeling the best.
@@ -26310,7 +26310,7 @@ I wasn't more hypo, but I was still hypo until I upped the dose. Why would you n
 
 Hopefully your doc will be willing to help you with that. Tell her that you'll up the dose slowly and as soon as you have any side effect, you'll go back down. I think I read on STTM that if you don't up the dose the symptoms can fire back...
 
-### kathiebu@hotmail.com — 2012-10-04T03:08:45+0300
+### [email redacted] — 2012-10-04T03:08:45+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-56137>
 
 Did not sleep good on Monday night. Woke up a little before 3 and went back to sleep half an hour before the alarm went on. What was supposed to be Day 13 of my cycle on Tuesday turned out to be Day 1. I couldn't believe it. WTH!?! A 12 days long cycle?!? What is going on??
@@ -26344,12 +26344,12 @@ CT: 30 minutes after dinner
 
 I was only thinking cuz I got the headaches again and that is what I had prior to t4 or anything and t4 actually helped them. I think I am making progress with her though. I copied and e-mailed her the pages out of the book along with Jack's t3 pearls. Hoping the both of them is enough. She was very open to reading my info. I want her on board to be able to help me. We'll see what tomorrow brings.
 
-### kathiebu@hotmail.com — 2012-10-05T15:09:14+0300
+### [email redacted] — 2012-10-05T15:09:14+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-56456>
 
 I might have the same problem with my doctor. Now that I'm done with my prescription, it doesn't seem that he wants to up my dose...I meet him next Tuesday, can't wait to see...
 
-### kathiebu@hotmail.com — 2012-10-05T15:13:50+0300
+### [email redacted] — 2012-10-05T15:13:50+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-56458>
 
 Didn't sleep good at all last night. Turned in my bed all night. Lowered the Prometrium at 100 mg, and it seems it's too soon to do so. Woke up really, really tired. Was neaseous all morning, had palpitation and was dizzy. That all cleared up early afternoon and was feeling great for the rest of the day. Had some fruits for lunch and immediately felt better.
@@ -26364,7 +26364,7 @@ No snacking: no
 
 CT: 30 minutes after BAB
 
-### kathiebu@hotmail.com — 2012-10-05T15:16:58+0300
+### [email redacted] — 2012-10-05T15:16:58+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-56459>
 
 Slept good last nigt, woke up around 5 (seems to be the new waking hour ), but I'm feeling pretty tired this morning. Took only half of a 25 mcg T3 pill this morning and started to have little palpitation. My doc is going to freak out next week!!
@@ -26379,7 +26379,7 @@ No snacking: yes
 
 CT: yes
 
-### kathiebu@hotmail.com — 2012-10-08T16:02:22+0300
+### [email redacted] — 2012-10-08T16:02:22+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-56885>
 
 All right...let's start over this AI thing once again. Was doing pretty good on saturday, didn't have anything non-Ai, but had way too much sugar at the end of the day. So yesterday I started from zero again. I can do it!! So tired of feeling bad, but I keep having chocolate and wine. Why are those soooo good??
@@ -26394,7 +26394,7 @@ No snacking: yes
 
 CT: yes. 30 minutes after BAB
 
-### kathiebu@hotmail.com — 2012-10-09T20:22:00+0300
+### [email redacted] — 2012-10-09T20:22:00+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-57128>
 
 Felt pretty good yesterday, and slept ok last night, but woke up tired again this morning. Had an accupuncture session again, she's working a lot on liver and spleen.
@@ -26425,12 +26425,12 @@ I wish I knew...I have the same problem!
 
 Did you feel the earthquake?
 
-### kathiebu@hotmail.com — 2012-10-11T01:08:20+0300
+### [email redacted] — 2012-10-11T01:08:20+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-57463>
 
 I did!!! Only woke up at the end, so I missed the most scary part, but everybody was talking about that today. It was only a low amplitude one....wouldn't want to see a high one!
 
-### kathiebu@hotmail.com — 2012-10-11T01:18:15+0300
+### [email redacted] — 2012-10-11T01:18:15+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-57465>
 
 Didn't sleep good last night. Woke up with the earthquake, wasn't sure if I was dreaming or not, and it took me a while to go back to sleep. Woke up around 6 and astayed in bed until 7. Was very tired and low energy today until around 1 or 2, and energy is very good since. I'm afraid there is something wrong again with adrenals.
@@ -26447,7 +26447,7 @@ Early dinner: yes
 
 CT: 20 minutes after BAB and 30 minutes after dinner
 
-### kathiebu@hotmail.com — 2012-10-11T01:23:26+0300
+### [email redacted] — 2012-10-11T01:23:26+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-57466>
 
 Oh, and I forgot: went shopping on lunch time at a natural store and bought liver detox supplements and organic shampoo and soap. Will try to use less products with toxins in them for my skin and care. It's kind of freaky that everything that goes on the skin is 100% absorbed by it. Just like the light...
@@ -26469,12 +26469,12 @@ My hair person told me that henna really damages hair. I didn't ask why though.
 
 Maybe dries it out? It's non-toxic at least. I'd try it.
 
-### kathiebu@hotmail.com — 2012-10-11T15:52:50+0300
+### [email redacted] — 2012-10-11T15:52:50+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-57573>
 
 Thank you...I will look into that
 
-### kathiebu@hotmail.com — 2012-10-11T16:00:28+0300
+### [email redacted] — 2012-10-11T16:00:28+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-57575>
 
 200 days binge-free!!  Whoot whhot!! Happy girl here!!
@@ -26521,12 +26521,12 @@ Gosh look at me I didn't even notice  Sorry if that was inappropriate...... I lo
 
 I wasn't implying it was inappropriate....just funny!
 
-### kathiebu@hotmail.com — 2012-10-12T02:00:34+0300
+### [email redacted] — 2012-10-12T02:00:34+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-57676>
 
 Thank you all!!  I love the graphic too Soul, it's really nice, and I wouldn't have noticed the M&M neither, lol
 
-### kathiebu@hotmail.com — 2012-10-12T15:08:34+0300
+### [email redacted] — 2012-10-12T15:08:34+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-57736>
 
 Slept good again last night. Went to bed too late (11:30), and woke up at 6. The fog that persisted in the last two weeks seem to have lift and I'm actually really awake. Didn't use Prometrium last night. Upped a little DHEA to make sure I sleep well.
@@ -26543,7 +26543,7 @@ Early dinner: yes, but was hungry at night and ate
 
 CT: 20 minutes after BAB
 
-### kathiebu@hotmail.com — 2012-10-13T17:12:16+0300
+### [email redacted] — 2012-10-13T17:12:16+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-57955>
 
 Slept ok last night. Woke up once in the night, and was awake at 6 this morning. Might be due to the late food I had last night. Was craving chocolate so bad, but didn't want to have anything non AI. Had strawberries instead and some salmon.
@@ -26614,7 +26614,7 @@ It is about touching your vulnerability and then unleashing that strength agains
 
 Vulnerability is no weakness. That is a life myth that is profoundly dangerous to a person looking for an Optimal life.
 
-### kathiebu@hotmail.com — 2012-10-14T17:29:25+0300
+### [email redacted] — 2012-10-14T17:29:25+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-58109>
 
 Slept good last night. Went to bed very late after babysitting at my sister's all night. Neighbors woke me up in the middle of the night with fire alarm and it tookme a while to fall back asleep. Took 100 mg Prometrium. Feeling good this morning, but a little foggy. Will see if it's the same tomorrow.
@@ -26654,12 +26654,12 @@ What Jack has written here may sound to some a bit vague and mabye even a little
 
 I held still yesterday during my consult even though every fiber of my being wanted to run away and hide. But I didn't flinch. And the reward is I am uncovering truths like mad today. Facing my self and my truths about who I am and who I want to be. sounds crazy but that consult was worth a year's worth of therapy and now I have a road map to guide me through the dark wood.
 
-### kathiebu@hotmail.com — 2012-10-14T20:38:22+0300
+### [email redacted] — 2012-10-14T20:38:22+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-58155>
 
 I'm glad you had that consult, Darleen, even if it was stressful and difficult. Just read your journal. Thank's for sharing your story, it's really brave of you. Despite not being where you want right now, you are still a beautiful person. Embrasse and trust yourself, you can do it, you will do it, and everyone here will support you when needed  Hugs. K.
 
-### kathiebu@hotmail.com — 2012-10-18T14:51:03+0300
+### [email redacted] — 2012-10-18T14:51:03+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-58901>
 
 Been sleeping bad for a couple of nights. Was still feeling good day time, but this morning it's pretty difficult. I woke up around 4 and couldn't go back to sleep.
@@ -26687,12 +26687,12 @@ Have a good day all!
 
 Hi K. Sorry to hear you aren't feeling the best. Hope it goes away soon and stays away. Did your Doc not refill your Rx for t3 or did you just not make the trip to pick it up? I love having the c. pharmacy mail it to me. Usually too wiped to stop after work to pick up. No fun to run out.
 
-### kathiebu@hotmail.com — 2012-10-18T23:43:14+0300
+### [email redacted] — 2012-10-18T23:43:14+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-59037>
 
 Thank's V. I didn't have time to pick up my Rx, and finally they'll mail it to me, it should be in the mailbox as I get home. Surprisely, I feel really good without it. Wondering if I should stop it for now. I'm tired because of the bad night sleeps, but not low energy and tired like I used to be. Or maybe the lack of T3 is the reason I don't sleep well, who knows... Bur thank's anyway for stopping by  I know you're having a tough week too, I hope it's better today.
 
-### kathiebu@hotmail.com — 2012-10-22T21:22:26+0300
+### [email redacted] — 2012-10-22T21:22:26+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-59689>
 
 Had a really great week-end with friends, but had a few things I shouldn't have yesterday for brunch. Was in pain in the evening
@@ -26711,7 +26711,7 @@ CT: 45 minutes after BAB. Still having a problem to submerge myself up to the sh
 
 Did a 12 minutes work out this morning. I finish work too late tonight and tomorrow, so I did it this morning anyway. It felt really great, even if I'm so out of shape.
 
-### kathiebu@hotmail.com — 2012-10-24T00:32:23+0300
+### [email redacted] — 2012-10-24T00:32:23+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-59901>
 
 After 2 goods night sleep, I ddin't sleep well last night. WEnt to bed t 10:30, woke up at 2, and turned for the rest of the night. I did sleep a little because I dreamed. Woke up tired, but it wan't that bad.
@@ -26735,12 +26735,12 @@ Did a 6 minutes abs w/o this morning. It was supossed to be a 12 minutes one, bu
 
 Are you doing the BodyRock workouts? They are pretty tough, I'm glad they are only 12 minutes!
 
-### kathiebu@hotmail.com — 2012-10-25T18:55:11+0300
+### [email redacted] — 2012-10-25T18:55:11+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-60158>
 
 Yes I am!!  I can't push them as much as I used to, but I still love those short w/o and the variety they offer.
 
-### kathiebu@hotmail.com — 2012-10-25T18:57:37+0300
+### [email redacted] — 2012-10-25T18:57:37+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-60159>
 
 Doing CT late at night wasnMt a good idea. That's what I did on MOnday, just before bed. Couldn't warm myself up and fall asleep. After a few hours, finally took a warm shower and slept the rest of the night.
@@ -26757,7 +26757,7 @@ Early dinner: is ice cream considered as dinner?
 
 CT:
 
-### kathiebu@hotmail.com — 2012-10-26T01:52:34+0300
+### [email redacted] — 2012-10-26T01:52:34+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-60237>
 
 I've been having crazy sugar cravings for a few weeks now. Don't know what's wrong. Can't let go of the fruits. I had some this afternoon, and things started to get worst: had nuts, and then had ice cream!! I don't know why it has been so hard lately to stay on track. I DO know I feel better when I do, but with all the bad sleep these past weeks, it's really difficult. Good news is that it didn't lead to a binge, but I'm definitely not happy about all that crap.
@@ -26781,12 +26781,12 @@ I have been craaving apples...I guess because they are in season and so nice rig
 
 If you aren't sleeping well that's probably why you're having those cravings. I recognized a long time ago that my being tired brought out the sugar monster. Your body is craving an energy source and it wants it now. Carbs are a quick fix. Of course, that realization won't make it go away. Can you work in a nap during the day? That might help. Even just sitting in the recliner (if you have one) and closing your eyes for a bit can be a big help. At least, it was for me.
 
-### tggywnkle@aol.com — 2012-10-26T19:59:29+0300
+### [email redacted] — 2012-10-26T19:59:29+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-60342>
 
 Thanks, Darleen, for posting this. I know this is my problem also, but I am finding myself going back to the carbs instead of giving my body what it's really asking for. I'm going to be more mindful of this so I can get back on track. These last two weeks have not been good.
 
-### kathiebu@hotmail.com — 2012-10-26T20:38:10+0300
+### [email redacted] — 2012-10-26T20:38:10+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-60345>
 
 Thank's girls! I'm feeling pretty good today despite the ice cream (it was lactose free and low sugar)...Had cramps all night, but slept ok anyway. Had a huge breakfast with shripms and scallops, and I still don't want any food (it's 1:30).
@@ -26795,28 +26795,28 @@ You are right Darleen: as soon as I don't get enough sleep, I find myself wantin
 
 Have a good day all. Took off this afternoon and gonna enjoy the beautiful sun we've got here
 
-### kathiebu@hotmail.com — 2012-10-28T16:48:21+0200
+### [email redacted] — 2012-10-28T16:48:21+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-60560>
 
 Finally had a decent night sleep last night. I took the arsenal out: magnesium, melatonin, T3, Prometrium and P cream! Woke up once around 3 and went back to sleep until 8. Had to fight against the urge to binge yesterday afternoon. Had dark chocolate and stopped there...Went to take a long walk, it really calmed me down, and had two CT sessions.
 
 I have to focus on strict AI diet again. This is really the most difficult for me. The plan is pretty simple: cold, sleep, light, food. Day after day. I'm gonna give myself a mini-goal: 30 days at the time, while I monitor how I feel and sleep. Not that I'm going to blow it after 30 days, but I find it easier to set short goals. Will take my measurements tomorrow, and will take it again at the end of each month.
 
-### kathiebu@hotmail.com — 2012-10-29T22:55:23+0200
+### [email redacted] — 2012-10-29T22:55:23+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-60790>
 
 Did sleep ok last night, about 6,5 hours. Saw my doctor this morning, that is not much helping. Told me to continue with P and T3, and told me to eat before I go to bed because waking up around 5 could be hypoglycemia...He also sold me some detox protein, but I think I'll take tem back (made with rice protein and high in carbs...)
 
 Did 2 x 30 minutes CT sessions yerterday, but can't do any today (working late). Food is ok, second day stricty AI. Not feeling my best, tired and irritable  TOTM should be here anytime soon, but it's hard to say when.
 
-### kathiebu@hotmail.com — 2012-10-30T18:14:30+0200
+### [email redacted] — 2012-10-30T18:14:30+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-60957>
 
 Crapy sleep last night, crapy mood today...Must be PMSing, I'm so sentitive, I have to be careful not to burst into tears when people are talking to me :S
 
 I read again CT1 last night and decided I have to go hard core if I want my sleep back. Did 30 minutes this morning even if I was not feeling like it, put lots of ice in the tub and fully imerged myself. Couldn't do it longer, but I'll work my way up and will be trying to do it every day, even if it means getting up a little earlier. Need to add more ice and stay in longer. Will read the entire CT serie again. Sleep is already a lot better than it was, but it needs to improve so I can function properly at work. I'm on my way, and I'll have CT work for me this winter.
 
-### kathiebu@hotmail.com — 2012-11-01T13:51:42+0200
+### [email redacted] — 2012-11-01T13:51:42+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-61255>
 
 It's not a surprise, I slept poorly the last 2 nights. Couldn't fall asleep this time. Ran out of DHEA, could be that, but I also realized yesterday that the sleep got worst around the same time I started Lugol's.
@@ -26868,7 +26868,7 @@ I'm doing the Salt Flush this morning to clear the symptoms. Hopefully it's not 
 
 me too!!! I got up at 4:25 and started my day.......But I did go to sleep at 9 PM
 
-### kathiebu@hotmail.com — 2012-11-01T14:12:09+0200
+### [email redacted] — 2012-11-01T14:12:09+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-61260>
 
 Wow. Quit not there yet, at 4:25 I was still trying to rest a little
@@ -26930,7 +26930,7 @@ Wow. Quit not there yet, at 4:25 I was still trying to rest a little
 
 Thanks for posting this. I started taking it a few weeks ago and maybe that is why I am having some reactions to things.
 
-### kathiebu@hotmail.com — 2012-11-02T01:54:38+0200
+### [email redacted] — 2012-11-02T01:54:38+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-61454>
 
 [](<http://http://www.jackkruse.com/forum/convert_files/attachments/63202=526-every time....jpg>)
@@ -26939,7 +26939,7 @@ Saw that on facebook today...That's how I tend to choose what I put in my mouth.
 
 ETA: I thought the pic would appear bigger...Just click on it to see it properly...
 
-### kathiebu@hotmail.com — 2012-11-02T14:21:21+0200
+### [email redacted] — 2012-11-02T14:21:21+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-61510>
 
 Slept better last night  Not the perfect resting night, but at least I slept. Wil do the salt flush again this morning, just in case... And I've been dreaming a lot lately. That is very new for me, I used to not dreaming/not remembering it. It's weird because it always nagative stuff: arguing with someone, accident, death...Is that normal?
@@ -26955,12 +26955,12 @@ Have a nice Friday all
 
 me too......got 8.5 and I feel better.
 
-### kathiebu@hotmail.com — 2012-11-02T15:47:22+0200
+### [email redacted] — 2012-11-02T15:47:22+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-61527>
 
 Great  Have a nice day!!
 
-### kathiebu@hotmail.com — 2012-11-03T14:11:17+0200
+### [email redacted] — 2012-11-03T14:11:17+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-61739>
 
 Slept all night!! WEnt to bed around 10:30 and woke up at 6 this morning. A little early to my taste, but so happy sleep is back!!!
@@ -26974,7 +26974,7 @@ Of to do some CT and enjoy my day
 
 Yes, having light sooner is wonderful! Not so much looking forward to the dark afternoon though.....
 
-### kathiebu@hotmail.com — 2012-11-05T14:22:54+0200
+### [email redacted] — 2012-11-05T14:22:54+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-62184>
 
 I totally agree with you, but if I have to choose, I prefer waking up with the sun
@@ -26989,7 +26989,7 @@ Have a nice day all!!
 
 K
 
-### kathiebu@hotmail.com — 2012-11-07T14:27:15+0200
+### [email redacted] — 2012-11-07T14:27:15+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-62503>
 
 Slept through the night again last night  Went to bed late, and woke up at 6 this morning, but didn't get up once. Wentt outside to watch the sun rise with a nice 24 degrees. I'm pretty sure I'm cold adapting, my place is so cold, not using the heat yet, and I feel fine. It's just a little more difficult to get in the tub, so I do some light weight training in my living room to warm up a little.
@@ -27022,7 +27022,7 @@ D I have felt bad the last 6 weeks.......self induced for a new bio hack........
 
 You know, Jack, that is one of the things I just love about you ... your "mad scientist" bent. and I had wondered the last time I 'saw' you if you were well ... you really didn't look so good. Now I know why. Eagerly awaiting the results of whatever it is you're doing because I'm sure it will be, at the very least, interesting.
 
-### kathiebu@hotmail.com — 2012-11-08T14:41:58+0200
+### [email redacted] — 2012-11-08T14:41:58+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-62866>
 
 Day 2 of cycle.
@@ -27031,7 +27031,7 @@ Slept ok last night. Was so tired that I was in bed before 10. Got up once aroun
 
 Didn't have lunch yesterday and was feeling fine. Just finished my BAB, and and can't get dowm as much as I used too. That's good news. I'm also seeing my belly decreasing in size, and very happy about that. Couldn't resist to weight this morning. I'm at 151.6 lbs. Was 152.8 last week. It's doesn't mean anything, it could be only water, and I don't want to get exited or motivated by the scale. I'll wait a couple weeks before I weight again.
 
-### kathiebu@hotmail.com — 2012-11-09T14:36:29+0200
+### [email redacted] — 2012-11-09T14:36:29+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-63108>
 
 Day 3 of cycle.
@@ -27043,7 +27043,7 @@ Slept great last night  I did it all wrong last night: ate late, had wine, and w
 
 The duck sounds great ... as does your good night of sleep. It will eventually even out and you'll have that sleep more times than not. I cannot believe how mine has improved over the last year. This morning I woke up at 9:30!! 11 hours of bliss. It's wonderful.
 
-### kathiebu@hotmail.com — 2012-11-10T04:13:33+0200
+### [email redacted] — 2012-11-10T04:13:33+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-63284>
 
 Wow. 11 hours? You must feel so great. I'm looking forward to get up fresh and rested again. But I'm not complaining, at least I'm sleeping. And yes, that duck was amazing. I was still full when I got up this morning
@@ -27058,19 +27058,19 @@ Mmmm, duck. Sounds like a great date!
 
 So how do you cook duck??? I just bought my very first one. Looking forward to some duck fat to try cooking with too.
 
-### kathiebu@hotmail.com — 2012-11-10T15:26:28+0200
+### [email redacted] — 2012-11-10T15:26:28+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-63363>
 
 Good morning V. I had it at a French restaurant, but it's pretty easy to do. Here's an easy recipe for you: [http://www.leftoverqueen.com/2012/08/28/practical-paleo-duck-with-cherry-sauce](http://http://www.leftoverqueen.com/2012/08/28/practical-paleo-duck-with-cherry-sauce). It's with cherry sauce, but you can change it. Or just use Google to find something to your taste. Just make sure you don't overcook the duck. Good luck, and bon appÃ©tit
 
-### kathiebu@hotmail.com — 2012-11-10T15:37:05+0200
+### [email redacted] — 2012-11-10T15:37:05+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-63366>
 
 > **Endless;65170 wrote:** Mmmm, duck. Sounds like a great date!
 
 It was: perfectly cooked duck, a good bottle of wine, and the man of my dreams
 
-### kathiebu@hotmail.com — 2012-11-10T15:41:12+0200
+### [email redacted] — 2012-11-10T15:41:12+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-63368>
 
 Day 4 of cycle
@@ -27081,7 +27081,7 @@ Off to CT, and then I'm going to enjoy the nice sunny day and I'll go hiking wit
 
 ETA: tap water is now 48 degres. Coldest I have done yet!!
 
-### kathiebu@hotmail.com — 2012-11-12T17:31:20+0200
+### [email redacted] — 2012-11-12T17:31:20+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-63828>
 
 Day 6 of cycle
@@ -27101,21 +27101,21 @@ ETA: can someone help me and tell me how I can attach a picture so it's bigger? 
 
 You did the picture attachment right. Just click on it and it pops up in the size you uploaded.
 
-### kathiebu@hotmail.com — 2012-11-12T22:18:53+0200
+### [email redacted] — 2012-11-12T22:18:53+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-63863>
 
 > **DarleenMB;65785 wrote:** You did the picture attachment right. Just click on it and it pops up in the size you uploaded.
 
 Thank's Darleen!
 
-### kathiebu@hotmail.com — 2012-11-13T15:31:01+0200
+### [email redacted] — 2012-11-13T15:31:01+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-64007>
 
 > **Thor;65851 wrote:** interesting
 
 would you elaborate?
 
-### kathiebu@hotmail.com — 2012-11-13T15:34:42+0200
+### [email redacted] — 2012-11-13T15:34:42+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-64010>
 
 Day 7 of cylcle
@@ -27139,19 +27139,19 @@ Took DHEA yesterday (75 mg), it must have helped. After reading what V said abou
 
 You got some great sleep - good for you! I was wondering how you are doing with the t3. I wouldn't mess with your sleep either.
 
-### kathiebu@hotmail.com — 2012-11-15T20:53:02+0200
+### [email redacted] — 2012-11-15T20:53:02+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-64545>
 
 Hi V. I'm taking 50 mcg as I raise, and another 25 mcg later in the afternoon. I feel great, but it seems to be too much because I have heart palpitations. I'll stay on this dose a couple of days to see if that will go away.
 
-### kathiebu@hotmail.com — 2012-11-17T17:24:17+0200
+### [email redacted] — 2012-11-17T17:24:17+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-64945>
 
 Day 11 of cycle. Not counting the binge-free days anymore, but I guess I would be around 230 days
 
 Slept so good last night. Was in bed around 11, woke up to use restroom at 5:30 and went back to sleep til 8:30. I feel good, but still tired, and I couldn't get into the tub after BAB, I was too cold. Don't know what's wrong. I thought I would be fine after a good night sleep because I was cold yerterday too, but didn't sleep much the previous night. I'm going to the gym this pm with my sister to try a free class, so I might be able to soak in once I'm warmed up...
 
-### kathiebu@hotmail.com — 2012-11-19T15:09:58+0200
+### [email redacted] — 2012-11-19T15:09:58+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-65311>
 
 Day 13 of cycle
@@ -27169,7 +27169,7 @@ ETA: did some rope skipping and abs to warm up, and finally got in that tub. Sta
 
 Time to come back!!!!Â  Hope all is well!
 
-### kathiebu@hotmail.com — 2012-11-28T09:03:34+0200
+### [email redacted] — 2012-11-28T09:03:34+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-65758>
 
 Yep, time to come back { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
@@ -27193,7 +27193,7 @@ Have a good day, and thank you for reading.
 
 Glad to see you back!!! Must be nice to \*feel\* like working out. I think you'll do great with keeping the diet keto until Christmas.
 
-### kathiebu@hotmail.com — 2012-12-10T18:51:53+0200
+### [email redacted] — 2012-12-10T18:51:53+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-67051>
 
 Two weeks later...Guess who is slacking on diet? I'm not keto at all...Too much carbs, too much wine and too much late dinners.
@@ -27225,7 +27225,7 @@ You need to re gain your beginner's mind. Â 
 
 Thoughts to ponder.
 
-### kathiebu@hotmail.com — 2012-12-13T09:56:40+0200
+### [email redacted] — 2012-12-13T09:56:40+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-67343>
 
 Yes, I have to change what I'm doing. I feel it, and sleep it getting worst and worst, just like before. There's no secret, I know what I have to do, now I have to find a way to fit everthing together and priorize my health.
@@ -27235,7 +27235,7 @@ Yes, I have to change what I'm doing. I feel it, and sleep it getting worst and 
 
 Are you still doing a lot of CT? I'm having a hard time now that it's cold outside!
 
-### kathiebu@hotmail.com — 2012-12-17T10:35:35+0200
+### [email redacted] — 2012-12-17T10:35:35+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-67689>
 
 Nope...Haven't done any in two weeks. Shame on me. Taking warm to cold shower, but I know it's not enough. I have some time ahead of me this morning, and will do some. The good news is that I feel pretty confortable outside in the cold. Don't have to wear gloves and a big coat when everybody is wrap in several layers
@@ -27262,7 +27262,7 @@ The all-inclusive sounds like a great xmas plan! I understand the wine issue. It
 
 K, you will get back into the swing.Â  You will wake up and say to yourself, ok -Â this is it; back to the path to optimal and you will make it happen!Â Â Glad you are posting again.
 
-### kathiebu@hotmail.com — 2012-12-17T18:02:42+0200
+### [email redacted] — 2012-12-17T18:02:42+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-67747>
 
 > **paulalynn said**
@@ -27272,7 +27272,7 @@ K, you will get back into the swing.Â  You will wake up and say to yourself, o
 >
 > Oh yes it's a great plan /wp-includes/images/smilies/icon\_smile.gif It's funny, when I drink, I don't want to eat. I used to, but now if I drink I just don't want to eat, even my meal.
 
-### kathiebu@hotmail.com — 2012-12-17T18:04:35+0200
+### [email redacted] — 2012-12-17T18:04:35+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-67748>
 
 > **vkiernan said**
@@ -27294,7 +27294,7 @@ Drinking wine does both things to me...first I lose my hunger and motivation to 
 
 Im stopping all wine past 12/21/12 Â New bio hack. Â
 
-### kathiebu@hotmail.com — 2012-12-21T12:32:56+0200
+### [email redacted] — 2012-12-21T12:32:56+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-68123>
 
 Can't wait to see that new bio hack, Dr Kruse!
@@ -27315,7 +27315,7 @@ Enjoy every minute of your vacation and have a great Holiday!!!Â
 
 Merry Christmas! I hope you are having a great holiday!
 
-### kathiebu@hotmail.com — 2013-01-02T13:11:45+0200
+### [email redacted] — 2013-01-02T13:11:45+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-69021>
 
 Thank's Endless! I hope your had a nice Christmas, and I wish you a beautiful year!!
@@ -27327,7 +27327,7 @@ betterme, hope that cold has been kicked to the curb!
 
 Wow! Jack's new biohack (or part of it) ...no alcohol!!! Geez, that would be so hard. Really curious to hear about it!
 
-### kathiebu@hotmail.com — 2013-01-07T10:04:30+0200
+### [email redacted] — 2013-01-07T10:04:30+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-69730>
 
 Time to do some catch up!! But first I wish you all an awesome year!!
@@ -27347,7 +27347,7 @@ https://www.facebook.com/groups/melifestylers/?fref=ts#!/photo.php?fbid=10151634
 
 Glad you're back!!! Happy New Year! That restaurant looked great; CT while enjoying dinner out!
 
-### kathiebu@hotmail.com — 2013-01-12T09:56:36+0200
+### [email redacted] — 2013-01-12T09:56:36+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-70386>
 
 Happy New Year to you too Paula!
@@ -27362,7 +27362,7 @@ Got my T3 in the mail. Still cold at night, and throat is often sore. Not seeing
 
 Still not doing any CT because I feel so cold. I know I have to get back at it, and now!!! Off to the shower, I'll make it as cold as possible. Have a nice day all!!
 
-### kathiebu@hotmail.com — 2013-01-13T10:37:25+0200
+### [email redacted] — 2013-01-13T10:37:25+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-70496>
 
 Lost my post!!
@@ -27389,7 +27389,7 @@ I'm really wondering if you should be doing any exercise right now let alone cro
 
 I am definitely thinking the same thing ...... crossfit is too hard on your bod.....Jack say's.......
 
-### kathiebu@hotmail.com — 2013-01-13T18:12:39+0200
+### [email redacted] — 2013-01-13T18:12:39+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-70578>
 
 Thank you ladies!
@@ -27405,7 +27405,7 @@ Have a nice evening!!
 
 Actually .... Jack say's...wait until your Leptin is reset ...and then do Heavy lifting \[LHT\] but only a little...can't remember how long - have to reread - I think 15 min - a couple of times a week ...but maybe go back and read the Leptin R/X to get it straight from the horse's mouth!
 
-### kathiebu@hotmail.com — 2013-01-14T10:36:22+0200
+### [email redacted] — 2013-01-14T10:36:22+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-70654>
 
 Actually, Jack said you can start to work out when your mitochondria are working at 50%... waiting for my last labs to see how I'm doing with DHEA and Hs-CRP.
@@ -27414,14 +27414,14 @@ Slept like crap again last night. It seems I'm taking a few steps backward. Slep
 
 Ordered on amazon D-Ribose, CoQ10 and PPQ. Listened to the last webinar yesterday and it seems that those could help me. Looked for L-Carnitine too, but I'm not sure I need it, I'll wait til I have my consult to buy anything else.
 
-### kathiebu@hotmail.com — 2013-01-14T10:45:23+0200
+### [email redacted] — 2013-01-14T10:45:23+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-70656>
 
 Just booked a consult on next Sunday. Tempted to buy another one, but it says Consultation Voucher expires on March 1st...Does it mean I have to use the consult before March 1st, or I have to book before March 1st... Anyone?
 
 Have a good day all!!
 
-### kathiebu@hotmail.com — 2013-01-15T08:04:15+0200
+### [email redacted] — 2013-01-15T08:04:15+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-70835>
 
 How could I go weeks and months at the time with bad sleep? I slept bad the last 4 nights and I want to cry. Still no problem to fall asleep, but last night I woke up at 1 and slept really bad til 6:30
@@ -27453,7 +27453,7 @@ Probably the same way I went with bad sleep for DECADES. You just keep moving, i
 
 You'll get your sleep back. You were in a bad place long ago with sleep and look how far you've come!
 
-### kathiebu@hotmail.com — 2013-01-15T20:18:57+0200
+### [email redacted] — 2013-01-15T20:18:57+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-70955>
 
 Yeah, I shoudl survive
@@ -27462,7 +27462,7 @@ But that sucks.... I'm actually not doing that bad. First hour is a pain, and th
 
 Reading a bit about grounding, it's pretty interesting...I guess that's one of the thing we will discuss this week-end....Can't wait!!
 
-### kathiebu@hotmail.com — 2013-01-17T17:42:30+0200
+### [email redacted] — 2013-01-17T17:42:30+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-71278>
 
 Slept a little better last night. Had a hard time to fall asleep, it was too cold in my room. Finally slept from 12:00 to 6:00, and went back to sleep until 9. Was feeling very tired this morning, but from noon I've been much better.
@@ -27471,7 +27471,7 @@ Upped the dose of CoQ10 after what Dr K said in the Q&A said last night. Stil ta
 
 Took cold showers the last days, but couldn't this morning. I'm always more cold when tired. Should be ice spotting tonight.
 
-### kathiebu@hotmail.com — 2013-01-18T09:48:07+0200
+### [email redacted] — 2013-01-18T09:48:07+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-71381>
 
 Slept a little better again last night. Woke up around 1:30 and went back to sleep an hour later or so. Woke up at 7 this morning. Tired, but not as much as yesterday morning.
@@ -27503,12 +27503,12 @@ If it was me I would have to tell this guy about the sleep, just because it's so
 
 Good luck girl! If this guy is worth it he'll think you're hot with your orange glasses!
 
-### kathiebu@hotmail.com — 2013-01-18T12:56:19+0200
+### [email redacted] — 2013-01-18T12:56:19+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-71407>
 
 Thank's for your message ALT! Actually, my declined results started only a few days ago, but might be causing by what I'm doing (or not doing) since this relation started. I was feeling so great and sleeping pretty good, while enjoying my time with my man. Of course it's not okay to let a new relation interfere with my health, but I'm not letting that man go, he's so awesome and nice, I'm sure he's THE one. Need to find a way to have both: love and health!!
 
-### kathiebu@hotmail.com — 2013-01-18T13:01:57+0200
+### [email redacted] — 2013-01-18T13:01:57+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-71408>
 
 Hey Paula!!
@@ -27535,7 +27535,7 @@ You sound like me Paula - always new stuff coming to the door! LOL.
 
 If he's that into you, he will accept you with blue blockers or whatever "crazy" thing you have to do because your health is important to you. So I say use your consult as a lead in, and go for it!
 
-### kathiebu@hotmail.com — 2013-01-18T19:30:11+0200
+### [email redacted] — 2013-01-18T19:30:11+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-71500>
 
 You're right Darleen: I might be surprised....in a good way. I'm sure he's pretty comprehensive. He knows my health is a "little" fragile and that I have to be careful with certain things. He just doesn't know what yet
@@ -27544,7 +27544,7 @@ I'll have to do it anyway, so I guess if I explain it the way you do, he can't s
 
 Diane, we must be very endearing then!!!
 
-### kathiebu@hotmail.com — 2013-01-19T09:58:02+0200
+### [email redacted] — 2013-01-19T09:58:02+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-71586>
 
 Finally had a decent night sleep. That feels soooo good!! Had an accupuncture treatment yesterday afternoon, had dinner at 6 last night, turn all the lights off and lighted candles, wore my orange glasses to watch some TV, and went to bed at 10:30. Woke up twice (3:00 and 6:00) and finally got up at 8. Feeling rested this morning, that was about time.
@@ -27556,7 +27556,7 @@ Going to pick up my supplements in Vermont today, and also an earthing mat... Ca
 
 I'm hoping for a review of the earthing mat once you've tried it out. Did you order it online or pick it up somewhere?
 
-### kathiebu@hotmail.com — 2013-01-19T16:59:48+0200
+### [email redacted] — 2013-01-19T16:59:48+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-71650>
 
 Krista, I'm sure going to let you know how it goes. I bought it online at earthing.com and picked it up in the States. I think it can be shipped to Canada too.
@@ -27568,7 +27568,7 @@ I spent so much money this week on supplements, the mat, and the consult with Dr
 
 Was there any particular reason you chose that site to buy from? I've been looking at earthingcanada.ca, but not sure what, other than price, to look for yet!
 
-### kathiebu@hotmail.com — 2013-01-19T17:25:05+0200
+### [email redacted] — 2013-01-19T17:25:05+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-71655>
 
 Someone suggested it on the last Q&A. I visited a few sites, and the products were all coming from the same company (Earthing).
@@ -27580,7 +27580,7 @@ I'm just hoping it was a good move to buy it: with the blog coming on january 24
 
 I have the mat in my Amazon cart. Shipping makes it $73 so I'm kinda choking on that because I have $75 worth of stuff in my cart at Vitacost and it's stuff I NEED NOW ... like dribose which I"m almost out of ... and some sea veggie stuff and some vitamin k.
 
-### kathiebu@hotmail.com — 2013-01-19T17:55:10+0200
+### [email redacted] — 2013-01-19T17:55:10+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-71663>
 
 Yeah, it's like it's never gonna end, we could spend so much money and still not have it all! Wait to see if it's worth it for others and for the next blog and then you'll make your decision...
@@ -27595,7 +27595,7 @@ can't wait to hear how you go with this...
 
 Looks like earthingcanada is the same products, but slightly less selection. As per usual, I guess!
 
-### kathiebu@hotmail.com — 2013-01-20T09:58:01+0200
+### [email redacted] — 2013-01-20T09:58:01+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-71794>
 
 Yeah, we are so lucky here: less choice for more money
@@ -27604,7 +27604,7 @@ Slept ok last night. Not the best night ever, but still an improvement from the 
 
 Have a good day all!!
 
-### kathiebu@hotmail.com — 2013-01-20T20:34:22+0200
+### [email redacted] — 2013-01-20T20:34:22+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-71931>
 
 Ok, I'm doing it...Two in one. I'm outside at 14 degrees, both feet in the snow. I have to sit, i can't walk in the snow. I tried but it didnt last 2 minutes. And plus, Im in bikini. But im cheating
@@ -27621,14 +27621,14 @@ you are so inspiring .....
 
 That sounds awesome! Is your bf home? If he is, I don't you have to worry about the orange glasses if he's witnessing this
 
-### kathiebu@hotmail.com — 2013-01-22T10:54:15+0200
+### [email redacted] — 2013-01-22T10:54:15+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-72287>
 
 @ Caroline: I got inspired...and want to sleep better!!
 
 @ Paula: lol, no, he's not back yet. He's going to find that weird: I had to shovel half of his backyard to find where the deck ended and find a nice spot to ground myself. He'll be back on Thursday, so have a dew more
 
-### kathiebu@hotmail.com — 2013-01-22T13:04:08+0200
+### [email redacted] — 2013-01-22T13:04:08+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-72304>
 
 Slept so so on Sunday, and had an aweful night last night
@@ -27644,14 +27644,14 @@ I did go outside again last night to have my feet on the ground, but skipped the
 
 That's why I'm getting a grounding mat. There will be winter days when my feet will not be able to take the cold so I'll ground inside. As long as the sun is shining and I can stand IN the sun I'm ok. Cannot feature trying to do it at night. BRRRRRRR
 
-### kathiebu@hotmail.com — 2013-01-23T10:18:10+0200
+### [email redacted] — 2013-01-23T10:18:10+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-72495>
 
 I hear you Darleen...And my 4th blue toe too...Didn't get ouside last night. It's -38 right now with the wind. I'll stay inside
 
 I'm wondering however if the mat and the sheet are as effective as getting outside. I guess it's not, but if it's still good, I might wait for the weather to get a little warmer...
 
-### kathiebu@hotmail.com — 2013-01-23T10:28:03+0200
+### [email redacted] — 2013-01-23T10:28:03+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-72497>
 
 Sleep is getting worse, if that's possible. Slept til 2 last night, and then from 7 to 8 this morning. The weird thing is that I feel pretty good during the day anyway, once Im up and I got started. The CoQ10 and D-Ribose might help, I've been taking those for 10 days now. I'm going to NYC this week-end and plan to shop for more before I come back home.
@@ -27670,7 +27670,7 @@ New York, New York!!! I love NYC! Concrete jungle yes...but for the few days I w
 
 You are individual proof one Kathie, that what is contained in EMF 2 happens......it explains 100% why your sleep went to shit. When you read EMF 2 tomorrow this post will make a lot more sense.
 
-### kathiebu@hotmail.com — 2013-01-24T09:10:24+0200
+### [email redacted] — 2013-01-24T09:10:24+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-72639>
 
 Yep, lost my electrons and making things worst when I work out { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
@@ -27681,7 +27681,7 @@ Slept badly again last night, but I think there's a lillte improvement. Was jung
 
 Meanwhile my bf is coming back today! We'll have to talk about what I need to do in order to feel better. He already knows about meal timing and earthing, I have to show him my sexy orange glasses and make sure I go to bed early enough. We always sleep at his place, and it's not dark, so I'll see with him if we can do something about that. I think I'll wait to see how I sleep in the next couple of nights, and when he'll see I'm not sleeping, he'll be more open to listen to all that. I know he'll be fine, he already told me he's going to help me with all that.
 
-### kathiebu@hotmail.com — 2013-01-29T18:38:01+0200
+### [email redacted] — 2013-01-29T18:38:01+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-73167>
 
 Why is my email adress showing instead of my name?? weird...
@@ -27690,7 +27690,7 @@ I've been sleeping a little better since my bf returned from vacation. Went to N
 
 Didn't do any more grounding. My toe is jsut returning to normal, it hurted like hell for a week. I might only use my sleep sheet for now....
 
-### kathiebu@hotmail.com — 2013-01-31T15:30:44+0200
+### [email redacted] — 2013-01-31T15:30:44+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-73450>
 
 This week is a nighmare. I wish I was only dreaming. Turned out my bf is a jerk. I'm now single again. And pregnant. Must be what hell looks like. I'm so, so sad, I have to make such an effort to go to work and do my job like everything is fine when I just want to curl up and cry all day.
@@ -27725,7 +27725,7 @@ Awwww, Katy. Sorry to hear. And you're right - he definitely doesn't deserve you
 
 Men. Sometimes they just really really suck.
 
-### kathiebu@hotmail.com — 2013-01-31T23:34:28+0200
+### [email redacted] — 2013-01-31T23:34:28+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-73546>
 
 Thank you all for your nices words, it's really appreciated. It's been an aweful day. Good thing I'm working and keep my mind on my job. If only I could have a good night sleep, it seems to me that it would help me feel better :S
@@ -27740,7 +27740,7 @@ How about using some melatonin, just so you can get a good rest?
 
 so sorry for what you are going thru ..... I am sending you the biggest hug ever xo
 
-### kathiebu@hotmail.com — 2013-02-02T00:22:12+0200
+### [email redacted] — 2013-02-02T00:22:12+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-73710>
 
 @Caroline: thank you! I so needed a big hug when I read that yesterday!
@@ -27764,7 +27764,7 @@ I am sending you another big hug ... more is always better xo
 
 How are you feeling? Did you get to see the apartment? Just thinking of you and hope you are ok!
 
-### kathiebu@hotmail.com — 2013-02-06T15:36:03+0200
+### [email redacted] — 2013-02-06T15:36:03+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-74427>
 
 Hi Endless, thank's for stopping by. I'm ok beside that I barely sleep :/
@@ -27775,7 +27775,7 @@ I saw the apartement and didn't like it, there was not enough light and it has a
 
 I am sending you another hug - just in case.....xo
 
-### kathiebu@hotmail.com — 2013-02-07T19:12:57+0200
+### [email redacted] — 2013-02-07T19:12:57+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-74657>
 
 Thank's Caroline, you are really sweet
@@ -27787,7 +27787,7 @@ Finally had a decent night sleep last night. Woke up several times, but could go
 
 How are you feeling? Hope you are getting some sleep
 
-### kathiebu@hotmail.com — 2013-03-24T16:03:17+0200
+### [email redacted] — 2013-03-24T16:03:17+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-81607>
 
 It's been a while...I'm still here, coming from time to time to read the forum and the blog. I don't have Internet at home for the moment, so I don't spend a lot of time around here and I know I missed lots of good informations.
@@ -27818,7 +27818,7 @@ A massage sounds like a great idea!
 
 Hi K, Sorry to hear you are so stressed and not sleeping. Really glad to know you are fine though. Neurobiologix makes something called calming cream and the stuff really works (well, for me anywho) to help you sleep. Smells weird but who cares cuz you're sleeping anyway. I only use this when I really need to get some sleep.
 
-### kathiebu@hotmail.com — 2013-03-25T17:01:29+0200
+### [email redacted] — 2013-03-25T17:01:29+0200
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-81692>
 
 Hi you all!
@@ -27831,7 +27831,7 @@ Last night wasn't that bad, but I went to bed way too late. Didn't took the slee
 
 Have a nice day!!
 
-### kathiebu@hotmail.com — 2013-04-02T02:50:07+0300
+### [email redacted] — 2013-04-02T02:50:07+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-82545>
 
 Just had a wonderful week end away of the city with familly... And slept like a baby the 4 nights I was away. Hopefully I will sleep that well tonight. Ate lots of fish and seafood. Crab season just begun here, I had some last night and planning to have some again this week.
@@ -27844,7 +27844,7 @@ Having sugar craving tonigh, but just had some fish and veggies instead...Hopefu
 
 Turning off the computer now, Have a nice evening all!
 
-### kathiebu@hotmail.com — 2013-04-06T21:53:50+0300
+### [email redacted] — 2013-04-06T21:53:50+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-83139>
 
 Slept well mondÃ¢t night as I retourned from the we, and didn't sleep the 2 following nights, waking up at 2 and turning for the rest of the night. Had an accupuncture tx Tuesday, but it didn't help. Going back next Thursday.
@@ -27886,7 +27886,7 @@ You don't understand .... If it is there I keep eating until it is all gone! It 
 
 I am fine with the 90%...it's the overly sweetened stuff that triggers cravings for me.
 
-### kathiebu@hotmail.com — 2013-04-07T17:45:24+0300
+### [email redacted] — 2013-04-07T17:45:24+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-83230>
 
 > [Arclite said:](/goto/post?id=83150)
@@ -27902,7 +27902,7 @@ Speaking of chocolate, I just ate the head off a bunny. It wasn't 90% either. I 
 
 Don't buy anymore chocolate. Good luck with the strick AI!
 
-### kathiebu@hotmail.com — 2013-04-10T16:01:37+0300
+### [email redacted] — 2013-04-10T16:01:37+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-83605>
 
 Thanks Paula! Hopefully the bunny has the left over safe
@@ -27919,7 +27919,7 @@ Have a nice day all!
 Glad to hear your sleep is awesome - at least on the weekends. Have you tried full on C/T? Have you tried grounding an hour before going to bed during the week?
 and are you making sure that you allow 4 hours after eating before bed?
 
-### kathiebu@hotmail.com — 2013-04-12T21:54:52+0300
+### [email redacted] — 2013-04-12T21:54:52+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-83935>
 
 Thank's... But its been s\*\*\*y all week. Is yours better?
@@ -27931,7 +27931,7 @@ And im not doing full CT. Only have a shower right now, no bath tub. Couldnt tak
 
 Baby steps - do what you can for now......
 
-### kathiebu@hotmail.com — 2013-04-13T16:03:07+0300
+### [email redacted] — 2013-04-13T16:03:07+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-83992>
 
 Yeah...One day at the time...
@@ -27942,7 +27942,7 @@ Not using melatonin anymore since I have no difficulty falling asleep. Taking Pr
 
 Will see how i'll sleep tonight..
 
-### kathiebu@hotmail.com — 2013-04-16T02:09:37+0300
+### [email redacted] — 2013-04-16T02:09:37+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-84185>
 
 Slept great again Saturday night and even better last night. The real test will be tonight. Will be adding magnesium too....To be continued...
@@ -27956,7 +27956,7 @@ Do you work in a high EMF environment? Wonder if that could affect your sleep at
 
 Hope you are sleeping like a baby right now!
 
-### kathiebu@hotmail.com — 2013-04-16T18:21:05+0300
+### [email redacted] — 2013-04-16T18:21:05+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-84238>
 
 Hi Crysta!  Nope, wasn't sleeping like a baby, night have been crapy from 1 am
@@ -27968,7 +27968,7 @@ Thank's for stopping by, have a nice day
 
 Are you outside and grounding when you have a chance - like at lunch time?
 
-### kathiebu@hotmail.com — 2013-04-17T17:42:02+0300
+### [email redacted] — 2013-04-17T17:42:02+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-84343>
 
 Yes I am. Mostly at home because I don't schedule lunch time at work, but might be changing that for the summer and use it to ground. Is it as effective if I do it on gravel? No grass at work, and I have to stay close. Grouding right now at home while enjoying the fresh rays of sun
@@ -27982,14 +27982,14 @@ Didn't add yet the Mg, I forgot the last 2 nights.
 
 are you avoiding eating 4 hours prior to bed?
 
-### kathiebu@hotmail.com — 2013-04-18T15:27:14+0300
+### [email redacted] — 2013-04-18T15:27:14+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-84385>
 
 Week days, I generally do, but not on the week-ends. It rarely happens. Met with a friend last night, ate late, went to bed 2 hours later, and slept like a baby...Go understand... :/
 
 Did more than an hour grounding yesterday, might have helped...
 
-### kathiebu@hotmail.com — 2013-04-28T21:45:20+0300
+### [email redacted] — 2013-04-28T21:45:20+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-85032>
 
 Slept like a baby the last three nigths. I feel so good right now.
@@ -28003,7 +28003,7 @@ Friday was my 1st anniversary of being binge/purge free. Cant believe how much i
 
 Gonna put the cell away now and enjoy the sun  have a nice Sunday you all!
 
-### kathiebu@hotmail.com — 2013-05-23T19:56:53+0300
+### [email redacted] — 2013-05-23T19:56:53+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-86738>
 
 Time for a little update...
@@ -28034,7 +28034,7 @@ Being binge free and craving free is so huge - that happened to me too - yeah us
 
 I bet if you start forcing more food for breakfast it will kill your evening appetite? That is how I do.. I eat huge breakfast, even if I am not even hungry. And I am practically never hungry at night. Yesterday I ate dinner at 3 PM - little less that an pound of raw fish and 1 raw duck egg + lingonberries.. and as I went to bed at 10 PM I still felt perfectly satiated.. I kept thinking I should maybe eat something but no hunger there so I didn't. I was not even hungry today morning but I still had my BAB. Air dried reindeer with marrow. Yum.. I love my food so much I can always eat even if not hungry..lol Might also be a damage from my bulemia times, IDK. But good in a way that I always get a huge breakfast in! I need to be very disciplined about my food timing and choices to feel really good. I usually do not eat after 5 PM.
 
-### kathiebu@hotmail.com — 2013-05-28T00:33:19+0300
+### [email redacted] — 2013-05-28T00:33:19+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-86972>
 
 Thank you girls!
@@ -28045,7 +28045,7 @@ Thank you girls!
 
 I slept so great Friday and Saturday night. Can't believe sleeping could -and should- be that awesome everynight. Its very new to me, and very welcome!! It seems that I'm too stressed week days because I don't sleep that well- if I sleep any. Need to calm down and control my thoughts when I go to bed. Saw a psychologist this morning, and through hypnosis, we'll work on that: not seing the next day as a big stress, be more positive and change my toughts about sleep. If I fall asleep right away when I go to bed, I'm fine, but if it takes too long, my mind starts wander and is all over the place, and I start to freak beacuse the time is going by and I'm still not sleeping. I can sleep, I have the proof every weekend. Now I have to do that every day. And retrain my brain. Can't wait to start! Was really disapointed because we couldn't start hypnosis this morning, but looking forward to the next appointment next week.
 
-### kathiebu@hotmail.com — 2013-07-18T23:54:23+0300
+### [email redacted] — 2013-07-18T23:54:23+0300
 **Source:** <https://forum.jackkruse.com/threads/my-bumpy-road-to-optimal.400/post-90347>
 
 I'm still here!! Been pretty busy, not coming here as often as I'd liked, but feeling sooooooo much better!! Sleep has improved a lot. I do sleep through much of the nights, but I've been waking up again around 5 in the last few days. Also feeling much better day time, having teriffic energy!
@@ -28103,7 +28103,7 @@ My only worry is his "creative editing skills" could ruin it completely.
 
 I think he had Tim Ferris ion as well.
 
-### jeanie@truelongmont.com — 2012-03-24T20:06:52+0200
+### [email redacted] — 2012-03-24T20:06:52+0200
 **Source:** <https://forum.jackkruse.com/threads/its-everywhere.402/post-5510>
 
 > **Valorie33;5510 wrote:** My 72 yr old mother is having some disc problems in her back, she was looking at possible surgery.
@@ -28261,7 +28261,7 @@ As long as you didn't burn (turn them black) them you could chop/shred the tuna 
 **Subforum:** Cold Thermogenesis
 **Posts:** 24
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2012-03-24T21:11:18+0200
+### [email redacted] — 2012-03-24T21:11:18+0200
 **Source:** <https://forum.jackkruse.com/threads/tell-us-about-your-first-time.406/post-5523>
 
 Ok, I'm so excited. I just can't hide it. I just took a cold cold bath, and I think I like it.
@@ -28296,7 +28296,7 @@ Woohoo! That's much better than my first time - I shook the first 10 minutes. Co
 
 Yay!! I've yet to do full immersion, but working my way up slowly! Great job
 
-### finnite@dccnet.com — 2012-03-24T21:39:01+0200
+### [email redacted] — 2012-03-24T21:39:01+0200
 **Source:** <https://forum.jackkruse.com/threads/tell-us-about-your-first-time.406/post-5534>
 
 I channeled a broker after a bad trading day, didn\`t know I knew those words! my feet ached (my water is about 45F out of the tap) and I lasted 22 minutes but couldn\`t feel my legs when I towelled off. next day I got me some neoprene socks and the chillin is fine!
@@ -28315,7 +28315,7 @@ Tap water in here is like 70 degrees! I have to throw in 40 lbs of ice to get in
 
 KP
 
-### dkenward@yahoo.com — 2012-03-24T23:29:49+0200
+### [email redacted] — 2012-03-24T23:29:49+0200
 **Source:** <https://forum.jackkruse.com/threads/tell-us-about-your-first-time.406/post-5562>
 
 > **Kpcst;5594 wrote:** Tap water in here is like 70 degrees! I have to throw in 40 lbs of ice to get into the 50s. I'm buying an ice machine! Been wanting one anyways.....
@@ -28536,7 +28536,7 @@ Paleodentist I got rid of my plaque problem in a big way, by stopping coffee. Th
 **Subforum:** Meet and Greet
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### kevinrutherford@msn.com — 2012-03-24T22:26:36+0200
+### [email redacted] — 2012-03-24T22:26:36+0200
 **Source:** <https://forum.jackkruse.com/threads/ill-go-next.408/post-5552>
 
 Hi all, Kev from MDA. If you want to know more about me you can check out my journal. [http://www.marksdailyapple.com/forum/thread9234.html](http://http://www.marksdailyapple.com/forum/thread9234.html). I had lost a lot of weight on the PB but stalled at 205lbs. I knew enough about leptin to suspect that it was my issue, but nothing I found told me what to do about it. Some said, eat more carbs, others IF, others said relax and don't try and eventually it weightless would start again. I had previously read the warrior diet so I integrated that into the PB. For over a year I ate primal, warrior diet style, and go no where, even put on about 20 lbs. One day I was browsing MDA and stumbled across the monster thread. it didn't take long and I was on the leptin reset. I am still reading through the monster thread, I'm on post 9081 so i have a way to go to finish it.
@@ -28552,7 +28552,7 @@ Hi Kev. What part of Ohio are you from? I am originally from SE MI, very close t
 
 Sounds like things are falling into place for you!
 
-### kevinrutherford@msn.com — 2012-03-26T04:12:20+0300
+### [email redacted] — 2012-03-26T04:12:20+0300
 **Source:** <https://forum.jackkruse.com/threads/ill-go-next.408/post-6189>
 
 I am from the Dayton area, but i make it up north to the Cleveland area pretty often.
@@ -28649,7 +28649,7 @@ I watched it as well, pretty wild. I wonder if Dr K and he ever chatted?
 
 And Wim is so flexible - did you see the cross-legged sit he did after being immersed in the water for 6 minutes. I wonder if he does yoga.
 
-### trishalinn@gmail.com — 2012-03-25T04:36:18+0300
+### [email redacted] — 2012-03-25T04:36:18+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-in-real-life.410/post-5656>
 
 Very cool video! Thanks for posting. Can't wait to share it with DH.
@@ -28734,7 +28734,7 @@ Congrats on finding this site and starting on your journey. I think most everybo
 
 I appreciate your kind words Lyndra! Your comment about eating sugar made me laugh, not because it's funny to have a sugar addiction, but I had completely forgotten I used to do that!!! Especially the sugar cubes, although I did enjoy brown sugar too!!! Hmmm...when I converted to Primal I was having some 70 or 85 percent chocolate & although I didn't attribute that to what lead to my periodic binges it may have had something to do with it. I'll have to pay more attention in the future to see if it is a trigger; after this leptin reset though!
 
-### kathiebu@hotmail.com — 2012-03-27T03:14:25+0300
+### [email redacted] — 2012-03-27T03:14:25+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-6721>
 
 You are doing good Paula!! Week-ends are when I'm more vulnerable to binge...The "I'll start again on Monday" syndrome  I did it again this week-end!! I have to put that behind me, and remind that I have to be kind to myself. I'm doing so much better than last year and learning every day. Tooks me years of harmful behaviors to get here, my body can't change overnight... Every night I go to bed thinking about what I've done for myself and how good and proud I feel about it. Foccus on the good things, and leave the bad behind
@@ -28762,7 +28762,7 @@ Welcome, welcome, welcome! I, too, am all too familiar with "the binge." Let's h
 
 Sounds good to me! It never occured to me while I was inhaling 2 litres of ice cream on a weekend night that there were others out there doing similar things. I think the more Binge Free days we can post the more determined we'll be not to break the streak!
 
-### kathiebu@hotmail.com — 2012-03-29T01:04:59+0300
+### [email redacted] — 2012-03-29T01:04:59+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-7983>
 
 MommaGrok is a true inspiration for me too! She is doing awesome! She's living proof that we can succeed too! Those binges/sugar cravings are usually lead by hormones imbalance, so we should not feel too bad or guilty about it and concentrate on fixing ourselves...It will probably happen again, but less often and less intense...
@@ -28828,7 +28828,7 @@ I haven't started CT yet & think I should wait until I'm finished the Leptin Rx 
 
 My son wants me to see the Hunger Games with him this weekend which is fine but I've NEVER gone to the movies without getting a large popcorn. I'm going to have to eat a couple of steaks or something to get through that one! And Easter treats will be in full force next weekend...that's going to take some willpower!!
 
-### kathiebu@hotmail.com — 2012-03-29T20:51:40+0300
+### [email redacted] — 2012-03-29T20:51:40+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-8397>
 
 Hey Paula!
@@ -28858,7 +28858,7 @@ Wow, lots of great words ,AbetterME - the "if you're not hungry for steak, you'r
 
 BAB. BAB. BAB. BAB!!!!!
 
-### kathiebu@hotmail.com — 2012-03-29T21:13:47+0300
+### [email redacted] — 2012-03-29T21:13:47+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-8411>
 
 It's not from me, but it works wonder!!
@@ -28872,7 +28872,7 @@ His posts are amazing and were true eyes opener for me.
 
 @ ABetterMe...that was an awesome post. Thanks...I will come back to read that time and again! I really appreciate the CT tips; I had not even thought about doing the ice packs while driving to work. That would be perfect!
 
-### kathiebu@hotmail.com — 2012-03-30T14:00:30+0300
+### [email redacted] — 2012-03-30T14:00:30+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-8697>
 
 My pleasure Paula  If I can help someone, I'll be an happy girl! I've edited my first post in my journal if you want to read my whole story.
@@ -28906,14 +28906,14 @@ Went for a 9km walk/hike today & it felt good. I might be eating a little too mu
 
 Looking forward to a good April!
 
-### kathiebu@hotmail.com — 2012-04-02T00:48:33+0300
+### [email redacted] — 2012-04-02T00:48:33+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-10008>
 
 I'm glad you are doing good Paula!  I also overeat often at dinner to make sure I won't be hungry in the evening...It should get easier as we go on. Today I added more fat and will see if it's going to help. Gonan weight myself tomorrow morining (forgot this morning) and once again at the end of the month and will try to have a perfect April
 
 Have a nice evening!
 
-### kathiebu@hotmail.com — 2012-04-06T01:55:29+0300
+### [email redacted] — 2012-04-06T01:55:29+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-11989>
 
 Thank's for stopping by!!
@@ -29005,7 +29005,7 @@ Holy crap! I am sitting here wasting my day-off. DS has friend over & I am sitti
 
 I just have to get through today. I'd go for a walk but after my walk on Friday I was hungry all afternoon and night so exercise is out. I can't deal with cravings and hunger!
 
-### kathiebu@hotmail.com — 2012-04-10T17:30:40+0300
+### [email redacted] — 2012-04-10T17:30:40+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-13346>
 
 I hope you went through the day with no shorty cuts to the fridge!  How did it go?
@@ -29162,7 +29162,7 @@ It's a beautiful day here and I was thinking about a walk but the last few walks
 
 Note to self--I feel real good today (repeating myself, I know!)! Do not repeat "just one bite"! It was such a long week.
 
-### kathiebu@hotmail.com — 2012-04-15T00:36:55+0300
+### [email redacted] — 2012-04-15T00:36:55+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-15153>
 
 I'm glad you are feeling good today!!  I feel the exact opposite, it's been the worst day since I began! Low energy, nauseus, hungry!! i bought some dark chocolate but once home, decided not to have it. But its still in the house = danger!!! lol
@@ -29215,7 +29215,7 @@ GigiPatata, make sure you have enough fat in the AM (work up to 2-4T CO slowly; 
 
 I absolutely cheated the same way you did early on. The mid-day CO is technically only recommended for those suffering from PCOS who see very low energy & mood when going very low carb, but I needed it to stave off the binges early on. I didn't take it just with hunger, but I took it when I knew I was about to break some big rule bad. I figured better to break it with a tablespoon of CO than blow it open with sweets or otherwise, or even with "regular food" - better to break it with something that would head off any further eating, and make a note to myself to have more fat and/or protein with that meal next time (since my body was telling me I needed it by the hunger).
 
-### kathiebu@hotmail.com — 2012-04-17T01:10:54+0300
+### [email redacted] — 2012-04-17T01:10:54+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-15746>
 
 Gigi, I'm from Montreal and looove the CO from Maison OrphÃ©e. And it smells so good too! I went to the US last week and bought some from Nutiva because it was cheaper, but it's not as good as OrphÃ©e.
@@ -29357,7 +29357,7 @@ It's also eye-opening realizing how many other conditions this is true for, from
 
 Today was another good day. Ate BAB, lunch & because of an appt today after work was very late for supper...but the good news it...I wasn't starving!!! I ate & I think today was the first time I wasn't looking for a piece of dark chocolate after supper...progress??!!!
 
-### kathiebu@hotmail.com — 2012-04-19T03:29:58+0300
+### [email redacted] — 2012-04-19T03:29:58+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-16425>
 
 Yes it is progress!! Good for you! It's been a month for you today with no binge!! You are doing awesome
@@ -29380,7 +29380,7 @@ Supper varies but it's usually steak/chicken with lots of fat (the best part), w
 
 This is awesome! I didn't battle any cravings last night. That has to be the first Friday night in years that I haven't had to resist cravings. Woke up this morning and it was like I was on auto-pilot, I was barely awake but headed straight to the kitchen to prep a BAB. It was funny, I didn't even feel hungry, but as always, it was darn good!!! BAB=65gr of protein & I'm always hungry later in the day so I think I need this much protein, not to mention the amount of fat! Love it!!!
 
-### kathiebu@hotmail.com — 2012-04-21T18:01:34+0300
+### [email redacted] — 2012-04-21T18:01:34+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-17431>
 
 That is good news!! It is such a relief, isn't it?  Have a good week-end!!
@@ -29400,7 +29400,7 @@ Binging will go......if you have the power to stick with what I am telling ya...
 
 CO can cause bloating but it eventually goes away as you get used to it. Ask me how I know.
 
-### nosnhojjennifer@yahoo.com — 2012-04-22T16:18:50+0300
+### [email redacted] — 2012-04-22T16:18:50+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-17711>
 
 > **Jack Kruse;17658 wrote:** Binging will go......if you have the power to stick with what I am telling ya.......its all about the brain gut axis. Its not about your mental weakness of weakness of character. Its inflammation and circadian circuitry breakdown
@@ -29428,7 +29428,7 @@ you need biofeedback training and you need to stop eating almond butter.......an
 
 READ CT ten right now.........see what it says there about treats..........you'll see my answer.
 
-### kathiebu@hotmail.com — 2012-04-22T16:56:45+0300
+### [email redacted] — 2012-04-22T16:56:45+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-17729>
 
 Jennifer, reading you is breaking my heart. Of course it's not about will power, caracter or any weakness!
@@ -29514,7 +29514,7 @@ I have to say that reading Mamagrok's journal, not only reflected a lot of what 
 
 There were days since starting the reset that the cravings were severe & I could have riped the face of anyone who looked at me the wrong way because I was so irritable!!! I reached for the CO with cocoa powder & it got me through some tough days. Yes, I broke the "No Snacking" rule but I didn't eat crap that might have resulted in a binge on crap food. Perhaps there will be more cravings to beat on my path to success but those "cheats" with the CO managed to get me to now being able to follow the rules without the killer cravings!
 
-### nosnhojjennifer@yahoo.com — 2012-04-22T20:30:24+0300
+### [email redacted] — 2012-04-22T20:30:24+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-17818>
 
 Thank you ALL for the kind words and support. I have Mamagrok's page bookmarked for reading next (I'm babysitting my niece right now!). It's amazing to me this energy build up that I feel that just has to go somewhere. Pushing it down or ignoring doesn't work. Although I am sure there must be a way to discharge it without eating (biofeedback as Dr K suggested). Amazingly enough, I don't break the "no snacking" rule. It's more when I start eating, I don't stop. I do notice that the dark chocolate, whether it be 99% mixed with CO or this 85% I just tried does not make me binge. The "sugar free" stuff does. Dr K says pitch the almond butter. And read CT 10, which I did. And moderation is definetly not a place I hang out...LOL...I'm usually swinging from one extreme to the next. I love this line from CT 10- "We do not need an intelligent mind that speaks, but a patient heart that listens. Make your choices and you create your life." And what Dr K added here "actions fix thoughts.......when you begin to go against your thoughts some amazing things can occur."
@@ -29552,7 +29552,7 @@ I need a post-it note with "actions fix thoughts.......when you begin to go agai
 
 Oh I hear ya on the chocolate. And I'm taking plenty of mg so don't really have an excuse. Except it brings on a binge just like nuts do. So I have eliminated them from my diet. It's the old "betcha can't eat just one" syndrome. Better to not even begin.
 
-### kathiebu@hotmail.com — 2012-04-24T01:38:45+0300
+### [email redacted] — 2012-04-24T01:38:45+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-18203>
 
 > **paulalynn;18117 wrote: I read somewhere that success is not a linear path. That's for sure!!! I was feeling beyond good yesterday. As I was finishing supper I decided to have some CO Manna with 100% cocoa powder & that would have been fine, had I left it at that! But, I decided to have a square of dark chocolate too, not usually a problem for me either. I wasn't battling any particular screaming craving at the time but row by row I finished the bar. Not a binge in my books, but a setback on the reset I'm sure.
@@ -29618,7 +29618,7 @@ Bought some MCT oil yesterday & added a little to my BPC this morning.
 
 Going to a movie this afternoon & have to get through without popcorn (please!)! I made it through the last time so will do it again!
 
-### kathiebu@hotmail.com — 2012-04-29T18:11:42+0300
+### [email redacted] — 2012-04-29T18:11:42+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-19819>
 
 Of course you'll make throught it again!!  You're having a great w-e so far! And doing super good even with the cravings tempting you!
@@ -29686,7 +29686,7 @@ You know, I only really have experience with myself, and I don't know for sure h
 
 Sitting in a tub of cool water, figured I can't eat in the tub and then it'll be almost bedtime!!! I just ate a chunk of fatty roast beef prior to getting in. Now time to find some tunes on this iPod. Something tells me DS and I may not have the same taste in music!!!
 
-### kathiebu@hotmail.com — 2012-05-01T15:09:35+0300
+### [email redacted] — 2012-05-01T15:09:35+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-20340>
 
 How lucky are we to get MG advices??  And once again, she was spot on.
@@ -29727,7 +29727,7 @@ I see a naturopathic doc tomorrow & have a list of questions! I haven't had BW d
 
 I've noticed that this feeling always comes with bloating for me. After a long long time, I've determined that for me, the bloating is not the CAUSE of the irritability, but they both seemed to be caused by the same thing, which is of course whatever I ate that I can't tolerate, but I'm not sure what the entire mechanism is from food to reactions.
 
-### kathiebu@hotmail.com — 2012-05-02T21:09:32+0300
+### [email redacted] — 2012-05-02T21:09:32+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-20757>
 
 I hear you with the million supplements!!  Now that I don't eat processed food anymore, my kitchen cabinets are loaded with supplements!! And of course, it has to be way more expensive here in Canada. Lucky us!!  I got a way to order through amazom.com and pick it up in Vermont, I think it's gonna worth the drive, which isn't bad at all (1.5 hour).
@@ -29854,7 +29854,7 @@ Yup...another day of "Blah"! However, on a bright note, even with all the negati
 
 Another Yay!!! My UVEX glasses \*just\* arrived!!! Awe...the little things that excite me!
 
-### kathiebu@hotmail.com — 2012-05-11T01:47:10+0300
+### [email redacted] — 2012-05-11T01:47:10+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-23046>
 
 Yay for the no-cravings!!  It's usualy when I feel blah that I want to reach for crap. I hope you'll feel better soon!! I'm sure you'll look fantastic with the glasses
@@ -29968,7 +29968,7 @@ If I have learned NOTHING else in the last couple of years it is that I DO NOT C
 
 It isn't easy to let go but it just might be the best thing you can do. Trust. Let go.
 
-### nicebeanst@yahoo.com — 2012-05-15T20:40:51+0300
+### [email redacted] — 2012-05-15T20:40:51+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-24313>
 
 Hi Paula! I've been reading your journal all along, gonna finally pop out and say hi. I too am struggling with weight gain, and in a weird way it helps to know I am not alone!
@@ -30027,7 +30027,7 @@ Lunch - 2 eggs with butter
 
 Supper - 1/2 lb burger with bacon (very hungry), might need 2
 
-### nicebeanst@yahoo.com — 2012-05-17T01:27:44+0300
+### [email redacted] — 2012-05-17T01:27:44+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-24726>
 
 > **paulalynn;24755 wrote:** So, emotionally, today is a better day.
@@ -30063,7 +30063,7 @@ This is what Dr. Kruse reminded me of today "If your weighing yourself your not 
 
 So excited! Apparently it doesn't take much!!! I found out yesterday that we have a pharmacist that arranges saliva testing and BHRT. I just got off the phone with him and am going to pick up the test tomorrow!!! When he gets the results he'll discuss it with me and, if needed, make recommendations for my doctor! Maybe the pieces to the puzzle will fall into place soon! Just from our discussion he figures I'll need progesterone but we'll see!
 
-### kathiebu@hotmail.com — 2012-05-18T15:23:42+0300
+### [email redacted] — 2012-05-18T15:23:42+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-25152>
 
 Wow, that is great news, I'm really glad for you!!
@@ -30092,7 +30092,7 @@ Thanks Katy! Kinda crazy why this is making me happy. It's almost like I'm looki
 
 Feel good today although sleep was not as good last night as it's been over the last couple of weeks; had trouble falling asleep. I think I need to back off the magnesium a bit. This may border on TMI but I've moved \*well beyond\* loose stools!!! Plus my stomach is a gurgling/rumbling mess! Other than that, BAB was great and it's a beautiful sunny day with a long weekend to look forward too!
 
-### kathiebu@hotmail.com — 2012-05-18T20:05:37+0300
+### [email redacted] — 2012-05-18T20:05:37+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-25250>
 
 > **paulalynn;25236 wrote:** Thanks Katy! Kinda crazy why this is making me happy. It's almost like I'm looking forward to finding out I have hormone issues. I don't want to have something messed up with me but on the other hand it will be a relief knowing there's an explanation for \*why\* things are the way they are!
@@ -30648,7 +30648,7 @@ If you're going to eat more ice cream get some that you really like...enjoy it..
 
 BAB tomorrow!
 
-### kathiebu@hotmail.com — 2012-06-05T01:11:51+0300
+### [email redacted] — 2012-06-05T01:11:51+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-29449>
 
 Oh yes you will get there, that's for sure! You know you can do it, even if from time to time you slip up. You are already doing much better, basically no cravings most of the time. This one was too loud, but that's ok, tomorrow will be another day. Big hugs from here too!!
@@ -30701,7 +30701,7 @@ Pick up, dust off, go again. You'll make it. None of us knows how long it will t
 
 Never give up. Never never never never never never never give up. (Paraphrase of Winston Churchill.  )
 
-### nosnhojjennifer@yahoo.com — 2012-06-05T19:20:27+0300
+### [email redacted] — 2012-06-05T19:20:27+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-29571>
 
 Well, I give you applause for stopping! My last bender lasted a week
@@ -30920,7 +30920,7 @@ Mood?** Not bad
 
 Cravings? When?** Not really. I want something but I think it's more because I am going to watch a movie and want to munch, not necessarily a craving. I'm not going to snack. Will have my magnesium in hot water and that fixes any craving!
 
-### nosnhojjennifer@yahoo.com — 2012-06-08T19:53:01+0300
+### [email redacted] — 2012-06-08T19:53:01+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-30170>
 
 little ole weekend vs you? YOU can do it! But yes, stay well fed! Set yourself up for success!
@@ -30934,7 +30934,7 @@ As for the HCL, I can tell you that mamagroks helped me immensely. I was taking 
 
 Just take 1 day at a time and don't ever give up. I can tell you that I never thought I could give all that I have given up now. It didn't happen overnight. I have been doing the LRx since July 3, 2011. Almost 1 year!!!! Can hardly believe it. But, I now know so much more than I did then and realize I have a lot to fix but it is FIXABLE. You will get there as long as you keep getting up everyday and try!!!
 
-### kathiebu@hotmail.com — 2012-06-08T21:53:35+0300
+### [email redacted] — 2012-06-08T21:53:35+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-30188>
 
 You can do it Paula! Up your BAB to make sure you won't be hungry and have any cravings at all. And have CO whenever you feel like going down the carbs path
@@ -31216,7 +31216,7 @@ Apart from feeling a wee bit frustrated over destroying the great binge-free str
 
 Happy Friday Everyone!
 
-### kathiebu@hotmail.com — 2012-06-16T00:35:35+0300
+### [email redacted] — 2012-06-16T00:35:35+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-31427>
 
 You'll be there without noticing!!  One day at the time. Soon you'll be at 15 days, and then 20 days, and so on....Every success is made of baby steps.
@@ -31316,7 +31316,7 @@ Mood?** ~4
 
 Cravings? When?**
 
-### nicebeanst@yahoo.com — 2012-06-18T00:53:18+0300
+### [email redacted] — 2012-06-18T00:53:18+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-31833>
 
 When you say your lower legs and feet are unrecognizable, do you mean they are swollen? I have that too on occasion and I can't make heads or tails of it. I know when I am sedentary it is worse. But then, when I do \*too\* much walking, they blow up then! Arghhhhhhh. I am going to get a new bike, my old one is POS and I have been telling myself I don't need/deserve one. Stupid self talk. I am buying one tomorrow, this way I can get some light activity that will help my circulation without too much pressure on my feet. Well thats the idea anyway. BEsides, biking makes me very happy, and that is reason alone to buy a bike!
@@ -31439,14 +31439,14 @@ Mood?** ~5
 
 Cravings? When?** It's 8:00ish and I feel like I want \*something\*! I have a desire for a soft drink, which is just crazy. I used to (long ago) drink diet soda to squash the cravings for something sweet. Good thing is I'll be having my Magnesium drink and then to bed.
 
-### kathiebu@hotmail.com — 2012-06-20T18:23:45+0300
+### [email redacted] — 2012-06-20T18:23:45+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-32431>
 
 > **paulalynn;32238 wrote:** Ok. Glad to know I'm not the only one with a dislike for the taste!! I'll try downing it with water this evening. Even mixed with HWC & cocoa I'm still washing it down with water. At least your way will be quicker. Do you take your whole dose in the morning or do you divide it between morning & evening?
 
 It's really an awful taste by itself. I mix it with melted CO, dark chocolate and cinnamon, I froze it a few minutes and it's really good!!
 
-### kathiebu@hotmail.com — 2012-06-20T18:26:22+0300
+### [email redacted] — 2012-06-20T18:26:22+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-32432>
 
 > **paulalynn;32498 wrote:** Week 3 Day 2
@@ -31550,7 +31550,7 @@ Mood?** ~5
 
 Cravings? When?**
 
-### kathiebu@hotmail.com — 2012-06-22T16:56:35+0300
+### [email redacted] — 2012-06-22T16:56:35+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-32941>
 
 Oh wow, you hang out in the low range everywhere my dear!! You only tested AM cortisol?
@@ -31591,7 +31591,7 @@ Did you just say tanked progesterone can cause bloating????? Tell me more!
 
 Mine was .4 in a range of .2-1.5, where ideal is supposedly 6-28!
 
-### kathiebu@hotmail.com — 2012-06-22T20:07:26+0300
+### [email redacted] — 2012-06-22T20:07:26+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-32976>
 
 Common signs of progesterone deficiency (from Natural Hormones Balance for Women):
@@ -31668,12 +31668,12 @@ So glad to be home**. Eating is so much easier! Although our official camping se
 
 I am planning to start my CT this weekend. I am very excited about it. We camp right on the Atlantic Ocean. I just heard from a fellow camper who takes the water temperature regularly and it was 60 degrees the other day! May not be as exciting as those who took the plunge a couple of months ago but I plan to get it every day. It will warm up over the summer but hopefully not too fast! Other years it's usually August before I get it. Not this year!!!
 
-### kathiebu@hotmail.com — 2012-06-27T17:40:52+0300
+### [email redacted] — 2012-06-27T17:40:52+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-33942>
 
 Awesome! I'm so glad the trip went well!  And jealous of the ocean CT! I hope you'll enjoy it!!
 
-### jeanie@truelongmont.com — 2012-06-27T19:45:49+0300
+### [email redacted] — 2012-06-27T19:45:49+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-33988>
 
 > **paulalynn;34077 wrote: Although the 4 day road trip involved one snack (nuts) and a couple of potatoes, this is the first time** I have EVER been away from home and didn't use it as an excuse to "eat whatever you want"!
@@ -31743,12 +31743,12 @@ Rehmannia (Root), Bupleurum (root), Passion flower (aerial parts), Peony (root),
 
 Douglas Labs Adreno-Mend** 120c is a synergistic combination of ten highly valued herbal extracts with adaptogenic properties designed to support healthy, balanced adrenal gland function. These plant adaptogens include Schisandra chinensis, Bacopa monnieri, Rhodiola rosea, Eleutherococcus senticosus, Magnolia officinalis, Rhemannia glutinosa, Bupleurum falcatum, Panax ginseng, Coleus forskohlii and Withania sominfera.
 
-### kathiebu@hotmail.com — 2012-06-28T21:05:40+0300
+### [email redacted] — 2012-06-28T21:05:40+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-34214>
 
 I'd like to read what Dr K has to say about those supplements...
 
-### nosnhojjennifer@yahoo.com — 2012-06-28T21:14:30+0300
+### [email redacted] — 2012-06-28T21:14:30+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-34215>
 
 Interesting Paula. And wow sounds like a great summer. I'm sure the more you stick to your way of eating, the more confidence in yourself you'll have and it will get easier and easier!
@@ -31814,7 +31814,7 @@ Mood is good considering it's warming up in this office and the A/C hasn't been 
 
 As would I!
 
-### kathiebu@hotmail.com — 2012-07-05T03:13:37+0300
+### [email redacted] — 2012-07-05T03:13:37+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-35570>
 
 Paula,
@@ -31838,7 +31838,7 @@ I’m on the mend today & am at work again. On a positive note, I’m down 2 pou
 
 Now, have to catch up with everything that's been happening here
 
-### kathiebu@hotmail.com — 2012-07-07T03:13:40+0300
+### [email redacted] — 2012-07-07T03:13:40+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-36017>
 
 I hope you are feeling better and will enjoy the next week-end!! You did good last week-end, that's awesome
@@ -31879,7 +31879,7 @@ Hmm. I guess I'm gonna have to cave and get that book for my Kindle.
 
 Have you thought that maybe you have reached leptin sensitivity and should be changing your approach?
 
-### jeanie@truelongmont.com — 2012-07-08T21:11:05+0300
+### [email redacted] — 2012-07-08T21:11:05+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-36224>
 
 > **DarleenMB;36385 wrote:** Hmm. I guess I'm gonna have to cave and get that book for my Kindle.
@@ -31974,7 +31974,7 @@ Mood?** ~5
 
 Cravings? When?**
 
-### nosnhojjennifer@yahoo.com — 2012-07-12T15:02:56+0300
+### [email redacted] — 2012-07-12T15:02:56+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-37126>
 
 Hi Paula! What movie did you see??
@@ -32047,7 +32047,7 @@ PaulaLynn, the BHRT doc I went to told me that tender breasts means not enough e
 
 And I have given up on the popcorn thing. I LOVE it. So allow myself some every now and then. I know. My bad.
 
-### jeanie@truelongmont.com — 2012-07-14T22:39:28+0300
+### [email redacted] — 2012-07-14T22:39:28+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-37833>
 
 So can we talk about popcorn?
@@ -32061,7 +32061,7 @@ Anybody?
 
 It's a carb. that's enough badness right there but most of it has been gmo'd as well. I just love that hot buttery crunchy salty stuff. It's a love/hate thing. I DO have some purple Amish grown popcorn I intend to try out in about a month. (insert evil grin)
 
-### jeanie@truelongmont.com — 2012-07-16T01:07:11+0300
+### [email redacted] — 2012-07-16T01:07:11+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-38159>
 
 > **DarleenMB;38322 wrote:** It's a carb. that's enough badness right there but most of it has been gmo'd as well. I just love that hot buttery crunchy salty stuff. It's a love/hate thing. I DO have some purple Amish grown popcorn I intend to try out in about a month. (insert evil grin)
@@ -32082,7 +32082,7 @@ I could care less about popcorn  Must be an American thing. 100 percent chocolat
 
 So what if you really "care" about the popcorn and the chocolate~~~ooooh, really bad...
 
-### jeanie@truelongmont.com — 2012-07-16T01:54:35+0300
+### [email redacted] — 2012-07-16T01:54:35+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-38194>
 
 > **Souldanzer;38329 wrote:** I could care less about popcorn  Must be an American thing. 100 percent chocolate on the other hand....
@@ -32091,7 +32091,7 @@ So is the Chocolate a Soul Specific thing? Cause we eat the hell out of the choc
 
 I bet it's something like there is a deeeeeep groove in our brain due to being raised on all the corn cereal and product.
 
-### jeanie@truelongmont.com — 2012-07-16T01:55:53+0300
+### [email redacted] — 2012-07-16T01:55:53+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-38197>
 
 > **jib;38335 wrote:** So what if you really "care" about the popcorn and the chocolate~~~ooooh, really bad...
@@ -32141,7 +32141,7 @@ Had it at our company x-mas party 2 years ago. Course I work for a pork producin
 
 Chocolate cream cheese??? Sounds delish and like I need to fix my leaky gut first. You'll have to let us know how it tastes.
 
-### nosnhojjennifer@yahoo.com — 2012-07-17T05:24:04+0300
+### [email redacted] — 2012-07-17T05:24:04+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-38628>
 
 > **vkiernan;38788 wrote:** Had it at our company x-mas party 2 years ago. Course I work for a pork producing company that makes the best damn bacon ever along with ham, liverwurst, sausage, etc. It was actually good except I don't like my bacon that smoky and it was smoky. Yes, I never have a shortage of BAB items.
@@ -32210,7 +32210,7 @@ Mood?** ~5
 
 Cravings? When?**
 
-### kathiebu@hotmail.com — 2012-07-17T19:15:57+0300
+### [email redacted] — 2012-07-17T19:15:57+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-38767>
 
 You did great!  Even if it wasn't perfect, it's still an improvement from last year. Be proud of yourself
@@ -32371,7 +32371,7 @@ Mood?** ~6
 
 Cravings? When?**
 
-### kathiebu@hotmail.com — 2012-07-21T03:13:02+0300
+### [email redacted] — 2012-07-21T03:13:02+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-39870>
 
 Yes!! It. Is. Going. To. Set. You. Back!! Gluten in it is poison to you!! Have wine instead, but I know it isn't as refreshing. But anyway, who wants to refresh themself with poison!?!
@@ -32438,7 +32438,7 @@ Do you like kombucha? I like that for a fizzy experience and you might not pay f
 
 Good for sticking with BAB. I had some major bloating the past week. It goes away.... give your belly a hug
 
-### kathiebu@hotmail.com — 2012-08-01T01:04:04+0300
+### [email redacted] — 2012-08-01T01:04:04+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-42153>
 
 It's still an improvement from last week-end. Bravo on the GF beer!  Hopefully you'll feel better soon!!
@@ -32496,7 +32496,7 @@ Oooo, Christian Grey...so sexy! I loved the books! I was sad they were over!
 
 sour, vinegary, tart, a little sweet, fizzy, high, drunk, ..... to me
 
-### kathiebu@hotmail.com — 2012-08-02T03:22:37+0300
+### [email redacted] — 2012-08-02T03:22:37+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-42410>
 
 > **PaleoCowgirl;42649 wrote: What does kombucha taste like? Anybody ever try the sparkling water Dr. K always gets? I wouldn't mind having something fuzzy to drink once in awhile.
@@ -32510,7 +32510,7 @@ sour, vinegary, tart, a little sweet, fizzy, high, drunk, ..... to me
 
 I agree!!
 
-### kathiebu@hotmail.com — 2012-08-11T00:33:30+0300
+### [email redacted] — 2012-08-11T00:33:30+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-44205>
 
 Hey Miss Nova Scotia
@@ -32578,14 +32578,14 @@ Finally saw my doc yesterday with the list of bloodwork. For the first time in 1
 
 He did refer me to a circulation specialist because my lower legs & feet have been swelling to the point it feels like my skin is going to tear. I didn’t ask for a referral I just wanted the darn bloodwork ordered.
 
-### kathiebu@hotmail.com — 2012-09-11T23:53:40+0300
+### [email redacted] — 2012-09-11T23:53:40+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-51066>
 
 Paula! Welcome back!!
 
 It might have been uo and down in the last weeks, but at least you can still see improvement! What labs do you want to order? I did salivary testing with ZRT Lab, ordered through Canary Club.
 
-### jeanie@truelongmont.com — 2012-09-12T00:01:19+0300
+### [email redacted] — 2012-09-12T00:01:19+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-51069>
 
 > **paulalynn;51590 wrote:** I guess Iâ€™ve lived up to the title of this journal once again! Itâ€™s been an on-again-off-again three weeks, with the last week being just disgraceful! I was in the cool ocean the other day just bewildered with myself. For the last two months I was blessed with being able to spend 3-4 days a week in the ocean but then I let my diet go to hell! But enough crying over spilt milk. Thereâ€™s always the bathtub. One thing that did surprise me during this derailment was the fact that I didnâ€™t turn into a hateful, irritable b&\*%^h! Iâ€™m guessing the adrenal support and progesterone adaptogens are working.
@@ -32660,7 +32660,7 @@ I even enjoyed a day/night of camping without cheating. The ocean temp this week
 
 I’m eating a bit more seafood. Not as much as I should or as much as everyone else seems to be but it’s a start. I discovered I like shrimp. What kind of shrimp are people buying? Most of the stuff in the grocery store says it comes from Thailand. I don’t remember where but I thought I read somewhere else that this stuff was crap.
 
-### kathiebu@hotmail.com — 2012-09-18T01:44:02+0300
+### [email redacted] — 2012-09-18T01:44:02+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-52242>
 
 Hi Paula!
@@ -32669,7 +32669,7 @@ It's nice to read that you are doing good and feeling better!
 
 I buy my shrimps at Costco, and it's all farmed (from Thailand). It's not the best, but much better than meat, so don't bother and enjoy. I can't find any here that are not farned, but Dr K told me on a consult that it's fine.
 
-### jeanie@truelongmont.com — 2012-09-18T02:26:24+0300
+### [email redacted] — 2012-09-18T02:26:24+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-52250>
 
 > **AbetterME;52859 wrote:** Hi Paula!
@@ -32700,7 +32700,7 @@ Over the past two months my mood has gradually been improving with no extreme lo
 
 I used to think that feeling good for me had to start with losing weight but after experiencing this genuine positive mood weight loss has finally moved to second place!!! I never, in a million years, would have ever thought I’d be saying that!
 
-### jeanie@truelongmont.com — 2012-09-21T19:37:32+0300
+### [email redacted] — 2012-09-21T19:37:32+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-53227>
 
 > **paulalynn;53860 wrote:** The progesto-mend supplement Iâ€™ve been taking must be working. This is the first time in about 5+ years that Iâ€™ve had a â€œnormalâ€ period. Several years ago they went from an average of 4-5 days to a 1.5-2 day TOM. My moodâ€¦loving this mood!
@@ -32749,7 +32749,7 @@ These are the two products that I've used
 
 Add me to those who would love to know what the two of you (Paula, Ealachan) think is most likely for your amazingly awesome mood improvements! I'm so excited for you!
 
-### kathiebu@hotmail.com — 2012-09-22T16:13:01+0300
+### [email redacted] — 2012-09-22T16:13:01+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-53393>
 
 I'm so glad to see you are doing great! It's your turn now  I'm sure it's the hormones. A feeling of well beeing, no more depression or lows with what used to bother me, smilling easily, and knowing that's how I should feel all the time: loving it!!
@@ -32852,7 +32852,7 @@ Damn wagon! Fell off again. Feels like it's 50 miles down the road and I'll neve
 
 _\-- Sent from my Palm Pre using [Forums](http://http://developer.palm.com/appredirect/?packageid=com.newnessdevelopments.forums)_
 
-### jeanie@truelongmont.com — 2012-10-10T18:26:17+0300
+### [email redacted] — 2012-10-10T18:26:17+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-57343>
 
 > **paulalynn;58645 wrote:** Damn wagon! Fell off again. Feels like it's 50 miles down the road and I'll never catch up! Urgh! No excuse really. I CAN do this. I "see" myself as healthy, "see" myself eating properly but I'm back to giving into cravings on the weekends. Blah, blah, blah...back on track today. Need to get my history, etc sent in so I can schedule appt with Dr Kruse.
@@ -32934,7 +32934,7 @@ Reminds me of a quote I wrote in my book the other day..."keep doin what you're 
 
 Hello Tuesday! Made it through last week and the weekend "on track". Feels good!
 
-### kathiebu@hotmail.com — 2012-10-17T01:55:17+0300
+### [email redacted] — 2012-10-17T01:55:17+0300
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-58623>
 
 Great!! You go girl!!
@@ -33019,7 +33019,7 @@ I had a feeling it's not a good sign. I don't want an AI disorder. Oh well the s
 
 Just got a call from my docs office because he wants to see me. He never calls when reports are normal. Can’t get in and since I don’t like waiting I had a friend fax me the reports. I know the ranges mean nothing but the only thing the lag flagged was a high B12. Would he seriously want to see me because my B12 is high?? I'm really anxious to see my Vit D level but that one has to get sent to an outside lab so it's not available yet.
 
-### kathiebu@hotmail.com — 2012-11-02T14:12:24+0200
+### [email redacted] — 2012-11-02T14:12:24+0200
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-61509>
 
 Probably...A doctor saw that my B12 was over 1000 last summer and freaked out. She called me so I could meet her (she's not my regular Dr), asked me to stop supplements and re-test in 3 months....
@@ -33034,7 +33034,7 @@ So a couple of weeks ago I added yet another supplement. EstroFactors-for estrog
 
 I'd be getting one of those anti-diarheal concoctions from the local pharmacy. Just in case.
 
-### kathiebu@hotmail.com — 2012-11-05T19:21:42+0200
+### [email redacted] — 2012-11-05T19:21:42+0200
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-62219>
 
 Ohhh...could be embarassing...can you go off those supplements to see how you feel?
@@ -33046,7 +33046,7 @@ Ohhh...could be embarassing...can you go off those supplements to see how you fe
 
 I'm assuming the supplements are working & I'm detoxing??? I probably should stop them and resume the detox when I get back?!!
 
-### kathiebu@hotmail.com — 2012-11-06T01:52:15+0200
+### [email redacted] — 2012-11-06T01:52:15+0200
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-62290>
 
 That's what I would do...
@@ -33227,7 +33227,7 @@ I love seafood, so it's easy for me, but I second the bacon and avocado suggesti
 
 Oh good, someone else having trouble quoting...I don't feel QUITE as silly now!
 
-### kathiebu@hotmail.com — 2012-11-30T21:30:49+0200
+### [email redacted] — 2012-11-30T21:30:49+0200
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-66006>
 
 > **paulalynn said**
@@ -33442,7 +33442,7 @@ Ate another dozen scallops for dinner last night. Then went to finish xmas shopp
 
 Have a good day!
 
-### kathiebu@hotmail.com — 2012-12-22T11:38:48+0200
+### [email redacted] — 2012-12-22T11:38:48+0200
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-68176>
 
 Good news for your dad
@@ -33907,7 +33907,7 @@ Starfish pants....I love it!!! Maybe I'll feel like a starfish while wearing the
 
 OMG...they have a whole starfish collection!! I'm going to take measurements now and place an order. How could starfish pant not fit!!!
 
-### kathiebu@hotmail.com — 2013-01-13T11:09:26+0200
+### [email redacted] — 2013-01-13T11:09:26+0200
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-70499>
 
 Just looked at them myself and they seem sooo confortable. And the ship to Canada!!
@@ -34477,7 +34477,7 @@ Sorry to hear you're still down with the bug. Hubby is still dragging his around
 
 Feel better Paulalynn!
 
-### kathiebu@hotmail.com — 2013-02-02T00:26:48+0200
+### [email redacted] — 2013-02-02T00:26:48+0200
 **Source:** <https://forum.jackkruse.com/threads/on-the-wagon-off-the-wagon-no-more-this-time-optimal.411/post-73712>
 
 Oh, you are still sick?  Hopefully that is gonna go away FAST!! Take care of yourself
@@ -35072,7 +35072,7 @@ I've only had muscle gain with CT and the Leptin Reset. Gained 8 freaking pounds
 
 Lift heavier, that tells your body to hold onto your muscle. 5 reps, last one should be FREAKING HARD!
 
-### edance83@yahoo.com — 2012-03-25T17:01:13+0300
+### [email redacted] — 2012-03-25T17:01:13+0300
 **Source:** <https://forum.jackkruse.com/threads/hmm%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%82%C2%A6i-seem-to-be-losing-muscle-and-fat-help.412/post-5787>
 
 Another thing to consider is that it's just from being keto. I don't know if you were previously and didn't have issues, but if not you may just be noticing that. I haven't been doing any exercise while doing my reset and ct for the last 8 wks. BUT, before this I did go keto at various times and I noticed a MASSIVE difference in being able to do any exercise. I know that many lifters do as well. Dr. K says that you will get weaker at first and then have massive gains, but that it can take 3 months - 2 yrs! This is why most paleo lifters seem to prefer more carbs. But, I believe Dr. K that it isn't the best plan and will shorten telemeres, but I don't care if I have weakness for even a couple years as I don't compete or anything like that. My experience though has been added strength since doing CT, but I still can tell a difference in endurance. My muscles literally feel weaker and I can't do even half of what I normally can in endurance when I'm keto. But, it has been getting better with the CT for me.
@@ -35189,7 +35189,7 @@ I've had ringing in my ears for over 6 years. It's constant ringing, sometimes l
 
 I'm hoping that this will help, because I haven't been able to even reduce it yet!
 
-### finnite@dccnet.com — 2012-03-25T04:49:06+0300
+### [email redacted] — 2012-03-25T04:49:06+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-and-ear-ringing.414/post-5665>
 
 Yes, my tinnitus has improved. some days it\`s quite dull and I forget I have it but if I am back under stress it returns. I had a fever this week and noticed today the tinnitus is back. I\`m back on CT Baths tomorrow and hope it will calm down again
@@ -35440,7 +35440,7 @@ I understand the circadian aspect of CT and the need for the body to have balanc
 
 I also know how my body feels and the fact that I was horribly fatigued after several months of a strict keto and no starch diet. Lost too much weight. And I got a serious sinus infection. Cycle stopped. Made me stop and think about what I was doing wrong. Started eating starches and I felt better. ?
 
-### jeanie@truelongmont.com — 2012-03-26T02:44:55+0300
+### [email redacted] — 2012-03-26T02:44:55+0300
 **Source:** <https://forum.jackkruse.com/threads/but-sherpas-have-a-high-starch-diet.421/post-6146>
 
 > **PaleoMom;6149 wrote:** Wim Hof has had lots of scientific tests done on himself that prove amazing things happening to him, yet he eats a regular diet, drinks alcohol etc. It _may_ be true that eating keto + CT is better, but there is certainly evidence in Wim that doing CT with any diet is better than not doing CT. I really enjoyed his book "Becoming the Iceman". Very peaceful, happy guy that just wants to share the gift of health from CT with the world.
@@ -35589,7 +35589,7 @@ Love and light and SHALOM
 
 Myra in Israel
 
-### bugsy1950@gmail.com — 2012-03-25T11:35:57+0300
+### [email redacted] — 2012-03-25T11:35:57+0300
 **Source:** <https://forum.jackkruse.com/threads/hey-from-the-other-side-of-the-world.423/post-5742>
 
 Hi Myra,
@@ -35680,7 +35680,7 @@ Im from Hong Kong, hot and humid so fun trying to CT - I have to add ice constan
 double crock pot Sunday!!!
 [](http://http://www.jackkruse.com/forum/convert_files/attachments/5801=39-539459_10150760777795903_104651985902_11707950_1227243437_n.jpg)
 
-### meyoolia@gmail.com — 2012-03-25T16:54:08+0300
+### [email redacted] — 2012-03-25T16:54:08+0300
 **Source:** <https://forum.jackkruse.com/threads/food-porn-post-your-pics.427/post-5785>
 
 oh I'm SOOOOO going out to get a second crockpot today!!
@@ -35766,7 +35766,7 @@ Attached files [](http://http://www.jackkruse.com/forum/convert_files/attachment
 
 I think we need the recipes with the picks! especially the muscles and the short ribs!
 
-### meyoolia@gmail.com — 2012-03-25T21:16:24+0300
+### [email redacted] — 2012-03-25T21:16:24+0300
 **Source:** <https://forum.jackkruse.com/threads/food-porn-post-your-pics.427/post-5945>
 
 > **Shijin13;5850 wrote:** Grassfed/finished beef heart jerkey
@@ -35849,7 +35849,7 @@ I think he wants insulin under 2. Fast BG should be in the low 80's.
 
 I'm not sure on the other levels.
 
-### chrystin.comeau@live.com — 2012-03-25T19:31:07+0300
+### [email redacted] — 2012-03-25T19:31:07+0300
 **Source:** <https://forum.jackkruse.com/threads/lab-question-for-the-geeks.428/post-5891>
 
 > **Owl;5875 wrote:** Dr. K said this about determining if you're LR, "you can get a Leptin level or a T3 and rev T3 and then use the conversion calculator at the STTM.com to see where your ratio is. We like it above 20. Other signs......high LDL levels because of a low T3 conversion to pregnenolone. high ferritin, haptoglobin, HS CRP, low Vit D and low DHEA levels.......all things that walk hand and hand with LR."
@@ -36096,7 +36096,7 @@ I've lost 60 pounds with vlc/paloe eating over the last year and a half. Started
 
 Is anyone far enough along to know what happens with cold adaptation and hot weather.
 
-### finnite@dccnet.com — 2012-03-25T18:11:51+0300
+### [email redacted] — 2012-03-25T18:11:51+0300
 **Source:** <https://forum.jackkruse.com/threads/will-sweat-like-crazy-when-its-hot.432/post-5834>
 
 There have been a few who have asked about this and the response is that once your body is cold adapted it will also function better in warmer temps and you will not have to worry about overheating.
@@ -36234,7 +36234,7 @@ Thanks!
 
 Snuffy
 
-### nicebeanst@yahoo.com — 2012-03-28T02:24:42+0300
+### [email redacted] — 2012-03-28T02:24:42+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-for-athletes-results-experiences.436/post-7449>
 
 I am going to look into the 100 gal trough for home and my gym. I have been doing daily cold baths in the evenings, abt 3 weeks now. About 45-60 min. I powerlift, and before I started CT my squat was 220, paused bench was 130, deadlift was 260. I am now up to 230 squat, 140 bench, 285 DL. That's pretty damn good! Considering it took about 6 weeks to go from 215 to 220 on the squat. I am 40 yo female.
@@ -37002,7 +37002,7 @@ Thank you Destiny! It's very exciting to hear that you're achieving your goal. V
 **Subforum:** Cold Thermogenesis
 **Posts:** 8
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2012-03-26T02:50:38+0300
+### [email redacted] — 2012-03-26T02:50:38+0300
 **Source:** <https://forum.jackkruse.com/threads/are-there-any-ice-princesses.441/post-6155>
 
 Was thinking about the people who are doing the amazing human tricks are all men. Any leads on women that have gone full frost?
@@ -37029,7 +37029,7 @@ I probably was when I was younger. I am old enough to remember when pools weren'
 
 Oh yes, Birdy, ocean swimming was one of my big goals too - and I've done it twice in the last week after 3 weeks of cold baths at home. It's just wonderful. Wearing a hat and neoprene gloves really helped though i looked entirely bonkers.
 
-### nicebeanst@yahoo.com — 2012-03-26T20:41:11+0300
+### [email redacted] — 2012-03-26T20:41:11+0300
 **Source:** <https://forum.jackkruse.com/threads/are-there-any-ice-princesses.441/post-6482>
 
 This reminds me that my mother was unknowingly raising my sibs and me to be ice princesses. When we were toddlers, she would always have us take our daily naps outdoors, in a bassinet or playpen. All year round! In the winter, she would layer blankets on us and she swore that we were all very healthy, no ear infections, colds. She did this on recommendation from her Irish grandmother. ALso same g-ma recommended cold dips in the ocean, as a cure-all for anything.
@@ -37061,7 +37061,7 @@ My mom was ALWAYS trying to get me out of the cold. I remember playing in the sn
 **Subforum:** The New Monster Thread
 **Posts:** 10
 ══════════════════════════════════════════════════════════════════════
-### chrystin.comeau@live.com — 2012-03-26T02:57:13+0300
+### [email redacted] — 2012-03-26T02:57:13+0300
 **Source:** <https://forum.jackkruse.com/threads/question-about-optimal-ranges.442/post-6160>
 
 So, I'm wondering about my labs...
@@ -37077,7 +37077,7 @@ Here's a good site for optimal lab ranges: [http://www.drkaslow.com/html/lab\_fi
 
 I don't know if he has DHEA, but you want to be at the top of the range on that.
 
-### chrystin.comeau@live.com — 2012-03-27T20:42:49+0300
+### [email redacted] — 2012-03-27T20:42:49+0300
 **Source:** <https://forum.jackkruse.com/threads/question-about-optimal-ranges.442/post-7259>
 
 I have to say--I just got my hand on "Stop the Thyroid Madness". What an amazingly helpful book, including optimal ranges as well as really helping me to see what is going on. Adrenals, thyroid, hormones. So much clearer now. And I'm ready to make an appt with my naturopath, now that I feel better educated about my own (admittedly f-ed up) physiology!
@@ -37100,7 +37100,7 @@ If interested, go to my profile and look at some threads started by me.
 
 JanSz, glad to see you back, will bookmark your link and check in on you in MuscleChatRoom.
 
-### chrystin.comeau@live.com — 2012-03-30T16:16:51+0300
+### [email redacted] — 2012-03-30T16:16:51+0300
 **Source:** <https://forum.jackkruse.com/threads/question-about-optimal-ranges.442/post-8742>
 
 > **JanSz;8783 wrote:** I deal with optimal ranges here:
@@ -37119,7 +37119,7 @@ JanSz, glad to see you back, will bookmark your link and check in on you in Musc
 
 Jan! Good to see you here! Do you think (if I can find it again) you could take a look at my admittedly bare bones labs? I'll post a link to my other post with my labs. I'm curious as to what your take is...
 
-### chrystin.comeau@live.com — 2012-03-30T16:19:20+0300
+### [email redacted] — 2012-03-30T16:19:20+0300
 **Source:** <https://forum.jackkruse.com/threads/question-about-optimal-ranges.442/post-8744>
 
 > **JanSz;8783 wrote:** I deal with optimal ranges here:
@@ -37194,7 +37194,7 @@ Annoying.
 
 ..
 
-### txritchies@att.net — 2012-03-30T21:47:47+0300
+### [email redacted] — 2012-03-30T21:47:47+0300
 **Source:** <https://forum.jackkruse.com/threads/question-about-optimal-ranges.442/post-8921>
 
 > **JanSz;8971 wrote:** I am being signed out after few hrs of no activity.
@@ -37510,7 +37510,7 @@ does he not like meat? bacon? you could totally slip thornes K2 in his food.
 
 He was thrilled I went paleo b/c that meant he got to eat more meat on a regular basis... I think one of the problems is the grains... its degenerating his spine, his health, and his libido - and driving him to more of a missmatch...
 
-### edance83@yahoo.com — 2012-03-26T18:01:00+0300
+### [email redacted] — 2012-03-26T18:01:00+0300
 **Source:** <https://forum.jackkruse.com/threads/vegan-men-better-in-bed.444/post-6398>
 
 I think their friend has been watching Peta ads..
@@ -37897,7 +37897,7 @@ Yes. I've noticed similar.
 
 My sister said my eyes changed color!
 
-### nicebeanst@yahoo.com — 2012-03-26T20:44:03+0300
+### [email redacted] — 2012-03-26T20:44:03+0300
 **Source:** <https://forum.jackkruse.com/threads/anyone-else-notice-changes-in-eye-color.446/post-6485>
 
 Yes. My DH asked me if I was wearing colored contacts the other day. My blue-gray eyes have less gray tone, more true blue.
@@ -37924,7 +37924,7 @@ The yellow rings around my iris are gone. They normally indicate candida in the 
 
 Nope. My brown eyes are still very brown. LOL Maybe you only notice things like that if you have light eyes.
 
-### jeanie@truelongmont.com — 2012-05-16T03:19:05+0300
+### [email redacted] — 2012-05-16T03:19:05+0300
 **Source:** <https://forum.jackkruse.com/threads/anyone-else-notice-changes-in-eye-color.446/post-24461>
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
@@ -37948,7 +37948,7 @@ It is very common and very misunderstood and this tells you that re-engineering 
 **Subforum:** Cold Thermogenesis
 **Posts:** 11
 ══════════════════════════════════════════════════════════════════════
-### chrystin.comeau@live.com — 2012-03-26T18:06:55+0300
+### [email redacted] — 2012-03-26T18:06:55+0300
 **Source:** <https://forum.jackkruse.com/threads/my-lips-were-blue.447/post-6404>
 
 Is that bad? It certainly was a little off-putting, that's for sure! I've been doing CT for a month or so. coldest water was just below 50 degrees. That was to my belly button. The past two days the water has been slightly warmer (low 50's) but I've submerged to my neck. This morning when i got out after about twenty minutes, I looked in the mirror and my lips were blue!
@@ -37977,7 +37977,7 @@ I got blue lips when I was doing my scuba certification. The instructor wouldn't
 
 Now sometimes doing CT some of my fingernails turn a little blue. Weird thing is that I don't even put my hands in the water!!!
 
-### chrystin.comeau@live.com — 2012-03-26T20:15:02+0300
+### [email redacted] — 2012-03-26T20:15:02+0300
 **Source:** <https://forum.jackkruse.com/threads/my-lips-were-blue.447/post-6464>
 
 > **JC2K;6491 wrote:** Blue lips = moderate hypothermia. You'll want to take it slower. Less time if you're submerging the whole body.
@@ -37989,14 +37989,14 @@ Thanks. like I said, I've been doing this for a month or so. Colder water, even.
 
 Back in my windsurfing/waterskiing days, I often got blue lips when I got really cold (lakes in Colorado don't get very warm in the summer). I'd have to sit in the car with the heater running full blast for 20 minutes to warm up. I never got blue lips skiing, even on frigid days, so I think it's the water immersion that so effectively reduces core body temperature. During CT, I would avoid staying in so long that your lips turn blue.
 
-### taryn.ourso@gmail.com — 2012-03-27T01:56:45+0300
+### [email redacted] — 2012-03-27T01:56:45+0300
 **Source:** <https://forum.jackkruse.com/threads/my-lips-were-blue.447/post-6674>
 
 cjco,
 
 I've experienced this a few times myself. I asked Dr. Kruse about this awhile back, and he said it happens to him sometimes, too, and that it is not harmful if you are otherwise well. Check your core temperature, though...if you have blue lips AND are dropping your core temp, then back off for sure. Personally, it doesn't take much for me to get blue lips...I check my temp, and if all is well, then I know I'm good. Also, be sure you are checking in on yourself regularly...check your skin color, feeling, etc...you may just be prone to having blue lips.
 
-### chrystin.comeau@live.com — 2012-03-27T02:01:03+0300
+### [email redacted] — 2012-03-27T02:01:03+0300
 **Source:** <https://forum.jackkruse.com/threads/my-lips-were-blue.447/post-6680>
 
 > **lsutiger143;6710 wrote:** cjco,
@@ -38007,14 +38007,14 @@ I've experienced this a few times myself. I asked Dr. Kruse about this awhile ba
 
 Thanks. I felt fine, other than being cold and shivering (which stopped but started again once I've started full submersion). Is an oral temp OK?
 
-### taryn.ourso@gmail.com — 2012-03-27T02:15:01+0300
+### [email redacted] — 2012-03-27T02:15:01+0300
 **Source:** <https://forum.jackkruse.com/threads/my-lips-were-blue.447/post-6688>
 
 > **cjco;6716 wrote:** Thanks. I felt fine, other than being cold and shivering (which stopped but started again once I've started full submersion). Is an oral temp OK?
 
 Yeah, oral temp is all I do. Believe me, I was freaked out the first time I walked in my bathroom from my pool and saw the blue lips/ghost face!!! But, I know from the past that even if I would eat ice cream or alot of ice, my lips would lose some color. If you are still worried, you can always have someone hang around while you CT. You feeling fine otherwise?
 
-### taryn.ourso@gmail.com — 2012-03-27T02:15:32+0300
+### [email redacted] — 2012-03-27T02:15:32+0300
 **Source:** <https://forum.jackkruse.com/threads/my-lips-were-blue.447/post-6689>
 
 Oh, wait, you said you did feel fine. I should learn to read =)
@@ -38285,7 +38285,7 @@ Yup, the only thing I can think of that would be difficult to eat with a fork...
 **Subforum:** Cold Thermogenesis
 **Posts:** 17
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2012-03-26T22:28:35+0300
+### [email redacted] — 2012-03-26T22:28:35+0300
 **Source:** <https://forum.jackkruse.com/threads/hack-my-lack-of-desire-for-cold-tub.450/post-6558>
 
 Day 3 of baths.
@@ -38344,7 +38344,7 @@ the doc there explains his protocol for water therapy (20 years ago) and he's ba
 
 sometimes i have to push myself a bit to get to the tub, but it's not what i'd call a struggle. and the funny things is, i only have about 10 seconds of discomfort in the whole time i'm in the tub. when i first turn the water on and when it reaches my hoohaw and then when i lie back... the takes a few birthing breathes i must say. i am a chilled when i get out so i just pile on clothes and take the dog for a walk and come back toasty.
 
-### jeanie@truelongmont.com — 2012-03-27T02:13:37+0300
+### [email redacted] — 2012-03-27T02:13:37+0300
 **Source:** <https://forum.jackkruse.com/threads/hack-my-lack-of-desire-for-cold-tub.450/post-6687>
 
 > **bonita;6682 wrote:** i agree with the others, go slow. i'm not really set up to do much with the ice packs, but i'm flush with cold water so i started with what i thought were cold showers (thermometer eventually told me otherwise). eventually i just sat down during a "cold" shower one day and put the plug in the tub. i started at 80F and originally started lying down--but that's actually much harder. shivered constantly, so i sat up and started lowering the temperature every time. (i also put towels under my butt and feet so they're not directly on the metal and started wearing my bra--it doesn't keep me warmer, it's just feels... i dunno, less vulnerable somehow.) after 2 weeks i found myself sitting in 55 degree water for 15 minutes.
@@ -38415,7 +38415,7 @@ hysterical! Don't trip and fall on it though.
 
 I don't do my bath if I'm feeling cold and tired - I feel like my body is telling me to slow down. Sometimes I have been cold and gone for a walk and felt warm enough to do my bath when I returned. I'm also not doing a bath tonight because I have a detox headache - I figure let the body clear this bunch of toxins before releasing more.
 
-### kc_boxerman@yahoo.com — 2012-03-28T23:40:08+0300
+### [email redacted] — 2012-03-28T23:40:08+0300
 **Source:** <https://forum.jackkruse.com/threads/hack-my-lack-of-desire-for-cold-tub.450/post-7956>
 
 I've enjoyed recovery from a morning bath much more than from evening bath. Morning - being active and follow-up child out of mind. Night - cold trying not to shiver while I try to relax.
@@ -38658,7 +38658,7 @@ I lost a lot weight on HCG protocol and kept losing after finishing three rounds
 **Subforum:** The New Monster Thread
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2012-03-27T02:40:25+0300
+### [email redacted] — 2012-03-27T02:40:25+0300
 **Source:** <https://forum.jackkruse.com/threads/things-to-brush-up-on-and-perhaps-come-prepared-with-when-trying-a-new-doc.454/post-6705>
 
 Ok,
@@ -38813,7 +38813,7 @@ I've been doing cold baths for 3 weeks now and up until a couple of days ago, wa
 
 I haven't noticed a difference in how much I shiver while in the tub. It seems that if I put my upper arms in the water, I shiver off-and-on throughout, but if I keep them out, I don't shiver until the last few minutes. I'm working up to more arm immersion, but slowly. Much as I usually like to rush through things, I've decided on this one to listen to my body and go at a reasonable pace.
 
-### trishalinn@gmail.com — 2012-03-27T19:08:54+0300
+### [email redacted] — 2012-03-27T19:08:54+0300
 **Source:** <https://forum.jackkruse.com/threads/neoprene-do-you-use-it-feet-in-or-out.456/post-7131>
 
 I put my feet in. The first week of baths it made my feet really ache. No problems with it now though. In fact, yesterday my husband and I spent almost an hour in our in-ground MICHIGAN pool. Pool thermometer said it was 56 degrees. The outside temp was 42 degrees. If any of the neighbors saw us, they probably think we've gone mad!
@@ -38883,7 +38883,7 @@ Thanks again for the response. A little more clear, yes. It takes me a long time
 
 This is all so facinating!
 
-### finnite@dccnet.com — 2012-03-28T19:57:21+0300
+### [email redacted] — 2012-03-28T19:57:21+0300
 **Source:** <https://forum.jackkruse.com/threads/neoprene-do-you-use-it-feet-in-or-out.456/post-7803>
 
 I use the booties I find if I don't my feet cramp badly and I can't stay in the water. even with the booties I can get cramping but my water temp is about 47F
@@ -39060,7 +39060,7 @@ BTW, HazyJane, it was your MDA post I found about the Nitric Balance and wondere
 
 Ertarox, when do you find out about the brain oxygen issue?
 
-### mycrazycartoons@gmail.com — 2012-04-01T17:48:13+0300
+### [email redacted] — 2012-04-01T17:48:13+0300
 **Source:** <https://forum.jackkruse.com/threads/i-have-an-important-question-for-dr-kruse-a-friend-said-he-is-a-good-person-to-ask.457/post-9791>
 
 > **Jack Kruse;6845 wrote:** I think her idea is a good one........for sure. And some CT too. In fact a lot of CT. Its cheap and there is nothing better for the human brain
@@ -39680,7 +39680,7 @@ Part II: [https://docs.google.com/open?id=0B9yxL-DAIg-Yb1RqN0dFaHJSUXFidE1PWW9lV
 
 He weighed in when I showed him my labs change over 3 months.
 
-### mmuskopf@gmail.com — 2012-03-29T15:37:46+0300
+### [email redacted] — 2012-03-29T15:37:46+0300
 **Source:** <https://forum.jackkruse.com/threads/worrisome-lipids.459/post-8227>
 
 > **Shijin13;7080 wrote:** g
@@ -39806,7 +39806,7 @@ To raise HDL, some will use 1000mg of Vit B3 in the am and then another 1000mg i
 
 I started IR niacin a couple years ago, I don't mind the flush. I tried niacin therapy in my thirties, but had a mitral valve/tachardia issue at that time and it was messing with my heart rythym. I worked up to 2,000mg last spring and platelets dropped from it....also BG readings were getting unfavorable, so now am back down to 1,000.
 
-### kc_boxerman@yahoo.com — 2012-03-29T20:21:41+0300
+### [email redacted] — 2012-03-29T20:21:41+0300
 **Source:** <https://forum.jackkruse.com/threads/worrisome-lipids.459/post-8381>
 
 > **BenG;7883 wrote:** CT detoxing can raise C-RP.
@@ -40338,7 +40338,7 @@ That is a very good find, Chrisgraff! Thanks!
 
 I was hypo (not hashi) and was able to fix it with adrenal supplements alone. I might suggest seeing a naturopath and having a cortisol salivary test. I do also think it is common for some symptoms as the toxins. I do hope you can get some relief!
 
-### Szara.loring@gmail.com — 2012-03-30T21:59:04+0300
+### [email redacted] — 2012-03-30T21:59:04+0300
 **Source:** <https://forum.jackkruse.com/threads/starting-wk4-of-lrx-first-ct-bath-yesterday-fibro-flares-big-time-any-input.467/post-8928>
 
 > **cantweight;7043 wrote:** Any reason why after 3 full weeks of Leptin Rx and first CT bath my fibro would flare?
@@ -40401,7 +40401,7 @@ Can you please explain it in details as I'm a newbie and don't have much knowled
 **Subforum:** Optimal Fitness
 **Posts:** 1
 ══════════════════════════════════════════════════════════════════════
-### edance83@yahoo.com — 2012-03-27T17:50:05+0300
+### [email redacted] — 2012-03-27T17:50:05+0300
 **Source:** <https://forum.jackkruse.com/threads/being-ls-and-recovery-time-sweating.469/post-7039>
 
 Hey guys. So, I'm trying to decide if I can move onto the post leptin diet part and one of the things to look at is recovery time.
@@ -40700,7 +40700,7 @@ That IS interesting.
 
 Makes me love and appreciate CT even more!
 
-### edance83@yahoo.com — 2012-03-28T22:27:22+0300
+### [email redacted] — 2012-03-28T22:27:22+0300
 **Source:** <https://forum.jackkruse.com/threads/zeltiq.475/post-7908>
 
 > **MamaGrok;7764 wrote:** CT works for \*anyone\* at any time to increase metabolism and increase BAT (= spot fat burning). It works for far more (adrenal, thyroid, etc., etc.) if you pair it with the ketogenic diet, and far more quickly if you use water (especially immersion).
@@ -40869,7 +40869,7 @@ so ladies and gents....give me your best recipes!!! I want something that's both
 
 I'll be watching. I had an AMAZING recipe that I used last year. It cooked all day in this beautiful Italian tomato sauce. The meat just fell off the bones. And now, I can't remember what cookbook it was in! I had a phase where I tried a whole bunch of cookbooks from the library and I can't remember which one it was. My husband said it was exactly like what his little Italian Grandma used to cook when he was a kid. Off to cearch again... fingers crossed!
 
-### jeanie@truelongmont.com — 2012-03-28T22:55:09+0300
+### [email redacted] — 2012-03-28T22:55:09+0300
 **Source:** <https://forum.jackkruse.com/threads/pork-spare-ribs-in-a-crock-pot-let-me-have-your-best-recipes.478/post-7930>
 
 We make lots of meats in the crock. 2-3 times a week. I had to give up on cooking them overnight for morning consumption though, the yummyness kept waking me up.
@@ -40945,7 +40945,7 @@ Shinjin, I just had a big grok party with spare ribs. I just salt and peppered t
 
 For sweet, I would second cavemam's suggestion for cocoa, but also cinnamon and sea salt and CO is amazing with pork! YUM!
 
-### jeanie@truelongmont.com — 2012-03-30T01:35:57+0300
+### [email redacted] — 2012-03-30T01:35:57+0300
 **Source:** <https://forum.jackkruse.com/threads/pork-spare-ribs-in-a-crock-pot-let-me-have-your-best-recipes.478/post-8505>
 
 Ok, made beef roast with my standard method mentioned before. I encourage everyone to brown before crockpotting on beef roast. Pork it's not as necessary (due to the way the proteins loosen, slow low for whole thing is good).
@@ -40977,7 +40977,7 @@ Hubby likes to add BBQ sauce to his. I like it just like it comes out of the coo
 
 Excuse me, but if Sandy created these recipes....she can cook! Dang...so many of these paleo cookbooks are full of boring meals that I could outcook any day...but this one is actually awesome! She knows her way around a kitchen...she has a sense of how to maximize flavor, she has it going on! In short, I would follow one of her recipes, and as a great cook myself, I don't say that often!!
 
-### nicebeanst@yahoo.com — 2012-03-28T01:59:56+0300
+### [email redacted] — 2012-03-28T01:59:56+0300
 **Source:** <https://forum.jackkruse.com/threads/about-the-cookbook-its-awesome.479/post-7433>
 
 I purchased the book last night, can't wait to try it out!
@@ -40994,7 +40994,7 @@ Spring update coming soon!!! Excited!!! I generally have a rotation going on mea
 **Subforum:** My Optimal Journal
 **Posts:** 48
 ══════════════════════════════════════════════════════════════════════
-### chrystin.comeau@live.com — 2012-03-28T02:09:33+0300
+### [email redacted] — 2012-03-28T02:09:33+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-7437>
 
 Ok, here goes...
@@ -41016,7 +41016,7 @@ That's why I decided to start this journal. I'm not sure where this journey will
 
 Good luck, and I am looking forward to reading more.
 
-### chrystin.comeau@live.com — 2012-03-31T13:49:02+0300
+### [email redacted] — 2012-03-31T13:49:02+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-9166>
 
 Haven't posted in few days. I've been extremely moody. Rage, tears, depression. And cravings. I think I looked like one of those movie schizophrenics yesterday after lunch, fighting my craving for sugar. Ugh. This is how I'm wasting the precious seconds and minutes and hours of my life? It is shameful. Really really shameful.
@@ -41029,7 +41029,7 @@ I was reading on another forum (about paleo/primals with sugar cravings)...This 
 
 ...and I continue to track my meals on a spreadsheet. Oh, and I'm waking up very thirsty every morning. I don't think I'm getting enough water. Maybe that will help me flush all of these moody crappy feelings out better...
 
-### chrystin.comeau@live.com — 2012-04-04T14:08:18+0300
+### [email redacted] — 2012-04-04T14:08:18+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-11210>
 
 Quick check in while i make my kids' breakfast... Saw naturopath last night. Not \*quite\* as knowledgeable (read:in agreement with me, LOL) as I had hoped. She asked if the "diet" I was on had more fat. Long sigh...... Anyway, got a full thyroid panel ordered, dhea-s at least and will be doing a whole month of saliva testing and another draw on day 21 for hormones.
@@ -41039,7 +41039,7 @@ Quick check in while i make my kids' breakfast... Saw naturopath last night. Not
 
 Welcome to the road to optimal.....
 
-### chrystin.comeau@live.com — 2012-04-04T15:55:05+0300
+### [email redacted] — 2012-04-04T15:55:05+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-11240>
 
 Love from the master...nice.
@@ -41060,14 +41060,14 @@ I did not give her details about the Leptin Rx. I didn't feel she would be recep
 
 SO, had my thyroid drawn last night and will very impatiently wait for next Wednesday, when we have a phone appt to discuss the results. What i'm hoping for, honestly, is for my suspicions about my thyroid to be borne out in my lab results. To me, that would best explain my symptoms and the gradual decline of my emotional and physical health and well being over the past 3 or so years.
 
-### chrystin.comeau@live.com — 2012-04-11T20:13:18+0300
+### [email redacted] — 2012-04-11T20:13:18+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-13823>
 
 Just shoot me. Full thyroid panel. totally normal. HS crp 0.6. Me-honest to god the fattest I've ever been outside of pregnancy. Totally out of control. Doing month long salivary hormone testing now. Testosterone was accidentally added to my last lab req and was low.
 
 I feel totally, utterly helpless and hopeless. My obsession with my weight and food continues to grow... I was so hoping that my emotional issues were caused by an underfunctioning thyroid.
 
-### chrystin.comeau@live.com — 2012-08-13T22:22:41+0300
+### [email redacted] — 2012-08-13T22:22:41+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-44759>
 
 Im baaaack...four months later. I am tempted to default to the phrase"off the wagon" but I prefer to think that this has been the path that I've needed to take. I've been working with my naturopath, reading (hormones, adrenals, thyroid, as well as almost everything martha beck has written. After much testing that revealed not much (to my naturopath, anyway) and talks with her about my desire to treat my significant hormonal deficiency symptoms, rather than my numbers and her attempts to treat me homeopathically, supplementally and pretty much every other manner _except_ BIHT...it would seem that I've gotten nowhere. But, again, I don't wish to frame it that way. Its more like when we tell laboring moms (after hours of active labor) that they are still at the same dilation they were hours before...a LOT has been happening, changing and progressing. The baby has been turning, preparing, secreting hormones, readying itself for the journey. Measuring progress by dilation alone is a mistake, albeit the only one we are able to accomplish.
@@ -41078,7 +41078,7 @@ T3, vitex, maca, adrenal support, sepia (homeopathic), pregnenolone, inaddition 
 
 My naturopath is hesitant to pull the trigger on hormones...despite my low progesterone and absent testosterone and encouragement that I AM NOT AFRAID, CONCERNED OR WORRIED ABOUT GOING ON BIHT FOR THE REST OF MY DAYS!!!!
 
-### chrystin.comeau@live.com — 2012-08-13T22:37:47+0300
+### [email redacted] — 2012-08-13T22:37:47+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-44763>
 
 Today!
@@ -41093,7 +41093,7 @@ Am feeling hungry late afternoon, but will wait until dinner--scallops!!
 
 Dinner5:30. SCallops, greens, guacamole, couple slices of watermelon and cantaloupe, coffee
 
-### chrystin.comeau@live.com — 2012-08-13T23:29:21+0300
+### [email redacted] — 2012-08-13T23:29:21+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-44771>
 
 Im baaaack...four months later. I am tempted to default to the phrase"off the wagon" but I prefer to think that this has been the path that I've needed to take. I've been working with my naturopath, reading (hormones, adrenals, thyroid, as well as almost everything martha beck has written. After much testing that revealed not much (to my naturopath, anyway) and talks with her about my desire to treat my significant hormonal deficiency symptoms, rather than my numbers and her attempts to treat me homeopathically, supplementally and pretty much every other manner _except BIHT...it would seem that I've gotten nowhere. But, again, I don't wish to frame it that way. Its more like when we tell laboring moms (after hours of active labor) that they are still at the same dilation they were hours before...a LOT has been happening, changing and progressing. The baby has been turning, preparing, secreting hormones, readying itself for the journey. Measuring progress by dilation alone is a mistake, albeit the only one we are able to accomplish.
@@ -41118,7 +41118,7 @@ Moving on, I am back in the tub. And the whole seafood/seaweed thing intrigues m
 
 As someone with disordered eating issues (as much as I detest labelling myself that way, I'm not sure how else to say it), I was wary of participating in a program that was so limiting, being that I felt that was how my issues began. But, now I'm thinking that those issues began along with and as part of my hormonal cluster \*\*\*\* and were not caused directly by my food limiting.
 
-### chrystin.comeau@live.com — 2012-08-14T13:20:02+0300
+### [email redacted] — 2012-08-14T13:20:02+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-44863>
 
 This morning will start with breakfast at 6:30...5 eggs scrambled with uncured ham and KELP!! lots of water, my supplements, probably coffee and maybe a slice or two of melon. Hoping this will last me all day because I have to work tonight and won't want to have dinner. I'll see how I feel at lunch. Might need to eat then...
@@ -41132,7 +41132,7 @@ Be wary of body logic.....they push pellets and you cant control the dose of the
 
 You clearly need BHRT. You also need the Brain Gut six blog more than you know.
 
-### chrystin.comeau@live.com — 2012-08-14T20:22:34+0300
+### [email redacted] — 2012-08-14T20:22:34+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-44932>
 
 Thank you Dr K. But, \*\*\*\*, really? Now what should I do (she says to herself)? I feel like I need a doc with a good knowledge of BH and who is not afraid to use them to help me get back to feeling 150% So, move ahead with naturopath and hope she eventually sees the light, with me pushing and pushing for hormones? BodyLogic with caution and discretion? Someone from Dzugan contacted me just a few minutes ago...maybe I'll check that out? Grrr... I'll work on that.... Anyone with experience..I'm open to advice!!!
@@ -41150,7 +41150,7 @@ lunch 1 PM...will be last meal today (working 6-9:30.) ONE POUND of shrimp, cook
 
 Go wileyprotocol.com and look up a provider in your area. That's all you need. I drove 400 miles to get to the one that was nearest to me and I haven't looked back. Best thing I ever did.
 
-### chrystin.comeau@live.com — 2012-08-14T21:54:44+0300
+### [email redacted] — 2012-08-14T21:54:44+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-44941>
 
 > **DarleenMB;45255 wrote:** Go wileyprotocol.com and look up a provider in your area. That's all you need. I drove 400 miles to get to the one that was nearest to me and I haven't looked back. Best thing I ever did.
@@ -41171,7 +41171,7 @@ Best wishes, cjco!!
 
 Darlene, do you have a period with the Wiley protocol? Why did you decide to do this rather than other BHRT methods? Thanks!
 
-### chrystin.comeau@live.com — 2012-08-15T20:18:10+0300
+### [email redacted] — 2012-08-15T20:18:10+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-45046>
 
 Crap, thought I posted, but it isn't here! Oh well. Body Logic graciously let me back out and is refunding my money....Now just waiting for the OBGYN listed on the Wiley site to call me back. Says she's certified antiaging. I'm all for that.
@@ -41199,13 +41199,13 @@ No periods because I don't have any parts. And I chose this because after I read
 
 I swear I was already showing symptoms of early dementia before I got on the WP. I could not remember ANYthing and my reading comprehension was down to about nothing. I was walking through each day in a total mental fog. It's much better now but I don't know if I will ever get back to full mental functioning. It's extremely frustrating. So when I say they can have my BHRT/WP when they can pry it from my cold, dead hands I am NOT kidding.
 
-### chrystin.comeau@live.com — 2012-08-16T01:40:31+0300
+### [email redacted] — 2012-08-16T01:40:31+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-45099>
 
 OMG, salmon ceviche was the Mary Frances bomb, if you know what I mean mixed the salmon with chopped kalamata and green olives, red onion, tomato, garlic, fresh parsley and thyme and served it on romaine drizzled with bacon grease with bacon on the side. Yeah. That's what I'm talking about. Round it off with a tad pinot grigio and a mixed blueberry watermelon cantaloupe salad. Ahhh. Next up coffee and that's all folks! Did my CT late this afternoon. About 25 minutes to the navel of 53 or so degree water.
 [](http://http://www.jackkruse.com/forum/convert_files/attachments/45432=415-100_0218.jpg)
 
-### chrystin.comeau@live.com — 2012-08-17T04:34:27+0300
+### [email redacted] — 2012-08-17T04:34:27+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-45295>
 
 No ct today. Bab leftover ceviche egg scramble, kombucha and coffee, supps
@@ -41218,7 +41218,7 @@ Post dinner...training and a little bike time
 
 Called gym from Wiley site again. Answering service said my last message was forwarded to office. Grr! Don't they know how long I've been suffering with messed up hormones! Lol
 
-### chrystin.comeau@live.com — 2012-08-17T23:04:39+0300
+### [email redacted] — 2012-08-17T23:04:39+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-45424>
 
 Today... BAB NOT within alotted time, bout an hour after waking... 5 eggs, uncured ham, spinach and a little kerrygold chz scramble. handful bberies, coffe and cream, supps
@@ -41229,14 +41229,14 @@ early dinner (working later) 3:30 1/2 kombucha. 1 lb shrimp stir fried in oo, re
 
 Now, I'm really thinking hard about a consult from Dr K. I've asked my naturopath for copies of all my labs. Anxiously awaiting a call back from the Wiley GYN. I'm just going to keep calling until I can get an appointment. But that just turns you off, doesn't it...when you can't even get someone to return your calls????
 
-### chrystin.comeau@live.com — 2012-08-18T16:38:09+0300
+### [email redacted] — 2012-08-18T16:38:09+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-45533>
 
 DID it!! Paid for consult. Emailed my naturopath for bloodwork, scanned all the results I already have (lipids, hscrp, salivary-including full month-long profile) into computer, signed my release form. The only thing I'm concerned about now is what to do after the consult. Since I'm positive I'll need BHRT, I still have to find someone who is willing to Rx them. Soooo, if anyone knows any friendly docs ANYWHERE in New England, I'd appreciate a referral!! I'm interested to see how much of my lab results are significantly sub-optimal, considering my naturopath blew off everything except testosterone. Maybe i'll try her first after the consult and see if she's open to it...
 
 Weird, this time on the reset my hunger is very different. I can easily go long period without eating. I ate dinner (albeit sizeable)at 3:30 yesterday and I wasn't starving this AM. Last time I was hungry-three meals a day and then some. I wonder how much the work my naturopath and I have done has helped...
 
-### chrystin.comeau@live.com — 2012-08-19T04:28:54+0300
+### [email redacted] — 2012-08-19T04:28:54+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-45656>
 
 BAB about 7:20 just eggs! Wanted something simple this am. 6 scrambled in butter with a splash of cream, fresh thyme, salt and pepper. A slice of cantaloupe, a slice of watermelon, small handful of blueberries, coffee with cream and supplements.
@@ -41249,14 +41249,14 @@ Dinner@ 6. Went out to great local place...italian...guy grows his own produce, 
 
 I also did 30 minuted of CT, although the water coming from the tap was a couple of degrees warmer than the past few days....about 55\*
 
-### kathiebu@hotmail.com — 2012-08-19T16:23:02+0300
+### [email redacted] — 2012-08-19T16:23:02+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-45672>
 
 You are doing great Chrytin, keep it up. When will be your consult? Keep us posted.
 
 BTW, that salmon looks really yummy
 
-### chrystin.comeau@live.com — 2012-08-19T17:53:16+0300
+### [email redacted] — 2012-08-19T17:53:16+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-45696>
 
 Thanks, ABM. Haven't scheduled the consult yet. Want to get my labs from my naturopath. But I just finished writing up my healh hx, so, 1 step closer.
@@ -41265,7 +41265,7 @@ Something else I realized when i was writing up my hx... Since starting reset ag
 
 Also, may I say, that EVERYONE should read Wiley's book "Sex, lies and menopause". Male, female, old, young, whatever. Amazing. Such a great explanation of circadian biology, how we've moved away from how we were optimally designed to live and why we need hormones if we want to live a long, healthy life. To sum up...you cannot alter natural, biologic processes without consequences. We have f\*\*\*\*d with mother nature. Thanks so much to those of you who suggested reading it.
 
-### chrystin.comeau@live.com — 2012-08-20T00:55:20+0300
+### [email redacted] — 2012-08-20T00:55:20+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-45760>
 
 Ok, So today, Sunday...
@@ -41280,7 +41280,7 @@ Dinner 5P. Hungry! unfortunately our first attempts at cooking clams was not a h
 
 That's all!! Putting kids to bed early so we can watch a movie b4 dark
 
-### chrystin.comeau@live.com — 2012-08-21T16:03:16+0300
+### [email redacted] — 2012-08-21T16:03:16+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-46031>
 
 Ordered my blublockers this AM- 2 pk..one for me, one for dh. He _really_ needs them-getting his masters online, which forces him to use the computer after dark. I am more successful at avoiding light after dark, but I like the insurance!
@@ -41295,14 +41295,14 @@ BAB today 8A. 3 eggs omelet with a little kerrygold cheese and three sausages, m
 
 Expect to eat at about 3...leftover cabbage from the other day with some kind of fish. Doesn't sound very exciting.....
 
-### chrystin.comeau@live.com — 2012-08-21T22:02:15+0300
+### [email redacted] — 2012-08-21T22:02:15+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-46110>
 
 So, I premade myself sardine guacamole. But I can't bring myself to eat it. I WANT RED MEAT. Serious craving. So, I'm making myself a burger with kerrygold on top and a big bowl of leftover sauteed cabbage mixed with dulse (something from the sea, at least!)
 
 Good news...got in touch with the Wp in my area, finally! She's ordering labs and we'll go from there. I just finished the section in Wiley's book about heart disease and the differences between men and women. I thought no one knew why men's and women's heart attacks were different!!!!!!!!! This woman's been talking about it for years, apparentlyl!!
 
-### chrystin.comeau@live.com — 2012-08-22T22:25:32+0300
+### [email redacted] — 2012-08-22T22:25:32+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-46406>
 
 Today's excitement. Picking up the last of my bloodwork from the naturopath this afternoon, then will be sending it off to Dr K. Waiting for response from Tungle as to what time the appointment will be on SATURDAY! Yay!
@@ -41315,7 +41315,7 @@ oh and kombucha, more mag cit and C
 
 STUFFED! May not have room for coffee!
 
-### chrystin.comeau@live.com — 2012-08-23T22:52:56+0300
+### [email redacted] — 2012-08-23T22:52:56+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-46593>
 
 BAB at 7:15. 3 eggs, 4 leftover mini gf meatballs from the kids previous day's lunch, a couple of bite of Fage, 2 slices cantaloupe, supps with extra c, coffee with co
@@ -41332,7 +41332,7 @@ My kids went insane over the pan fried mahi mahi last night and are demanding mo
 
 Make that haddock and clams. Feeling very cranky==haven't felt that way in a while. Though, I'm about to enter the last week of my cycle, so, that makes some sense.
 
-### chrystin.comeau@live.com — 2012-08-24T21:41:24+0300
+### [email redacted] — 2012-08-24T21:41:24+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-46795>
 
 RUh roh...I don't like the direction this wagon is traveling! For two days now I have wanted icecream. Yesterday I bought some of that coconut milk stuff with erythritol instead of sugar. Two bites and ick.
@@ -41347,17 +41347,17 @@ Ct 11:30 full bath again about 25 minutes
 
 Tomorrow I will up my BAB.
 
-### chrystin.comeau@live.com — 2012-08-25T04:52:16+0300
+### [email redacted] — 2012-08-25T04:52:16+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-46951>
 
 Home from work...my stomach is torn UP! Ugh. Up early tomorrow for blood draw. Consult at 9. Need to take care of ducks, plan curriculum for #3, laundry, work at 3... Really nervous about my consult!!!!!!!!
 
-### kathiebu@hotmail.com — 2012-08-25T15:22:46+0300
+### [email redacted] — 2012-08-25T15:22:46+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-46989>
 
 Good luck with the consult! Let us know how it went.
 
-### chrystin.comeau@live.com — 2012-08-27T17:06:23+0300
+### [email redacted] — 2012-08-27T17:06:23+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-47485>
 
 In the tub this am...first time I've been back to update journal since consult. Super busy weekend and soooooo much to think about. First off, consult was mind blowing. Glad I recorded it as some suggested. If you do a consult you HAVE to find a way to record it. Even if you have to buy something to do it! I just used garage band. Thanks to dr k, I can no longer live in denial. My problems are fixable, but if I don't fix them I will be one sick puppy! My main issues are 1. Light and 2. Hormones. I was told the the only thing probably keeping me from being worse off than I am is my diet. Scary.
@@ -41376,7 +41376,7 @@ I work at nite often (like 6-9:30) in an brightly lit retail store. I have no pr
 
 I am holding out hope that this new doc will give me everything I need, accept some of the recommendations I received from dr k and help me get back to optimal. I am waiting for the lab reqs to come. Had new est, prog, dhea, testosterone drawn on Saturday for the naturopath. Maybe I'll take the consult to her first...... I just don't know
 
-### chrystin.comeau@live.com — 2012-08-30T20:17:29+0300
+### [email redacted] — 2012-08-30T20:17:29+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-48412>
 
 Ugh. Back and forth, back and forth. I'd like this relationship with my naturopath to continue. She is a very caring practitioner, she just needs some more knowledge. In attempts to school her, I paid about ten bucks to have my consult transcribed online and it is a disaster. SO much for that. Will have to take another approach, I guess! I don't want to waste anymore time. The Wiley doc wants me to do a 24 hour urine and a thyroid panel that she wants sent to a special lab. The 24 hour urine cant be done at TOM (currently) and must be eight days away from any supps. So I'm looking at a week b4 I can do that. They thyroid draw must be sent spun and frozen, which the lab by her will do for me. It is 2 hours away. Just for a blood draw. I really would like my naturopath to get on board. My next step is to just send her the recording....And the Suzanne Somers book.
@@ -41396,7 +41396,7 @@ Waiting for naturopath to call me back as my labs were in yesterday. My approach
 
 Hi....I can relate. I have the same problem some nights but I'm thinking of wearing blue blockers for that time. I know it'll look odd but what the heck.
 
-### chrystin.comeau@live.com — 2012-08-31T22:08:04+0300
+### [email redacted] — 2012-08-31T22:08:04+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-48619>
 
 Endless,
@@ -41409,7 +41409,7 @@ I'm constantly reviewing the conversation I'm going to have with my naturopath i
 
 I'm not sure about this doc 2 hours south of me. I will call her as well, before I start the testing she wants me to do. I don't want to go through all this, go to her office and have her tell me that I'm normal. I would seriously go postal.
 
-### chrystin.comeau@live.com — 2012-09-03T21:52:58+0300
+### [email redacted] — 2012-09-03T21:52:58+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-49217>
 
 SO much going on.....
@@ -41418,7 +41418,7 @@ I've decided that my naturopath is the quickest easiest way to get it done. I wi
 
 My husband told me a really interesting story this weekend. SOmething that he didn't attach any significance to until now, after listening to My Call With Jack (like My Dinner with Andre, but less boring LOL). I capitalize it because I consider it a pivotal event in my life. So, my husband was a skinny guy after boot camp. Seriously. Skinny. Then he entered the submarine service. Gained 40 lbs. No changes in diet or exercise (non existent b4 and after). THE LIGHT! He also shared the story of a nurse that he recently hired. She had been working nights at her previous job and complained that she got fat while working that job. Now, she's back to regular shifts. Lost the weight.
 
-### chrystin.comeau@live.com — 2012-09-07T17:38:50+0300
+### [email redacted] — 2012-09-07T17:38:50+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-50012>
 
 Omg. Only partially thru BG11. So important!
@@ -41431,12 +41431,12 @@ Still fighting the good fight hormonally. I have a phone appt w my naturopath fo
 
 Oh, and I got on the scale this am (for the first time in a couple of months) out of sheer curiosity and it was not as bad as I thought!! I may be a couple of lbs down! Persevere!
 
-### chrystin.comeau@live.com — 2012-09-17T23:55:39+0300
+### [email redacted] — 2012-09-17T23:55:39+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-52215>
 
 Arrgh! Just got off the phone with the naturopath. She was \*shocked\* that I've had no improvement. She said my progesterone labs look fine as well as my estrogen, but my testosterone is still low and my dhea has room for improvement. I told her I already started supplementing w dhea and melatonin. She said she wants to put me on t cream. I argued that, although i undoubtedly need T, my main concern is that my symptoms really point to Prog deficiency. SHe flat out refused to put me on progesterone, saying that I would really feel terrible if I didn't need it. Yeah for like a day and then I wouldn't have to reapply the cream. Ugh. Then her assistant got on and told me the charge for today's amazingly helpful (not) phone appointment was 45 bucks. Can you say, "DONE"? Made a consult appointment with a doc at the practice I met today. he's supposedly an expert on hormones.. We'll see I'm the expert on me!
 
-### chrystin.comeau@live.com — 2012-09-19T17:06:40+0300
+### [email redacted] — 2012-09-19T17:06:40+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-52692>
 
 Watching things inch down. Decided to take my fbg weekly. Had done it daily, ran out of strips, then not at all. THis Am was 84. not my lowest, but I believe a downward trend. Weight was 117- on the lighter side. That means after multiple weighings, I had 117s and 116.5. I have had this scale forever and I know that means that I'm on the "light side" of 117. Down half pound+ from last time I weighed (9/7). Used my body fat scale as well. We're not talking laser precision, here, but it is good for trending. For the first time it read my visceral fat as 4. Had been 5 ever since I first bought it.
@@ -41445,21 +41445,21 @@ So, really interesting changes. I've had a cold, so sleep is not fantastic and I
 
 I've been reading up on SAD. Although i don't suffer from noticably more depression with less light, I think I fall in to the "sub-syndromal" group. Something else I've been delving into is the major move we made December 31st 2007. We moved from lat 34 degrees to 43 degrees (SC to NH). In the middle of winter. I was pregnant. From the charts I'm looking at, it looks like about an hour of light difference at that time of year. Wondering aloud about what impact that may have had...
 
-### chrystin.comeau@live.com — 2012-09-21T18:17:26+0300
+### [email redacted] — 2012-09-21T18:17:26+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-53207>
 
 Interesting.....SOMETHING's crashing. Today I feel blah, crappy, cold, want to be by myself. I even want to roll my eyes at my adorable four year old and be like,"oh leave me alone already!" I used to think that I had some kind of _issue_(read:mental) when that happened. Now I understand it is an effect of either or both light and hormones. And I'm craving carbs. Had a coconut wrap with nut butter and fruit. Could..not...say...no..to...that! Really wishing sun would come out and I could bask in it. These symptoms will be presented to my gyn consult supposed \*expert\* next week. These are bonified hormonal symptoms, along with thyroid, IMO, no matter what my labs say.
 
 Also the past couple of days I've been obsessed with the idea that I'm getting softer (ew). I should have recognized that as the beginning of something hormonal. Its been a couple of weeks since I've been in the gym. Just hasn't been a priority, especially with the lighting in there. Priority #1 has been sunlight. As much as I could possibly get. I was in the gym a couple of times this week. I don't seem to have lost any strength (doing sisson's 5 moves as a benchmark) but I'm feeling drawn to the gym. I'll probably put on the blue blockers and do a set of intervals on the bike.
 
-### chrystin.comeau@live.com — 2012-09-24T21:09:31+0300
+### [email redacted] — 2012-09-24T21:09:31+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-53878>
 
 Holy \*\*\*\*!!! I can't believe it! my naturopath's office called me today and told me they'd be ordering a testerone/progesterone cream combo!!!!!! I have no idea what made her change her mind as she refused to give me Pg when i asked to try a cream the other day. The cream is a 15mg Pg/2mg T combo. I'll have to do some research on what relative amount of Pg that is compared to other people's. Totally shocked and thrilled. I also just bought and listened to this month's webinar. One word. Awesome. Oh wait, another word (or two). Necessity. Indispensable. A step by step guide to Epcotx.
 
 I've emailed to try to purchase last month's webinar, if possible, as Jack told me that was a must see for me, as well.
 
-### chrystin.comeau@live.com — 2012-09-26T20:15:28+0300
+### [email redacted] — 2012-09-26T20:15:28+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-54487>
 
 Awoke with HUGe headache this AM after (I'm assuming) the 2 hour webinar onslaught of my fluxed computer screen and my blublockers. No other reason I can think of for headache. Unless PM melatonin is causing me probs or extra dhea....anyone? Lost what I could only refer to as a fistful of hair in the shower this am. Not a great experience. Skin and hair are also very dry. Chalk it up to more symptoms to tell my gyn consult hormone doctor on Friday. Always look on the bright side....
@@ -41468,7 +41468,7 @@ After last night's webinar, I dug some maca out of the closet this AM and took 4
 
 ....and, in the spirit of oversharing, I went from a 4 last weeks or so to a 1. VERY interesting, at least to me. SO glad I keep a journal of what I eat and supplement along with how I feel emotionally, cravings, weight and FBG (occassionally) as well as the all important #!
 
-### chrystin.comeau@live.com — 2012-09-27T15:12:57+0300
+### [email redacted] — 2012-09-27T15:12:57+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-54728>
 
 Lab update: My labs from day 21 of last month....
@@ -41489,7 +41489,7 @@ DHEA 5.1 ng/ml
 
 Started my prog/T cream yesterday. It is actually 50mg of P and 2mg of T. I take it at bedtime. I'm tempted to double it, but I'll wait at least until I go for my GYN consult tomorrow.
 
-### chrystin.comeau@live.com — 2012-09-28T19:59:04+0300
+### [email redacted] — 2012-09-28T19:59:04+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-55045>
 
 GYN consult....
@@ -41500,7 +41500,7 @@ The good stuff...Although he denies I'm in any state of hormonal decline, he agr
 
 So, all in all, I'd say he's about 40% of where I'd like him to be. I told him I thought the progesterone was a big player in my weight gain, making me insulin resistant and ultimately skewing my gut flora. He was with me up until I mentioned gut flora, LOL. Just wanted to get a feel for his depth of understanding. I told him that although my weight was "normal", what was telling was my body comp-my body fat has nearly doubled in the past three to four years. Yuck. He said the nutrition plan they recommend sounds very similar to what I'm already doing. AT which point I wanted to scream "ITS NOT WHAT I'M EATING!". Anyway, I think he's good enough to get me where I need to go. He seemed irritated that I seemed to know anything at all. My bad. I forgot that its his job to know everything and my job to sit quietly in awe of his brilliance. Maybe he's not all that bad. We'll see. He is very supportive of my naturopath, a least and said he has sent many patient to her for naturopathy.
 
-### chrystin.comeau@live.com — 2012-09-29T17:13:56+0300
+### [email redacted] — 2012-09-29T17:13:56+0300
 **Source:** <https://forum.jackkruse.com/threads/chrystins-journal.480/post-55210>
 
 INTERESTING morning, here. I thought I'd been waking in the middle of the night the past few days. I didn't want to look at my phone, exposing my self to the light to check the time. This time, I just had to check the time. I felt around for my blublockers and looked---It was 5:45 AM. Decidedly not in the middle of the night. Totally awake. Nice. Decided last night I would weigh and take FBG this am. More good news there. FBG 79 (1st time below 80) and Weight 115.5! Down about 1 1/2 pounds over ten days. Even fat% scale showed me down a bit on my BF% and had my "body age" down to 33. Again, not precision science here, but I like the trend. Not bad since I'm not actively trying to lose weight, just make light cycles a priority, eat at least 4 hours b4 bed, seafood 4-5 times per week, supp x3 days w Prog and T. I also just started up my t3 again. DHEA, K, D, maca, krill, magnesium. Now to get my OTHER number right! Go # 4!!
@@ -41529,7 +41529,7 @@ Appreciate any thoughts/hacking.
 
 Xena
 
-### nicebeanst@yahoo.com — 2012-03-28T02:23:19+0300
+### [email redacted] — 2012-03-28T02:23:19+0300
 **Source:** <https://forum.jackkruse.com/threads/some-weightlifting-while-on-the-leptin-reset.481/post-7448>
 
 I would make sure the trainer/coach knows your goals, and that you are able to do strength training only: oly or powerlifting. Not metcons. And by lifting I mean 5 x 5s etc, not metcons with a barbell. They are still metcons LOL

@@ -7786,7 +7786,7 @@ Said Dr. Nathan Bryan Ph.D., Founder, Chairman and CEO of BTI, "During the past 
 BTI has plans to submit investigational new drug applications (INDs) for **ischemic heart disease** in the coming weeks. BTI has active drug programs for **Alzheimers' disease and a topical drug for diabetic/pressure ulcers.** Additional development plans for **ischemic, non-obstructive coronary artery disease, pulmonary hypertension, heart failure with preserved ejection fraction (HFpEF). David Perlmutter,** M.D., Director of Neuroscience Research says, "BTI is uniquely positioned to implement novel therapeutic strategies utilizing the emerging understanding of **the central role of nitric oxide in regulating human metabolism.** This is incredibly relevant across a wide spectrum of disease processes, including **Alzheimer's disease, and cardiovascular disorders**."
 Said John Somberg, M.D., President of Academic Pharmaceuticals and Professor Emeritus of Medicine Cardiology in Pharmacology Rush Medical College, Chicago; **"I've conducted more than 40 FDA clinical trials for many different therapeutics. I believe that nitric oxide has a major place in therapeutics**, and I think if anyone is going to bring it to fruition it is Bryan Therapeutics, Inc. The basic science behind nitric oxide therapies is solid. Now, it is time for the development of safe and effective nitric oxide therapeutics. Dr. Bryan's science and discoveries have great potential and I'm excited to be involved."
 
-For investment opportunities and to receive a private placement memorandum, please contact Dr. Nathan S Bryan at [nathan@bryantherapeutics.com](mailto:nathan@bryantherapeutics.com)
+For investment opportunities and to receive a private placement memorandum, please contact Dr. Nathan S Bryan at [[email redacted]](mailto:[email redacted])
 **ABOUT BRYAN THERAPEUTICS, INC. (BTI) AND NATHAN S. BRYAN PH.D:**
 Bryan Therapeutics, Inc (BTI) was established to commercialize clinically, and scientifically proven Nitric Oxide (NO) based technologies for a **wide range of human disease and conditions**. Our mission is to be the industry leader and innovator in nitric oxide-based technologies in order to bring to market safe and effective therapeutic solutions where NO may be involved. Our vision for BTI is to be the market leader in nitric oxide-based therapeutics. BTI has **drug programs for ischemic heart disease, Alzheimers' Disease, topical drugs for diabetic and pressure ulcers as well as a novel antiviral in the event of another pandemic.**
 Dr. Bryan earned his undergraduate Bachelor of Science degree in Biochemistry from the University of Texas at Austin and his doctoral degree from Louisiana State University Health Sciences Center in Shreveport where he was the recipient of the Dean's Award for Excellence in Research. He pursued his post-doctoral training as a Kirschstein Fellow at Boston University School of Medicine in the Whitaker Cardiovascular Institute. After a two year post-doctoral fellowship, in 2006 Dr. Bryan was recruited to join faculty at the University of Texas Health Science Center at Houston by **Ferid Murad, M.D., Ph.D., 1998 Nobel Laureate** in Medicine or Physiology. Dr. Bryan has been involved in nitric oxide research for the past 20 years and has made many seminal discoveries in the field. His many seminal discoveries have resulted in dozens of issued US and International patents and the product technology resulting from his discoveries and inventions has improved patient care worldwide and is responsible for hundreds of millions of dollars in revenue globally. Dr. Bryan is the inventor of **Superbeets, Neo40, BeetElite, NO2U, N1O1** nitric oxide activating serum. His nitric oxide products are the global market leaders. Dr. Bryan is an international leader in molecular medicine and nitric oxide biochemistry.
@@ -17181,7 +17181,7 @@ With my first fifty years behind me I choose to absofuckinglutely not dick with 
 
 [@jcoyote](https://forum.jackkruse.com/members/26925/) I would definitely recommend reading the new blog... golden!
 
-[SEPTEMBER 5, 2023](https://optimalklubs.com/quantum-engineering-53-why-is-melanin-always-found-between-your-senses-the-environment/) BY [INFO@KRUSEATDESTIN.COM](https://optimalklubs.com/author/infokruseatdestin-com/)
+[SEPTEMBER 5, 2023](https://optimalklubs.com/quantum-engineering-53-why-is-melanin-always-found-between-your-senses-the-environment/) BY [[email redacted]](https://optimalklubs.com/author/infokruseatdestin-com/)
 
 ### QUANTUM ENGINEERING #53: WHY IS MELANIN ALWAYS FOUND BETWEEN YOUR SENSES & THE ENVIRONMENT?​
 
@@ -17455,14 +17455,14 @@ Hi Gavin, my son is a PM&R doc currently doing his fellowship at Barrow Brain an
 ### dr.g — 2023-08-29T16:53:28+0300
 **Source:** <https://forum.jackkruse.com/threads/newly-graduated-interventional-spine-and-rehabilitation-physician-seeking-decentralized-training-and-network-opportunities.28109/post-325702>
 
-Would love to get in touch. Email is [Dr.g@drgavinnixon.com](mailto:Dr.g@drgavinnixon.com)
+Would love to get in touch. Email is [[email redacted]](mailto:[email redacted])
 
 ### Kathirf — 2023-09-22T17:55:35+0300
 **Source:** <https://forum.jackkruse.com/threads/newly-graduated-interventional-spine-and-rehabilitation-physician-seeking-decentralized-training-and-network-opportunities.28109/post-326687>
 
 > [dr.g said:](/goto/post?id=325702)
 >
-> Would love to get in touch. Email is [Dr.g@drgavinnixon.com](mailto:Dr.g@drgavinnixon.com)
+> Would love to get in touch. Email is [[email redacted]](mailto:[email redacted])
 
 Hi Gavin. This is great. My son is interested in connecting. I am going to email you with info. He is actively planning to open his own business in 2024.
 
@@ -17474,7 +17474,7 @@ What’s your “specialty” or field of interest, or alternative approach, how
 ### JeffRouseMD — 2023-10-16T16:05:23+0300
 **Source:** <https://forum.jackkruse.com/threads/newly-graduated-interventional-spine-and-rehabilitation-physician-seeking-decentralized-training-and-network-opportunities.28109/post-327314>
 
-Gavin- I'm a brand new mitochondriac, but long-time biohacker, cold plunger, etc. Devouring Dr. Kruse's info, with a specific eye towards the brain. I am BC in psychiatry, forensic psychiatry, and brain injury medicine. Implementing Leptin Rx, CT, light optimization personally and it's shifting me already, no doubt. Feel free to hit me up with curbsides or anything else. Cell is 504.236.4533 email is [jeffrouse@gmail.com](mailto:jeffrouse@gmail.com).
+Gavin- I'm a brand new mitochondriac, but long-time biohacker, cold plunger, etc. Devouring Dr. Kruse's info, with a specific eye towards the brain. I am BC in psychiatry, forensic psychiatry, and brain injury medicine. Implementing Leptin Rx, CT, light optimization personally and it's shifting me already, no doubt. Feel free to hit me up with curbsides or anything else. Cell is 504.236.4533 email is [[email redacted]](mailto:[email redacted]).
 
 ### indy — 2023-10-20T04:35:34+0300
 **Source:** <https://forum.jackkruse.com/threads/newly-graduated-interventional-spine-and-rehabilitation-physician-seeking-decentralized-training-and-network-opportunities.28109/post-327444>
@@ -17484,14 +17484,14 @@ I'm an OB/GYN LSU-New Orleans MD who graduated in 2004 and moved to/practicing i
 ### Anthony Smith — 2023-10-20T08:05:15+0300
 **Source:** <https://forum.jackkruse.com/threads/newly-graduated-interventional-spine-and-rehabilitation-physician-seeking-decentralized-training-and-network-opportunities.28109/post-327445>
 
-If you medical guys would be interested in how removing/reducing in home originating nnEMF plays into the health/healing equation check out [www.LiveEMFSafe.com/rx](http://www.LiveEMFSafe.com/rx) and then feel free to contact me, [anthony@EMFSafeInc.com](mailto:anthony@EMFSafeInc.com) 972-849-9500
+If you medical guys would be interested in how removing/reducing in home originating nnEMF plays into the health/healing equation check out [www.LiveEMFSafe.com/rx](http://www.LiveEMFSafe.com/rx) and then feel free to contact me, [[email redacted]](mailto:[email redacted]) 972-849-9500
 
 ### JeffRouseMD — 2023-10-20T15:47:23+0300
 **Source:** <https://forum.jackkruse.com/threads/newly-graduated-interventional-spine-and-rehabilitation-physician-seeking-decentralized-training-and-network-opportunities.28109/post-327446>
 
 > [Anthony Smith said:](/goto/post?id=327445)
 >
-> If you medical guys would be interested in how removing/reducing in home originating nnEMF plays into the health/healing equation check out [www.LiveEMFSafe.com/rx](http://www.LiveEMFSafe.com/rx) and then feel free to contact me, [anthony@EMFSafeInc.com](mailto:anthony@EMFSafeInc.com) 972-849-9500
+> If you medical guys would be interested in how removing/reducing in home originating nnEMF plays into the health/healing equation check out [www.LiveEMFSafe.com/rx](http://www.LiveEMFSafe.com/rx) and then feel free to contact me, [[email redacted]](mailto:[email redacted]) 972-849-9500
 
 Hi Anthony, thanks for the reach out! Any EMF consultants for an in-home inspection in New Orleans?
 
@@ -17527,7 +17527,7 @@ I've owned Anthony's remote kill switch for years and consider it essential.
 
 Retired ex psychiatrist here with lumbar disc disease. Got ideas.
 
-Get in touch ( [rohens@gmail.com](mailto:rohens@gmail.com))
+Get in touch ( [[email redacted]](mailto:[email redacted]))
 
 Full title Dr Rohen Kapur graduated 1994 from Dundee University
 
@@ -17536,7 +17536,7 @@ Full title Dr Rohen Kapur graduated 1994 from Dundee University
 
 > [Anthony Smith said:](/goto/post?id=327445)
 >
-> If you medical guys would be interested in how removing/reducing in home originating nnEMF plays into the health/healing equation check out [www.LiveEMFSafe.com/rx](http://www.LiveEMFSafe.com/rx) and then feel free to contact me, [anthony@EMFSafeInc.com](mailto:anthony@EMFSafeInc.com) 972-849-9500
+> If you medical guys would be interested in how removing/reducing in home originating nnEMF plays into the health/healing equation check out [www.LiveEMFSafe.com/rx](http://www.LiveEMFSafe.com/rx) and then feel free to contact me, [[email redacted]](mailto:[email redacted]) 972-849-9500
 
 Anthony has anything happened in Atlanta recently? One of my friends is just in a bad place and I can't understand what the hell has happened. It has to be something electromagnetic spectrum related
 
@@ -17568,7 +17568,7 @@ I was working also with another DO.
 >
 > Retired ex psychiatrist here with lumbar disc disease. Got ideas.
 >
-> Get in touch ( [rohens@gmail.com](mailto:rohens@gmail.com))
+> Get in touch ( [[email redacted]](mailto:[email redacted]))
 >
 > Full title Dr Rohen Kapur graduated 1994 from Dundee University
 
@@ -17623,7 +17623,7 @@ The Building Biologists I have asked have not noticed an increase in RF levels. 
 >
 > Retired ex psychiatrist here with lumbar disc disease. Got ideas.
 >
-> Get in touch ( [rohens@gmail.com](mailto:rohens@gmail.com))
+> Get in touch ( [[email redacted]](mailto:[email redacted]))
 >
 > Full title Dr Rohen Kapur graduated 1994 from Dundee University
 
@@ -17769,7 +17769,7 @@ Association of American Physicians and Surgeons has a lot of resources for decen
 
 > [JeffRouseMD said:](/goto/post?id=327314)
 >
-> Gavin- I'm a brand new mitochondriac, but long-time biohacker, cold plunger, etc. Devouring Dr. Kruse's info, with a specific eye towards the brain. I am BC in psychiatry, forensic psychiatry, and brain injury medicine. Implementing Leptin Rx, CT, light optimization personally and it's shifting me already, no doubt. Feel free to hit me up with curbsides or anything else. Cell is 504.236.4533 email is [jeffrouse@gmail.com](mailto:jeffrouse@gmail.com).
+> Gavin- I'm a brand new mitochondriac, but long-time biohacker, cold plunger, etc. Devouring Dr. Kruse's info, with a specific eye towards the brain. I am BC in psychiatry, forensic psychiatry, and brain injury medicine. Implementing Leptin Rx, CT, light optimization personally and it's shifting me already, no doubt. Feel free to hit me up with curbsides or anything else. Cell is 504.236.4533 email is [[email redacted]](mailto:[email redacted]).
 
 Jeff great to connect. I did a lot of brain injury rehab in my residency mostly on the acute side. So much work to be done in brain injury. I don't see those patient's anymore. Not sure if you have heard of Sarah Turners work, but I stumbled across a device she is developing photobiomodulation for brain gut axis. see ([https://www.cerathrive.com/](https://www.cerathrive.com/)). They also do whole sale for different IR devices. But if you are still in the brain injury world may be helpful to develop concussion protocols, post concussion symptoms protocols, etc. I don't see these patient's anymore but I spent a lot of time studying brain injury and still keep up academically. same offer to you. 907-232-4553
 
@@ -17838,7 +17838,7 @@ For that probable answers are likely long and highly as a guesswork.
 >
 > Retired ex psychiatrist here with lumbar disc disease. Got ideas.
 >
-> Get in touch ( [rohens@gmail.com](mailto:rohens@gmail.com))
+> Get in touch ( [[email redacted]](mailto:[email redacted]))
 >
 > Full title Dr Rohen Kapur graduated 1994 from Dundee University
 
@@ -22959,7 +22959,7 @@ We stock MC Cable in a variety of gauge sizes for your electrical needs. Availab
 ### Anthony Smith — 2023-09-11T22:18:43+0300
 **Source:** <https://forum.jackkruse.com/threads/electrical-cord-shielding.28165/post-326256>
 
-> [gene@kalmens.org said:](/goto/post?id=326230)
+> [[email redacted] said:](/goto/post?id=326230)
 >
 > I am looking for ways to wrap plugged in electrical cords in some shielding material, to lower the EMF they produce. I haven't found an existing thread about it. [@Anthony Smith](https://forum.jackkruse.com/members/26765/) and [@ShaneR](https://forum.jackkruse.com/members/26002/) , do you have any recommendations? Thank you!
 
@@ -22999,7 +22999,7 @@ Thank you, Shane! I will give SafeWrap a try!
 ### Anthony Smith — 2023-09-12T04:00:07+0300
 **Source:** <https://forum.jackkruse.com/threads/electrical-cord-shielding.28165/post-326270>
 
-> [gene@kalmens.org said:](/goto/post?id=326268)
+> [[email redacted] said:](/goto/post?id=326268)
 >
 > Thank you, Anthony! I am already your customer, so I have a BVK. Is there a manual for the included meter, so I can try its modes other than AC?
 
@@ -23376,7 +23376,7 @@ Whats the difference?
 ### Jack Kruse — 2023-09-13T18:59:36+0300
 **Source:** <https://forum.jackkruse.com/threads/where-to-sign-up-patreon-or-forum.28170/post-326360>
 
-[info@kruseatdestin.com](mailto:info@kruseatdestin.com).
+[[email redacted]](mailto:[email redacted]).
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -27251,7 +27251,7 @@ And if you understand that, you now understand the fist within the glove wielded
 -   COMIRNATY (Pfizer COVID-19 Vaccine 2023-2024 formulation for ages 12+): [https://www.fda.gov/vaccines-blood-biologics/comirnaty](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.fda.gov%2Fvaccines-blood-biologics%2Fcomirnaty&data=05%7C01%7CNYS_DOH_VFC-L%40listserv.health.state.ny.us%7C6fddd6b20ad14873e49b08dbbeb85ba0%7Cf46cb8ea79004d108ceb80e8c1c81ee7%7C0%7C0%7C638313471468504432%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=0OTQzhmpX8nwqVe%2FgMt5LWFa6tv5joGORdjh24qELN8%3D&reserved=0)
 -   The CDC’s Interim Clinical considerations for Use of COVID-19 Vaccines in the United States: [https://www.cdc.gov/vaccines/covid-19/clinical-considerations/interim-considerations-us.html](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Fcovid-19%2Fclinical-considerations%2Finterim-considerations-us.html&data=05%7C01%7CNYS_DOH_VFC-L%40listserv.health.state.ny.us%7C6fddd6b20ad14873e49b08dbbeb85ba0%7Cf46cb8ea79004d108ceb80e8c1c81ee7%7C0%7C0%7C638313471468504432%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zLmywotWi140fFChHoPppiKaQVOpqPCaPp64PaSJBCI%3D&reserved=0)
 
-> Please read additional information sent to VFC providers on 9/11/23 below. If you have any questions, please contact 1-800-543-7468 or email [NYVFC@health.ny.gov](mailto:NYVFC@health.ny.gov).
+> Please read additional information sent to VFC providers on 9/11/23 below. If you have any questions, please contact 1-800-543-7468 or email [[email redacted]](mailto:[email redacted]).
 > Thank you.
 > **New York State Vaccine Program**
 > ESP Corning Tower
@@ -28415,7 +28415,7 @@ Deadly blue-green algae found in Highland loch; Highland Council confirms its pr
 
 By Philip Murray
 
-\- [philip.murray@hnmedia.co.uk](https://www.inverness-courier.co.uk/)
+\- [[email redacted]](https://www.inverness-courier.co.uk/)
 
 **Published:** 16:48, 16 June 2023
 
@@ -36347,7 +36347,7 @@ Other than Club Atomi, (can’t seem to make a reservation on their website, but
 
 if there are any get togethers planned or if anyone would like to trade a cold beverage for some local knowledge please let me know
 mike
-[mikea141@yahoo.com](mailto:mikea141@yahoo.com)
+[[email redacted]](mailto:[email redacted])
 
 ### Jack Kruse — 2023-10-29T10:57:41+0200
 **Source:** <https://forum.jackkruse.com/threads/going-to-el-salvador.28280/post-327622>
@@ -44882,7 +44882,7 @@ I need to get an idea what I will be able to do with this baby.
 ### Jack Kruse — 2023-12-05T23:13:04+0200
 **Source:** <https://forum.jackkruse.com/threads/daylightcomputer-do-you-know-the-specs.28389/post-328920>
 
-[anjan@daylightco.com](mailto:anjan@daylightco.com)
+[[email redacted]](mailto:[email redacted])
 
 
 ══════════════════════════════════════════════════════════════════════

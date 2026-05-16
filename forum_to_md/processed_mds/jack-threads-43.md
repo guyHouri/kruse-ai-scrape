@@ -23031,7 +23031,7 @@ Lethal levels of microwaves are filling our living space as a corrupt FCC facili
 Wifi, wireless home phone, smart meters, WLAN, and now 5th Generation 5G will flood our environment even more: Lethal Levels!
 Cell phones are known to increase the rate of breast cancer when stored in bras and shirt pockets, testicular cancer when carried in pants pockets and the FCC lets it go on because they're former hirelings of the industries they're supposed to regulate in the public interest. They have not addressed the dangers here revealed, that other countries have already appropriately dealt with.
 "People are currently getting very sick and dying with neurological disease and cancer near cell towers. There are testimonials which we have from almost every state. With the recent findings of 'Clear Evidence of Carcinogenicity' in the $25 Million US NIH funded National Toxicology Program Study and others like it, we have enough scientific evidence to re-classify wireless radiation as a Class 1 Human Carcinogen like Asbestos and Cigarette smoke. Thus we should be a warning and minimizing exposure, not maximizing exposure as we are doing with 5G which will require the installation of 800,000 new cell tower antennas."
-Contact Kevin via [5gisharmful@gmail.com](mailto:5gisharmful@gmail.com)
+Contact Kevin via [[email redacted]](mailto:[email redacted])
 
 ### Jack Kruse — 2019-02-19T17:29:54+0200
 **Source:** <https://forum.jackkruse.com/threads/the-radio-frequency-emf-thread.19245/post-263552>
@@ -34863,7 +34863,7 @@ In upstate New York Utica. No whole paycheck around here
 **Subforum:** My Optimal Journal
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### thomasdoud@gmail.com — 2017-04-25T04:01:50+0300
+### [email redacted] — 2017-04-25T04:01:50+0300
 **Source:** <https://forum.jackkruse.com/threads/sandys-labs.19384/post-212884>
 
 My wife just had some labs done that don't look to bad to me but I would appreciate some comments.
@@ -34907,7 +34907,7 @@ BUN/Creatinine ratio 26 with a low D3 and your location means that she is so deh
 
 She needs to hack this. A women with a chronic low D3 is very at risk for bad things like breat Ca and hypothyroidism. In 2009 the WHO linked low D3 levels with breast Ca as a major risk factor. Low D3 is linked with depression, hypothyroidism, AI's, gut issues, and many immune issues related to skin and eye and brain.
 
-### thomasdoud@gmail.com — 2017-04-25T22:54:59+0300
+### [email redacted] — 2017-04-25T22:54:59+0300
 **Source:** <https://forum.jackkruse.com/threads/sandys-labs.19384/post-212931>
 
 I was able to look at her ratio going back quite a while:
@@ -46746,7 +46746,7 @@ some work with cold fussion as well.
 If you want a soundboard for any water questions his name is Dominic and i think he could be a massive value add
 atleast in the realm of water.
 
-[dominic@matrixoflife.org](mailto:dominic@matrixoflife.org)
+[[email redacted]](mailto:[email redacted])
 
 also i don't if your familiar with Sandra Ingerman's work with water and her GDV experiments
 

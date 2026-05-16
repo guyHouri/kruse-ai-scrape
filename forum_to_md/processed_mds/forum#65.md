@@ -22515,7 +22515,7 @@ Hi
 
 Are any of these lamps still available. Can they be ordered directly from the research facility in China?
 
-[pfieber@gotsky.com](mailto:pfieber@gotsky.com)
+[[email redacted]](mailto:[email redacted])
 
 ### Mark959 — 2021-03-04T12:23:54+0200
 **Source:** <https://forum.jackkruse.com/threads/candlelight-oled.24298/post-296009>
@@ -30047,7 +30047,7 @@ Dock what is your full name so we can pull up your order?
 ### Matty_M — 2019-10-24T16:26:44+0300
 **Source:** <https://forum.jackkruse.com/threads/ra-optics-sent-me-the-wrong-order-cant-reach-them.24394/post-281155>
 
-Please email me directly [matt@raoptics.com](mailto:matt@raoptics.com) with your full name on your order so we can have it corrected right away.
+Please email me directly [[email redacted]](mailto:[email redacted]) with your full name on your order so we can have it corrected right away.
 
 ### Saichi — 2019-10-24T19:19:30+0300
 **Source:** <https://forum.jackkruse.com/threads/ra-optics-sent-me-the-wrong-order-cant-reach-them.24394/post-281185>
@@ -34329,7 +34329,7 @@ Regards
 
 **Terry Stotyn
 Owner/Managing Partner**
-[Terry@poweremt.com](mailto:Terry@poweremt.com)
+[[email redacted]](mailto:[email redacted])
 [www.poweremt.com](http://www.poweremt.com/)
 
 **_“Delivering Safe, Healthy Electricity”_** "
@@ -37961,7 +37961,7 @@ And black lungs.
 
 Cosine wave
 [https://whatis.techtarget.com/definition/cosine-wave](https://whatis.techtarget.com/definition/cosine-wave)
-[](mailto:mrouse@techtarget.com)
+[](mailto:[email redacted])
 "A cosine wave is a [signal](https://searchnetworking.techtarget.com/definition/signal) [waveform](https://whatis.techtarget.com/definition/waveform) with a shape identical to that of a [sine wave](https://whatis.techtarget.com/definition/waveform) , except each point on the cosine wave occurs exactly 1/4 cycle earlier than the corresponding point on the sine wave. A cosine wave and its corresponding sine wave have the same frequency, but the cosine wave leads the sine wave by 90 degrees of [phase](https://whatis.techtarget.com/definition/phase) .
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
@@ -37975,7 +37975,7 @@ In most practical situations, a lone cosine wave is the same as a lone sine wave
 >
 > Cosine wave
 > [https://whatis.techtarget.com/definition/cosine-wave](https://whatis.techtarget.com/definition/cosine-wave)
-> [](mailto:mrouse@techtarget.com)
+> [](mailto:[email redacted])
 > "A cosine wave is a [signal](https://searchnetworking.techtarget.com/definition/signal) [waveform](https://whatis.techtarget.com/definition/waveform) with a shape identical to that of a [sine wave](https://whatis.techtarget.com/definition/waveform) , except each point on the cosine wave occurs exactly 1/4 cycle earlier than the corresponding point on the sine wave. A cosine wave and its corresponding sine wave have the same frequency, but the cosine wave leads the sine wave by 90 degrees of [phase](https://whatis.techtarget.com/definition/phase) .
 >
 >

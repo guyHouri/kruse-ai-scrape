@@ -2329,7 +2329,7 @@ Heck yeah!  Sounds like a blast!
 ### Sarah Turner — 2014-11-06T20:51:11+0200
 **Source:** <https://forum.jackkruse.com/threads/i-finally-feel-like-a-success-story.8975/post-146370>
 
-Hey -this is a lovely story - thank-you for sharing. I'm currently involved a film project that will cover some of the science behind this new way of looking at biology an health - perhaps Dr Kruse has told you about it? Could mail me at [sarah.turner@neshealth.com](mailto:sarah.turner@neshealth.com) - it would be great to chat to you about your experiences?
+Hey -this is a lovely story - thank-you for sharing. I'm currently involved a film project that will cover some of the science behind this new way of looking at biology an health - perhaps Dr Kruse has told you about it? Could mail me at [[email redacted]](mailto:[email redacted]) - it would be great to chat to you about your experiences?
 Thanks, Sarah Turner.
 
 ### nonchalant — 2014-11-06T23:22:22+0200
@@ -3764,7 +3764,7 @@ Understood, will do..
 **Subforum:** Optimal Labs
 **Posts:** 11
 ══════════════════════════════════════════════════════════════════════
-### thomasdoud@gmail.com — 2013-12-06T16:34:15+0200
+### [email redacted] — 2013-12-06T16:34:15+0200
 **Source:** <https://forum.jackkruse.com/threads/bun-creatinine-ratio-and-what-labs-show-it-is-ok-to-exercise.8982/post-102575>
 
 I just listened to the Dec 2012 webinar on weight loss in women and was wondering if someone can help. My wife exercises a lot and eats normal or less than normal but struggles. Jack mentioned you need a certain level of mitochondrial function before you should even do any exercise but it wasn't clear to me exactly how he determines when it is ok. Seems to me leptin reset covers that and broadly you want to be leptin sensitive. My wife has a BUN/Creatinine level of 20 which was discussed briefly. Is this certain evidence that she is LR? Does it means she should avoid all exercise? If not what labs determine if someone is ok to exercise. This would be a hard sell but if needed I need some clinical data to convince her to stop for a while.
@@ -3780,7 +3780,7 @@ The individuals who've had the best results - like Mr. Pinkies have followed the
 
 labs that tell you its ok to exercise: Lipid panel, Thyroid panel, All hormones, ASI w/Salivary Melatonin. these should show you're not in a stressed state caused by Pregnenenolone steal. Though it should be noted - Misty had perfect labs - but was still having pregnenolone steal that wasn't dx until she did the Genova Dx Compete Hormone Panel.
 
-### thomasdoud@gmail.com — 2013-12-06T18:17:58+0200
+### [email redacted] — 2013-12-06T18:17:58+0200
 **Source:** <https://forum.jackkruse.com/threads/bun-creatinine-ratio-and-what-labs-show-it-is-ok-to-exercise.8982/post-102598>
 
 Thanks that is very helpful. I know she needs to just follow protocols but I need to convert her first. Many labs are still pending. I will look into Genova test as I think she is doing their complete GI test but had other hormone panels not Genova.
@@ -3800,12 +3800,12 @@ Soon I will have a monster 14K blog on the redox potential and how it all works.
 
 It seems like C-reactive protein as a marker for inflammation and the ASI would be relevant to know
 
-### thomasdoud@gmail.com — 2013-12-07T01:51:03+0200
+### [email redacted] — 2013-12-07T01:51:03+0200
 **Source:** <https://forum.jackkruse.com/threads/bun-creatinine-ratio-and-what-labs-show-it-is-ok-to-exercise.8982/post-102649>
 
 Would an hs-CRP of 2.53 be indicative of some inflammation? I know its in the "normal" range but have heard it should be as low as possible.
 
-### thomasdoud@gmail.com — 2013-12-07T02:06:20+0200
+### [email redacted] — 2013-12-07T02:06:20+0200
 **Source:** <https://forum.jackkruse.com/threads/bun-creatinine-ratio-and-what-labs-show-it-is-ok-to-exercise.8982/post-102651>
 
 Some other questions if you don't mind. Jack mentioned three types of Magnsesium but did not list them. Any links for that?
@@ -3814,7 +3814,7 @@ Also, pointed out need to follow four protocols LR, CT, Epi-Paleo diet and Mitoc
 ### ATL_Paleo — 2013-12-07T02:25:20+0200
 **Source:** <https://forum.jackkruse.com/threads/bun-creatinine-ratio-and-what-labs-show-it-is-ok-to-exercise.8982/post-102656>
 
-> [thomasdoud@gmail.com said:](/goto/post?id=102649)
+> [[email redacted] said:](/goto/post?id=102649)
 >
 > Would an hs-CRP of 2.53 be indicative of some inflammation? I know its in the "normal" range but have heard it should be as low as possible.
 
@@ -3825,14 +3825,14 @@ Dr. Kruse likes the HS-CRP below 0.5. .... You are correct; the lower the better
 ### SeaHorse — 2013-12-07T14:58:56+0200
 **Source:** <https://forum.jackkruse.com/threads/bun-creatinine-ratio-and-what-labs-show-it-is-ok-to-exercise.8982/post-102715>
 
-> [thomasdoud@gmail.com said:](/goto/post?id=102651)
+> [[email redacted] said:](/goto/post?id=102651)
 >
 > Some other questions if you don't mind. Jack mentioned three types of Magnsesium but did not list them. Any links for that?
 > Also, pointed out need to follow four protocols LR, CT, Epi-Paleo diet and Mitochondrial Rx. I am familiar w first three but don't see a blog on MRx, is that a webinar or what resources should be reviewed to better understand?
 
 Type in Magnesium l-threonate, Magnessium malate and Magnesium orotate...Threonate in the am, orotate in afternoon and malate in the pm is the best way to take them. I think the mitochondria Rx was a webinar, but there was also a bunch of threads on the subject that will be helpful to read...good luck
 
-### thomasdoud@gmail.com — 2013-12-07T21:34:04+0200
+### [email redacted] — 2013-12-07T21:34:04+0200
 **Source:** <https://forum.jackkruse.com/threads/bun-creatinine-ratio-and-what-labs-show-it-is-ok-to-exercise.8982/post-102745>
 
 Thanks for the mag info. Jack just posted a great resource blog on facebook that outlined the Mito webinar and other resources.
@@ -7525,7 +7525,7 @@ How do I find the webinar if it was not emailed to me ?
 
 Hey all ... an email was sent out on Thursday night to all Silver / Gold / Platinum members with the link to the December webinar. If you are a Gold / Platinum member, you should have received information to join the Q&A.
 
-If you do not see the email, please check your spam filter. AND ... this is the exact reason why I had us start the Facebook groups for members. If you are not a member of the Facebook group for your membership level, email [support@jackkruse.com](mailto:support@jackkruse.com) and Reba will make sure you get added to the group. We tried to add everyone, but if the email you used to sign up for your account does not match your Facebook email address, we were not able to find you on Facebook to add you to the group.
+If you do not see the email, please check your spam filter. AND ... this is the exact reason why I had us start the Facebook groups for members. If you are not a member of the Facebook group for your membership level, email [[email redacted]](mailto:[email redacted]) and Reba will make sure you get added to the group. We tried to add everyone, but if the email you used to sign up for your account does not match your Facebook email address, we were not able to find you on Facebook to add you to the group.
 
 I have sent a text out to Christy to have her double-check everything and will report back once I hear from her.
 
@@ -7573,7 +7573,7 @@ I also have not gotten a link to the Webinar, an email to the Q&A or an invite t
 ### tellmisty — 2013-12-15T23:05:13+0200
 **Source:** <https://forum.jackkruse.com/threads/december-2013-webinar.9066/post-103542>
 
-Christy resent all Silver / Gold / Platinum emails about an hour ago. She did not use the program that manages this... She emailed manually. Hopefully you all received. Something is clearly buggy. We'll work on figuring that out on Monday. I'm going to be checking support tickets personally later this afternoon, so if you are still having issues, email [support@jackkruse.com](mailto:support@jackkruse.com) and I'll take care of you.  See you guys tonight!
+Christy resent all Silver / Gold / Platinum emails about an hour ago. She did not use the program that manages this... She emailed manually. Hopefully you all received. Something is clearly buggy. We'll work on figuring that out on Monday. I'm going to be checking support tickets personally later this afternoon, so if you are still having issues, email [[email redacted]](mailto:[email redacted]) and I'll take care of you.  See you guys tonight!
 
 ### nicld — 2013-12-15T23:21:50+0200
 **Source:** <https://forum.jackkruse.com/threads/december-2013-webinar.9066/post-103544>
@@ -7621,7 +7621,7 @@ For me balance doesn't mean staying in the middle, it means being able to negoti
 
 > [tellmisty said:](/goto/post?id=103542)
 >
-> Christy resent all Silver / Gold / Platinum emails about an hour ago. She did not use the program that manages this... She emailed manually. Hopefully you all received. Something is clearly buggy. We'll work on figuring that out on Monday. I'm going to be checking support tickets personally later this afternoon, so if you are still having issues, email [support@jackkruse.com](mailto:support@jackkruse.com) and I'll take care of you.  See you guys tonight!
+> Christy resent all Silver / Gold / Platinum emails about an hour ago. She did not use the program that manages this... She emailed manually. Hopefully you all received. Something is clearly buggy. We'll work on figuring that out on Monday. I'm going to be checking support tickets personally later this afternoon, so if you are still having issues, email [[email redacted]](mailto:[email redacted]) and I'll take care of you.  See you guys tonight!
 
 Hi Misty - I sent you a PM yesterday with regards to membership - I was having trouble submitting it & paying to become a gold member - please would you mind having a look at this for me
 Thank you
@@ -7634,7 +7634,7 @@ Thank you
 > Hi Misty - I sent you a PM yesterday with regards to membership - I was having trouble submitting it & paying to become a gold member - please would you mind having a look at this for me
 > Thank you
 
-I don't see a message from you... Email [misty@jackkruse.com](mailto:misty@jackkruse.com) and I'll help you out.
+I don't see a message from you... Email [[email redacted]](mailto:[email redacted]) and I'll help you out.
 
 ### Inger — 2013-12-16T18:11:13+0200
 **Source:** <https://forum.jackkruse.com/threads/december-2013-webinar.9066/post-103596>
@@ -16250,7 +16250,7 @@ Happy New Year! Much love to you and your family!
 **Subforum:** My Optimal Journal
 **Posts:** 7
 ══════════════════════════════════════════════════════════════════════
-### reseaview@yahoo.com — 2013-12-31T16:11:28+0200
+### [email redacted] — 2013-12-31T16:11:28+0200
 **Source:** <https://forum.jackkruse.com/threads/robinekas-journal.9225/post-104503>
 
 The last day of the year and I am contemplating, the end of this one and the beginning of a new one. Having fallen off track and now beginning new again. I intend to reinvent myself and/or rediscover my true self this year and lose the fear that has been holding me back. I feel tired and excited.
@@ -16284,7 +16284,7 @@ PM me if you don't understand something......
 
 Hi robineka! I hope you continue towards working on rediscovering your true self! Your true self is there, even if it is buried under a few layers of self-limiting thoughts and habits. The true you is there, ready to be polished off and shining bright! Happy New Year, and I see you! I support you in this journey.
 
-### reseaview@yahoo.com — 2014-01-25T15:35:50+0200
+### [email redacted] — 2014-01-25T15:35:50+0200
 **Source:** <https://forum.jackkruse.com/threads/robinekas-journal.9225/post-107014>
 
 Thanks all for your welcoming comments and support!
@@ -16362,7 +16362,7 @@ Thoughts, brilliant ideas, concerns, suggestions?
 
 Bun Creat is up.........progesterone low.....CRP a bit high......no D but I bet its low because of the BUN ratio........There is a lot here. Thyroid layered in tells me you got a low charge on your mitochondria.
 
-### reseaview@yahoo.com — 2014-01-25T17:19:05+0200
+### [email redacted] — 2014-01-25T17:19:05+0200
 **Source:** <https://forum.jackkruse.com/threads/robinekas-journal.9225/post-107022>
 
 So what does that mean and what will help? low charge on your mitochondria????
@@ -18232,7 +18232,7 @@ Misty, I signed up for the ecourse a little late, receiving as the first lesson 
 >
 > Misty, I signed up for the ecourse a little late, receiving as the first lesson #8. Is there any way I can get the first 7 lessons?
 
-Julie, that is really odd ... send a ticket in to support: [support@jackkruse.com](mailto:support@jackkruse.com).
+Julie, that is really odd ... send a ticket in to support: [[email redacted]](mailto:[email redacted]).
 
 ### hrtgoeson — 2014-03-20T18:58:19+0200
 **Source:** <https://forum.jackkruse.com/threads/new-ecourse-biohacking-101.9241/post-116732>
@@ -24973,7 +24973,7 @@ these two have always been favorites for the open road
 
 Lauren - how extraordinary ..... thankyou!
 
-### patgrif@hotmail.com — 2014-04-07T09:47:09+0300
+### [email redacted] — 2014-04-07T09:47:09+0300
 **Source:** <https://forum.jackkruse.com/threads/i-need-help-with-my-music-education.9297/post-120195>
 
 This is an oldie but definitly a goodie. Just heard it on the radio it sounds 'inspired' Jackson Browne "Something Fine"
@@ -26077,7 +26077,7 @@ One more . . great song that really shows John's vocal prowess. Gives me goosebu
 
 Eddie Vedder knows things
 
-### patgrif@hotmail.com — 2015-02-09T17:14:34+0200
+### [email redacted] — 2015-02-09T17:14:34+0200
 **Source:** <https://forum.jackkruse.com/threads/i-need-help-with-my-music-education.9297/post-155139>
 
 I think this band are Aussies too but that's just by the way. I love this song it's called "Another World" and the band is Hoodoo Gurus
@@ -26366,7 +26366,7 @@ Wow, guys you have great musical tastes over there, no wonder!
 Don't get me wrong, I don't really like rap but I'm sure that Jack will like this battle! haha
 @[Jack Kruse](https://forum.jackkruse.com/members/1031/)
 
-### patgrif@hotmail.com — 2015-04-25T12:29:09+0300
+### [email redacted] — 2015-04-25T12:29:09+0300
 **Source:** <https://forum.jackkruse.com/threads/i-need-help-with-my-music-education.9297/post-162392>
 
 > [JoeBranca said:](/goto/post?id=161689)
@@ -27817,7 +27817,7 @@ I used to race cars for the adrenaline but when I was asked to mark cross countr
 Definition of scary - buying your daughter 500kgs of prey animal muscle and then letting her ride it. My daughter Miki and her thorobred again.
 Dark Shines - Muse
 
-### gcnorbury@gmail.com — 2018-03-16T14:31:57+0200
+### [email redacted] — 2018-03-16T14:31:57+0200
 **Source:** <https://forum.jackkruse.com/threads/i-need-help-with-my-music-education.9297/post-237296>
 
 Very early Adele, live in my local library
@@ -38926,7 +38926,7 @@ He toured on a bicycle accompanied by what the blurb on the back describes as "h
 
 Ireland in the 1980s sounds like a fascinating and attractive place. So did the Italy Eric Newby wrote about in the earlier book. It's interesting in a different way. Life in the Apennines _circa_ 1944 seems almost like something out of the far past, besides being a place where they do things differently. But the descriptions of Ireland in the 80s seems both close and remote at the same time. It seems not so different from England in the 80s: there's a similar climate, similar countryside (if much less spoiled), similar foods, ubiquitous tea … and, of course, there's the same habit of drinking too much beer. And yet it sounds very different, too.
 
-Newby mentions a kind of black pudding that he says Irish ex-patriates were said to come back to Ireland just to taste again. It's called _drisheen_ and used to be made with sheeps' blood -- they use pigs' now -- or the blood of geese. I remember @[patgrif@hotmail.com](mailto:patgrif@hotmail.com) saying on the boards here that he's had puddings made from poultry blood.
+Newby mentions a kind of black pudding that he says Irish ex-patriates were said to come back to Ireland just to taste again. It's called _drisheen_ and used to be made with sheeps' blood -- they use pigs' now -- or the blood of geese. I remember @[[email redacted]](mailto:[email redacted]) saying on the boards here that he's had puddings made from poultry blood.
 
 There's one area of Ireland that he says is so full of ancient remains that:
 
@@ -40734,7 +40734,7 @@ Check your invitation and try the link again;
 Contact the meeting organizer;
 If you have the meeting ID, click here to join;
 Click here to create a new account.
-If none of these options apply please contact our 24/7 Customer Service Department at 800-644-9070 or email to [support@startmeeting.com](mailto:support@startmeeting.com).**
+If none of these options apply please contact our 24/7 Customer Service Department at 800-644-9070 or email to [[email redacted]](mailto:[email redacted]).**
 
 ### cinnamon — 2014-01-21T04:41:36+0200
 **Source:** <https://forum.jackkruse.com/threads/were-sorry-it-looks-like-there-is-no-wall-you-are-looking-for.9405/post-106412>
@@ -40837,7 +40837,7 @@ You're getting smarter.........Im the same.
 
 Hey guys, you can listen to the webinar for the next 24 hours. Here is the link: [http://jackkruse.com/2014-optimal-reset/your-webinars/epi-paleo-diet/](http://jackkruse.com/2014-optimal-reset/your-webinars/epi-paleo-diet/)
 
-You will need to login with your credentials to listen. All registrants for the Optimal Reset were sent credentials about an hour ago. We are about to send an email out with this link, too, and that email will include your credentials so you can listen for the next 24 hours. We are using a password-protected area for the Optimal Reset ... I know this is "new." Be patient ... we've tried to set things up cleanly for you, but for some there might be a learning curve. Bookmark things and save your logins so you can get in easily, and if you have any trouble at all, you can email support for help: [support@jackkruse.com](mailto:support@jackkruse.com).
+You will need to login with your credentials to listen. All registrants for the Optimal Reset were sent credentials about an hour ago. We are about to send an email out with this link, too, and that email will include your credentials so you can listen for the next 24 hours. We are using a password-protected area for the Optimal Reset ... I know this is "new." Be patient ... we've tried to set things up cleanly for you, but for some there might be a learning curve. Bookmark things and save your logins so you can get in easily, and if you have any trouble at all, you can email support for help: [[email redacted]](mailto:[email redacted]).
 
 ### bacon lover — 2014-01-21T23:14:12+0200
 **Source:** <https://forum.jackkruse.com/threads/were-sorry-it-looks-like-there-is-no-wall-you-are-looking-for.9405/post-106508>

@@ -2505,7 +2505,7 @@ if youre not signed up for emails you won't get what we are doing!
 
 Dec is all about light too.
 
-### patgrif@hotmail.com — 2015-12-04T04:10:52+0200
+### [email redacted] — 2015-12-04T04:10:52+0200
 **Source:** <https://forum.jackkruse.com/threads/indoor-light-basics.17168/post-183250>
 
 > [Jack Kruse said:](/goto/post?id=183246)
@@ -2631,7 +2631,7 @@ As the time series goes on you'll see my vision for the sun because it is how ou
 
 That is the story behind the entire Quilt.
 
-### patgrif@hotmail.com — 2015-12-04T23:37:25+0200
+### [email redacted] — 2015-12-04T23:37:25+0200
 **Source:** <https://forum.jackkruse.com/threads/indoor-light-basics.17168/post-183330>
 
 > [Jack Kruse said:](/goto/post?id=183255)
@@ -11355,7 +11355,7 @@ BodyBio Fatty Acid Report (Doctor's Report)
 Telephone: 888.327.9554 (toll free)
 856.825.8338 (outside the US)
 Fax: 856.825.2143
-E-mail: [custserv@bodybio.net](mailto:custserv@bodybio.net)
+E-mail: [[email redacted]](mailto:[email redacted])
 
 When you call them, they will attempt to locate doctor in your neighborhood.
 \-----------------------------------------------------------------------------------
@@ -16774,7 +16774,7 @@ Hi Lisa ... or take an Easyjet to the Brits' favorite island in the med... and l
 
 Now there is something to add to your life! Beach. I get to go in 3 weeks! I need to recharge.
 
-### patgrif@hotmail.com — 2016-06-01T11:33:20+0300
+### [email redacted] — 2016-06-01T11:33:20+0300
 **Source:** <https://forum.jackkruse.com/threads/getting-off-adrenal-support.17316/post-195783>
 
 > [LisaLearning said:](/goto/post?id=195719)
@@ -16788,7 +16788,7 @@ For an understanding of the UK "rain, rain, rain" I would suggest looking at thi
 
 I saw a few posts on this ^^^^^^ that a friend sent me in a group he moderates. He asked me to comment on it but so far I have stayed quiet........
 
-### patgrif@hotmail.com — 2016-06-01T16:02:29+0300
+### [email redacted] — 2016-06-01T16:02:29+0300
 **Source:** <https://forum.jackkruse.com/threads/getting-off-adrenal-support.17316/post-195800>
 
 > [Jack Kruse said:](/goto/post?id=195784)
@@ -16802,7 +16802,7 @@ Dr K : I for one would be very interested in your take.
 
 EU is doing more and more bioengineering.......
 
-### patgrif@hotmail.com — 2016-06-01T19:09:13+0300
+### [email redacted] — 2016-06-01T19:09:13+0300
 **Source:** <https://forum.jackkruse.com/threads/getting-off-adrenal-support.17316/post-195816>
 
 > [Jack Kruse said:](/goto/post?id=195814)
@@ -16873,7 +16873,7 @@ Bayer has investment-grade ratings from S&P, Moody's and Fitch, but all three ag
 
 I'm going outside for a Dopamine fix.
 
-### patgrif@hotmail.com — 2016-06-02T20:12:09+0300
+### [email redacted] — 2016-06-02T20:12:09+0300
 **Source:** <https://forum.jackkruse.com/threads/getting-off-adrenal-support.17316/post-195886>
 
 > [Jack Kruse said:](/goto/post?id=195827)
@@ -18830,7 +18830,7 @@ put in a ticket and they will get you going. Welcome.
 ### optimizedprimate — 2016-01-04T20:26:16+0200
 **Source:** <https://forum.jackkruse.com/threads/new-gold-member.17327/post-185413>
 
-thanks jack. i emailed [support@jackkruse.com](mailto:support@jackkruse.com) and ive just submitted a ticket now #11709
+thanks jack. i emailed [[email redacted]](mailto:[email redacted]) and ive just submitted a ticket now #11709
 
 ### Jack Kruse — 2016-01-05T15:25:28+0200
 **Source:** <https://forum.jackkruse.com/threads/new-gold-member.17327/post-185469>
@@ -31469,7 +31469,7 @@ When I get MB, I'm going to take it with iced coffee in the blender and my ferme
 
 1.  Center for Mitochondrial and Epigenomic Medicine, The Children's Hospital of Philadelphia, Department of Pathology and Laboratory Medicine, University of Pennsylvania, Philadelphia, Pennsylvania 19104
 
-1.  _Correspondence:_ [wallaced1@email.chop.edu](mailto:wallaced1@email.chop.edu)
+1.  _Correspondence:_ [[email redacted]](mailto:[email redacted])
 
 [Next Section](http://cshperspectives.cshlp.org/content/5/11/a021220.full#sec-1)
 **Abstract**
@@ -33555,7 +33555,7 @@ Do you always do 13 drop of MB?Do you use nicotine also?
 
 **Need more help?**
 
-There is a [discussion about mthap on eng.molgen.org](http://eng.molgen.org/viewtopic.php?f=24&t=72). You can also email your questions to me at [james.lick@jameslick.com](mailto:james.lick@jameslick.com). So that I can best help you, please include a copy of the complete mthap report and/or your mtDNA data file in your email.
+There is a [discussion about mthap on eng.molgen.org](http://eng.molgen.org/viewtopic.php?f=24&t=72). You can also email your questions to me at [[email redacted]](mailto:[email redacted]). So that I can best help you, please include a copy of the complete mthap report and/or your mtDNA data file in your email.
 \===============================================
 \===============================================
 [http://dna.jameslick.com/mthap/23andMe.html](http://dna.jameslick.com/mthap/23andMe.html)
@@ -33685,7 +33685,7 @@ Extras(4): 709A 4386C 8251A 16304G
 
 Need help?
 
-First, please check the Frequently Asked Questions for guidance on how to read this report. If you still have questions, there is a discussion about mthap on eng.molgen.org. You can also email your questions to me at [james.lick@jameslick.com](mailto:james.lick@jameslick.com). So that I can best help you, please include a copy of the complete mthap report and/or your mtDNA data file in your email.
+First, please check the Frequently Asked Questions for guidance on how to read this report. If you still have questions, there is a discussion about mthap on eng.molgen.org. You can also email your questions to me at [[email redacted]](mailto:[email redacted]). So that I can best help you, please include a copy of the complete mthap report and/or your mtDNA data file in your email.
 
 ### JanSz — 2016-02-06T21:35:14+0200
 **Source:** <https://forum.jackkruse.com/threads/2015-heteroplasmy-bio-hack-results-nicotine-and-mb.17445/post-188433>
@@ -35312,7 +35312,7 @@ We hate to be sold, but we sure love to buy. And this, my quantum friends, is ho
 
 **Repetition is ideal for learning or setting a metronome. It's not beating a dead horse; it's watering a live seed until it changes.**
 
-### patgrif@hotmail.com — 2016-05-02T01:01:27+0300
+### [email redacted] — 2016-05-02T01:01:27+0300
 **Source:** <https://forum.jackkruse.com/threads/2015-heteroplasmy-bio-hack-results-nicotine-and-mb.17445/post-194000>
 
 > [NeilBB said:](/goto/post?id=193997)

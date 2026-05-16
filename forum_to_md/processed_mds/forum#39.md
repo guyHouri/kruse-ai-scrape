@@ -99,7 +99,7 @@ Time for you to do the same.
 
 Leptin Resistance (LR) is a synonym for an up-regulated ubiquination rate.
 
-### patgrif@hotmail.com — 2015-03-06T17:51:47+0200
+### [email redacted] — 2015-03-06T17:51:47+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-157641>
 
 Again maybe my role to ask the 'stupid' question...........ubiquination in a real 'generalized' way of speaking is not 'good' it is very energy demanding breaking down, recycling and synthesizing new proteins is a very energy intensive business. It is however of course absolutely necessary to life (there is so much to read recently so I need to 'study' more - but in the example of the octopus is it breaking down proteins and re-constituting them to achieve the effects it wants?)
@@ -111,7 +111,7 @@ This in a sense though then is not some 'clear' message some clear 'to do' messa
 ### NeilBB — 2015-03-07T00:30:16+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-157668>
 
-> [patgrif@hotmail.com said:](/goto/post?id=157641)
+> [[email redacted] said:](/goto/post?id=157641)
 >
 > Again maybe my role to ask the 'stupid' question...........ubiquination in a real 'generalized' way of speaking is not 'good' it is very energy demanding breaking down, recycling and synthesizing new proteins is a very energy intensive business. It is however of course absolutely necessary to life (there is so much to read recently so I need to 'study' more - but in the example of the octopus is it breaking down proteins and re-constituting them to achieve the effects it wants?)
 >
@@ -279,7 +279,7 @@ good point - so the BAB is bad ?
 
 MTHFR snp - effects serotonin.... over methylation or under is bad news
 
-### patgrif@hotmail.com — 2015-03-07T05:44:15+0200
+### [email redacted] — 2015-03-07T05:44:15+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-157693>
 
 > [NeilBB said:](/goto/post?id=157668)
@@ -1486,7 +1486,7 @@ I wonder if people are familiar with this law (no, not a hypothesis like the wor
 
 Guess what plays a large role in the above? Skeletal muscle - the blood is massaged and milked back toward the heart, which in turn automatically provides an increased cardiac output to fuel the very muscles that are providing the needed venous return. More muscle, more muscle strength, the better the above works, the better your heart. This completely goes against 'heavily muscled individuals dying of heart attacks'. In fact, myokines secreted from muscle tissue (the more muscle the more myokines) impacts the heart and brain in beneficial ways. And going by anecdotes, I personally know no heavily muscular individuals who've died of heart attacks, yet I have many family members from the military who were literally jacked into their elderly years and lived a long time, family who played college football and are now older yet for most of their life were 200+lbs primarily of muscle, etc. I know that doesn't mean anything, but neither does the 'examples' of heavily muscled people dying for any reason.
 
-### patgrif@hotmail.com — 2015-03-11T18:55:49+0200
+### [email redacted] — 2015-03-11T18:55:49+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-158226>
 
 > [bio-fractal-soul-self said:](/goto/post?id=158224)
@@ -1531,7 +1531,7 @@ What I was talking about above was going to extraordinary measures to cause unna
 
 People hear what they want.
 
-### patgrif@hotmail.com — 2015-03-11T19:40:05+0200
+### [email redacted] — 2015-03-11T19:40:05+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-158233>
 
 I am not in any way trying to promote 'anti-science' but I am amazed by what I am reading in that book about vaccines and polio and HIV. It really makes the point which I suppose was Neil's point in his blog about 'belief systems' etc. It is amazing to me that 'scientists' can be so blind!
@@ -1545,7 +1545,7 @@ To be clear also I am not trying to promote the idea that HIV is an 'innocent by
 ### NeilBB — 2015-03-11T19:45:42+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-158235>
 
-> [patgrif@hotmail.com said:](/goto/post?id=158233)
+> [[email redacted] said:](/goto/post?id=158233)
 >
 > I am not in any way trying to promote 'anti-science' but I am amazed by what I am reading in that book about vaccines and polio and HIV. It really makes the point which I suppose was Neil's point in his blog about 'belief systems' etc. It is amazing to me that 'scientists' can be so blind!
 >
@@ -1562,7 +1562,7 @@ Dude, the reason I fussed at you 6 months ago when you were wigging out a bit is
 
 I really can not help to feel that many of these problems are perhaps natures solution, the issue is that we are not in the shape to let them do their work. Functions that go haywire because we are so out of our real habitat.
 
-### patgrif@hotmail.com — 2015-03-11T19:48:25+0200
+### [email redacted] — 2015-03-11T19:48:25+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-158237>
 
 > [NeilBB said:](/goto/post?id=158235)
@@ -1600,7 +1600,7 @@ Force output is one way to measure function, but as Jeremy would tell you, climb
 
 \----
 
-Damnit @[patgrif@hotmail.com](mailto:patgrif@hotmail.com) , now you've thrown me down the rabbit hole of viral mechanics
+Damnit @[[email redacted]](mailto:[email redacted]) , now you've thrown me down the rabbit hole of viral mechanics
 
 HIV was supposedly exported to the world via a plane flight . Not saying that it's the flight that did it of course, but that the increased nn-EMF activity in the last 4-5 decades is probably the trigger for the human body "adopting the HIV virus" to attempt to solve particular immune system related problems caused by nn-EMF. It's no co-incidence that a HIV vector as superoxide stimulator was mentioned in Ubi 6.
 
@@ -1646,7 +1646,7 @@ Find out more about [Rachel's books](http://www.planetarypress.net/), and read h
 >
 > \----
 >
-> Damnit @[patgrif@hotmail.com](mailto:patgrif@hotmail.com) , now you've thrown me down the rabbit hole of viral mechanics
+> Damnit @[[email redacted]](mailto:[email redacted]) , now you've thrown me down the rabbit hole of viral mechanics
 >
 > HIV was supposedly exported to the world via a plane flight . Not saying that it's the flight that did it of course, but that the increased nn-EMF activity in the last 4-5 decades is probably the trigger for the human body "adopting the HIV virus" to attempt to solve particular immune system related problems caused by nn-EMF. It's no co-incidence that a HIV vector as superoxide stimulator was mentioned in Ubi 6.
 >
@@ -1659,7 +1659,7 @@ Dating back to 1942 when the US Military used weaponized Syphilis on the Tuskege
 .
 .
 
-### patgrif@hotmail.com — 2015-03-12T02:14:57+0200
+### [email redacted] — 2015-03-12T02:14:57+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-158284>
 
 > [yewwei.tan said:](/goto/post?id=158268)
@@ -1690,7 +1690,7 @@ Dating back to 1942 when the US Military used weaponized Syphilis on the Tuskege
 >
 > \----
 >
-> Damnit @[patgrif@hotmail.com](mailto:patgrif@hotmail.com) , now you've thrown me down the rabbit hole of viral mechanics
+> Damnit @[[email redacted]](mailto:[email redacted]) , now you've thrown me down the rabbit hole of viral mechanics
 >
 > HIV was supposedly exported to the world via a plane flight . Not saying that it's the flight that did it of course, but that the increased nn-EMF activity in the last 4-5 decades is probably the trigger for the human body "adopting the HIV virus" to attempt to solve particular immune system related problems caused by nn-EMF. It's no co-incidence that a HIV vector as superoxide stimulator was mentioned in Ubi 6.
 >
@@ -1702,7 +1702,7 @@ I see it as a nice 'compliment' to Dr Kruse's stuff about how our DNA is made up
 
 It's a fascinating book from a 'theoretical' point of view but also has huge practical implications. It really starts to look like $200 billion down the drain on AIDS research...........
 
-### patgrif@hotmail.com — 2015-03-12T02:19:13+0200
+### [email redacted] — 2015-03-12T02:19:13+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-158285>
 
 > [BTA said:](/goto/post?id=158278)
@@ -1749,7 +1749,7 @@ By the way, I think you and Jack may be misreading what I'm saying. I'm not at a
 ### bio-fractal-soul-self — 2015-03-12T02:30:04+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-158288>
 
-> [patgrif@hotmail.com said:](/goto/post?id=158226)
+> [[email redacted] said:](/goto/post?id=158226)
 >
 > Anyway aside from being lazy I kind of apply that 'test' to things like lifting to the point of muscle failure................I am skeptical and also I think it varies according to age etc. I don't know enough 'science' at all to judge in that way but I don't need to say 'scientists' can get to prove anything so long as that is their orientation. So "pro brain factors" etc..........I dunno............anything can be 'proven' and what strikes me about a lot of this 'science' is it takes one 'snapshot' of a situation and then generalizes out from there. I think this is highly un-trustworthy as a 'method' and it is worth keeping Dr K's insistence how **ALL biological reaction take place in 'time' any snapshot has a snapshot preceding it and one after it extending you might say to infinity in both directions. To me this is the great danger of mis-direction in a lot of this 'sciency' stuff.**
 
@@ -1765,7 +1765,7 @@ Physical laws drive biologic ones..........
 ### yewwei.tan — 2015-03-12T02:35:29+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-158290>
 
-> [patgrif@hotmail.com said:](/goto/post?id=158284)
+> [[email redacted] said:](/goto/post?id=158284)
 >
 > Yew, in my opinion you might be taking onboard a few 'urban myths' there I mean especially about the 'plane flight' etc. I cannot recommend this book too highly "Fear of the Invisible" by Janine Roberts. To me she has conclusively demolishes the whole HIV/AIDS story. I am now deep into the nature of viruses themselves how they relate to cells etc. She is quoting Barbara McClintock, Lynn Margulis and Mae Wan Ho so she is not a 'flake' in any sense. It would take way too long to explain but I would seriously recommend this book.
 >
@@ -1834,7 +1834,7 @@ Most of Tesla's papers, patents, inventions, schematics, etc. are available onli
 
 If anyone thinks that "coupling" quantum mechanics with some of Ling and Becker is all there is, well, that's very short sighted. They're findings weren't even novel or unique in any way.
 
-### patgrif@hotmail.com — 2015-03-12T03:02:41+0200
+### [email redacted] — 2015-03-12T03:02:41+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-158299>
 
 > [yewwei.tan said:](/goto/post?id=158290)
@@ -1845,7 +1845,7 @@ If anyone thinks that "coupling" quantum mechanics with some of Ling and Becker 
 
 Yew, you are such a trooper! If you are interested in the HIV/AIDS conundrum you could hardly do better than the Janine Roberts book For a foundational one I would suggest Peter Duesberg's "Inventing AIDS" He was the bravest and most qualified of the scientists who resisted the 'received wisdom' but Robert's book is later and reviews a vast history including polio and the whole history of vaccines. Happy reading!
 
-### patgrif@hotmail.com — 2015-03-12T03:13:14+0200
+### [email redacted] — 2015-03-12T03:13:14+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-158302>
 
 > [bio-fractal-soul-self said:](/goto/post?id=158297)
@@ -1915,7 +1915,7 @@ I'll discuss this more in my journal, or another thread, as this is derailing th
 
 .... all their work predates and trumps Becker's and Ling's, and not reading theirs will give a major misinterpretation, or, can at least help to connect more dots.
 
-### patgrif@hotmail.com — 2015-03-12T03:31:38+0200
+### [email redacted] — 2015-03-12T03:31:38+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-158311>
 
 > [bio-fractal-soul-self said:](/goto/post?id=158305)
@@ -2006,7 +2006,7 @@ And of course, using nature as a straight edge, I want to crawl, dive, sprint, c
 
 In both of their works, they describe an electromagnetic current that is healing to all organisms, and even planets. I suggest you read their books, patents, and studies.
 
-> [patgrif@hotmail.com said:](/goto/post?id=158311)
+> [[email redacted] said:](/goto/post?id=158311)
 >
 > I can go back to Aristotle and beyond LOL , how about Heraclitus and Pythagoras and Euclid................but not sure of their relevance. To kind of stick to what I know a bit about, it is obvious of course that Hydrogen can be used as a source of power, isn't that what took us to the moon (any chemistry student knows hydrogen and oxygen make a big 'pop') but it is not at all clear it will EVER work practically in motor vehicles. Personally I doubt it and there is nothing of 'free energy' about it.
 
@@ -2076,7 +2076,7 @@ Going to give your reply a read through in a bit, or if not, tomorrow. Always lo
 
 [http://searlmagnetics.com/](http://searlmagnetics.com/)
 
-### patgrif@hotmail.com — 2015-03-12T03:55:52+0200
+### [email redacted] — 2015-03-12T03:55:52+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-158318>
 
 > [yewwei.tan said:](/goto/post?id=158314)
@@ -2187,7 +2187,7 @@ I'm going to have to bio back this and get back. I think their are some wrong as
 >
 > \----
 >
-> Damnit @[patgrif@hotmail.com](mailto:patgrif@hotmail.com) , now you've thrown me down the rabbit hole of viral mechanics
+> Damnit @[[email redacted]](mailto:[email redacted]) , now you've thrown me down the rabbit hole of viral mechanics
 >
 > HIV was supposedly exported to the world via a plane flight . Not saying that it's the flight that did it of course, but that the increased nn-EMF activity in the last 4-5 decades is probably the trigger for the human body "adopting the HIV virus" to attempt to solve particular immune system related problems caused by nn-EMF. It's no co-incidence that a HIV vector as superoxide stimulator was mentioned in Ubi 6.
 >
@@ -2313,7 +2313,7 @@ There is also some phenomenon that happens when you train muscles that carries b
 
 As with most things, muscle training and protein consumption probably operates on a U-shaped benefits curve: too little is bad, too much is bad, find where you like to operate in the plateau region.
 
-### patgrif@hotmail.com — 2015-03-12T19:02:06+0200
+### [email redacted] — 2015-03-12T19:02:06+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-158376>
 
 > [NeilBB said:](/goto/post?id=158374)
@@ -2330,7 +2330,7 @@ I like that Neil and it reminds me of when you 'read me the riot act' a little b
 
 And bio-fractal don't let it get you down, (it's only castles burning) but maybe reflect a bit on what actually Neil is saying.
 
-### patgrif@hotmail.com — 2015-03-12T19:07:28+0200
+### [email redacted] — 2015-03-12T19:07:28+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-158378>
 
 I know showing my age here but bio-fractal maybe check this out. An old one but a good one, I know you are a young guy so "don't let it bring you down/it's only castles burning/find someone who's turning/and you will come around"
@@ -2338,7 +2338,7 @@ I know showing my age here but bio-fractal maybe check this out. An old one but 
 ### NeilBB — 2015-03-12T19:20:54+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-158379>
 
-> [patgrif@hotmail.com said:](/goto/post?id=158376)
+> [[email redacted] said:](/goto/post?id=158376)
 >
 > I like that Neil and it reminds me of when you 'read me the riot act' a little bit. But if there is one thing I 'believe' in it is the ability to basically admit when I am wrong. It can of course drift into being too much that way but I still think it is a quality worth cultivating. Anyway I feel you have a great balance in navigating all the kind of sometimes confusing issues we have to deal with in the modern world. It's really worth something here I would say.
 >
@@ -2349,7 +2349,7 @@ I think that the ability to recognize and "admit" when wrong (mostly to oneself,
 Method trumps content...
 [http://forum.jackkruse.com/index.php?threads/why-did-this-site-get-sticky.11310/page-4#post-135314](http://forum.jackkruse.com/index.php?threads/why-did-this-site-get-sticky.11310/page-4#post-135314)
 
-### patgrif@hotmail.com — 2015-03-12T19:49:44+0200
+### [email redacted] — 2015-03-12T19:49:44+0200
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-158380>
 
 Neil, I know you like music and you liked "In the City" by the Eagles..............just a random thing but there is another song with the same title by one of the early punk bands "The Jam". I wonder if you like this kind of stuff..............just wanted to give a little of that UK kind of 'energy' which I loved at the time (late '70's)
@@ -3030,7 +3030,7 @@ this is achieved through cortical awareness, and dynamic neuromuscular stability
 ### yewwei.tan — 2015-04-15T02:31:11+0300
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-161219>
 
-> [patgrif@hotmail.com said:](/goto/post?id=158299)
+> [[email redacted] said:](/goto/post?id=158299)
 >
 > Yew, you are such a trooper! If you are interested in the HIV/AIDS conundrum you could hardly do better than the Janine Roberts book For a foundational one I would suggest Peter Duesberg's "Inventing AIDS" He was the bravest and most qualified of the scientists who resisted the 'received wisdom' but Robert's book is later and reviews a vast history including polio and the whole history of vaccines. Happy reading!
 
@@ -3044,7 +3044,7 @@ Still more reading and thinking needed. Thanks Patrick!
 
 ....
 
-### patgrif@hotmail.com — 2015-04-15T16:38:32+0300
+### [email redacted] — 2015-04-15T16:38:32+0300
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-161289>
 
 Yew, you are amazing how you follow up and read............I have told quite a few people about Janine Roberts but no interest............anyway yes thank you. I am speaking purely as a 'lay person' here but I wonder if even 'getting the flu' is such a problem? Could that process itself be sort of 'charging' our cells in some way and not to mention genetic transport of information in our bodies from cell to cell. I think she convincingly makes the case that this happens and it seems a thoroughly 'normal' process. The way we live now it seems people don't want any discomfort so if we get a cold or flu the first reaction is how do we prevent it................how about just letting it happen
@@ -3060,7 +3060,7 @@ Yes I think Peter Duesberg's book is a classic and should be the basis of any re
 
 The measles in Cali came from those vaccinated not the ones not vaccinated.......that is irony.......and why did it happen? Disney recently changed from using card for their tickets and concessions to EMF laden bands........and then the kids got sick. BOOM
 
-### patgrif@hotmail.com — 2015-04-15T19:39:42+0300
+### [email redacted] — 2015-04-15T19:39:42+0300
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-161308>
 
 > [Jack Kruse said:](/goto/post?id=161294)
@@ -3071,7 +3071,7 @@ That's very interesting and something one would not know from listening to NPR f
 
 I suppose the kids at Disneyland would be wearing those bands all day................so yes very possible I would think. Where or how did you hear the measles occurred in the vaccinated ones, again it does not surprise me as I more and more think the whole notion of 'vaccination' is not sound at all.
 
-### patgrif@hotmail.com — 2015-04-15T20:09:26+0300
+### [email redacted] — 2015-04-15T20:09:26+0300
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-161314>
 
 This starts to make sense to me now............so the kids at Disneyland it is probably more correct to say were 'shedding measles virus' in response to something in their environment - the EMF bands. And possibly ?? the vaccinated ones might be more inclined to 'shed' as the way they contacted the virus (if they even did kind of taking the 'experts' word on that) might not be as well 'integrated' into the genome of kids who encountered the wild virus naturally. (More questions what really is the 'wild virus' and where does it come from? Arn't all viruses just bits of genetic code either our own or somebody else's. )
@@ -3083,7 +3083,7 @@ Dr K - do you think there are truly dangerous viruses? I begin to even wonder if
 ### NeilBB — 2015-04-15T20:31:40+0300
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-161317>
 
-> [patgrif@hotmail.com said:](/goto/post?id=161314)
+> [[email redacted] said:](/goto/post?id=161314)
 >
 > This starts to make sense to me now............so the kids at Disneyland it is probably more correct to say were 'shedding measles virus' in response to something in their environment - the EMF bands. And possibly ?? the vaccinated ones might be more inclined to 'shed' as the way they contacted the virus (if they even did kind of taking the 'experts' word on that) might not be as well 'integrated' into the genome of kids who encountered the wild virus naturally. (More questions what really is the 'wild virus' and where does it come from? Arn't all viruses just bits of genetic code either our own or somebody else's. )
 >
@@ -3101,7 +3101,7 @@ I think it depends on what you mean by "danger!" To whom and for what? I don't t
 ### Jack Kruse — 2015-04-15T22:51:58+0300
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-161332>
 
-> [patgrif@hotmail.com said:](/goto/post?id=161314)
+> [[email redacted] said:](/goto/post?id=161314)
 >
 > This starts to make sense to me now............so the kids at Disneyland it is probably more correct to say were 'shedding measles virus' in response to something in their environment - the EMF bands. And possibly ?? the vaccinated ones might be more inclined to 'shed' as the way they contacted the virus (if they even did kind of taking the 'experts' word on that) might not be as well 'integrated' into the genome of kids who encountered the wild virus naturally. (More questions what really is the 'wild virus' and where does it come from? Arn't all viruses just bits of genetic code either our own or somebody else's. )
 >
@@ -3131,7 +3131,7 @@ The more momentum which is transferred to the photon, the more energy the electr
 ### yewwei.tan — 2015-04-16T01:49:20+0300
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-161342>
 
-> [patgrif@hotmail.com said:](/goto/post?id=161314)
+> [[email redacted] said:](/goto/post?id=161314)
 >
 > This starts to make sense to me now............so the kids at Disneyland it is probably more correct to say were 'shedding measles virus' in response to something in their environment - the EMF bands. And possibly ?? the vaccinated ones might be more inclined to 'shed' as the way they contacted the virus (if they even did kind of taking the 'experts' word on that) might not be as well 'integrated' into the genome of kids who encountered the wild virus naturally. (More questions what really is the 'wild virus' and where does it come from? Arn't all viruses just bits of genetic code either our own or somebody else's. )
 >
@@ -3174,7 +3174,7 @@ Great thread thanks.
 @patgrif do keep on reading and asking questions creates such good discussions!
 @[yewwei.tan](https://forum.jackkruse.com/members/6824/) keep on with your expounding good for us just managing to hang on to your coat tails
 
-### patgrif@hotmail.com — 2015-04-16T05:43:44+0300
+### [email redacted] — 2015-04-16T05:43:44+0300
 **Source:** <https://forum.jackkruse.com/threads/uncoupling-light-uncouples-your-knowledge-ubiquitination-6-is-live.13196/post-161366>
 
 > [Jude said:](/goto/post?id=161345)
@@ -4023,7 +4023,7 @@ How does the breathing technique sync inner systems throu your vagus nerve? Trie
 
 Yeah I know it's not a food story and the environment is more important, I also know I need to move to truly heal however these are still future goals that aren't realistic currently due to living more or less rent free and only having part time jobs.
 
-### patgrif@hotmail.com — 2015-03-11T20:54:17+0200
+### [email redacted] — 2015-03-11T20:54:17+0200
 **Source:** <https://forum.jackkruse.com/threads/sense-of-impending-doom.13217/post-158249>
 
 > [sjoshua said:](/goto/post?id=158231)
@@ -5404,7 +5404,7 @@ Vaccines thus may not work as hoped/predicted then?
 
 Wouldn't any threat to energy levels tend to reactivate dormant viruses? Dehydration, EMF, lack of light/magnetism, altitude?
 
-### patgrif@hotmail.com — 2015-03-10T18:40:42+0200
+### [email redacted] — 2015-03-10T18:40:42+0200
 **Source:** <https://forum.jackkruse.com/threads/how-does-space-and-earth-connect-in-a-microwaved-world.13251/post-158105>
 
 Doesn't this kind of raise the idea which I have seen mentioned in the more 'wacky' fringes of biology that viruses are 'produced' by our cells (nucleus) rather than being an 'infection from outside'. I had considered this pretty much 'woo' but I am deep in this book now "Fear of the Invisible" by Janine Roberts about the whole history of viruses or our attempts to understand them. All she is saying seems to support more this idea, that viruses are not much to fear as an 'infection from outside'. So when a virus appears in a disease it may well be more that the cell is 'shedding' viral particles (bits of it's own DNA to put it simply) and therefore may be more of a 'symptom' than a 'cause' of illness.
@@ -5413,7 +5413,7 @@ Dr K has made the point quite strongly that humans evolved in large measure due 
 
 She focuses a lot on the polio virus and the whole history of that but is now moving into the whole HIV conundrum I will 'report' later. She shows that the whole 'virus hunting' obsession was also very 'gene centric' and was mixed up with the whole notion of 'onco-genes' for a while they though 'retro-viruses' were very much involved with cancer (oncognes). This has all been pretty much found completely wanting as time has gone by. BTW a question for Dr K or anyone who wants a crack at it. She and others have said in the case of 'polio exposure' only 1 in 100 got ill in any way from it.................wouldn't this alone throw some doubt on the 'dangers' of this so called 'virus'. What kind of 'illness' causes problems 1 in 100 times with the same 'agent' hitting the same population (children)?
 
-### patgrif@hotmail.com — 2015-03-10T18:53:13+0200
+### [email redacted] — 2015-03-10T18:53:13+0200
 **Source:** <https://forum.jackkruse.com/threads/how-does-space-and-earth-connect-in-a-microwaved-world.13251/post-158108>
 
 President Nixon declared a 'war on cancer' in 1971 and felt it would be 'won' in 5 years. The 'eco-system' that this idea came from was the whole notion that viruses cause cancer. So Nixon et al felt a 'vaccine' could be found against this threat. We now know that most all of this was misguided BUT it seems the essential mind set has not really changed. What I mean is vaccines and the whole notion that there are many viruses 'out there' as a threat to us. It is of course also a militaristic mind set 'wipe out' the enemy before he can get you.
@@ -5432,7 +5432,7 @@ yep..........and hence why I see EBV and Lyme as another sign of a poor environm
 ### NeilBB — 2015-03-10T19:43:24+0200
 **Source:** <https://forum.jackkruse.com/threads/how-does-space-and-earth-connect-in-a-microwaved-world.13251/post-158116>
 
-> [patgrif@hotmail.com said:](/goto/post?id=158108)
+> [[email redacted] said:](/goto/post?id=158108)
 >
 > President Nixon declared a 'war on cancer' in 1971 and felt it would be 'won' in 5 years. The 'eco-system' that this idea came from was the whole notion that viruses cause cancer. So Nixon et al felt a 'vaccine' could be found against this threat. We now know that most all of this was misguided BUT it seems the essential mind set has not really changed. What I mean is vaccines and the whole notion that there are many viruses 'out there' as a threat to us. It is of course also a militaristic mind set 'wipe out' the enemy before he can get you.
 >
@@ -5443,7 +5443,7 @@ Absolutely, Pat. The "war on cancer" is just the latest battle in civilization's
 ### Jack Kruse — 2015-03-10T19:43:41+0200
 **Source:** <https://forum.jackkruse.com/threads/how-does-space-and-earth-connect-in-a-microwaved-world.13251/post-158117>
 
-> [patgrif@hotmail.com said:](/goto/post?id=158108)
+> [[email redacted] said:](/goto/post?id=158108)
 >
 > President Nixon declared a 'war on cancer' in 1971 and felt it would be 'won' in 5 years. The 'eco-system' that this idea came from was the whole notion that viruses cause cancer. So Nixon et al felt a 'vaccine' could be found against this threat. We now know that most all of this was misguided BUT it seems the essential mind set has not really changed. What I mean is vaccines and the whole notion that there are many viruses 'out there' as a threat to us. It is of course also a militaristic mind set 'wipe out' the enemy before he can get you.
 >
@@ -5456,7 +5456,7 @@ Pat your evolution is amazing...........I am proud of you looking at the 30,000 
 
 Mae Wan Ho et. al take a pretty nuanced look at the HIV virus model in "Unraveling AIDS".
 
-### patgrif@hotmail.com — 2015-03-10T20:36:00+0200
+### [email redacted] — 2015-03-10T20:36:00+0200
 **Source:** <https://forum.jackkruse.com/threads/how-does-space-and-earth-connect-in-a-microwaved-world.13251/post-158128>
 
 > [Jack Kruse said:](/goto/post?id=158117)
@@ -6656,7 +6656,7 @@ So we don't retool our mitochondria, we just change how we use them through the 
 
 [http://www.wired.com/2015/03/artificial-light-may-be-unhealthy/](http://www.wired.com/2015/03/artificial-light-may-be-unhealthy/)
 
-### patgrif@hotmail.com — 2015-03-20T07:14:19+0200
+### [email redacted] — 2015-03-20T07:14:19+0200
 **Source:** <https://forum.jackkruse.com/threads/blue-light-paleos-bitter-truth.13285/post-159008>
 
 > [Jack Kruse said:](/goto/post?id=158978)
@@ -6670,7 +6670,7 @@ I was struck by this myself at the "Event" in LA I would not even have put toget
 ### nonchalant — 2015-03-21T17:55:37+0200
 **Source:** <https://forum.jackkruse.com/threads/blue-light-paleos-bitter-truth.13285/post-159112>
 
-> [patgrif@hotmail.com said:](/goto/post?id=159008)
+> [[email redacted] said:](/goto/post?id=159008)
 >
 > It is interesting to me though this kind of research is making waves here and there mostly people are quite unaware of this issue. I visited a friend to day in his office he was eating some 'healthy' greens, also green juices etc. But the whole time he is right in front of a very large Apple screen. The screen goes off from time to time but he hits a button to make sure it's on. It seems so normal and so un-exceptional I think it is really counter intuitive for people to be aware of the dangers
 >
@@ -6779,7 +6779,7 @@ I like "rules" and "laws" as well. Without them, the current health and science 
 
 For example, I was having the nth conversation with someone whose family member has early AD and they were talking about the PK Protocol, nutrition, etc.. I asked whether they had read UB7 and understood the significance of blue light. They said that they had not gotten to it, so I used the analogy of "eating cheesecake all day"....I was then able to explain it down to the level of how mass equivalence affects the distance between protons/H+ which affects enzyme function and so on linking it all to the long term etiology of AD...no one else could have taught me this and got me to think this way.....
 
-### patgrif@hotmail.com — 2015-03-21T20:36:41+0200
+### [email redacted] — 2015-03-21T20:36:41+0200
 **Source:** <https://forum.jackkruse.com/threads/blue-light-paleos-bitter-truth.13285/post-159129>
 
 > [Jack Kruse said:](/goto/post?id=159120)
@@ -6835,7 +6835,7 @@ I'll stay with surface skin temps, thank you!
 ### Jack Kruse — 2015-03-22T16:30:10+0200
 **Source:** <https://forum.jackkruse.com/threads/blue-light-paleos-bitter-truth.13285/post-159178>
 
-> [patgrif@hotmail.com said:](/goto/post?id=159129)
+> [[email redacted] said:](/goto/post?id=159129)
 >
 > I was 'thinking' (a bad habit I have lol) that as we deprive ourselves of natural sunlight almost as a 'rebound' effect we might crave fake light, blue light, light at night we should have gotten during the day and so on. Like you might say those two things are 'coupled' though not in a good way. Something as general as if some basic biological need is denied we crave 'substitutes' in this case fake light instead of 'real' light. Just a thought.
 >
@@ -6896,7 +6896,7 @@ This series is beautiful...
 ### Brother John — 2015-03-22T19:00:56+0200
 **Source:** <https://forum.jackkruse.com/threads/blue-light-paleos-bitter-truth.13285/post-159204>
 
-> [patgrif@hotmail.com said:](/goto/post?id=159129)
+> [[email redacted] said:](/goto/post?id=159129)
 >
 > I was 'thinking' (a bad habit I have lol) that as we deprive ourselves of natural sunlight almost as a 'rebound' effect we might crave fake light, blue light, light at night we should have gotten during the day and so on. Like you might say those two things are 'coupled' though not in a good way. Something as general as if some basic biological need is denied we crave 'substitutes' in this case fake light instead of 'real' light. Just a thought.
 >
@@ -7074,7 +7074,7 @@ I agree, but that was also stated in those two pages, hence why they were giving
 
 ^^^^This 1995 paper was gone over in journal club at LSU when I was a resident with Nick Bazan...........Hard to believe 20 yrs ago we were this stupid.........but today people still don't recognize that blue light is the real culprit in ubiquitination defects. And burying the sun is the other.
 
-### patgrif@hotmail.com — 2015-03-29T21:32:06+0300
+### [email redacted] — 2015-03-29T21:32:06+0300
 **Source:** <https://forum.jackkruse.com/threads/blue-light-paleos-bitter-truth.13285/post-159757>
 
 I had a thought about ubiquination and how the biological process can be 'mirrored' in a person's actual life. I am thinking about myself really and how I have often started something and even got 'deep' into it but then at a certain point I want to break it all down again. And it was a strange feeling.............the whole ubiquination series I could see 'mirrored' at a psychological level you might say. And how 'expensive' that is the energy involved, synthesizing proteins, going through that whole trouble then breaking them all down and having to make new ones all over again. A super costly and expensive way to live.
@@ -8377,7 +8377,7 @@ The tragedy is finding the proper balance.
 
 The key is metastability.............read and reacting properly to the environment youre in
 
-### patgrif@hotmail.com — 2015-03-17T20:45:10+0200
+### [email redacted] — 2015-03-17T20:45:10+0200
 **Source:** <https://forum.jackkruse.com/threads/how-life-gets-order-from-chaos.13351/post-158805>
 
 > [Jack Kruse said:](/goto/post?id=158785)
@@ -8386,7 +8386,7 @@ The key is metastability.............read and reacting properly to the environme
 
 Is it ok to sort of say without reading (see if I am a good student?!).............I remember you saying things that we might consider 'life like' really are not. Like proteins, fats etc EVEN DHA are not 'alive' they are in the end just 'molecules' maybe exotic and unusual ones but still just molecules. "Life" happens when these things somehow 'communicate' with each other let each other know they are there in a manner of speaking and it is in that 'communication' that life happens. As to what that 'communication' is I am quite foggy but somehow it involves 'waves' resonating at similar (the same?) frequency and once the 'harmonize' you have communication and hence life. Each 'wave' recognizes itself in the other and by that recognition we have life. It could also be a definition of 'love' is love then a recapitulation of the process of life itself?. I guess that's why it feels so 'precious' it somehow carries with it the very beginning of life..................
 
-### patgrif@hotmail.com — 2015-03-18T13:26:04+0200
+### [email redacted] — 2015-03-18T13:26:04+0200
 **Source:** <https://forum.jackkruse.com/threads/how-life-gets-order-from-chaos.13351/post-158861>
 
 "Stop allowing your beliefs block you from reality" Dr K. applying a little 'philosophy' or as Neil would say 'epistemology' to this that implies 'reality' can ever be perceived without some 'beliefs.............. to me that does not seem correct. "Reality" is always made up of a 'composite' of 'external reality' and some subjective component 'beliefs' if you like. You said yourself in a recent blog one of the UB ones 3 I think that water was a 'de-coherent lens' which sort of blocked us from seeing the quantum reality but at the benefit of there BEING a reality.
@@ -9107,7 +9107,7 @@ USA
 Telephone: 888.320.8338 (toll free)
 856.825.8338 (outside the US)
 Fax: 856.825.2143
-E-mail: [custserv@bodybio.net](mailto:custserv@bodybio.net)
+E-mail: [[email redacted]](mailto:[email redacted])
 
 bodybio-wellness.com
 
@@ -10810,7 +10810,7 @@ Jack, do you know anything about this, or have any thoughts on this matter? Or a
 
 chickens can do what lambs and fish do but just not effectively........they do transmit iodine well however.
 
-### patgrif@hotmail.com — 2015-03-22T17:34:27+0200
+### [email redacted] — 2015-03-22T17:34:27+0200
 **Source:** <https://forum.jackkruse.com/threads/increasing-dha-in-eggs.13418/post-159191>
 
 > [LisaLearning said:](/goto/post?id=159168)
@@ -10835,7 +10835,7 @@ So supplement their feed for the added iodine, but don't worry about DHA. Still 
 
 I do throw mine snails when I find them gardening. And I have seen one catch a mouse and eat it whole.  Got to love a pet that recycles waste food into eggs. And they have good personalities too. I'll see if I can get my hands on that book, thanks, Pat.
 
-### patgrif@hotmail.com — 2015-03-22T17:48:44+0200
+### [email redacted] — 2015-03-22T17:48:44+0200
 **Source:** <https://forum.jackkruse.com/threads/increasing-dha-in-eggs.13418/post-159194>
 
 > [LisaLearning said:](/goto/post?id=159193)
@@ -10859,7 +10859,7 @@ Couldn't you also eat the snails yourself?
 
 you could but her question was about eggs and chickens not snails. What processes the DHA from algae in the wrong position was the gist of her question. Humans get it from seafood normally
 
-### patgrif@hotmail.com — 2015-03-22T23:00:39+0200
+### [email redacted] — 2015-03-22T23:00:39+0200
 **Source:** <https://forum.jackkruse.com/threads/increasing-dha-in-eggs.13418/post-159227>
 
 Here is some of what Susan Allport wrote in "Omega-3's the Queen of Fats" about the "Greek chicken"
@@ -10868,7 +10868,7 @@ Here is some of what Susan Allport wrote in "Omega-3's the Queen of Fats" about 
 
 She (going by memory here I must read it again) has shown a connection between DHA and cold. How it helps the fish see at great depths, also went into how it helped fish withstand great pressure of water and also withstand great cold by keeping the cell membrane more pliable..............a lot of this is connecting up now with Dr K's work.............I really MUST read it again it is like 7 years since I read it. It's kind of amazing this book stood out for me like an island and now it is connecting up with all this other stuff............
 
-### patgrif@hotmail.com — 2015-03-22T23:02:10+0200
+### [email redacted] — 2015-03-22T23:02:10+0200
 **Source:** <https://forum.jackkruse.com/threads/increasing-dha-in-eggs.13418/post-159228>
 
 Sorry maybe the above wasn't clear............the context was the 'Greek chicken' lived largely on purslane and snails etc. Does anyone know what 'purslane' is or looks like I don't..............
@@ -10896,7 +10896,7 @@ I wonder if the proper escargot we all know and love are the same things as gard
 ### SeaHorse — 2015-03-23T02:04:07+0200
 **Source:** <https://forum.jackkruse.com/threads/increasing-dha-in-eggs.13418/post-159239>
 
-> [patgrif@hotmail.com said:](/goto/post?id=159228)
+> [[email redacted] said:](/goto/post?id=159228)
 >
 > Sorry maybe the above wasn't clear............the context was the 'Greek chicken' lived largely on purslane and snails etc. Does anyone know what 'purslane' is or looks like I don't..............
 
@@ -11578,7 +11578,7 @@ Does anyone have a suggestion for me to try? I have put in a ticket, but the pro
 > **Internal Server Error**
 > The server encountered an internal error or misconfiguration and was unable to complete your request.
 >
-> Please contact the server administrator, [webmaster@jackkruse.com](mailto:webmaster@jackkruse.com) and inform them of the time the error occurred, and anything you might have done that may have caused the error.
+> Please contact the server administrator, [[email redacted]](mailto:[email redacted]) and inform them of the time the error occurred, and anything you might have done that may have caused the error.
 >
 > More information about this error may be available in the server error log.
 >
@@ -13086,7 +13086,7 @@ From my low-tech perspective, I've seen plants sprout from the ground with reddi
 >
 > ....
 
-### patgrif@hotmail.com — 2015-03-29T21:07:56+0300
+### [email redacted] — 2015-03-29T21:07:56+0300
 **Source:** <https://forum.jackkruse.com/threads/stupid-questions-thread.13517/post-159754>
 
 > [Jack Kruse said:](/goto/post?id=159706)
@@ -13107,7 +13107,7 @@ DHA is key when you move away from the tropics........and from water.
 
 People at the equator are plant like........Inuits are sea mammal like..........when you live in between the environment you all dictates what battery you need to create to sustain yourself.
 
-### patgrif@hotmail.com — 2015-03-31T04:27:12+0300
+### [email redacted] — 2015-03-31T04:27:12+0300
 **Source:** <https://forum.jackkruse.com/threads/stupid-questions-thread.13517/post-159885>
 
 I had this thought today in kind of a 'dream' based on some of the things I have been talking and thinking about . this is a 'prediction' really based on not much just reading between the lines and I have not heard or seen it said. But it will go something like this colds, flu's all kinds of 'illness' like measles, mumps, chicken pox etc are GOOD for you these kind of things rip through the system, like a wave of viral exchange between one cell and the next and eventually from all to all. It charges up the system, the viral exchange is NEEDED, it tunes the genome somehow and after it has ripped through the system we are left stronger more prepared to meet life our genetic code has been charged and tuned. (Mechanics imagery!) Far from being bad for us we should welcome these kinds of things it leaves us with a more competent immune system and so on. In fact we are going to start 'trials' where we will deliberately 'infect' people with measles etc. We now know the whole thing in the old days of preventing flu, or 'knocking out' colds etc with Vit C anti-oxidants etc was quite wrong, it cheated our systems of something we needed just as much as we need air, water, sunlight etc etc. So all this business about vaccines and 'preventing' these things is totally wrong and not only harmful in that it deprived the system of what it needed it actively poisoned children in a huge way we have millions (billions) walking around with their systems all jacked up from aluminum, mercury etc. It's a huge business now trying to detox from these agents. This applies to animals too whole generations of cats, dogs, sheep, goats etc are so effed up it will take it is estimated at least 10 generations for them to get back close to something they once were. Another fine human folly.
@@ -13158,7 +13158,7 @@ Would it be cost effective for CT in summer to get a chest freezer, fill 3/4 it 
 
 Would it collapse under the weight, leak or somehow electrocute me?
 
-### patgrif@hotmail.com — 2015-03-31T16:48:33+0300
+### [email redacted] — 2015-03-31T16:48:33+0300
 **Source:** <https://forum.jackkruse.com/threads/stupid-questions-thread.13517/post-159947>
 
 > [Jack Kruse said:](/goto/post?id=159893)
@@ -13189,7 +13189,7 @@ In a natural environment, does structured water in the cells, plus cold dark and
 ### Jack Kruse — 2015-03-31T20:19:09+0300
 **Source:** <https://forum.jackkruse.com/threads/stupid-questions-thread.13517/post-159974>
 
-> [patgrif@hotmail.com said:](/goto/post?id=159947)
+> [[email redacted] said:](/goto/post?id=159947)
 >
 > The Russians were 'mis-represented' a lot especially of course during the Cold War and actually still to day at least the way I see it. But in the old days of Communism in the USSR the scientists as a general rule were not motivated by money hardly at all................whereas in the USA that was always a factor and un-fortunately to day seems at times to be almost the ONLY factor.
 >
@@ -17514,7 +17514,7 @@ The measurement and analysis of the visible hydrogen spectrum is a standard expe
 
 The spectra of other atoms are _not as simple to analyze_. Adding just one more proton to the nucleus and one more orbiting electron to the atom for helium results in the com- plications of shielding and the effects of indistinguishable particles on the energy level structure. Helium is special because it is here where frequency become chaotic........and chaos is what life uses to live. When frequency become adynamic.......life goes extinct.
 
-### patgrif@hotmail.com — 2015-04-18T19:04:50+0300
+### [email redacted] — 2015-04-18T19:04:50+0300
 **Source:** <https://forum.jackkruse.com/threads/mastering-the-basics-pathways-and-seasons.13531/post-161659>
 
 > [Jack Kruse said:](/goto/post?id=161604)
@@ -18393,7 +18393,7 @@ It's been about 4 days now.  Is there an ETA on the fix? I want to continue my b
 
 Monte
 
-contact [support@jackkruse.com](mailto:support@jackkruse.com)
+contact [[email redacted]](mailto:[email redacted])
 
 Sandy will hook you up!!!
 
@@ -21329,7 +21329,7 @@ I will definitely keep in touch here if I have more questions. Thanks so much!
 
 Magnetico might not be wired for euro power plug. If your N=1 is good go and do your best. If poor health say no thanks and stay home!
 
-### patgrif@hotmail.com — 2015-04-09T06:15:43+0300
+### [email redacted] — 2015-04-09T06:15:43+0300
 **Source:** <https://forum.jackkruse.com/threads/year-abroad-in-bosnia-and-herzegovina.13701/post-160698>
 
 > [Nittygrittydanny said:](/goto/post?id=160692)
@@ -22021,7 +22021,7 @@ osmoregulation in plants
 crustacean rhabdomeric vision
 nociception
 
-### patgrif@hotmail.com — 2015-04-11T16:38:46+0300
+### [email redacted] — 2015-04-11T16:38:46+0300
 **Source:** <https://forum.jackkruse.com/threads/members-april-2015-webinar-drops-today.13745/post-160906>
 
 > [Josh said:](/goto/post?id=160834)
@@ -22042,7 +22042,7 @@ I would tend to think HIV/AIDS if it has any reality at all might be an example 
 ### Josh — 2015-04-11T18:48:14+0300
 **Source:** <https://forum.jackkruse.com/threads/members-april-2015-webinar-drops-today.13745/post-160910>
 
-> [patgrif@hotmail.com said:](/goto/post?id=160906)
+> [[email redacted] said:](/goto/post?id=160906)
 >
 > My guess is this notion of 'viral shedding' might have big implications for the whole area of viruses and vaccines etc. What if most of the so called virus 'infections' are really a case of viral shedding. So even if in the case of some so called viral illness the 'guilty party' (a virus) is found to be present it may be really a symptom of something in the environment and not a cause at all. Janine Roberts points out in her book it is very hard to 'classify' viruses at all, they have tried to classify them in different ways but what if they are all (if I can be so bold) just bits of broken off genetic fragments are usually our own.
 >
@@ -31820,7 +31820,7 @@ UK tinted prescription and plano lenses in the UK :-
 I've finally managed to get prescription glasses tinted in the UK with BPI Diamond Dye BPI#37604. [http://www.callbpi.com/pdf\_misc/thera.pdf](http://www.callbpi.com/pdf_misc/thera.pdf)
 Lenses need to be uncoated , (no antiscratch and no UV protection)
 ASDA did this using a lens supplier called TANT (you'll need to tell them this)
-I sent my glasses to SPECTRUM in Manchester 0161 203 9000, [info@sdlenses.co.uk](mailto:info@sdlenses.co.uk), ask for Billy.
+I sent my glasses to SPECTRUM in Manchester 0161 203 9000, [[email redacted]](mailto:[email redacted]), ask for Billy.
 They were great, really helpful.
 It'll cost about £7.50 recorded delivery to send a pair to them.
 They'll tint and return them for £30.00. You can send an old pair with a written lens prescription and they will supply prescription lenses at an extra cost, all done in house.
@@ -31900,7 +31900,7 @@ Or has it got to be in the UV spectrum (which is different to red light?) - conf
 > I've finally managed to get prescription glasses tinted in the UK with BPI Diamond Dye BPI#37604. [http://www.callbpi.com/pdf\_misc/thera.pdf](http://www.callbpi.com/pdf_misc/thera.pdf)
 > Lenses need to be uncoated , (no antiscratch and no UV protection)
 > ASDA did this using a lens supplier called TANT (you'll need to tell them this)
-> I sent my glasses to SPECTRUM in Manchester 0161 203 9000, [info@sdlenses.co.uk](mailto:info@sdlenses.co.uk), ask for Billy.
+> I sent my glasses to SPECTRUM in Manchester 0161 203 9000, [[email redacted]](mailto:[email redacted]), ask for Billy.
 > They were great, really helpful.
 > It'll cost about £7.50 recorded delivery to send a pair to them.
 > They'll tint and return them for £30.00. You can send an old pair with a written lens prescription and they will supply prescription lenses at an extra cost, all done in house.
@@ -34289,7 +34289,7 @@ I will post some pictures below... just know that colors, charms, etc, are chang
 ### MrPinkies — 2015-04-22T00:20:35+0300
 **Source:** <https://forum.jackkruse.com/threads/bracelets-and-the-kruse-cruise.14031/post-161971>
 
-If you are not able to make the Kruse Cruise, please email me and we can work out the details to get a bracelet to you! ([kateatowler@gmail.com](mailto:kateatowler@gmail.com))
+If you are not able to make the Kruse Cruise, please email me and we can work out the details to get a bracelet to you! ([[email redacted]](mailto:[email redacted]))
 
 ### Jack Kruse — 2015-04-22T00:41:53+0300
 **Source:** <https://forum.jackkruse.com/threads/bracelets-and-the-kruse-cruise.14031/post-161976>
@@ -34356,7 +34356,7 @@ metal button and charm, but, overall, mostly leather and glass/wooden beads!
 
 > [MrPinkies said:](/goto/post?id=161971)
 >
-> If you are not able to make the Kruse Cruise, please email me and we can work out the details to get a bracelet to you! ([kateatowler@gmail.com](mailto:kateatowler@gmail.com))
+> If you are not able to make the Kruse Cruise, please email me and we can work out the details to get a bracelet to you! ([[email redacted]](mailto:[email redacted]))
 
 Ooh, awesome, Kate, will do
 
@@ -34377,7 +34377,7 @@ They are a much smaller version of this.
 
 Hey Nonchalant!!!!!
 
-No metal... hmmm... the only real metal is the button.. let me search and see if I can find a different material button and I'll get back with you!! PS.. email me your address so we can work out the other details! [kateatowler@gmail.com](mailto:kateatowler@gmail.com)
+No metal... hmmm... the only real metal is the button.. let me search and see if I can find a different material button and I'll get back with you!! PS.. email me your address so we can work out the other details! [[email redacted]](mailto:[email redacted])
 
 Thanks!
 ~Kate
@@ -34393,7 +34393,7 @@ Thanks!
 > [View attachment 1765](https://forum.jackkruse.com/attachments/1765/)
 
 If you can get the hole in them.. I'm concerned about them rubbing against the thread and wearing out the thread.. but maybe I could thread it through the leather.. Without seeing it in person, I have no idea.. So.. if you would like to mail it to me and I will see what I can do, that would be great!
-Email me and we will work it out! Thanks! ([kateatowler@gmail.com](mailto:kateatowler@gmail.com))
+Email me and we will work it out! Thanks! ([[email redacted]](mailto:[email redacted]))
 
 ### MrPinkies — 2015-04-23T16:46:59+0300
 **Source:** <https://forum.jackkruse.com/threads/bracelets-and-the-kruse-cruise.14031/post-162204>
@@ -34491,7 +34491,7 @@ I'd be really interested in purchasing one if there's a way to get it to me on t
 
 Well Grmoline, don't worry about shipping.. I've shipped several overseas already.. It's not that bad at all
 
-email me: [kateatowler@gmail.com](mailto:kateatowler@gmail.com)
+email me: [[email redacted]](mailto:[email redacted])
 
 address, wrist size, colors, charms- yes/no- such as starfish, lock, etc.. lol
 
@@ -34527,7 +34527,7 @@ those are so beautiful.....
 > Kate... are you coming on the cruise? With some bracelets with you to choose from? Or do they have to be pre ordered?
 > those are so beautiful.....
 
-Oh Inger! I bought a house instead of going on the Kruise cruise..  I REALLY wanted to go!! However, I am making some for the Kruise cruise.. in addition, I am making them and shipping them to peeps too! Email me ([kateatowler@gmail.com](mailto:kateatowler@gmail.com)) and we shall talk about getting you one!! xoxo
+Oh Inger! I bought a house instead of going on the Kruise cruise..  I REALLY wanted to go!! However, I am making some for the Kruise cruise.. in addition, I am making them and shipping them to peeps too! Email me ([[email redacted]](mailto:[email redacted])) and we shall talk about getting you one!! xoxo
 
 ### MrPinkies — 2015-05-21T20:53:18+0300
 **Source:** <https://forum.jackkruse.com/threads/bracelets-and-the-kruse-cruise.14031/post-164964>
@@ -34560,7 +34560,7 @@ Glad you both can make it!
 >
 > Kate, 2 here please. We will be on Cruise. Let me know how to compensate you...!
 
-@[RobH](https://forum.jackkruse.com/members/1033/) please email me at: [kateatowler@gmail.com](mailto:kateatowler@gmail.com):
+@[RobH](https://forum.jackkruse.com/members/1033/) please email me at: [[email redacted]](mailto:[email redacted]):
 
 shipping address, wrist sizes, charms- yes no (such as starfish, lock, etc), bead colors
 
@@ -36583,7 +36583,7 @@ Moving charges generate Electromagnetic (EM) waves, aka: light and thus heat (Ge
 
 I'm not 100% sure on this next step, but since the Earth's Magnetic Field is energised by X-rays from the Sun (not the same as Protons from CMEs), a radiating atmosphere introduces an EM force vector outwards, that by simple math decreases the incoming EM forces from the Sun.​
 
-### patgrif@hotmail.com — 2015-04-25T16:35:53+0300
+### [email redacted] — 2015-04-25T16:35:53+0300
 **Source:** <https://forum.jackkruse.com/threads/ubiquitination-11-is-live-kt-event-lyme-snps-and-more.14108/post-162401>
 
 I found the following very interesting in the blogpost very interesting:
@@ -36647,7 +36647,7 @@ I'm reading **[Light in Shaping Life: Biophotons in Biology and Medicine](http:/
 
 its an awesome read and a very well written and designed book...a lot of Becker in there, history of [epigenesis and preformation](http://www.christianhubert.com/writings/Epigenesis_Preformation.html) is interesting. I'm only on second chapter
 
-### patgrif@hotmail.com — 2015-04-27T04:46:53+0300
+### [email redacted] — 2015-04-27T04:46:53+0300
 **Source:** <https://forum.jackkruse.com/threads/ubiquitination-11-is-live-kt-event-lyme-snps-and-more.14108/post-162507>
 
 I just listened/watched the conference in Vancouver. I must say made me aware of the sheer amount of amazing knowledge we have gotten over the last 4 years. Like we ARE really privileged we really have received good and very cutting edge information and understanding. Not to put down the other speakers but even say Gerald Pollack though of course he is great his scope is quite limited compared to Dr K. Or the first guy though likable this is all a bit vague and stuff we have heard before but Dr K kind of really nails it down.
@@ -36926,7 +36926,7 @@ I don't know the area, but it sounds great that you are moving, Looking!
 
 less people......and you don't want to be a seashore in the next 50 yrs.......hurricanes and rising seas are coming in way bigger forces because of ubiquitination.
 
-### patgrif@hotmail.com — 2015-04-28T02:04:18+0300
+### [email redacted] — 2015-04-28T02:04:18+0300
 **Source:** <https://forum.jackkruse.com/threads/mississippi.14109/post-162588>
 
 > [Jack Kruse said:](/goto/post?id=162553)
@@ -36940,7 +36940,7 @@ Wow that's scary! I am now getting the picture that 'ubiquination' covers an awf
 
 Ubiquitination: when light no longer controls nitrogen, it is unleashed to cause many things on Earth go awry
 
-### patgrif@hotmail.com — 2015-04-28T16:57:17+0300
+### [email redacted] — 2015-04-28T16:57:17+0300
 **Source:** <https://forum.jackkruse.com/threads/mississippi.14109/post-162662>
 
 > [Jack Kruse said:](/goto/post?id=162609)
@@ -36964,7 +36964,7 @@ But all in all I feel I am not understanding this whole Nitrogen thing.
 
 Next blog is all about Nitrogen.
 
-### patgrif@hotmail.com — 2015-04-28T19:05:19+0300
+### [email redacted] — 2015-04-28T19:05:19+0300
 **Source:** <https://forum.jackkruse.com/threads/mississippi.14109/post-162674>
 
 > [Jack Kruse said:](/goto/post?id=162671)

@@ -36978,14 +36978,14 @@ Not Cat5 - get shielded (groundable) Cat6A, 7 or 8 - all more than fast enough f
 ### xxx — 2025-05-02T00:17:42+0300
 **Source:** <https://forum.jackkruse.com/threads/i-just-sent-all-of-my-bitcoin-to-a-fake-dr-kruse-account-on-x.30807/post-351673>
 
-The account on X wrote back to me from X and referred to all that I wrote in my email! OMG, I've just been so ripped off! But I tried to cover myself by writing to [info@kruseatdestin.com](mailto:info@kruseatdestin.com). But the guy who was faking Dr Kruse was too good. He tricked me. I'm in shock. The X account to not trust is: @drjackkruse\_btc
+The account on X wrote back to me from X and referred to all that I wrote in my email! OMG, I've just been so ripped off! But I tried to cover myself by writing to [[email redacted]](mailto:[email redacted]). But the guy who was faking Dr Kruse was too good. He tricked me. I'm in shock. The X account to not trust is: @drjackkruse\_btc
 
 ### Mat.I — 2025-05-02T02:11:03+0300
 **Source:** <https://forum.jackkruse.com/threads/i-just-sent-all-of-my-bitcoin-to-a-fake-dr-kruse-account-on-x.30807/post-351687>
 
 > [MarshaMcGuire said:](/goto/post?id=351673)
 >
-> The account on X wrote back to me from X and referred to all that I wrote in my email! OMG, I've just been so ripped off! But I tried to cover myself by writing to [info@kruseatdestin.com](mailto:info@kruseatdestin.com). I'm in shock.
+> The account on X wrote back to me from X and referred to all that I wrote in my email! OMG, I've just been so ripped off! But I tried to cover myself by writing to [[email redacted]](mailto:[email redacted]). I'm in shock.
 
 Why would you send all your BTC to someone's X account?
 
@@ -37196,7 +37196,7 @@ I tried to tell her that but she is relentlessly clueless.
 
 > [MarshaMcGuire said:](/goto/post?id=351673)
 >
-> The account on X wrote back to me from X and referred to all that I wrote in my email! OMG, I've just been so ripped off! But I tried to cover myself by writing to [info@kruseatdestin.com](mailto:info@kruseatdestin.com). But the guy who was faking Dr Kruse was too good. He tricked me. I'm in shock. The X account to not trust is: @drjackkruse\_btc
+> The account on X wrote back to me from X and referred to all that I wrote in my email! OMG, I've just been so ripped off! But I tried to cover myself by writing to [[email redacted]](mailto:[email redacted]). But the guy who was faking Dr Kruse was too good. He tricked me. I'm in shock. The X account to not trust is: @drjackkruse\_btc
 
 I had a Kruse impersonator on X try to get me to give them my Bitcoin. I knew he/she was a fake but I played along to get as much evidence against him/her, i.e. building a case, so they would get not only shut down but hopefully in legal hot water. I had fun playing them. I even asked them for their Bitcoin wallet account so as to "make sure I sent it to the right account". I looked it up and was able to see there were only 2 transactions in 4 months for a total of $75. So I played them for about 5 or 6 days and then just before I was supposed to send Bitcoin, I ghosted them. Lol. I reported them, hoping they would get in legal hot water for wire fraud, false impersonation, and the rest. Hope so.
 
@@ -39719,7 +39719,7 @@ These are why Dr. Kruse says TINA - there is no alternative to sunlight.
 
 I've referred a mom with a 16 year old paralyzed daughter (from a bike accident) to reach out to Jack for a consult.
 
-What is the best way for her to contact Jack or the admin team for a consult? Is it to email [info@kruseatdestin.com](mailto:info@kruseatdestin.com) ?
+What is the best way for her to contact Jack or the admin team for a consult? Is it to email [[email redacted]](mailto:[email redacted]) ?
 
 Thx
 
@@ -39730,7 +39730,7 @@ Thx
 >
 > I've referred a mom with a 16 year old paralyzed daughter (from a bike accident) to reach out to Jack for a consult.
 >
-> What is the best way for her to contact Jack or the admin team for a consult? Is it to email [info@kruseatdestin.com](mailto:info@kruseatdestin.com) ?
+> What is the best way for her to contact Jack or the admin team for a consult? Is it to email [[email redacted]](mailto:[email redacted]) ?
 >
 > Thx
 

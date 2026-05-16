@@ -11537,7 +11537,7 @@ It is believed that under the ice-covered surface of Europa are liquid oceans �
 
 _By Skip Derra. Derra, with Marketing & Strategic Communications, can be reached at
 
-(480) 965-4823 or ([skip.derra@asu.edu](mailto:skip.derra@asu.edu)).
+(480) 965-4823 or ([[email redacted]](mailto:[email redacted])).
 June 21, 2005_
 
 ### Jack Kruse — 2014-11-12T00:15:56+0200
@@ -26655,7 +26655,7 @@ Check out the Circadian store in the Epi-Paleo store for a bunch of great links,
 ### functionalmed28 — 2014-02-28T00:05:41+0200
 **Source:** <https://forum.jackkruse.com/threads/renees-optimal-journal-newbie.9796/post-112545>
 
-Hey guys, if you emailed me and didn't get a response, I never received it. I checked through the past two weeks of emails and even in my spam and couldn't find any personal emails that I failed to reply to. I'm sorry for the miscommunication. Please email me again at [drtim072981@gmail.com](mailto:drtim072981@gmail.com).
+Hey guys, if you emailed me and didn't get a response, I never received it. I checked through the past two weeks of emails and even in my spam and couldn't find any personal emails that I failed to reply to. I'm sorry for the miscommunication. Please email me again at [[email redacted]](mailto:[email redacted]).
 \---Dr. Tim
 
 ### caroline — 2014-02-28T00:22:13+0200
@@ -26678,12 +26678,12 @@ Have you listened to Dr. Tim's webinar?
 
 > [functionalmed28 said:](/goto/post?id=112545)
 >
-> Hey guys, if you emailed me and didn't get a response, I never received it. I checked through the past two weeks of emails and even in my spam and couldn't find any personal emails that I failed to reply to. I'm sorry for the miscommunication. Please email me again at [drtim072981@gmail.com](mailto:drtim072981@gmail.com).
+> Hey guys, if you emailed me and didn't get a response, I never received it. I checked through the past two weeks of emails and even in my spam and couldn't find any personal emails that I failed to reply to. I'm sorry for the miscommunication. Please email me again at [[email redacted]](mailto:[email redacted]).
 > \---Dr. Tim
 
 Hello Dr. Tim
 
-Thank you for the note and personal email address.. I just emailed you again.. I had emailed you at [healyourbody@gmail.com](mailto:healyourbody@gmail.com) ( which is what I thought it was from the webinar but maybe I got it wrong.. )
+Thank you for the note and personal email address.. I just emailed you again.. I had emailed you at [[email redacted]](mailto:[email redacted]) ( which is what I thought it was from the webinar but maybe I got it wrong.. )
 
 no matter.. really appreciate the updated email !
 
@@ -26707,7 +26707,7 @@ I've added a picture for my profile (it's from a few years ago but don't have a 
 
 thanks for the link to the amber bulbs and glasses! awesome!
 
-Also .. I resent Dr Tim a note to his alternate gmail address.. I had sent it to the [healyourbody@gmail.com](mailto:healyourbody@gmail.com) address originally...
+Also .. I resent Dr Tim a note to his alternate gmail address.. I had sent it to the [[email redacted]](mailto:[email redacted]) address originally...
 Just wondering as well if we'll be able to re-listen to his webinar again ? Apparently there was a free one from Dr. Tim that he did last year but the link doesn't take you to the webinar.. it just cycles back to the main webpage on the JackKruse website.. Was it removed maybe?
 
 I am going to check out the Gold Membership to see if I can manage it for a while as I understand there's a ton of extra info and opportunities to ask Jack as a gold member..
@@ -33018,7 +33018,7 @@ Please take this as my "read" of your situation, if it doesn't seem to fit, then
 
 thanks, Seahorse! This is something to think about. I am definitely changing a lot, maybe too fast and too mich. i see everyone around me struggles to keep up.
 
-### patgrif@hotmail.com — 2015-02-10T17:02:08+0200
+### [email redacted] — 2015-02-10T17:02:08+0200
 **Source:** <https://forum.jackkruse.com/threads/becoming-me-again.9842/post-155235>
 
 > [kovita said:](/goto/post?id=155116)

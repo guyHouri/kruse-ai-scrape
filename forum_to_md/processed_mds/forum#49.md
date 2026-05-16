@@ -13150,7 +13150,7 @@ I did google her name - Vanese MacNeil - but can't come come up with anything. S
 **Source:** <https://forum.jackkruse.com/threads/jack-kruse-the-quilt-podcast-of-audio-blogs.18444/post-296899>
 
 She is a constant in my ClubHouse rooms. Vanese is her name.
-[vanese@magicalegypt.com](mailto:vanese@magicalegypt.com) is her email
+[[email redacted]](mailto:[email redacted]) is her email
 
 ### caroline — 2021-04-06T01:23:26+0300
 **Source:** <https://forum.jackkruse.com/threads/jack-kruse-the-quilt-podcast-of-audio-blogs.18444/post-296916>
@@ -13158,7 +13158,7 @@ She is a constant in my ClubHouse rooms. Vanese is her name.
 > [Jack Kruse said:](/goto/post?id=296899)
 >
 > She is a constant in my ClubHouse rooms. Vanese is her name.
-> [vanese@magicalegypt.com](mailto:vanese@magicalegypt.com) is her email
+> [[email redacted]](mailto:[email redacted]) is her email
 
 thanks
 
@@ -15948,7 +15948,7 @@ Got a incandescent trilight gereveal and the lowest power setting already blew o
 ### Grace Davies — 2017-01-30T18:32:24+0200
 **Source:** <https://forum.jackkruse.com/threads/vancouver-bc-oyster-share.18484/post-207582>
 
-I could potentially be interested in doing an Oyster Share with you - I am in Victoria but visit occasionally. [graci3davies@gmail.com](mailto:graci3davies@gmail.com) if you are still inclined.
+I could potentially be interested in doing an Oyster Share with you - I am in Victoria but visit occasionally. [[email redacted]](mailto:[email redacted]) if you are still inclined.
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -16456,7 +16456,7 @@ Programs addressing the needs of adults with autism including employment, housin
 ### Jack Kruse — 2016-09-30T02:31:11+0300
 **Source:** <https://forum.jackkruse.com/threads/my-last-public-speaking-opportunity-of-2016.18491/post-202101>
 
-My former dental school classmate is hosting a dinner at the Culinary Institute the night before the event........so if you want to try to get in contact John Sorrentino at [dentalque@aol.com](mailto:dentalque@aol.com)
+My former dental school classmate is hosting a dinner at the Culinary Institute the night before the event........so if you want to try to get in contact John Sorrentino at [[email redacted]](mailto:[email redacted])
 
 ### Josh Rosenthal — 2016-09-30T16:07:23+0300
 **Source:** <https://forum.jackkruse.com/threads/my-last-public-speaking-opportunity-of-2016.18491/post-202121>
@@ -19054,7 +19054,7 @@ I thought I would try the cryotherapy sauna since I got a very good deal, but it
 **Subforum:** The EMF Rx
 **Posts:** 7
 ══════════════════════════════════════════════════════════════════════
-### joangtaylor@gmail.com — 2016-10-05T00:48:27+0300
+### [email redacted] — 2016-10-05T00:48:27+0300
 **Source:** <https://forum.jackkruse.com/threads/effect-of-magnetico-on-emf-fields.18527/post-202289>
 
 I have a 20 gauss Magnetico under my mattress. On my Trimeter, I'm seeing readings of 5 gauss around my pillow, and 10 gauss on the floor near the head of my bed (there's a smart meter on the outside of my house, on the wall below my 2nd-floor bedroom). Would the Magnetico mitigate, at least in part, the harmful effects of the EMF fields showing up on the Trimeter?
@@ -23868,7 +23868,7 @@ Definitely going to make the trip out for one of these classes after we move! Lo
 **Subforum:** My Optimal Journal
 **Posts:** 14
 ══════════════════════════════════════════════════════════════════════
-### kjones3102@gmail.com — 2016-10-15T23:59:08+0300
+### [email redacted] — 2016-10-15T23:59:08+0300
 **Source:** <https://forum.jackkruse.com/threads/kjs-journal.18599/post-202880>
 
 I am new to the Jack Kruse site, and I look forward to reversing disease.
@@ -23890,7 +23890,7 @@ sorry - I don't have a clue ...... contact support - bottom right hand corner of
 
 You are gorgeous!
 
-### kjones3102@gmail.com — 2016-10-25T00:46:09+0300
+### [email redacted] — 2016-10-25T00:46:09+0300
 **Source:** <https://forum.jackkruse.com/threads/kjs-journal.18599/post-203271>
 
 Hi Jack,
@@ -23928,7 +23928,7 @@ I have an excellent doc in northern VA. She pulls all the labs and has some incr
 
 [www.optimalhealthdimensions.com](http://www.optimalhealthdimensions.com)
 
-### kjones3102@gmail.com — 2016-10-25T04:55:06+0300
+### [email redacted] — 2016-10-25T04:55:06+0300
 **Source:** <https://forum.jackkruse.com/threads/kjs-journal.18599/post-203282>
 
 > [prime1 said:](/goto/post?id=203279)
@@ -23948,7 +23948,7 @@ I tried Sobo---
 ### prime1 — 2016-10-25T05:52:00+0300
 **Source:** <https://forum.jackkruse.com/threads/kjs-journal.18599/post-203284>
 
-> [kjones3102@gmail.com said:](/goto/post?id=203282)
+> [[email redacted] said:](/goto/post?id=203282)
 >
 > I tried Sobo---
 
@@ -23958,7 +23958,7 @@ sorry about that. How about Dr Roca MD? Has an office in CT and in New Orleans.
 
 .
 
-### kjones3102@gmail.com — 2016-11-02T00:19:24+0200
+### [email redacted] — 2016-11-02T00:19:24+0200
 **Source:** <https://forum.jackkruse.com/threads/kjs-journal.18599/post-203498>
 
 Jack,
@@ -24141,7 +24141,7 @@ be careful about foods and supplements containing omega3.
 
 ...
 
-### kjones3102@gmail.com — 2016-11-24T05:08:01+0200
+### [email redacted] — 2016-11-24T05:08:01+0200
 **Source:** <https://forum.jackkruse.com/threads/kjs-journal.18599/post-204273>
 
 Jack--
@@ -38391,7 +38391,7 @@ I am doing another biohack that is improving my hearing but it is not complete y
 ### Penny — 2016-11-13T23:07:17+0200
 **Source:** <https://forum.jackkruse.com/threads/goodbye-tinnitus-montes-optimal-journal.18712/post-203935>
 
-> [montediaz@live.com said:](/goto/post?id=203748)
+> [[email redacted] said:](/goto/post?id=203748)
 >
 > There's always those things that you know you should be doing but until something makes it real enough you never do it. Well tinnitus was it for me. I've been following Jack's work since he was on Mark's forum years ago. Until now I was just a casual observer happy with repeating the knowledge to everyone I see but not following it myself. Then tinnitus happened. I woke up one morning with a bad headache to the back of my head and a really achy neck. It didn't go away all day, by the next day I got a horrible ringing in my ears that hasn't stopped since. It's affected sleep and given me anxiety. Doctors have been predictably of little help.
 >
@@ -38518,7 +38518,7 @@ Also worth a try ringing your electricity provider (more than once!) and asking 
 ### Scompy — 2016-11-21T01:54:30+0200
 **Source:** <https://forum.jackkruse.com/threads/goodbye-tinnitus-montes-optimal-journal.18712/post-204131>
 
-> [montediaz@live.com said:](/goto/post?id=204120)
+> [[email redacted] said:](/goto/post?id=204120)
 >
 > Thanks for all the responses!!! I believe it is time for an update!
 >
@@ -38578,7 +38578,7 @@ That's amazing... I wonder if you have residual streptococous in your ears trash
 ### Penny — 2016-11-21T21:32:29+0200
 **Source:** <https://forum.jackkruse.com/threads/goodbye-tinnitus-montes-optimal-journal.18712/post-204168>
 
-> [montediaz@live.com said:](/goto/post?id=204121)
+> [[email redacted] said:](/goto/post?id=204121)
 >
 > How bad was your tinnitus? I have a device that states its 650 nm light. I wonder if this will still work?
 
@@ -42301,7 +42301,7 @@ Owned for 3&1/2 years, Pristine Condition. Cat Free Home
 
 I'm posting this on behalf of my friend Gretchen who is selling it because she needs the money to help pay for nursing school.
 
-You can contact her at [gretchen.e.bronson@gmail.com](mailto:gretchen.e.bronson@gmail.com)
+You can contact her at [[email redacted]](mailto:[email redacted])
 
 Thanks!
 

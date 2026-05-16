@@ -2591,7 +2591,7 @@ Definitely going to make the trip out for one of these classes after we move! Lo
 **Subforum:** My Optimal Journal
 **Posts:** 14
 ══════════════════════════════════════════════════════════════════════
-### kjones3102@gmail.com — 2016-10-15T23:59:08+0300
+### [email redacted] — 2016-10-15T23:59:08+0300
 **Source:** <https://forum.jackkruse.com/threads/kjs-journal.18599/post-202880>
 
 I am new to the Jack Kruse site, and I look forward to reversing disease.
@@ -2613,7 +2613,7 @@ sorry - I don't have a clue ...... contact support - bottom right hand corner of
 
 You are gorgeous!
 
-### kjones3102@gmail.com — 2016-10-25T00:46:09+0300
+### [email redacted] — 2016-10-25T00:46:09+0300
 **Source:** <https://forum.jackkruse.com/threads/kjs-journal.18599/post-203271>
 
 Hi Jack,
@@ -2651,7 +2651,7 @@ I have an excellent doc in northern VA. She pulls all the labs and has some incr
 
 [www.optimalhealthdimensions.com](http://www.optimalhealthdimensions.com)
 
-### kjones3102@gmail.com — 2016-10-25T04:55:06+0300
+### [email redacted] — 2016-10-25T04:55:06+0300
 **Source:** <https://forum.jackkruse.com/threads/kjs-journal.18599/post-203282>
 
 > [prime1 said:](/goto/post?id=203279)
@@ -2671,7 +2671,7 @@ I tried Sobo---
 ### prime1 — 2016-10-25T05:52:00+0300
 **Source:** <https://forum.jackkruse.com/threads/kjs-journal.18599/post-203284>
 
-> [kjones3102@gmail.com said:](/goto/post?id=203282)
+> [[email redacted] said:](/goto/post?id=203282)
 >
 > I tried Sobo---
 
@@ -2681,7 +2681,7 @@ sorry about that. How about Dr Roca MD? Has an office in CT and in New Orleans.
 
 .
 
-### kjones3102@gmail.com — 2016-11-02T00:19:24+0200
+### [email redacted] — 2016-11-02T00:19:24+0200
 **Source:** <https://forum.jackkruse.com/threads/kjs-journal.18599/post-203498>
 
 Jack,
@@ -2864,7 +2864,7 @@ be careful about foods and supplements containing omega3.
 
 ...
 
-### kjones3102@gmail.com — 2016-11-24T05:08:01+0200
+### [email redacted] — 2016-11-24T05:08:01+0200
 **Source:** <https://forum.jackkruse.com/threads/kjs-journal.18599/post-204273>
 
 Jack--
@@ -12737,7 +12737,7 @@ I am doing another biohack that is improving my hearing but it is not complete y
 ### Penny — 2016-11-13T23:07:17+0200
 **Source:** <https://forum.jackkruse.com/threads/goodbye-tinnitus-montes-optimal-journal.18712/post-203935>
 
-> [montediaz@live.com said:](/goto/post?id=203748)
+> [[email redacted] said:](/goto/post?id=203748)
 >
 > There's always those things that you know you should be doing but until something makes it real enough you never do it. Well tinnitus was it for me. I've been following Jack's work since he was on Mark's forum years ago. Until now I was just a casual observer happy with repeating the knowledge to everyone I see but not following it myself. Then tinnitus happened. I woke up one morning with a bad headache to the back of my head and a really achy neck. It didn't go away all day, by the next day I got a horrible ringing in my ears that hasn't stopped since. It's affected sleep and given me anxiety. Doctors have been predictably of little help.
 >
@@ -12864,7 +12864,7 @@ Also worth a try ringing your electricity provider (more than once!) and asking 
 ### Scompy — 2016-11-21T01:54:30+0200
 **Source:** <https://forum.jackkruse.com/threads/goodbye-tinnitus-montes-optimal-journal.18712/post-204131>
 
-> [montediaz@live.com said:](/goto/post?id=204120)
+> [[email redacted] said:](/goto/post?id=204120)
 >
 > Thanks for all the responses!!! I believe it is time for an update!
 >
@@ -12924,7 +12924,7 @@ That's amazing... I wonder if you have residual streptococous in your ears trash
 ### Penny — 2016-11-21T21:32:29+0200
 **Source:** <https://forum.jackkruse.com/threads/goodbye-tinnitus-montes-optimal-journal.18712/post-204168>
 
-> [montediaz@live.com said:](/goto/post?id=204121)
+> [[email redacted] said:](/goto/post?id=204121)
 >
 > How bad was your tinnitus? I have a device that states its 650 nm light. I wonder if this will still work?
 
@@ -16215,7 +16215,7 @@ Owned for 3&1/2 years, Pristine Condition. Cat Free Home
 
 I'm posting this on behalf of my friend Gretchen who is selling it because she needs the money to help pay for nursing school.
 
-You can contact her at [gretchen.e.bronson@gmail.com](mailto:gretchen.e.bronson@gmail.com)
+You can contact her at [[email redacted]](mailto:[email redacted])
 
 Thanks!
 
@@ -23207,7 +23207,7 @@ I use this soft silicon type film on my cell phone, it sticks without needing ve
 
 I use this soft silicon type film on my big flat screen TV, it is same film used on cell phone above only much bigger for the TV:
 
-You will have to email them and ask them if they still make these or are willing to make one for you. I don't see a link for these anymore. [contact@lowbluelights.com](mailto:contact@lowbluelights.com) / [(216) 371-3033](https://forum.jackkruse.com/tel:\(216\)%20371-3033)
+You will have to email them and ask them if they still make these or are willing to make one for you. I don't see a link for these anymore. [[email redacted]](mailto:[email redacted]) / [(216) 371-3033](https://forum.jackkruse.com/tel:\(216\)%20371-3033)
 ​
 
 NOTE: They are a very small company and when you email them or call them for questions you may have to email or call a second time. They ship out on time but not as fast to questions via email and phone. I really love their products.
@@ -23239,7 +23239,7 @@ The start of the disease is not important , but when they decided to put WiFI in
 > I use this soft silicon type film on my big flat screen TV, it is same film used on cell phone above only much bigger for the TV:
 >
 >
-> You will have to email them and ask them if they still make these or are willing to make one for you. I don't see a link for these anymore. [contact@lowbluelights.com](mailto:contact@lowbluelights.com) / [(216) 371-3033](https://forum.jackkruse.com/tel:\(216\)%20371-3033)
+> You will have to email them and ask them if they still make these or are willing to make one for you. I don't see a link for these anymore. [[email redacted]](mailto:[email redacted]) / [(216) 371-3033](https://forum.jackkruse.com/tel:\(216\)%20371-3033)
 > ​
 >
 > NOTE: They are a very small company and when you email them or call them for questions you may have to email or call a second time. They ship out on time but not as fast to questions via email and phone. I really love their products.
@@ -23516,7 +23516,7 @@ I would definitely love to learn more about you and saw that you're into MovNat 
 I would love to learn more about you and where you would like participate, develop, etc.
 
 I look forward to hearing back and learning more. And feel free to also send me your CV at my email:
-[John@risecostarica.com](mailto:John@risecostarica.com)
+[[email redacted]](mailto:[email redacted])
 
 Blessings
 
@@ -23622,9 +23622,9 @@ Member FAQ
 Member Dashboard
 [https://www.jackkruse.com/member-dashboard/](https://www.jackkruse.com/member-dashboard/)
 If you are a Silver Klub or Gold Klub member, webinars and download links are delivered to you via email. If you missed the email that was sent to Gold & Silver Klub members with the download links, enter your member email below.
-Make sure you whitelist [support@jackkruse.com](mailto:support@jackkruse.com), which is where these important emails will come from. If you do not get the automated email within about 10 minutes, please email support requesting your links.
+Make sure you whitelist [[email redacted]](mailto:[email redacted]), which is where these important emails will come from. If you do not get the automated email within about 10 minutes, please email support requesting your links.
 
-[support@jackkruse.com](mailto:support@jackkruse.com)
+[[email redacted]](mailto:[email redacted])
 
 ////
 
@@ -27863,7 +27863,7 @@ You have to enter a ticket. I will forward this.
 ### Support — 2017-01-11T19:08:50+0200
 **Source:** <https://forum.jackkruse.com/threads/how-to-change-name-of-profile.18942/post-206623>
 
-Please send an email to [support@jackkruse.com](mailto:support@jackkruse.com) with the username you would like to change it to and we will take care of it for you.
+Please send an email to [[email redacted]](mailto:[email redacted]) with the username you would like to change it to and we will take care of it for you.
 
 Team Kruse
 
@@ -33069,7 +33069,7 @@ Other device-related links are [http://www.instructables.com/id/DIY-Near-Infrare
 ### Earth Monkey — 2017-02-02T05:07:00+0200
 **Source:** <https://forum.jackkruse.com/threads/red-light-therapy-devices.19006/post-207766>
 
-> [gene@kalmens.org said:](/goto/post?id=207610)
+> [[email redacted] said:](/goto/post?id=207610)
 >
 > In this [podcast](http://ancestralhealthradio.com/podcast/mitohacker), Jack mentions a laser to treat an underperforming thyroid, but does not provide the specifics. I searched the forum as well as the web. On the forum, this thread mentions it, [Meg's Journal](https://forum.jackkruse.com/index.php?threads/my-inconvenient-truth-megs-journal.18127/page-2). The web search proved not to be very conclusive or straightforward. There are good results from Ukraine and Russia, specification of the device that would work best (wave length, power, beam angle), DIY red light devices, etc. I have all these links. For affordable consumer devices to use on thyroid (and virtually any other part of the body), my only pick is this [**infra-red device**](https://redlightman.com/product/infrared-light-device/). Yet, I am not fully convinced it is the right device. I will greatly appreciate any educated opinions about this device or maybe others that I failed to find.
 >
@@ -33080,7 +33080,7 @@ Thanks for the info gene, I'll check them out. I'd like to to try one of these f
 ### Penny — 2017-02-04T02:38:28+0200
 **Source:** <https://forum.jackkruse.com/threads/red-light-therapy-devices.19006/post-207907>
 
-> [gene@kalmens.org said:](/goto/post?id=207610)
+> [[email redacted] said:](/goto/post?id=207610)
 >
 > In this [podcast](http://ancestralhealthradio.com/podcast/mitohacker), Jack mentions a laser to treat an underperforming thyroid, but does not provide the specifics. I searched the forum as well as the web. On the forum, this thread mentions it, [Meg's Journal](https://forum.jackkruse.com/index.php?threads/my-inconvenient-truth-megs-journal.18127/page-2). The web search proved not to be very conclusive or straightforward. There are good results from Ukraine and Russia, specification of the device that would work best (wave length, power, beam angle), DIY red light devices, etc. I have all these links. For affordable consumer devices to use on thyroid (and virtually any other part of the body), my only pick is this [**infra-red device**](https://redlightman.com/product/infrared-light-device/). Yet, I am not fully convinced it is the right device. I will greatly appreciate any educated opinions about this device or maybe others that I failed to find.
 >
@@ -42526,7 +42526,7 @@ The history of vaccination is more complicated than most people understand. The 
 The smallpox vaccines were made from pus scraped off of diseased cows’ belly sores, contaminated with disease matter from a variety of animals and in some cases, humans. The smallpox vaccine history is probably not what you think it is.
 Doctors and those administering vaccines are SUPPOSED to obtain “informed consent” before vaccinating. Informed consent is not possible because parents are not given all the information they would require in order to understand the most important issues.
 I DON'T CONSIDER IT MY PLACE TO TELL ANYONE WHETHER TO VACCINATE OR NOT. I NEVER TELL OR ADVISE PEOPLE NOT TO VACCINATE.
-As a physician I believe it is my place to understand as much as I can about vaccine science and history and give people a more complete understanding from which to make their choices. If you are interested in learning more about Dr. Humphries work you can email her too @ [drsuzannehumphries@gmail.com](mailto:drsuzannehumphries@gmail.com). [https://amicrowavedplanet.com/a-deadly-cocktail-vaccines-and-electromagnetic-radiation/](https://amicrowavedplanet.com/a-deadly-cocktail-vaccines-and-electromagnetic-radiation/)
+As a physician I believe it is my place to understand as much as I can about vaccine science and history and give people a more complete understanding from which to make their choices. If you are interested in learning more about Dr. Humphries work you can email her too @ [[email redacted]](mailto:[email redacted]). [https://amicrowavedplanet.com/a-deadly-cocktail-vaccines-and-electromagnetic-radiation/](https://amicrowavedplanet.com/a-deadly-cocktail-vaccines-and-electromagnetic-radiation/)
 
 ### Jack Kruse — 2017-02-12T16:50:37+0200
 **Source:** <https://forum.jackkruse.com/threads/great-5g-article.19074/post-208453>
@@ -44139,7 +44139,7 @@ Sharing because it's FRIDAY (hope the link works copied and pasted):
 
 Hi there,
 
-Dawn Clark ([dawnclark32709@yahoo.com](mailto:dawnclark32709@yahoo.com)) invited you to view the file "**Margarita-Recipes-Revealed.pdf**" on Dropbox.
+Dawn Clark ([[email redacted]](mailto:[email redacted])) invited you to view the file "**Margarita-Recipes-Revealed.pdf**" on Dropbox.
 
 Dawn said:
 _"ebook"_
@@ -44223,7 +44223,7 @@ We survived a bunch of lightening and thunder and rain in quite a light tent las
 >
 > Hi there,
 >
-> Dawn Clark ([dawnclark32709@yahoo.com](mailto:dawnclark32709@yahoo.com)) invited you to view the file "**Margarita-Recipes-Revealed.pdf**" on Dropbox.
+> Dawn Clark ([[email redacted]](mailto:[email redacted])) invited you to view the file "**Margarita-Recipes-Revealed.pdf**" on Dropbox.
 >
 > Dawn said:
 > _"ebook"_

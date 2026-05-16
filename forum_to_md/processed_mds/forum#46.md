@@ -7935,7 +7935,7 @@ if youre not signed up for emails you won't get what we are doing!
 
 Dec is all about light too.
 
-### patgrif@hotmail.com — 2015-12-04T04:10:52+0200
+### [email redacted] — 2015-12-04T04:10:52+0200
 **Source:** <https://forum.jackkruse.com/threads/indoor-light-basics.17168/post-183250>
 
 > [Jack Kruse said:](/goto/post?id=183246)
@@ -8061,7 +8061,7 @@ As the time series goes on you'll see my vision for the sun because it is how ou
 
 That is the story behind the entire Quilt.
 
-### patgrif@hotmail.com — 2015-12-04T23:37:25+0200
+### [email redacted] — 2015-12-04T23:37:25+0200
 **Source:** <https://forum.jackkruse.com/threads/indoor-light-basics.17168/post-183330>
 
 > [Jack Kruse said:](/goto/post?id=183255)
@@ -17349,7 +17349,7 @@ BodyBio Fatty Acid Report (Doctor's Report)
 Telephone: 888.327.9554 (toll free)
 856.825.8338 (outside the US)
 Fax: 856.825.2143
-E-mail: [custserv@bodybio.net](mailto:custserv@bodybio.net)
+E-mail: [[email redacted]](mailto:[email redacted])
 
 When you call them, they will attempt to locate doctor in your neighborhood.
 \-----------------------------------------------------------------------------------
@@ -19002,7 +19002,7 @@ Very cool, literally! I used to make home-made cool packs using zip-locks filled
 
 For those who lack google skills like I typically do, the website is: [https://coolfatburner.com/](https://coolfatburner.com/)
 
-### blgolpe@aol.com — 2016-03-18T01:09:48+0200
+### [email redacted] — 2016-03-18T01:09:48+0200
 **Source:** <https://forum.jackkruse.com/threads/just-ordered-the-cool-fat-burner.17276/post-191107>
 
 What does that mean times 6?
@@ -19010,13 +19010,13 @@ What does that mean times 6?
 ### Rubicon — 2016-03-18T01:41:57+0200
 **Source:** <https://forum.jackkruse.com/threads/just-ordered-the-cool-fat-burner.17276/post-191109>
 
-> [blgolpe@aol.com said:](/goto/post?id=191107)
+> [[email redacted] said:](/goto/post?id=191107)
 >
 > What does that mean times 6?
 
 [https://www.jackkruse.com/time-6-time-and-dopamine/](https://www.jackkruse.com/time-6-time-and-dopamine/)
 
-### blgolpe@aol.com — 2016-03-22T12:21:39+0200
+### [email redacted] — 2016-03-22T12:21:39+0200
 **Source:** <https://forum.jackkruse.com/threads/just-ordered-the-cool-fat-burner.17276/post-191279>
 
 Ahhhhhhh! I see the light.
@@ -23075,7 +23075,7 @@ Hi Lisa ... or take an Easyjet to the Brits' favorite island in the med... and l
 
 Now there is something to add to your life! Beach. I get to go in 3 weeks! I need to recharge.
 
-### patgrif@hotmail.com — 2016-06-01T11:33:20+0300
+### [email redacted] — 2016-06-01T11:33:20+0300
 **Source:** <https://forum.jackkruse.com/threads/getting-off-adrenal-support.17316/post-195783>
 
 > [LisaLearning said:](/goto/post?id=195719)
@@ -23089,7 +23089,7 @@ For an understanding of the UK "rain, rain, rain" I would suggest looking at thi
 
 I saw a few posts on this ^^^^^^ that a friend sent me in a group he moderates. He asked me to comment on it but so far I have stayed quiet........
 
-### patgrif@hotmail.com — 2016-06-01T16:02:29+0300
+### [email redacted] — 2016-06-01T16:02:29+0300
 **Source:** <https://forum.jackkruse.com/threads/getting-off-adrenal-support.17316/post-195800>
 
 > [Jack Kruse said:](/goto/post?id=195784)
@@ -23103,7 +23103,7 @@ Dr K : I for one would be very interested in your take.
 
 EU is doing more and more bioengineering.......
 
-### patgrif@hotmail.com — 2016-06-01T19:09:13+0300
+### [email redacted] — 2016-06-01T19:09:13+0300
 **Source:** <https://forum.jackkruse.com/threads/getting-off-adrenal-support.17316/post-195816>
 
 > [Jack Kruse said:](/goto/post?id=195814)
@@ -23174,7 +23174,7 @@ Bayer has investment-grade ratings from S&P, Moody's and Fitch, but all three ag
 
 I'm going outside for a Dopamine fix.
 
-### patgrif@hotmail.com — 2016-06-02T20:12:09+0300
+### [email redacted] — 2016-06-02T20:12:09+0300
 **Source:** <https://forum.jackkruse.com/threads/getting-off-adrenal-support.17316/post-195886>
 
 > [Jack Kruse said:](/goto/post?id=195827)
@@ -25452,7 +25452,7 @@ put in a ticket and they will get you going. Welcome.
 ### optimizedprimate — 2016-01-04T20:26:16+0200
 **Source:** <https://forum.jackkruse.com/threads/new-gold-member.17327/post-185413>
 
-thanks jack. i emailed [support@jackkruse.com](mailto:support@jackkruse.com) and ive just submitted a ticket now #11709
+thanks jack. i emailed [[email redacted]](mailto:[email redacted]) and ive just submitted a ticket now #11709
 
 ### Jack Kruse — 2016-01-05T15:25:28+0200
 **Source:** <https://forum.jackkruse.com/threads/new-gold-member.17327/post-185469>
@@ -34031,7 +34031,7 @@ I eat about 1-2 tablespoons a day of salmon roe
 
 I love it... When I get it I eat it... yum!
 
-### curtwht@yahoo.com — 2016-01-17T17:20:19+0200
+### [email redacted] — 2016-01-17T17:20:19+0200
 **Source:** <https://forum.jackkruse.com/threads/any-one-eat-lots-of-caviar.17399/post-186574>
 
 [http://www.lokifish.com/collections/flash-frozen-ikura](http://www.lokifish.com/collections/flash-frozen-ikura) if you order four lbs. it is $128 with free shipping I like the 4 oz. jars I thaw them out once a week so they stay fresh and they are delicious.

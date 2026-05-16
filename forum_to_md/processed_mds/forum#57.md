@@ -22812,7 +22812,7 @@ Call
 [https://www.cignaturehealth.com/](https://www.cignaturehealth.com/)
 
 **1.800.208.0280**
-[info@cignaturehealth.com](mailto:info@cignaturehealth.com)
+[[email redacted]](mailto:[email redacted])
 
 Administrative Office
 839 1/2 S. Bundy Dr.
@@ -29414,7 +29414,7 @@ Anybody know a house EMF reader in south Florida?
 Hi I just used a guy I live in Miami he was reasonable and really nice and shows you everything with solutions
 
 **Eric Billitier** / BBEC, EMRS
-[561-855-4387](https://forum.jackkruse.com/tel:561-855-4387)/ [eric@aesolutions.info](mailto:eric@aesolutions.info)
+[561-855-4387](https://forum.jackkruse.com/tel:561-855-4387)/ [[email redacted]](mailto:[email redacted])
 
 **Axis Environmental Solutions LLC** Office: 561-855-4387 Business Hours: Monday – Friday 8:00 am – 7:00 pm Eastern Time, Saturday 10:00 am – 2:00 pm Eastern Time
 [http://aesolutions.info](http://aesolutions.info/)
@@ -31048,14 +31048,14 @@ It is in my health journal. I was bed bound and am now ambulatory!
 >
 > It is in my health journal. I was bed bound and am now ambulatory!
 
-Ask me anything or email me for the detailed Lymie version [AOHeise@gmail.com](mailto:AOHeise@gmail.com)
+Ask me anything or email me for the detailed Lymie version [[email redacted]](mailto:[email redacted])
 
 ### Cori — 2018-05-01T17:41:21+0300
 **Source:** <https://forum.jackkruse.com/threads/newbie-and-excited-to-be-here.21237/post-240289>
 
 > [Annemarie Heise said:](/goto/post?id=240286)
 >
-> Ask me anything or email me for the detailed Lymie version [AOHeise@gmail.com](mailto:AOHeise@gmail.com)
+> Ask me anything or email me for the detailed Lymie version [[email redacted]](mailto:[email redacted])
 
 I will have to read thru it this week to see what's helped you. Thanks for letting me know!
 
@@ -43282,9 +43282,9 @@ It would help all of us.
 I was redirected to this guy,
 and he does not answers emails or phones
 
-Taryn De Jong <TarynDeJong@eurofinsUS.com>
+Taryn De Jong <[email redacted]>
 
-[TarynDeJong@eurofinsUS.com](mailto:TarynDeJong@eurofinsUS.com)
+[[email redacted]](mailto:[email redacted])
 
 ### Phosphene — 2018-10-02T16:29:31+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-john-gordons-newest-cancer-pt.21299/post-252161>

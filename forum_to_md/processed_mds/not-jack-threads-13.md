@@ -7135,12 +7135,12 @@ Email Christy in the office
 ### JimBo99 — 2026-04-12T20:02:19+0300
 **Source:** <https://forum.jackkruse.com/threads/monthly-q-as.32543/post-370795>
 
-Is there an email address listed for support staff somewhere? Is it support [team@supportjackkruse.com](mailto:team@supportjackkruse.com)?
+Is there an email address listed for support staff somewhere? Is it support [[email redacted]](mailto:[email redacted])?
 
 ### Jojoplachta — 2026-04-12T20:43:47+0300
 **Source:** <https://forum.jackkruse.com/threads/monthly-q-as.32543/post-370798>
 
-You can try emailing christy [info@kruseatdestin.com](mailto:info@kruseardestin.com) but it may be too late to get in for today It's at 4pm EST and you need to register via an email, then once registered are sent a zoom link. If you're lucky she may be in office early enough to hook you up, elsewise watch for an email announcing May's
+You can try emailing christy [[email redacted]](mailto:[email redacted]) but it may be too late to get in for today It's at 4pm EST and you need to register via an email, then once registered are sent a zoom link. If you're lucky she may be in office early enough to hook you up, elsewise watch for an email announcing May's
 
 ### Support — 2026-04-12T22:19:09+0300
 **Source:** <https://forum.jackkruse.com/threads/monthly-q-as.32543/post-370808>
@@ -7490,7 +7490,7 @@ Hey Markus,
 
 When I was looking into having DDW shipped to Hawaii, I was emailing directly with Clayton from HydroHealth.
 
-[sales@extralightwater.com](mailto:sales@extralightwater.com)
+[[email redacted]](mailto:[email redacted])
 
 We didn't end up ordering a bulk shipment after all, but he was responsive and helpful in answering all my questions about pricing/quantities/shipment methods, etc.! Who knows, maybe he's a robot, lol (hard to say) - but I did not get scammy/AI vibes. Not sure what it would look like for international shipping, as they are out of Arizona but HH does offer a bulk discount.
 

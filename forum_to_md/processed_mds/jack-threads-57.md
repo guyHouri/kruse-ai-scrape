@@ -384,14 +384,14 @@ Send & receive money instantly.
 
 **Whats Up:** + 503 76705598
 
-**Email:** [jeremyfranramos@gmail.com](mailto:jeremyfranramos@gmail.com)
+**Email:** [[email redacted]](mailto:[email redacted])
 
 **Twitter:** @JeremyFranramos
 
 **Jeremy's Price list
 
 1\. Tour guide services: All inclusive for 24 hour service: $250.00 (all prices in USD and paid in advanced via Strike/Muun/Blue/BitcoinBeach/Chivo wallet)
-a. Strike user name wallet is [jeremyfranco@strike.me](mailto:jeremyfranco@strike.me) This is the PREFERRED METHOD of payment. If you do not have strike sign up for it using this link:
+a. Strike user name wallet is [[email redacted]](mailto:[email redacted]) This is the PREFERRED METHOD of payment. If you do not have strike sign up for it using this link:
 
 ### [Better money](https://invite.strike.me/BOZNFA)​
 
@@ -2015,7 +2015,7 @@ God said, let there be light, so optics was born. Einstein replied, “let it be
 ### betty harrell — 2022-01-06T23:33:46+0200
 **Source:** <https://forum.jackkruse.com/threads/dha-information-theory-thermodynamics-semiconduction.26319/post-308446>
 
-Please Send me a link to your studies , I am in FL. [lutzprincess@gmail.com](mailto:lutzprincess@gmail.com)
+Please Send me a link to your studies , I am in FL. [[email redacted]](mailto:[email redacted])
 
 ### betty harrell — 2022-01-06T23:39:21+0200
 **Source:** <https://forum.jackkruse.com/threads/dha-information-theory-thermodynamics-semiconduction.26319/post-308447>

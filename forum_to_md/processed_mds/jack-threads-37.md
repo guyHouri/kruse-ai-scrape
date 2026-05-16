@@ -6276,14 +6276,14 @@ A. The Commission is not an expert agency on all environmental matters. Therefor
 
 -   **Wilderness Area:** [U.S. Department of Interior](http://www.doi.gov/)
 -   **Wildlife Preserve:** [U.S. Department of Interior](http://www.doi.gov/)
--   **Endangered Species:** U.S. Department of Interior, [Fish and Wildlife Service](http://www.fws.gov/) You may also contact the Commission's staff biologist, Joelle Gehring, 202-418-2356, [Joelle.Gehring@fcc.gov](mailto:Joelle.Gehring@fcc.gov)
--   **Historic Property**: Contacts with the State Historic Preservation Officer and federally recognized Indian Tribes are required under the Nationwide Programmatic Agreement. For further assistance, contact the Commission's Federal Preservation Officer, Stephen DelSordo, 202-418-1986, [Stephen.Delsordo@fcc.gov](mailto:Stephen.Delsordo@fcc.gov)
--   **Indian Religious Site**: : Contact the Commission’s Federal Preservation Officer, Stephen DelSordo, 202-418-1986, [Stephen.Delsordo@fcc.gov](mailto:Stephen.Delsordo@fcc.gov), or Anne Marie Wypijewski, 717-338-2508, [Annemarie.wypijewski@fcc.gov](mailto:Annemarie.wypijewski@fcc.gov)
+-   **Endangered Species:** U.S. Department of Interior, [Fish and Wildlife Service](http://www.fws.gov/) You may also contact the Commission's staff biologist, Joelle Gehring, 202-418-2356, [[email redacted]](mailto:[email redacted])
+-   **Historic Property**: Contacts with the State Historic Preservation Officer and federally recognized Indian Tribes are required under the Nationwide Programmatic Agreement. For further assistance, contact the Commission's Federal Preservation Officer, Stephen DelSordo, 202-418-1986, [[email redacted]](mailto:[email redacted])
+-   **Indian Religious Site**: : Contact the Commission’s Federal Preservation Officer, Stephen DelSordo, 202-418-1986, [[email redacted]](mailto:[email redacted]), or Anne Marie Wypijewski, 717-338-2508, [[email redacted]](mailto:[email redacted])
 -   **Floodplain:** [Federal Emergency Management Agency](http://www.fema.gov/)
 -   **Surface Features:** [U.S. Army Corp of Engineers](http://www.usace.army.mil/)
 -   **High Intensity Lights in Residential Neighborhoods:** [Federal Aviation Administration](http://www.faa.gov/)
 -   **Excessive Radiofrequency Emission:** Federal Communications Commission's [Office of Engineering and Technology](https://www.fcc.gov/oet/)
--   **Migratory Birds:** U.S. Department of Interior, [Fish and Wildlife Service](http://www.fws.gov/) You may also contact the Commission's staff biologist, Joelle Gehring, 202-418-2356, [Joelle.Gehring@fcc.gov](mailto:Joelle.Gehring@fcc.gov)
+-   **Migratory Birds:** U.S. Department of Interior, [Fish and Wildlife Service](http://www.fws.gov/) You may also contact the Commission's staff biologist, Joelle Gehring, 202-418-2356, [[email redacted]](mailto:[email redacted])
 
 And:
 [https://apps.fcc.gov/edocs\_public/attachmatch/DA-11-192A1.pdf](https://apps.fcc.gov/edocs_public/attachmatch/DA-11-192A1.pdf)
@@ -22500,7 +22500,7 @@ If I were you I wouldn't hold out for an invitation to speak at the next WAPF co
 
 Cause and prevention of heart attacks or snark attacks?
 
-### patgrif@hotmail.com — 2015-08-13T16:48:50+0300
+### [email redacted] — 2015-08-13T16:48:50+0300
 **Source:** <https://forum.jackkruse.com/threads/cause-and-prevention-of-heart-attacks.16705/post-174595>
 
 > [nonchalant said:](/goto/post?id=174509)
@@ -30062,7 +30062,7 @@ Now Ubi 23 is live.........time to kick the doors down.
 
 Fecal transplants probiotics and ketosis are half truths when your cells are releasing ELF-UV. Change the environment and change your life. Simple.
 
-### patgrif@hotmail.com — 2015-08-29T16:45:43+0300
+### [email redacted] — 2015-08-29T16:45:43+0300
 **Source:** <https://forum.jackkruse.com/threads/the-biophysics-of-the-microbiome-state-of-affairs-2015.16769/post-176035>
 
 Dr Kruse: I realize i am repeating myself here but to come back to the question of vaccines. You said:

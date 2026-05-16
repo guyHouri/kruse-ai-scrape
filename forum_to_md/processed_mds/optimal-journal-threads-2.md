@@ -16466,7 +16466,7 @@ _But what I’m interested in is the effects on specific protein folding under d
 ### John Schumacher — 2022-09-01T20:04:22+0300
 **Source:** <https://forum.jackkruse.com/threads/granpa-johns-optimal-journal.23952/post-315373>
 
-[August 26, 2022](https://optimalklubs.com/what-makes-quantum-mechanics-so-queer/) by [info@kruseatdestin.com](https://optimalklubs.com/author/infokruseatdestin-com/) - WHAT MAKES QUANTUM MECHANICS SO QUEER?
+[August 26, 2022](https://optimalklubs.com/what-makes-quantum-mechanics-so-queer/) by [[email redacted]](https://optimalklubs.com/author/infokruseatdestin-com/) - WHAT MAKES QUANTUM MECHANICS SO QUEER?
 
 [https://optimalklubs.com/what-makes-quantum-mechanics-so-queer/](https://optimalklubs.com/what-makes-quantum-mechanics-so-queer/)
 
@@ -16532,7 +16532,7 @@ This perspective sees life as an ever-expanding opportunity to connect. It sees 
 
 > [John Schumacher said:](/goto/post?id=315373)
 >
-> [August 26, 2022](https://optimalklubs.com/what-makes-quantum-mechanics-so-queer/) by [info@kruseatdestin.com](https://optimalklubs.com/author/infokruseatdestin-com/) - WHAT MAKES QUANTUM MECHANICS SO QUEER?
+> [August 26, 2022](https://optimalklubs.com/what-makes-quantum-mechanics-so-queer/) by [[email redacted]](https://optimalklubs.com/author/infokruseatdestin-com/) - WHAT MAKES QUANTUM MECHANICS SO QUEER?
 >
 > [https://optimalklubs.com/what-makes-quantum-mechanics-so-queer/](https://optimalklubs.com/what-makes-quantum-mechanics-so-queer/)
 >

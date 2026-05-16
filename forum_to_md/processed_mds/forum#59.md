@@ -346,7 +346,7 @@ Moreover, I wanted science itself to provide me with "actual truth or proofs," n
 “Our kids, my kids included, we are subjecting them to one of the biggest social experiments we have seen in a long time,” she said. “What happens to my daughter if she can’t communicate over dinner — how is she going to find a spouse? How is she going to interview for a job?”
 “I have families now that go teetotal,” Dr. Burgert said. “They’re like, ‘That’s it, we’re done.’” [https://www.nytimes.com/2018/10/26/style/digital-divide-screens-schools.html](https://www.nytimes.com/2018/10/26/style/digital-divide-screens-schools.html)
 
-### gcnorbury@gmail.com — 2018-12-05T19:34:28+0200
+### [email redacted] — 2018-12-05T19:34:28+0200
 **Source:** <https://forum.jackkruse.com/threads/screen-time-and-melanopsin-in-kids.21570/post-257312>
 
 This is a great interview with Sam Vaknin discussing Social Media. He does not make the link with blue light, but does a good job of explaining the results that we now see today with the lost generation etc.
@@ -5236,12 +5236,12 @@ These are completely un-suplemented. I was hoping for closer to 80 ng/ml but I'm
 **Subforum:** Optimal Labs
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### cleerlite@yahoo.com — 2018-07-17T23:57:28+0300
+### [email redacted] — 2018-07-17T23:57:28+0300
 **Source:** <https://forum.jackkruse.com/threads/which-labs-to-begin-with.21655/post-246096>
 
 Hello friends.....Can someone give me a comprehensive list of labs to order. i have found a few listed at a time in various emails and posts. I am still confused. My 72 yr. brain needs help! Before I sign on for a consult with Dr. K I would like to have all the tests he needs to address my health issues. Thank you soooooo much!
 Susan Bohannon
-[cleerlite@yahoo.com](mailto:cleerlite@yahoo.com)
+[[email redacted]](mailto:[email redacted])
 
 ### JanSz — 2018-07-18T02:38:21+0300
 **Source:** <https://forum.jackkruse.com/threads/which-labs-to-begin-with.21655/post-246098>
@@ -10818,7 +10818,7 @@ continuous use
 it seems to give an slight edge to continuous use
 
 \-----------------------------
-The Center for Deuterium Depletion <info@cignaturehealth.com>
+The Center for Deuterium Depletion <[email redacted]>
 Newsletter: Tuesday, July 31 2018
 **The most current recommendations on body Deuterium content.**
 **in this video by dr Boros.**
@@ -23026,7 +23026,7 @@ Hi [@Dave Key](https://forum.jackkruse.com/members/21933/) I was looking to send
 >
 > Hi [@Dave Key](https://forum.jackkruse.com/members/21933/) I was looking to send you a private message about the rental, but it seems to be disabled on you profile...
 
-Email me at [key.dave.15@gmail.com](mailto:key.dave.15@gmail.com)
+Email me at [[email redacted]](mailto:[email redacted])
 
 ### Dave Key — 2019-08-06T22:32:45+0300
 **Source:** <https://forum.jackkruse.com/threads/playa-del-carmen-megathread.21799/post-275544>
@@ -27491,7 +27491,7 @@ More sun = more melatonin = less chance of leptin resistance. More time spent wi
 
 [https://www.bloomberg.com/news/arti...ystery-of-american-s-ailing-flight-attendants](https://www.bloomberg.com/news/articles/2017-01-18/the-mystery-of-american-s-ailing-flight-attendants)
 
-### gcnorbury@gmail.com — 2018-12-10T20:39:51+0200
+### [email redacted] — 2018-12-10T20:39:51+0200
 **Source:** <https://forum.jackkruse.com/threads/what-drives-this-need-blue-screens-do.21832/post-257737>
 
 Some typos in this:
@@ -34892,7 +34892,7 @@ well done ..  .. you could also do a balaclava in Winter haha
 > Welcome to this forum!
 > Emma.
 
-Hi there .. thanks so much for all of that .. I've made a note of everything you've said .. I'm in Pennant Hills (about 3/4 hr from Palm Beach) and intend to get to the beach more this summer .. I felt I knew quite a bit until I discovered Dr Kruse's work, and now so much to catch up with, and stuck in front of this screen to do most of it. I have day blockers for artificial light, but am waiting to find the best source for a night pair for total blue blocking .. with my prescription .. maybe RA Optics when they are ready, or Specsavers if I can get them to do it the way I instruct them to (they are telling me blue light toxicity is pseudo at the moment, so maybe I'll give them a miss) .. Never concern yourself with what others are thinking/saying .. keep it up with those sunrises, sunsets and as much as you can in between .. as Byron Katie says .. "what other people think of you is none of your business .. "  .. so don't give it headspace. I don't know if I'd go nude .. but I've looked at the Kiniki bikinis .. very tiny, and you can sun right through them (a Kruse recommendation). I would love to meet you one day, so hold that thought .. maybe for when summer hits, and in the meantime, please do let me know of any more products etc you discover, and I can do the same .. feel free to email me too as an alternative [cat0412@bigpond.com](mailto:cat0412@bigpond.com). I don't know anything about Icelandic water .. at the moment I'm restructuring distilled (I have a distiller) .. and I've posted everything I do.
+Hi there .. thanks so much for all of that .. I've made a note of everything you've said .. I'm in Pennant Hills (about 3/4 hr from Palm Beach) and intend to get to the beach more this summer .. I felt I knew quite a bit until I discovered Dr Kruse's work, and now so much to catch up with, and stuck in front of this screen to do most of it. I have day blockers for artificial light, but am waiting to find the best source for a night pair for total blue blocking .. with my prescription .. maybe RA Optics when they are ready, or Specsavers if I can get them to do it the way I instruct them to (they are telling me blue light toxicity is pseudo at the moment, so maybe I'll give them a miss) .. Never concern yourself with what others are thinking/saying .. keep it up with those sunrises, sunsets and as much as you can in between .. as Byron Katie says .. "what other people think of you is none of your business .. "  .. so don't give it headspace. I don't know if I'd go nude .. but I've looked at the Kiniki bikinis .. very tiny, and you can sun right through them (a Kruse recommendation). I would love to meet you one day, so hold that thought .. maybe for when summer hits, and in the meantime, please do let me know of any more products etc you discover, and I can do the same .. feel free to email me too as an alternative [[email redacted]](mailto:[email redacted]). I don't know anything about Icelandic water .. at the moment I'm restructuring distilled (I have a distiller) .. and I've posted everything I do.
 Thanks again, and yes, you are so lucky to be near the beach .. chilly now though  .. I used to live right on Curl Curl .. and that was truly icelandic in winters.
 take care
 C
@@ -40388,7 +40388,7 @@ Looking forward to connecting in Mexico. And looking forward to feeling better!!
 >
 > Looking forward to connecting in Mexico. And looking forward to feeling better!!
 
-Thank you Laurie. If you're interested in further dialogue, please feel free to email me at [anniedru@lardmouth.com](mailto:anniedru@lardmouth.com). I'd love to swap stories/solutions.
+Thank you Laurie. If you're interested in further dialogue, please feel free to email me at [[email redacted]](mailto:[email redacted]). I'd love to swap stories/solutions.
 
 ### Louise Roux — 2019-12-03T20:00:13+0200
 **Source:** <https://forum.jackkruse.com/threads/ready-to-relocate-to-playa-del-carmen.22046/post-283047>

@@ -5989,7 +5989,7 @@ The history of vaccination is more complicated than most people understand. The 
 The smallpox vaccines were made from pus scraped off of diseased cows’ belly sores, contaminated with disease matter from a variety of animals and in some cases, humans. The smallpox vaccine history is probably not what you think it is.
 Doctors and those administering vaccines are SUPPOSED to obtain “informed consent” before vaccinating. Informed consent is not possible because parents are not given all the information they would require in order to understand the most important issues.
 I DON'T CONSIDER IT MY PLACE TO TELL ANYONE WHETHER TO VACCINATE OR NOT. I NEVER TELL OR ADVISE PEOPLE NOT TO VACCINATE.
-As a physician, I believe it is my place to understand as much as I can about vaccine science and history and give people a more complete understanding from which to make their choices. If you are interested in learning more about Dr. Humphries work you can email her too @ [drsuzannehumphries@gmail.com](mailto:drsuzannehumphries@gmail.com). [https://amicrowavedplanet.com/a-deadly-cocktail-vaccines-and-electromagnetic-radiation/](https://amicrowavedplanet.com/a-deadly-cocktail-vaccines-and-electromagnetic-radiation/)
+As a physician, I believe it is my place to understand as much as I can about vaccine science and history and give people a more complete understanding from which to make their choices. If you are interested in learning more about Dr. Humphries work you can email her too @ [[email redacted]](mailto:[email redacted]). [https://amicrowavedplanet.com/a-deadly-cocktail-vaccines-and-electromagnetic-radiation/](https://amicrowavedplanet.com/a-deadly-cocktail-vaccines-and-electromagnetic-radiation/)
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -12921,7 +12921,7 @@ Kessler states:
 
 Maybe that is because it is the light environment that dictates what is wise to eat and not what is available by modern standards. This is what programs the mitochondrial nanomachines called cytochromes.
 
-### gcnorbury@gmail.com — 2018-11-24T16:05:37+0200
+### [email redacted] — 2018-11-24T16:05:37+0200
 **Source:** <https://forum.jackkruse.com/threads/why-diets-stump-experts.22546/post-256412>
 
 Nice clip.
@@ -25631,7 +25631,7 @@ The apartment offers wired (cabled) internet and a landline phone, which i've se
 
 Note: I do have a very sweet miniature golden doodle (hypoallergenic, friendly, and only 13 pounds) - so anyone who doesn't like dogs or who is allergic to dogs.... wouldn't be a good fit!
 
-If you have questions or if you're potentially interested in sharing this apartment for one or more calendar months starting in Feb, please PM me or email me at [kirstin.lynde@gmail.com](mailto:kirstin.lynde@gmail.com).
+If you have questions or if you're potentially interested in sharing this apartment for one or more calendar months starting in Feb, please PM me or email me at [[email redacted]](mailto:[email redacted]).
 
 To be fair, I'm doing first come first serve (assuming we've had a couple phone conversations to ensure mutual compatability!). I prefer female roommates but am not 100% on that. All other things being equal I'd also prefer roomates staying longer than 1 month - less turnover is easier!
 
@@ -34058,7 +34058,7 @@ This?
 Epi-PaleoRX Site 52.
 "Note: One should only use cold thermogenesis protocol if your VO2max is 25ml/kg/min."
 
-### gcnorbury@gmail.com — 2019-01-16T19:17:47+0200
+### [email redacted] — 2019-01-16T19:17:47+0200
 **Source:** <https://forum.jackkruse.com/threads/am-i-ready-for-cold-water-and-ice.22740/post-260514>
 
 > [Jack Kruse said:](/goto/post?id=260485)
@@ -34086,7 +34086,7 @@ Also to get under 25 Vo2max something must be radical wrong in young people. So 
 ### Jack Kruse — 2019-01-16T22:19:02+0200
 **Source:** <https://forum.jackkruse.com/threads/am-i-ready-for-cold-water-and-ice.22740/post-260545>
 
-> [gcnorbury@gmail.com said:](/goto/post?id=260514)
+> [[email redacted] said:](/goto/post?id=260514)
 >
 > Interesting. It is in the book, but in all these years reading/listening to your stuff, I don't think you've ever mentioned it. Is there a reason for its re-appearance?
 >
@@ -34952,14 +34952,14 @@ Not sure what you mean, Jack. How does one access the add on?
 ### Joseph Thia — 2018-12-24T07:14:26+0200
 **Source:** <https://forum.jackkruse.com/threads/2018-vermont-talk-and-gold-membership.22750/post-258870>
 
-Send an email to [support@jackkruse.com](mailto:support@jackkruse.com) to request for the link to the special discounted price for Gold/Platinum Klub Members for the Vermont 2018 talk.
+Send an email to [[email redacted]](mailto:[email redacted]) to request for the link to the special discounted price for Gold/Platinum Klub Members for the Vermont 2018 talk.
 
 ### Jack Kruse — 2018-12-24T17:18:46+0200
 **Source:** <https://forum.jackkruse.com/threads/2018-vermont-talk-and-gold-membership.22750/post-258901>
 
 He means that ^^^^^^ Don't expect a response over Xmas. Jack likes his people rested.
 
-### gcnorbury@gmail.com — 2018-12-27T13:45:27+0200
+### [email redacted] — 2018-12-27T13:45:27+0200
 **Source:** <https://forum.jackkruse.com/threads/2018-vermont-talk-and-gold-membership.22750/post-259045>
 
 Hello.

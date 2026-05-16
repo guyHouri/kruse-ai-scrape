@@ -2078,7 +2078,7 @@ Many thanks
 
 [https://jackkruse.com/faqs/](https://jackkruse.com/faqs/)
 
-please email our support team at [support@jackkruse.com](mailto:support@jackkruse.com)
+please email our support team at [[email redacted]](mailto:[email redacted])
 
 [@Jack Kruse](https://forum.jackkruse.com/members/1031/)
 
@@ -2089,7 +2089,7 @@ please email our support team at [support@jackkruse.com](mailto:support@jackkrus
 >
 > [https://jackkruse.com/faqs/](https://jackkruse.com/faqs/)
 >
-> please email our support team at [support@jackkruse.com](mailto:support@jackkruse.com)
+> please email our support team at [[email redacted]](mailto:[email redacted])
 >
 > [@Jack Kruse](https://forum.jackkruse.com/members/1031/)
 
@@ -9271,7 +9271,7 @@ The novel coronavirus has spread to 163 countries, causing lockdowns and forcing
 
 **Fragile** by Sting)
 
-\[img webkitattachmentid="8176e6a7-60a8-49d0-858f-af59f77798ab" title="Inline image" alt="Inline image" src="blob:[https://forum.jackkruse.com/9d5041eb-fb69-4f04-beeb-57c8304f4365](https://forum.jackkruse.com/9d5041eb-fb69-4f04-beeb-57c8304f4365)" class="ydp6af5ea9ayahoo-inline-image x-apple-edge-to-edge" data-id="" id="[a7c83ce4-69bc-14d9-d835-ef5397958a29@yahoo.com](mailto:a7c83ce4-69bc-14d9-d835-ef5397958a29@yahoo.com)" \_mf\_state="1" >
+\[img webkitattachmentid="8176e6a7-60a8-49d0-858f-af59f77798ab" title="Inline image" alt="Inline image" src="blob:[https://forum.jackkruse.com/9d5041eb-fb69-4f04-beeb-57c8304f4365](https://forum.jackkruse.com/9d5041eb-fb69-4f04-beeb-57c8304f4365)" class="ydp6af5ea9ayahoo-inline-image x-apple-edge-to-edge" data-id="" id="[[email redacted]](mailto:[email redacted])" \_mf\_state="1" >
 
 ### JanSz — 2020-03-21T14:18:33+0200
 **Source:** <https://forum.jackkruse.com/threads/post-by-er-doctor-about-coronavirus.24814/post-287775>
@@ -17041,7 +17041,7 @@ Hi Michael ........it sounds like you have complex issues. Are you going to do a
 
 Yes.
 
-I was told to email [info@jackkruse.com](mailto:info@jackkruse.com) to book a consult.
+I was told to email [[email redacted]](mailto:[email redacted]) to book a consult.
 
 Does that sound like the best way of going about it?
 
@@ -30098,14 +30098,14 @@ To live we must make 7400 liters (thousands) daily of matrix water when at rest.
 ### JanSz — 2020-08-10T15:00:30+0300
 **Source:** <https://forum.jackkruse.com/threads/lacking-mental-energy-7-days-in.25160/post-291459>
 
-[https://www.facebook.com/n/?permali...wxtuPk&n\_m=janszulczb@gmail.com&lloc=new\_view](https://www.facebook.com/n/?permalink.php&story_fbid=1172323246473698&id=100010881004678&aref=1597053688999238&medium=email&mid=5ac82c03bea74G5af35e49c527G5ac8309d1ed46G318&bcode=2.1597053692.AbyX0Eoyv6mjHwxtuPk&n_m=janszulczb%40gmail.com&lloc=new_view)
+[https://www.facebook.com/n/?permali...wxtuPk&n\_m=[email redacted]&lloc=new\_view](https://www.facebook.com/n/?permalink.php&story_fbid=1172323246473698&id=100010881004678&aref=1597053688999238&medium=email&mid=5ac82c03bea74G5af35e49c527G5ac8309d1ed46G318&bcode=2.1597053692.AbyX0Eoyv6mjHwxtuPk&n_m=janszulczb%40gmail.com&lloc=new_view)
 
 ### Matt Fowler — 2020-08-10T16:30:21+0300
 **Source:** <https://forum.jackkruse.com/threads/lacking-mental-energy-7-days-in.25160/post-291461>
 
 > [JanSz said:](/goto/post?id=291459)
 >
-> [https://www.facebook.com/n/?permalink.php&story\_fbid=1172323246473698&id=100010881004678&aref=1597053688999238&medium=email&mid=5ac82c03bea74G5af35e49c527G5ac8309d1ed46G318&bcode=2.1597053692.AbyX0Eoyv6mjHwxtuPk&n\_m=janszulczb@gmail.com&lloc=new\_view](https://www.facebook.com/n/?permalink.php&story_fbid=1172323246473698&id=100010881004678&aref=1597053688999238&medium=email&mid=5ac82c03bea74G5af35e49c527G5ac8309d1ed46G318&bcode=2.1597053692.AbyX0Eoyv6mjHwxtuPk&n_m=janszulczb%40gmail.com&lloc=new_view)
+> [https://www.facebook.com/n/?permalink.php&story\_fbid=1172323246473698&id=100010881004678&aref=1597053688999238&medium=email&mid=5ac82c03bea74G5af35e49c527G5ac8309d1ed46G318&bcode=2.1597053692.AbyX0Eoyv6mjHwxtuPk&n\_m=[email redacted]&lloc=new\_view](https://www.facebook.com/n/?permalink.php&story_fbid=1172323246473698&id=100010881004678&aref=1597053688999238&medium=email&mid=5ac82c03bea74G5af35e49c527G5ac8309d1ed46G318&bcode=2.1597053692.AbyX0Eoyv6mjHwxtuPk&n_m=janszulczb%40gmail.com&lloc=new_view)
 >
 > [View attachment 16312](https://forum.jackkruse.com/attachments/16312/)
 
@@ -31508,7 +31508,7 @@ yes, she had some good info regarding EMF's at home
 
 > [John Schumacher said:](/goto/post?id=291952)
 >
-> Could Christy at [support@jackkruse.com](mailto:support@jackkruse.com) help?
+> Could Christy at [[email redacted]](mailto:[email redacted]) help?
 
 Yes I think so ....Sarah stayed with Jack for a few months because of covid.
 Also contact Phil Escot on FB - England ......Carnivore and beyond, and Humans unleashed
@@ -32060,7 +32060,7 @@ This is all very complicated. But basics are gonna be always most important. Thi
 > This is all very complicated. But basics are gonna be always most important. Thing is to take precise steps to manage this condition. First I think we need to focus on stomach. Think it is cause of loss of appetite and huge constant pain. She is almost suicidal. Its tough.
 
 You can also put in a request for a consult with Jack ->
-[info@kruseatdestin.com](mailto:info@kruseatdestin.com)
+[[email redacted]](mailto:[email redacted])
 [https://kruseatdestin.com/1-hour-skype-consult-september-2020/](https://kruseatdestin.com/1-hour-skype-consult-september-2020/)
 
 ### Tom Win — 2020-09-23T01:45:56+0300
@@ -40867,7 +40867,7 @@ Because it is _**so stimulating**_ specifically for _improving cognitive brain f
 
 Hi all, I am selling 2 x magnetico pads for single beds as well as 1 x King bed magnetico pad(s). I am in Alberta, Canada, but could ship if someone is interested and willing to pay for shipping (obviously this would not be cheap as they are very heavy).
 The singles I'm selling for $700 CDN each (retail for approx $1275 CDN each) and the king for $1300 (retails for approx $2540 CDN).
-email me if interested: [brettbinette@gmail.com](mailto:brettbinette@gmail.com)
+email me if interested: [[email redacted]](mailto:[email redacted])
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -44446,7 +44446,7 @@ Hi Inger, you sound well (I EXPECTED YOU TO BE) i am a bit suspicious that it is
 >
 > /////////
 
-Posted on [October 1, 2020](https://optimalklubs.com/cpc-50-our-social-dilemma-does-how-we-communicate-give-bad-ideas-the-aura-of-truth/) by [info@kruseatdestin.com](https://optimalklubs.com/author/infokruseatdestin-com/)
+Posted on [October 1, 2020](https://optimalklubs.com/cpc-50-our-social-dilemma-does-how-we-communicate-give-bad-ideas-the-aura-of-truth/) by [[email redacted]](https://optimalklubs.com/author/infokruseatdestin-com/)
 **CPC #50: OUR SOCIAL DILEMMA: DOES HOW WE COMMUNICATE GIVE BAD IDEAS THE AURA OF TRUTH?**
 
 Do **predatory publishing and social media** have something in common that breeds the facade that bad ideas and science can, on the surface contain the **aura** of truth?
@@ -47129,7 +47129,7 @@ Same for me in ground floor govt offices, downtown, Bend, OR--almost passed out-
 
 Injectable Body Sensors Take Personal Chemistry to a Cell Phone Closer to Reality
 March 19, 2018
-Editor’s Note: The American Chemical Society is also issuing a press release today embargoed for 5am Eastern Time that can be requested at [newsroom@acs.org](mailto:newsroom@acs.org) or call 504-670-6721.
+Editor’s Note: The American Chemical Society is also issuing a press release today embargoed for 5am Eastern Time that can be requested at [[email redacted]](mailto:[email redacted]) or call 504-670-6721.
 NEW ORLEANS, March 19, 2018 — Up until now, local inflammation and scar tissue from the so-called “foreign body response” has prevented the development of in-body sensors capable of continuous, long-term monitoring of body chemistry. But today scientists are presenting results showing tiny biosensors that become one with the body have overcome this barrier, and stream data to a mobile phone and to the cloud for personal and medical use.
 “While fitness trackers and other wearables provide insights into our heart rate, respiration and other physical measures, they don’t provide information on the most important aspect of our health: our body’s chemistry,” explained Natalie Wisniewski, Ph.D. “Based on our ongoing studies, tissue-integrated sensor technology has the potential to enable wearables to live up to the promise of personalized medicine, revolutionizing the management of health in wellness and disease.” Dr. Wisniewski, who leads the team of biosensor developers, is the chief technology officer and co-founder of Profusa Inc., a San Francisco Bay Area-based life science company.
 The researchers are presenting their results today at the 255th National Meeting & Exposition of the American Chemical Society (ACS). ACS, the world’s largest scientific society, is holding the meeting here through Thursday. It features more than 13,000 presentations on a wide range of science topics.

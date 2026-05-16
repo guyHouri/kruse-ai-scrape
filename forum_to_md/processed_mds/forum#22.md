@@ -682,7 +682,7 @@ Thanks for any insights.....
 
 I have mine located in my bedroom for exactly the reason you gave...it's the room I spend the most time in. Plugging it into the ground system appears to enhance the coverage in my house, as I can feel the effects downstairs. When I walk in the door after a long day at work, I immediately feel a calming effect. That has been my experience so far. YMMV
 
-### opelecky@yahoo.com — 2013-05-17T03:51:40+0300
+### [email redacted] — 2013-05-17T03:51:40+0300
 **Source:** <https://forum.jackkruse.com/threads/schumann-generator.6621/post-86281>
 
 Howdy,
@@ -706,7 +706,7 @@ I can't say for sure if the Schumann unit is solely responsible for those improv
 ### Martin — 2013-05-18T15:59:15+0300
 **Source:** <https://forum.jackkruse.com/threads/schumann-generator.6621/post-86408>
 
-> [opelecky@yahoo.com said:](/goto/post?id=86281)
+> [[email redacted] said:](/goto/post?id=86281)
 >
 > Howdy,
 >
@@ -718,7 +718,7 @@ There are EMF's being emitted from these units, but at 7.83 that would seem to b
 
 I'd like to see some more trials and testing for effect on these Schumann generators. I'm intrigued.
 
-### opelecky@yahoo.com — 2013-05-20T03:14:42+0300
+### [email redacted] — 2013-05-20T03:14:42+0300
 **Source:** <https://forum.jackkruse.com/threads/schumann-generator.6621/post-86501>
 
 Ok. I understand that the frequency should be 7.83Hz otherwise what's the point, right? I was thinking more of some other stuff that comes with current like duty magnetism or something like this. I wonder if there are places that would have a decent return policy and let you try stuff somewhat like magnetico pad. I think that also have seen some battery operated ones on the web but I'm not sure.
@@ -881,7 +881,7 @@ Anyone else with anything else to chime in with? I appreciate the help guys!
 
 would you please post a link for that product if you don't mind? Thanks a lot!
 
-### opelecky@yahoo.com — 2013-05-31T03:52:47+0300
+### [email redacted] — 2013-05-31T03:52:47+0300
 **Source:** <https://forum.jackkruse.com/threads/schumann-generator.6621/post-87165>
 
 [http://www.earthpulsetechnologies.com/](http://www.earthpulsetechnologies.com/) I think this is the link. I was ready to buy Earthsafe Whole House device but now I'm intrigued by this one. I watched one video with the jumping dog but I'm not sure that I'm ready to buy yet...
@@ -2271,7 +2271,7 @@ I think Michael gave a brief description of what he does to ground a computer in
 
 You guys should see it in you inboxes by tomorrow! keep your eyes peeled!
 
-### opelecky@yahoo.com — 2013-04-10T02:30:24+0300
+### [email redacted] — 2013-04-10T02:30:24+0300
 **Source:** <https://forum.jackkruse.com/threads/grounding-computer-laptop-video.6646/post-83548>
 
 Did I miss it? I thought that we were supposed to get it today... Thanks.
@@ -2281,7 +2281,7 @@ Did I miss it? I thought that we were supposed to get it today... Thanks.
 
 I haven't seen it either. I also thought we'd have EMF webinar 2 to watch since I thought the Q&A was going to be on Thursday??
 
-### opelecky@yahoo.com — 2013-04-10T15:25:59+0300
+### [email redacted] — 2013-04-10T15:25:59+0300
 **Source:** <https://forum.jackkruse.com/threads/grounding-computer-laptop-video.6646/post-83600>
 
 Well, I was also hoping to see a recorded version of the first Q&A so that I could refresh my memory. It's been almost a week...
@@ -2665,7 +2665,7 @@ Yeah...I don't think there was a direct reference to moles just kind of a put th
 
 Yes Diane the warts! I forgot about that one....got to get my daughter to do that!
 
-### edance83@yahoo.com — 2013-04-06T03:56:12+0300
+### [email redacted] — 2013-04-06T03:56:12+0300
 **Source:** <https://forum.jackkruse.com/threads/23-year-old-toe-nail-fungus-spontaneously-resolving-with-full-on-ct-and-bab.6651/post-83073>
 
 Wonderful about the fungus!
@@ -2746,7 +2746,7 @@ Curves64, wow.. how interesting! I have a bro that has nail fungus too for many 
 
 EMF causes your immune system to power down and this allows all bacteria, fungi, and virus to fluorish.........this is why leaky gut is caused by EMF more than any reason and why the conventional and unconventional treatments often fail to do much long term until you get EMF serious about your conditions of existence.
 
-### edance83@yahoo.com — 2013-04-07T18:16:21+0300
+### [email redacted] — 2013-04-07T18:16:21+0300
 **Source:** <https://forum.jackkruse.com/threads/23-year-old-toe-nail-fungus-spontaneously-resolving-with-full-on-ct-and-bab.6651/post-83232>
 
 > [curves64 said:](/goto/post?id=83085)
@@ -3356,9 +3356,9 @@ My understanding - from an email I just got - it will be made available after fo
 ### tellmisty — 2013-04-07T17:16:51+0300
 **Source:** <https://forum.jackkruse.com/threads/webinar-q-a-recordings.6658/post-83225>
 
-Yes, it will be made available after. Email support to see if they can help you view it before the series ends: [support@jackkruse.com](mailto:support@jackkruse.com).
+Yes, it will be made available after. Email support to see if they can help you view it before the series ends: [[email redacted]](mailto:[email redacted]).
 
-### opelecky@yahoo.com — 2013-04-10T15:28:07+0300
+### [email redacted] — 2013-04-10T15:28:07+0300
 **Source:** <https://forum.jackkruse.com/threads/webinar-q-a-recordings.6658/post-83601>
 
 Did you mean after the series are over? Thanks.
@@ -3753,7 +3753,7 @@ KleinBobbie, amazing results...!!!  Thank you so much for sharing, very encourag
 
 Parallels what Kev found too......[http://www.jackkruse.com/cold-thermogenesis-11-paleo-fx-to-practice/](http://www.jackkruse.com/cold-thermogenesis-11-paleo-fx-to-practice/)
 
-### wallycourie@gmail.com — 2013-04-07T16:38:42+0300
+### [email redacted] — 2013-04-07T16:38:42+0300
 **Source:** <https://forum.jackkruse.com/threads/amazing-results-in-3-months.6662/post-83217>
 
 climbing out of the Klein Bottle, eh?
@@ -3798,7 +3798,7 @@ Thanks Caroline! Now that the new project is up and running online (feel free to
 ### Jack Kruse — 2013-05-20T15:05:05+0300
 **Source:** <https://forum.jackkruse.com/threads/amazing-results-in-3-months.6662/post-86528>
 
-> [klein.bobbi@gmail.com said:](/goto/post?id=86511)
+> [[email redacted] said:](/goto/post?id=86511)
 >
 > 1 month later and feeling better than ever. I have now found that my BUN/ creatine ratio has improved and is now 12! Na is 142 mmol/L (a little high). Body composition is slowly going down with increased CT and photoelectric effect (until I move to the ocean in the late Spring it is 2- 22 pound bags of ice while I am laying out in the sun). But best of all, my thinking has improved 100%, brain fog is gone from the fall, and I feel like I can accomplish anything. I have since quit a job that was not fulfilling and went all in working on my own business full time and rebranding it to do not only what I am good at, but what I am passionate about (creativity and making the impossible possible). Full launch of new rebranding is tomorrow, and I'm not worried at all. Scary, right? Without Dr. Kruse's help this would have just still been a dream because my thinking would still have been lacking and clouded with fear. This is no longer the case.
 >
@@ -3869,7 +3869,7 @@ What's that saying... ?
 ### nonchalant — 2013-06-05T16:07:35+0300
 **Source:** <https://forum.jackkruse.com/threads/amazing-results-in-3-months.6662/post-87536>
 
-> [klein.bobbi@gmail.com said:](/goto/post?id=86665)
+> [[email redacted] said:](/goto/post?id=86665)
 >
 > It's the same type of thing that we see when people are diagnosed with terminal illnesses. Some do not question whether there is another solution and just accept it. However, we turn and say, "Let's see if there is another answer out there."
 
@@ -5586,7 +5586,7 @@ FORYOU50 at Juil.com
 
 \*Offer valid while supplies last or until April 17, 2013 on the following styles - Holland, Napa, Mesa, Gaia, Mojanda, Vista, and Bali. Offer not valid on the Hera or Brio models.
 
-To make sure you continue receiving our emails to your inbox (not bulk or junk folders), please add [info@juil.com](mailto:info@juil.com) to your address book or safe sender list.
+To make sure you continue receiving our emails to your inbox (not bulk or junk folders), please add [[email redacted]](mailto:[email redacted]) to your address book or safe sender list.
 
 I picked up a 2nd pair!
 
@@ -5622,7 +5622,7 @@ Does anyone have the mesa style? just wondering how they are fitting? He tacks o
 
 I have two pair of the Vista and I love them! I am a half size so I was worried about the fit, but I just went on their recommendation to order the whole size down from my size (in that style) and they fit great! Very well made and the packaging is awesome!
 
-### kathiebu@hotmail.com — 2013-04-10T18:43:37+0300
+### [email redacted] — 2013-04-10T18:43:37+0300
 **Source:** <https://forum.jackkruse.com/threads/new-50-of-code-for-juil-grounding-sandals-valid-unitl-17-april-2013.6704/post-83622>
 
 Just ordered mine by phone, thanks for the code
@@ -5637,7 +5637,7 @@ Of course the offer is not valid on the one style I want - Brio! OK, I will wait
 
 Michael didn't say anything about shoes ... that is not his expertise, so his opinion wouldn't be an educated one anyhow (no disrespect, of course ... I just don't want members assuming he's an expert on that).
 
-### opelecky@yahoo.com — 2013-04-11T15:00:32+0300
+### [email redacted] — 2013-04-11T15:00:32+0300
 **Source:** <https://forum.jackkruse.com/threads/new-50-of-code-for-juil-grounding-sandals-valid-unitl-17-april-2013.6704/post-83735>
 
 If you walk on the pavement you can be barefoot and it won't do you any good as far as grounding goes. That's my understanding.
@@ -5804,7 +5804,7 @@ Reba
 
 So is this a recording as EMF via amazonaws or more in a QA on spree cast?
 
-### opelecky@yahoo.com — 2013-04-12T01:36:29+0300
+### [email redacted] — 2013-04-12T01:36:29+0300
 **Source:** <https://forum.jackkruse.com/threads/anyone-seen-emf-2-webinar.6706/post-83829>
 
 I just checked my spam folder. I didn't get any emails. Did you get an email w/the link? Thanks.
@@ -5814,7 +5814,7 @@ I just checked my spam folder. I didn't get any emails. Did you get an email w/t
 
 I did .....it was there this morning
 
-### opelecky@yahoo.com — 2013-04-12T01:54:32+0300
+### [email redacted] — 2013-04-12T01:54:32+0300
 **Source:** <https://forum.jackkruse.com/threads/anyone-seen-emf-2-webinar.6706/post-83832>
 
 Oh! Thanks, I'd better email Misty then.
@@ -6225,7 +6225,7 @@ My husband made one of these a year or more ago and we use it regularly for jerk
 **Subforum:** The EMF Rx
 **Posts:** 10
 ══════════════════════════════════════════════════════════════════════
-### opelecky@yahoo.com — 2013-04-10T15:39:40+0300
+### [email redacted] — 2013-04-10T15:39:40+0300
 **Source:** <https://forum.jackkruse.com/threads/grounding-question.6713/post-83604>
 
 Hi there,
@@ -7521,7 +7521,7 @@ Never settle for what might have been when you can create what you want to be. W
 
 [J Environ Public Health.](http://www.ncbi.nlm.nih.gov/pubmed/22291721#) 2012;2012:291541. doi: 10.1155/2012/291541. Epub 2012 Jan 12.
 \[h=1\]Earthing: health implications of reconnecting the human body to the Earth's surface electrons.\[/h\][Chevalier G](http://www.ncbi.nlm.nih.gov/pubmed?term=Chevalier%20G%5BAuthor%5D&cauthor=true&cauthor_uid=22291721), [Sinatra ST](http://www.ncbi.nlm.nih.gov/pubmed?term=Sinatra%20ST%5BAuthor%5D&cauthor=true&cauthor_uid=22291721), [Oschman JL](http://www.ncbi.nlm.nih.gov/pubmed?term=Oschman%20JL%5BAuthor%5D&cauthor=true&cauthor_uid=22291721), [Sokal K](http://www.ncbi.nlm.nih.gov/pubmed?term=Sokal%20K%5BAuthor%5D&cauthor=true&cauthor_uid=22291721), [Sokal P](http://www.ncbi.nlm.nih.gov/pubmed?term=Sokal%20P%5BAuthor%5D&cauthor=true&cauthor_uid=22291721).
-\[h=3\]Source\[/h\]Developmental and Cell Biology Department, University of California at Irvine, Irvine, CA 92697, USA. [dlbogc@sbcglobal.net](mailto:dlbogc@sbcglobal.net)
+\[h=3\]Source\[/h\]Developmental and Cell Biology Department, University of California at Irvine, Irvine, CA 92697, USA. [[email redacted]](mailto:[email redacted])
 
 \[h=3\]Abstract\[/h\]Environmental medicine generally addresses environmental factors with a negative impact on human health. However, emerging scientific research has revealed a surprisingly positive and overlooked environmental factor on health: direct physical contact with the vast supply of electrons on the surface of the Earth. Modern lifestyle separates humans from such contact. The research suggests that this disconnect may be a major contributor to physiological dysfunction and unwellness. Reconnection with the Earth's electrons has been found to promote intriguing physiological changes and subjective reports of well-being. Earthing (or grounding) refers to the discovery of benefits-including better sleep and reduced pain-from walking barefoot outside or sitting, working, or sleeping indoors connected to conductive systems that transfer the Earth's electrons from the ground into the body. This paper reviews the earthing research and the potential of earthing as a simple and easily accessed global modality of significant clinical importance.
 
@@ -7558,7 +7558,7 @@ Check out this video on grounding your computer, with Michael Neuert. Click [HER
 
 Thanks for posting! I have done this, and it definitely works. Makes me wonder why laptops aren't already grounded.
 
-### bugsy1950@gmail.com — 2013-05-06T16:39:01+0300
+### [email redacted] — 2013-05-06T16:39:01+0300
 **Source:** <https://forum.jackkruse.com/threads/grounding-your-computer-with-michael-neuert.6747/post-85514>
 
 I would like to try this, but surely this is for laptops only and when they are not plugged in at the wall socket?
@@ -7575,7 +7575,7 @@ The grounding cord Michael showed has three prongs, but only the ground is attac
 
 I used my Trimeter during the initial process. I had quite high electrical and magnetic readings before grounding. Now it is very low.
 
-### bugsy1950@gmail.com — 2013-05-07T12:23:49+0300
+### [email redacted] — 2013-05-07T12:23:49+0300
 **Source:** <https://forum.jackkruse.com/threads/grounding-your-computer-with-michael-neuert.6747/post-85561>
 
 Thanks for the reply, but I am still not sure if this means that having a 3 prong plug I do not need to go through the process and that I am safe for excessive EMF?
@@ -7585,7 +7585,7 @@ Thanks for the reply, but I am still not sure if this means that having a 3 pron
 
 Bugsy - I have 3 prong plugs as well - so the third one is the ground ...but when I asked one of the owners here they told me that they aren't actually hooked up and I would need to hire an electrician - just something to think about....
 
-### bugsy1950@gmail.com — 2013-05-08T11:54:03+0300
+### [email redacted] — 2013-05-08T11:54:03+0300
 **Source:** <https://forum.jackkruse.com/threads/grounding-your-computer-with-michael-neuert.6747/post-85622>
 
 The houses here are all wired with a third wire the "earth" so I presume I am OK.
@@ -7606,7 +7606,7 @@ And then plugging in the regular power cable when you're not next to it (to char
 
 Bugsy, if I understand you correctly, you're using a desktop computer and not a laptop. So unless your cabling is faulty, no further grounding should be necessary.
 
-### bugsy1950@gmail.com — 2013-05-08T18:14:45+0300
+### [email redacted] — 2013-05-08T18:14:45+0300
 **Source:** <https://forum.jackkruse.com/threads/grounding-your-computer-with-michael-neuert.6747/post-85646>
 
 Thank you both, I am using my laptop plugged in the regular power which I presume is earthed, I asked hubby what the inside of our wall plugs looked like and he said everything in our house has 3 cord wiring. So if I understand correctly the earthing of the laptop is only necessary when using it wireless? In that case I assume I am protected when it is plugged in at the wall.
@@ -7616,7 +7616,7 @@ Thank you both, I am using my laptop plugged in the regular power which I presum
 
 Your "brick" laptop power supply is grounded, but if you look at the cable going from the power supply to your laptop, you will see that it only has 2 wires in it. So the laptop itself is _NOT_ grounded in your current configuration, as I understand it.
 
-### bugsy1950@gmail.com — 2013-05-11T12:28:53+0300
+### [email redacted] — 2013-05-11T12:28:53+0300
 **Source:** <https://forum.jackkruse.com/threads/grounding-your-computer-with-michael-neuert.6747/post-85835>
 
 So no household appliances are grounded if I understand you? they all have only two wires in their cords. Then can someone explain to me the function of the earth wire in the wall plugs of your house, if nothing is actually grounded?
@@ -13199,7 +13199,7 @@ I ask bc over the years it's been brought up a few times with me but I'm not sur
 
 Sent from my iPad using Tapatalk HD
 
-### kjgraffin@yahoo.com — 2013-04-21T02:50:40+0300
+### [email redacted] — 2013-04-21T02:50:40+0300
 **Source:** <https://forum.jackkruse.com/threads/lyme.6830/post-84564>
 
 My only symptoms were inability to fix my adrenal fatigue and my thyroid issues. I don't have any of the typical symptoms. My Lyme was confirmed with a CD57. Doc said that the lowest she likes to see is 150. Mine was 16.
@@ -13213,7 +13213,7 @@ Are u feeling any better with treatment? Has it helped your adrenal and thyroid 
 
 Sent from my iPad using Tapatalk HD
 
-### kjgraffin@yahoo.com — 2013-04-22T01:33:12+0300
+### [email redacted] — 2013-04-22T01:33:12+0300
 **Source:** <https://forum.jackkruse.com/threads/lyme.6830/post-84585>
 
 Not yet but I am told it can take a while to see results. I am also working with a new doc for my thyroid and adrenal fatigue. Just added cytomel with my Armour and going to see how that works.
@@ -15318,7 +15318,7 @@ Much love to the chickens
 ### Martin — 2013-04-26T04:45:05+0300
 **Source:** <https://forum.jackkruse.com/threads/body-voltage-meter-experiences.6868/post-84854>
 
-> [lava.locks@yahoo.com said:](/goto/post?id=84788)
+> [[email redacted] said:](/goto/post?id=84788)
 >
 > Martin ~ Do you by any chance have a link for the grounding cord for the MacBook? I searched Apple but couldn't find what you are mentioning...thanks...Happy chicken hugging.
 
@@ -15527,7 +15527,7 @@ I will make an effort to visit my old neighborhood to get a reading and repot ba
 **Subforum:** Optimal Labs
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### kjgraffin@yahoo.com — 2013-04-25T19:58:20+0300
+### [email redacted] — 2013-04-25T19:58:20+0300
 **Source:** <https://forum.jackkruse.com/threads/elevated-liver-enzymes.6872/post-84799>
 
 We had our annual blood draw at work this month and I was pleased to see my CO2 and BUN levels have improved since I have not been drinking flouridated water. However, my liver enzymes, ALT & AST, are really elevated. They went from being in the 30s to being in the 50s.
@@ -17119,7 +17119,7 @@ HAHHAHA.... you have to understand.. Chris started the leptin reset long before 
 
 Congrats at your success! What amazing and dedicated parents you both are and incredibly courageous to look at a problem in a different way, even though those around you think you're losing it LOL. It is amazing when something makes so much sense to you, and you just can't understand why everyone else doesn't get it!
 
-### kathiebu@hotmail.com — 2013-04-28T21:22:41+0300
+### [email redacted] — 2013-04-28T21:22:41+0300
 **Source:** <https://forum.jackkruse.com/threads/welcome-to-my-world.6898/post-85030>
 
 Its great that you are now both in this journey together, and its amazing how quick and well your son is responding. If only you could get more support from your familly! But Im sure they will jump in once they realize how much better their grandson is doing.
@@ -18514,7 +18514,7 @@ I love how energized you sounds.. just so full of life  I do think the loose ski
 ### MrPinkies — 2013-06-08T20:05:42+0300
 **Source:** <https://forum.jackkruse.com/threads/welcome-to-my-world.6898/post-87810>
 
-Inger.. I think it's easier if you go to my profile page to see the picture... other wise, come find me on facebook.. lol (Kate Towler [kateatowler@gmail.com](mailto:kateatowler@gmail.com))
+Inger.. I think it's easier if you go to my profile page to see the picture... other wise, come find me on facebook.. lol (Kate Towler [[email redacted]](mailto:[email redacted]))
 
 ### MrPinkies — 2013-06-13T17:36:48+0300
 **Source:** <https://forum.jackkruse.com/threads/welcome-to-my-world.6898/post-88035>
@@ -19749,7 +19749,7 @@ I'm ordering today!
 **Subforum:** Beginners Area
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### bugsy1950@gmail.com — 2013-04-29T16:56:06+0300
+### [email redacted] — 2013-04-29T16:56:06+0300
 **Source:** <https://forum.jackkruse.com/threads/hypothyroid-but-always-hot-why-plus-other-questions.6918/post-85132>
 
 When every one around me is freezing I am very comfortable in my T shirt! In summer I suffer from the heat, but don't perspire too much - this has been going on for many years.
@@ -19805,7 +19805,7 @@ OK...will check back periodically.
 **Subforum:** Beginners Area
 **Posts:** 9
 ══════════════════════════════════════════════════════════════════════
-### bugsy1950@gmail.com — 2013-04-29T18:10:34+0300
+### [email redacted] — 2013-04-29T18:10:34+0300
 **Source:** <https://forum.jackkruse.com/threads/why-was-my-hypothyroid-thread-closed.6920/post-85140>
 
 I must be very stupid, but I don't understand Dr K's reply, what is a lab work up?
@@ -19835,7 +19835,7 @@ You need a baseline to see where you are at......
 
 not sure why that thread was closed..........
 
-### bugsy1950@gmail.com — 2013-04-30T13:57:32+0300
+### [email redacted] — 2013-04-30T13:57:32+0300
 **Source:** <https://forum.jackkruse.com/threads/why-was-my-hypothyroid-thread-closed.6920/post-85184>
 
 Hi Caroline,
@@ -19902,7 +19902,7 @@ there are specific threads for thyroid etc.issues and the iodine thread has a hu
 
 pm me if you want......
 
-### bugsy1950@gmail.com — 2013-05-01T15:59:01+0300
+### [email redacted] — 2013-05-01T15:59:01+0300
 **Source:** <https://forum.jackkruse.com/threads/why-was-my-hypothyroid-thread-closed.6920/post-85246>
 
 How can I reduce my TSH?
@@ -22092,7 +22092,7 @@ Agreed!...............
 **Subforum:** Meet and Greet
 **Posts:** 8
 ══════════════════════════════════════════════════════════════════════
-### bugsy1950@gmail.com — 2013-05-05T17:13:37+0300
+### [email redacted] — 2013-05-05T17:13:37+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-south-africa.6978/post-85477>
 
 I have visited this site many times in the last year, and realise that I have done things backwards - posted a few questions but never introduced myself.
@@ -22126,7 +22126,7 @@ Have a really great day - get out and enjoy the sun and sky and nature and see t
 
 Welcome!  I sometimes think free range meats are way better than organic, you might get game too? Like antelopes etc? I always choose wild instead of organic.. organic here at least means heavily grain fed..
 
-### bugsy1950@gmail.com — 2013-05-06T12:38:52+0300
+### [email redacted] — 2013-05-06T12:38:52+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-south-africa.6978/post-85507>
 
 > [caroline said:](/goto/post?id=85486)
@@ -22139,7 +22139,7 @@ Yes I have read both, I have read a lot.
 One thing though, I find myself all over the place, I don't quite know how to navigate the site, I start with one blog which is eg no3 and somehow land up on something completely different, in other words I never get the whole picture as I find myself jumping from blog to blog, maybe someone can give me an idea as to where and how to start.
 I have probably read 70% of the material, as to understanding it..well....60% of it LOL ! I do struggle so with the acronyms....
 
-### bugsy1950@gmail.com — 2013-05-06T12:43:11+0300
+### [email redacted] — 2013-05-06T12:43:11+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-south-africa.6978/post-85508>
 
 > [Inger said:](/goto/post?id=85503)
@@ -22224,7 +22224,7 @@ RobH
 **Subforum:** Beginners Area
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### bugsy1950@gmail.com — 2013-05-06T18:11:41+0300
+### [email redacted] — 2013-05-06T18:11:41+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-question.6981/post-85522>
 
 I can't bend over the sink due to a lower back ache, so I started CT 3 days ago by placing an ice brick wrapped in a cloth serviette on either side of my neck
@@ -22752,7 +22752,7 @@ I see a new Dr on Sat. I will be sure to tell her whats up to get feedback as we
 **Subforum:** Beginners Area
 **Posts:** 7
 ══════════════════════════════════════════════════════════════════════
-### bugsy1950@gmail.com — 2013-05-08T12:42:50+0300
+### [email redacted] — 2013-05-08T12:42:50+0300
 **Source:** <https://forum.jackkruse.com/threads/educating-myself.6991/post-85623>
 
 In which order should I read the blogs? I have read a lot but still have missing links, as I did not read them in sequence.
@@ -22782,7 +22782,7 @@ I think the best way to do this is to first start in the optimal journey or the 
 
 great advice Dali ...... as your knowledge increases ....it gets easier to go back and you take more on board.......
 
-### bugsy1950@gmail.com — 2013-05-09T14:03:03+0300
+### [email redacted] — 2013-05-09T14:03:03+0300
 **Source:** <https://forum.jackkruse.com/threads/educating-myself.6991/post-85723>
 
 Hi Shijin13, I went to the blog index and cannot find CT 7 under which section is it? Thanks
@@ -24176,7 +24176,7 @@ I brew my with a regular drip coffee pot/grinder but am super careful the coffee
 ### caroline — 2013-05-15T07:18:16+0300
 **Source:** <https://forum.jackkruse.com/threads/coffee.7032/post-86068>
 
-> [lava.locks@yahoo.com said:](/goto/post?id=86065)
+> [[email redacted] said:](/goto/post?id=86065)
 >
 > I brew my with a regular drip coffee pot/grinder but am super careful the coffee pot is mold free. I think Dave A. suggests using a press. I prefer CO over the MCT oil. I love mornings and BPC...
 
@@ -25153,7 +25153,7 @@ Trigger, that is an incredible success story. ~32 pounds in 3 months -- wow! How
 ### curves64 — 2013-05-15T05:50:30+0300
 **Source:** <https://forum.jackkruse.com/threads/committing-to-a-one-month-ct-experiment.7055/post-86060>
 
-> [lava.locks@yahoo.com said:](/goto/post?id=86058)
+> [[email redacted] said:](/goto/post?id=86058)
 >
 > Trigger..great news!!! I am totally interested about the skin tags...I have some sort of wart virus (TMI) spreading all over me. It's horrifying!!! lol
 >
@@ -28465,12 +28465,12 @@ Grizz
 **Subforum:** Beginners Area
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### pkall1@comcast.net — 2013-05-21T02:04:52+0300
+### [email redacted] — 2013-05-21T02:04:52+0300
 **Source:** <https://forum.jackkruse.com/threads/my-first-post-labs-are-in.7115/post-86568>
 
 Apparently I should not have posted.....no responses. Wow!
 
-### pkall1@comcast.net — 2013-05-21T02:12:15+0300
+### [email redacted] — 2013-05-21T02:12:15+0300
 **Source:** <https://forum.jackkruse.com/threads/my-first-post-labs-are-in.7115/post-86570>
 
 Deleted! Maybe I should not have posted this info. Just trying to figure out how this all works.
@@ -29175,7 +29175,7 @@ Should our 30 grams of carbs be eating in the morning or the evening on the lept
 **Subforum:** Optimal Labs
 **Posts:** 7
 ══════════════════════════════════════════════════════════════════════
-### pkall1@comcast.net — 2013-05-24T17:27:32+0300
+### [email redacted] — 2013-05-24T17:27:32+0300
 **Source:** <https://forum.jackkruse.com/threads/my-first-labs.7150/post-86791>
 
 50 year old Male (5â€™8â€￾, 168 pounds) Has a small pot belly, lower portion of body is lean, arms, chest and waist show signs of very slight sagging. Currently is not on a consistent exercise regimen. Walks occasionally.
@@ -29214,7 +29214,7 @@ For one month took 25,000 IUâ€™s of Vitamin D. Currently on 10,000 and will
 
 Thank you for any insight.
 
-### pkall1@comcast.net — 2013-05-24T17:30:08+0300
+### [email redacted] — 2013-05-24T17:30:08+0300
 **Source:** <https://forum.jackkruse.com/threads/my-first-labs.7150/post-86792>
 
 Adding:
@@ -29225,7 +29225,7 @@ Sex Hormone range should be 10-50 nmol.L
 ### Dextery — 2013-05-24T21:56:58+0300
 **Source:** <https://forum.jackkruse.com/threads/my-first-labs.7150/post-86801>
 
-> [pkall1@comcast.net said:](/goto/post?id=86791)
+> [[email redacted] said:](/goto/post?id=86791)
 >
 > 50 year old Male (5’8”, 168 pounds) Has a small pot belly, lower portion of body is lean, arms, chest and waist show signs of very slight sagging. Currently is not on a consistent exercise regimen. Walks occasionally.
 >
@@ -29293,7 +29293,7 @@ Are you doing the leptin reset? Are you paying attention to light cycles? have y
 ### Shijin13 — 2013-05-25T01:20:54+0300
 **Source:** <https://forum.jackkruse.com/threads/my-first-labs.7150/post-86817>
 
-> [pkall1@comcast.net said:](/goto/post?id=86791)
+> [[email redacted] said:](/goto/post?id=86791)
 >
 > 50 year old Male (5’8”, 168 pounds) Has a small pot belly, lower portion of body is lean, arms, chest and waist show signs of very slight sagging. Currently is not on a consistent exercise regimen. Walks occasionally.
 >
@@ -29349,7 +29349,7 @@ as JanSz says "I'm not a Doctor" but I have figure out how to help myself!
 ### JanSz — 2013-05-25T02:00:29+0300
 **Source:** <https://forum.jackkruse.com/threads/my-first-labs.7150/post-86822>
 
-> [pkall1@comcast.net said:](/goto/post?id=86791)
+> [[email redacted] said:](/goto/post?id=86791)
 >
 > 50 year old Male (5’8”, 168 pounds) Has a small pot belly, lower portion of body is lean, arms, chest and waist show signs of very slight sagging. Currently is not on a consistent exercise regimen. Walks occasionally.
 >
@@ -29387,7 +29387,7 @@ as JanSz says "I'm not a Doctor" but I have figure out how to help myself!
 >
 > Thank you for any insight.
 
-> [pkall1@comcast.net said:](/goto/post?id=86792)
+> [[email redacted] said:](/goto/post?id=86792)
 >
 > Adding:
 >
@@ -29568,7 +29568,7 @@ latter
 
 ...
 
-### pkall1@comcast.net — 2013-05-25T21:15:14+0300
+### [email redacted] — 2013-05-25T21:15:14+0300
 **Source:** <https://forum.jackkruse.com/threads/my-first-labs.7150/post-86845>
 
 Thank you Caroline, Dex, Shijin, and JanSz! I appreciate all of your help..... now we are able to re hash and digest this info this weekend and will get back with probably questions and with direction we are going to take. Seriously considering shopping for a new Doctor.
@@ -29669,7 +29669,7 @@ I think you will also like this biochemistry website!
 **Subforum:** Optimal Labs
 **Posts:** 10
 ══════════════════════════════════════════════════════════════════════
-### pkall1@comcast.net — 2013-05-24T18:39:12+0300
+### [email redacted] — 2013-05-24T18:39:12+0300
 **Source:** <https://forum.jackkruse.com/threads/labs-for-a-49-year-old-female.7154/post-86799>
 
 Iâ€™m a 49 year old female. I currently weigh 187 pounds. I have been overweight most of my life. Morbidly Obese for 11 years. With in the last two years have lost 90 pounds (the hard way). In high school (1980-81) I had my appendix removed. 1982 I was in an accident where a fell out of a moving truck as it tipped over. (Didnâ€™t realize that affected me until I went to a naturopathic doctor and reading, recently, Dr. Kruse article about concussions.) In 1986 I had a thyroid storm (over active thyroid) I did not choose removal surgery. I had asthma 2-3 years agoâ€¦..no longer have it (thatâ€™s when I started to research about health and made dietary changes).
@@ -29725,7 +29725,7 @@ Keep reading and asking questions and we will all try to help. If you are 100% c
 
 We are all looking for our own n=1 - it takes time and this journey is not linear - but there are lots of amazing successes.
 
-### pkall1@comcast.net — 2013-05-24T23:51:42+0300
+### [email redacted] — 2013-05-24T23:51:42+0300
 **Source:** <https://forum.jackkruse.com/threads/labs-for-a-49-year-old-female.7154/post-86808>
 
 Yes....I'm doing the leptin reset. Eating Paleo. Started CT baths 2 weeks ago. Turned off Wifi. Getting in the habit of turning off the lights and wearing the glasses at night.
@@ -29740,7 +29740,7 @@ Thanks Caroline!
 I think you have made a great start!! that is awesome! Are you eating epi-paleo tho?
 Grounding is extremely important too. Do you live near an ocean?
 
-### pkall1@comcast.net — 2013-05-25T00:10:07+0300
+### [email redacted] — 2013-05-25T00:10:07+0300
 **Source:** <https://forum.jackkruse.com/threads/labs-for-a-49-year-old-female.7154/post-86811>
 
 My way of grounding.....going outside barefooted. I do not live near an Ocean. I wish! I'm working on instituting all elements of epi-paleo.....work in progress!
@@ -29748,7 +29748,7 @@ My way of grounding.....going outside barefooted. I do not live near an Ocean. I
 ### Dextery — 2013-05-25T00:22:22+0300
 **Source:** <https://forum.jackkruse.com/threads/labs-for-a-49-year-old-female.7154/post-86812>
 
-> [pkall1@comcast.net said:](/goto/post?id=86799)
+> [[email redacted] said:](/goto/post?id=86799)
 >
 > Iâ€™m a 49 year old female. I currently weigh 187 pounds. I have been overweight most of my life. Morbidly Obese for 11 years. With in the last two years have lost 90 pounds (the hard way). In high school (1980-81) I had my appendix removed. 1982 I was in an accident where a fell out of a moving truck as it tipped over. (Didnâ€™t realize that affected me until I went to a naturopathic doctor and reading, recently, Dr. Kruse article about concussions.) In 1986 I had a thyroid storm (over active thyroid) I did not choose removal surgery. I had asthma 2-3 years agoâ€¦..no longer have it (thatâ€™s when I started to research about health and made dietary changes).
 > Currently, I get up and go to the bathroom at night (at least one time)â€¦.on occasion I sleep through the night. I realize Iâ€™m dehydrated on the cellular level. I wake up between 4-5:30 am. Usually get to bed by 9 pm.
@@ -29812,7 +29812,7 @@ You have a roadmap given to you by Dr K. Determine your goals and objectives and
 ### Shijin13 — 2013-05-25T01:10:11+0300
 **Source:** <https://forum.jackkruse.com/threads/labs-for-a-49-year-old-female.7154/post-86815>
 
-> [pkall1@comcast.net said:](/goto/post?id=86799)
+> [[email redacted] said:](/goto/post?id=86799)
 >
 > I’m a 49 year old female. I currently weigh 187 pounds. I have been overweight most of my life. Morbidly Obese for 11 years. With in the last two years have lost 90 pounds (the hard way). In high school (1980-81) I had my appendix removed. 1982 I was in an accident where a fell out of a moving truck as it tipped over. (Didn’t realize that affected me until I went to a naturopathic doctor and reading, recently, Dr. Kruse article about concussions.) In 1986 I had a thyroid storm (over active thyroid) I did not choose removal surgery. I had asthma 2-3 years ago…..no longer have it (that’s when I started to research about health and made dietary changes).
 > Currently, I get up and go to the bathroom at night (at least one time)….on occasion I sleep through the night. I realize I’m dehydrated on the cellular level. I wake up between 4-5:30 am. Usually get to bed by 9 pm.
@@ -29864,7 +29864,7 @@ focus on eating Epi-paleo following the Leptin prescription format BAB - lunch 4
 
 and of course ask questions....
 
-### pkall1@comcast.net — 2013-05-25T21:16:42+0300
+### [email redacted] — 2013-05-25T21:16:42+0300
 **Source:** <https://forum.jackkruse.com/threads/labs-for-a-49-year-old-female.7154/post-86846>
 
 Thank you everyone! Awesome, awesome insight. I have questions but so busy this weekend.....so I will get back with the questions. Thank you....again!
@@ -32655,7 +32655,7 @@ John
 
 John
 
-I'm not sure why your posts are continuing to be moderated. send a msg to [support@jackkruse.com](mailto:support@jackkruse.com) to see they can figure it out....
+I'm not sure why your posts are continuing to be moderated. send a msg to [[email redacted]](mailto:[email redacted]) to see they can figure it out....
 
 ### fireforlunch — 2013-05-31T18:14:07+0300
 **Source:** <https://forum.jackkruse.com/threads/replies-not-getting-posted.7215/post-87196>
@@ -32666,7 +32666,7 @@ Thanks, I'll give that a shot
 >
 > John
 >
-> I'm not sure why your posts are continuing to be moderated. send a msg to [support@jackkruse.com](mailto:support@jackkruse.com) to see they can figure it out....
+> I'm not sure why your posts are continuing to be moderated. send a msg to [[email redacted]](mailto:[email redacted]) to see they can figure it out....
 
 ### caroline — 2013-06-01T07:26:20+0300
 **Source:** <https://forum.jackkruse.com/threads/replies-not-getting-posted.7215/post-87238>
@@ -32682,7 +32682,7 @@ Thanks so much, all fixed now
 >
 > John
 >
-> I'm not sure why your posts are continuing to be moderated. send a msg to [support@jackkruse.com](mailto:support@jackkruse.com) to see they can figure it out....
+> I'm not sure why your posts are continuing to be moderated. send a msg to [[email redacted]](mailto:[email redacted]) to see they can figure it out....
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -34794,7 +34794,7 @@ Yea I've tried probiotics and various things to feed the gut flora but it makes 
 ### seanb4 — 2013-06-06T19:37:22+0300
 **Source:** <https://forum.jackkruse.com/threads/bloating-dependent-purely-on-volume-of-food-drink.7230/post-87639>
 
-> [klein.bobbi@gmail.com said:](/goto/post?id=87493)
+> [[email redacted] said:](/goto/post?id=87493)
 >
 > Hi Sean,
 >
@@ -37917,7 +37917,7 @@ My DHEA has actually improved a lot in 4 months, I think. I can't figure out how
 ### endless — 2013-06-06T17:12:47+0300
 **Source:** <https://forum.jackkruse.com/threads/current-labs-some-input-appreciated.7240/post-87627>
 
-Hey Gretchen, could you possible email me that image? I can't get it to open large enough to see it. [kristanenn@gmail.com](mailto:kristanenn@gmail.com)
+Hey Gretchen, could you possible email me that image? I can't get it to open large enough to see it. [[email redacted]](mailto:[email redacted])
 
 Thanks!
 
@@ -37926,7 +37926,7 @@ Thanks!
 
 > [endless said:](/goto/post?id=87627)
 >
-> Hey Gretchen, could you possible email me that image? I can't get it to open large enough to see it. [kristanenn@gmail.com](mailto:kristanenn@gmail.com)
+> Hey Gretchen, could you possible email me that image? I can't get it to open large enough to see it. [[email redacted]](mailto:[email redacted])
 >
 > Thanks!
 
@@ -39300,7 +39300,7 @@ Hemming, I believe the useful magnetic field extends about 4 feet above the pad,
 **Subforum:** Optimal Kids
 **Posts:** 5
 ══════════════════════════════════════════════════════════════════════
-### trishalinn@gmail.com — 2013-06-06T20:03:10+0300
+### [email redacted] — 2013-06-06T20:03:10+0300
 **Source:** <https://forum.jackkruse.com/threads/low-blood-sugar.7257/post-87640>
 
 My 3 youngest kids recently had a pediatrician visit and had some routine blood work done. Their doctor called me because she is a bit concerned about their blood sugar. They all had low blood sugar - 59, 55, and 46. Any thoughts on why their blood sugar would be so low?
@@ -39314,7 +39314,7 @@ Liver leptin resistance? Your liver needs leptin in order to increase blood suga
 
 [http://www.jackkruse.com/leptin-part-deux-the-liver/](http://www.jackkruse.com/leptin-part-deux-the-liver/)
 
-### trishalinn@gmail.com — 2013-06-06T22:02:14+0300
+### [email redacted] — 2013-06-06T22:02:14+0300
 **Source:** <https://forum.jackkruse.com/threads/low-blood-sugar.7257/post-87656>
 
 I highly doubt the kids are leptin resistent. Especially the youngest. They don't eat sugar or grains at all. A mostly paleo diet, but we do eat dairy.
@@ -39886,7 +39886,7 @@ Until then if I drink a gallon a day that's only around $10/month for $.37/gallo
 >
 > One could collect rain and then run it through a carbon filter if desired.
 
-### joangtaylor@gmail.com — 2013-06-10T17:43:46+0300
+### [email redacted] — 2013-06-10T17:43:46+0300
 **Source:** <https://forum.jackkruse.com/threads/affordable-options-for-flouride-free-water-ideas.7306/post-87922>
 
 Did I see somewhere on this forum where Dr. Kruse said that something in coffee blocks absorption of flouride, or should i be making coffee with spring water, too?
@@ -41560,7 +41560,7 @@ Your T3 appears to be very low, and you don't include reference ranges for your 
 
 You have symptoms and (possibly) labs consistent with hypothyroidism. If you're on Facebook, find Stop The Thyroid Madness on there and join the group. I'm learning a lot from those folks - you can post your labs (with reference ranges) and others who know more about this than you or me will comment and interpret for you. Not as good as a doc, perhaps, but in some ways better. Good luck.
 
-### gsteppe14@gmail.com — 2013-08-21T08:08:43+0300
+### [email redacted] — 2013-08-21T08:08:43+0300
 **Source:** <https://forum.jackkruse.com/threads/labs.7336/post-93327>
 
 You have T3, not FT3, but when your T3 is that low, I believe you can infer that your FT3 would also be low. Your endo should be concerned. Limited T4 to T3 transfer and hence you have hypothyroid symptoms, despite your TSH. If you are obese or have inflammation, your low T3 may not be reflected in your pituitary's TSH. Your tissue T3 is low; your pituitary T3 isn't. So your TSH seems normal but that doesn't mean you're not hypothyroid. So in this case, you really have to go by FT3. Get your FT3 and RevT3 measured. But it's obvious that FT3 will be low and RT3 will be high.
@@ -42299,7 +42299,7 @@ About the Thunderbolts Project - An interdisciplinary collaboration of accredite
 
 Natural Philosophy Alliance
 Tel: 310-991-5744
-[david@worldnpa.org](mailto:david@worldnpa.org)
+[[email redacted]](mailto:[email redacted])
 Mikamar Publishing
 
 16871 SE 80th Pl
@@ -42509,7 +42509,7 @@ chronic yeast/candida infections are a sign of leaky gut. you need to work on he
 
 take some time and read BG9 - its got some info here that I think might be of value to your given situation [http://www.jackkruse.com/brain-gut-9-what-really-killed-michael-jackson/](http://www.jackkruse.com/brain-gut-9-what-really-killed-michael-jackson/)
 
-### mjbrwntexas@yahoo.com — 2013-06-17T19:50:55+0300
+### [email redacted] — 2013-06-17T19:50:55+0300
 **Source:** <https://forum.jackkruse.com/threads/cymbalta-and-withdrawal-ugh-i-feel-worse-than-ever.7363/post-88261>
 
 My son had a terrible time getting off this class of drugs. First he was on effexor for anxiety, and he grew mean and unsympathetic while on it. So he got off of that, but was depressed from the withdrawal (we had no idea at the time that that was why he was feeling so bad). So the doctor put him on Paxil and Xanax. He turned into a zombie on those. When we realized that the drugs were making him worse, and not really helping him, we took 6 months to lower the dose slowly to get him off of them. He had terrible withdrawal from coming off of the drug, including mood swings, sexual dysfunction, etc. I have heard that it is similar to withdrawal from heroin. We later discovered that we should have taken at least a year or more. A pharmacist has to make a liquid form of the drug you are taking, to allow you to lower the dose slowly over time (you're supposed to lower the \*current\* dose 10% every three weeks, and this can take a year or more to get to zero). The reason for such a long withdrawal period of up to two years is because these drugs have caused your brain to go haywire making receptors for seratonin and other stuff. It takes that long for your brain to repair itself. This isn't going to happen overnight. It WILL happen, but it takes a long time.

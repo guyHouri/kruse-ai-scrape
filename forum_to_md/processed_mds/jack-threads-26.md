@@ -2426,7 +2426,7 @@ Time for me to go out and do some paddock maintenance with the horses . . . mayb
 
 I am learning to like you ... just as you are.........
 
-### patgrif@hotmail.com — 2014-04-15T11:23:03+0300
+### [email redacted] — 2014-04-15T11:23:03+0300
 **Source:** <https://forum.jackkruse.com/threads/epic-q-a-the-electric-company.10533/post-121599>
 
 Some of my 'takeaways' hope they are somewhat on the mark. How important fat is, specifically sub cutaneous fat, it was from that the brain and immune system were built. As primates of course we had a rudimentary brain but the human brain is a whole other 'kettle of fish' literally it seems. Question is is similar with the immune system? What I mean is primates I am sure have an immune system also but is the human one again of a different order of complexity?
@@ -2447,7 +2447,7 @@ I am still struggling with transition metals too....
 ### Jack Kruse — 2014-04-15T15:26:22+0300
 **Source:** <https://forum.jackkruse.com/threads/epic-q-a-the-electric-company.10533/post-121625>
 
-> [patgrif@hotmail.com said:](/goto/post?id=121599)
+> [[email redacted] said:](/goto/post?id=121599)
 >
 > Some of my 'takeaways' hope they are somewhat on the mark. How important fat is, specifically sub cutaneous fat, it was from that the brain and immune system were built. As primates of course we had a rudimentary brain but the human brain is a whole other 'kettle of fish' literally it seems. Question is is similar with the immune system? What I mean is primates I am sure have an immune system also but is the human one again of a different order of complexity?
 >
@@ -2470,7 +2470,7 @@ Looking fwd to hearing the Q&A
 
 NASA is going to be studying twins.... it will be interesting to see if they lay it all out once the results are in... [http://www.space.com/24985-nasa-identical-astronaut-twins-science.html](http://www.space.com/24985-nasa-identical-astronaut-twins-science.html)
 
-### patgrif@hotmail.com — 2014-04-15T18:26:53+0300
+### [email redacted] — 2014-04-15T18:26:53+0300
 **Source:** <https://forum.jackkruse.com/threads/epic-q-a-the-electric-company.10533/post-121668>
 
 Dr Kruse: so are you saying I should not go in the sun. I was diagnosed at T2D in 2003, I have never taken any medication, I have no complications of any kind that I am aware of my fasting BS reading at times been in the '90 and even in the '80's a few times but have not been testing myself recently. BTW that picture of me was taken in 2007 I do have less of a stomack now..............so I am a little confused now. Going in the sun FEELS very good and isn't it also going to help improve me 'redox potential' I mean I am also doing all the other stuff CT, clean water, have a mageteco, basically a keto diet, hiking and walking........sometimes I feel you 'pick' on me but I suppose it's because you care, that's what I tell myself anyway. I do trust your science very much I have totally changed what I do as a result but can only do and 'understand' what I can. I have to start here!
@@ -2505,7 +2505,7 @@ I dont pick on you.......i want you to understand this. Less philosophy more sci
 
 Did this more for my benefit Patrick! Just a reminder that we are all titanics turning around slowly......with emf's braking our intended turn! How's your Vit D level?
 
-### patgrif@hotmail.com — 2014-04-16T05:54:29+0300
+### [email redacted] — 2014-04-16T05:54:29+0300
 **Source:** <https://forum.jackkruse.com/threads/epic-q-a-the-electric-company.10533/post-121786>
 
 That's cool Jude. I don't have ANY labs I mentioned else where I do not have health insurance at this point. But I think I will get some labs done soon.
@@ -2548,7 +2548,7 @@ There is no nature in LA or any other big city where you can recharge. In Irelan
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### patgrif@hotmail.com — 2014-04-16T16:03:59+0300
+### [email redacted] — 2014-04-16T16:03:59+0300
 **Source:** <https://forum.jackkruse.com/threads/epic-q-a-the-electric-company.10533/post-121852>
 
 Thank you Dr Kruse. I don't know where you get the time! Have you figured out some 'quantum magic' where you can be about 10 places at once! Anyway I appreciate you well wishes and even though in Ireland I will be in touch with 'Kruseworld'
@@ -2590,7 +2590,7 @@ BOOM
 
 The Earth is your natural magnetico.......if you live in a city a magnetico slows the rate of electron loss
 
-### patgrif@hotmail.com — 2014-04-16T17:48:25+0300
+### [email redacted] — 2014-04-16T17:48:25+0300
 **Source:** <https://forum.jackkruse.com/threads/epic-q-a-the-electric-company.10533/post-121885>
 
 Dr Kruse: I NEVER hinted, implied, suggested made warranties (LOL) that you were ever 'wrong'. Don't know where you got that idea! I got the magneteco for the very reasons you gave regarding electron spin and so on. I felt a real benefit from the magneteco for about 2 weeks, now it doesn't seem to make much difference at least that I can feel. Though I do sleep better and have more 'heavy' and sometimes vivid dreams which I suppose is good. I don't know really but it makes my nights more 'interesting'
@@ -3178,7 +3178,7 @@ So if someone is set on running a half marathon, and thinks running is healthy, 
 
 What have I have been teaching on this site for 3 yrs? Every Rx on this site is about collecting electrons and protons.
 
-### patgrif@hotmail.com — 2014-04-15T03:51:16+0300
+### [email redacted] — 2014-04-15T03:51:16+0300
 **Source:** <https://forum.jackkruse.com/threads/another-2-bite-the-dust-8.10536/post-121557>
 
 There was a marathon in Dublin (Ireland) this winter and a guy from England was in it also representing some "Heart Healthy Organization" and he dropped dead of a heart attack just as he completed the race. There is far more of this than freak events. Once again Dr Kruse seems to have to correct angle on this.
@@ -3406,7 +3406,7 @@ Obamacare is not about providing good care to many people, it's just a cog in th
 
 Anyway, I could go on and on and on about this...the letter you posted really struck a cord with me. The first thing that came to mind during the initial stirrings of obamacare was the potential loss of smart, dedicated young minds entering into the field of medicine.
 
-### patgrif@hotmail.com — 2014-04-15T11:32:21+0300
+### [email redacted] — 2014-04-15T11:32:21+0300
 **Source:** <https://forum.jackkruse.com/threads/so-you-think-obama-care-is-ok.10547/post-121602>
 
 I know this is not a 'political blog' but I have a whole different take on this. The 'free market' is a disaster for medicine and Obama's big mistake was to try to incorporate the 'free market'. I come from Ireland and spend time in England....................I would from a 'customer' point of view much much prefer their 'socialized' system. Making vast amounts of money from drugs, specialized procedures etc is just plain crazy. The US is gradually and will have to much more realize the limitations of the so called 'free market'
@@ -3482,7 +3482,7 @@ There are a lot of really smart, dedicated clinicians in the system...it's just 
 
 And also a lot of burnt out, disinterested clinicians just waiting for their federal pension!
 
-### patgrif@hotmail.com — 2014-04-15T18:19:19+0300
+### [email redacted] — 2014-04-15T18:19:19+0300
 **Source:** <https://forum.jackkruse.com/threads/so-you-think-obama-care-is-ok.10547/post-121664>
 
 Yeah but................I KNOW I know nothing about Obamacare. Right now I don't even HAVE insurance or WANT insurance, I would prefer to spend money being healthy than 'insurance' that's why I am glad to spend my $99.00 with Dr Jack instead and pay the fine for not having ins.
@@ -3498,7 +3498,7 @@ If you think 'philosophers' like Ayn Rand have any anwers you are in for a very 
 
 Ayn has some good ideas but she was not all right........The mark of an educated mind is to listen and accept what somebody tells you and see if part or all of what they say makes sense........then you decide. It is not an all or none situation.......unless you are talking about natural laws, which Ms Rand was not.
 
-### joangtaylor@gmail.com — 2014-04-15T20:41:15+0300
+### [email redacted] — 2014-04-15T20:41:15+0300
 **Source:** <https://forum.jackkruse.com/threads/so-you-think-obama-care-is-ok.10547/post-121701>
 
 I do agree that the cost of medical education is a huge problem, herding medical students into higher paying specialty practices and thinning the ranks of primary care. Nevertheless, with all due respect, and knowing that I won't change anyone here's mind, I just want to agree with what Patrick has said. There can be no truly "free market" in medicine because a free market depends upon all parties to a transaction having all relevant information. Not the case in healthcare. Moreover, we spend more money than any other country on medical care but our healthcare system ranks surprisingly low (37th in in the world). Obamacare is flawed, but it is a step in the right direction, getting more citizens covered and prohibiting discrimination based on pre-existing conditions.
@@ -3543,7 +3543,7 @@ Some of those docs are going to be pushed out of the military due to force struc
 
 Yep. The Endo I went to at the VA was this way.
 
-> [joangtaylor@gmail.com said:](/goto/post?id=121701)
+> [[email redacted] said:](/goto/post?id=121701)
 >
 > I do agree that the cost of medical education is a huge problem, herding medical students into higher paying specialty practices and thinning the ranks of primary care. Nevertheless, with all due respect, and knowing that I won't change anyone here's mind, I just want to agree with what Patrick has said. There can be no truly "free market" in medicine because a free market depends upon all parties to a transaction having all relevant information. Not the case in healthcare. Moreover, we spend more money than any other country on medical care but our healthcare system ranks surprisingly low (37th in in the world). Obamacare is flawed, but it is a step in the right direction, getting more citizens covered and prohibiting discrimination based on pre-existing conditions.
 >
@@ -3553,7 +3553,7 @@ Yep. The Endo I went to at the VA was this way.
 
 This is why I wrote this [blog](http://bit.ly/TakingtheTaxpayersforaRide). People need to understand the Healthcare system in the US (both before and after Obamacare) isn't a free market. As Patients we need to start asking our doctors as well as our health insurance what are the costs for X service. WE SHOULD BE DEMANDING THIS INFORMATION!!! We brought this upon ourselves b/c we don't treat health care as consumers should. I have friends who don't have insurance and they're very particular what docs they're going to see, and pay $$$ to. And they sometimes have better care than I do, and I know how to work the shitty system we have to get every ounce out of my coverage!
 
-> [patgrif@hotmail.com said:](/goto/post?id=121664)
+> [[email redacted] said:](/goto/post?id=121664)
 >
 > Yeah but................I KNOW I know nothing about Obamacare. **Right now I don't even HAVE insurance or WANT insurance, I would prefer to spend money being healthy than 'insurance' that's why I am glad to spend my $99.00 with Dr Jack instead and pay the fine for not having ins.**
 >
@@ -3706,7 +3706,7 @@ More often than not monolithic bureaucracy squelches innovation and encourages m
 
 All of these just some of the reasons I find the ACA not only inadequate but destructive.
 
-### patgrif@hotmail.com — 2014-04-16T08:42:25+0300
+### [email redacted] — 2014-04-16T08:42:25+0300
 **Source:** <https://forum.jackkruse.com/threads/so-you-think-obama-care-is-ok.10547/post-121796>
 
 Gracelind wrote:
@@ -3722,7 +3722,7 @@ Coming from outside this country (Ireland) the 'health care system' in this coun
 
 The best way to avoid the ACA = health.
 
-### patgrif@hotmail.com — 2014-04-16T16:07:41+0300
+### [email redacted] — 2014-04-16T16:07:41+0300
 **Source:** <https://forum.jackkruse.com/threads/so-you-think-obama-care-is-ok.10547/post-121855>
 
 I agree totally and that is what I am trying to do. My grandfather who died at age 90 my Mom recently told me NEVER saw a doctor in his life. That was not that unusual in the 'old days' in Ireland and I hope some of that will rub off me when I am there.
@@ -9625,7 +9625,7 @@ There may be specific points on the Quilt that apply more for one archetype than
 
 For the long run, you need to figure out how to build something that monetizes the system you've developed and doesn't rely, or minimally relies, on your input/time. The way the website currently works is a recipe for burnout. NO ONE should work more than 20 hours a week, IMHO. We should all have more time for our families, for the arts, and for pursuing challenges.
 
-### patgrif@hotmail.com — 2014-04-23T02:31:52+0300
+### [email redacted] — 2014-04-23T02:31:52+0300
 **Source:** <https://forum.jackkruse.com/threads/i-need-more-help-to-help-you-better.10616/post-123100>
 
 Caroline: I know what you mean about the meanings of words or acynonmys. Like for quite a while I thought QED might stand for "Quad Erat Demonstandum" which is Latin and means "Thus it is Proved" It was what we used to put at the end of one of Euclid's geometry proofs. I was pretty sure it was NOT that but only recently I realize it stands for "Quantum Electro Dynamics" which now make all the sense in the world.
@@ -9797,7 +9797,7 @@ There could be an explanation about why the answer is correct or not once the pl
 ### Gagnrad — 2014-04-23T14:04:32+0300
 **Source:** <https://forum.jackkruse.com/threads/i-need-more-help-to-help-you-better.10616/post-123163>
 
-> [patgrif@hotmail.com said:](/goto/post?id=123100)
+> [[email redacted] said:](/goto/post?id=123100)
 >
 > Caroline: I know what you mean about the meanings of words or acynonmys. Like for quite a while I thought QED might stand for "Quad Erat Demonstandum" ... I was pretty sure it was NOT that but only recently I realize it stands for "Quantum Electro Dynamics" which now make all the sense in the world.
 
@@ -10265,9 +10265,9 @@ There is no way to make this stuff 8th grade level ... people are going to have 
 >
 > Also I shouldn't have to go check back emails to see if I missed the webinar info.
 
-\* All member info is in the member dashboard, in one place ... UNLESS you signed up for the Optimal Reset. That had to be set up under a separate login. Your bootcamps will be listed in your member dashboard IF you used the same email address. If you don't see it, [email support for help](mailto:support@jackkruse.com). If you signed up for the Optimal Reset with the same email address, however, when you login to your dashboard, you will see a login link to access the Optimal Reset.
+\* All member info is in the member dashboard, in one place ... UNLESS you signed up for the Optimal Reset. That had to be set up under a separate login. Your bootcamps will be listed in your member dashboard IF you used the same email address. If you don't see it, [email support for help](mailto:[email redacted]). If you signed up for the Optimal Reset with the same email address, however, when you login to your dashboard, you will see a login link to access the Optimal Reset.
 
-\* If you are a paid member, you do not need to "wait" for an email to access the webinar. The webinars are all loaded into your member dashboard, so just login. You will see it. You may also access the webinars under "notes" in the secret facebook groups for each member level. This functions the exact same way every month. If you don't remember your password, click "lost your password" and check your email to reset. If you have further issues or want to be added to the secret facebook group for your member level, email [support@jackkruse.com](mailto:support@jackkruse.com).
+\* If you are a paid member, you do not need to "wait" for an email to access the webinar. The webinars are all loaded into your member dashboard, so just login. You will see it. You may also access the webinars under "notes" in the secret facebook groups for each member level. This functions the exact same way every month. If you don't remember your password, click "lost your password" and check your email to reset. If you have further issues or want to be added to the secret facebook group for your member level, email [[email redacted]](mailto:[email redacted]).
 
 \* The much-requested blog index exists. [The blog is indexed by subject here](http://jackkruse.com/blog-index/). [It's indexed by series (which is essentially date order) here](http://jackkruse.com/table-of-contents/).
 
@@ -11916,7 +11916,7 @@ Where would we all be if JK hadn't stuck it out with us?
 >
 > Now I have to make good info choices to inform these folk...I'd just prefer to talk ...but not possible.....any recommendations ?
 
-jude: email me [josh@paleoosteo.com](mailto:josh@paleoosteo.com)
+jude: email me [[email redacted]](mailto:[email redacted])
 
 i have made some handouts you are welcome to use
 
@@ -15303,7 +15303,7 @@ You should also provide:
 Requests for permits can be sent to the Office of Chemical Safety and Environmental Health.
 OCSEH contact details
 Fax 02 6289 2500
-Email [tmu@health.gov.au](mailto:tmu@health.gov.au)
+Email [[email redacted]](mailto:[email redacted])
 .
 
 ### Josh (Paleo Osteo) — 2015-05-31T11:10:11+0300
@@ -26046,7 +26046,7 @@ Jack how would one go about getting training through you? I am graduating next J
 
 Not sure.......it would have to be post graduate on your own time. That will make it tough. But as things decline in society......your skills will be more in demand.
 
-### patgrif@hotmail.com — 2014-05-02T18:47:06+0300
+### [email redacted] — 2014-05-02T18:47:06+0300
 **Source:** <https://forum.jackkruse.com/threads/optimal-east-coast-vacation-spot.10721/post-124633>
 
 All I wanna do is 'soak up the sun'
@@ -26156,7 +26156,7 @@ We were thinking Cape Cod or Martha's Vineyard.....But MDI looks really nice..I 
 ### nicld — 2014-05-03T04:16:42+0300
 **Source:** <https://forum.jackkruse.com/threads/optimal-east-coast-vacation-spot.10721/post-124825>
 
-> [patgrif@hotmail.com said:](/goto/post?id=124633)
+> [[email redacted] said:](/goto/post?id=124633)
 >
 > All I wanna do is 'soak up the sun'
 >
@@ -26860,7 +26860,7 @@ A quick story: The last time I was in Orlando was to meet my Acupuncture teacher
 
 I have hugged some amazing people today.....but I could really use a hug from you....
 
-### patgrif@hotmail.com — 2014-05-05T03:56:32+0300
+### [email redacted] — 2014-05-05T03:56:32+0300
 **Source:** <https://forum.jackkruse.com/threads/may-4-2014-webinar-q-a-alert.10751/post-125208>
 
 Dr Kruse: I just listened to the Q&A and honestly I get concerned that you could waste too much time and money and whatever else on all these 'platform changes'. I ran a company for 25 years and technology can easily become a black hole. And always the 'new' people will promise and promise and promise................
@@ -26893,7 +26893,7 @@ On another note from the Q and A…I had a question about the 3 percent saline s
 ### Jack Kruse — 2014-05-05T04:21:57+0300
 **Source:** <https://forum.jackkruse.com/threads/may-4-2014-webinar-q-a-alert.10751/post-125213>
 
-> [patgrif@hotmail.com said:](/goto/post?id=125208)
+> [[email redacted] said:](/goto/post?id=125208)
 >
 > Dr Kruse: I just listened to the Q&A and honestly I get concerned that you could waste too much time and money and whatever else on all these 'platform changes'. I ran a company for 25 years and technology can easily become a black hole. And always the 'new' people will promise and promise and promise................
 >
@@ -28579,7 +28579,7 @@ actually the amplitude of the EMF is higher in urban areas than that of Schumann
 **Subforum:** The EMF Rx
 **Posts:** 7
 ══════════════════════════════════════════════════════════════════════
-### joangtaylor@gmail.com — 2014-05-07T14:47:02+0300
+### [email redacted] — 2014-05-07T14:47:02+0300
 **Source:** <https://forum.jackkruse.com/threads/home-automation-system.10778/post-125620>
 
 I posed the following question on a website called "allexperts.com." I received an answer from a physics and radiation safety professor. I guess that this "expert" is not up-to-date on EMF safety.

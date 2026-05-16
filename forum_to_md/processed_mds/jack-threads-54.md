@@ -983,10 +983,10 @@ It is
 [@Jack Kruse](https://forum.jackkruse.com/members/1031/)
 No success in signing in.
 I did inform
-[support@jackkruse.com](mailto:support@jackkruse.com)
+[[email redacted]](mailto:[email redacted])
 about my problem.
 
-[support@jackkruse.com](mailto:support@jackkruse.com)
+[[email redacted]](mailto:[email redacted])
 
 ### Hon Wu — 2024-11-09T07:00:41+0200
 **Source:** <https://forum.jackkruse.com/threads/50-ppm-ddw.23932/post-342121>
@@ -19235,7 +19235,7 @@ Dock what is your full name so we can pull up your order?
 ### Matty_M — 2019-10-24T16:26:44+0300
 **Source:** <https://forum.jackkruse.com/threads/ra-optics-sent-me-the-wrong-order-cant-reach-them.24394/post-281155>
 
-Please email me directly [matt@raoptics.com](mailto:matt@raoptics.com) with your full name on your order so we can have it corrected right away.
+Please email me directly [[email redacted]](mailto:[email redacted]) with your full name on your order so we can have it corrected right away.
 
 ### Saichi — 2019-10-24T19:19:30+0300
 **Source:** <https://forum.jackkruse.com/threads/ra-optics-sent-me-the-wrong-order-cant-reach-them.24394/post-281185>
@@ -29328,7 +29328,7 @@ Good advice.
 [@Jack Kruse](https://forum.jackkruse.com/members/1031/) is doing consults.
 Book at least one of them.
 Start asking questions on how to arrange your consultation with Jack by emailing to
-[support@jackkruse.com](mailto:support@jackkruse.com)
+[[email redacted]](mailto:[email redacted])
 ..................
 Eventually, as you are progressing in your recovery, you may want to visit him on his farm in New Orleans Louisiana USA or condo in Destin Florida USA.
 
@@ -38173,7 +38173,7 @@ Dr. Kruse, if you eventually do a Clubhouse group for or/with doctors, I would l
 Respectfully,
 
 Dr. Marcus Ettinger
-[info@advancedhealing.com](mailto:info@advancedhealing.com)
+[[email redacted]](mailto:[email redacted])
 Orange, CA
 33° N
 

@@ -698,7 +698,7 @@ How are you doing now? I hope all is good. Steve
 **Subforum:** The Epi-Paleo Diet
 **Posts:** 7
 ══════════════════════════════════════════════════════════════════════
-### docwatt@gmail.com — 2013-06-17T22:27:43+0300
+### [email redacted] — 2013-06-17T22:27:43+0300
 **Source:** <https://forum.jackkruse.com/threads/epi-paleo-backpacking.7373/post-88269>
 
 We have started backpacking in the Sierra Nevada and find trying to stay Epi-Paleo with the constraints of carrying everything a real challenge. Would love to hear if anyone else has faced this and what you can recommend. We were out for a 2 day/1 night this past weekend, and the food wasn't too much problem, but we're planning a week trip later this summer. Suggestions?
@@ -714,7 +714,7 @@ Hi Tom, I'd put in a support ticket. Check the jackkruse.com website for clues o
 
 Are sardines and other canned seafood too heavy? I imagine it would be a huge challenge. Oh, I once got some dried anchovies in salt at the oriental market. If you are lucky you could find some without MSG.
 
-### docwatt@gmail.com — 2013-06-17T22:47:54+0300
+### [email redacted] — 2013-06-17T22:47:54+0300
 **Source:** <https://forum.jackkruse.com/threads/epi-paleo-backpacking.7373/post-88271>
 
 Yes, cans are too heavy. As it was for our overnight, My pack weighed upwards 40 to 50 lbs. We had hard boiled eggs for breakfast and dehdrated grass fed beef stew for dinner. Definitely looking for ideas.
@@ -3924,7 +3924,7 @@ I am beginning to realise that I have never had fences or boundaries - at least 
 **Subforum:** The Leptin Rx
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### imstein@gmail.com — 2013-06-23T16:13:43+0300
+### [email redacted] — 2013-06-23T16:13:43+0300
 **Source:** <https://forum.jackkruse.com/threads/sample-meals-for-leptin-rx.7446/post-88740>
 
 Could anyone post some recommended meals for doing the Leptin RX. I'm not a big meat eater (especially not in the morning) so besides eggs, I don't have a lot of other protein options. What have other people done? And what about lunch (at least in the beginning) or dinner?
@@ -5057,7 +5057,7 @@ I am running low on the spring water, because of a change in plans last weekend.
 ### Jonathin — 2013-06-25T23:31:21+0300
 **Source:** <https://forum.jackkruse.com/threads/water-help.7470/post-88916>
 
-> [montediaz@live.com said:](/goto/post?id=88903)
+> [[email redacted] said:](/goto/post?id=88903)
 >
 > Do any of you here who are drinking ultra purified water (reverse osmosis/distiller) bother with remineralizing your water?
 >
@@ -5180,7 +5180,7 @@ It would be nice to get dr Jack opinion on this.
 ### GlenPDQ — 2013-06-26T20:26:35+0300
 **Source:** <https://forum.jackkruse.com/threads/water-help.7470/post-88997>
 
-> [montediaz@live.com said:](/goto/post?id=88903)
+> [[email redacted] said:](/goto/post?id=88903)
 >
 > Do any of you here who are drinking ultra purified water (reverse osmosis/distiller) bother with remineralizing your water?
 >
@@ -17846,7 +17846,7 @@ With a conflict I use an AM radio to spot check.
 FDA NEWS RELEASE
 
 For Immediate Release: June 28, 2013
-Media Inquiries: Andrea Fischer, 301-796-0393, [andrea.fischer@fda.hhs.gov](mailto:andrea.fischer@fda.hhs.gov)
+Media Inquiries: Andrea Fischer, 301-796-0393, [[email redacted]](mailto:[email redacted])
 Consumer Inquiries: 888-INFO-FDA
 En EspaÃ±ol
 
@@ -29624,7 +29624,7 @@ melatonin 1-3 mg as needed
 
 (Sorry if the formatting is a little wonky)
 
-### gsteppe14@gmail.com — 2013-08-22T07:39:10+0300
+### [email redacted] — 2013-08-22T07:39:10+0300
 **Source:** <https://forum.jackkruse.com/threads/got-my-results-back-and-it-is-enough-to-make-my-head-spin-help-please.7654/post-93394>
 
 Are you sure it's only 1000mg of fish oil? Twice a day, it's still only barely above a teaspoon. But I can understand if you don't wanna overdo fish oil. Your Armour isn't quite replenishing your FT3. How are your symptoms? Feeling good? So so? I used to take Align. Doing anything for you? What in particular are your digestive or gut flora issues?
@@ -31724,7 +31724,7 @@ Thoughts????
 18 ------- Metabolic Panel (14), Comprehensive Test Number: 322000 CPT Code: 80053
 19 ------- Complete Blood Count (CBC) With Differential Test Number: 005009 CPT Code: 85025
 
-### gsteppe14@gmail.com — 2013-08-22T07:59:33+0300
+### [email redacted] — 2013-08-22T07:59:33+0300
 **Source:** <https://forum.jackkruse.com/threads/labs.7675/post-93395>
 
 Your labs basically don't make much sense. Either you mixed them up or you transposed the numbers. If they're correct, you apparently started adding back carbs when your trigs weren't low enough. Now, they're too high and it seems your fasting insulin went up in response. Except for Vit D, none of your supplements would show up on your labs.
@@ -31992,7 +31992,7 @@ wondering too
 ### Steven1 — 2013-07-23T20:25:32+0300
 **Source:** <https://forum.jackkruse.com/threads/new-podcast-is-up.7678/post-90671>
 
-I purchased the special offer listed on the podcast page -- [http://www.jackkruse.com/choice-conversation-special-offer/](http://www.jackkruse.com/choice-conversation-special-offer/) -- but I never received any information about accessing the webinars or the 1 month membership. All I received via email was an invoice. In my attempt to figure out how to view the webinars, I clicked the back button on my browser, and it ended up charging me again. I received another invoice via email but no information on accessing the webinars. I've tried accessing the webinars via the Member Dashboard, but that didn't work either. Basically, I've been charged $198 and have received nothing in return. I placed my order on Sunday, July 21. I sent a message to [support@jackkruse.com](mailto:support@jackkruse.com) on Sunday, Monday, and again today, but no one has responded to me. I only received the automated reply saying my request has been received. Is there anybody out there who can help me get this resolved?
+I purchased the special offer listed on the podcast page -- [http://www.jackkruse.com/choice-conversation-special-offer/](http://www.jackkruse.com/choice-conversation-special-offer/) -- but I never received any information about accessing the webinars or the 1 month membership. All I received via email was an invoice. In my attempt to figure out how to view the webinars, I clicked the back button on my browser, and it ended up charging me again. I received another invoice via email but no information on accessing the webinars. I've tried accessing the webinars via the Member Dashboard, but that didn't work either. Basically, I've been charged $198 and have received nothing in return. I placed my order on Sunday, July 21. I sent a message to [[email redacted]](mailto:[email redacted]) on Sunday, Monday, and again today, but no one has responded to me. I only received the automated reply saying my request has been received. Is there anybody out there who can help me get this resolved?
 
 
 ══════════════════════════════════════════════════════════════════════

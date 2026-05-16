@@ -3359,7 +3359,7 @@ Side note: we are currently working with a manufacturer on several new IP design
 
 If you can shoot me a link or photo of the frames I will have our team source some for you next week
 
-Please feel free to reach out to me directly anytime [dh@luciaeyes.com](mailto:dh@luciaeyes.com)
+Please feel free to reach out to me directly anytime [[email redacted]](mailto:[email redacted])
 
 Warmest Regards,
 
@@ -3400,7 +3400,7 @@ Also, separately, would you ever consider making glasses with quartz lens to let
 Hey thanks for this information. I've already chatted with our manufacturer and they are sending me some samples of frames they have right now AND looking at a "New" design features to help with this issue. I looked into the quartz lenses a few years ago and it was too cost prohibitive for a small company like ours and it was not popular yet. Let me check into it again.
 If you shoot me an email I will ping you as soon as I get the frame samples for you to try out...
 
-[dh@luciaeyes.com](mailto:dh@luciaeyes.com)
+[[email redacted]](mailto:[email redacted])
 
 Thank you!
 
@@ -33080,12 +33080,12 @@ Email Christy in the office
 ### JimBo99 — 2026-04-12T20:02:19+0300
 **Source:** <https://forum.jackkruse.com/threads/monthly-q-as.32543/post-370795>
 
-Is there an email address listed for support staff somewhere? Is it support [team@supportjackkruse.com](mailto:team@supportjackkruse.com)?
+Is there an email address listed for support staff somewhere? Is it support [[email redacted]](mailto:[email redacted])?
 
 ### Jojoplachta — 2026-04-12T20:43:47+0300
 **Source:** <https://forum.jackkruse.com/threads/monthly-q-as.32543/post-370798>
 
-You can try emailing christy [info@kruseatdestin.com](mailto:info@kruseardestin.com) but it may be too late to get in for today It's at 4pm EST and you need to register via an email, then once registered are sent a zoom link. If you're lucky she may be in office early enough to hook you up, elsewise watch for an email announcing May's
+You can try emailing christy [[email redacted]](mailto:[email redacted]) but it may be too late to get in for today It's at 4pm EST and you need to register via an email, then once registered are sent a zoom link. If you're lucky she may be in office early enough to hook you up, elsewise watch for an email announcing May's
 
 ### Support — 2026-04-12T22:19:09+0300
 **Source:** <https://forum.jackkruse.com/threads/monthly-q-as.32543/post-370808>
@@ -34552,7 +34552,7 @@ They have auricular ones now. Really easy to use. Ask your neurologist about the
 >
 > Although im sorry for your circumstances Jim, this has been a great teaching thread. I ran into it while researching the etiology behind my own tinnitus and I'm thankful for the discussion. Jim, I have to ask....with your remote location in Idaho and firearms training, are you also someone who believes in prepping for SHTF situations?
 
-Hi MJ, I've been diving into what Jack laid out and researching vagal nerve stimulation devices. The recent Patreo blog really went into detail with the vagal exhaust theme, so I guess my timing was oppurtune. Do you have tinnnitus issues also? I'm happy to discuss SHTF resiliency scenarios at [jrpxyz77@protonmail.com](mailto:jrpxyz77@protonmail.com) if you'd like.
+Hi MJ, I've been diving into what Jack laid out and researching vagal nerve stimulation devices. The recent Patreo blog really went into detail with the vagal exhaust theme, so I guess my timing was oppurtune. Do you have tinnnitus issues also? I'm happy to discuss SHTF resiliency scenarios at [[email redacted]](mailto:[email redacted]) if you'd like.
 Cheers,
 Jim
 

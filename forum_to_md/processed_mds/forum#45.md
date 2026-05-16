@@ -569,7 +569,7 @@ Houston, Texas 77072
 800.227.5227 (toll-free)
 713.621.3101 (local)
 713.621.3234 (fax)
-[spec1@spectracell.com](mailto:spec1@spectracell.com) (e-mail)
+[[email redacted]](mailto:[email redacted]) (e-mail)
 
 ### JanSz — 2015-09-11T22:08:19+0300
 **Source:** <https://forum.jackkruse.com/threads/one-humanoid-escapee-1001001.16788/post-177010>
@@ -4832,7 +4832,7 @@ Houston, Texas 77072
 800.227.5227 (toll-free)
 713.621.3101 (local)
 713.621.3234 (fax)
-[spec1@spectracell.com](mailto:spec1@spectracell.com) (e-mail)
+[[email redacted]](mailto:[email redacted]) (e-mail)
 
 ### JanSz — 2016-09-10T04:36:00+0300
 **Source:** <https://forum.jackkruse.com/threads/my-quest-to-be-better-than-the-rest.16795/post-201230>
@@ -9255,7 +9255,7 @@ Here's his bio:
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
 LIGHT AND HEALTH
-by: [Olszewski, David, E.E., I.E.](mailto:helen@consumerhealth.org)
+by: [Olszewski, David, E.E., I.E.](mailto:[email redacted])
 
 _David Olszewski is an engineer from Seattle, Washington who holds patents on light therapy equipment in several countries. He is co-author of the latest book on light therapy, Light Years Ahead, which describes light therapy in medicine today. He is president of the Light Energy Company and has over 30 years of experience in the application of light and heat equipment in the health field and the effects of light and other electromagnetic fields on the body._
 
@@ -28016,7 +28016,7 @@ This is the video...
 **Subforum:** Feedback/Suggestions
 **Posts:** 1
 ══════════════════════════════════════════════════════════════════════
-### imstein@gmail.com — 2015-10-07T09:01:15+0300
+### [email redacted] — 2015-10-07T09:01:15+0300
 **Source:** <https://forum.jackkruse.com/threads/recommended-places-courses-to-study-nutrition.16953/post-178794>
 
 Hi,
@@ -31478,7 +31478,7 @@ Damn Jack! Why haven't I see this in a blog yet? This is what I've been looking 
 
 Not every detail is for public consumption
 
-### curtwht@yahoo.com — 2017-06-18T15:18:25+0300
+### [email redacted] — 2017-06-18T15:18:25+0300
 **Source:** <https://forum.jackkruse.com/threads/quick-questions-from-a-newbie.16981/post-216489>
 
 Any thoughts on ortho k the contacts worn every night to reshape eye so you can go without glasses or contacts during the day. I am thinking about trying it with my 14 year old.
@@ -35875,7 +35875,7 @@ By the way, on polio - notice the academic writing in the Times there says:
 
 > The successful development of a [polio vaccine](http://health.nytimes.com/health/guides/specialtopic/polio-immunization-vaccine/overview.html?inline=nyt-classifier) in the 1950s made these debates much less pressing.
 
-Hmmm … that's the story, but I wonder. Maybe @[patgrif@hotmail.com](mailto:patgrif@hotmail.com) has some comments on that.
+Hmmm … that's the story, but I wonder. Maybe @[[email redacted]](mailto:[email redacted]) has some comments on that.
 
 There's recent comment on this from Sally Fallon:
 

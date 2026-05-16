@@ -167,7 +167,7 @@ Moving charges generate Electromagnetic (EM) waves, aka: light and thus heat (Ge
 
 I'm not 100% sure on this next step, but since the Earth's Magnetic Field is energised by X-rays from the Sun (not the same as Protons from CMEs), a radiating atmosphere introduces an EM force vector outwards, that by simple math decreases the incoming EM forces from the Sun.​
 
-### patgrif@hotmail.com — 2015-04-25T16:35:53+0300
+### [email redacted] — 2015-04-25T16:35:53+0300
 **Source:** <https://forum.jackkruse.com/threads/ubiquitination-11-is-live-kt-event-lyme-snps-and-more.14108/post-162401>
 
 I found the following very interesting in the blogpost very interesting:
@@ -231,7 +231,7 @@ I'm reading **[Light in Shaping Life: Biophotons in Biology and Medicine](http:/
 
 its an awesome read and a very well written and designed book...a lot of Becker in there, history of [epigenesis and preformation](http://www.christianhubert.com/writings/Epigenesis_Preformation.html) is interesting. I'm only on second chapter
 
-### patgrif@hotmail.com — 2015-04-27T04:46:53+0300
+### [email redacted] — 2015-04-27T04:46:53+0300
 **Source:** <https://forum.jackkruse.com/threads/ubiquitination-11-is-live-kt-event-lyme-snps-and-more.14108/post-162507>
 
 I just listened/watched the conference in Vancouver. I must say made me aware of the sheer amount of amazing knowledge we have gotten over the last 4 years. Like we ARE really privileged we really have received good and very cutting edge information and understanding. Not to put down the other speakers but even say Gerald Pollack though of course he is great his scope is quite limited compared to Dr K. Or the first guy though likable this is all a bit vague and stuff we have heard before but Dr K kind of really nails it down.
@@ -510,7 +510,7 @@ I don't know the area, but it sounds great that you are moving, Looking!
 
 less people......and you don't want to be a seashore in the next 50 yrs.......hurricanes and rising seas are coming in way bigger forces because of ubiquitination.
 
-### patgrif@hotmail.com — 2015-04-28T02:04:18+0300
+### [email redacted] — 2015-04-28T02:04:18+0300
 **Source:** <https://forum.jackkruse.com/threads/mississippi.14109/post-162588>
 
 > [Jack Kruse said:](/goto/post?id=162553)
@@ -524,7 +524,7 @@ Wow that's scary! I am now getting the picture that 'ubiquination' covers an awf
 
 Ubiquitination: when light no longer controls nitrogen, it is unleashed to cause many things on Earth go awry
 
-### patgrif@hotmail.com — 2015-04-28T16:57:17+0300
+### [email redacted] — 2015-04-28T16:57:17+0300
 **Source:** <https://forum.jackkruse.com/threads/mississippi.14109/post-162662>
 
 > [Jack Kruse said:](/goto/post?id=162609)
@@ -548,7 +548,7 @@ But all in all I feel I am not understanding this whole Nitrogen thing.
 
 Next blog is all about Nitrogen.
 
-### patgrif@hotmail.com — 2015-04-28T19:05:19+0300
+### [email redacted] — 2015-04-28T19:05:19+0300
 **Source:** <https://forum.jackkruse.com/threads/mississippi.14109/post-162674>
 
 > [Jack Kruse said:](/goto/post?id=162671)
@@ -4304,7 +4304,7 @@ Melatonin is filled with an aromatic ring. Your pictogram shows it in this blog.
 
 VDR and RXR need DHA to work. Brain gut 5 alert
 
-### patgrif@hotmail.com — 2015-04-28T04:11:24+0300
+### [email redacted] — 2015-04-28T04:11:24+0300
 **Source:** <https://forum.jackkruse.com/threads/how-does-melatonin-and-leptin-couple.14155/post-162600>
 
 > [Jack Kruse said:](/goto/post?id=162550)
@@ -4318,7 +4318,7 @@ Yes Josh I thought it was very well done. Nice to see Kruse wisdom filtering out
 ### Josh (Paleo Osteo) — 2015-04-28T04:43:57+0300
 **Source:** <https://forum.jackkruse.com/threads/how-does-melatonin-and-leptin-couple.14155/post-162603>
 
-> [patgrif@hotmail.com said:](/goto/post?id=162600)
+> [[email redacted] said:](/goto/post?id=162600)
 >
 > Yes Josh I thought it was very well done. Nice to see Kruse wisdom filtering out in that way. I felt it is something I really could believe unlike most 'pop' medicine or standard medicine too.
 

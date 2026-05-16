@@ -4254,7 +4254,7 @@ I ask bc over the years it's been brought up a few times with me but I'm not sur
 
 Sent from my iPad using Tapatalk HD
 
-### kjgraffin@yahoo.com — 2013-04-21T02:50:40+0300
+### [email redacted] — 2013-04-21T02:50:40+0300
 **Source:** <https://forum.jackkruse.com/threads/lyme.6830/post-84564>
 
 My only symptoms were inability to fix my adrenal fatigue and my thyroid issues. I don't have any of the typical symptoms. My Lyme was confirmed with a CD57. Doc said that the lowest she likes to see is 150. Mine was 16.
@@ -4268,7 +4268,7 @@ Are u feeling any better with treatment? Has it helped your adrenal and thyroid 
 
 Sent from my iPad using Tapatalk HD
 
-### kjgraffin@yahoo.com — 2013-04-22T01:33:12+0300
+### [email redacted] — 2013-04-22T01:33:12+0300
 **Source:** <https://forum.jackkruse.com/threads/lyme.6830/post-84585>
 
 Not yet but I am told it can take a while to see results. I am also working with a new doc for my thyroid and adrenal fatigue. Just added cytomel with my Armour and going to see how that works.
@@ -6724,7 +6724,7 @@ HAHHAHA.... you have to understand.. Chris started the leptin reset long before 
 
 Congrats at your success! What amazing and dedicated parents you both are and incredibly courageous to look at a problem in a different way, even though those around you think you're losing it LOL. It is amazing when something makes so much sense to you, and you just can't understand why everyone else doesn't get it!
 
-### kathiebu@hotmail.com — 2013-04-28T21:22:41+0300
+### [email redacted] — 2013-04-28T21:22:41+0300
 **Source:** <https://forum.jackkruse.com/threads/welcome-to-my-world.6898/post-85030>
 
 Its great that you are now both in this journey together, and its amazing how quick and well your son is responding. If only you could get more support from your familly! But Im sure they will jump in once they realize how much better their grandson is doing.
@@ -8119,7 +8119,7 @@ I love how energized you sounds.. just so full of life  I do think the loose ski
 ### MrPinkies — 2013-06-08T20:05:42+0300
 **Source:** <https://forum.jackkruse.com/threads/welcome-to-my-world.6898/post-87810>
 
-Inger.. I think it's easier if you go to my profile page to see the picture... other wise, come find me on facebook.. lol (Kate Towler [kateatowler@gmail.com](mailto:kateatowler@gmail.com))
+Inger.. I think it's easier if you go to my profile page to see the picture... other wise, come find me on facebook.. lol (Kate Towler [[email redacted]](mailto:[email redacted]))
 
 ### MrPinkies — 2013-06-13T17:36:48+0300
 **Source:** <https://forum.jackkruse.com/threads/welcome-to-my-world.6898/post-88035>
@@ -9181,7 +9181,7 @@ Thank you, Jack.....!!!!!!!!
 **Subforum:** Beginners Area
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### bugsy1950@gmail.com — 2013-04-29T16:56:06+0300
+### [email redacted] — 2013-04-29T16:56:06+0300
 **Source:** <https://forum.jackkruse.com/threads/hypothyroid-but-always-hot-why-plus-other-questions.6918/post-85132>
 
 When every one around me is freezing I am very comfortable in my T shirt! In summer I suffer from the heat, but don't perspire too much - this has been going on for many years.
@@ -9237,7 +9237,7 @@ OK...will check back periodically.
 **Subforum:** Beginners Area
 **Posts:** 9
 ══════════════════════════════════════════════════════════════════════
-### bugsy1950@gmail.com — 2013-04-29T18:10:34+0300
+### [email redacted] — 2013-04-29T18:10:34+0300
 **Source:** <https://forum.jackkruse.com/threads/why-was-my-hypothyroid-thread-closed.6920/post-85140>
 
 I must be very stupid, but I don't understand Dr K's reply, what is a lab work up?
@@ -9267,7 +9267,7 @@ You need a baseline to see where you are at......
 
 not sure why that thread was closed..........
 
-### bugsy1950@gmail.com — 2013-04-30T13:57:32+0300
+### [email redacted] — 2013-04-30T13:57:32+0300
 **Source:** <https://forum.jackkruse.com/threads/why-was-my-hypothyroid-thread-closed.6920/post-85184>
 
 Hi Caroline,
@@ -9334,7 +9334,7 @@ there are specific threads for thyroid etc.issues and the iodine thread has a hu
 
 pm me if you want......
 
-### bugsy1950@gmail.com — 2013-05-01T15:59:01+0300
+### [email redacted] — 2013-05-01T15:59:01+0300
 **Source:** <https://forum.jackkruse.com/threads/why-was-my-hypothyroid-thread-closed.6920/post-85246>
 
 How can I reduce my TSH?
@@ -11390,7 +11390,7 @@ I see a new Dr on Sat. I will be sure to tell her whats up to get feedback as we
 **Subforum:** Beginners Area
 **Posts:** 7
 ══════════════════════════════════════════════════════════════════════
-### bugsy1950@gmail.com — 2013-05-08T12:42:50+0300
+### [email redacted] — 2013-05-08T12:42:50+0300
 **Source:** <https://forum.jackkruse.com/threads/educating-myself.6991/post-85623>
 
 In which order should I read the blogs? I have read a lot but still have missing links, as I did not read them in sequence.
@@ -11420,7 +11420,7 @@ I think the best way to do this is to first start in the optimal journey or the 
 
 great advice Dali ...... as your knowledge increases ....it gets easier to go back and you take more on board.......
 
-### bugsy1950@gmail.com — 2013-05-09T14:03:03+0300
+### [email redacted] — 2013-05-09T14:03:03+0300
 **Source:** <https://forum.jackkruse.com/threads/educating-myself.6991/post-85723>
 
 Hi Shijin13, I went to the blog index and cannot find CT 7 under which section is it? Thanks
@@ -12769,7 +12769,7 @@ Trigger, that is an incredible success story. ~32 pounds in 3 months -- wow! How
 ### curves64 — 2013-05-15T05:50:30+0300
 **Source:** <https://forum.jackkruse.com/threads/committing-to-a-one-month-ct-experiment.7055/post-86060>
 
-> [lava.locks@yahoo.com said:](/goto/post?id=86058)
+> [[email redacted] said:](/goto/post?id=86058)
 >
 > Trigger..great news!!! I am totally interested about the skin tags...I have some sort of wart virus (TMI) spreading all over me. It's horrifying!!! lol
 >
@@ -23736,7 +23736,7 @@ Until then if I drink a gallon a day that's only around $10/month for $.37/gallo
 >
 > One could collect rain and then run it through a carbon filter if desired.
 
-### joangtaylor@gmail.com — 2013-06-10T17:43:46+0300
+### [email redacted] — 2013-06-10T17:43:46+0300
 **Source:** <https://forum.jackkruse.com/threads/affordable-options-for-flouride-free-water-ideas.7306/post-87922>
 
 Did I see somewhere on this forum where Dr. Kruse said that something in coffee blocks absorption of flouride, or should i be making coffee with spring water, too?
@@ -25227,7 +25227,7 @@ Your T3 appears to be very low, and you don't include reference ranges for your 
 
 You have symptoms and (possibly) labs consistent with hypothyroidism. If you're on Facebook, find Stop The Thyroid Madness on there and join the group. I'm learning a lot from those folks - you can post your labs (with reference ranges) and others who know more about this than you or me will comment and interpret for you. Not as good as a doc, perhaps, but in some ways better. Good luck.
 
-### gsteppe14@gmail.com — 2013-08-21T08:08:43+0300
+### [email redacted] — 2013-08-21T08:08:43+0300
 **Source:** <https://forum.jackkruse.com/threads/labs.7336/post-93327>
 
 You have T3, not FT3, but when your T3 is that low, I believe you can infer that your FT3 would also be low. Your endo should be concerned. Limited T4 to T3 transfer and hence you have hypothyroid symptoms, despite your TSH. If you are obese or have inflammation, your low T3 may not be reflected in your pituitary's TSH. Your tissue T3 is low; your pituitary T3 isn't. So your TSH seems normal but that doesn't mean you're not hypothyroid. So in this case, you really have to go by FT3. Get your FT3 and RevT3 measured. But it's obvious that FT3 will be low and RT3 will be high.
@@ -25953,7 +25953,7 @@ chronic yeast/candida infections are a sign of leaky gut. you need to work on he
 
 take some time and read BG9 - its got some info here that I think might be of value to your given situation [http://www.jackkruse.com/brain-gut-9-what-really-killed-michael-jackson/](http://www.jackkruse.com/brain-gut-9-what-really-killed-michael-jackson/)
 
-### mjbrwntexas@yahoo.com — 2013-06-17T19:50:55+0300
+### [email redacted] — 2013-06-17T19:50:55+0300
 **Source:** <https://forum.jackkruse.com/threads/cymbalta-and-withdrawal-ugh-i-feel-worse-than-ever.7363/post-88261>
 
 My son had a terrible time getting off this class of drugs. First he was on effexor for anxiety, and he grew mean and unsympathetic while on it. So he got off of that, but was depressed from the withdrawal (we had no idea at the time that that was why he was feeling so bad). So the doctor put him on Paxil and Xanax. He turned into a zombie on those. When we realized that the drugs were making him worse, and not really helping him, we took 6 months to lower the dose slowly to get him off of them. He had terrible withdrawal from coming off of the drug, including mood swings, sexual dysfunction, etc. I have heard that it is similar to withdrawal from heroin. We later discovered that we should have taken at least a year or more. A pharmacist has to make a liquid form of the drug you are taking, to allow you to lower the dose slowly over time (you're supposed to lower the \*current\* dose 10% every three weeks, and this can take a year or more to get to zero). The reason for such a long withdrawal period of up to two years is because these drugs have caused your brain to go haywire making receptors for seratonin and other stuff. It takes that long for your brain to repair itself. This isn't going to happen overnight. It WILL happen, but it takes a long time.
@@ -26430,7 +26430,7 @@ How are you doing now? I hope all is good. Steve
 **Subforum:** The Epi-Paleo Diet
 **Posts:** 7
 ══════════════════════════════════════════════════════════════════════
-### docwatt@gmail.com — 2013-06-17T22:27:43+0300
+### [email redacted] — 2013-06-17T22:27:43+0300
 **Source:** <https://forum.jackkruse.com/threads/epi-paleo-backpacking.7373/post-88269>
 
 We have started backpacking in the Sierra Nevada and find trying to stay Epi-Paleo with the constraints of carrying everything a real challenge. Would love to hear if anyone else has faced this and what you can recommend. We were out for a 2 day/1 night this past weekend, and the food wasn't too much problem, but we're planning a week trip later this summer. Suggestions?
@@ -26446,7 +26446,7 @@ Hi Tom, I'd put in a support ticket. Check the jackkruse.com website for clues o
 
 Are sardines and other canned seafood too heavy? I imagine it would be a huge challenge. Oh, I once got some dried anchovies in salt at the oriental market. If you are lucky you could find some without MSG.
 
-### docwatt@gmail.com — 2013-06-17T22:47:54+0300
+### [email redacted] — 2013-06-17T22:47:54+0300
 **Source:** <https://forum.jackkruse.com/threads/epi-paleo-backpacking.7373/post-88271>
 
 Yes, cans are too heavy. As it was for our overnight, My pack weighed upwards 40 to 50 lbs. We had hard boiled eggs for breakfast and dehdrated grass fed beef stew for dinner. Definitely looking for ideas.
@@ -28798,7 +28798,7 @@ I am beginning to realise that I have never had fences or boundaries - at least 
 **Subforum:** The Leptin Rx
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### imstein@gmail.com — 2013-06-23T16:13:43+0300
+### [email redacted] — 2013-06-23T16:13:43+0300
 **Source:** <https://forum.jackkruse.com/threads/sample-meals-for-leptin-rx.7446/post-88740>
 
 Could anyone post some recommended meals for doing the Leptin RX. I'm not a big meat eater (especially not in the morning) so besides eggs, I don't have a lot of other protein options. What have other people done? And what about lunch (at least in the beginning) or dinner?
@@ -29580,7 +29580,7 @@ I am running low on the spring water, because of a change in plans last weekend.
 ### Jonathin — 2013-06-25T23:31:21+0300
 **Source:** <https://forum.jackkruse.com/threads/water-help.7470/post-88916>
 
-> [montediaz@live.com said:](/goto/post?id=88903)
+> [[email redacted] said:](/goto/post?id=88903)
 >
 > Do any of you here who are drinking ultra purified water (reverse osmosis/distiller) bother with remineralizing your water?
 >
@@ -29703,7 +29703,7 @@ It would be nice to get dr Jack opinion on this.
 ### GlenPDQ — 2013-06-26T20:26:35+0300
 **Source:** <https://forum.jackkruse.com/threads/water-help.7470/post-88997>
 
-> [montediaz@live.com said:](/goto/post?id=88903)
+> [[email redacted] said:](/goto/post?id=88903)
 >
 > Do any of you here who are drinking ultra purified water (reverse osmosis/distiller) bother with remineralizing your water?
 >

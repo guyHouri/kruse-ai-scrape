@@ -1877,9 +1877,9 @@ personally, I type it in some other place (where I am able to see complete quest
 then copy/paste.
 
 When all above fails, try support.
-[kruse@kruseatdestin.com](mailto:kruse@kruseatdestin.com)
-[support@jackkruse.com](mailto:support@jackkruse.com)
-[info@kruseatdestin.com](mailto:info@kruseatdestin.com)
+[[email redacted]](mailto:[email redacted])
+[[email redacted]](mailto:[email redacted])
+[[email redacted]](mailto:[email redacted])
 
 ///////////////
 
@@ -3080,7 +3080,7 @@ I am really excited to start with Jacks principles( I think it will be easy to d
 
 Welcome.
 
-Membership is [info@kruseatdestin.com](mailto:info@kruseatdestin.com)
+Membership is [[email redacted]](mailto:[email redacted])
 
 Gold is probably best for a newbie with faster ramp up
 
@@ -3299,14 +3299,14 @@ So far, 83 homes are planned to be built under the supervision of a Certified Bu
 Accommodations near the beach have been recently mitigated to be safe and comfortable (low EMF) for investors interested in visiting ISLA.
 As of January 1, 2024, Starlink is not allowed to operate in Nicaraguan air space.
 For more information, contact Karen Rich at
-[WiredEcoCommunityInfo@protonmail.com](mailto:WiredEcoCommunityInfo@protonmail.com).
+[[email redacted]](mailto:[email redacted]).
 Arthur Firstenberg
 President, Cellular Phone Task Force
 Author, _The Invisible Rainbow: A History of Electricity and Life_
 P.O. Box 6216
 Santa Fe, NM 87502
 USA
-[arthur@cellphonetaskforce.org](mailto:arthur@cellphonetaskforce.org)
+[[email redacted]](mailto:[email redacted])
 +1 505-471-0129
 May 28, 2024
 _Subscribe **to my newsletters.**
@@ -17666,7 +17666,7 @@ Potassium needs to stay bound tightly within cells in order for intracellular wa
 ### John Patrick — 2024-07-15T21:09:24+0300
 **Source:** <https://forum.jackkruse.com/threads/introducing-myself-michael-moreau.29160/post-337198>
 
-Hey this is Michael Moreau, and I attended the Jack Kruse Q & A regarding financial issues about the globe, on July 14th, yesterday, 2024. I am writing this thread to reach out to anyone who might be able to help me in my desire to move to El Salvador. To anyone who is presently living in El Salvador or is enroute in the next few weeks, I would like to schedule a visit to the country to have a look see at the environment, the people, and the possible land opportunities. My finances are such that I do need to find a small place to hang my hat on to rest, car rental, and where to stay economically. Health wise, I need to be near the salt water to ground and walk about, and don't mind driving into the hills to sleep at night. It would be great to connect with someone who is already in El Salvador and has made the transition or making the transition from the U.S. to the tropics. My email is ([healthyassurance@gmail.com](mailto:healthyassurance@gmail.com)), and from there I can provide a phone number to call when possible. I thank you kindly for your input regarding this S.O.S, message in a bottle. Michael Moreau
+Hey this is Michael Moreau, and I attended the Jack Kruse Q & A regarding financial issues about the globe, on July 14th, yesterday, 2024. I am writing this thread to reach out to anyone who might be able to help me in my desire to move to El Salvador. To anyone who is presently living in El Salvador or is enroute in the next few weeks, I would like to schedule a visit to the country to have a look see at the environment, the people, and the possible land opportunities. My finances are such that I do need to find a small place to hang my hat on to rest, car rental, and where to stay economically. Health wise, I need to be near the salt water to ground and walk about, and don't mind driving into the hills to sleep at night. It would be great to connect with someone who is already in El Salvador and has made the transition or making the transition from the U.S. to the tropics. My email is ([[email redacted]](mailto:[email redacted])), and from there I can provide a phone number to call when possible. I thank you kindly for your input regarding this S.O.S, message in a bottle. Michael Moreau
 
 ### drsongihan — 2024-07-16T16:05:00+0300
 **Source:** <https://forum.jackkruse.com/threads/introducing-myself-michael-moreau.29160/post-337217>
@@ -17813,7 +17813,7 @@ Airbnbs. You can get them everywhere.
 
 > [John Patrick said:](/goto/post?id=337198)
 >
-> Hey this is Michael Moreau, and I attended the Jack Kruse Q & A regarding financial issues about the globe, on July 14th, yesterday, 2024. I am writing this thread to reach out to anyone who might be able to help me in my desire to move to El Salvador. To anyone who is presently living in El Salvador or is enroute in the next few weeks, I would like to schedule a visit to the country to have a look see at the environment, the people, and the possible land opportunities. My finances are such that I do need to find a small place to hang my hat on to rest, car rental, and where to stay economically. Health wise, I need to be near the salt water to ground and walk about, and don't mind driving into the hills to sleep at night. It would be great to connect with someone who is already in El Salvador and has made the transition or making the transition from the U.S. to the tropics. My email is ([healthyassurance@gmail.com](mailto:healthyassurance@gmail.com)), and from there I can provide a phone number to call when possible. I thank you kindly for your input regarding this S.O.S, message in a bottle. Michael Moreau
+> Hey this is Michael Moreau, and I attended the Jack Kruse Q & A regarding financial issues about the globe, on July 14th, yesterday, 2024. I am writing this thread to reach out to anyone who might be able to help me in my desire to move to El Salvador. To anyone who is presently living in El Salvador or is enroute in the next few weeks, I would like to schedule a visit to the country to have a look see at the environment, the people, and the possible land opportunities. My finances are such that I do need to find a small place to hang my hat on to rest, car rental, and where to stay economically. Health wise, I need to be near the salt water to ground and walk about, and don't mind driving into the hills to sleep at night. It would be great to connect with someone who is already in El Salvador and has made the transition or making the transition from the U.S. to the tropics. My email is ([[email redacted]](mailto:[email redacted])), and from there I can provide a phone number to call when possible. I thank you kindly for your input regarding this S.O.S, message in a bottle. Michael Moreau
 
 MIchael the advice from the others is great, take it and run with it.
 
@@ -18043,7 +18043,7 @@ Last year, I was able to experience first hand how kind and helpful the local bi
 ### John Patrick — 2024-07-24T18:26:52+0300
 **Source:** <https://forum.jackkruse.com/threads/introducing-myself-michael-moreau.29160/post-337538>
 
-Thank you all so much for the pointers, names, addresses, email connections and handles that will help make this transition do-able. I am setting in motion the move from California to Washington (the State), in order to place my bedridden brother with the Vets as he is a Navy vet. Once situated within the next month and a half, I will be attending to my life, meaning health and wealth in El Salvador, Using my newer email I have ([welcome2whealth@gmail.com](mailto:welcome2whealth@gmail.com)), which will be for those seeking info about health and wealth, as expressed by that word \[whealth\], improper spelling I am told, no, just a new word. Update to follow as implemented.
+Thank you all so much for the pointers, names, addresses, email connections and handles that will help make this transition do-able. I am setting in motion the move from California to Washington (the State), in order to place my bedridden brother with the Vets as he is a Navy vet. Once situated within the next month and a half, I will be attending to my life, meaning health and wealth in El Salvador, Using my newer email I have ([[email redacted]](mailto:[email redacted])), which will be for those seeking info about health and wealth, as expressed by that word \[whealth\], improper spelling I am told, no, just a new word. Update to follow as implemented.
 
 ### John Patrick — 2024-07-31T03:52:23+0300
 **Source:** <https://forum.jackkruse.com/threads/introducing-myself-michael-moreau.29160/post-337825>
@@ -18052,7 +18052,7 @@ Thank you all so much for the pointers, names, addresses, email connections and 
 >
 > She has a weekly and monthly rate also. How long do you want?
 
-Anthony, Michael here and I can only leave the country for 30 days on this first trip, so I would need a room, economical, someone's back Portch with a sleeping bag is also fine. Meaning, I have had to do that as well at my brother's place. Let's figure 4 seven-day weeks or 28 days which is a month one way or the other. If I am allowed to put in my email here are two options: [healthyassurance@gmail.com](mailto:healthyassurance@gmail.com) - and [welcome2whealth@gmail.com](mailto:welcome2whealth@gmail.com) ... either one will work. I thank you for your information regarding this request. Michael.
+Anthony, Michael here and I can only leave the country for 30 days on this first trip, so I would need a room, economical, someone's back Portch with a sleeping bag is also fine. Meaning, I have had to do that as well at my brother's place. Let's figure 4 seven-day weeks or 28 days which is a month one way or the other. If I am allowed to put in my email here are two options: [[email redacted]](mailto:[email redacted]) - and [[email redacted]](mailto:[email redacted]) ... either one will work. I thank you for your information regarding this request. Michael.
 
 ### John Patrick — 2024-07-31T04:22:59+0300
 **Source:** <https://forum.jackkruse.com/threads/introducing-myself-michael-moreau.29160/post-337826>
@@ -18064,7 +18064,7 @@ Dr. Songihan, update on my status: approved for apartment for my brother in Cama
 
 > [John Patrick said:](/goto/post?id=337825)
 >
-> Anthony, Michael here and I can only leave the country for 30 days on this first trip, so I would need a room, economical, someone's back Portch with a sleeping bag is also fine. Meaning, I have had to do that as well at my brother's place. Let's figure 4 seven-day weeks or 28 days which is a month one way or the other. If I am allowed to put in my email here are two options: [healthyassurance@gmail.com](mailto:healthyassurance@gmail.com) - and [welcome2whealth@gmail.com](mailto:welcome2whealth@gmail.com) ... either one will work. I thank you for your information regarding this request. Michael.
+> Anthony, Michael here and I can only leave the country for 30 days on this first trip, so I would need a room, economical, someone's back Portch with a sleeping bag is also fine. Meaning, I have had to do that as well at my brother's place. Let's figure 4 seven-day weeks or 28 days which is a month one way or the other. If I am allowed to put in my email here are two options: [[email redacted]](mailto:[email redacted]) - and [[email redacted]](mailto:[email redacted]) ... either one will work. I thank you for your information regarding this request. Michael.
 
 Contact - jackmck - here on the Forum for a potential place to stay and other helpful info.
 
@@ -30815,7 +30815,7 @@ The BVK measures body voltage that is being induced into your body from any elec
 ### Mr.AJ — 2024-08-21T17:53:10+0300
 **Source:** <https://forum.jackkruse.com/threads/el-salvador-scheduling.29339/post-338753>
 
-Jack has posted a few times on X of how to become a member by sending an email to [info@kruseatdestin.com](mailto:info@kruseatdestin.com) (do I have that right?) in order to get set up with a trip to try out and potentially get citizenship in El Salvador. I was wanting to do this to set up a trip in the coming months but I have not heard back from that email address for about 2 weeks after sending 2 emails, so wanted to see if there was another way to do that through these forums.
+Jack has posted a few times on X of how to become a member by sending an email to [[email redacted]](mailto:[email redacted]) (do I have that right?) in order to get set up with a trip to try out and potentially get citizenship in El Salvador. I was wanting to do this to set up a trip in the coming months but I have not heard back from that email address for about 2 weeks after sending 2 emails, so wanted to see if there was another way to do that through these forums.
 
 I'm a big bitcoiner and have some health issues that I'm curious to see if El Salvador will be able to reverse.
 
@@ -38052,7 +38052,7 @@ So I looked it up and it is for $25.00 patreon members. Now as I read the first 
 So now would someone like to share with me thru my email the complete “THE MELANIN RENOVATION RX FOR MAMMALS” post that Dr Jack wrote?
 Yes, I’m NOT asking you to do something that you feel is wrong. WhIch is why I wrote the title of this post as such. Thank you either way
 And please Dr Jack forgive me
-Email: [uswebers12@yahoo.com](mailto:uswebers12@yahoo.com)
+Email: [[email redacted]](mailto:[email redacted])
 
 
 ══════════════════════════════════════════════════════════════════════

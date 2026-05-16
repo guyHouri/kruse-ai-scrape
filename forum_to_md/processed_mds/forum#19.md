@@ -379,7 +379,7 @@ ETA we should receive Chaos and Havoc's today or tomorrow....
 
 Ouch, that is high. You might want to consider buying a round trip airfare to Nevada, USA to pick up your mattress pads and pay the extra baggage charge on them. I would think that would be much cheaper, at least something to check into.
 
-### jeanie@truelongmont.com — 2013-02-14T19:25:29+0200
+### [email redacted] — 2013-02-14T19:25:29+0200
 **Source:** <https://forum.jackkruse.com/threads/my-magnetico-sleep-pad.5697/post-75835>
 
 > [Shijin13 said:](/goto/post?id=75825)
@@ -777,12 +777,12 @@ Very interesting. How did you determine the magnets were alternating? Did you ta
 I used a compass. The "N" is actually the south end of the compass needle, so it points to the north side of the magnets.
 Yes, I've thought about making a pad also. Two layers of thick material, glue magnets in one line, sew, glue on another line, sew, etc.
 
-### curtwht@yahoo.com — 2013-03-28T17:40:46+0200
+### [email redacted] — 2013-03-28T17:40:46+0200
 **Source:** <https://forum.jackkruse.com/threads/my-magnetico-sleep-pad.5697/post-82058>
 
 [http://www.magnet4less.com/product\_info.php?cPath=2\_6&products\_id=255](http://www.magnet4less.com/product_info.php?cPath=2_6&products_id=255) these magnets look similar to magnetico's. The magnetico description on ebay describes similar dimension and gauss. The magnetico single classic has 384 magnets, you can buy 500 ceramic from magnet 4 less for around 150$ plus 40$ shipping. Here is another link with interesting info [http://www.azunimags.com/catalog/item/5456673/5395084.htm](http://www.azunimags.com/catalog/item/5456673/5395084.htm) I don't know if these are as good as magnetico.
 
-### opelecky@yahoo.com — 2013-03-29T23:49:33+0200
+### [email redacted] — 2013-03-29T23:49:33+0200
 **Source:** <https://forum.jackkruse.com/threads/my-magnetico-sleep-pad.5697/post-82207>
 
 Hi there,
@@ -792,7 +792,7 @@ That's probably a silly question the magnetico sleep pad directions mention that
 ### shilohman — 2013-03-30T00:07:32+0200
 **Source:** <https://forum.jackkruse.com/threads/my-magnetico-sleep-pad.5697/post-82211>
 
-> [opelecky@yahoo.com said:](/goto/post?id=82207)
+> [[email redacted] said:](/goto/post?id=82207)
 >
 > Hi there,
 >
@@ -805,7 +805,7 @@ You want to be exposed only to the negative field of the magnets. The distance a
 
 I ordered a Magnetico today and got the discount...I'm glad I waited.
 
-### opelecky@yahoo.com — 2013-03-30T14:08:13+0200
+### [email redacted] — 2013-03-30T14:08:13+0200
 **Source:** <https://forum.jackkruse.com/threads/my-magnetico-sleep-pad.5697/post-82271>
 
 Is there a discount code somewhere that Misty mentioned? I just talked to my husband and am ready to order. Thanks.
@@ -1683,7 +1683,7 @@ Just a quick recap of my first 5 days. My sleep has been ok but I have been very
 ### Jack Kruse — 2013-07-18T01:17:15+0300
 **Source:** <https://forum.jackkruse.com/threads/my-magnetico-sleep-pad.5697/post-90297>
 
-> [montediaz@live.com said:](/goto/post?id=90269)
+> [[email redacted] said:](/goto/post?id=90269)
 >
 > Couldn't we make our own electromagnetic pads for far cheaper and stronger?
 
@@ -5968,12 +5968,12 @@ Dali, I will see if I can write something up today.
 
 I love the word magic....I, too, suffer from AF...I know just how you feel..I found the HC made me so angry and hateful it just wasn't worth it for me..I'd rather have AF than be mean to someone.I took it for 2 weeks.Then I stopped and what a big mistake that was. But I got through it and am now free of it secondary to diet and lifestyle. I am so glad this is working for you..We are all so different, yet the same..
 
-### jeanie@truelongmont.com — 2013-02-08T18:59:41+0200
+### [email redacted] — 2013-02-08T18:59:41+0200
 **Source:** <https://forum.jackkruse.com/threads/its-magic.5733/post-74890>
 
 MamaG - your afternoon stuff sounds just like a dopamine slump to moi. Try 500 mgs of L-tyrosine after lunch, then another 500 mgs 30 mins later if you don't "feel"better. You can go as high as 2000K mgs, IF NEEDED. At any rate, it's a great way to pinpoint if it is dopamine slump then come up with a good plan to combat it.
 
-AnnaK - I don't have any PM's either, I figured I didn't show up enough to the koolaid line and was banninated. . .email me at: [marketingjeanie@gmail.com](mailto:marketingjeanie@gmail.com), then I'll give you my real email!  Or comment at cavemam.com
+AnnaK - I don't have any PM's either, I figured I didn't show up enough to the koolaid line and was banninated. . .email me at: [[email redacted]](mailto:[email redacted]), then I'll give you my real email!  Or comment at cavemam.com
 
 Z - bless you child, the mean girl spirit here runs deep these days and you are handling it smashingly.
 
@@ -5992,7 +5992,7 @@ So... sharing and giving from your hearts abundance is a great place to be.
 
 I love to get questioned........I just think my past has nothing to do with your future.......and if you do your PRL level is shot.
 
-### jeanie@truelongmont.com — 2013-02-08T19:45:01+0200
+### [email redacted] — 2013-02-08T19:45:01+0200
 **Source:** <https://forum.jackkruse.com/threads/its-magic.5733/post-74900>
 
 > [Jack Kruse said:](/goto/post?id=74895)
@@ -6776,7 +6776,7 @@ Oh, and for clarification, I ate a POUND of wild salmon for breakfast, in at lea
 
 Are you working with a functional med doc? I know you did the gi effects but did anyone really help you interpret all the results? Just thinking that something is really amiss in your gut yet.
 
-### jeanie@truelongmont.com — 2013-02-16T22:17:54+0200
+### [email redacted] — 2013-02-16T22:17:54+0200
 **Source:** <https://forum.jackkruse.com/threads/help-cravings-beating-me-down.5736/post-76161>
 
 > [MamaGrok said:](/goto/post?id=76101)
@@ -7263,7 +7263,7 @@ The latter. Some folks have trouble getting back to sleep the first day or two, 
 
 i take mine with optimal coffee and MCT in it
 
-### jeanie@truelongmont.com — 2013-02-07T04:46:17+0200
+### [email redacted] — 2013-02-07T04:46:17+0200
 **Source:** <https://forum.jackkruse.com/threads/dos-and-donts-of-mixing-supplements.5746/post-74578>
 
 I've been using D-ribose in Coffee - and I'm quite enjoying it. . .The slight sweetness allows me to up the volume of 100% dark chocolate and spices while staying tasty. It's like a thick and rich mocha. I also use a bit of Maca powder which is sweet, too. Probably I'm short on coffee with all the stuff I throw in the cup these days!
@@ -7606,7 +7606,7 @@ I understand this is a late, but the response you received from the company was 
 
 As one who has a degree in biochemistry, and having worked in a nutrition store for 3 years, I can assure you my confidence in all of the information provided. Ubiquinol is the scam, and is not any bit better than ubiquinone because as your responder said, it gets oxidized right back to ubiquinone the moment it hits your stomach acid. It pains me that doctors who are educated in the subject have not spoken louder against it. My advice is to save yourself the money and just buy ubiquinone, though ultimately it is your decision. Best of luck and take care!
 
-### alanmjones@gmail.com — 2013-08-20T02:45:15+0300
+### [email redacted] — 2013-08-20T02:45:15+0300
 **Source:** <https://forum.jackkruse.com/threads/coq10-companys-response-to-my-question-about-ubiquinol.5760/post-93168>
 
 Dr. Mercola (no flames, pls) wrote the following interesting tidbit -- true?
@@ -7615,7 +7615,7 @@ Dr. Mercola (no flames, pls) wrote the following interesting tidbit -- true?
 
 _There is a patent on ubiquinol so every brand has to purchase it from the same company, so if you decide to use it pick a company that you trust._
 
-### alanmjones@gmail.com — 2013-08-20T02:51:33+0300
+### [email redacted] — 2013-08-20T02:51:33+0300
 **Source:** <https://forum.jackkruse.com/threads/coq10-companys-response-to-my-question-about-ubiquinol.5760/post-93169>
 
 Another interesting article:
@@ -7951,7 +7951,7 @@ Again Matthew, for sharing about mitoQ, I hope wellness for you.
 ### Martha Ray — 2023-05-24T00:41:47+0300
 **Source:** <https://forum.jackkruse.com/threads/coq10-companys-response-to-my-question-about-ubiquinol.5760/post-321620>
 
-> [alanmjones@gmail.com said:](/goto/post?id=93168)
+> [[email redacted] said:](/goto/post?id=93168)
 >
 > Dr. Mercola (no flames, pls) wrote the following interesting tidbit -- true?
 >
@@ -7964,7 +7964,7 @@ Dead link...change of policy.
 ### Martha Ray — 2023-05-24T00:44:22+0300
 **Source:** <https://forum.jackkruse.com/threads/coq10-companys-response-to-my-question-about-ubiquinol.5760/post-321621>
 
-> [alanmjones@gmail.com said:](/goto/post?id=93169)
+> [[email redacted] said:](/goto/post?id=93169)
 >
 > Another interesting article:
 >
@@ -12861,7 +12861,7 @@ Thanks for the tip on the book kathylu. Do you know if it is downloadable as an 
 
 Back late last year my DHEAs was 357. I was sleeping great and had no discernible side effects. Then..... I got a little freaked out by that number because I was a little over lab range and backed off the supplementation. Now it's at 97, sleep sucks, and I am back to building it up again. I won't be making that mistake again. I wouldn't back off if I were you. Remember the lab ranges are for all the sick people who have gone in to get lab tests in your age range. I have that Dzugan book and it has some good references. Great resource and I think that 327 is a great spot to shoot for.
 
-### megzy9281@yahoo.com — 2013-02-10T20:42:08+0200
+### [email redacted] — 2013-02-10T20:42:08+0200
 **Source:** <https://forum.jackkruse.com/threads/dhea-s-and-teststerone-results.5794/post-75256>
 
 Hi there, I did a salivary hormone test and my results were DHEA-S average 1.12 (yikes!) and Cortisol sum was low too at 27. My NP started me on a sublingual DHEA and Pregnenelone program however I felt worse after starting since it interrupted my sleep (even at the very lowest dose) so I stopped it and am looking for any help/feedback. Thank you!
@@ -12889,7 +12889,7 @@ I've been supplementing with 50mg of regular DHEA for 2 months and my levels sti
 ### Destiny — 2013-02-28T04:17:24+0200
 **Source:** <https://forum.jackkruse.com/threads/dhea-s-and-teststerone-results.5794/post-78225>
 
-> [megzy9281@yahoo.com said:](/goto/post?id=75256)
+> [[email redacted] said:](/goto/post?id=75256)
 >
 > Hi there, I did a salivary hormone test and my results were DHEA-S average 1.12 (yikes!) and Cortisol sum was low too at 27. My NP started me on a sublingual DHEA and Pregnenelone program however I felt worse after starting since it interrupted my sleep (even at the very lowest dose) so I stopped it and am looking for any help/feedback. Thank you!
 
@@ -13384,15 +13384,15 @@ Just thought I'd pop in to offer a heads-up on changes to the site. Most of you 
 
 Two major changes and a couple notes:
 
-1) **No Member Dashboard**. In lieu of the Dashboard where members login and access webinars and sign up for consults, we have transitioned to an email-based system to deliver all your member content and benefits to you via email. Please make sure [support@jackkruse.com](mailto:support@jackkruse.com) is on your safe list and save the emails we send you, as they include links to download your content, sign up for consults, etc.
+1) **No Member Dashboard**. In lieu of the Dashboard where members login and access webinars and sign up for consults, we have transitioned to an email-based system to deliver all your member content and benefits to you via email. Please make sure [[email redacted]](mailto:[email redacted]) is on your safe list and save the emails we send you, as they include links to download your content, sign up for consults, etc.
 
 We are adding a "Member Portal" section to the site shortly that will include links for you to be able to sign up for consults and email lab consults if you are a member... That info is in the emails we sent you, however, so refer to them in the meantime for links, etc. to sign up.
 
-Questions or issues? Email [support@jackkruse.com](mailto:support@jackkruse.com) or open a ticket: [http://jackkruse.zendesk.com](http://jackkruse.zendesk.com)
+Questions or issues? Email [[email redacted]](mailto:[email redacted]) or open a ticket: [http://jackkruse.zendesk.com](http://jackkruse.zendesk.com)
 
 2) **Forums are back**! We've brought back the vBulletin forums, as you all requested, so you can access them with tapatalk. Glory be! We are going to add a banner here with links to the menu shortly. If you can't remember your password, go here and follow the prompts: [http://jackkruse.com/forum/login.php?do=lostpw](http://jackkruse.com/forum/login.php?do=lostpw).
 
-If you still can't login, you know the drill: Email [support@jackkruse.com](mailto:support@jackkruse.com) or open a ticket: [http://jackkruse.zendesk.com](http://jackkruse.zendesk.com).
+If you still can't login, you know the drill: Email [[email redacted]](mailto:[email redacted]) or open a ticket: [http://jackkruse.zendesk.com](http://jackkruse.zendesk.com).
 
 **The Optimal Reset!** We are several weeks in to the Optimal Reset now. I hope ya'll are enjoying it! this program isn't perfect. It's brand-spanking new and we are using this run to help iron out all the kinks. So please be patient with us. We are letting everyone in the community participate at no charge, and Dr Kruse is donating his time to do complimentary Q&As to support you guys as you're going through it. I hope ya'll are finding the structured program to be helpful and are enjoying supporting each other! Hop on over to the Optimal Reset forum for more help and encouragement.
 
@@ -13821,7 +13821,7 @@ I wanted to say also that those who live in dry climates would need to spray wat
 
 Any other ideas?
 
-### jeanie@truelongmont.com — 2013-02-10T18:43:09+0200
+### [email redacted] — 2013-02-10T18:43:09+0200
 **Source:** <https://forum.jackkruse.com/threads/tallow-for-the-skin.5810/post-75226>
 
 ok, so tallow is one oil I've not incorporated into my beauty stuff! R - did you filter it? One of my problems is the smell during processing - and it makes such a mess to cook with. I did a batch last summer - but haven't been inspired to go that route again, although for creams etc I might consider it.
@@ -13832,7 +13832,7 @@ ok, so tallow is one oil I've not incorporated into my beauty stuff! R - did you
 I am going to ty this tonight as my expensive argan oil have to be day moisturizer only as it is quite expensive.. Seaweed water on skin, on the top tallow.. yay. I am curious if all my wrinkles are gone in the morning.
 I will be reporting..
 
-### jeanie@truelongmont.com — 2013-02-10T19:01:06+0200
+### [email redacted] — 2013-02-10T19:01:06+0200
 **Source:** <https://forum.jackkruse.com/threads/tallow-for-the-skin.5810/post-75230>
 
 also if any of you actually cook with the tallow, how do you clean it up?!? That was the biggie that I noticed - it seemed to fly all over and was super hard and I ended up spending way more time cleaning my kitchen that I was comfy with.
@@ -13851,7 +13851,7 @@ I found this while looking into making moisturizer - how to make tallow in the s
 
 I've done both the wet and dry methods of rendering. I found the wet method to be more foolproof in terms of avoiding burning. I also found grinding up the fat first to be far more effective than just dicing, as it melts at a more uniform pace when ground. One bit of advice - don't do this if you aren't feeling good as the smell may really get to you. I did it the day after being glutened when I was sick to my stomach and I now have unhappy memories associated with lard.
 
-### jeanie@truelongmont.com — 2013-02-10T23:09:01+0200
+### [email redacted] — 2013-02-10T23:09:01+0200
 **Source:** <https://forum.jackkruse.com/threads/tallow-for-the-skin.5810/post-75280>
 
 I 2nd the bad smell. I did it with the crockpot on the back patio so only the neighbors had to smell it!
@@ -13974,7 +13974,7 @@ Look, Jack has great ideas, and I've learned a ton about the ETC, mitochondria a
 
 Do NOT think that I'm advocating endurance training, or any crap like Cross Fit. I'm saying that very short duration HIGH intensity exercises are ESSENTIAL for sublime mitochondrial function and I don't give a sh\*t what Jack says, he is WRONG, he might be right about limiting carbs, but he is DEAD wrong about avoiding all high intensity very short duration exercises. I fully expect this to be deleted as I'm right and it contradicts Jack who seems to have Alec Baldwin's God Complex. [http://www.youtube.com/watch?v=8g2dkDh4ov4](http://www.youtube.com/watch?v=8g2dkDh4ov4)
 
-### jeanie@truelongmont.com — 2013-02-09T20:13:16+0200
+### [email redacted] — 2013-02-09T20:13:16+0200
 **Source:** <https://forum.jackkruse.com/threads/kruse-is-deadly-wrong-in-condemning-all-high-intensity-exercise.5820/post-75051>
 
 curious, do you think the genetic base of having more or less fast twitch/slow twitch fibres make a difference? As in if someone does a full genetic profile, and finds out they have lots of fast or Slow fibres - should that play into what exercise is most beneficial for overall health?
@@ -14001,7 +14001,7 @@ In the time it took the original poster to pull up that nice little video he cou
 
 Handy hints in no particular order: _Read_ the blogs. Calm down.
 
-### jeanie@truelongmont.com — 2013-02-09T22:20:34+0200
+### [email redacted] — 2013-02-09T22:20:34+0200
 **Source:** <https://forum.jackkruse.com/threads/kruse-is-deadly-wrong-in-condemning-all-high-intensity-exercise.5820/post-75070>
 
 > [freesia said:](/goto/post?id=75068)
@@ -14033,7 +14033,7 @@ How about if you want to increase mitochondrial function and live in a reduced s
 
 The things you are recommending people do are a 6 on a scale from 1-10. If you start seriously looking into this and suggesting it to people that'll change to a 9/10. If you seriously care about helping people you'll incorporate some serious protocols instead of this hippy grounding crap.
 
-### jeanie@truelongmont.com — 2013-02-09T22:30:59+0200
+### [email redacted] — 2013-02-09T22:30:59+0200
 **Source:** <https://forum.jackkruse.com/threads/kruse-is-deadly-wrong-in-condemning-all-high-intensity-exercise.5820/post-75072>
 
 @lightforthenight - I ask because my understanding is that we come with a majority of one or the other - and that the chain of events actually plays out differently depending on this balance. . .
@@ -14169,7 +14169,7 @@ Actually, now this is interesting...I woke an hour before sunrise which is unusu
 
 I'm now taking it only before 3pm. My sleep improved a bit when I switched from ubiquinone to ubiquinol but went downhill with the d-ribose. Could be totally unrelated but I'm taking no chances.
 
-### jeanie@truelongmont.com — 2013-02-10T02:01:37+0200
+### [email redacted] — 2013-02-10T02:01:37+0200
 **Source:** <https://forum.jackkruse.com/threads/kruse-is-deadly-wrong-in-condemning-all-high-intensity-exercise.5820/post-75124>
 
 Z and others, are you doing the combo of Q10+d ribose. I bought a big bin of it, so I figure I enjoy my a.m. drink with it so much I'm not going to look to deeply into JK's comment that "it doesn't process like sugar" hehe. Pick your battles!
@@ -14243,7 +14243,7 @@ Ok, so maybe for your case it was not the d-ribose 'per se' that affected your s
 
 Now there are lots of different experiments I want to try with this d-ribose. lol
 
-### jeanie@truelongmont.com — 2013-02-10T18:57:09+0200
+### [email redacted] — 2013-02-10T18:57:09+0200
 **Source:** <https://forum.jackkruse.com/threads/kruse-is-deadly-wrong-in-condemning-all-high-intensity-exercise.5820/post-75229>
 
 > [Lyndra said:](/goto/post?id=75171)
@@ -14413,7 +14413,7 @@ Thanks, Shijin! Cannot wait to try! Yum ...
 **Subforum:** Optimal Kids
 **Posts:** 8
 ══════════════════════════════════════════════════════════════════════
-### trishalinn@gmail.com — 2013-02-10T04:59:15+0200
+### [email redacted] — 2013-02-10T04:59:15+0200
 **Source:** <https://forum.jackkruse.com/threads/overweight-toddler.5825/post-75174>
 
 Hi guys,
@@ -14429,7 +14429,7 @@ E, my bigger boy, is now 27 pounds and 31.5 inches, which I guess technically ma
 
 epigenetics.......and no, you and your mom wont like the implications.......but that is the answer. The kids need to just eat fat and protein until they are 6.......and you have a shot of helping them big time. Cut all their EMF time.......100% of it.
 
-### trishalinn@gmail.com — 2013-02-10T23:30:36+0200
+### [email redacted] — 2013-02-10T23:30:36+0200
 **Source:** <https://forum.jackkruse.com/threads/overweight-toddler.5825/post-75286>
 
 > [Jack Kruse said:](/goto/post?id=75217)
@@ -14446,7 +14446,7 @@ ElectroMagnetic Frequency. In a nutshell, just turn off all the power. No TV, no
 
 Oh, and don't let them use a cell phone, and replace your cordless phone for an old fashioned one.
 
-### trishalinn@gmail.com — 2013-02-10T23:42:40+0200
+### [email redacted] — 2013-02-10T23:42:40+0200
 **Source:** <https://forum.jackkruse.com/threads/overweight-toddler.5825/post-75288>
 
 No tv and computers is easy for them, they're only 20 months. We have to have wifi for work. I can ditch the CD player in their room. I used it as background noise for them, but don't think they need it to sleep anymore.
@@ -14456,7 +14456,7 @@ No tv and computers is easy for them, they're only 20 months. We have to have wi
 
 If you are using a baby monitor at all at 2.4 GHz you might just not like EMF 5...and a CD player wont make them sleep better.....it just makes them sleep less well and may make them gain weight too.
 
-### trishalinn@gmail.com — 2013-02-11T04:48:59+0200
+### [email redacted] — 2013-02-11T04:48:59+0200
 **Source:** <https://forum.jackkruse.com/threads/overweight-toddler.5825/post-75356>
 
 > [Jack Kruse said:](/goto/post?id=75317)
@@ -14790,7 +14790,7 @@ EMF 4 story about the gazelle and the lion should open their friggin eyes.......
 **Subforum:** Optimal Labs
 **Posts:** 8
 ══════════════════════════════════════════════════════════════════════
-### megzy9281@yahoo.com — 2013-02-10T20:46:25+0200
+### [email redacted] — 2013-02-10T20:46:25+0200
 **Source:** <https://forum.jackkruse.com/threads/dhea-low-but-cant-sleep-with-supplementation-help.5832/post-75258>
 
 I did a salivary hormone test and my results were DHEA-S average 1.12 (yikes!) and Cortisol sum was low too at 27. My NP started me on a sublingual DHEA and Pregnenelone program however I felt worse after starting since it interrupted my sleep (even at the very lowest dose) so I stopped it and am looking for any help/feedback. Thank you!
@@ -14828,12 +14828,12 @@ First 3 yrs I don't think was optimal for me...erm...ya.
 
 Parents didn't get wi-fi (used dial up until then) until very late: 2002. Cell phones not until 1999 of which I didn't hardly use. Didn't have my own computer until 2004 either. So I ask my question with the EMF stuff as not good explanation (at least fully since it was so low exposure). Also swam in lake Erie growing up too.
 
-### megzy9281@yahoo.com — 2013-02-11T20:51:06+0200
+### [email redacted] — 2013-02-11T20:51:06+0200
 **Source:** <https://forum.jackkruse.com/threads/dhea-low-but-cant-sleep-with-supplementation-help.5832/post-75425>
 
 My seratonin and dopamine are also very low, and same thing, when I supplement I'll feel awesome during the day, but then sleep suffers and I can't continue...  Would Mito Rx and trying to optimize sleep be a next step or is there something I'm missing? Feel like I take 1 step forward and 2 steps back with supplementation but I'm so anxious to get better faster... How long do you think it would take for things to normalize with just good food/sleep and no supplements?
 
-### megzy9281@yahoo.com — 2013-02-11T21:30:44+0200
+### [email redacted] — 2013-02-11T21:30:44+0200
 **Source:** <https://forum.jackkruse.com/threads/dhea-low-but-cant-sleep-with-supplementation-help.5832/post-75433>
 
 Listening to fat loss webinar and thinking about my Mitochondria. My TSH 1.04, BUN/Creatinine is 21/.64 = 32.8 (dehydration right?)... But HS-CRP = 'less than 0.3' (I'm guessing thanks to paleo diet for 2 years) Some other numbers...
@@ -15628,7 +15628,7 @@ EE Dude is officially gone...sorry for the controversy. I look forward to EMF 4.
 EE Dude - Glad your comments weren't filtered out. You make a very good point about the lack of research into grounding. But you have to realize that the vast majority of research in America and the world is only undertaken or continued if there is a perceived financial benefit. This makes sense since it takes millions of dollars to fund research. Magnetism/grounding can not be patented so there will never be a ground swell of research performed in these areas. Companies that market devices that provide magnetism/grounding therapy may patent their devices, but the market for these types of devices is very small and will never become main stream.
 Question, how many studies need to be done before you become a believer? There are studies out there but just very few and of course Dr. K has his own N-1 that hopefully will come out in EMF-5. NASA employs the use of grounding and magnetism in the shuttle/space station. So maybe their studies (which we will never see) are what convinced them of the importance of grounding/magnetism. Just something to think about.
 
-### jeanie@truelongmont.com — 2013-02-12T18:32:48+0200
+### [email redacted] — 2013-02-12T18:32:48+0200
 **Source:** <https://forum.jackkruse.com/threads/all-things-electrical-magnetic-fields.5847/post-75551>
 
 I'm of the same mind on "studies", frankly they can't be trusted - even a good study can be reported in such a way to further a pre-determined POV. BUT I am out of my cognitive depth on this EMF stuff. Could we perhaps take one issue at a time and break it down in a way all of us can learn about as we go? Something seem wrong about it to me, but I have no rational reason to either believe or disbelieve it - it's simply so much gobbledygook at this point I would like go back many steps and scaffold the learning on it all. It has a little of the old school 80's "fat makes you fat!" vibe to me at this point. I will freely admit I don't even know enough on it to be dangerous!
@@ -15701,7 +15701,7 @@ I need to get myself back to the state in September. But I think this might be a
 
 Then again, I could be wrong about the whole thing. lol
 
-### jeanie@truelongmont.com — 2013-02-12T20:22:32+0200
+### [email redacted] — 2013-02-12T20:22:32+0200
 **Source:** <https://forum.jackkruse.com/threads/all-things-electrical-magnetic-fields.5847/post-75576>
 
 > [ATL\_Paleo said:](/goto/post?id=75571)
@@ -15844,7 +15844,7 @@ If I may add a question....would the EMF also be emitted from devices like neuro
 I think you are right, Hope.
 Sigh. Staying away from manmade EMF sounds like avoiding plastic in today's society. Almost impossible.
 
-### jeanie@truelongmont.com — 2013-02-13T03:47:30+0200
+### [email redacted] — 2013-02-13T03:47:30+0200
 **Source:** <https://forum.jackkruse.com/threads/all-things-electrical-magnetic-fields.5847/post-75649>
 
 More thoughts on that article:
@@ -16974,7 +16974,7 @@ Interesting Journal Article.
 
 [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2557071/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2557071/)
 
-### jeanie@truelongmont.com — 2013-02-12T18:56:18+0200
+### [email redacted] — 2013-02-12T18:56:18+0200
 **Source:** <https://forum.jackkruse.com/threads/dirty-electricity-elevates-blood-sugar-among-electrically-sensitive-diabetics.5861/post-75557>
 
 > [Shijin13 said:](/goto/post?id=75554)
@@ -17152,7 +17152,7 @@ Indeed. True words.
 
 Excellent observation, MamaGrok! I agree, it doesn't have to be All or Nothing! Cooperation and community can be achieved without devotion to the state through socialism or communism. I much prefer to be shown what is best for me rather than dictated to from 'above'. Almost daily I read stories that show medical authorities to be more and more tied to CW and to be actively ignoring science.
 
-### jeanie@truelongmont.com — 2013-02-18T19:54:10+0200
+### [email redacted] — 2013-02-18T19:54:10+0200
 **Source:** <https://forum.jackkruse.com/threads/mitochondrial-efficiency.5862/post-76333>
 
 > [MamaGrok said:](/goto/post?id=76235)
@@ -17299,7 +17299,7 @@ Thanks.
 **Subforum:** Optimal Labs
 **Posts:** 1
 ══════════════════════════════════════════════════════════════════════
-### kjgraffin@yahoo.com — 2013-02-12T21:12:40+0200
+### [email redacted] — 2013-02-12T21:12:40+0200
 **Source:** <https://forum.jackkruse.com/threads/hormone-labs.5866/post-75587>
 
 I have been on BHRT almost a year now. I believe I have made some good progress but still have a ways to go. My DHEAs seems to be struggling as well as progesterone. Appears the lab made a mistake with one of my estrogen markers but I don't know which one yet. Thoughts on improvements?
@@ -19193,7 +19193,7 @@ not exactly true when quantum time is off.......
 
 Sure, there's the possibility that one's body can't make D even in the best of circumstances. That's why I asked the question, was she expecting she \*couldn't\* make D?
 
-### jeanie@truelongmont.com — 2013-02-16T19:06:11+0200
+### [email redacted] — 2013-02-16T19:06:11+0200
 **Source:** <https://forum.jackkruse.com/threads/small-win.5910/post-76122>
 
 > [KiwiLauren said:](/goto/post?id=76055)
@@ -19293,7 +19293,7 @@ I love these stories, so awesome!
 
 It's still winter here, but when I go out and get some rays, I'm careful to keep my feet at least on the ground. I have put away my reclining lounge chair, yet another relic of the way things used to be...
 
-### amber_tyrrell@hotmail.com — 2013-03-03T10:56:10+0200
+### [email redacted] — 2013-03-03T10:56:10+0200
 **Source:** <https://forum.jackkruse.com/threads/small-win.5910/post-78731>
 
 I have had a similar experience Lauren. Have just got some blood tests back. I'm not sure what the conversion is, and probably still low for what Jack wants it to be, but at the beginning of spring (september) my vit D levels were 70 nmol/L, in Dec they were 102 nmol/L, and end of Feb (and end of summer) 124 nmol/L. This is with no supplementation at all, just naked sunbathing when I could over the summer, not every day, maybe 2 to 3 days per week.
@@ -19305,7 +19305,7 @@ Here is an online Vit D3 conversion table. Plug in your values and calculate. [h
 
 Your 124 nmol/L is around 50ng/ml We need 70 to 100ng/ml but your 50 is great. Just more sun is needed.
 
-### amber_tyrrell@hotmail.com — 2013-03-04T05:49:41+0200
+### [email redacted] — 2013-03-04T05:49:41+0200
 **Source:** <https://forum.jackkruse.com/threads/small-win.5910/post-78873>
 
 > [Dextery said:](/goto/post?id=78779)
@@ -19497,7 +19497,7 @@ Thanks in advance...
 **Subforum:** Cold Thermogenesis
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### megzy9281@yahoo.com — 2013-02-16T23:22:09+0200
+### [email redacted] — 2013-02-16T23:22:09+0200
 **Source:** <https://forum.jackkruse.com/threads/womens-experiences-with-ct.5918/post-76163>
 
 Hi there, I'll be starting CT again for my fatigue issues and am motivated to stick with it this time. I'd like to hear experiences from other women (especially those with adrenal fatigue) who got thru all the discomfort and detox and made it to finally be cold adapted. Hearing from other's struggles turned successes would be good motivation for me!! Thank you!
@@ -19523,7 +19523,7 @@ Morning and evening cortisol levels were in normal range 4 months in.
 
 Hope that helps.
 
-### megzy9281@yahoo.com — 2013-02-18T03:42:28+0200
+### [email redacted] — 2013-02-18T03:42:28+0200
 **Source:** <https://forum.jackkruse.com/threads/womens-experiences-with-ct.5918/post-76296>
 
 Thank you so much for telling me your experience. Super helpful. Back to it, 2nd day of face dunks... Here we go!!
@@ -20759,7 +20759,7 @@ As much as it makes me sad, I've also realized that my tenacity and determinatio
 
 Another well-written response Gretchen. Yes, time to bury the hatchet with your MIL. Who knows, you may gain a fulfilling relationship from it. At least she is open to change.
 
-### jeanie@truelongmont.com — 2013-02-20T21:09:53+0200
+### [email redacted] — 2013-02-20T21:09:53+0200
 **Source:** <https://forum.jackkruse.com/threads/coming-to-terms-with-dying-other-people-that-is.5955/post-76737>
 
 > [Shijin13 said:](/goto/post?id=76699)
@@ -20887,7 +20887,7 @@ Respectfully,,,,,,,you have zero idea what I know. Best be ready. I know precise
 
 For fresh seafood, go to Blue Reef Seafood in Longmont. They have or can get anything you need.
 
-### jeanie@truelongmont.com — 2013-02-21T03:37:57+0200
+### [email redacted] — 2013-02-21T03:37:57+0200
 **Source:** <https://forum.jackkruse.com/threads/coming-to-terms-with-dying-other-people-that-is.5955/post-76810>
 
 > [Lyndra said:](/goto/post?id=76804)
@@ -21050,7 +21050,7 @@ So we have control and no control and perhaps that's the paradox we live in.
 
 This is not a judgement.........we as a species have messed with the equation of life. So we deal with consequences......she does not see it as a consequence.....fair enough but to deny the science is there is no longer tenable......it is if you look.
 
-### jeanie@truelongmont.com — 2013-02-22T04:07:10+0200
+### [email redacted] — 2013-02-22T04:07:10+0200
 **Source:** <https://forum.jackkruse.com/threads/coming-to-terms-with-dying-other-people-that-is.5955/post-76979>
 
 nobody has denied the science. nobody in the latest discussion was able to even get around to actually discussing the whole MiracleBlog (tm) to come. Is it just me? When did this forum become a Seinfeld episode. Here is my comedic analysis of what is going to happen next time someone asks a specific question about the science:
@@ -21324,7 +21324,7 @@ This has turned into a great thread. I love what everyone is saying. A smile sur
 
 [https://www.facebook.com/SmileOntoIt](https://www.facebook.com/SmileOntoIt)
 
-### jeanie@truelongmont.com — 2013-02-26T02:15:51+0200
+### [email redacted] — 2013-02-26T02:15:51+0200
 **Source:** <https://forum.jackkruse.com/threads/coming-to-terms-with-dying-other-people-that-is.5955/post-77688>
 
 > [MamaGrok said:](/goto/post?id=77591)
@@ -21881,7 +21881,7 @@ Right. I've been steering toward the ones that use reverse osmosis, and also say
 
 We have a great water source here that has naturally spring water. We currentlyuse an RO system on top of a whole house filter to get rid of the chlorine, but as soon as we move (oh, please let it be soon....yah, probably not) I will be buying this type of water for the house. I think they deliver too. I think a little investigation might find a great source like this in many locals for others on the forum.
 
-### kjgraffin@yahoo.com — 2013-02-22T18:17:36+0200
+### [email redacted] — 2013-02-22T18:17:36+0200
 **Source:** <https://forum.jackkruse.com/threads/bottled-water-without-fluoride-at-costco.5976/post-77058>
 
 I was looking at getting a Berkey as well, but I was thinking about only using the flouride filter. I'm still a bit confused about whether we should be filtering out the lead and other junk as well.
@@ -21896,7 +21896,7 @@ I was looking at getting a Berkey as well, but I was thinking about only using t
 I just checked Berkley's website. I didn't know that they now have an add-on filter for fluoride! Maybe it's new, or I just overlooked it before.
 KJ, I'm sure we don't need the lead and other junk... But filtering would get rid of the minerals we do need. In my situation, it is most important that I avoid the fluoride pollution, however. I'll just have to get my minerals elsewhere, while I'm in the city. Hard water from an unpolluted (untreated) well would be optimal, and I plan on accessing better water in the future.
 
-### kjgraffin@yahoo.com — 2013-02-22T19:57:43+0200
+### [email redacted] — 2013-02-22T19:57:43+0200
 **Source:** <https://forum.jackkruse.com/threads/bottled-water-without-fluoride-at-costco.5976/post-77079>
 
 I don't think the flouride filter is new as I have been looking at these for about a year. I know we need the minerals but I'm currently doing chelation for heavy metals and lead was huge for me on my provocation test. Lesser of two evils? How to decide?
@@ -21973,7 +21973,7 @@ Pam when you live in a world permanently altered........it must be done now and 
 **Subforum:** Optimal Labs
 **Posts:** 1
 ══════════════════════════════════════════════════════════════════════
-### trishalinn@gmail.com — 2013-02-21T21:15:29+0200
+### [email redacted] — 2013-02-21T21:15:29+0200
 **Source:** <https://forum.jackkruse.com/threads/thoughts-on-recent-labs.5981/post-76916>
 
 Hey guys,
@@ -22130,7 +22130,7 @@ Please send a link to me as well. thanks
 
 Is there a fax number I can send my labs into fro my consult on Sunday? There isn't any info on that in my membership info email....anyone know?
 
-### jeanie@truelongmont.com — 2013-02-22T04:12:15+0200
+### [email redacted] — 2013-02-22T04:12:15+0200
 **Source:** <https://forum.jackkruse.com/threads/help-my-scanner-is-not-working.5987/post-76980>
 
 Got an iphone or camera? Perhaps you can take pic and save to PDF?
@@ -22285,7 +22285,7 @@ Thanks for sharing your excitement and sorry for the late response. It took me a
 
 What type of qualities would you like to see in your dream earthing footwear?
 
-### docwatt@gmail.com — 2013-03-04T07:58:22+0200
+### [email redacted] — 2013-03-04T07:58:22+0200
 **Source:** <https://forum.jackkruse.com/threads/earth-runners-minimalist-earthing-sandals-feedback.5990/post-78878>
 
 > [EarthRunner1987 said:](/goto/post?id=78797)
@@ -22315,7 +22315,7 @@ That is what I was thinking also @Janagram. Not sure my foot wouldn't just be fl
 ### EarthRunner1987 — 2013-03-04T22:14:46+0200
 **Source:** <https://forum.jackkruse.com/threads/earth-runners-minimalist-earthing-sandals-feedback.5990/post-78954>
 
-> [docwatt@gmail.com said:](/goto/post?id=78878)
+> [[email redacted] said:](/goto/post?id=78878)
 >
 > Living not too far from Mike, I decided to eyeball the sandals before buying. Inovative, minimalist and constructed with "heart".
 >
@@ -22810,7 +22810,7 @@ BJK, ever thought you could be the next reality show? Called, "Naked in the Base
 
 I'm not sure I like the sound of THAT.
 
-### jeanie@truelongmont.com — 2013-02-25T02:25:00+0200
+### [email redacted] — 2013-02-25T02:25:00+0200
 **Source:** <https://forum.jackkruse.com/threads/who-am-i-becoming.5998/post-77518>
 
 > [janagram said:](/goto/post?id=77502)
@@ -23346,7 +23346,7 @@ OK! Bought it...now going to read it.....talk amongst yourselves....
 ### Jack Kruse — 2013-02-26T01:44:48+0200
 **Source:** <https://forum.jackkruse.com/threads/anybody-read-this-yet.6010/post-77674>
 
-> [randychaps@gmail.com said:](/goto/post?id=77524)
+> [[email redacted] said:](/goto/post?id=77524)
 >
 > Dr. Kruse. I read your book tonight instead of watching the Oscars. No loss there. I found it (your book) to be a refined version of the information you have on the blog--as I expected. I certainly hope you take the time to write Vol 2 incorporating all the quantum biology--meets--evolutionary biology information that you have so skillfully been connecting the dots of late. The challenge, of course, will be to describe in terms that the general public will understand just how the weirdness of quantum field theory makes life possible. The Universe has had 14 billion years to conduct Research and Development within the vastness of its expanse to achieve the remarkableness of humanity. And, of course, life is all about Quantum Field Theory--just like everything else. I applaud your efforts to walk us through the steps to full understanding. Thanks!
 >
@@ -23368,7 +23368,7 @@ Randy.........EMF 8 is your first QB blog on a specific human disease. I bet you
 
 RobH
 
-### jeanie@truelongmont.com — 2013-02-23T05:40:30+0200
+### [email redacted] — 2013-02-23T05:40:30+0200
 **Source:** <https://forum.jackkruse.com/threads/and-in-the-local-news-today.6011/post-77223>
 
 > [RobH said:](/goto/post?id=77222)
@@ -27059,7 +27059,7 @@ This is what Dr. K. Intended and now we all have to work together to find soluti
 **Subforum:** The Cave
 **Posts:** 7
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2013-02-26T19:01:55+0200
+### [email redacted] — 2013-02-26T19:01:55+0200
 **Source:** <https://forum.jackkruse.com/threads/note-to-mamag-and-kiwilauren.6067/post-77805>
 
 Ladies,
@@ -27298,7 +27298,7 @@ I do like modern toys also, when they do someting good. We have made some wonder
 
 —David Lynch.
 
-### kjgraffin@yahoo.com — 2013-02-26T22:53:42+0200
+### [email redacted] — 2013-02-26T22:53:42+0200
 **Source:** <https://forum.jackkruse.com/threads/the-new-old-fashioned.6069/post-77895>
 
 > prAna303;77875Why? Simplified: semiconducting said:
@@ -27527,7 +27527,7 @@ When I was in PT school years ago, one of my clinical rotations focused solely o
 
 Thanks... I love the sentence: The one thing we need to learn is that if we pay to much respect to our pasts we get stuck in the world "happened" to us, instead of creating the one we should be in. We get trapped in our own box and lose our edge. Today become unstoppable.
 
-### jeanie@truelongmont.com — 2013-02-27T19:42:52+0200
+### [email redacted] — 2013-02-27T19:42:52+0200
 **Source:** <https://forum.jackkruse.com/threads/the-new-old-fashioned.6069/post-78052>
 
 > [SeaHorse said:](/goto/post?id=78005)
@@ -33532,7 +33532,7 @@ So, based on this, I should tell my kids to be happy they are not the early bloo
 
 Dr Kruse, does the VieLight help to decalcify the pineal gland?
 
-### patgrif@hotmail.com — 2015-04-28T01:31:09+0300
+### [email redacted] — 2015-04-28T01:31:09+0300
 **Source:** <https://forum.jackkruse.com/threads/ramifications-of-a-calcified-pineal.6077/post-162587>
 
 > [Jack Kruse said:](/goto/post?id=162566)
@@ -34054,7 +34054,7 @@ The sulfur smell was really strong. The sign says if I leave them open overnight
 
 And then I drove back with the top down - about 50 degrees and sunny.
 
-### jeanie@truelongmont.com — 2013-02-27T22:01:28+0200
+### [email redacted] — 2013-02-27T22:01:28+0200
 **Source:** <https://forum.jackkruse.com/threads/road-trip-for-spring-water.6095/post-78100>
 
 > [Huck said:](/goto/post?id=78099)
@@ -34129,7 +34129,7 @@ I checked out Barton Spring yesterday afternoon. They are doing maintenance in t
 
 Will definitely go back and swim when it is re-opened. Apparently the water temp is always very cool. We spend a weekend in Austin every 4-6 weeks.
 
-### kjgraffin@yahoo.com — 2013-03-04T01:25:54+0200
+### [email redacted] — 2013-03-04T01:25:54+0200
 **Source:** <https://forum.jackkruse.com/threads/road-trip-for-spring-water.6095/post-78840>
 
 Thanks so much for the link for the springs. I found one 30 minutes up the road from my house. We drove up there today and got about 7 gallons. The only thing is I wish I had something better than plastic to put it in. The water is fantastic. It takes so pure it's like to really doesn't have a taste (if that makes any sense!).
@@ -34158,7 +34158,7 @@ I made my 2nd trip a couple of days ago and got 18 gallons. Drive time is about 
 
 Thanks Huck - will have to do that for my morning coffee. That is quite a road trip for you ...what is the price of fuel these days in the U.S.?
 
-### kjgraffin@yahoo.com — 2013-03-18T13:46:51+0200
+### [email redacted] — 2013-03-18T13:46:51+0200
 **Source:** <https://forum.jackkruse.com/threads/road-trip-for-spring-water.6095/post-80952>
 
 > [Huck said:](/goto/post?id=80916)
@@ -34889,7 +34889,7 @@ EMF Dude said that the Trifield isn't sensitive enough to measure a lot of thing
 
 Can't wait to hear what it is not sensitive sensitive enough for.......
 
-### opelecky@yahoo.com — 2013-09-10T03:41:39+0300
+### [email redacted] — 2013-09-10T03:41:39+0300
 **Source:** <https://forum.jackkruse.com/threads/glasses-for-nightime.6104/post-95388>
 
 Howdy,
@@ -34930,7 +34930,7 @@ Same for me. I grab them as soon as the light starts fading. Artificial lighting
 ### Jack Kruse — 2013-09-10T21:14:48+0300
 **Source:** <https://forum.jackkruse.com/threads/glasses-for-nightime.6104/post-95474>
 
-> [opelecky@yahoo.com said:](/goto/post?id=95388)
+> [[email redacted] said:](/goto/post?id=95388)
 >
 > Howdy,
 >
@@ -34953,7 +34953,7 @@ To avoid questions during the day, I recently bought these: [http://www.amazon.c
 
 Not as good as my evening mainstays. But I stare at multiple monitors during the day, so these mitigate the exposure and keep coworkers from bothering me with questions (thus, wasting my time).
 
-### opelecky@yahoo.com — 2013-10-04T03:00:30+0300
+### [email redacted] — 2013-10-04T03:00:30+0300
 **Source:** <https://forum.jackkruse.com/threads/glasses-for-nightime.6104/post-96837>
 
 Thanks, Dr. Kruse. Contacts is probably a better option. I guess his major issue that he's not sick. Yet.
@@ -36657,7 +36657,7 @@ Bingo...at least that's how I see it too. The hard part is convincing people to 
 
 Thank you, Joe.
 
-### kjgraffin@yahoo.com — 2013-03-05T20:10:05+0200
+### [email redacted] — 2013-03-05T20:10:05+0200
 **Source:** <https://forum.jackkruse.com/threads/t-our-families-say.6146/post-79143>
 
 From my son this weekend: First the microwave, now the water from the fridge (we went and got spring water and I told him I was disabling the water that comes from the fridge)? Where does it end Mom?
@@ -37020,7 +37020,7 @@ you lack fat soluble vitamins then......got nothing to do with protein.
 **Subforum:** Optimal Labs
 **Posts:** 6
 ══════════════════════════════════════════════════════════════════════
-### amber_tyrrell@hotmail.com — 2013-03-04T06:44:45+0200
+### [email redacted] — 2013-03-04T06:44:45+0200
 **Source:** <https://forum.jackkruse.com/threads/labs-need-hacked-please.6157/post-78874>
 
 Can anyone help me to decipher my latest lab test results? They were drawn late February. Its a rather long list, but anyone who can help me be enlightened by them is very much appreciated. I have some from September as well to compare them with. I am a 43 year old female.... Here goes....
@@ -37103,7 +37103,7 @@ CK: 98 U/L ( 30 - 180 )
 
 WHEW!! Long list I know! Thanks in advance to anyone that can help me here....
 
-### amber_tyrrell@hotmail.com — 2013-03-06T02:14:02+0200
+### [email redacted] — 2013-03-06T02:14:02+0200
 **Source:** <https://forum.jackkruse.com/threads/labs-need-hacked-please.6157/post-79221>
 
 Ok so no takers to help me here.... can someone at least tell me about my low or high readings (highlighted), I would really like to know if they are badly out of range... thanks.
@@ -37111,7 +37111,7 @@ Ok so no takers to help me here.... can someone at least tell me about my low or
 ### Destiny — 2013-03-06T02:49:33+0200
 **Source:** <https://forum.jackkruse.com/threads/labs-need-hacked-please.6157/post-79238>
 
-> [amber\_tyrrell@hotmail.com said:](/goto/post?id=79221)
+> [amber\[email redacted] said:](/goto/post?id=79221)
 >
 > Ok so no takers to help me here.... can someone at least tell me about my low or high readings (highlighted), I would really like to know if they are badly out of range... thanks.
 
@@ -37127,7 +37127,7 @@ I would say you could get your Vitamin D and DHEA up as well. Those are signs th
 
 lots of dehydration, EMF and LR........HS cRP is way high. Ferritin too.......
 
-### amber_tyrrell@hotmail.com — 2013-03-07T10:36:54+0200
+### [email redacted] — 2013-03-07T10:36:54+0200
 **Source:** <https://forum.jackkruse.com/threads/labs-need-hacked-please.6157/post-79438>
 
 > [Jack Kruse said:](/goto/post?id=79257)
@@ -37437,7 +37437,7 @@ PS - I wanted the grounding sheets idea to work ... obviously. An easy "trick." 
 
 I think there's a way you can create your own body meter to measure your own frequency; EMF dude is gonna tell us how to do it.
 
-### docwatt@gmail.com — 2013-03-07T06:41:40+0200
+### [email redacted] — 2013-03-07T06:41:40+0200
 **Source:** <https://forum.jackkruse.com/threads/how-to-make-your-own-earthing-sheet.6158/post-79431>
 
 So I self buiilt a grounding sheet with aluminumm tape, 18 g wire out the window to the first floor, 4 ft copper clad steel rod with a 1 amp fuse. So far only two nights on, but sleep seems less interrupted. Room has nothing plugged in within 8 ft of the bed and no clocks or lights Will report back.
@@ -39740,7 +39740,7 @@ Great ratio! Good for you!
 **Subforum:** The New Monster Thread
 **Posts:** 9
 ══════════════════════════════════════════════════════════════════════
-### trishalinn@gmail.com — 2013-03-05T16:24:31+0200
+### [email redacted] — 2013-03-05T16:24:31+0200
 **Source:** <https://forum.jackkruse.com/threads/gretchens-guest-post.6181/post-79087>
 
 Hey!
@@ -39764,7 +39764,7 @@ Nice post! Great information. Thanks Gretchen and Trisha!
 
 Great post Gretchen!!
 
-### trishalinn@gmail.com — 2013-03-06T05:43:44+0200
+### [email redacted] — 2013-03-06T05:43:44+0200
 **Source:** <https://forum.jackkruse.com/threads/gretchens-guest-post.6181/post-79265>
 
 Was so happy she offered to write those post!
@@ -41088,7 +41088,7 @@ pore size is 2.9 microns. I wonder if that would stop the chemicals from leachin
 
 Any thoughts?
 
-### dkenward@yahoo.com — 2013-03-07T18:43:49+0200
+### [email redacted] — 2013-03-07T18:43:49+0200
 **Source:** <https://forum.jackkruse.com/threads/lets-talk-about-optimal-beds.6221/post-79488>
 
 What about futons? I slept on one for years and found it comfortable. I still have one I use for a guest room bed and for taking naps.
@@ -41728,7 +41728,7 @@ Sjoshua, no clue why you couldn't post before......but glad you were able to get
 >
 > About the face CT, I'd suggest whatever your GF wants to do. Continue as she is doing, get colder, dunk in water, whatever. Does she feel that she might be adapting to it? Does she like it? Does it make her feel refreshed/energized/happy?
 
-Thanks to Patty Cakes recommend, I reached out to the [support@jackkruse.com](mailto:support@jackkruse.com) e-mail for help about my post. They thought I may have just been posting too long of a response and it was getting flagged as spam. No fixes for it, so I will just have to post more, shorter replies in the future I guess
+Thanks to Patty Cakes recommend, I reached out to the [[email redacted]](mailto:[email redacted]) e-mail for help about my post. They thought I may have just been posting too long of a response and it was getting flagged as spam. No fixes for it, so I will just have to post more, shorter replies in the future I guess
 
 To be completely honest, she wants almost nothing to do with the CT, and at this point she only thinks it makes her cold. I have explained some of the "why" behind it, but the reason she is doing it at all is because we are amidst a 30-day experiment during which she is letting me control her diet, exercise, journaling, relaxation, etc. aspects of daily life, to see if the lifestyle ideas I have for her are more or less beneficial than the boiler plate stuff she hears from her doctors.
 

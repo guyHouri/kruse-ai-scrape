@@ -75,7 +75,7 @@ When do you CT? shower 9-10 AM, icing evenings (7pm-8pm)
 
 How long have you been doing CT? 3 weeks (started with face dunks)
 
-### nosnhojjennifer@yahoo.com — 2012-03-28T19:58:21+0300
+### [email redacted] — 2012-03-28T19:58:21+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-7806>
 
 > **differentstory;7826 wrote:** 1. I filled up the bath before getting in. Previously, I was getting in and filling up the tub ("croak soak") which was good in the beginning, but now that I am cold-adapted I find that the little cold water splashes (while the tub fills up) and the noise of the water irritate the heck out of me. So, last night I turned on the water, left the room while it filled, came back and took the plunge. I was SO nervous! But I just started counting up as soon as I got in and found after 43 seconds, I was completely fine. YAY me! A MILLION TIMES BETTER THAN BEFORE!
@@ -277,7 +277,7 @@ Oh and, sad to admit, I get out of the bath and I feel fine for maybe 2 minutes.
 
 I freely admit that I am cutting my performance though. It's a balancing act for me. I envy you if you can stand it!
 
-### jeanie@truelongmont.com — 2012-03-28T22:33:34+0300
+### [email redacted] — 2012-03-28T22:33:34+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-7917>
 
 > **Jennifer;7848 wrote:** HI Different Story! Congrats on being able to get right in...OMG, I still have a hard time. AND YAY on the weight loss!! I did things differently last night as well and did my CT earlier. I really had to talk myself into 40 minutes at 55-60. I was so cold and at the end I started to shiver, which hasn't really happened before. Afterward I was shivering so hard that I was thinking I must be getting a great ab workout! LOL But here is my confusion...do you want to shiver and stay cold after CT? I guess I don't understand if the benefit of CT is just the time in the tub or the time after the tub? I, too, want to warm up asap. So, last night I bared through being super cold (mostly because my house is only about 55 degrees) for IDK, an hour or more and then went to bed under blankets with the room at 66 degrees. In the middle of the night I woke up hot. So, I am wondering if it is less-optimal to help yourself warm up?
@@ -641,7 +641,7 @@ Me too Patty Cakes. I've been CTing since Feb 20th. I've had some detox (gut) an
 
 Sometimes it's easy to sit/lay in the ice bath, and stay there for an hour. But sometimes I shiver like crazy as soon as I'm in, and I want to get out after 30 minutes. Once, last week, my feet stayed painfully cold for hours. There's no reasons I can find that make the difference. So, I just keep doing it. I trust that the process will eventually deliver the results. I don't know how long it will take, and maybe my hormones will need to be sorted before I lose any more weight. I'm not going to try and work it out, I'm just going to stick with it!
 
-### penguinmom718@yahoo.com — 2012-03-29T05:55:32+0300
+### [email redacted] — 2012-03-29T05:55:32+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-8124>
 
 > **differentstory;7826 wrote:**
@@ -661,7 +661,7 @@ Merri
 
 I take my ipad in with me and try to keep up with this forum. Actually time really flies! But I do find it difficult to read a book.
 
-### jeanie@truelongmont.com — 2012-03-29T06:20:15+0300
+### [email redacted] — 2012-03-29T06:20:15+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-8131>
 
 > **Randychaps;8137 wrote:** So, my question would be do you think 4.5 weeks is really long enough to be truly adapted to CTing? I have 44 days under my belt and feel like I have barely started to adapt. We are all impatient. Do CT for months or years and you'll not feel the cold at all. The body (and mind) adapts--or you quit--or you die. Even the Doc says we need to master our thoughts first. The fact that you can sit in a cold tub for 30 min after 4.5 weeks is just scratching the surface of what real adaptation could be. But you are adapting! It is just the start. My first week, I couldn't stay in the shower even 10 minutes and i wasn't even near the coldest water setting. Now 30 minutes is easy and 45 minutes is hardly a challenge--at the 6 week point. We are the soldiers (the first wave) that need to gut it out and really adapt as an examplar of what the majority might eventually enjoy. My two cents, wishing us all best of luck! )
@@ -699,7 +699,7 @@ You need to be very careful, lowering your core temp can be dangerous. I can do 
 
 Yeah take the bitter melon two hours before you start to CT.
 
-### penguinmom718@yahoo.com — 2012-03-29T06:37:05+0300
+### [email redacted] — 2012-03-29T06:37:05+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-8142>
 
 > **Cavemam;8175 wrote:** I think part of the dissapointment for me was the commrns from jack about 2weeks for some adaptation. Im a slow adaptor, too - and a few positives would be nice!
@@ -714,7 +714,7 @@ And the 20 pounds lost. I still have a lot more to go.
 
 I have been reading this forum since it was set up, but I haven't posted until now because I didn't feel my results were enough. Now I've just decided to own them. I'm better off than I was last summer.
 
-### nosnhojjennifer@yahoo.com — 2012-03-29T14:02:49+0300
+### [email redacted] — 2012-03-29T14:02:49+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-8190>
 
 > **differentstory;7958 wrote:**
@@ -761,7 +761,7 @@ But I can't wait to be cold adapted! I want to feel warm! My temp was up to 97.5
 
 Well, Dr K said most people should adapt in about 2 weeks. Glad to hear it is getting easier for you.
 
-### omlh@todmi.com — 2012-03-29T14:34:18+0300
+### [email redacted] — 2012-03-29T14:34:18+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-8197>
 
 I know I'm not cold adapted yet, not by a long shot! I do a 10 minute cold shower in the morning, with a 30 - 40 minute cold bath 5 - 6 times a week (tap water only, around 6C) after lunch, then because it takes me ages to warm up otherwise, I take the dogs for a brisk walk! I also try to spot ice in the evening for 30 minutes to 2 hours depending on the time I have available. The gains that I have noticed are not weight-loss related, although inches are slowly going down, but more in being able to wear fewer layers of clothing, fewer aches and pains (even though some days I ache everywhere, especially if I've spent longer in the bath), and gains in stamina. After years of using not only an electric blanket at night, often through the summer too, but a hot water bottle and several layers of clothing, I have managed to remove the hot water bottle, remove the electric blanket and remove all but one layer of clothing and still feel warm at night. If anything, I am starting to get too hot now. I am trying to take things slowly as I'd much rather find this sustainable in the long term than just something to use as a "quick fix"!
@@ -773,7 +773,7 @@ I had my first "internal furnace" moment after my CT bath last night! Put on pjs
 
 In other news my fasting blood glucose is down to about 60. I've been having great thirst at night and in the morning I wake up dizzy. Not sure whats going on there.
 
-### nosnhojjennifer@yahoo.com — 2012-03-29T17:05:29+0300
+### [email redacted] — 2012-03-29T17:05:29+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-8263>
 
 > **Adria;8251 wrote:** I had my first "internal furnace" moment after my CT bath last night! Put on pjs then after about 10min I started to heat up. I could feel the heat radiating, it was exciting!! This is wk 5CT and I'm taking it slow. I either take cold bath at 50 degrees or ice packs each night for 20-30 min. I've lost 6# since 2nd week.
@@ -833,7 +833,7 @@ I am feeling the same way. I know I should be happy about my HEALTH, but sadly, 
 
 I also noticed last night that I am getting the wrinkly skin. It is so ugly!!! Ugh. I have never seen anything like it before.
 
-### nosnhojjennifer@yahoo.com — 2012-03-29T17:39:58+0300
+### [email redacted] — 2012-03-29T17:39:58+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-8286>
 
 > **differentstory;8324 wrote: I had an AMAZING revelation last night!!
@@ -911,7 +911,7 @@ I've got LAYERS and LAYERS protecting me! HA!
 
 Welcome! And congrats on the victories!!
 
-### jeanie@truelongmont.com — 2012-03-29T17:51:47+0300
+### [email redacted] — 2012-03-29T17:51:47+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-8300>
 
 > **differentstory;8340 wrote:** This is interesting to me as I find I do not shiver AT ALL. I wonder if it has something to do with our weight??? I think you are 118? I am 203 and don't come anywhere near shivering (except when I get out - but that was because I was covering up so no more of that nonsense).
@@ -954,7 +954,7 @@ EDIT: Ah, per Cavemam's post, this must be the "pilot light" sensation. Man, it 
 
 I've wondered this also, as I'm bigger than you and have not had the shivers before or after a long soak. I have gotten close, almost felt like there was shivering going on just under the surface of the skin, but no racking shivers going on over here. I've attributed it to there being so much insulation, lol. Maybe it's a skin sensitivity issue?
 
-### nicebeanst@yahoo.com — 2012-03-29T17:59:49+0300
+### [email redacted] — 2012-03-29T17:59:49+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-8305>
 
 This is my 3rd week of CT and I feel like my shivering is WORSE than ever. I had to get out the tub today after 40 min, usually I am in for 60. It has been taking me hours to warm up from my evening bath, I go to bed just freezing (but also quite giddy, I giggle about how nutty I am, and what I am voluntarily putting my body through LOL) middle of the night I am boiling hot.
@@ -986,7 +986,7 @@ Hi, Clabbergirl. How ya feelin' today?
 
 Edit: Just saw your post in the other thread! Glad to see you are doing better!!
 
-### omlh@todmi.com — 2012-03-29T18:54:11+0300
+### [email redacted] — 2012-03-29T18:54:11+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-8334>
 
 Today was my coldest and longest bath yet, and the lowest I've managed to get my skin temperature (55.9F) - my skin went scarlet, and whilst I didn't actually feel cold whilst in the bath, it hit afterwards with a vengeance - still shivering an hour and a half later. Like differentstory, though, I do find that I warm up more quickly when I don't try to wrap up straight away - but with all three children home from school for the holidays, that's a luxury I don't have at the moment  So now I'm about to go and do some gardening in the sunshine for a bit of a workout and some heat ...
@@ -1049,14 +1049,14 @@ Several decades (or more!) ago I was shown by my scuba instructor that wearing w
 
 I feel like i belong here because im CT obsessed. I found something nifty that im willing to share with you all. Its working for me as we speak. Its a deep square ice chest called the "ice block". Only have to fill it 1/3 the way with ice water and my body displaces the rest. Then with ice packs all around me im sAving money AND space. Plus, water may stay cool for use the next day. I live in Texas. Whadya think?
 
-### jeanie@truelongmont.com — 2012-03-29T21:45:12+0300
+### [email redacted] — 2012-03-29T21:45:12+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-8430>
 
 > **David;8439 wrote:** Several decades (or more!) ago I was shown by my scuba instructor that wearing wool, even without a wetsuit, was critical to keep from freezing when attempting to dive under ice-covered water. IIRC the wool traps a layer of water that is warmed by body heat. I never put this to an independent test.
 
 I wonder if smart wool works the same way. May have to try that!
 
-### jeanie@truelongmont.com — 2012-03-29T21:49:47+0300
+### [email redacted] — 2012-03-29T21:49:47+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-8433>
 
 > **differentstory;8358 wrote:** For those of you shivering, have you played around with your diets?? Eating fat/protein before vs. not?? Just curious.
@@ -1067,7 +1067,7 @@ I wonder if smart wool works the same way. May have to try that!
 
 I have been careful about doing it on a fat/protein meal, but I've not been so diligent about drinking ice water and taking bitter melon two hrs prior. I think I need to force myself to do both of those things, see how it goes.
 
-### omlh@todmi.com — 2012-03-29T23:10:34+0300
+### [email redacted] — 2012-03-29T23:10:34+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-8467>
 
 > **differentstory;8392 wrote:** Ha! Feel the same way. It feels unnatural to walk around the house naked.
@@ -1221,14 +1221,14 @@ I rarely drive, I was amazed at how good my ac works though, got my arms and leg
 
 I've experienced similar. I'm icing right now and feeling slightly dizzy. Guessing its a result of the toxins from my fat.
 
-### jeanie@truelongmont.com — 2012-03-30T06:14:39+0300
+### [email redacted] — 2012-03-30T06:14:39+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-8633>
 
 > **Cody;8604 wrote:** I've experienced similar. I'm icing right now and feeling slightly dizzy. Guessing its a result of the toxins from my fat.
 
 Are you guys submerging? I've seen comments that head under is causing this too. I was dizzy after doing head under. . .perhaps the liquid in the ear tubes gets cold and slow?
 
-### omlh@todmi.com — 2012-03-30T12:50:02+0300
+### [email redacted] — 2012-03-30T12:50:02+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-8688>
 
 I haven't been putting my head under the water in the bath - only in the shower. I guess I'm a bit of a wimp, but I have a phobia about water over my head, especially my face (the face-dunking induced several major panic attacks to start with - I don't want to go there again!). But I do get myself submerged up to the neck every bath.
@@ -1276,7 +1276,7 @@ Here's another reason you might have been dizzy with your head under: [http://yo
 
 We need to establish a list of things to "NOT" do when attempting to cold adapt.
 
-### trishalinn@gmail.com — 2012-03-30T21:02:39+0300
+### [email redacted] — 2012-03-30T21:02:39+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-8893>
 
 Hubby and I have had to just do spot icing the last couple of days because of a pretty busy schedule. We have been using our pool for a little over a week now, but the temp in MI has taken a nose-dive. We're currently debating via IM whether we should try to use the pool today. Water temp is right at about 50, but the air temp is only supposed to get up to 43 today. Pool is so much nicer than the tub because we can get completely submerged! But, OY it sounds a little crazy to be in a pool when it's so cold out!
@@ -1335,7 +1335,7 @@ Cold water and inner ear issues can cause dizziness. But cold adapted mammals su
 
 Eow!!! the thought of ice cold water in my ears...
 
-### trishalinn@gmail.com — 2012-03-30T22:15:59+0300
+### [email redacted] — 2012-03-30T22:15:59+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-8937>
 
 > **Dextery;8955 wrote:** One step at a time down the steps into the pool with a minute inbetween steps and you will be fine.
@@ -1406,12 +1406,12 @@ my 2c,
 
 jesse
 
-### trishalinn@gmail.com — 2012-03-31T03:11:45+0300
+### [email redacted] — 2012-03-31T03:11:45+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-9051>
 
 We did it... 25 minutes in a 49 degree pool (the coldest submerged temp my husband and I have done). We could have done longer but both of our babies were crying! The air temp was only about 40. brrrrrr... still trying to warm up 2 hours later. That's probably because I am refusing to turn the furnace back on and it's only 60 in the house. It's going to get really cold tonight I'll bet!
 
-### jeanie@truelongmont.com — 2012-03-31T03:52:31+0300
+### [email redacted] — 2012-03-31T03:52:31+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-9070>
 
 > **primat;9022 wrote:** I'll look it up again. There were no (noticable) nystagmus or any discomfort really - except for the dizzy/vertigo-feeling which passed in a few minutes.
@@ -1488,7 +1488,7 @@ I noticed today certain parts on my body got really red after! The fattiest part
 
 I move around a lot, plus I constanstly shift frozen gel packs and the frozen bottles of water. If I didn't move the water around, it feels warm quite quickly. Also with the amount of movement my hands are in and out of the water and there is no way I can read a book much less use any type of electronic equipment! I do listen to music, but still, I get a bit bored and antsy after 40-45 min.
 
-### trishalinn@gmail.com — 2012-03-31T18:19:36+0300
+### [email redacted] — 2012-03-31T18:19:36+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-9258>
 
 > **Baba;9212 wrote:** Wondering if you're all moving in the tub? I make an effert to constantly move, legs, arms, lifting my behind a bit to remove the insulating layer of warm water around my body. Maybe this is why I can only stay in for 30 minutes...
@@ -1570,7 +1570,7 @@ Good stuff for the weight lifter and is backed up by the science.
 
 Congrats on knowing more lifting is not better.
 
-### trishalinn@gmail.com — 2012-04-01T04:29:29+0300
+### [email redacted] — 2012-04-01T04:29:29+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-9647>
 
 30 minutes in a 48 degree pool today. brrrrrrrrrrrrrrrrrr.... took a LONG time to warm up afterwards. After seeing Dr. Kruses' presentation this evening though, I'm even more motivated than ever to keep it up! My mom was fussing at me for not bundling my babies up enough tonight and letting my 7 year old come over in flip flops.
@@ -1610,7 +1610,7 @@ Afternoon CT session to Into the Night by Santana.......just awesomeness with th
 
 Deep water immersion to pandora......Always by Saliva right now.....
 
-### trishalinn@gmail.com — 2012-04-01T23:55:39+0300
+### [email redacted] — 2012-04-01T23:55:39+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-9979>
 
 45 minutes in our 50 degree pool. Air temp also is 50 degrees. Gettin' easier every day! So convenient to use our pool, but we'll have to figure out something else when it warms up in michigan!
@@ -1622,7 +1622,7 @@ Deep water immersion to pandora......Always by Saliva right now.....
 
 With your comment in mind, I decided to not swim today and see what my hands did. However, I changed another parameter and had a different experience. The air temp was cooler and there was a breeze. I was apprehensive instead of eager and I was only one hour past a big, late, breakfast. Usually I go in the pool around 11am, 3-4 hours after breakfast. I know the protocol is a full tummy and ice water before training but I did it my way, ha. Today, I started shivering hard at the 10 minute mark and I finally got out after 25 minutes of full body immersion up to chin and face in frequently. This is the most shivering I've done and my abs were still tense for about an hour afterwards. I'm thinking this is the better experience for CT than my previous tame version were I chill but don't shiver.
 
-### jeanie@truelongmont.com — 2012-04-02T00:29:37+0300
+### [email redacted] — 2012-04-02T00:29:37+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-10002>
 
 > **PaleoDentist;10024 wrote:** first bath 63F, up to waist immersion.
@@ -1639,7 +1639,7 @@ did my 2nd bath yesterday, full immersion this time, except for head. water was 
 
 I got a ton of CT time in yesterday. But man, this morning I was NOT looking forward to that cold shower. It was one big psychological hurdle.
 
-### dkenward@yahoo.com — 2012-04-02T16:47:21+0300
+### [email redacted] — 2012-04-02T16:47:21+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-10290>
 
 I have been taking cold baths for several weeks, but not doing too much on the upper torso, at least not in the bath. A few nights ago I decided to "man up" and keep my head submerged so just my eyes, nose and mouth are out of the water. Last night I was able to maintain this for about 10 minutes.
@@ -1663,21 +1663,21 @@ This is starting to bother me a little. Is this to be expected? Should I back of
 
 I know Dr. K said not to imerse the head. Try it without head immersed and then check BP.
 
-### jeanie@truelongmont.com — 2012-04-02T17:16:19+0300
+### [email redacted] — 2012-04-02T17:16:19+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-10299>
 
 Are you guys tubbing doing full body compression? Do you stop compressing once you feel acclimated? I thought the compression helped out skin lower temp faster, thus should be good all the time. . .but it sure is a pain! Anybody who feels they are becoming adapted (I don't, it's slow going here!) I would love to know details.
 
 Jeanie
 
-### dkenward@yahoo.com — 2012-04-02T17:17:35+0300
+### [email redacted] — 2012-04-02T17:17:35+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-10300>
 
 > **Pamela;10360 wrote:** I know Dr. K said not to imerse the head. Try it without head immersed and then check BP.
 
 OK, I do not remember reading that! I will keep it dry from the neck up, thanks!
 
-### omlh@todmi.com — 2012-04-02T17:46:10+0300
+### [email redacted] — 2012-04-02T17:46:10+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-10311>
 
 Today was horrible after 3 days of being unable to have a cold bath (I have been keeping up the cold showers, though) - only managed 30 mins and at a warmer temperature than usual. Feels like I'm back to square one.
@@ -1711,7 +1711,7 @@ stuff happened in my head man... stuff just happened.
 
 wow thats interesting - what do you mean by stuff happened? Are you still going under? How long for? sorry for all the q's!
 
-### dkenward@yahoo.com — 2012-04-02T23:12:32+0300
+### [email redacted] — 2012-04-02T23:12:32+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-10494>
 
 > **quelsen;10538 wrote:** due to hypothermia Jack cannot tell you to imerse your head.....
@@ -1737,7 +1737,7 @@ For now I'll stick to keeping it dry. We'll see how it goes later.
 
 Pushed CT to the next level laying in my bath resting my back on 2 bags of ice w/1 laying on my tummy/lower chest. Amazing. Not even shivering completely numb from my mid chest/back on down. Going to continue w/this 3x/week. Going to look for a big bucket I can fit myself & several bags of ice so I can do this midday/early evening through out the summer and into next fall! Optimal here I come. 100% disease free in 24 mths!!!!!
 
-### dkenward@yahoo.com — 2012-04-03T01:00:49+0300
+### [email redacted] — 2012-04-03T01:00:49+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-10543>
 
 > **Shijin13;10566 wrote:** Pushed CT to the next level laying in my bath resting my back on 2 bags of ice w/1 laying on my tummy/lower chest. Amazing. Not even shivering completely numb from my mid chest/back on down. Going to continue w/this 3x/week. Going to look for a big bucket I can fit myself & several bags of ice so I can do this midday/early evening through out the summer and into next fall! Optimal here I come. 100% disease free in 24 mths!!!!!
@@ -1938,7 +1938,7 @@ I am here: [http://tapatalk.com/map.php?n3xthf](http://http://tapatalk.com/map.p
 
 I have had similar results. I'm getting into my 3rd week (started w/1hr baths) and when I cover myself up I freeze. If I walk around in a tank top and shorts I am fine. Everytime I cover up I get cold!
 
-### omlh@todmi.com — 2012-04-03T23:01:11+0300
+### [email redacted] — 2012-04-03T23:01:11+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-10935>
 
 Cold shower this morning, but no cold bath and no spot icing (couldn't open freezer!). But we've had no power today, it's been cold and snowing, and I haven't needed more than one layer of clothing, so I'm hoping that counts ...
@@ -1970,7 +1970,7 @@ Today my parents are gone for a day so I had 90 minutes cold bath with 3 frozen 
 
 I feel amazing right now ))
 
-### omlh@todmi.com — 2012-04-04T14:22:51+0300
+### [email redacted] — 2012-04-04T14:22:51+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-11217>
 
 Good cold bath this morning - only 25 minutes, but added some snow to the bath today! Felt weirdly warm, almost burning, whilst in the bath, but am now feeling very, very cold, but very, very good!
@@ -2101,7 +2101,7 @@ As for my CT last night, it was great. 30 min. CB in 52 degree water. I hadn't t
 
 I am here: [http://tapatalk.com/map.php?hp1bjj](http://http://tapatalk.com/map.php?hp1bjj)
 
-### omlh@todmi.com — 2012-04-05T15:31:52+0300
+### [email redacted] — 2012-04-05T15:31:52+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-11693>
 
 Am dialling the cold baths back to every other day while rashes and boils subside a bit, but my cold shower this morning was heavenly! I'll do some spot-icing this evening, hopefully at least an hour, and preferably a couple of hours.
@@ -2143,7 +2143,7 @@ Today was about my 6th cold bath. I was able to get it down to about 58 degrees 
 
 17 minute 60Â°f bath up to my neck, 63Â°f when I got out, followed by lukewarm shower. No shivering today. Will take weekend off as friends are visiting and there may be alcohol involved.
 
-### omlh@todmi.com — 2012-04-08T19:32:37+0300
+### [email redacted] — 2012-04-08T19:32:37+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-12737>
 
 Managed a sneaky 10 minute soak at 52F whilst the children kindly went and picked some flowers for me - thanks to CaveMama's suggestion of keeping the room really warm, and keeping the bath very short, it was lovely! Feeling wide awake and full of energy now.
@@ -2153,7 +2153,7 @@ Managed a sneaky 10 minute soak at 52F whilst the children kindly went and picke
 
 walked to the gym yesterday in +2 deg centigrade - 45 minutes. im my underarmour heatgear (meant to allow for efficient cooling in warm temperatures  - compression tights and t-shirt. i must say it was very nice. i was chilli for the first 5 min. after that i grew pink and felt very good indeed. i too my time, walking at a nice but not a fast pace, enjoying the surroundings and the stares.
 
-### omlh@todmi.com — 2012-04-10T17:45:44+0300
+### [email redacted] — 2012-04-10T17:45:44+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-13357>
 
 40 minutes at 53.4F - first time after taking bitter melon, and I could really tell the difference! Now feeling very cold indeed, and wanting to go an hug my Aga ... better not, though
@@ -2185,7 +2185,7 @@ I finally recorded the temp of my tub water on my CT sessions...low 40s...it mad
 
 How are your boils Olivia?
 
-### omlh@todmi.com — 2012-04-10T21:54:40+0300
+### [email redacted] — 2012-04-10T21:54:40+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-13455>
 
 Thank you for asking, Agatha! They have disappeared for the time being, and the itchy rash has moved to across my shoulder blades. Oddly, I am noticing that I ache intensely in my left ankle, which I broke when I was six. It's been difficult to walk on today. Also, my wrists have been very sore indeed (broke those, too, many years ago!). I am sure this is something to do with the CT, and I hope it will pass. Weight is up again today, so I hope I'll see some weightloss changes soon!
@@ -2202,7 +2202,7 @@ Goodness gracious, our bodies are atonishingly complicated. I have today had a r
 
 How was today? It turns out, technically, I was swimming with dolphins during the lunch hour. Pretty much the only one out that far from the beach to enjoy it. If that's crazy, then I want to stay immune to "normal" ; )
 
-### omlh@todmi.com — 2012-04-11T17:58:32+0300
+### [email redacted] — 2012-04-11T17:58:32+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-13761>
 
 Couldn't cope today, after a third night of little/no sleep and a very bad TOTM ... ran the bath, got undressed, stuck a toe in, and couldn't go any further. I would hazard a guess that leaving it for today, and just doing spot CT might be the way to go? Hopefully taking the bitter melon in preparation and then not doing the CT won't have any bad effects ...
@@ -2260,7 +2260,7 @@ My CT today was awesome! I did 40 min in 51 degree water up to my shoulders. And
 
 I went for a nice long walk on a nature trail yesterday in a t-shirt only and it was 58 degrees out. Normally I would either not go or wear a sweatshirt! It felt really good!
 
-### jeanie@truelongmont.com — 2012-04-13T05:57:51+0300
+### [email redacted] — 2012-04-13T05:57:51+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-14591>
 
 Feeling a little good about my CT today. I got some boards to put across the garden tub - and got my "remote office" going. So now CT time is work time. And this damn forum time. I'm CTing right now!
@@ -2284,19 +2284,19 @@ Sounds like you are becoming cold-adapted. Yeh for you!!!! Are you male or femal
 
 I woke up with really bad sore throat and head cold so no CT for me today. Besides I have to work a charity golf tournament and it's cold and rainy here so I'll be chilly all day anyway!
 
-### omlh@todmi.com — 2012-04-13T16:26:50+0300
+### [email redacted] — 2012-04-13T16:26:50+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-14686>
 
 Nothing for me for a few days, as I have a houseful of 11 and 12 year olds, overlapping with a houseful of 16 and 17 year olds - can't see having any time for anything until at least Wednesday next week ...
 
-### jeanie@truelongmont.com — 2012-04-13T20:52:04+0300
+### [email redacted] — 2012-04-13T20:52:04+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-14800>
 
 > **oliviascotland;14755 wrote:** Nothing for me for a few days, as I have a houseful of 11 and 12 year olds, overlapping with a houseful of 16 and 17 year olds - can't see having any time for anything until at least Wednesday next week ...
 
 Glass of Malbec, STAT!
 
-### omlh@todmi.com — 2012-04-13T22:25:51+0300
+### [email redacted] — 2012-04-13T22:25:51+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-14845>
 
 > **Cavemam;14869 wrote:** Glass of Malbec, STAT!
@@ -2523,7 +2523,7 @@ amount of water used and ice bought....???? I don't want to know...LOL
 
 I thought about it but I will wait to see how much my bill goes up. Even if it doubles it will only be $30 a month
 
-### omlh@todmi.com — 2012-04-17T11:05:15+0300
+### [email redacted] — 2012-04-17T11:05:15+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-15836>
 
 Won't be able to do a proper cold bath until tomorrow, but have been having cold showers every day - have also been unable to spot ice, but I'm hoping the showers will keep everything ticking over. I noticed this morning that, for the first time, I was able to get into a completely cold shower (I usually add a tiny bit of heat first - not enough that my OH registers it as anything other than "cold", but just enough to take the edge off when I get in) without wincing! In fact, I tried to turn it down, and was disappointed when it wouldn't! Tap water is coming out at 5C, so that's quite a cold shower!
@@ -2619,7 +2619,7 @@ Hubby and I are both recovering from a small cold that we got from the grand bab
 
 I have also found that this cold is pretty wimpy compared to prior colds and is disappearing quickly. I'm not worried that CT'ng will make my cold worse, but the cold already has me chilled so I am not motivated to voluntarily get colder at the moment.
 
-### jeanie@truelongmont.com — 2012-04-18T03:20:25+0300
+### [email redacted] — 2012-04-18T03:20:25+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-16093>
 
 Crazy stressful day - In between normal work, I had a 4 hour tv/film call where I was going to have to be in front of a tv camera. NOT something I enjoy. It was for a client, so I did it. So to prepare, and hopefully make me look better I did a 20 min face soak before hair/makeup. Then I did a 30 min soak at about 65 degrees to try and relax and get into the spirit.
@@ -2710,7 +2710,7 @@ Cavemam, I get out when I start to get shivery. I know I won't last long. It is 
 
 What are you doing for NBC? Sounds very interesting along with the fact that it is on tv no less. You could start a thread if you wanted to tell us all about it. I'm sure others would be interested too. Or, just post out here. I frankly don't care but some are techy that way and want to keep the threads clean. Thanks.
 
-### jeanie@truelongmont.com — 2012-04-18T21:19:41+0300
+### [email redacted] — 2012-04-18T21:19:41+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-16313>
 
 I feel like I'm not progressing with CT. I suppose it is something that I am sitting in 50 degree water for over 45 mins at least 5X a week. I think I may change my method a little and get out when starting to shiver, and do less bath and try to do more spot icing on BAT area. Doc confirmed that icing the upper back does have an impact on BAT production.
@@ -2766,7 +2766,7 @@ I've decided to do Ice packs today...
 
 I've been doing 45 minutes at around 50 degrees and struggle when I get to 30 minutes, but I finish (and shiver like mad afterwards). Today I went for 40 minutes at 68 degrees and what a difference! The tub didn't feel much warmer but at 30 minutes in, I wasn't cold like usual. Warm-up was easier, too. I am going to back off a bit and use warmer water until I feel like I am adapting more. I'm telling myself this is not a race, I don't have to get to the finish line "first"...
 
-### jeanie@truelongmont.com — 2012-04-19T02:38:10+0300
+### [email redacted] — 2012-04-19T02:38:10+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-16412>
 
 > **quelsen;16409 wrote:** get a colder bath. i can do 36f now for less time but it made an impact
@@ -2930,7 +2930,7 @@ I am not that brave! My plan is to just put together a few inches of ice water -
 
 Wow, cool experiment AKMan. I'm not there yet but moving in the right direction every so carefully. Shivering as I type.
 
-### jeanie@truelongmont.com — 2012-04-20T00:05:12+0300
+### [email redacted] — 2012-04-20T00:05:12+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-16759>
 
 > **AKMan;16689 wrote:** Took the ultimate ice bath last night. Filled tub with 38 degree water, than added ice until it was 32 degrees. Stepped in, water was up to my knees. Felt like needles stinging my feet, ankles were pretty painful. Stood there maybe 30 seconds and sat down. WOW! That was chilly. Water was up to my armpits. I laid back and took assessment of what was happening. Head was all that was out of the water. I could see all skin was turning bright red. Feet and hands were hard to move after about 2 minutes. I focused hard on breathing normally. After 5 minutes, it was all kind of numb. I would continually cross and un-cross my legs to keep circulation going. I kept my arms and hands under for the most part. After 10 minutes, the water temp was 33 degrees.
@@ -3127,7 +3127,7 @@ Love it!!
 
 I'm planning on taking dips into the snow melt run off/mountain creeks when I'm recovered enough to start hiking for the season. Going to be fun  I've always dipped at least my feet in but now...
 
-### jeanie@truelongmont.com — 2012-04-22T22:59:23+0300
+### [email redacted] — 2012-04-22T22:59:23+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-17881>
 
 I did it!!!
@@ -3218,7 +3218,7 @@ I still didn't get pink at all. Whatever that indicates!
 
 After doing a bunch of CT and icepacks yesterday, I just couldn't do much more than a 5 minute showering this morning. But will do more after work. weightloss has plateaued for now.
 
-### omlh@todmi.com — 2012-04-23T17:45:42+0300
+### [email redacted] — 2012-04-23T17:45:42+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-18080>
 
 Have been unable to do any CT since last Wednesday, when I went down with norovirus - nasty bug, just clearing my system now. Have been unable to eat anything since Wednesday evening, until breakfast this morning (a boiled egg, which was just too much), so will work slowly back to the cold. To my shame I caved on Friday night when I couldn't get warm and added a hot water bottle
@@ -3241,7 +3241,7 @@ Thank you to both of you for sharing your amazing experience! At least, I can im
 
 Isn't nature perfect?
 
-### nicebeanst@yahoo.com — 2012-04-24T03:33:47+0300
+### [email redacted] — 2012-04-24T03:33:47+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-18242>
 
 MamaGrok and Vkiernan: all this outdoor CT! I love it  I'm jealous! That's it... I am driving the hour south this weekend to hit the Atlantic (the Hudson River is 10 min away, but ..... it's the Hudson River. Ew LOL)
@@ -3255,7 +3255,7 @@ I know a beach in Avon that has a safe little cove, my sisters and I used to tak
 
 I keep telling DH I feel like SuperWoman too! I've been doing as much physical labor in the garden this year each day as I was able to do over a whole week last year!
 
-### omlh@todmi.com — 2012-04-24T10:42:55+0300
+### [email redacted] — 2012-04-24T10:42:55+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-18310>
 
 Back to cold showers this morning - 10 minutes and felt good! Hopefully try for a bath tomorrow.
@@ -3380,7 +3380,7 @@ I have some issues with rT3 and will be getting tested in a few more months to s
 
 So people get your deep CT on!!!!!!!!!!!!!!
 
-### nicebeanst@yahoo.com — 2012-04-25T02:56:57+0300
+### [email redacted] — 2012-04-25T02:56:57+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-18550>
 
 For my bath today I finally decided to go down past the 60 deg that comes straight outta the tap. I found out that my business acct's debit card had been hacked and several hundred dollars charged to my small business, $700 may not seem like much to some but it is a big deal to me, in addition to the "violated" feeling. After dealing with bank and disputing the charges, stopping the debit card, and CRYING......I decided GODDESS up and get my #&(# together. Runny nose and teary eyed still, I picked up 4 bags of ice @ 7-11, brought the temp down to 47 and I cursed a blue streak at that @\*&#^%@% @\*#&^\*%-ing sunnava-#^&% and plopped my butt in! Feet, arms out. Water up to the nips.
@@ -3399,7 +3399,7 @@ Legs in 55 degree water for 20 minutes. Skin was 80 deg going in, 58 coming out.
 
 I just hopped out of mine. I think I'm addicted.  I read and relax in my cold retreat.
 
-### jeanie@truelongmont.com — 2012-04-25T03:48:20+0300
+### [email redacted] — 2012-04-25T03:48:20+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-18573>
 
 Ok! Did my 2nd round of deeper CT today. Water started at 30 degrees (I had added salt to get temp down) and it warmed fairly quickly I think. My skin got down to 34-35 at the start, and 41 by the end.
@@ -3410,7 +3410,7 @@ I kept sticking my lower legs/feet in and out, but they really felt it at about 
 
 The non extremities that were in actually enjoyed it. I loved seeing skin turn bright red and the numbness. Hard beats helped.
 
-### jeanie@truelongmont.com — 2012-04-25T03:50:09+0300
+### [email redacted] — 2012-04-25T03:50:09+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-18574>
 
 > **Tucker;18612 wrote:** Cavemam,
@@ -3446,7 +3446,7 @@ The feeling of accomplishment is indeed a boost!! I'm like "oh yea, I can sit in
 
 I'm amazed at how cold some of your CT baths are! Do you get crazy detox as a result? I've done 17 cold baths/showers and so far 62F is where I'm comfortable at, 59F was the coldest I attempted. I don't have much of detox going on, except for sinus allergies that's quite annoying but I blame it on the crazy weather this spring. I'm planning to lower the water temperature gradually but I'm kinda curious what will happen if I just step into 50F water tomorrow. I don't want crazy detox though - if that's in the cards I'd rather take it slow.
 
-### trishalinn@gmail.com — 2012-04-25T04:19:24+0300
+### [email redacted] — 2012-04-25T04:19:24+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-18594>
 
 Sooooo... For tHose of us who couldn't a make the webinar, is this deep ct that you are talking about just ct at really low temps? I've started to enjoy my soaks in my 52 degree pool... But 32? Do you just do it, or work yourself up to it somehow?
@@ -3463,7 +3463,7 @@ Today was cool, so my naturally-cooled cold tub was cooler than usual. I was shi
 
 I feel tempted now to go lower, not to 32F of course, but 58F sounds quite doable in the near future.
 
-### jeanie@truelongmont.com — 2012-04-25T16:28:15+0300
+### [email redacted] — 2012-04-25T16:28:15+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-18680>
 
 For me, I want to lose 60 lbds - so I'm choosing to experiment a little on myself. I also have some medical things that just don't apply to everyone. Also, for me, it's getting into summer and I want to squeeze in as much good CT as possible. I think Jack mentioned in the webinar that it's more effective in winter. I am stepping it up personally to see if if I can spur something along before summer is in full swing.
@@ -3492,7 +3492,7 @@ this is how my CT went today.......
 
 First time going so low.......brrrrrr!!!! from the knees down I was in for 45 min but I kept standing up because of the shivering so I would say the rest of me (neck to knees) was in for a total of 20 -25 min. I also would duck under the water for a few seconds. BIG difference going from 60 to 50/lower.
 
-### omlh@todmi.com — 2012-04-26T17:35:49+0300
+### [email redacted] — 2012-04-26T17:35:49+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-19033>
 
 First bath after being ill - kept it a bit warmer than usual at 60F, and only did 30 minutes (would have been more, but the phone rang). Boy, did it feel good! I had been nervous and holding off, and now I can't think why! Colder and longer tomorrow
@@ -3557,7 +3557,7 @@ I am also moving around the pool since the flow reduces the insulating barrier n
 
 Brr, that sounds cold! I don't like my head to be cold.  I get earaches.
 
-### trishalinn@gmail.com — 2012-04-27T05:06:05+0300
+### [email redacted] — 2012-04-27T05:06:05+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-19245>
 
 Argh.... Two days in a row with no ct. Too much going on with kids programs etc. I must get these babies to sleep soon so I can get some ice packs on me. Gettin in my pool for sure tomorrow though!
@@ -3644,7 +3644,7 @@ woah now it all makes sense LOL fantastic!
 
 Thanks for the reminder Mamagrok!
 
-### finnite@dccnet.com — 2012-04-27T20:37:22+0300
+### [email redacted] — 2012-04-27T20:37:22+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-19409>
 
 35 min in 47F
@@ -3671,12 +3671,12 @@ Tonight was tough. Normal CT bath around 53 degrees and I couldn't go longer tha
 
 today was my first full immersion, in an unheated pool. It wasn't really that cold to me, in fact, I seemed warm at first, and so started swimming to cool down a bit. I spent about 20 minutes in the water, and only came out when my foot cramped up. I did get my head under water for a bit, and it wasn't cold. I dried off in the afternoon sun, and walked all along the rocks by the patio.
 
-### trishalinn@gmail.com — 2012-04-28T04:30:11+0300
+### [email redacted] — 2012-04-28T04:30:11+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-19508>
 
 Hubby and I did 45 min in our 52 degree pool then sat outside in the 50 degree air for about half an hour.
 
-### jeanie@truelongmont.com — 2012-04-28T04:38:27+0300
+### [email redacted] — 2012-04-28T04:38:27+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-19510>
 
 Tough today. On min 40 at 55 degs in tub. Lots of shivering. Its dissapointing that it is so unpleasant today after i did two deeper sessions earlier this week. It was a stressful day, so perhaps thats related. Trying to make it to 50 mins.
@@ -3742,7 +3742,7 @@ I know our fur babies are not here forever, but it's a loss nevertheless. With a
 
 Sprint Samsung Epic
 
-### omlh@todmi.com — 2012-04-28T18:21:59+0300
+### [email redacted] — 2012-04-28T18:21:59+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-19588>
 
 LinD - so sorry to hear about your Trixie - hugs your way!
@@ -3803,7 +3803,7 @@ Maybe because I never used water that's too cold for me, I never got numb. And I
 
 I'm hoping the CT induced hunger will go away soon.
 
-### finnite@dccnet.com — 2012-04-29T04:39:35+0300
+### [email redacted] — 2012-04-29T04:39:35+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-19722>
 
 45 min at 47F water warmed up to 51 by the end, definitely pink on this one
@@ -3820,7 +3820,7 @@ Last night's CT was better then the day before but I am still struggling with ti
 
 I have a similar experience. I can take 45 minutes when I am immersed to the bustline and only 30 when I am in up to the neck, including hands & arms. I'm thinking that more skin exposure trumps duration. Detox effects have returned with the deeper exposure so I think I'm on the right track.
 
-### jeanie@truelongmont.com — 2012-04-29T17:35:17+0300
+### [email redacted] — 2012-04-29T17:35:17+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-19790>
 
 > **Lyndra;19856 wrote:** I have a similar experience. I can take 45 minutes when I am immersed to the bustline and only 30 when I am in up to the neck, including hands & arms. I'm thinking that more skin exposure trumps duration. Detox effects have returned with the deeper exposure so I think I'm on the right track.
@@ -3836,7 +3836,7 @@ Perhaps there is some crazy environmental reason like the magnetic pull of the e
 
 65 minutes in cold bath, started at 61F, down 56F. Full submersion up to my neck most of the time, and I moved my arms, lifted my butt, etc to get water circulating. Hands and feet outside about half the time. I feel the colder the water is, the "better" I feel - must be related to the release of some feel-good hormones when body is under acute stress (coldness). I need to read more on this. But 61F didn't make me feel good as 58F did. Then 56F was a bit too cold. Shivered a bit at the end. Otherwise I feel great!
 
-### nicebeanst@yahoo.com — 2012-04-29T18:21:53+0300
+### [email redacted] — 2012-04-29T18:21:53+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-19828>
 
 Inspired by those of you who have been getting your CT in Mother Nature, I finally went in the ocean! So excited and proud of myself. Drove an hour + to Avon, to sheltered area that has little wave activity, even at high tide.
@@ -3904,7 +3904,7 @@ I haven't gotten off the boat ramp yet, lol. It's submerged a good way in. If I 
 
 DH would happily go, but doesn't get home in time during the week. I want to do this more than just on the weekends. He's happyto go with me on the weekends.
 
-### nicebeanst@yahoo.com — 2012-04-29T22:33:55+0300
+### [email redacted] — 2012-04-29T22:33:55+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-19920>
 
 > **MamaGrok;19911 wrote:** TL, I love the river. Your experience sounds awesome! I love the double-takes of people who realize that I'm actually out there \*swimming\* in a river almost no one will venture into even in the summer (b/c of cold, not ick, lol)....Obviously you have to weigh your own risks, but I'm not sure I'd do what you're doing without someone who could call for help if you got confused and worsened hypothermia by going out deeper or further.
@@ -3943,7 +3943,7 @@ Today I have experienced the deeply calming effects of CT. I found out 5 days ag
 
 So I got in the bath for an hour. I can't say that I feel good. But it's certainly more bearable. I think I'll get back in the bath tonight.
 
-### nicebeanst@yahoo.com — 2012-04-30T05:00:31+0300
+### [email redacted] — 2012-04-30T05:00:31+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-19996>
 
 Oh Coriander, there are no words. Prayers for you, your sister and your family.
@@ -3983,7 +3983,7 @@ Sprint Samsung Epic
 
 Today was my first day at the ocean and it was a bit disappointing for CT. I have never seen such a high tide at this beach (Miramar in Montecito), and onlookers said that all the sand had just washed away. The waves were coming all the way up to the rocks near the steps, so I waded in and only got waist deep. There were a bunch of kids with surf boards and wetsuits out farther. I forgot my water shoes, and had to wear crocs, and they kept coming off. I really didn't want to get farther out because I wasn't sure where all the rocks were. I thought I would spend all my energy trying to keep warm, but I spent more energy trying to keep my balance and not get all banged up. This beach is supposed to be 55 degrees, but I am not buying it. There were a couple of guys on paddleboards without wet suits, but I was the only one actually trying to be in the water. Next time I go, I'll try to get there at low tide so I can walk to the sandy areas. Maybe I am not a good judge of cold anymore. I was in a pool for a long time yesterday, and feeling a little warm. Others who tried to get in were shrieking.
 
-### omlh@todmi.com — 2012-04-30T10:50:00+0300
+### [email redacted] — 2012-04-30T10:50:00+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-20029>
 
 So sorry to hear your news, Coriander. Thoughts with you and yours.
@@ -3995,7 +3995,7 @@ Yesterday...20 minutes in the lower Niagara river..Water temp a balmy 46 degrees
 
 I did feel like the Loch Ness Monster getting out...I wonder if Nessy is cold adapted..has to be.
 
-### omlh@todmi.com — 2012-05-01T00:02:28+0300
+### [email redacted] — 2012-05-01T00:02:28+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-20205>
 
 30 minutes at 50F today. Getting colder, if not longer ...
@@ -4027,12 +4027,12 @@ skin temp after: 52
 
 35 minutes of cold bath, started at 62F down to 58F. Full submersion up to my neck. Followed by a cold shower. Quick and sweet!
 
-### finnite@dccnet.com — 2012-05-01T15:43:03+0300
+### [email redacted] — 2012-05-01T15:43:03+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-20349>
 
 30 min at 46F last night, feet were bloody cold for hours, kept waking up until hubby donated his warm legs for my feet to rest against lol!
 
-### jeanie@truelongmont.com — 2012-05-01T16:31:33+0300
+### [email redacted] — 2012-05-01T16:31:33+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-20372>
 
 > **ealachan;20338 wrote:** CT totally sucked tonight. Did just lower leg immersion, and my toes ached really badly the whole time. My toes didn't turn white this time though...so that's a plus!
@@ -4053,7 +4053,7 @@ skin temp after: 52
 
 I've been keeping feet out - they seem verrrrry slow to adapt. I've found from waist to knees pretty easy to get in the cold. . it's above and below that are hard and I'm taking feet, arms, upper bod slower. I figure it's better to get as much surface area in. . and my bootie and thighs are mucho more surface than feet and hands!
 
-### trishalinn@gmail.com — 2012-05-01T17:16:21+0300
+### [email redacted] — 2012-05-01T17:16:21+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-20399>
 
 I find my hands and wrists to be the most difficult. They ache if on the cold water long. My feet acclimated quickly. We've been ridiculously busy lately but were planning on getting in the pool lat night, but it was raining. Hopefully it will wok out tonight, if not spot ct for me.
@@ -4106,7 +4106,7 @@ Still 30 minutes at 53 degrees. I even left out the top half thinking it might a
 
 I spent thirty minutes swimming and playing in the Pacific ocean today. What a rush! 54 degrees felt perfectly fine, even though I've only gotten my baths down to 59. This is my second Pacific swim, can't wait to do more.
 
-### jeanie@truelongmont.com — 2012-05-02T05:00:22+0300
+### [email redacted] — 2012-05-02T05:00:22+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-20606>
 
 > **ealachan;20578 wrote:** Interestingly, I don't really get coochie-freeze in the bath. Then again, the coldest I've gone has been about 50 degrees for 20 minutes. I might indeed get a coochie-freeze at lower temps. I may have to test this theory out. For Quelsen...I mean, science...
@@ -4143,7 +4143,7 @@ SERIOUSLY! Same here, for sure. Also, even if I pee right before I get into the 
 
 Also, "the netherlands" may be my new favorite euphamism. LOL!
 
-### finnite@dccnet.com — 2012-05-02T18:06:42+0300
+### [email redacted] — 2012-05-02T18:06:42+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-20689>
 
 > **ealachan;20729 wrote:** SERIOUSLY! Same here, for sure. Also, even if I pee right before I get into the tub, I still DESPERATELY need a pee within 5 minutes of getting into the cold water. I understand the mechanics of why this happens, now...but it's still annoying.
@@ -4249,7 +4249,7 @@ My heart beats faster when I prepare my cold bath in the morning.  I would fill 
 
 I don't multitask in the tub, I focus on the bath and make the most out of it. My arms and legs are always moving to circulate the water - it feels great when water moves against my body, almost feel like being massaged. Sometimes I use a washcloth to bring water onto my chest which doesn't always get under the water, or use the washcloth to massage my arms and legs - I figure as long as I'm in the tub let's do some scrubbing  And I bring water to my face too. It feels great to cool down my hot face with cold water. At the end I take a quick cold shower to wash off and let water drop on my face. Wonderful.
 
-### trishalinn@gmail.com — 2012-05-03T01:52:04+0300
+### [email redacted] — 2012-05-03T01:52:04+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-20857>
 
 We made it 45 min in our 55 degree pool today before babies required assistance. Was hoping for longer, but glad I was able to fit that in
@@ -4273,7 +4273,7 @@ No kidding!!! It feels like boiling water coming out! Unfortunately even though 
 
 I love this! What temp is your water? When I first started cold baths, I did it in my hot tub--turned down to 70 (as low as it goes). That was good for a while, then I started in my indoor jacuzzi bathtub, tap water is 45 degrees year round. That got my heart pumping! Then I tried 32 degree water--my heart beats fast just thinking about that! 32 degree water is super addictive, I must warn you.
 
-### kcorcoran@comcast.net — 2012-05-03T02:52:36+0300
+### [email redacted] — 2012-05-03T02:52:36+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-20865>
 
 I got back into the tub for CT today, 30 minutes 59F going in 63F water coming out. Didn't feel too bad once acclimated, layed back up to neck, swished water over torso. I found it easier to get in and stand, cup water over my legs before sitting, and then pour water over back and shoulders before laying down. Skin was mildly pink, so I should have stayed in longer, but I was bored. stapped the ice sheets around my back belly for ~20 min.
@@ -4325,7 +4325,7 @@ No worries, not taken that way. I sure would like to know why I do that for real
 
 30 minutes is when I really start to get cold. For several weeks, I pushed myself to stay in for 45 minutes and was miserable the last 15 minutes. About 10 days ago, I started fully submerging and decided that 30 minutes would be sufficient. I don't have advice on how to stay in longer other than tough it out. For me, 30 seems to be a reasonable duration with the benefit of warming up fairly quickly afterwards so I can be more functional (e.g. I can talk to someone on the phone without sounding like I'm drunk or something).
 
-### finnite@dccnet.com — 2012-05-03T15:40:37+0300
+### [email redacted] — 2012-05-03T15:40:37+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-20947>
 
 > **vkiernan;20967 wrote:** Not thinking my problem is incontinence as I never have to pee at night. Heck, after I go at 6 am when I rise, I usually don't pee again until around 10:30 or so. Still thinking it is estrogen related or something else. I remember flying to Hawaii 5 years ago and when I finally got to swim in the ocean, I couldn't stop peeing all the fluid that I retained from flying and this was a couple of days later. I filled right back up on the way home and my calves were so tight with fluid build up that they hurt. It was pretty bad.
@@ -4358,12 +4358,12 @@ I am definitely detoxing though, if not slowly. phfewwweeeee... the smell is les
 
 40 minutes cold bath, started at 62F, down to 60F.
 
-### omlh@todmi.com — 2012-05-03T19:44:39+0300
+### [email redacted] — 2012-05-03T19:44:39+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-21050>
 
 Cold showers in the morning, and spot icing in the evening - haven't been able to have a bath for the last few days, and won't get the chance again until 15th May. Hopefully keeping going with the spot icing and cold showers will be OK.
 
-### kcorcoran@comcast.net — 2012-05-04T01:37:30+0300
+### [email redacted] — 2012-05-04T01:37:30+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-21152>
 
 It was sunny and hot here today. Sunbathed with the ice cube sheets under the towel, doused myself with the hose. Kept me cool, not cold. I need to find an unpolluted lake around here...
@@ -4404,7 +4404,7 @@ Ocean? I guess it's probably >70 now, huh? Our tap water in Atlanta is already a
 
 Dh suggested getting an ice machine, but most of the semi-affordable ones make only about 22lb in an entire day ... only enough to get my tub to about 62F. I started freezing liter bottles of water and using them to cool the water before I get in, and it worked fairly well, but is a lot of effort to fill them, take to the basement freezer, then haul up two flights to the bathtub! DH also suggested getting a mini fridge and filling it with water (36F) to pour into the tub. I'm very thankful I realized there is a year-round 50F river
 
-### phillipsgeorge@hotmail.com — 2012-05-04T22:52:23+0300
+### [email redacted] — 2012-05-04T22:52:23+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-21421>
 
 Lucky here. tap water still 48F. It is England after all.
@@ -4418,7 +4418,7 @@ Trying to encourage him to read about CT. Very good reason to keep going so we c
 
 Will, definitely, try a cold bath this weekend.
 
-### jeanie@truelongmont.com — 2012-05-05T00:55:24+0300
+### [email redacted] — 2012-05-05T00:55:24+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-21449>
 
 > **Lyndra;20981 wrote:** 30 seems to be a reasonable duration with the benefit of warming up fairly quickly afterwards so I can be more functional (e.g. I can talk to someone on the phone without sounding like I'm drunk or something).
@@ -4478,14 +4478,14 @@ Today I air-cooled in the am, outside doing a project. Even though the sun was c
 
 Did not have time today because last night at about 9:30 as I was settling into the tub & ready to kick back to some quiet tunes, my wife came into the bathroom to tell me that her water just broke! We added a girl to our two boys today! Awesome. Purely awesome!!
 
-### jeanie@truelongmont.com — 2012-05-05T04:52:23+0300
+### [email redacted] — 2012-05-05T04:52:23+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-21506>
 
 > **Lyndra;21551 wrote:** Colder is definitely easier for me. Two days ago I used tap water - around 60 degrees - and shivered and really worked on "mental toughness" in order to stay for 30 minutes. Yesterday I put in ice from the icemaker and got it down to around 57 and it was easier. Today I added a 10 pound bag plus the icemaker ice and got the water down to 52 (what it was when I first started CT). It was so much easier - no mental agony and very little shivering. This may be be my incentive to clean out the garage so we can buy a freezer and I can make my own ice instead of buying it.
 
 Make me some too! Im 4 baggin !
 
-### finnite@dccnet.com — 2012-05-05T05:04:04+0300
+### [email redacted] — 2012-05-05T05:04:04+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-21508>
 
 > **Larry;21581 wrote:** Did not have time today because last night at about 9:30 as I was settling into the tub & ready to kick back to some quiet tunes, my wife came into the bathroom to tell me that her water just broke! We added a girl to our two boys today! Awesome. Purely awesome!!
@@ -4497,12 +4497,12 @@ woo hoo! congrats!
 
 Thanks so much Colleen! Life just got better.
 
-### trishalinn@gmail.com — 2012-05-05T05:11:07+0300
+### [email redacted] — 2012-05-05T05:11:07+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-21514>
 
 We did 55 minutes in our 58 degree pool today. Sad the pool is warming up (dude, I never would have thought I would say that last year)! Pool might cool down a bit as we're having another dip in temps...fingers crosses. Anyhow, I think I might try some colder ct in the tub at least once next week. Trying to psych myself up. The 50ish degrees has gotten, dare I say it, easy!
 
-### trishalinn@gmail.com — 2012-05-05T05:12:45+0300
+### [email redacted] — 2012-05-05T05:12:45+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-21516>
 
 > **Larry;21581 wrote:** Did not have time today because last night at about 9:30 as I was settling into the tub & ready to kick back to some quiet tunes, my wife came into the bathroom to tell me that her water just broke! We added a girl to our two boys today! Awesome. Purely awesome!!
@@ -4546,7 +4546,7 @@ Sent from my G100W using Tapatalk 2
 
 Why don't you just throw the frozen meat in a baggie and then use it to cool the tub? My problem with ice is that my freezer is too full. I cleared out a space, and then ran into a sale on shrimp and game meats. Oh well.
 
-### omlh@todmi.com — 2012-05-05T18:37:42+0300
+### [email redacted] — 2012-05-05T18:37:42+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-21628>
 
 45 minutes at 50F - still shivering an hour later.
@@ -4579,7 +4579,7 @@ I think I have adapted to a certain temp. Today I put in 4 10-pound bags of ice 
 
 I was a person who used to love a really hot bath so it took me a month to get into 50's. I never shiver, I hate the idea of shivering. I don't go below 53F and only recently started submersing my back and rib cage. Is shivering required?
 
-### kathiebu@hotmail.com — 2012-05-06T20:41:33+0300
+### [email redacted] — 2012-05-06T20:41:33+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-21796>
 
 > **Larry;21581 wrote:** Did not have time today because last night at about 9:30 as I was settling into the tub & ready to kick back to some quiet tunes, my wife came into the bathroom to tell me that her water just broke! We added a girl to our two boys today! Awesome. Purely awesome!!
@@ -4595,7 +4595,7 @@ attention on the beach from people wearing windbreakers and long pants asking me
 
 [](http://http://www.jackkruse.com/forum/convert_files/attachments/21892=189-ImageUploadedByTapatalk1336333402.419549.jpg)
 
-### omlh@todmi.com — 2012-05-06T23:27:23+0300
+### [email redacted] — 2012-05-06T23:27:23+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-21820>
 
 Just a cold shower this morning, and an hour of spot-icing this evening ...
@@ -4894,7 +4894,7 @@ Looking forward to radiating heat like the sun!!
 
 Woohoo!!! Congrats!!
 
-### omlh@todmi.com — 2012-05-08T18:26:17+0300
+### [email redacted] — 2012-05-08T18:26:17+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-22250>
 
 30 minutes at 55F today. Had that weird non-shivering shivery feeling, so I'm hoping that's a good sign, and my warm-up time afterwards hasn't been too bad, either. Oddly, though, my cold shower this morning was awful - it felt so much colder than usual for some strange reason.
@@ -4924,7 +4924,7 @@ Warmed up and stretched is not consistent with the demands of nature. Those who 
 
 If your muscles are ketogenic, then they are ready to function in an instance. If your muscles burn carbs for fuel, then you need to warm up to get the blood flowing with the right amount of oxygen, otherwise you can injure your muscles.
 
-### jayjha1@gmail.com — 2012-05-08T20:42:17+0300
+### [email redacted] — 2012-05-08T20:42:17+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-22310>
 
 mine was hell last night
@@ -4977,14 +4977,14 @@ Did my 30 min at 57F CT today. I generally immerse up to my chest , arms out of 
 
 Usually don't submerge my arms and hands and did this week. I was much colder, too.
 
-### omlh@todmi.com — 2012-05-09T18:58:12+0300
+### [email redacted] — 2012-05-09T18:58:12+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-22604>
 
 30 mins at 53F today. Took my temperature before I started to run the bath - 36.4C. 15 minutes in my temperature was 37.1C and it remained at that until 40 minutes after the bath when it dropped back down to 36.8. Very interesting indeed, and shows that something must be happening!
 
 Warm up time has felt long and brutal today, with lots of under-the-skin shivering.
 
-### jayjha1@gmail.com — 2012-05-09T20:53:26+0300
+### [email redacted] — 2012-05-09T20:53:26+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-22630>
 
 my CT yesterday was Vasper Training - yikes - that was tough! not the cold but the workout
@@ -4996,14 +4996,14 @@ going for my first cryo session today
 
 33 minutes cold bath, started at 60F, down to 58F. Followed by a cold shower.
 
-### jayjha1@gmail.com — 2012-05-10T00:45:18+0300
+### [email redacted] — 2012-05-10T00:45:18+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-22682>
 
 > **youthfuliz;22760 wrote:** 33 minutes cold bath, started at 60F, down to 58F. Followed by a cold shower.
 
 great job!
 
-### jayjha1@gmail.com — 2012-05-10T00:45:55+0300
+### [email redacted] — 2012-05-10T00:45:55+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-22683>
 
 ok, just came back from my first cryo session
@@ -5035,7 +5035,7 @@ Happy to see others are getting nice temperature rises too!! (Temp drop is horri
 
 I am having a hard time getting my water temp below 60. I use frozen ice blocks but they aren't doing the job. I had some really good sub 40 sessions in the past. So unless I buy 30 to 40 lbs of ice it seems almost not worth it anymore.  I need to find an economical way to do this.
 
-### omlh@todmi.com — 2012-05-10T18:23:14+0300
+### [email redacted] — 2012-05-10T18:23:14+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-22851>
 
 30 mins at 52F today. Oral temp before bath 36.3C, during 37.2C and after 37.1C. Warmup time was quicker today. Won't be able to do any more CT or spot-icing until Tuesday.
@@ -5109,7 +5109,7 @@ Tried my first CT bath last night -YEEEEEEIKES! I made it 45 minutes but was col
 
 So far for me the quickest way to warm up is to get busy. Walk one mile, or run for 5 minutes, or do some leg lifts. Works like a charm.
 
-### jayjha1@gmail.com — 2012-05-11T02:43:57+0300
+### [email redacted] — 2012-05-11T02:43:57+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-23057>
 
 > **golooraam;22763 wrote:** ok, just came back from my first cryo session
@@ -5312,7 +5312,7 @@ I've done two more baths @ 57. After the second one recovery was difficult again
 
 sat in 57F water today. 30 min. it felt easy for the first time. I think its time to lower the temp!
 
-### jeanie@truelongmont.com — 2012-05-13T17:28:18+0300
+### [email redacted] — 2012-05-13T17:28:18+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-23665>
 
 Been taking a break because going to get tests this week. A little scary! I hope I can jump right back in!! It's been cold here the last few days (in the 40's at some points, rainy) and I noticed, when outside, I felt cold!! Are you guys getting to the point where you are more comfortable in general cold things?
@@ -5455,7 +5455,7 @@ I went to the beach today, and it was pretty cold and calm. Unfortunately, it al
 
 48 minutes cold bath, started at 56F, down to 55F. My body was very efficient in warming up the tub water.  Shivered a bit at the end and afterward. Felt fine within 15 minutes.
 
-### omlh@todmi.com — 2012-05-15T20:40:26+0300
+### [email redacted] — 2012-05-15T20:40:26+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-24312>
 
 35 minutes at 50F today. Oral temperature before was 36.0C, during 36.8C and afterwards 36.5C. An hour after the bath, my oral temperature was 35.7C, which was not so good! Warming up time was very long today, probably because of the break I had from CTing.
@@ -5476,7 +5476,7 @@ New to this thread (and the board). Cted twice today, water at 50-55ish degrees 
 
 I had 10 cryopacs in the tub with me. It still only brings the temp down about 5ish degrees. How does one get the really really cold temps I here about?
 
-### jeanie@truelongmont.com — 2012-05-16T03:31:26+0300
+### [email redacted] — 2012-05-16T03:31:26+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-24468>
 
 Mine comes out the tap at about 55 degrees, I use 50 lbds and it gets down to 32 in my garden tub.
@@ -5530,7 +5530,7 @@ I usually do my cold bath in the morning after breakfast. Many people mentioned 
 
 42 minutes in 56F cold bath. Loved it! My face looks smaller... and legs are thinner... jeans fit better now
 
-### omlh@todmi.com — 2012-05-16T20:49:45+0300
+### [email redacted] — 2012-05-16T20:49:45+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-24657>
 
 30 minutes at 50F today. Oral temperature taken before 36.6C, during 37.3C and after 36.8C. For the first time since I started CT I felt that a furnace was starting to fire up after about 5 minutes in the bath. Sadly, the furnace sputtered to a halt after about 15 minutes ... and I had to force myself to complete the 30 min. soak. But warm-up time was quicker, too.
@@ -5558,7 +5558,7 @@ While I was in the tub a hail storm hit...it was deafening on the roof. Then the
 
 Best CT yet! But I know I can go lower...longer...
 
-### jeanie@truelongmont.com — 2012-05-17T05:01:28+0300
+### [email redacted] — 2012-05-17T05:01:28+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-24789>
 
 Back to CT today! Met with a new doc, so I was taking a week off prior to tests/draws. Wooot.
@@ -5583,7 +5583,7 @@ What is even more promising, is that I've started to notice some BAT action, I t
 
 So now, after little more than a dozen CT sessions, I have started noticing that my upper back is the first area to feel warm afterwards, and also warmer than usual when I am outdoors on cold days. I'm pretty excited about this, and hoping that these are early signs of my BAT making a comeback.
 
-### nicebeanst@yahoo.com — 2012-05-18T02:31:21+0300
+### [email redacted] — 2012-05-18T02:31:21+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-25029>
 
 35 minutes in the Atlantic ocean, 51deg. Same spot, the Cove, and one of the same fishermen from last time was up on the jetty! "hey its the mermaid" LOL Played with 2 kids, 9 and 7, whose dad was letting them splash in the waves. The cove is very safe, in the summer chock full of families with little kids (shoot this is where \*I\* used to go as a little kid!)
@@ -5827,7 +5827,7 @@ Drain: Yes
 
 38 minutes cold bath, started at 56F, down to 55F. easy and nice. i think I'll do more face dunks in addition to my cold bath, since i see clearly that CT gives me younger looking skin
 
-### omlh@todmi.com — 2012-05-22T17:16:52+0300
+### [email redacted] — 2012-05-22T17:16:52+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-26329>
 
 Only managed 25 minutes at 55F. Oral temp. before 36.5C, during 36.8C and after, 37C. Found the cold almost unbearable today, but warm-up was great (hanging out the washing in the sunshine).
@@ -5849,7 +5849,7 @@ I haven't used ice yet... tap water is 52F. I will keep doing the cold bath thro
 
 40 minutes in 54F cold bath. Followed by a cold shower. Quite enjoyable the whole time.  Shivered a bit afterward.
 
-### jayjha1@gmail.com — 2012-05-22T23:07:37+0300
+### [email redacted] — 2012-05-22T23:07:37+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-26486>
 
 over the last few days:
@@ -5874,7 +5874,7 @@ today was the first day with added ice, and the ice blocks are interesting. I ca
 
 My skin went cherry red for the first time!
 
-### omlh@todmi.com — 2012-05-23T14:26:05+0300
+### [email redacted] — 2012-05-23T14:26:05+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-26636>
 
 35 mins at 51.4F. Oral temperature before 36.4C, during 37.5C and afterwards 37.3C. Warm-up is taking forever - still shivering hard after an hour. Lost quarter of an inch from around the tummy since yesterday though, although the scales are up today.
@@ -5900,7 +5900,7 @@ good for you!
 
 I've now taken to filling the tub in the morning and leaving the water in so I can sneak up there, even for minutes here and there throughout the day! The water stays cold (55ish), although I wish I could get it colder (I know, more ice needed). Today me and kids did our first swim of the season - pool was a balmy 68 degrees! My youngest stayed in the longest, at least 40 minutes, of the 4. I am really struck by how my 2 autoimmune kids are drawn to the cold baths (and pool). My 9 year old (Hashimoto's, celiac) has very, very sensitive skin, and a very low pain threshold (not the toughest kid lol!). But he now asks for a cold bath nightly. Not as cold as mine, but probably 65ish degrees. Not bad!
 
-### kcorcoran@comcast.net — 2012-05-24T02:41:15+0300
+### [email redacted] — 2012-05-24T02:41:15+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-26897>
 
 30minutes at 62F. ice pack on belly, didn't really feel cold, awesome!
@@ -5910,7 +5910,7 @@ I've now taken to filling the tub in the morning and leaving the water in so I c
 
 40 minutes in the backyard tub with ice bottles. I only shivered a little at the beginning, and then when I got out and the wind hit me. It is getting too warm for a good chill.
 
-### omlh@todmi.com — 2012-05-24T16:07:49+0300
+### [email redacted] — 2012-05-24T16:07:49+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-27009>
 
 45 minutes at 53F. Didn't take oral temperature before, during or after today. Unlike yesterday, recovery time was quick and painless.
@@ -5925,7 +5925,7 @@ I've now taken to filling the tub in the morning and leaving the water in so I c
 
 20 minutes outside in the rain and fog, and then a cold shower later on. The water was really cold today.
 
-### omlh@todmi.com — 2012-05-26T17:07:59+0300
+### [email redacted] — 2012-05-26T17:07:59+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-27631>
 
 40 mins at 55F today. Oral temp. beforehand was 36.7C, during 36.9C and afterwards 36.8C, so no dramatic changes (although I certainly felt "hot" during the bath). Recovery time was quick, but shivering was intense for that period.
@@ -5952,7 +5952,7 @@ Degrees. Only had 20 lbs of ice and whatever I could scrounge from my freezer. G
 
 Getting back into the swing of things after taking a week off to let hormones settle before testing. I have been cold tubbing every 2-3 days. Today did an after breakfast tub with 30# of ice to get the temp to around 47. That felt far better to me than the most recent experiences at 53-55 degrees. I went outside to do some yardwork and warmed up in no time. I really like the feeling of sunshine after CT - it seems to be a natural fit.
 
-### omlh@todmi.com — 2012-05-27T15:12:51+0300
+### [email redacted] — 2012-05-27T15:12:51+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-27823>
 
 45 minutes at 55F. Didn't take oral temp. Felt very warm halfway through, and was a good cherry red when I got out. Still shivering 30 minutes later, which is probably good.
@@ -5962,7 +5962,7 @@ Getting back into the swing of things after taking a week off to let hormones se
 
 40 minutes at 60F. Been out for about 20 minutes and still tingly cold.
 
-### jeanie@truelongmont.com — 2012-05-27T21:16:05+0300
+### [email redacted] — 2012-05-27T21:16:05+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-27899>
 
 > **Lyndra;27789 wrote:** Getting back into the swing of things after taking a week off to let hormones settle before testing. I have been cold tubbing every 2-3 days. Today did an after breakfast tub with 30# of ice to get the temp to around 47. That felt far better to me than the most recent experiences at 53-55 degrees. I went outside to do some yardwork and warmed up in no time. I really like the feeling of sunshine after CT - it seems to be a natural fit.
@@ -6041,7 +6041,7 @@ Been in for 45min and still going strong
 
 Yesterday I went for my first sea swim this year - NICE  For the first time in my whole life I had no problem going in the water.
 
-### omlh@todmi.com — 2012-05-28T15:09:26+0300
+### [email redacted] — 2012-05-28T15:09:26+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-28012>
 
 50 mins at 55F (could have done longer, but had an appointment). Heaven today, lying in the bath looking out over the garden with a light breeze blowing in through the open window. Oral temp before, 36.2C, during, 36.8C, after 36.7C. Not big changes, but changes nonetheless. AND whilst the scales are still not budging, I am wearing a shirt I haven't fitted into since 1993  Oh, and recovery time was really short today, although the shivers were intense whilst they lasted.
@@ -6060,7 +6060,7 @@ Jumped back into the tub right after waking this AM with the worst menstrual cra
 
 oops, this was meant to go into the benefits of CT thread...
 
-### jeanie@truelongmont.com — 2012-05-29T00:05:13+0300
+### [email redacted] — 2012-05-29T00:05:13+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-28081>
 
 Went for a swim at union reservoir!
@@ -6129,12 +6129,12 @@ Inger
 
 That's really scary Inger! Glad you're feeling OK now. Thanks for sharing...
 
-### omlh@todmi.com — 2012-05-29T18:22:57+0300
+### [email redacted] — 2012-05-29T18:22:57+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-28188>
 
 No CT today due to unexpected arrival of builders ...
 
-### omlh@todmi.com — 2012-05-29T18:24:22+0300
+### [email redacted] — 2012-05-29T18:24:22+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-28190>
 
 > **Inger;28252 wrote:** Was a little scary today.
@@ -6177,7 +6177,7 @@ No CT for me today - have to do some overnight medical testing and didn't want t
 
 After a long break I had a great time in an Olympic size pool on the lovely grounds of a spa in No Cal! It was very cold but dont know how cold.
 
-### omlh@todmi.com — 2012-05-30T18:23:06+0300
+### [email redacted] — 2012-05-30T18:23:06+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-28368>
 
 30 mins at 55F today. Oral temperature before was 36.6C, during 37.1C and afterwards 37.0C. Small changes, but at least the temperature rise is there. Warm-up time is not good today, for some reason - lots of that beneath the skin shivering!
@@ -6201,7 +6201,7 @@ I think I must try the deep CT... don't like the shivering part  I don't shiver 
 
 I don't find it any easier to get into a colder bath - it's always a bit of a shock - but I don't shiver as much at say 47-50 as I do at 55-60. Plus, I feel much more comfortable at the lower temperature and feel like I can stay in longer without constantly wonder if it's time yet to get out. I have only done one bath at about 42 and it was fine on my body but I couldn't keep my feet or my fingers in very long. One of my goals is to help the arthritis in my thumbs so I need to use water that's at the "just right" temp for me.
 
-### jeanie@truelongmont.com — 2012-05-30T22:55:33+0300
+### [email redacted] — 2012-05-30T22:55:33+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-28413>
 
 > **quelsen;28475 wrote:** I notice that i stoped shivering about 2 weeks ago. specifically after my 2 one hour 32F sessions.
@@ -6248,7 +6248,7 @@ I stay in for an hour daily, sometimes a bit longer. I live near Washington DC, 
 
 My temp today was 98 degrees getting into the bath. When I got out an hour later, temp had risen to 99.4. So I guess something is happening...
 
-### omlh@todmi.com — 2012-05-31T18:45:45+0300
+### [email redacted] — 2012-05-31T18:45:45+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-28630>
 
 30 minutes at 54F today (still normal cold tapwater - no added ice!). Oral temperature before 36.5C, during 37.2C, after 37.0C Recovery time was quick and easy today with, for the first time ever, no shivering at all! Maybe, just maybe, I'm becoming cold adapted? I do know that my husband is working from home today and has lit a fire in our office - he's struggling with teeshirt, shirt and jumper, and I'm too hot in a teeshirt! Always used to be the other way around.
@@ -6272,7 +6272,7 @@ Was kinda lazy today. TOM is approaching. Just had a quick cold shower to cool m
 
 Interesting... maybe I had one day like that, at the very beginning of my ct experience... but my guess is your lack of sleep the night before may be part of the reasons why you felt cold during the day...
 
-### omlh@todmi.com — 2012-06-01T10:13:00+0300
+### [email redacted] — 2012-06-01T10:13:00+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-28823>
 
 Our hot water has packed up - so CT for the whole family until it gets fixed  Having said which, my shower this morning (which was, of necessity, cold as usual) was horrible. I wonder whether it was because the choice was taken away? Will have a bath later, but had the weird sensation of feeling really hot after breakfast this morning, and still feel as though I am radiating heat. I'm taking it that this is a good sign!
@@ -6282,7 +6282,7 @@ Our hot water has packed up - so CT for the whole family until it gets fixed  Ha
 
 I did 35 minutes @ 10-11C again. Was quite shivery going in; like, OMG this is cold! ^%$#ing cold!! By the time my belly was covered I had stopped shivering, and it wasn't too bad. My feet didn't hurt, and no shivering afterward, but I cheated and warmed up in the winter sunshine.
 
-### omlh@todmi.com — 2012-06-01T13:37:31+0300
+### [email redacted] — 2012-06-01T13:37:31+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-28828>
 
 So, 35 minutes at 53.2F this morning (bath). Oral temperature before 36.4C, during 37.0C and after 36.8C. For the first time ever, I recorded the temperature of the bath when I got out, and it was 60.3F! It's clear that something is beginning to happen. Whilst I am not shivering in a classic sense after this bath, I am getting involuntary, slight subcutaneous tremors. Very weird indeed as I don't actually feel that cold!
@@ -6292,7 +6292,7 @@ So, 35 minutes at 53.2F this morning (bath). Oral temperature before 36.4C, duri
 
 Hi Oliviascotland. I know what you mean with the slight tremors. You can talk normally, and most people would not notice that you are shivering at all. Yes, you don't feel cold, but the tremors last, on and off, for about an hour. Neat, eh?
 
-### omlh@todmi.com — 2012-06-01T18:40:23+0300
+### [email redacted] — 2012-06-01T18:40:23+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-28886>
 
 It is rather, isn't Nonchalant! I'm constantly amazed at the changes CTing brings about, and it never seems to be the same two days running. But I am hoping that this is beginning to be a sign that I'm starting to cold adapt a bit.
@@ -6416,7 +6416,7 @@ Tonight in my bath I'll try and imagine snow capped mountains in the distance...
 
 ^ I'm glad you liked it, freesia!
 
-### omlh@todmi.com — 2012-06-03T14:05:16+0300
+### [email redacted] — 2012-06-03T14:05:16+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-29190>
 
 45 minutes at 48F. Oral temp. before 36.8C, during 37.0C and after 36.9C. Temperature of water at the end of the bath was 57.8F. No shivering in the bath, and nothing for about 30 mins after the bath, but severe shivering at the moment (interfering with typing)! Will hopefully subside, as I have to take the children shopping!
@@ -6438,7 +6438,7 @@ Very nice, but I started shivering a little bit after only 25 minutes, so I ende
 
 Yesterday evening I had a "bad" CT session. It was barely 25 minutes at 54 degrees. I shivered almost the whole time, and it took me forever to warm up afterwards, like udring the first week of CTing. Just the day prior, I did 25 minutes at 51 degrees, and barely shivered during, or after. It was as if my BAT wasn't working yesterday lol!! I know it's there, because my post-bath warm=up period has dramatically decreased since starting this 8ish weeks ago. I am wondering if eating too many carbs hinders the BAT heating process. I ate about a cup of blackberries with my dinner meal (4:30), plus the carbs in the kale and salad.
 
-### omlh@todmi.com — 2012-06-04T18:49:40+0300
+### [email redacted] — 2012-06-04T18:49:40+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-29377>
 
 Haven't been able to CT today (it's difficult to explain to builders!) other than my usual cold shower, and probably won't be able to tomorrow, either :-( Hopefully Wednesday will be less busy, as well as Friday ...
@@ -6510,7 +6510,7 @@ I'm in  Had to take the toes out though, they were getting too cold.
 
 Holy cow, yes, that was a lot of ice!! Half my tub was full. Was in the mood for an adventure tonight  Plus, I pretty much spent the day on the phone contesting inaccurate insurance bills.... definitely needed to chill tonight.
 
-### omlh@todmi.com — 2012-06-06T14:48:14+0300
+### [email redacted] — 2012-06-06T14:48:14+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-29689>
 
 45 mins at 54F today. Oral temp before 36.7C, during 37.0C and after 36.8C. Water temp. at end of bath 55.6F. Recovery has been long, with lots of subcutaneous twitches, but no real shivering.
@@ -6541,7 +6541,7 @@ Just air CT today, but tomorrow I might be able to visit the beach or at least a
 
 i'm back in my tub this AM which is still at 56 degrees... did A LOT of shivering last night after almost 60 min in 41 degrees! Trying to stop before I get to shivering this morning b/c of doc appointment in an hour.
 
-### finnite@dccnet.com — 2012-06-06T18:21:23+0300
+### [email redacted] — 2012-06-06T18:21:23+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-29736>
 
 > **Coriander;29730 wrote:** I woke up yesterday feeling like crap. It took me a while to realise it was the 'almost headache when about to get my period' kind of crap. I haven't had a period since early March and I felt truly dreadful. So I jumped in the bath, thinking it could only help. I stayed 40 minutes at 11C, and the headache had eased off a bit. But after I got out, I got cold; really cold. My toenails turned blue, and I shivered and shivered, and felt worse and worse. I finally went to bed after lunch and shivered for an hour, even after turning on the electric blanket! What the hell was that about? I had to get up after another hour, and the headache continued until it was time to cook dinner. And no period. Feeling better today, though still a bit 'blah'.
@@ -6557,7 +6557,7 @@ I didn't check my temperature right after, but an hour after I got out of the ba
 
 Recovery wasn't unpleasant, and I slept soundly after
 
-### ehanner@gmail.com — 2012-06-07T00:45:51+0300
+### [email redacted] — 2012-06-07T00:45:51+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-29800>
 
 I'm doing straight cold showers for CT. My cold well water is at 55F and I stay in for 10 or more minutes, moving the shower head around to cover everything but the top of my head. The only place I get a cold freeze sensation where it hurts is doing the forehead (trigeminal) area. Everywhere else I don't feel the cold water at all. My belly temp is normally 90F before CT and 62-70F after depending on how long I stay in. Even though I am only doing showers for 10 minutes, I was adapted when I swam in Lake Michigan a couple weeks ago water temp 49F. I stayed in 20 minutes without any trouble at all. Pretty amazing actually. So from my perspective, it wasn't hard to become adapted to cold. I do CT most every day like this.
@@ -6621,7 +6621,7 @@ it was 6 degree which is 42.8 F, my mistake
 
 why did you have to bail?
 
-### jayjha1@gmail.com — 2012-06-07T17:44:28+0300
+### [email redacted] — 2012-06-07T17:44:28+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-29910>
 
 well on the plus side I got to swim in the Pacific in Mexico, yet all the food and margaritas added a few pounds
@@ -6681,7 +6681,7 @@ Then I bought 4 flexible ice sheets on Amazon, with the intention of using them 
 
 It's definitely an involved process! I envy those that can just turn on the tap, let the tub fill, and get in! I would LOVE to be able to do a croak soak, but it's just not possible here!!
 
-### nosnhojjennifer@yahoo.com — 2012-06-10T16:55:34+0300
+### [email redacted] — 2012-06-10T16:55:34+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-30404>
 
 Last night I got back to spot CT on my carotids (I have a pituitary cyst that I am looking to obliterate) and it always causes intense pain for the first 10 minutes or so, Eventually I can keep the ice on them but oh how I scream and carry on...LOL...anyone have any advice on that??
@@ -6734,7 +6734,7 @@ I eat a lot of fat (fatty beef/bacon/coco-crack) and a bitter melon capsule, bef
 
 I'm going to Seattle in July and a swim in 50 degree Puget Sound is on the list!
 
-### omlh@todmi.com — 2012-06-11T20:25:48+0300
+### [email redacted] — 2012-06-11T20:25:48+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-30560>
 
 20 mins at 55F today - was short only because I found it really hard for some reason. Oral temp. beforehand was 36.6C, during 36.8C and after 36.9C. Recovery time was very quick, with no shivering, just a feeling of a furnace being turned on after about 10 minutes.
@@ -7151,7 +7151,7 @@ Ok so yesterday I finally got a hold of ice. Whoot. My CT session turned into a 
 
 [](http://http://www.jackkruse.com/forum/convert_files/attachments/35787=313-ImageUploadedByTapatalk1341498353.338299.jpg)
 
-### nosnhojjennifer@yahoo.com — 2012-07-05T17:30:38+0300
+### [email redacted] — 2012-07-05T17:30:38+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-35625>
 
 Super cute! The family that CTs together....
@@ -7249,7 +7249,7 @@ Love the pics Lauren and Shijin - thanks for sharing
 
 I CT'd myself to a screeching halt after a couple of extra cold (for me) baths @ 48F. Every time I go lower I get a round of sinus clearing, then deeper detox. I was hit with symptoms of oxidative stress...probably more toxins than my system can handle right now. Extra lipo glutathione is helping and I added curcumin today. Pretty sure I have fast phase 1 detox and slow phase 2 (genetics still pending) so continuing on best I can now after a couple of days off.
 
-### jeanie@truelongmont.com — 2012-07-11T04:19:08+0300
+### [email redacted] — 2012-07-11T04:19:08+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-36722>
 
 > **Shijin13;35787 wrote:** Ok so yesterday I finally got a hold of ice. Whoot. My CT session turned into a family CT session
@@ -7308,7 +7308,7 @@ Must have used close to 80 pounds of ice. Should be able to do another tomorrow 
 
 There appears to be a big difference between 57 degrees and 70 degrees.
 
-### jeanie@truelongmont.com — 2012-07-18T01:29:07+0300
+### [email redacted] — 2012-07-18T01:29:07+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-38865>
 
 > **Cowboy;39039 wrote:** Dumped the warm water in the stock tank, and refilled with 64 degree water from my in ground cistern. Then added all the ice I could freeze in the last couple of days. Ended up with a temp of 57 degrees. It was cold and I only managed 30 minutes, but it did feel good. I am still a bit uncoordinated with my keyboarding from being cold. I was right at the shiver and shake point.
@@ -7330,7 +7330,7 @@ And when you get back down closer to 32 it gets easier!!!!
 
 How is it around 40? I can get my well water down to 53 if I water all the plants first. I thought I might try icing it once just to see how bad it is for me. 30-35 min. is all I can do in 53 and I have been doing them from the start. Although everything is submerged now except hands and half of my feet.
 
-### jeanie@truelongmont.com — 2012-07-18T05:03:15+0300
+### [email redacted] — 2012-07-18T05:03:15+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-38918>
 
 > **vkiernan;39094 wrote:** How is it around 40? I can get my well water down to 53 if I water all the plants first. I thought I might try icing it once just to see how bad it is for me. 30-35 min. is all I can do in 53 and I have been doing them from the start. Although everything is submerged now except hands and half of my feet.
@@ -7348,7 +7348,7 @@ I'm still quite amazed that such exposure to cold is now not only tolerable, but
 
 I live on a peninsula with sandy beaches to the west, deep fjords and an archipelago to the east and several lakes in between, so there's plenty of choice. But rising sea temperatures is making me look for other options, and I discovered that a local health spa has a cold pool that they claim is kept at a balmy 6Â°C (43Â°F). Might just have to try that one of these days...
 
-### jeanie@truelongmont.com — 2012-07-19T02:53:27+0300
+### [email redacted] — 2012-07-19T02:53:27+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-39216>
 
 > **Optimalbound;39358 wrote:** Had my longest ocean swim so far, yesterday. 45 minutes in 16Â°C (60Â°F). Probably about half a mile. Got stung by jellyfish all over my torso and left leg, got dive bombed by terns nesting on a little island that I swam too close to, and nearly got run over by someone driving his boat without watching where he was going. Fairly uneventful, otherwise.  No shivering afterwards at all. It felt like I could have gone on for hours. No hunger afterwards and great sleep.
@@ -7416,7 +7416,7 @@ Today, I stopped by the spa that I mentioned and it was quite a disappointment. 
 
 Today's CT is spot...b/c that's what I have time for in this crazy day!!! but I've forgotten how much I like CT too... I've been so focused on the Deep CT in the stock tank - that I've forgotten how refreshing it is to CT and get things done at the same time....
 
-### jeanie@truelongmont.com — 2012-07-24T02:16:03+0300
+### [email redacted] — 2012-07-24T02:16:03+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-40521>
 
 ahhhh, CT I've missed you! Took my first cold bath in a couple of months. Lovely. I felt the calm and ct goodness right away. It didn't hurt that I just came in from sunbathing in 100 degree temps!
@@ -7456,7 +7456,7 @@ This morning on my ocean swim, an otter joined me. That's the second time that's
 
 I'm ocean swimming at least five days a week and hoping for six this week. It's so addicting, and I love getting up early enough to drive over, swim, and come back home while it's still early in the day. I ran into the other regulars this morning, they said the temp was 59. It feels divine. So happy to live near the Pacific Ocean!
 
-### nosnhojjennifer@yahoo.com — 2012-07-24T23:46:17+0300
+### [email redacted] — 2012-07-24T23:46:17+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-40858>
 
 > **Rosekelly;41034 wrote:** This morning on my ocean swim, an otter joined me. That's the second time that's happened, and this time, the otter was very close, maybe 20 feet away. So cute! Swimming on its back, then diving under the water.
@@ -7467,7 +7467,7 @@ I'm ocean swimming at least five days a week and hoping for six this week. It's 
 
 How wonderful to have an ocean and a playmate !
 
-### omlh@todmi.com — 2012-07-28T19:59:54+0300
+### [email redacted] — 2012-07-28T19:59:54+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-41697>
 
 Sounds so idyllic!
@@ -7682,7 +7682,7 @@ right now I'm maintaining 50 degrees in 90 degree South Florida summer. This wil
 
 My new love is 42 degrees! It's amazingly easier!
 
-### jeanie@truelongmont.com — 2012-07-31T17:30:11+0300
+### [email redacted] — 2012-07-31T17:30:11+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-42049>
 
 > **Qodesh;42297 wrote:** I've insulated my 100 gal. stock tub and have a water drip line going through the top of my chest freezer. The outflow from the freezer drain hole balances out the water level through the drain hole in the bottom of the stock tub.
@@ -7786,7 +7786,7 @@ Super impressed that you're managing a 42F bath in Florida right now! It's midwi
 >
 > My new love is 42 degrees! It's amazingly easier!
 
-### nate.reik@yahoo.com — 2012-08-01T01:45:04+0300
+### [email redacted] — 2012-08-01T01:45:04+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-42165>
 
 > **Malkavian;42345 wrote:** I experienced a very uncomfortable feeling in the scrotum. Not pain, just...I don't know a "warning" from my body that this isn't good... it had me a little nervous...
@@ -7894,12 +7894,12 @@ It will probably be several more days before we have 6 gallon bags filled back u
 
 This morning I took an extra long cold shower - 20 minutes. From bed staight to the cold. And man, all morning I feel like I'm flying. I've never taken speed before - but I imagine this is how it feels.
 
-### omlh@todmi.com — 2012-08-22T18:09:24+0300
+### [email redacted] — 2012-08-22T18:09:24+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-46323>
 
 Managed a nice long (20 minute) shower on the coldest setting - our tap water is in the mid-fifties at the moment, so it's not optimal, but not bad! Looking forward to being able to resume baths once the children are back at school and I'm not spending my whole time running them around the place!
 
-### jayjha1@gmail.com — 2012-08-23T23:21:07+0300
+### [email redacted] — 2012-08-23T23:21:07+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-46597>
 
 I think I threw down my 36th cryo bath today
@@ -7969,7 +7969,7 @@ The Pacific Ocean around these parts is cooling off now that summer's over. 59 t
 
 My first CT session underway. I have an ice pack on the back of my neck, a gallon bag of ice on my tummy and an ice pack on my chest. I also have my thermometer ready for my tub attempts that will follow soon. I plan to do 30 minutes. 9 minutes in so far.
 
-### jeanie@truelongmont.com — 2012-09-19T23:46:54+0300
+### [email redacted] — 2012-09-19T23:46:54+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-52782>
 
 > **MsYo;53261 wrote:** My first CT session underway. I have an ice pack on the back of my neck, a gallon bag of ice on my tummy and an ice pack on my chest. I also have my thermometer ready for my tub attempts that will follow soon. I plan to do 30 minutes. 9 minutes in so far.
@@ -8040,7 +8040,7 @@ Lowes and Home Depot sell this - which is what I use to measure the temp of the 
 
 http://www.homedepot.com/webapp/wcs/stores/servlet/ProductDisplay?productId=100674438&storeId=10051&langId=-1&catalogId=10053&ci\_sku=100674438&ci\_kw={keyword}&kwd={keyword}&cm\_mmc=shopping-\_-googleads-\_-pla-\_-100674438&ci\_gpa=pla#.UGoltVGsSSo
 
-### docwatt@gmail.com — 2012-10-02T02:38:25+0300
+### [email redacted] — 2012-10-02T02:38:25+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-55718>
 
 I don't know. I tried CT yesterday. Water temp 57 degrees. I've been doing cold showers and occasional tub at same temp for the last month. First shivering started at 12 min. I was submerged except for my neck. I managed 30 min, but upon getting out, I was shivering so violently that I had trouble drying off and dressing my self. The shivering continued for an hr and a half. Due to my schedule, I can only soak 2-3 times/week.
@@ -8050,7 +8050,7 @@ I don't know. I tried CT yesterday. Water temp 57 degrees. I've been doing cold 
 
 Hi TField. Was this your first CT bath? I think my first bath was 10 minutes at 70F.
 
-### docwatt@gmail.com — 2012-10-02T04:05:44+0300
+### [email redacted] — 2012-10-02T04:05:44+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-55750>
 
 I have had probably 5 or 6 baths of the same temperature in a bath tub. In the tub my knees and chest are out of the water due to size. My back is under water to just above my neck. I got a stock tank and that described was the first soak in it. I shiver in the bathtub as well, just not as much or as long. Most of the time I couldn't stay in up to 30 min.
@@ -8360,7 +8360,7 @@ Icing today. Ice packing my waist and "love handles" pretty consistently for the
 
 Can't bring myself to tub today. Back to it tomorrow.
 
-### nate.reik@yahoo.com — 2012-11-08T16:51:43+0200
+### [email redacted] — 2012-11-08T16:51:43+0200
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-62884>
 
 2nd CT session yesterday. First one was Monday. 61 degrees in the tub for 1/2 hr yesterday. 63 degrees Monday.
@@ -8546,7 +8546,7 @@ yes but a woman with a MAN COLD is able to accomplish going to work, taking care
 
 Sister, I am right there with you. It's not all men and it's not all the time, but the ones that do it are enough to taint it for the rest of them...LOL
 
-### jeanie@truelongmont.com — 2012-11-15T21:55:57+0200
+### [email redacted] — 2012-11-15T21:55:57+0200
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-64559>
 
 I break my vow of silence to say yes, yes, yes a thousand times yes. I have a man and a man child all with a cold. I have the cold too. Guess who is takin care of bizzness.
@@ -8947,7 +8947,7 @@ I've been freediving after oysters a couple of times. As luck would have it, whe
 
 Stavanger is in my neck of the woods, as it happens. Drop me a PM if you want to join me for a dip in the cold North Sea or to compare notes over a serving of whale sashimi! I know I'll probably upset a few people here, but I have to tell you that sashimi whale really is the most surprisingly delicious thing! I had absolutely no idea until I tried it for the first time just a few weeks ago.
 
-### mccune9@hotmail.co.uk — 2012-12-08T08:13:56+0200
+### [email redacted] — 2012-12-08T08:13:56+0200
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-66789>
 
 Long time reader, first time poster.
@@ -8969,7 +8969,7 @@ I can't imagine being able to submerge myself in a bath tub!
 
 I find the shower @ 51 deg more uncomfortable than full immersion @40.
 
-### mccune9@hotmail.co.uk — 2012-12-08T09:32:25+0200
+### [email redacted] — 2012-12-08T09:32:25+0200
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-66795>
 
 That's encouraging! Maybe i'll be okay then, or maybe i'm actually far more hardcore than the lot of you with my icy showers...
@@ -8991,7 +8991,7 @@ Welcome, Muscle Up!Â  Yes, about 90 seconds is enough for your body to shut do
 
 It's the same when you sit in the bath.
 
-### mccune9@hotmail.co.uk — 2012-12-09T09:25:23+0200
+### [email redacted] — 2012-12-09T09:25:23+0200
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-66920>
 
 Dali Dula, my name is a bit of a play on words, as it refers more to my recovery from anorexia.
@@ -9160,7 +9160,7 @@ As far as having "before" photos taken, yes I have done that, and hopefully in a
 
 Best of luck again to you as well, Caroline.
 
-### jayjha1@gmail.com — 2012-12-10T15:31:45+0200
+### [email redacted] — 2012-12-10T15:31:45+0200
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-67025>
 
 I hadn't been to my cryo sauna bath in a while but I hit that over the weekend - brrrr... forgot how cold it was... but just awesome!
@@ -9241,7 +9241,7 @@ Just finished my evening session of semi CT...cold water shower, since that's al
 
 Can't wait for my morning face dunking session. Next time someone tells me to go soak my head, I'll ask them for a bucket of ice water!
 
-### mccune9@hotmail.co.uk — 2012-12-13T04:39:39+0200
+### [email redacted] — 2012-12-13T04:39:39+0200
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-67325>
 
 Had my first negative-ish experience last night. Progressed to showering 12 and a half minutes in the coldest water which after the initial 10 seconds doesn't feel so bad. Turned every minute or so; very low skin temperature upon completion, but felt fine for 10-15 minutes.
@@ -9340,7 +9340,7 @@ I didn't do anything, and later on they looked normal.Â  Today they are fine t
 
 I wonder why my first deep cold bath didn't have this result.Â  My feet were in the water for probably about 10 minutes.Â  They come out when my back or tummy goes in.
 
-### mccune9@hotmail.co.uk — 2012-12-16T05:54:40+0200
+### [email redacted] — 2012-12-16T05:54:40+0200
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-67626>
 
 I realised that the only thing I did differently after my CT when I couldn't warm up was that I got dressed immediately afterwards. Allowing my skin to warm by being active without putting a shirt on is so important!
@@ -11155,7 +11155,7 @@ beautiful Lauren - making magic happen! You will all remember that forever! did 
 
 I'm back to ordinary cold (tepid) baths again. I had my first bath with ice on my belly on Friday and though my belly was fine my upper arms came up in horrendous urticaria - 10cm across. I had gone from face dunking to ice on trunk, to cold water baths at 80F and then to adding the ice and felt great till the next day when the itching started. Now I can't do any more of that for a while - well not with my arms in anyway. Now perhaps if I'm really careful...? I had hoped with all the fish oil I've been swallowing over the last five years and with eating mussels for breakfast and fish for lunch for four weeks that I'd be OK. But obviously not. Humph...
 
-### banderson1960@gmail.com — 2013-01-13T22:01:33+0200
+### [email redacted] — 2013-01-13T22:01:33+0200
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-70609>
 
 I've only done a couple CT baths, and some spot icing. Dr is having me stop supplements to get baseline labs in 2 weeks. Do I stop CT as well?.
@@ -11463,7 +11463,7 @@ I did 3 minutes today in my own ice hole, I did it with socks, gloves and a hat.
 
 ! I really wonder how AKMan does so longs icebaths.. The water is 32 degrees F. The air temp was -0 degree F!
 
-### jenafraserrmt@gmail.com — 2013-01-18T16:54:03+0200
+### [email redacted] — 2013-01-18T16:54:03+0200
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-71470>
 
 Awesome!! I live half a block to the ocean in the heart of the city (Vancouver BC) (so not ideal to swim in) so I drove 10 mins to long sandy beaches and just walked along the waterline in 46F/8C ocean water - then without realizing it I ended up just past my knees!!! It was so beautiful and so envigorating (energizing!!!) I didn't realize I stayed in walking up and down the beach for 40 mins!!! Walking back to the car, my shins were burning warm! Took only 20 mins to warm up!!
@@ -11987,7 +11987,7 @@ Deep CT isn't something you should just hop right into. I think the lower temps 
 
 might be a good question for a consult w/JAck...
 
-### jeanie@truelongmont.com — 2013-02-08T03:42:21+0200
+### [email redacted] — 2013-02-08T03:42:21+0200
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-74764>
 
 I have to say, the below freezing temps are EASIER to do! THe mellow comes quick and the cold goes quicker. Honestly, once you've gone through the trouble to get all the ice etc, the hard part is not staying in too long.
@@ -12000,7 +12000,7 @@ That being said, I can't stand to do it with ambient cold. I've always done it i
 Yeah, I think the cold receptors in the skin turn off faster. Your body just has to be accustomed to the lower temps.
 And if you aren't already shivering from cold, it is much easier to contemplate CT.
 
-### jeanie@truelongmont.com — 2013-02-08T04:00:18+0200
+### [email redacted] — 2013-02-08T04:00:18+0200
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-74766>
 
 > [Nonchalant said:](/goto/post?id=74765)
@@ -12780,7 +12780,7 @@ I traveled to Long Island for work the last two weeks. Went swimming a few times
 ### agatha — 2013-05-07T22:54:28+0300
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-85591>
 
-> [klein.bobbi@gmail.com said:](/goto/post?id=85496)
+> [[email redacted] said:](/goto/post?id=85496)
 >
 > I wish I had a photo laying outside the other day with all of the ice. It's quite fun to use your creativity and ways to ct. **The cold has quite the relaxing feel on your body once you let it**. I'll take spending $8 for ice as my form of spa treatment. Hopefully in next few weeks I'll be at the beach. Currently having another ice session indoors watching the clouds come in.
 >
@@ -17302,7 +17302,7 @@ Anyway….this has nothing much to do with CT except it is my reasons for not ge
 
 I wanted to post a picture….
 
-### patgrif@hotmail.com — 2015-02-18T17:31:23+0200
+### [email redacted] — 2015-02-18T17:31:23+0200
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-155964>
 
 > [Sue-UK said:](/goto/post?id=155954)
@@ -17336,7 +17336,7 @@ Oh that sweater is so cute. Good thing you listened to you gut.
 ### Sue-UK — 2015-02-20T16:21:51+0200
 **Source:** <https://forum.jackkruse.com/threads/how-was-your-ct-today.499/post-156137>
 
-> [patgrif@hotmail.com said:](/goto/post?id=155964)
+> [[email redacted] said:](/goto/post?id=155964)
 >
 > Sue, the way you describe your 'version' of CT I can really relate to, I think I could say I very much approach it in a similar way. I like the "just to give the receptors something to think about ....."...............I find I can ONLY do CT with plenty of sunshine around! I live in LA so that's not an issue of course but I love playing off the contrasts of heat (sunshine) and cold. One seems to magnify the other, I like to 'get warm' plenty of sun and then go in the water and it's like I can FEEL everything then so intensely. I can play around like this for 4 or 5 hours sometimes. I just cant do CT if it is un-remitingly cold maybe one day if I become more 'cold adapted' but not now...............
 >
@@ -20624,7 +20624,7 @@ I wouldn’t have known if my meter had not gone crazy as I approached it. It wa
 **Subforum:** Meet and Greet
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### spinnsugar@hotmail.com — 2012-03-28T20:19:16+0300
+### [email redacted] — 2012-03-28T20:19:16+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-barrie-ontario-a-few-issues-need-help-with.500/post-7827>
 
 I wanted to say a hello to everyone, and pick your brain.
@@ -20689,14 +20689,14 @@ When I run the kids bath I've been making it a bit colder... just introducing it
 
 I figure they'll start to jump in when they see mama doing a cold bath on the weekends...
 
-### trishalinn@gmail.com — 2012-03-29T19:04:37+0300
+### [email redacted] — 2012-03-29T19:04:37+0300
 **Source:** <https://forum.jackkruse.com/threads/children-ct.509/post-8342>
 
 The last week we've started to use our pool which has been ranging from 52-56 degrees. Its been so nice not to bother drawing a bath. Anyhow, our 7 year old jumps right in and it doesn't seem to bother him at all. He recoup's faster than we do. My 3 year old wants nothing to do with the cold water. He stood next to the pool crying the other day because I wouldn't go in the house and get him "snow gloves." The two babies (10 months) I've been bring outside without bundling them up.
 
 I've never been big on insisting on coats, probably because I've always found them to be more of a nuisance and don't usually wear them. Now that I know about CT I will recommend them even less.
 
-### jeanie@truelongmont.com — 2012-03-30T06:30:16+0300
+### [email redacted] — 2012-03-30T06:30:16+0300
 **Source:** <https://forum.jackkruse.com/threads/children-ct.509/post-8638>
 
 Love this thread, hope more chime in.
@@ -20734,7 +20734,7 @@ Ok not like that at all, it's only like four or five red bumps more like this on
 
 Shijin13 OMG reading some of the stuff on that page is freaking me out!
 
-### trishalinn@gmail.com — 2012-03-30T22:20:46+0300
+### [email redacted] — 2012-03-30T22:20:46+0300
 **Source:** <https://forum.jackkruse.com/threads/children-ct.509/post-8940>
 
 I give my 7 year old and 3 year old these [http://www.amazon.com/gp/product/B002CQU53C/ref=oh\_o02\_s01\_i00\_details](http://http://www.amazon.com/gp/product/B002CQU53C/ref=oh_o02_s01_i00_details)
@@ -20814,7 +20814,7 @@ My kids get two eggs/day, all the Kerrygold they want, and 1/4tsp fCLO per day. 
 
 You could also supplement MK4 K2, but I'm still wary, b/c my understanding is that all MK4 is synthetic, and I have a phobia of synthetic fat soluble vitamins, lol.
 
-### trishalinn@gmail.com — 2012-03-31T03:18:32+0300
+### [email redacted] — 2012-03-31T03:18:32+0300
 **Source:** <https://forum.jackkruse.com/threads/children-ct.509/post-9057>
 
 How is the flavor of the fCLO? I'm always wondering if my kids will take it well. Though, they are the ones that love seafood and I have a hard time not gagging on it when I eat it because I'm so repulsed by it. How do you determine how much your child needs? What are the benefits of it over regular CLO?
@@ -20824,7 +20824,7 @@ How is the flavor of the fCLO? I'm always wondering if my kids will take it well
 
 Definitely look through the last eek of the "monster thread" here on Optimal Living, b/c we answered those questions and more! If you can't dig it up (try going back a week, then hitting control-F on every page and searching on clo or "liver oil"), I can answer them here. Basically, if you love seafood, it's not bad at all; if you hate it (like me), just hold your breath and take the liquid, b/c caps give burps later, and "regular" CLO is actually modern processed CLO, while fCLO is the real thing, the way it was done for millennia until factories came around and changed it. You also use way less than most use of CLO.
 
-### trishalinn@gmail.com — 2012-03-31T04:10:08+0300
+### [email redacted] — 2012-03-31T04:10:08+0300
 **Source:** <https://forum.jackkruse.com/threads/children-ct.509/post-9079>
 
 > **MamaGrok;9128 wrote:** Definitely look through the last eek of the "monster thread" here on Optimal Living, b/c we answered those questions and more! If you can't dig it up (try going back a week, then hitting control-F on every page and searching on clo or "liver oil"), I can answer them here. Basically, if you love seafood, it's not bad at all; if you hate it (like me), just hold your breath and take the liquid, b/c caps give burps later, and "regular" CLO is actually modern processed CLO, while fCLO is the real thing, the way it was done for millennia until factories came around and changed it. You also use way less than most use of CLO.
@@ -20870,7 +20870,7 @@ Nah ... 15 years ago I was eating Froot Loops for breakfast and bagels for (a lo
 
 I do think finding exactly the waya given person likes eggs is very helpful. Once I found my sweet spot, I \*never\* get tired of eggs. Love them as much now as when I started them 2-3 years ago, every single day. Lightly scrambled in CO or butter, with salt & pepper. One child likes them over medium, another with cheese, another omelets every day. Doesn't bother me, just as easy to cook them all, and they keep eating them!
 
-### trishalinn@gmail.com — 2012-04-01T04:49:36+0300
+### [email redacted] — 2012-04-01T04:49:36+0300
 **Source:** <https://forum.jackkruse.com/threads/children-ct.509/post-9658>
 
 Another slightly off topic question.... do you guys order your Kerrygold online? If so, where? Need to start buying good butter, just hoping it doesn't cost us an arm and a leg!
@@ -20880,7 +20880,7 @@ Another slightly off topic question.... do you guys order your Kerrygold online?
 
 Trader Joe's has THE best prices if you have one nearby. WF & occasionally Kroger have it, too.
 
-### trishalinn@gmail.com — 2012-04-01T05:14:19+0300
+### [email redacted] — 2012-04-01T05:14:19+0300
 **Source:** <https://forum.jackkruse.com/threads/children-ct.509/post-9673>
 
 I've never been to Trader Joe's. The closest one is about an hour and 15 minutes away in a direction I almost never go! I've checked our Kroger, haven't ever seen in there. Bummer! Thanks for the info though.
@@ -20953,7 +20953,7 @@ Love it, sent it to my kids. I tried to spot some chubby kids and was unable. Yo
 
 This topic will be covered in todays webinar.........
 
-### jeanie@truelongmont.com — 2012-04-22T19:08:09+0300
+### [email redacted] — 2012-04-22T19:08:09+0300
 **Source:** <https://forum.jackkruse.com/threads/children-ct.509/post-17784>
 
 So my son (almost 6) has been hopping in my baths after me. Usually water around 65 degrees. He is timing and trying to increase his times. Just does it as he feels it.
@@ -21041,7 +21041,7 @@ Oh, you watchful nocturnal predator... Yes, I said ~$600 because it's only usefu
 
 jesse
 
-### kc_boxerman@yahoo.com — 2012-04-03T00:31:50+0300
+### [email redacted] — 2012-04-03T00:31:50+0300
 **Source:** <https://forum.jackkruse.com/threads/the-un-official-telomere-before-and-after-thread.518/post-10526>
 
 Doctor K has told everyone to do this and I don't think I've noted anyone else mentioning they have. Still waiting on my results...
@@ -21167,7 +21167,7 @@ I am going to contact them and see if we can fix that via my site.....I may offe
 
 That would be great!
 
-### kc_boxerman@yahoo.com — 2012-04-11T04:04:24+0300
+### [email redacted] — 2012-04-11T04:04:24+0300
 **Source:** <https://forum.jackkruse.com/threads/the-un-official-telomere-before-and-after-thread.518/post-13585>
 
 \- real age (or use a variable)
@@ -21214,7 +21214,7 @@ I had mine done last week. Looked on spectracells web site. Searched dr's in my 
 
 Sent from my DROID RAZR using Tapatalk
 
-### kc_boxerman@yahoo.com — 2012-04-11T21:33:47+0300
+### [email redacted] — 2012-04-11T21:33:47+0300
 **Source:** <https://forum.jackkruse.com/threads/the-un-official-telomere-before-and-after-thread.518/post-13864>
 
 > **Anna K.;13909 wrote:** Anybody got their results yet?
@@ -21450,14 +21450,14 @@ best,
 
 jesse
 
-### kc_boxerman@yahoo.com — 2012-04-19T02:22:21+0300
+### [email redacted] — 2012-04-19T02:22:21+0300
 **Source:** <https://forum.jackkruse.com/threads/the-un-official-telomere-before-and-after-thread.518/post-16400>
 
 > **Souldanzer;16134 wrote:** How long did it take to get your results? I've been waiting for 3 weeks + when it's supposed to take 7-10 days.
 
 To long... it was in that range.
 
-### kc_boxerman@yahoo.com — 2012-04-19T02:28:57+0300
+### [email redacted] — 2012-04-19T02:28:57+0300
 **Source:** <https://forum.jackkruse.com/threads/the-un-official-telomere-before-and-after-thread.518/post-16403>
 
 > **hellojtm;14095 wrote:** Thanks Optim! So, basically you "checked your dogma" and do you feel that your telomeres before CT were acceptable after a couple of years of primal?
@@ -21651,7 +21651,7 @@ Very glad we have this thread and \_really\_ appreciate those that are sharing t
 
 So stress would shorten telemores for sure. I bet I am 80. Ugh!!! Looking to get turned around.
 
-### jeanie@truelongmont.com — 2012-05-01T16:19:16+0300
+### [email redacted] — 2012-05-01T16:19:16+0300
 **Source:** <https://forum.jackkruse.com/threads/the-un-official-telomere-before-and-after-thread.518/post-20363>
 
 I've debated this one - seems "fun" but it doesn't really give one direction on what to do different than what we ARE doing right? I mean if we are the ice-ice-babies on this site and already doing the whole shebang, what more would we do with the telomere info?
@@ -21918,7 +21918,7 @@ R, don't feel bad about not liking veggies! After all, we are supposed to be sti
 
 If you love pickles, how about olives? I bet your body is wanting some salt and that's why you like the pickles so much. Olives are also high in sodium and might fit the bill.
 
-### jeanie@truelongmont.com — 2012-03-29T22:00:21+0300
+### [email redacted] — 2012-03-29T22:00:21+0300
 **Source:** <https://forum.jackkruse.com/threads/no-veggies-at-all.519/post-8444>
 
 > **Rhoswen;8211 wrote:** So I have a problem that's been worrying me since I started my Primal/Leptin journey... And it's the fact I hate all vegetables. Every single one of them with ONE exception. They all taste bitter whether roasted, cooked in butter, coconut oil, steamed, sauted, raw... I just really really hate vegetables. Only exceptions are sweet potatoes, and it's pretty obvious why I like those! Haha!
@@ -22197,7 +22197,7 @@ Yeah, I am hoping that someone that has already done this has some advice as I a
 
 I had some fat before but no protein at that point this morning.
 
-### jeanie@truelongmont.com — 2012-03-29T23:34:34+0300
+### [email redacted] — 2012-03-29T23:34:34+0300
 **Source:** <https://forum.jackkruse.com/threads/help-with-frozen-tissue.523/post-8474>
 
 > **HeyDianne;8307 wrote:** Yeah, I am hoping that someone that has already done this has some advice as I also seem to remember that others have done this.
@@ -22229,7 +22229,7 @@ If you have an aloe plant or can beg a leaf from a friend, split it open and rub
 
 Are any of you taking bitter melon? I haven't gotten it yet -wonder how it makes a difference?
 
-### jeanie@truelongmont.com — 2012-03-30T01:51:11+0300
+### [email redacted] — 2012-03-30T01:51:11+0300
 **Source:** <https://forum.jackkruse.com/threads/help-with-frozen-tissue.523/post-8510>
 
 > **Marsha;8548 wrote:** If you have an aloe plant or can beg a leaf from a friend, split it open and rub the gooey inside of the leaf, on the hurt areas several times a day. My Ice Burn was very red and raised and now looks like it's lightly bruised, but is much better - no pain at all now.
@@ -22309,7 +22309,7 @@ Found it!(edit)
 
 [http://jackkruse.com/cold-thermogenesis-two/#comment-28325](http://http://jackkruse.com/cold-thermogenesis-two/#comment-28325)
 
-### jeanie@truelongmont.com — 2012-03-30T06:11:07+0300
+### [email redacted] — 2012-03-30T06:11:07+0300
 **Source:** <https://forum.jackkruse.com/threads/help-with-frozen-tissue.523/post-8631>
 
 > **Jack Kruse;8569 wrote:** Follow the protocol.....you go off script you pay. Using alcohol is not part of the protocol period.
@@ -22333,7 +22333,7 @@ I think the going off protocol portion is a combination of:
 
 Part of the problem with the alcohol packs is that they get way** colder than the ~32 degrees that normal water/ice will get.
 
-### smithangels@comcast.net — 2012-03-30T16:10:25+0300
+### [email redacted] — 2012-03-30T16:10:25+0300
 **Source:** <https://forum.jackkruse.com/threads/help-with-frozen-tissue.523/post-8736>
 
 In my experience (eh hem) it will take between 2-3 weeks to heal to the point where you can \*spot\* CT in that place again. You can still do baths, though  It \*could\* be that I went off protocol and used alcohol in my homemade packs, but I would never admit to something like that
@@ -22664,7 +22664,7 @@ i have a feeling when the membership side comes up this maybe an add for it.....
 
 I wouldn't use the name Grok though. Its Mark Sisson;s concept. Lets brain-storm a name for our ice-age ancestor.
 
-### jeanie@truelongmont.com — 2012-03-30T06:06:56+0300
+### [email redacted] — 2012-03-30T06:06:56+0300
 **Source:** <https://forum.jackkruse.com/threads/social-room.529/post-8629>
 
 > **Glamorama;8662 wrote:** I wouldn't use the name Grok though. Its Mark Sisson;s concept. Lets brain-storm a name for our ice-age ancestor.
@@ -22793,7 +22793,7 @@ As an aside, I have been wondering for a while how people diagnose Hashimoto's a
 
 That said, I have also wondered what Doc Kruse means by bypassing TSH and using TRH to restore thyroid hormones. Would love to learn more about this, even if it won't restore my own thyroid.
 
-### chrystin.comeau@live.com — 2012-03-30T13:07:26+0300
+### [email redacted] — 2012-03-30T13:07:26+0300
 **Source:** <https://forum.jackkruse.com/threads/can-thyroid-hormone-issues-be-re-balanced-with-leptin-rx-alone.530/post-8689>
 
 I think for some people, the Leptin RX will fix their other issues. My personal experience so far is that (IMO) the hormonal/thyroid/adrenal issues i have are mostly what is responsible for my mood problems which are inextricably linked to my compulsive/binge eating. For me, I think I need some thyroid/adrenal support to help me stay in the Rx. To me, if how you're feeling is keeping you from being able to complete the Rx, some help is on order. Thoughts?
@@ -22884,7 +22884,7 @@ But does it repair a thyroid which has been (partially) destroyed by antibodies?
 
 Does it somehow replace thyroid hormones, for example for people with thyroidectomy (sp?)???
 
-### kc_boxerman@yahoo.com — 2012-03-30T19:07:15+0300
+### [email redacted] — 2012-03-30T19:07:15+0300
 **Source:** <https://forum.jackkruse.com/threads/can-thyroid-hormone-issues-be-re-balanced-with-leptin-rx-alone.530/post-8841>
 
 > **Baba;8882 wrote:** Hmmm, doesn't appear plain and simple to me.
@@ -22931,7 +22931,7 @@ Were the benefits hormone related? I dunno. However, for me, even with my half-a
 
 Maggie
 
-### chrystin.comeau@live.com — 2012-03-30T21:46:10+0300
+### [email redacted] — 2012-03-30T21:46:10+0300
 **Source:** <https://forum.jackkruse.com/threads/can-thyroid-hormone-issues-be-re-balanced-with-leptin-rx-alone.530/post-8920>
 
 > **Maggie;8952 wrote:** I had a couple of instances of racing heart and feeling kind of manic-y, so I stopped taking the 1.25 grains of Armour I'd been prescribed. Since then, a couple of weeks ago, I've just forgotten about it. The couple of times I remembered it didn't seem to do anything at all for or to me, so I haven't taken anymore. I guess I really have just stopped taking it. (I hope that's OK)
@@ -22967,7 +22967,7 @@ And, Cody, where did the lazy accusation come from? We're all trying to do our b
 
 Have you read all of the Leptin Reset articles, the Omega 3/fish oil articles, and the CT articles, as a bare minimum, with included comments???
 
-### chrystin.comeau@live.com — 2012-03-30T22:18:11+0300
+### [email redacted] — 2012-03-30T22:18:11+0300
 **Source:** <https://forum.jackkruse.com/threads/can-thyroid-hormone-issues-be-re-balanced-with-leptin-rx-alone.530/post-8938>
 
 Me? I'm sorry- if this is a teacher's pet contest, I'm not interested nor would I be a contender. Yes, I've read the articles and the comments. I'm just not sure how helpful it is to ask someone why they're here and then call them lazy when they are trying to get their mind around how this all works. Especially when some are newer to these concepts than others...
@@ -23029,7 +23029,7 @@ Apparently, CT can cause the brain to regulate thyroid even if the gland has bee
 
 I sympathize with those that have just come on board because there is a lot of info to cover and it's not organized like a Cosmo magazine article of '13 steps to controlling your thyroid with CT' kind of fashion. But it is here, if not readily available in the blog, usually searchable in the forums. And if not, ask, as you have, and someone helpful will usually come to the rescue. The latter takes longer and often results in some getting impatient as they've already answered this or seen it answered many times, but everyone is a beginner at some point.
 
-### chrystin.comeau@live.com — 2012-03-30T23:05:13+0300
+### [email redacted] — 2012-03-30T23:05:13+0300
 **Source:** <https://forum.jackkruse.com/threads/can-thyroid-hormone-issues-be-re-balanced-with-leptin-rx-alone.530/post-8962>
 
 > **Clabbergirl;9007 wrote:** I can relate to what you're saying here as it seemed the more I soaked in cold water, the worse I felt. I went one week of one hour baths nightly and I felt so horrible emotionally and physically that I missed work and was barely functioning. I slacked off the CT baths, skipped a few days of CT altogether, and then started back spot-icing. After skipping one CT bath, I felt a little better, and the next day, a little better than that. All I can think is that the CT is in fact doing something - and that my liver could not keep up. They say it's estrogen leaving the fat cells as they die and being released into your system again along with a lot of toxins. I don't know why it affects some and not others, but I have felt better since reducing the frequency of my CT soaks. I hated to do it because I'm gung hu and ready for some progress, but it was either that or what's left of my sanity.
@@ -23040,7 +23040,7 @@ I sympathize with those that have just come on board because there is a lot of i
 
 Thanks. I'm seeing my naturopath on Tues. I've started on a c complex, b complex, magnesium and E (in addition to the stuff I was already on) to try to lend support to my adrenals.
 
-### chrystin.comeau@live.com — 2012-03-30T23:08:12+0300
+### [email redacted] — 2012-03-30T23:08:12+0300
 **Source:** <https://forum.jackkruse.com/threads/can-thyroid-hormone-issues-be-re-balanced-with-leptin-rx-alone.530/post-8963>
 
 > **Clabbergirl;9013 wrote:**
@@ -23068,7 +23068,7 @@ AND READ, READ, READ.
 
 Especially what Dr. Kruse and others say about CHANGING YOUR MIND. Because health starts **IN THE MIND**.
 
-### chrystin.comeau@live.com — 2012-03-30T23:11:11+0300
+### [email redacted] — 2012-03-30T23:11:11+0300
 **Source:** <https://forum.jackkruse.com/threads/can-thyroid-hormone-issues-be-re-balanced-with-leptin-rx-alone.530/post-8966>
 
 > **Cody;9008 wrote:** Teacher's pet, huh?
@@ -23088,7 +23088,7 @@ You're absolutely right. She did appear. Her name is Clabbergirl. Post # 23. And
 
 And think about this. Do you really think I get off on insulting random people on the internet, or that maybe I'm trying to help you???
 
-### kc_boxerman@yahoo.com — 2012-03-30T23:14:19+0300
+### [email redacted] — 2012-03-30T23:14:19+0300
 **Source:** <https://forum.jackkruse.com/threads/can-thyroid-hormone-issues-be-re-balanced-with-leptin-rx-alone.530/post-8971>
 
 If you have questions about what your thyroid labs should be expected to show when cold adapted, please comment on the 20 questions blog post thread. My thyroid question keeps getting written over...
@@ -23102,7 +23102,7 @@ DR KRUSE ANSWERED THE QUESTION!!!
 
 Logic. Basic. Freaking. Logic. Think about it. Clabbergirl simply cut and pasted it. And she isn't doing anyone any favors by doing their work for them, although, I understand why she did it.
 
-### chrystin.comeau@live.com — 2012-03-30T23:21:41+0300
+### [email redacted] — 2012-03-30T23:21:41+0300
 **Source:** <https://forum.jackkruse.com/threads/can-thyroid-hormone-issues-be-re-balanced-with-leptin-rx-alone.530/post-8979>
 
 > **Cody;9017 wrote: This is why I think you are lazy. You had to wait for someone else to cut and paste the info for you instead of finding yourself.
@@ -23205,7 +23205,7 @@ The website can be difficult sometimes to maneuver to places you haven't been to
 
 +1000
 
-### jeanie@truelongmont.com — 2012-03-31T04:01:42+0300
+### [email redacted] — 2012-03-31T04:01:42+0300
 **Source:** <https://forum.jackkruse.com/threads/can-thyroid-hormone-issues-be-re-balanced-with-leptin-rx-alone.530/post-9077>
 
 If you don't feel like helping someone, no biggie. Since we are all tuning in to ancient wisdom, you may want to give some thought to the idea "If you can't say something nice, don't say anything at all."
@@ -23294,7 +23294,7 @@ I am certainly not trying to be annoying or saying that I won't believe this wit
 
 Cody is channeling me.........I agree with this 100% But Cody many warm adapted humans with bad thyroids and burnt adrenals cant think well.......you need to remember this. It is frustrating to those who dont suffer from this but you need to remember that these people are here asking for help........that is the first step in recovery. Let's do our part and help them out.......when we do we may light their candle from our own candle light.........it does not diminish our flame at all.......because eventually when their candle is lit too........they can then lit some other candles for the millions behind us all on the road to optimal.......we all need to help one another.
 
-### chrystin.comeau@live.com — 2012-03-31T13:36:47+0300
+### [email redacted] — 2012-03-31T13:36:47+0300
 **Source:** <https://forum.jackkruse.com/threads/can-thyroid-hormone-issues-be-re-balanced-with-leptin-rx-alone.530/post-9163>
 
 > **Jack Kruse;9216 wrote:** ... Let's do our part and help them out.......when we do we may light their candle from our own candle light.........it does not diminish our flame at all.......because eventually when their candle is lit too........they can then lit some other candles for the millions behind us all on the road to optimal.......we all need to help one another.
@@ -23468,7 +23468,7 @@ Read CT 6 and get its implications.....that should make it not only bearable but
 
 Doc, I read every word you write. Playing devils advocate. My biggest problem is what to do with all of the extra wood I now have...
 
-### meyoolia@gmail.com — 2012-03-30T03:30:47+0300
+### [email redacted] — 2012-03-30T03:30:47+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8539>
 
 How should diet and CT be adjusted to adapt to seasonal changes. At one extreme, I understand winter should be dark, COLD, and hardcore keto. What about summer and diet, icy tubbing, etc? Can/should we ease up on the keto and cold? THANKS
@@ -23772,7 +23772,7 @@ Can you be too old for CT? Too young?
 
 KP
 
-### zzzcjr@comcast.net — 2012-03-30T04:19:13+0300
+### [email redacted] — 2012-03-30T04:19:13+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8585>
 
 > **Shijin13;8605 wrote:** How does CT reduce/reverse inflammation?
@@ -23787,7 +23787,7 @@ KP
 
 +1 for all 3
 
-### zzzcjr@comcast.net — 2012-03-30T04:21:03+0300
+### [email redacted] — 2012-03-30T04:21:03+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8587>
 
 > **Marsha;8599 wrote:** Why is it important to take Bitter Melon before CT and what is the recommended dose?
@@ -23833,14 +23833,14 @@ KP
 
 Here is +3 on this one!
 
-### zzzcjr@comcast.net — 2012-03-30T04:22:46+0300
+### [email redacted] — 2012-03-30T04:22:46+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8589>
 
 > **healthnut;8618 wrote:** Does being cold adapted make one more intolerant of a hot climate in the summer?
 
 +1........
 
-### meyoolia@gmail.com — 2012-03-30T04:28:36+0300
+### [email redacted] — 2012-03-30T04:28:36+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8591>
 
 > **Kpcst;8632 wrote:** Adding to my previous list of FAQ...
@@ -24248,7 +24248,7 @@ Dr. Kruse. Related to this, you have mentioned in your blogs that additional ben
 
 Added 14. +1to all of the rest
 
-### jeanie@truelongmont.com — 2012-03-30T05:58:10+0300
+### [email redacted] — 2012-03-30T05:58:10+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8625>
 
 > **Jack Kruse;8607 wrote:** make a living document here folks.......you all vote on what needs to be in it....as it goes. Single posts wont cut it.
@@ -24263,7 +24263,7 @@ Added 14. +1to all of the rest
 
 Follow the money.
 
-### jeanie@truelongmont.com — 2012-03-30T05:59:48+0300
+### [email redacted] — 2012-03-30T05:59:48+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8626>
 
 > **Jack Kruse;8607 wrote:** make a living document here folks.......you all vote on what needs to be in it....as it goes. Single posts wont cut it.
@@ -24333,14 +24333,14 @@ Also.. The big HCG connection.. I feel like 3 of us get it and the rest are trap
 
 20.
 
-### trishalinn@gmail.com — 2012-03-30T06:06:53+0300
+### [email redacted] — 2012-03-30T06:06:53+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8628>
 
 My votes are with 1, 3, 4, 7, 9, 12, 14
 
 Also, I would like to know how long before one can expect to see results. I know it's probably different for different people, but is there a general range? I see some people who begin noticing things happen before they even start the baths. I'm 2.5 weeks into the 50 degree baths and I haven't yet noticed any changes, I'm simply anxious to see some awesome things happen!
 
-### trishalinn@gmail.com — 2012-03-30T06:10:46+0300
+### [email redacted] — 2012-03-30T06:10:46+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8630>
 
 My votes are with 1, 3, 4, 7, 9, 12, 14
@@ -24360,7 +24360,7 @@ I for one would volunteer to be a moderator and I think that there are other res
 
 Just my two cents.
 
-### jeanie@truelongmont.com — 2012-03-30T06:27:25+0300
+### [email redacted] — 2012-03-30T06:27:25+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8637>
 
 > **shilohman;8684 wrote:** Dr. K,
@@ -24470,7 +24470,7 @@ You said to drink ice water before CT so that takes times as well, because after
 
 no range......totally depends upon how you are right here and now. that is why testing is big to make predictions.
 
-### phillipsgeorge@hotmail.com — 2012-03-30T11:37:15+0300
+### [email redacted] — 2012-03-30T11:37:15+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8678>
 
 The Top Twenty List:
@@ -24539,7 +24539,7 @@ When progressing with CT is it more important to get the temperature colder or t
 
 What is an optimal menu with Hcg protocol and CT?
 
-### kc_boxerman@yahoo.com — 2012-03-30T13:54:35+0300
+### [email redacted] — 2012-03-30T13:54:35+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8693>
 
 The Top Twenty List:
@@ -24649,7 +24649,7 @@ My inputs:
 
 21\. Is CT enhanced if done at temperatures that DON'T result in shivering? ie. Non-shivering Thermogenesis.
 
-### meyoolia@gmail.com — 2012-03-30T14:48:20+0300
+### [email redacted] — 2012-03-30T14:48:20+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8701>
 
 > **AKMan;8745 wrote: The Top Twenty List:
@@ -24944,7 +24944,7 @@ Order Rank : Topic : Poster : Question
 
 1 +0 : Factor X : \[LisaAPB\] : 1. What in the H.. is Factor X? \[LisaAPB\]
 
-### trishalinn@gmail.com — 2012-03-30T16:34:28+0300
+### [email redacted] — 2012-03-30T16:34:28+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8754>
 
 > **Jack Kruse;8727 wrote:** no range......totally depends upon how you are right here and now. that is why testing is big to make predictions.
@@ -25156,7 +25156,7 @@ Also.. The big HCG connection.. I feel like 3 of us get it and the rest are trap
 
 combined Q19 with Q18
 
-### kc_boxerman@yahoo.com — 2012-03-30T16:57:34+0300
+### [email redacted] — 2012-03-30T16:57:34+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8772>
 
 > **Optim;8743 wrote:** The Top Twenty List:
@@ -25231,19 +25231,19 @@ The only one I have on the list is:
 
 +1. This gets my vote.
 
-### meyoolia@gmail.com — 2012-03-30T17:22:09+0300
+### [email redacted] — 2012-03-30T17:22:09+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8782>
 
 > **Jack Kruse;8806 wrote:** Why are you bothering with them? I am giving you a protocol to use in your home to do without them? Who cares what they think as long as you get better? I dont get this thinking at all.
 
 Dr Kruse, I'm finding loads of benefits, certainly, but so much of what we're doing on faith is completely against CW and that combined with the detox side effects can be a bit unnerving. You're justifiably unable to address every concern, and if we find no relief from the (temporary) negative effects, we might resort to mainstream medicine for relief while we re-jig our approach to the diet/CT. Doctors ask questions, and if patients don't have something resembling an answer, we look even more like National Enquirer reading nutters!
 
-### kc_boxerman@yahoo.com — 2012-03-30T17:26:45+0300
+### [email redacted] — 2012-03-30T17:26:45+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8788>
 
 I'm not out to bump anyone's questions but I'm pretty confident the kind doctor is not going to answer #1 (What is factor x) until the book comes out.
 
-### trishalinn@gmail.com — 2012-03-30T17:36:38+0300
+### [email redacted] — 2012-03-30T17:36:38+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8790>
 
 > **Jack Kruse;8806 wrote:** Why are you bothering with them? I am giving you a protocol to use in your home to do without them? Who cares what they think as long as you get better? I dont get this thinking at all.
@@ -25305,7 +25305,7 @@ Definitely some excellent advice especially on how to put it to your doc, but th
 
 I was going to cast my votes but it looks like the document needs to be combined with updated votes and consolidated answers, or it will carry on leaving either of those out...I'd do it but I have to run...if it's not done when I get back I'd be happy to tackle it.
 
-### meyoolia@gmail.com — 2012-03-30T19:13:14+0300
+### [email redacted] — 2012-03-30T19:13:14+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8845>
 
 > **villjamur\_stevenson;8826 wrote:** Sorry! Somehow I got credit for a few questions that were not mine.
@@ -25320,7 +25320,7 @@ I was going to cast my votes but it looks like the document needs to be combined
 
 +1 this should definitely be added to the list!
 
-### edance83@yahoo.com — 2012-03-30T19:27:35+0300
+### [email redacted] — 2012-03-30T19:27:35+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-8849>
 
 The Top Twenty List:
@@ -26059,7 +26059,7 @@ when my nephew was 3 he loved to throw himself into the waves on the beach the g
 
 for number 7 i think you should broaden it to include how eating off protocol effect your progress. Not eating grains and sugar is tough when you have been eating that way for a long time and even I still get cravings that I occasionally cave in to. Perhaps ellaborate on how detrimental eating carbs is going to be?
 
-### smwpeterson@gmail.com — 2012-03-31T03:15:44+0300
+### [email redacted] — 2012-03-31T03:15:44+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-9055>
 
 Is there a list of supplements we take before-during-afterwards?
@@ -26485,7 +26485,7 @@ The Kid, I honestly do not understand your concerns really... Dr Kruse is tellin
 
 Mothers milk is sweet and fat laden, it looks like butter. I can't tell you how many children I've had to chase away from dipping into the butter dish on the counter. The most persistent child, the one who hit that butter dish fast and often, is my grand niece, who is a bit autistic. I think she instinctively knew what was best for her, choosing eggs and bacon over french toast or pancakes any day of the week. I had the extreme good fortune to lose my job when my grandson was getting ready to try adult foods, so I babysat him for a number of months. I gave him tidbits of all kinds of things, and followed his lead on what he wanted/needed. Some days he was pure carnivore, other days he preferred bits of fruit. And all of the kids loved playing in the pool, sprinkler, or with tubs of cool water regardless of how cold it was. They'd get cold, shiver, stop, repeat... but during naptime or night time, they heat up like little furnaces, sweat and throw off the blankets.
 
-### gr8tfl1@yahoo.com — 2012-03-31T18:10:51+0300
+### [email redacted] — 2012-03-31T18:10:51+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-9250>
 
 > **Marsha;8599 wrote:** Why is it important to take Bitter Melon before CT and what is the recommended dose? Is it dependent on weight or one dose fits all?
@@ -26500,21 +26500,21 @@ Mothers milk is sweet and fat laden, it looks like butter. I can't tell you how 
 
 I like these questions
 
-### gr8tfl1@yahoo.com — 2012-03-31T18:14:03+0300
+### [email redacted] — 2012-03-31T18:14:03+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-9252>
 
 > **meyoolia;8587 wrote:** How should diet and CT be adjusted to adapt to seasonal changes. At one extreme, I understand winter should be dark, COLD, and hardcore keto. What about summer and diet, icy tubbing, etc? Can/should we ease up on the keto and cold? THANKS
 
 I like these questions
 
-### gr8tfl1@yahoo.com — 2012-03-31T18:14:49+0300
+### [email redacted] — 2012-03-31T18:14:49+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-9253>
 
 > **Patty Cakes;8589 wrote:** Are there any people who should NOT engage in CT due to the after effects (eg hormonal detox, FM, CFS, etc)? I know you mentioned biotoxins may cause challenges. I'm interested in you expanding on that topic. I don't think I have biotoxins but I find this interesting.
 
 I like this question
 
-### gr8tfl1@yahoo.com — 2012-03-31T18:15:35+0300
+### [email redacted] — 2012-03-31T18:15:35+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-9254>
 
 > **BJK77;8595 wrote:** I'd like more info on how we can individually figure out the amount of CT necessary to deal with common issues like hypothyroidism, hormone imbalances, leaky gut, etc.
@@ -26525,14 +26525,14 @@ I like this question
 
 I like these questions
 
-### gr8tfl1@yahoo.com — 2012-03-31T18:16:40+0300
+### [email redacted] — 2012-03-31T18:16:40+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-9255>
 
 > **healthnut;8618 wrote:** Does being cold adapted make one more intolerant of a hot climate in the summer?
 
 Being from charleston, sc, I can really relate to this question
 
-### gr8tfl1@yahoo.com — 2012-03-31T18:18:07+0300
+### [email redacted] — 2012-03-31T18:18:07+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-9256>
 
 > **Kpcst;8621 wrote:** The obvious questions are:
@@ -26577,7 +26577,7 @@ Being from charleston, sc, I can really relate to this question
 
 These are all good questions
 
-### gr8tfl1@yahoo.com — 2012-03-31T18:23:45+0300
+### [email redacted] — 2012-03-31T18:23:45+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-9261>
 
 > **Kpcst;8643 wrote:** Will you write me a prescription for CT? I would like to use the money in my HSA to purchase an ice machine..
@@ -26590,7 +26590,7 @@ These are all good questions
 
 LOL! Love it!
 
-### gr8tfl1@yahoo.com — 2012-03-31T18:24:18+0300
+### [email redacted] — 2012-03-31T18:24:18+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-9262>
 
 > **Kpcst;8633 wrote:** Can you be too old for CT? Too young?
@@ -26603,12 +26603,12 @@ LOL! Love it!
 
 good questions
 
-### gr8tfl1@yahoo.com — 2012-03-31T18:33:24+0300
+### [email redacted] — 2012-03-31T18:33:24+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-9271>
 
 These are all great questions but I'd also like to see an abbreviation glossary. I've started one but I am so busy with other things in life it is very minimal and needs to be greatly expanded.
 
-### gr8tfl1@yahoo.com — 2012-03-31T18:46:46+0300
+### [email redacted] — 2012-03-31T18:46:46+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-9273>
 
 > **Coriander;9217 wrote:** It is confusing. When we were first introduced to the Leptin Rx, whenever someone bumped up against suboptimal results, they were told to test, test, test. Don't fly blind! Dr Kruse has even written a blog on Optimizing Labs.
@@ -26817,7 +26817,7 @@ Speaking about over thinking LOL
 
 +1 on this question. Great question. I keep it the same temp and extend time. I'm up to 30 minutes. Still using tap water and add some ice but the water doesn't get much colder than 55 and 59 on a warmer day here in NY. With the days warming up, I don't have an ice machine and will go broke buying those ice bags at the market (they charge $4.00 here for the 10 lb bag and that doesn't even get the water cold enough).
 
-### zzzcjr@comcast.net — 2012-03-31T23:08:54+0300
+### [email redacted] — 2012-03-31T23:08:54+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-9379>
 
 > **Emilie;9333 wrote:** These are all great questions but I'd also like to see an abbreviation glossary. I've started one but I am so busy with other things in life it is very minimal and needs to be greatly expanded.
@@ -27085,7 +27085,7 @@ I work for UnitedHealthcare. We do have an initiative in place to reward us for 
 
 Atkins had been in print for about 20 years before low-carb really took off. And the government has only begun to realize, in this century, that there may be something to it. Until there is enough irrefutable empirical evidence that high fat/protein/low carb is doing more than just helping people lose weight, they will not change their approach.
 
-### edance83@yahoo.com — 2012-04-01T16:49:44+0300
+### [email redacted] — 2012-04-01T16:49:44+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-9765>
 
 Speaking about Children:
@@ -27149,7 +27149,7 @@ ill answer these too......because I am sick of answering them over and over agai
 
 Thanks, Dr. Kruse. I even get tired of seeing the same questions asked over and over again. I am guilty of asking and then finding the answer was already there, I just missed it. There is so much to digest. For that reason I would appreciated a FAQ that is updated frequently, may save you a lot of time too in not having to answer the same over and over and being able to add the answers to new questions. I realize the time you take to do all that you do in the interest of our health is great. Your could just optimize your own health, continue on in a typical medical practice and be done with it. Instead you take the time to help us become optimal. Thanks again.
 
-### trishalinn@gmail.com — 2012-04-01T18:22:59+0300
+### [email redacted] — 2012-04-01T18:22:59+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-9806>
 
 > **Lovelife;9827 wrote:**
@@ -27185,7 +27185,7 @@ When I started the LR, I upped their protein to at least 14g for everybody, and 
 
 They aren't keto, but have no grains, and starches are rare. 1/2 - 1-1/2 servings fruit per day, depending on time of year ... working on making that even more seasonal.
 
-### tggywnkle@aol.com — 2012-04-01T19:05:46+0300
+### [email redacted] — 2012-04-01T19:05:46+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-9827>
 
 > **MamaGrok;9876 wrote:** I have made a rule for my kids that they all have to have protein that is at least 1/6 of their body weight (I started this rule when I did Radiant Recovery) for each meal. Sounds picky, but what it really means is the little ones get an egg (or the equivalent in meat) for breakfast and at least an ounce of meat for each other meal (usually they eat much more), and the big ones get two eggs (since none of them are over 70lb yet) and at least two ouncesof meat for each other meal (they ALWAYS eat much more).
@@ -27309,7 +27309,7 @@ ANSWERS:
 
 19\. it's not important, but it's easy
 
-### kc_boxerman@yahoo.com — 2012-04-02T19:24:18+0300
+### [email redacted] — 2012-04-02T19:24:18+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-10379>
 
 **hellojtm;10428 wrote:** This thread has slowed down. Time for a recap, plus I had another question to add that will help people and I don't believe are answered on the blog. I propose that for the ones that have been answered on the blog that people start putting the responses in this thread.... I will answer a couple below:
@@ -27393,14 +27393,14 @@ Do you know what thyroid panels should indicate for a person who is severely hyp
 
 Thyroid questions dont belong on here......CT drives the brain by TRH. That is clear in CT 6.
 
-### trishalinn@gmail.com — 2012-04-03T03:38:35+0300
+### [email redacted] — 2012-04-03T03:38:35+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-10617>
 
 > **Jack Kruse;10633 wrote:** Thyroid questions dont belong on here......CT drives the brain by TRH. That is clear in CT 6.
 
 This makes sense that thyroid panels don't need to be run and I remember reading about thyroid in CT6. I wonder when/if I'll know when I can stop my thyroid meds?
 
-### trishalinn@gmail.com — 2012-04-03T03:44:22+0300
+### [email redacted] — 2012-04-03T03:44:22+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-10622>
 
 Oh, I thought of a question, but I'm guessing there might not be enough info at this point to answer the questions. Any idea what the impact of CT would be on pregnancy? I would guess it would certainly make child birth easier with what Dr. Kruse has said about pain tolerance being better. But, I'm more interested in the ramifications it would have on pregnancy. With my pregnancies I've greatly struggled with hyperemesis, last time to the point of having a picc line inserted for both hydration and constant medication. I might try for a girl one more time if I knew I wasn't going to be so dang miserable during pregnancy! I'm currently over-run with boys!
@@ -27410,7 +27410,7 @@ Oh, I thought of a question, but I'm guessing there might not be enough info at 
 
 i have a good friend who saw my TED talk live whose wife is adapting to get pregnant as we speak.....cold has gret benefits for pregnancy
 
-### trishalinn@gmail.com — 2012-04-03T03:55:33+0300
+### [email redacted] — 2012-04-03T03:55:33+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-10633>
 
 > **Jack Kruse;10697 wrote:** i have a good friend who saw my TED talk live whose wife is adapting to get pregnant as we speak.....cold has gret benefits for pregnancy
@@ -27472,14 +27472,14 @@ not that I can tell right now......Im still looking but the longer you stay cold
 
 He isn't saying not to get tested, he is saying to just order the tests directly yourself and by-pass the provider. Some states don't allow you to do that, and obviously your insurance probably won't cover the tests unless your doctor orders them... (Not that they would probably cover most of the tests anyway.)
 
-### kc_boxerman@yahoo.com — 2012-04-03T22:30:33+0300
+### [email redacted] — 2012-04-03T22:30:33+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-10918>
 
 > **Trisha;10686 wrote:** This makes sense that thyroid panels don't need to be run and I remember reading about thyroid in CT6. I wonder when/if I'll know when I can stop my thyroid meds?
 
 Well, I decided to stop thyroid meds today and see what happens. Headaches would normally ensue in the next couple days (and maybe crabbiness), so I'm not to worried about the "worst case" scenario for me. My doctor will run labs in a couple months whether I think their useful or not.
 
-### finnite@dccnet.com — 2012-04-03T22:50:33+0300
+### [email redacted] — 2012-04-03T22:50:33+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-10927>
 
 > **Garfield;10969 wrote:** He isn't saying not to get tested, he is saying to just order the tests directly yourself and by-pass the provider. Some states don't allow you to do that, and obviously your insurance probably won't cover the tests unless your doctor orders them... (Not that they would probably cover most of the tests anyway.)
@@ -27584,7 +27584,7 @@ So, is this list finished then?
 
 the HCG stuff needs to go because we dont know
 
-### betseyford@hotmail.com — 2012-04-17T04:18:20+0300
+### [email redacted] — 2012-04-17T04:18:20+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-15801>
 
 recommended supplement list with dosages for each phase and for those with other issues, leaky gut, adrenal fatigue, etc.
@@ -27656,7 +27656,7 @@ I cleaned up the questions and made them look more like general FAQs. The HCG co
 
 23\. Since CT is supposed to help those of us become leptin sensitive, what time frame or indications should we looking for?
 
-### skline@peak.org — 2012-04-19T01:58:53+0300
+### [email redacted] — 2012-04-19T01:58:53+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-16387>
 
 > **Jack Kruse;8806 wrote:** Why are you bothering with them? I am giving you a protocol to use in your home to do without them? Who cares what they think as long as you get better? I dont get this thinking at all.
@@ -27668,7 +27668,7 @@ I'm on exactly the same page with you here, Doc. I think it's also better for do
 
 August and all, excellent job!
 
-### jeanie@truelongmont.com — 2012-04-26T20:16:26+0300
+### [email redacted] — 2012-04-26T20:16:26+0300
 **Source:** <https://forum.jackkruse.com/threads/im-working-on-a-new-blog-and-i-want-your-input-ct-faqs.534/post-19091>
 
 > **MJ\*;19069 wrote:** August and all, excellent job!
@@ -28530,7 +28530,7 @@ The glucose response can changed by the sun skin and retina signal......that is 
 **Subforum:** Cold Thermogenesis
 **Posts:** 11
 ══════════════════════════════════════════════════════════════════════
-### selma@decna.no — 2012-03-30T10:08:32+0300
+### [email redacted] — 2012-03-30T10:08:32+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-mercola-notices-cooling-as-well.539/post-8675>
 
 I had to smile when reading this article. Soon "cooling" will be mainstream. I guess it still will take a while before Dr Kruse's CT catches on, but I believe we will se more studies on cold + BAT in the future.
@@ -28539,12 +28539,12 @@ I had to smile when reading this article. Soon "cooling" will be mainstream. I g
 
 Say what you will about Dr. Mercola, but if you're able to look past the blatant promotion of his products you find some gems in an easily accessible form on his site.
 
-### phillipsgeorge@hotmail.com — 2012-03-30T12:22:42+0300
+### [email redacted] — 2012-03-30T12:22:42+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-mercola-notices-cooling-as-well.539/post-8682>
 
 also in February. [http:/http://articles.mercola.com/sites/articles/archive/2012/02/13/scientists-find-brown-fat-to-help-lose-weight.aspx](http://http://articles.mercola.com/sites/articles/archive/2012/02/13/scientists-find-brown-fat-to-help-lose-weight.aspx)
 
-### finnite@dccnet.com — 2012-03-30T15:47:35+0300
+### [email redacted] — 2012-03-30T15:47:35+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-mercola-notices-cooling-as-well.539/post-8717>
 
 Dr K has said that Mercola\`s staff regularly read his blogs and one supposes this forum now.
@@ -28583,7 +28583,7 @@ he thinks it is sedentary lifestyle.......when the real; reason is the blue LED 
 
 This one ...I would love to work.....really skeptical on this but its sort of hard to test without a large time commitment without wearing glasses. Natural vision correction...if only. I saw this somewhere else before Dr. Mercola had it on his website.
 
-### nate.reik@yahoo.com — 2012-08-06T17:40:38+0300
+### [email redacted] — 2012-08-06T17:40:38+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-mercola-notices-cooling-as-well.539/post-43221>
 
 > **Raiken3712;43496 wrote:** [http://products.mercola.com/vision-program/?e\_cid=20120806\_DNL\_YRP\_3&source=nl](http://http://products.mercola.com/vision-program/?e_cid=20120806_DNL_YRP_3&source=nl)
@@ -28601,7 +28601,7 @@ Whether the Bates method works like they say I have no exeperience in, but the f
 ### Cpt.Tired — 2015-06-24T06:19:37+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-mercola-notices-cooling-as-well.539/post-169439>
 
-> [selma@decna.no said:](/goto/post?id=8675)
+> [[email redacted] said:](/goto/post?id=8675)
 >
 > I had to smile when reading this article. Soon "cooling" will be mainstream. I guess it still will take a while before Dr Kruse's CT catches on, but I believe we will se more studies on cold + BAT in the future.
 >
@@ -29138,7 +29138,7 @@ The "average" person, minimally trained, takes 4.5 to 5.5 hours. If you "run" a 
 
 Of course jogging at 12.5 minutes to cover 26.2 miles at the Arctic Circle like Wim did is another matter!
 
-### jeanie@truelongmont.com — 2012-04-02T01:43:29+0300
+### [email redacted] — 2012-04-02T01:43:29+0300
 **Source:** <https://forum.jackkruse.com/threads/wim-in-the-heat-this-ought-to-answer-our-questions.553/post-10029>
 
 > **MamaGrok;9951 wrote:** Just saw a sad post - [http://sports.yahoo.com/top/news?slug=ap-missingrunner](http://http://sports.yahoo.com/top/news?slug=ap-missingrunner) Caballo Blanco (from Born to Run) is dead. I wonder if it's another marathoner (ultra-marathoner in this instance) killed by his "passion."
@@ -29709,7 +29709,7 @@ There is a join button and you can get on the channel's email list...or you can 
 
 There is a join button and you can get on the channel's email list...or you can not subscribe to the email list. I think you have to join to see the presentation.
 
-### jeanie@truelongmont.com — 2012-03-31T23:26:17+0300
+### [email redacted] — 2012-03-31T23:26:17+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9391>
 
 > **Dextery;9405 wrote:** [http://www.ustream.tv/channel/drjackkruse#utm\_campaign=unknown&utm\_source=10773989&utm\_medium=social](http://http://www.ustream.tv/channel/drjackkruse#utm_campaign=unknown&utm_source=10773989&utm_medium=social)
@@ -29731,7 +29731,7 @@ Whoah! Thanks. Does anybody know if there is a way to capture a live stream? I a
 
 Stolen from a another thread!.... anyway wooot can't wait!
 
-### jeanie@truelongmont.com — 2012-03-31T23:41:59+0300
+### [email redacted] — 2012-03-31T23:41:59+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9395>
 
 > **Cavemam;9453 wrote:** Whoah! Thanks. Does anybody know if there is a way to capture a live stream? I am with a client then! Arrrg.!
@@ -29824,7 +29824,7 @@ sign in in your ustream, twitter, or facebook account.
 
 On the right hand side you should see a "Check in & Chat" button.
 
-### jeanie@truelongmont.com — 2012-04-01T00:33:20+0300
+### [email redacted] — 2012-04-01T00:33:20+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9441>
 
 Still blank screen. Don't know where the stream link came from - how do we know it's a thing?
@@ -29984,7 +29984,7 @@ Ideation without execution leads to … ?
 
 The point that I make is that optimal health is no longer a mystery for our species. It’s now a choice.
 
-### dkenward@yahoo.com — 2012-04-01T01:19:58+0300
+### [email redacted] — 2012-04-01T01:19:58+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9466>
 
 Wow MamaG, are you a stenographer???
@@ -30003,7 +30003,7 @@ So he injected himself with a staph infection, and never got infected?
 
 KP
 
-### dkenward@yahoo.com — 2012-04-01T01:22:54+0300
+### [email redacted] — 2012-04-01T01:22:54+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9470>
 
 And now we know why his torso has been numb all year. Amazing!
@@ -30063,7 +30063,7 @@ KP
 
 I wonder if the experiment was two fold - eat SAD, gain 25#; infect self with MRSA and have surgery (what kjnd/for?) without anesthesia. Does that sound right for those who heard it?
 
-### smwpeterson@gmail.com — 2012-04-01T01:29:45+0300
+### [email redacted] — 2012-04-01T01:29:45+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9487>
 
 So glad we got to hear this. Way to go Dr. Kruse..........
@@ -30199,7 +30199,7 @@ Awesome Job Mama!!
 
 Did Doc eat SAD up until the surgery? Wouldn't that make him more prone to infection? Or is he saying the ice right after took away the pain and caused the non infection? I wanna know if he CT'd during SAD or not too!
 
-### txritchies@att.net — 2012-04-01T01:45:22+0300
+### [email redacted] — 2012-04-01T01:45:22+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9519>
 
 MamaGrok, you are awesome. Thanks!
@@ -30244,7 +30244,7 @@ Wim Huf doesn't eat keto-paleo and he injected himself with bacteria. Nothing ha
 
 Thanks for the replay MamaGrok! I didn't get any audio at all so I didn't sit for the entire presentation. Amazing, just amazing!
 
-### tggywnkle@aol.com — 2012-04-01T01:51:49+0300
+### [email redacted] — 2012-04-01T01:51:49+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9527>
 
 And the CT eliminated the pain and accelerated the healing process.
@@ -30256,7 +30256,7 @@ And the CT eliminated the pain and accelerated the healing process.
 
 Those are some great questions, ChimpChick.
 
-### tggywnkle@aol.com — 2012-04-01T01:53:48+0300
+### [email redacted] — 2012-04-01T01:53:48+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9529>
 
 Thanks to all of you who made it possible for us to find/follow Dr. Kruse's talk and BIG thanks to Mamagrok for the great recap.
@@ -30352,7 +30352,7 @@ Thanks, Coriander, awesome! I'll update the post with the edited summary as the 
 
 its still live!!!!!!
 
-### smwpeterson@gmail.com — 2012-04-01T02:16:36+0300
+### [email redacted] — 2012-04-01T02:16:36+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9558>
 
 Hey the steaming in on again
@@ -30564,7 +30564,7 @@ Valorie, how do you get a replay?
 
 Click where it says video above the conversation window.
 
-### trishalinn@gmail.com — 2012-04-01T04:23:07+0300
+### [email redacted] — 2012-04-01T04:23:07+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9644>
 
 MamaGrok- great job with the transcribing!
@@ -30581,7 +30581,7 @@ Thanks, MamaGrok, for posting both synopses. (Lost the feed & had to reboot in t
 
 I didn't hear that Factor-X was mentioned.... So I don't think you missed that. Unless I did! The feed did get interrupted, and then an untimely ad....
 
-### trishalinn@gmail.com — 2012-04-01T04:55:32+0300
+### [email redacted] — 2012-04-01T04:55:32+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9664>
 
 No, I don't think factor x gets revealed until the book! Sure hope it's SOON!
@@ -30626,7 +30626,7 @@ I think I will be able to convince my husband to begin icing his ankle now in an
 
 Are they going to be available anywhere ?
 
-### trishalinn@gmail.com — 2012-04-01T05:32:06+0300
+### [email redacted] — 2012-04-01T05:32:06+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9680>
 
 Thsak you for your generosity in sharing with us Dr Kruse!
@@ -30676,12 +30676,12 @@ your poor wife... you showed up at home one day with 30 inches worth of incision
 
 Perhaps your husband can do some deep cold therapy for a month and avoid surgery altogether. Just a thought.
 
-### trishalinn@gmail.com — 2012-04-01T06:40:15+0300
+### [email redacted] — 2012-04-01T06:40:15+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9700>
 
 My husband posted the video on vimeo. If you'd like the link and password send me a private message on here.
 
-### mycrazycartoons@gmail.com — 2012-04-01T06:44:57+0300
+### [email redacted] — 2012-04-01T06:44:57+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9701>
 
 > **Jack Kruse;9731 wrote:** So after this third and final experiment I knew it worked on humans and I unleased it in my practice to everyone and I posted it live for the world to use themselves.......with the 2/11/2012 blog.....I put all my chips in the game.........and my patients got major benefits now.
@@ -30878,7 +30878,7 @@ See TED is about sharing ideas........sharing ideas is not enough. Ideation with
 
 That is and was the purpose of this all.......6.5 yrs of trying to explain and prove it all.......well......my cards are now played. All my chips are in............and What ties this all together? FACTOR X is the reason Mother Nature has never extinguished this pathway in us.........and when you hear this......and why? Well you will know this known factor has had huge implications for every mammal on this planet........and our species of mammals is about the last one on this planet to realize it.......only because our own evolutionary development (the rapid brain growth) has kept it in our blind spot for 2.5 million yrs..........It is the biggest oxymoron in biology I have found and it is why I embrace all paradox and love chaos. Michealangelo, DaVinci, and Einstein all taught me as a young boy traveling in the Museums.......that I needed to think like this.......and I do. Without the lesson of their lives........I would have never been brought to Jan 9th 2012.
 
-### tggywnkle@aol.com — 2012-04-01T18:50:07+0300
+### [email redacted] — 2012-04-01T18:50:07+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9820>
 
 Dr. Kruse--I have been somewhat skeptical until now, thinking that yes, this probably works for someone who isn't as " broken" as I am, but now you have given me such hope. I can't get into or out of a tub, but I can use a shower & do spot icing and I'm going to begin. I am a Christian and you may well be the answer to prayer. Thank you for being the doctor I didn't even dream was possible to find.
@@ -30982,7 +30982,7 @@ PM trisha......she gave it to me......my son just called and he was very emotion
 
 Dr. Kruse, I have the upmost respect for you & your family. The number of people who are going to be saved by your work & thoughts will be huge. I cannot thank you enough for how you are helping my family today & my future generations. I am paying it forward with anyone who is willing to listen (2 people so far! ) & they are already seeing the power of CT. God bless you sir!
 
-### jeanie@truelongmont.com — 2012-04-01T20:18:36+0300
+### [email redacted] — 2012-04-01T20:18:36+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9874>
 
 > **Jack Kruse;9870 wrote:** I had a two hour conversion with them to tell them everything........and it then I told them about Factor X and one small fact I taught my daughter when she was little........tied to Factor X.......and she was stunned. I then asked her to get my laptop and for 4 hours I wrote the last chapter of my book........and she was transfixed by the story.......she helped me write it........and my wife kept coming and checking on me and saw me joking and writing with story live down on my computer all while teaching my little one.........the next day the whole family became huge CT fans........They fully understood the implications.
@@ -31000,7 +31000,7 @@ Well then, I SUPPOSE we can give you a few passes on typos on the blog posts aro
 
 I sent you a private message with a link
 
-### tggywnkle@aol.com — 2012-04-01T20:26:43+0300
+### [email redacted] — 2012-04-01T20:26:43+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9876>
 
 > **Trisha;9762 wrote:** My husband posted the video on vimeo. If you'd like the link and password send me a private message on here.
@@ -31056,7 +31056,7 @@ LL
 
 Can the link to the good video please be posted here?
 
-### rbu5@sssnet.com — 2012-04-01T21:22:51+0300
+### [email redacted] — 2012-04-01T21:22:51+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-9910>
 
 > **Jack Kruse;9870 wrote:** I had a two hour conversion with them to tell them everything........and it then I told them about Factor X and one small fact I taught my daughter when she was little........tied to Factor X.......and she was stunned. I then asked her to get my laptop and for 4 hours I wrote the last chapter of my book........and she was transfixed by the story.......she helped me write it........and my wife kept coming and checking on me and saw me joking and writing with story live down on my computer all while teaching my little one.........the next day the whole family became huge CT fans........They fully understood the implications.
@@ -31227,7 +31227,7 @@ You are a remarkable man Dr. K. thanks for all of this and everything else to fo
 
 your doc will listen when you use this to become something they can't fathom......
 
-### d_mceachern@hotmail.com — 2012-04-02T00:36:46+0300
+### [email redacted] — 2012-04-02T00:36:46+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-10004>
 
 Would someone mind sending me a pm with the video link?
@@ -31267,7 +31267,7 @@ Loving this thread. And you know what I'm usually MISERABLE during spring b/c of
 
 That's a win!
 
-### newportandy@gmail.com — 2012-04-02T04:48:24+0300
+### [email redacted] — 2012-04-02T04:48:24+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-10138>
 
 Great stuff Jack, I joined the dots on your experiment some time back, good to know my thinking was straight. Didn't peg MRSA tho, wow.
@@ -31276,7 +31276,7 @@ Congrats on having the balls to back your beliefs.
 
 Anyone who's got the link/login for the bootleg video please consider pm'ing me, missed the stream as I was snoozing (damn southern hemisphere timezone...) but I might still have time to watch it before the sun goes down here
 
-### trishalinn@gmail.com — 2012-04-02T05:26:01+0300
+### [email redacted] — 2012-04-02T05:26:01+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-10151>
 
 > **McEach;10067 wrote: Would someone mind sending me a pm with the video link?
@@ -31311,7 +31311,7 @@ Sent it to you guys!
 
 Would really appreciate a PM with a link too!! Thanks!!
 
-### newportandy@gmail.com — 2012-04-02T05:45:21+0300
+### [email redacted] — 2012-04-02T05:45:21+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-10159>
 
 > **ColdBren;10217 wrote:** Would really appreciate a PM with a link too!! Thanks!!
@@ -31323,12 +31323,12 @@ Done, check your inbox
 
 Would love the link too. Thanks so much!
 
-### trishalinn@gmail.com — 2012-04-02T05:52:43+0300
+### [email redacted] — 2012-04-02T05:52:43+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-10164>
 
 It should be in your inbox
 
-### newportandy@gmail.com — 2012-04-02T05:53:37+0300
+### [email redacted] — 2012-04-02T05:53:37+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-10165>
 
 > **susie;10225 wrote:** Would love the link too. Thanks so much!
@@ -31350,7 +31350,7 @@ I would appreciate a link as well. Thank you so much!
 
 Would love the link too. Thanks so much!
 
-### stuartfolkard@gmail.com — 2012-04-02T06:28:50+0300
+### [email redacted] — 2012-04-02T06:28:50+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-10186>
 
 could someone pls send me the link too? thanks!
@@ -31371,7 +31371,7 @@ Fascinating stuff doc!
 
 yes most are when i tell them what I have done.......some are stunned. But the results they are getting is equally stunning
 
-### trishalinn@gmail.com — 2012-04-02T06:58:03+0300
+### [email redacted] — 2012-04-02T06:58:03+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-10206>
 
 Sent you all the link. If there are others that see this and want it, send me a PM.
@@ -31484,7 +31484,7 @@ So did you have some anesthesia at first, or did you find another way to do it?
 
 I thought he said during his talk that he basically "gutted it out" without anesthesia. I used to do that as a kid when I had to have the dentist drill cavities. I hated the needle for the novacaine more than I hated the drill. Actually, that mental toughness I developed early on now works great to get into the cold shower. ) ouch!
 
-### mtdejong1@gmail.com — 2012-04-02T18:01:48+0300
+### [email redacted] — 2012-04-02T18:01:48+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-10322>
 
 Could someone pleas send me the link to the talk? Thanks a lot.
@@ -31508,7 +31508,7 @@ Thanks!
 
 Dr. K has said about it that he had "General Anesthesia with no local and no narcotics.......unless my BP crashed. And I was told it did not. It was sky high after I woke up because of the pain I was in. "
 
-### kc_boxerman@yahoo.com — 2012-04-02T18:51:39+0300
+### [email redacted] — 2012-04-02T18:51:39+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-tedx-talk-to-be-streamed-between-4-5pm-today-sat-mar-31.568/post-10361>
 
 > **Jack Kruse;10310 wrote:** I was surprised no one picked this up.......This is why I told everyone to re read CT 6. But I dropped the hint........
@@ -31588,7 +31588,7 @@ I've wondered that, too, but I thought I saw it noped, too.
 **Subforum:** Cold Thermogenesis
 **Posts:** 40
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2012-03-31T23:59:43+0300
+### [email redacted] — 2012-03-31T23:59:43+0300
 **Source:** <https://forum.jackkruse.com/threads/confessions-from-a-hot-shower.571/post-9406>
 
 Ok, so I did my tub today, proud of myself after hitting two sessions yesterday for a total of 45 mins. I wanted to bust out 25 mins before the grind.
@@ -31653,7 +31653,7 @@ I don't enjoy a hot shower anymore either.
 
 Also I am finding I don't care if my food gets cold. Eggs were a big thing, hated my eggs to get cold, now if everything is cooked and I have something else that needs to be done for a few minutes I just go do it and come back to lukewarm eggs and they taste just fine.
 
-### trishalinn@gmail.com — 2012-04-05T18:02:37+0300
+### [email redacted] — 2012-04-05T18:02:37+0300
 **Source:** <https://forum.jackkruse.com/threads/confessions-from-a-hot-shower.571/post-11757>
 
 It's funny, a shower that just a month ago was COLD to me is now very pleasant. It's still hard for me to turn the shower on all the way cold despite the fact that it's about the same temp as my baths (50ish degrees).
@@ -31676,7 +31676,7 @@ I use warm water to rinse when showering and end with cold shower or just on my 
 
 As far as shampoo and conditioner use is concerned. I tried going without both last December and haven't looked back. My scalp is healthier and hair healthy. If it gets dry I may add a little CO. Other than that, no more shampoo or conditioner, just don't need or want it anymore.
 
-### dkenward@yahoo.com — 2012-04-05T20:35:28+0300
+### [email redacted] — 2012-04-05T20:35:28+0300
 **Source:** <https://forum.jackkruse.com/threads/confessions-from-a-hot-shower.571/post-11817>
 
 For years I used to get out of the shower feeling hot. But I didn't think a cold shower would get me "clean enough". A few times my hot water was out, so I took a cold shower and it felt miserable. Now I thoroughly enjoy it. In fact today I was thinking "too bad I can't get the water any colder!"
@@ -31727,7 +31727,7 @@ While the warmth of a shower might feel good when in it, the cold shower has ben
 
 I laugh everytime I get in the shower now for the same reason. Two months ago I would been thinking that the water was freezing but now it just feels downright awesome (after the initial water to skin contact ).
 
-### omlh@todmi.com — 2012-04-14T14:53:18+0300
+### [email redacted] — 2012-04-14T14:53:18+0300
 **Source:** <https://forum.jackkruse.com/threads/confessions-from-a-hot-shower.571/post-15033>
 
 I forgot to turn the temperature down from my OH's shower the other morning, and realised that it was way too hot. It used to be that I would turn the thermostat up ...
@@ -31742,7 +31742,7 @@ Ah, Other Half! I thought for a moment that OH meant ornery husband.
 
 I guess I'm going to cut the warm/hot showers. Maybe it's taking me longer to adapt this way. because I still hate the idea of a cold shower and love warm. Also when i swim and it's cloudy out - almost always under 60 degrees air temp - I usually go to a warm cafe and sometimes get a hot coffee to help warm up. so I guess I will try without these things.
 
-### cuivie@me.com — 2012-09-21T23:37:20+0300
+### [email redacted] — 2012-09-21T23:37:20+0300
 **Source:** <https://forum.jackkruse.com/threads/confessions-from-a-hot-shower.571/post-53301>
 
 > **growltgc;53750 wrote:** I guess I'm going to cut the warm/hot showers. Maybe it's taking me longer to adapt this way. because I still hate the idea of a cold shower and love warm. Also when i swim and it's cloudy out - almost always under 60 degrees air temp - I usually go to a warm cafe and sometimes get a hot coffee to help warm up. so I guess I will try without these things.
@@ -31765,7 +31765,7 @@ So, what do you do after you get out of the water? When its cold
 
 **growltgc;53937 wrote:** So, what do you do after you get out of the water? When its cold
 
-### jeanie@truelongmont.com — 2012-09-22T01:08:34+0300
+### [email redacted] — 2012-09-22T01:08:34+0300
 **Source:** <https://forum.jackkruse.com/threads/confessions-from-a-hot-shower.571/post-53317>
 
 > **Nonchalant;53951 wrote:** If you are able to, try drip drying for an hour or so. Don't towel off. You will find that you will not start shivering until you put on clothes. Thermogenesis shuts down, when the skin feels the warmth. Then the muscles have to take up the slack and shiver to keep you warm.
@@ -31797,7 +31797,7 @@ Anyone else have an opinion on the maximum temp at which benefit is recieved?
 
 I cant do the shower........but in deep cold water.......I am Orca like.
 
-### docwatt@gmail.com — 2012-09-23T07:47:49+0300
+### [email redacted] — 2012-09-23T07:47:49+0300
 **Source:** <https://forum.jackkruse.com/threads/confessions-from-a-hot-shower.571/post-53564>
 
 Interesting thought: Perhaps those who are cold adapted are actually warming a boundary layer of water around them. I've noticed in my limited experience that moving around in the tub is alot more intolerable.
@@ -31807,7 +31807,7 @@ Interesting thought: Perhaps those who are cold adapted are actually warming a b
 
 I know that is true for me, although I don't really consider myself cold adapted after so short a time. I start at tap water temp (56) and after 30 minutes the water is up to 59-60 if I don't add ice. I know if I stay too still it is warmer, I often 'sway' a bit to move the warm layer away.
 
-### cuivie@me.com — 2012-09-25T20:04:43+0300
+### [email redacted] — 2012-09-25T20:04:43+0300
 **Source:** <https://forum.jackkruse.com/threads/confessions-from-a-hot-shower.571/post-54178>
 
 > **Anna K.;54135 wrote:** Do you still shiver after you get out?
@@ -31833,7 +31833,7 @@ It's interesting how you do how some control over the shivering process. sometim
 
 I took a mild shower yesterday not warm, not cool. this at least alleviates potential risk of a hot shower offsetting the the CT (I don't know if there is or not - but just to be safe). I don't plan on cold showers for now. unless I come to like it like some people.
 
-### cuivie@me.com — 2012-09-25T20:32:07+0300
+### [email redacted] — 2012-09-25T20:32:07+0300
 **Source:** <https://forum.jackkruse.com/threads/confessions-from-a-hot-shower.571/post-54184>
 
 > **Endless;54181 wrote:** I know that in the webinar Dr K suggested that colder temps can speed up the adaptation, but I'm assuming that 50-55 is cold enough to provide the trigger....since that is what is suggested in the easy start guide. If all I'm doing is torturing myself and inducing hypothermia at that temp I'm not super inclined to continue!
@@ -31988,7 +31988,7 @@ I caught a bug and maintained some light CT. Today I went back into my pool @ 60
 
 Just listen to you body.
 
-### mycrazycartoons@gmail.com — 2012-04-01T17:13:40+0300
+### [email redacted] — 2012-04-01T17:13:40+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-while-sick.572/post-9772>
 
 > **Claudia;9493 wrote:** I am sick with a bad cold. I haven't been sick in a while and wondering if not eating enough lately has lowered my resistance. I have no appetite with CT. ALso, lost of stress this week so that factored in also.
@@ -32069,7 +32069,7 @@ Something about ct reducing inflammatory cytokines? But I would think that for a
 
 I just can't do the cold bath. I am too tired to even think getting in cold water and was not able to nap during the day or even rest, impossible with 2 little kids. No cold bath for me tonight and I was tempted because it's the second night I have a terrible headache and CT might take it away. I refuse to take anything for it since that will just add to the toxins that need to be dumped. I'll just hang in and hopefully be better tomorrow and back to my baths.
 
-### mycrazycartoons@gmail.com — 2012-04-02T06:12:52+0300
+### [email redacted] — 2012-04-02T06:12:52+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-while-sick.572/post-10177>
 
 > **Claudia;10138 wrote:** I just can't do the cold bath. I am too tired to even think getting in cold water.
@@ -32081,7 +32081,7 @@ I get that... I'm so tired of being sick. I've been spot icing today, but couldn
 
 I had 3 bouts of cold/sinus/cough/sore throat in the first 4 weeks of CT. I actually put it down to detox of some sort. Into my 5th week and all is perfectly well again, I kept CTing through the misery.
 
-### mycrazycartoons@gmail.com — 2012-04-02T23:11:48+0300
+### [email redacted] — 2012-04-02T23:11:48+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-while-sick.572/post-10492>
 
 > **Glamorama;10246 wrote:** I had 3 bouts of cold/sinus/cough/sore throat in the first 4 weeks of CT. I actually put it down to detox of some sort. Into my 5th week and all is perfectly well again, I kept CTing through the misery.
@@ -32436,7 +32436,7 @@ Dear Marketing Team,
 
 I live outside the USA. Therefore, I would like to do consultations via Skype. Is this possible? Because my international phone bill could be a deal breaker.
 
-### jeanie@truelongmont.com — 2012-04-08T18:52:40+0300
+### [email redacted] — 2012-04-08T18:52:40+0300
 **Source:** <https://forum.jackkruse.com/threads/membership-pay-subscriptions.586/post-12723>
 
 > **Jack Kruse;12740 wrote:** not yet but soon......im working on solving that problem too.
@@ -32640,7 +32640,7 @@ Me too please!!!
 
 Dear Marketing Team,
 
-I received an email from you [support@jackkruse.com](mailto:support@jackkruse.com) asking me to reschedule my appointment. I did that but have not received a confirmation email as before. Could someone get back to me on this. Just email me if you don't mind.
+I received an email from you [[email redacted]](mailto:[email redacted]) asking me to reschedule my appointment. I did that but have not received a confirmation email as before. Could someone get back to me on this. Just email me if you don't mind.
 
 ### admin — 2012-04-13T23:50:59+0300
 **Source:** <https://forum.jackkruse.com/threads/membership-pay-subscriptions.586/post-14873>
@@ -33428,7 +33428,7 @@ thus my signature line
 
 I'm curious where the MRSA came from. It's not something you can order on the internet (at least I hope it's not).
 
-### jeanie@truelongmont.com — 2012-04-03T20:56:09+0300
+### [email redacted] — 2012-04-03T20:56:09+0300
 **Source:** <https://forum.jackkruse.com/threads/the-mrsa-experiment-how-do-we-get-dr-kruse-nominated-for-a-nobel.587/post-10876>
 
 > **Jack Kruse;10856 wrote:** my wife drove me home.....no way I could drive. I could barely get in the car........it hurt so bad.
@@ -33540,7 +33540,7 @@ What else ar eyou not thinking about? How about Factor X or the next series of b
 
 I adore carne asada nachos topped with gobs of shredded cheese and tortilla chips. LOL
 
-### skline@peak.org — 2012-04-04T06:11:40+0300
+### [email redacted] — 2012-04-04T06:11:40+0300
 **Source:** <https://forum.jackkruse.com/threads/the-mrsa-experiment-how-do-we-get-dr-kruse-nominated-for-a-nobel.587/post-11149>
 
 > **Jack Kruse;10623 wrote:** everyone in a hospital is exposed to this daily so I guess I dont see your point. MRSA is a hospital acquired bug......most people are colonized who work in a hospital/healthcare facility.
@@ -33563,7 +33563,7 @@ MRSA is found on most hospital employees......it is a real problem when it the h
 
 This made me laugh out loud!!!!
 
-### skline@peak.org — 2012-04-04T06:42:49+0300
+### [email redacted] — 2012-04-04T06:42:49+0300
 **Source:** <https://forum.jackkruse.com/threads/the-mrsa-experiment-how-do-we-get-dr-kruse-nominated-for-a-nobel.587/post-11156>
 
 > **Jack Kruse;11221 wrote:** MRSA is found on most hospital employees......it is a real problem when it the host is compromised. it seems like most people get that unless your a harvard psychiatrist or a paleo blogger reader of photons.....from a computer screen. The only risk was to me......and it was no real risk in my view because I knew what the Ancient pathway meant........and it worked This meant to me that many of the patients i was hesitant to help I could now help.......if they choose to eat differently and use CT to help themselves heal.......see when you push pills and use talk therapy of photons......you forget what the core of clinical medicine is all about..........it seems. My sensibilities are decidedly different than some others out there in paleo land.
@@ -33574,7 +33574,7 @@ Time to put on the orange goggles and shut down the photon machine. At least I'm
 
 By the way, I had a far-too-long-postponed thorough dental exam today. My suspicions about that root canal turn out to be correct -- seems like a low-grade chronic infection is there, just above the ends of the gutta percha. There are other problems, such as shelves from messy oversized fillings which have been there nearly forever, trapping food and making flossing more difficult. I started talking about lotsa pianos -- here's a five-piano tooth, oh, dear, that is probably a ten-piano tooth. But my gums (which aren't that bad, considering) should be happier, and my immune system will eventually be able to turn its attention to things other than protecting me from my own bad habits, neglect, a childhood diet far too full of sweets and cheap starches -- and some less-than-perfect dental work in the past.
 
-### jeanie@truelongmont.com — 2012-04-04T07:55:59+0300
+### [email redacted] — 2012-04-04T07:55:59+0300
 **Source:** <https://forum.jackkruse.com/threads/the-mrsa-experiment-how-do-we-get-dr-kruse-nominated-for-a-nobel.587/post-11179>
 
 > **Jack Kruse;11204 wrote:** What else ar eyou not thinking about? How about Factor X or the next series of bio hacks I have planned?
@@ -33671,7 +33671,7 @@ Maybe he was just bored....
 
 i asked him if I had missed something about full submersion and he said 'Julia, i cant give ya all my secrets' hmmm maybe i'll get my diving gear out ! lol
 
-### jeanie@truelongmont.com — 2012-04-02T00:17:15+0300
+### [email redacted] — 2012-04-02T00:17:15+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-is-dropping-bombs-on-fbook-about-underwater-ct.589/post-9993>
 
 > **jumcc;10041 wrote:** Hi everyone.
@@ -33694,7 +33694,7 @@ ha, i suppose it would be defeating the purpose if you used a snorkel, i doubt o
 
 Actually, we shared an exchange about CT a while back. It was about Russian divers who were extremely cold adapted (and studied) and I believe Dr. K is hacking some of the Russian research on himself.
 
-### jeanie@truelongmont.com — 2012-04-02T00:27:14+0300
+### [email redacted] — 2012-04-02T00:27:14+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-is-dropping-bombs-on-fbook-about-underwater-ct.589/post-10001>
 
 > **Mott;10062 wrote:** Actually, we shared an exchange about CT a while back. It was about Russian divers who were extremely cold adapted (and studied) and I believe Dr. K is hacking some of the Russian research on himself.
@@ -33751,7 +33751,7 @@ _Yoshiro Nakamatsu, 83, described his "creativity process", which includes liste
 
 Awesome David, thanks for finding that!
 
-### rbu5@sssnet.com — 2012-04-02T02:47:30+0300
+### [email redacted] — 2012-04-02T02:47:30+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-kruse-is-dropping-bombs-on-fbook-about-underwater-ct.589/post-10061>
 
 I do remember hearing today on the Ted video, Dr K said something about how we evolved from water and how we had to go back into the water to get that good omega 3 fish. I thought--ruh roh, better get ready for the next step. Submersion.
@@ -33903,7 +33903,7 @@ cold thermogenisis...(it lights a fire in you)
 **Subforum:** Cold Thermogenesis
 **Posts:** 9
 ══════════════════════════════════════════════════════════════════════
-### mycrazycartoons@gmail.com — 2012-04-01T23:56:47+0300
+### [email redacted] — 2012-04-01T23:56:47+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-and-aspbergers-one-of-the-autism-spectrums.590/post-9981>
 
 I'm thinking CT + keto diet would be beneficial to those with Autism and it's spectrums. My 21 yo son has Aspberger's (discovered when he was about 2yo) and over the years he has had many health issues from unusual weight gain, hashimoto's, egg allergy, lethargy and learning disorders. He eats primarily low carb, but does have things that aren't good for him occasionally. He's started taking cooler showers and says he likes the feeling afterward. My question is, could CT fix the issue of Aspberger's syndrome? I'm not pushing the optimal plan...I just talk about it a lot  and I'm hoping he will follow one day.
@@ -33913,7 +33913,7 @@ I'm thinking CT + keto diet would be beneficial to those with Autism and it's sp
 
 yes it would be.........
 
-### mycrazycartoons@gmail.com — 2012-04-02T00:09:45+0300
+### [email redacted] — 2012-04-02T00:09:45+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-and-aspbergers-one-of-the-autism-spectrums.590/post-9988>
 
 > **Jack Kruse;10046 wrote:** yes it would be.........
@@ -33925,7 +33925,7 @@ Music to my ears  Seriously.. thank you for sharing what you've learned.
 
 How long has your son been eating paleo and have you done severe gut healing for him? My daughter was autistic, but aggressive gut healing and a very, very strict paleo diet have erased it almost entirely.
 
-### mycrazycartoons@gmail.com — 2012-04-02T02:18:34+0300
+### [email redacted] — 2012-04-02T02:18:34+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-and-aspbergers-one-of-the-autism-spectrums.590/post-10047>
 
 > **PaleoMom;10072 wrote:** How long has your son been eating paleo and have you done severe gut healing for him? My daughter was autistic, but aggressive gut healing and a very, very strict paleo diet have erased it almost entirely.
@@ -33939,7 +33939,7 @@ She is 8 now, but we started all this for her around age 3 or 4. For what it's w
 
 Have you done anything for heavy metals? That was big for us too. I tried many things (on myself first) that turned out really horrible, but then I found a paleo dentist in my area and he has an amazing chelation protocol that I can't recommend enough [http://idahonaturaldentist.com/mercury-cleanse-program-2](http://http://idahonaturaldentist.com/mercury-cleanse-program-2) It helped my kids with their heavy metals and also my own. Unrelated to autism, but amazing for me was a life-long mystery with my heart that no doctor could figure out... after only 3 weeks on the chelation protocol it was gone! I'm finally able to be active now.
 
-### mycrazycartoons@gmail.com — 2012-04-02T05:48:10+0300
+### [email redacted] — 2012-04-02T05:48:10+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-and-aspbergers-one-of-the-autism-spectrums.590/post-10161>
 
 > **PaleoMom;10132 wrote:** She is 8 now, but we started all this for her around age 3 or 4. For what it's worth giving up / bringing back potatoes doesn't make any difference for my daughter. Sugar however is right up there with grains.
@@ -33989,7 +33989,7 @@ So I answered along the lines of I think he is having a similar problem as the f
 
 You can just ignore paleohacks, or you can join and upvote posts you think are worthwhile and downvote posts you think are stupid. The question probably vanished because enough people voted to remove it.
 
-### jeanie@truelongmont.com — 2012-04-02T01:24:19+0300
+### [email redacted] — 2012-04-02T01:24:19+0300
 **Source:** <https://forum.jackkruse.com/threads/paranoia-at-paleohacks.592/post-10021>
 
 > **marthabob2u;10066 wrote:** I found this on facebook this morning:
@@ -34279,7 +34279,7 @@ I've learned to trust my gut about people because it's been right way too often!
 
 Completely agree. If something is cheap and reasonably safe and has a plausible rationale why not enjoy a little experimentation.
 
-### finnite@dccnet.com — 2012-04-02T19:00:08+0300
+### [email redacted] — 2012-04-02T19:00:08+0300
 **Source:** <https://forum.jackkruse.com/threads/paranoia-at-paleohacks.592/post-10368>
 
 > **DarleenMB;10423 wrote:** I'm usually pretty good with abbreviations but WTH is an NT?
@@ -34354,7 +34354,7 @@ I know I took the MB a long time ago. I was told my test results put me with lik
 
 OH well. Now I just claim half heimers. Or blonde senior moments. Take your pick.
 
-### penguinmom718@yahoo.com — 2012-04-02T22:48:20+0300
+### [email redacted] — 2012-04-02T22:48:20+0300
 **Source:** <https://forum.jackkruse.com/threads/paranoia-at-paleohacks.592/post-10474>
 
 Funny. I was just thinking about Dr Atkins being dissed when I came upon your post. And I agree with you that Dr. Kruse will be treated the same way when his book comes out; you are seeing the beginnings of that now.
@@ -34698,7 +34698,7 @@ So, thanks Paleo Hackers
 
 this chart is amazing, just one cytokine and all the havoc it can wreak.... and cold shuts it down
 
-### finnite@dccnet.com — 2012-04-02T01:37:32+0300
+### [email redacted] — 2012-04-02T01:37:32+0300
 **Source:** <https://forum.jackkruse.com/threads/the-many-talents-of-cytokine-il-6.594/post-10026>
 
 good, my labs are showing anemia of chronic inflammation and the only way to defeat it is to knock out the cytokines
@@ -34736,7 +34736,7 @@ gp130 has no intrinsic tyrosine kinase activity. Instead, it is phosphorylated o
 
 IL6 is evolutionary related to leptin.......they are structural analogues. Leptin evolved from IL-6 to adapt to a warmer environment. IL-6 was the primordial cytokine in cold environments.
 
-### finnite@dccnet.com — 2012-04-29T18:42:00+0300
+### [email redacted] — 2012-04-29T18:42:00+0300
 **Source:** <https://forum.jackkruse.com/threads/the-many-talents-of-cytokine-il-6.594/post-19836>
 
 Chocolate are you taking IP6 for the iron issue?
@@ -34750,7 +34750,7 @@ found this in my search for something to chelate the excess ferritin from the li
 
 Yes, I am taking it. I think it is absolutely doing something. I've been to the eye doctor several times and he says I'm normal middle aged. I've bought two pair of glasses and couldn't get the "hang of them'. My eyes are functioning better after just a few days. And my face is looking less like coffee is splattered on it. I'm just going to keep taking it until I stop seeing results or three months. I had ibs for years and the phytic acid is supposed to help with colon cancer...maybe that's how. Thanks!
 
-### finnite@dccnet.com — 2012-04-30T04:20:11+0300
+### [email redacted] — 2012-04-30T04:20:11+0300
 **Source:** <https://forum.jackkruse.com/threads/the-many-talents-of-cytokine-il-6.594/post-19985>
 
 thanks I picked some up today and have started it. like you my eyes are not seeing the improvements others are describing so if that can be improved I\`d be pleased.
@@ -34786,7 +34786,7 @@ Only thing I am afraid of is my -here comes that word- poop is almost black. Goi
 
 I need my ferritin levels to drop also. Going to ask to get tested for that tomorrow again.
 
-### finnite@dccnet.com — 2012-05-03T23:28:49+0300
+### [email redacted] — 2012-05-03T23:28:49+0300
 **Source:** <https://forum.jackkruse.com/threads/the-many-talents-of-cytokine-il-6.594/post-21123>
 
 > **Suhenna;21195 wrote:** t
@@ -34851,7 +34851,7 @@ When you are leptin sensitive, then you are correct your body uses inflammation 
 
 Good to know. My inflammation is not a good thing at this stage of the game. Hope I can start eating earlier, like 1/2 hr after I wake up...I am doing all else on the diet but that.
 
-### finnite@dccnet.com — 2012-05-05T16:54:30+0300
+### [email redacted] — 2012-05-05T16:54:30+0300
 **Source:** <https://forum.jackkruse.com/threads/the-many-talents-of-cytokine-il-6.594/post-21608>
 
 > **chocolate;21300 wrote:** I found a cocktail to fix the mucus lining like 95 per cent faster on warm adapted rats. Anyway, that is what stops the bacteria from sneaking in and also stops the hare trigger gut inflammation, if I'm reading right. I tried a time released b complex today instead and I don't think it was appropriate. It had all the good stuff but the niacin had me flushed so often I couldn't really get a sense of how I was doing. Maybe I'll just do that occasionally. The MSM doesn't seem to be doing anything bad. I guess I'm just going to keep cramming the probitiotics and try to put together some of the little cocktail packets. Its only a couple of extra aminos....most of it is already on everyone's list.
@@ -34871,7 +34871,7 @@ Faure M, Mettraux C, Moennoz D, Godin JP, Vuichoud J, Rochat F, BreuillÃ© D, O
 
 Source
 
-NestlÃ© Research Center, Nutrition and Health Department, Switzerland. [magali.faure@rdls.nestle.com](mailto:magali.faure@rdls.nestle.com)
+NestlÃ© Research Center, Nutrition and Health Department, Switzerland. [[email redacted]](mailto:[email redacted])
 
 Abstract
 
@@ -35033,7 +35033,7 @@ But, if I am to make offerings, or gain the favor of a goddess. Let it be Athena
 **Subforum:** Cold Thermogenesis
 **Posts:** 10
 ══════════════════════════════════════════════════════════════════════
-### trishalinn@gmail.com — 2012-04-02T05:50:59+0300
+### [email redacted] — 2012-04-02T05:50:59+0300
 **Source:** <https://forum.jackkruse.com/threads/scleroderma-lupus.598/post-10163>
 
 I have a very dear friend who is in her mid-30's, I've known her for 12 years and has had a multitude of health problems in that time. Being very overweight she had gastric bypass surgery and lost over 100 pounds. She mad many complications following the surgery. She was later diagnosed with lupus. Most recently she starting having more digestive issues and went to her gastroenterologist who blew her off saying "you chose to rearrange your insides with the bypass surgery, now you have to deal with the consequences." He refused to do anything for her. She continued to get sicker and sicker and went to see another doctor who put her in the hospital and she was diagnosed with scleroderma effecting the digestive system. I know there are now only certain foods she can eat and keep down and she gets much of her nutrition via IV each night. She is seeing specialists, but it seems that all they can do is keep trying different meds to help her symptoms. Is there any chance CT could help her? I guess it couldn't hurt to try anyhow if I could convince her of it. I doubt she could pull of the ketogenic diet just because I know she has a lot of food restrictions. Any thoughts or advice?
@@ -35043,7 +35043,7 @@ I have a very dear friend who is in her mid-30's, I've known her for 12 years an
 
 SHE needs Terry Wahl's version of the Paleo diet and the CT protocol.......stat.
 
-### trishalinn@gmail.com — 2012-04-02T16:59:14+0300
+### [email redacted] — 2012-04-02T16:59:14+0300
 **Source:** <https://forum.jackkruse.com/threads/scleroderma-lupus.598/post-10294>
 
 Thank you for the advice Dr. Kruse. I'm going to try to talk to her soon and maybe she'll show up here in the forum and look at your blog (maybe your book soon too?).
@@ -35055,7 +35055,7 @@ I can't wait to start seeing some positive improvements in myself, though I don'
 
 Robb Wolf also has an autoimmune diet. When my rheumy asked what I did, I sent her a link to Robb Wolf, Dr. Wahl's, and here. I used to be diagnosed with lupus, but I don't have it anymore.
 
-### trishalinn@gmail.com — 2012-04-02T19:15:09+0300
+### [email redacted] — 2012-04-02T19:15:09+0300
 **Source:** <https://forum.jackkruse.com/threads/scleroderma-lupus.598/post-10377>
 
 That's awesome! Thanks for sharing Birdy!
@@ -35072,7 +35072,7 @@ I've been telling everyone with an autoimmune diet about CT and Terry Wahl's die
 
 That's why I am so glad we got the gene screen for my kid. Her achey joints have her being sent for the lupus screening. One of my aunts was diagnosed with that and she was a late night cocktail waitress (thirty years ago and she ain't dead yet). I figure it was a circadian problem. I just am waiting for all the labs. I figure a fabulous wild goose chase ought to get some good testing done. Regardless, our diet is going to be the Terry Wahls while we work on getting our fat right, and chilling ourselves to reduce inflammation at the minimum.
 
-### trishalinn@gmail.com — 2012-04-02T20:54:06+0300
+### [email redacted] — 2012-04-02T20:54:06+0300
 **Source:** <https://forum.jackkruse.com/threads/scleroderma-lupus.598/post-10422>
 
 > **colleencoble;10464 wrote:** I've been telling everyone with an autoimmune diet about CT and Terry Wahl's diet. Her diet is super easy. I've started adding the greens and colored veggies/berries she suggests as well.
@@ -35221,7 +35221,7 @@ I use 1000 IU per kg for 3 days, at least 75 mg. zinc daily and as much vitamin 
 
 I've mentioned the 50K Vit D3 strategy to a couple of Dr.s and they all looked at me like I was nuts. (Ah, the joy of living in medically conservative Boston is killing me.) Anyway, I tend to feel the positive affects within 20 minutes of the first dose and it is truly amazing how quickly it works.
 
-### smwpeterson@gmail.com — 2012-04-12T02:14:55+0300
+### [email redacted] — 2012-04-12T02:14:55+0300
 **Source:** <https://forum.jackkruse.com/threads/beating-a-cold-optimal-style.609/post-13995>
 
 > **Glamorama;11094 wrote:** I've had 5 bouts of colds in the 5 weeks since starting CT. What's up?
@@ -35361,7 +35361,7 @@ one thing I've been encouraging the girl to do is walk on her hands & feet... he
 
 There is a race horse training method based on an Army study of men that played high school basketball. Its the best. Its about straining the bone and calcification overlays. You stress the bone, let it rest and heal. Then again. I forgot the name of the method. Prevents injuries. The high school basket ball players had fewer breaks and denser bones. You can add a year of age to the bone with the method. But people aren't like animals (allegedly).
 
-### nicebeanst@yahoo.com — 2012-04-05T20:39:39+0300
+### [email redacted] — 2012-04-05T20:39:39+0300
 **Source:** <https://forum.jackkruse.com/threads/optimal-fitness-for-children.616/post-11819>
 
 I'd say no to the daily runs. I can't imagine my daugher being forced to run, she HATES it. What is their "point" with the races? Community? Team spirit? Accomplishment? Aren't there other ways to achieve that? I bet the program designer is a runner LOL
@@ -35415,7 +35415,7 @@ doesn't metformin wreck your stomach if you use it a long time?
 
 Dr. Kruse - I had a VAP done today and go back in 2 weeks. I told her I'd give Metformin serious thought between now and then. I've been doing some spot CT, and will soon try full immersion. Honestly, I haven't lost "weight" but I fit into pants I haven't worn in 5 years!  I know you hear "thank you" all the time, but I sincerely mean it! You've helped me change my life!
 
-### d_mceachern@hotmail.com — 2012-04-05T01:22:33+0300
+### [email redacted] — 2012-04-05T01:22:33+0300
 **Source:** <https://forum.jackkruse.com/threads/doctor-diabetes-leptin-rx-oh-my.618/post-11527>
 
 > **Jack Kruse;10620 wrote:** metformin wont hurt you......it activates the pathway........Read CT 8. Its in there. You wont need to be on it long. But Ct is what you need. Get Some.
@@ -35615,7 +35615,7 @@ Guillet C, Masgrau A, Boirie Y.
 
 Source
 
-UnitÃ© de Nutrition Humaine, Clermont UniversitÃ©, UniversitÃ© d'Auvergne, France. [Christelle.Guillet@clermont.inra.fr](mailto:Christelle.Guillet@clermont.inra.fr)
+UnitÃ© de Nutrition Humaine, Clermont UniversitÃ©, UniversitÃ© d'Auvergne, France. [[email redacted]](mailto:[email redacted])
 
 Abstract
 
@@ -35814,7 +35814,7 @@ Whoo-hoo! I'm excited for you!
 
 hey, not shy at all!
 
-### trishalinn@gmail.com — 2012-04-03T18:55:47+0300
+### [email redacted] — 2012-04-03T18:55:47+0300
 **Source:** <https://forum.jackkruse.com/threads/welly-well-well-well-look-what-finally-happened.623/post-10818>
 
 Awesome, glad to hear you're seeing some forward momentum!
@@ -35839,7 +35839,7 @@ Cody, that so rocks! Awesome to hear & that gives the rest of us the motivation 
 
 Excellent Cody! Stay Frosty
 
-### nicebeanst@yahoo.com — 2012-04-03T20:54:31+0300
+### [email redacted] — 2012-04-03T20:54:31+0300
 **Source:** <https://forum.jackkruse.com/threads/welly-well-well-well-look-what-finally-happened.623/post-10875>
 
 Cody, good for you! Helps to keep me motivated.
@@ -35871,7 +35871,7 @@ I need to figure out what exactly a compressions shirt is. All water feels like 
 
 Cody, did you not eat at all for 2 days except for coffee??
 
-### omlh@todmi.com — 2012-04-03T22:27:57+0300
+### [email redacted] — 2012-04-03T22:27:57+0300
 **Source:** <https://forum.jackkruse.com/threads/welly-well-well-well-look-what-finally-happened.623/post-10914>
 
 Congratulations, Cody! Nice to hear the good news
@@ -36135,7 +36135,7 @@ My first webinar is on deep CT. Cant say it on internet.....might get in trouble
 
 Not for what I want to achieve.
 
-### jayjha1@gmail.com — 2012-05-16T20:15:01+0300
+### [email redacted] — 2012-05-16T20:15:01+0300
 **Source:** <https://forum.jackkruse.com/threads/vasper-training.624/post-24640>
 
 I completed my 4th Vasper session yesterday morning - it is very challenging, yet fun - most importantly, seeing changes already - which I guess is the most exciting part
@@ -36149,7 +36149,7 @@ I know I went to an Indian wedding over the weekend and despite being hopped up 
 
 what are cryo sessions?
 
-### jayjha1@gmail.com — 2012-05-17T02:09:23+0300
+### [email redacted] — 2012-05-17T02:09:23+0300
 **Source:** <https://forum.jackkruse.com/threads/vasper-training.624/post-24734>
 
 > **janagram;24757 wrote:** what are cryo sessions?

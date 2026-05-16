@@ -4736,7 +4736,7 @@ I was tanning naked with my best German friend today.. haha.. he is an ex lover 
 >
 > And ....we are out every morning for sunrise and walking and then to the beach. We are out about 4 hours and often use a public toilet. These toilets are cleaned every day and very thoroughly......
 
-Hope you are feeling better. I forgot last night (tired) to mention that the CDS I've used is shipped from Australia. You can write to them at "[support@healthy-action.com](mailto:support@healthy-action.com)". I ordered from them (info@mmshealthy4life.com)--Took awhile shipping from Australia to Oregon. Andreas Kalcker has a very informative website. Plus, I found lots of folks on Telegram who talked about using MMS/CDS with great results. I did a lot of research before trying. I chose to use the CDS (activated solution) vs the MMS that requires you to mix the sodium chlorite with HCL. It does feel pretty amazing. If we lived next door, I'd bring you some because I believe it would help you.
+Hope you are feeling better. I forgot last night (tired) to mention that the CDS I've used is shipped from Australia. You can write to them at "[[email redacted]](mailto:[email redacted])". I ordered from them ([email redacted])--Took awhile shipping from Australia to Oregon. Andreas Kalcker has a very informative website. Plus, I found lots of folks on Telegram who talked about using MMS/CDS with great results. I did a lot of research before trying. I chose to use the CDS (activated solution) vs the MMS that requires you to mix the sodium chlorite with HCL. It does feel pretty amazing. If we lived next door, I'd bring you some because I believe it would help you.
 
 ### Penny — 2021-07-27T02:14:10+0300
 **Source:** <https://forum.jackkruse.com/threads/mms-chlordioxide.26206/post-301576>
@@ -4767,7 +4767,7 @@ Thanks
 
 > [Alex97232 said:](/goto/post?id=301574)
 >
-> Hope you are feeling better. I forgot last night (tired) to mention that the CDS I've used is shipped from Australia. You can write to them at "[support@healthy-action.com](mailto:support@healthy-action.com)". I ordered from them (info@mmshealthy4life.com)--Took awhile shipping from Australia to Oregon. Andreas Kalcker has a very informative website. Plus, I found lots of folks on Telegram who talked about using MMS/CDS with great results. I did a lot of research before trying. I chose to use the CDS (activated solution) vs the MMS that requires you to mix the sodium chlorite with HCL. It does feel pretty amazing. If we lived next door, I'd bring you some because I believe it would help you.
+> Hope you are feeling better. I forgot last night (tired) to mention that the CDS I've used is shipped from Australia. You can write to them at "[[email redacted]](mailto:[email redacted])". I ordered from them ([email redacted])--Took awhile shipping from Australia to Oregon. Andreas Kalcker has a very informative website. Plus, I found lots of folks on Telegram who talked about using MMS/CDS with great results. I did a lot of research before trying. I chose to use the CDS (activated solution) vs the MMS that requires you to mix the sodium chlorite with HCL. It does feel pretty amazing. If we lived next door, I'd bring you some because I believe it would help you.
 
 thanks Alex - I will check it out and let you know.
 
@@ -10226,7 +10226,7 @@ Hello ,
 I’m traveling to San Francisco sep27 til oct01
 Looking forward to meet great people
 this my
-email [8steveguz@gmail.com](mailto:8steveguz@gmail.com)
+email [[email redacted]](mailto:[email redacted])
 Phone: 7038269868
 
 
@@ -10243,7 +10243,7 @@ Hello ,
 I’m traveling to San Francisco sep27 til oct01
 Looking forward to meet great people
 this my
-email [8steveguz@gmail.com](mailto:8steveguz@gmail.com)
+email [[email redacted]](mailto:[email redacted])
 Phone: 7038269868
 
 
@@ -10260,7 +10260,7 @@ Hello ,
 I’m traveling to San Francisco sep27 til oct01
 Looking forward to meet great people
 this my
-email [8steveguz@gmail.com](mailto:8steveguz@gmail.com)
+email [[email redacted]](mailto:[email redacted])
 Phone: 7038269868
 
 
@@ -10521,7 +10521,7 @@ I’ve submitted support tickets and gotten no response. Still waiting to hear b
 ### Kari Dunlop — 2022-05-26T21:57:16+0300
 **Source:** <https://forum.jackkruse.com/threads/how-do-i-access-the-private-facebook-group.26501/post-313176>
 
-I had to email [info@kruseatdestin.com](mailto:info@kruseatdestin.com) with the email address I use to log into Facebook and was then emailed an invite to join the group.
+I had to email [[email redacted]](mailto:[email redacted]) with the email address I use to log into Facebook and was then emailed an invite to join the group.
 
 ### Support — 2022-05-31T17:38:41+0300
 **Source:** <https://forum.jackkruse.com/threads/how-do-i-access-the-private-facebook-group.26501/post-313256>
@@ -10532,7 +10532,7 @@ I had to email [info@kruseatdestin.com](mailto:info@kruseatdestin.com) with the 
 
 It's a private FB group - you can't subscribe to it, you must be invited.
 
-You can do this by sending your email associated with your Facebook account to [info@kruseatdestin.com](mailto:info@kruseatdestin.com). An invite will be sent to you for the Facebook Group that is related to your membership level.
+You can do this by sending your email associated with your Facebook account to [[email redacted]](mailto:[email redacted]). An invite will be sent to you for the Facebook Group that is related to your membership level.
 
 ### Support — 2022-05-31T17:39:20+0300
 **Source:** <https://forum.jackkruse.com/threads/how-do-i-access-the-private-facebook-group.26501/post-313257>
@@ -10543,7 +10543,7 @@ You can do this by sending your email associated with your Facebook account to [
 >
 > Is this group still an option? If so could someone let me know how to find it. Thanks heaps
 
-You can do this by sending your email associated with your Facebook account to [info@kruseatdestin.com](mailto:info@kruseatdestin.com). An invite will be sent to you for the Facebook Group that is related to your membership level.
+You can do this by sending your email associated with your Facebook account to [[email redacted]](mailto:[email redacted]). An invite will be sent to you for the Facebook Group that is related to your membership level.
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -12824,7 +12824,7 @@ This is exactly the effect I am looking for in my wife. Was it while wearing the
 ### JanSz — 2022-02-01T02:54:21+0200
 **Source:** <https://forum.jackkruse.com/threads/red-light-panels.26557/post-309389>
 
-> [gene@kalmens.org said:](/goto/post?id=309388)
+> [[email redacted] said:](/goto/post?id=309388)
 >
 > You said,
 > "Ended with recommendation of much longer exposure time and (surprising) healing of his macula, because he was looking directly at the light."
@@ -12872,7 +12872,7 @@ Also, we will have a conversation with her retina specialist MD about starting t
 ### JanSz — 2022-02-01T14:03:33+0200
 **Source:** <https://forum.jackkruse.com/threads/red-light-panels.26557/post-309407>
 
-> [gene@kalmens.org said:](/goto/post?id=309401)
+> [[email redacted] said:](/goto/post?id=309401)
 >
 > Thank you, [@JanSz](https://forum.jackkruse.com/members/933/), for all your advice and support! We are moving in the right direction. My concern continues to be with overdosing. It is a big change for my wife, who used to ridicule all these circadian-friendly practices. Her diagnosis made her rethink everything in one day, but I still need to instill this knowledge in her little by little. Luckily, she is now quite receptive to these ideas. We'll get there. As far as webinars, I am a patreon only. It was my big mistake not to become a member a long time ago, although when I tried more than once, the confirmation email never arrived. Definitely joining now.
 > Until we have this light therapy all set up at home, she goes to a red light salon 3 days a week, using a regimen that the red light bed developer recommended, but I am skeptical about its usefulness.
@@ -12895,7 +12895,7 @@ Non-member can't get to that place, so without the personal involvement of a sup
 
 [@caroline](https://forum.jackkruse.com/members/888/) who is a member, for whatever reason ceased being a member.
 Fife minutes later, she wants to renew her membership, no luck.
-Audrey, if you read this, possibly you may help [gene@kalmens.org](mailto:gene@kalmens.org)
+Audrey, if you read this, possibly you may help [[email redacted]](mailto:[email redacted])
 he wants to become a member, knocks on the door, nobody answers.
 
 .........
@@ -12904,7 +12904,7 @@ Also, when you pay, use a credit card with the farthest expiration day (and hope
 ### JanSz — 2022-02-01T14:28:38+0200
 **Source:** <https://forum.jackkruse.com/threads/red-light-panels.26557/post-309409>
 
-Still another story [@gene@kalmens.org](https://forum.jackkruse.com/members/246/)
+Still another story [@[email redacted]](https://forum.jackkruse.com/members/246/)
 When you are a member, and [@Jack Kruse](https://forum.jackkruse.com/members/1031/) decides to do Powwow,
 then you get an email about it.
 If you decide to participate, you must respond.
@@ -13361,7 +13361,7 @@ Jim Humble
 with Cari Lloyd
 Published by
 James V. Humble
-[sales@jhbooks.org](mailto:sales@jhbooks.org)
+[[email redacted]](mailto:[email redacted])
 
 ### JanSz — 2021-12-04T23:36:51+0200
 **Source:** <https://forum.jackkruse.com/threads/is-osteoporosis-reversible.26587/post-307068>
@@ -13373,7 +13373,7 @@ James V. Humble
 > with Cari Lloyd
 > Published by
 > James V. Humble
-> [sales@jhbooks.org](mailto:sales@jhbooks.org)
+> [[email redacted]](mailto:[email redacted])
 
 Thank you.
 Would you mind figuring it all out, (and writing it here)
@@ -21276,7 +21276,7 @@ I just tried.
 To get there you need to be a member with a valid password.
 ...........
 
-Jack Kruse <support@jackkruse.com>
+Jack Kruse <[email redacted]>
 
 From above e-mail I just got that
 monthly PowWow with Dr. Kruse...see details below:
@@ -21375,7 +21375,7 @@ From post #4
 
 I will have our tech team take a look at that link as there is no ticket in our system from you.
 
-If you email me directly at [info@kruseatdestin.com](mailto:info@kruseatdestin.com) I'll get you situated right away!
+If you email me directly at [[email redacted]](mailto:[email redacted]) I'll get you situated right away!
 
 ### JanSz — 2022-01-19T15:50:47+0200
 **Source:** <https://forum.jackkruse.com/threads/how-do-i-change-my-credit-card-information.26796/post-308935>
@@ -21384,7 +21384,7 @@ If you email me directly at [info@kruseatdestin.com](mailto:info@kruseatdestin.c
 >
 > I will have our tech team take a look at that link as there is no ticket in our system from you.
 >
-> If you email me directly at [info@kruseatdestin.com](mailto:info@kruseatdestin.com) I'll get you situated right away!
+> If you email me directly at [[email redacted]](mailto:[email redacted]) I'll get you situated right away!
 
 [@caroline](https://forum.jackkruse.com/members/888/)
 
@@ -21397,7 +21397,7 @@ If you email me directly at [info@kruseatdestin.com](mailto:info@kruseatdestin.c
 >
 > I will have our tech team take a look at that link as there is no ticket in our system from you.
 >
-> If you email me directly at [info@kruseatdestin.com](mailto:info@kruseatdestin.com) I'll get you situated right away!
+> If you email me directly at [[email redacted]](mailto:[email redacted]) I'll get you situated right away!
 
 [@Support](https://forum.jackkruse.com/members/1/)
 
@@ -21406,7 +21406,7 @@ most likely here:
 [Contact Us | Jack Kruse Optimal Health Forum](https://forum.jackkruse.com/index.php?misc/contact)
 
 or
-Jack Kruse <support@jackkruse.com>
+Jack Kruse <[email redacted]>
 
 So, most likely it will be a good idea to check why that is not working. **(And make sure that it is operational.)**
 
@@ -22098,7 +22098,7 @@ From vaccines that were build using peanuts proteins.
 Here's potential ways to contact Tom Cowan:
 [https://drtomcowan.com/pages/contact-us](https://drtomcowan.com/pages/contact-us)
 [https://www.facebook.com/DrTomCowan/](https://www.facebook.com/DrTomCowan/)
-[info@humanheartcosmicheart.com](mailto:info@humanheartcosmicheart.com)
+[[email redacted]](mailto:[email redacted])
 
 The fever as therapy was the most fascinating thing for me from this talk as well.
 Don't know anything more than what he says in his talk.
@@ -22123,7 +22123,7 @@ Don't know anything more than what he says in his talk.
 > Here's potential ways to contact Tom Cowan:
 > [https://drtomcowan.com/pages/contact-us](https://drtomcowan.com/pages/contact-us)
 > [https://www.facebook.com/DrTomCowan/](https://www.facebook.com/DrTomCowan/)
-> [info@humanheartcosmicheart.com](mailto:info@humanheartcosmicheart.com)
+> [[email redacted]](mailto:[email redacted])
 >
 > The fever as therapy was the most fascinating thing for me from this talk as well.
 > Don't know anything more than what he says in his talk.
@@ -25028,7 +25028,7 @@ The more volunteers who participate in the project, the more informed and reliab
 \- You have been diagnosed with EHS by a doctor, or
 \- You have been evaluated by a physician but have not been diagnosed with EHS
 
-and are interested in participating in this EHS project, please contact Professor Leszczynski at: [blogbrhp@gmail.com](mailto:blogbrhp@gmail.com). You can also fill out the attached questionnaire and send it to Professor Leszczynski.
+and are interested in participating in this EHS project, please contact Professor Leszczynski at: [[email redacted]](mailto:[email redacted]). You can also fill out the attached questionnaire and send it to Professor Leszczynski.
 
 \* Prof. Dariusz Leszczynski is former head of the Radiation Biology Laboratory of STUK, the Finnish Radiation Safety Authority and member of many international commissions.
 
@@ -30915,7 +30915,7 @@ DTS
 Give your Mom 12 pills/day
 It comes from Japan, takes rather long time to come.
 One box =240 pills, good for 20 days. Order 5 or 10 boxes at the time.
-contact us by email (support@kyotsujigyo.net) or WhatsApp (+852 9457 6272).
+contact us by email ([email redacted]) or WhatsApp (+852 9457 6272).
 [https://kyotsujigyo.net/](https://kyotsujigyo.net/)
 
 About kidneys
@@ -33261,14 +33261,14 @@ This is such a wonderful idea! Will add to resources for my clients. Thank you, 
 >
 > This is such a wonderful idea! Will add to resources for my clients. Thank you, Rusty!
 
-Thank you, NF. Appreciate it. I do have an affiliate program if you're interested. Please send me a DM or mail me at : [rusty@solarpowe.red](mailto:rusty@solarpowe.red)
+Thank you, NF. Appreciate it. I do have an affiliate program if you're interested. Please send me a DM or mail me at : [[email redacted]](mailto:[email redacted])
 
 ### 8Phoenix — 2023-10-30T14:56:28+0200
 **Source:** <https://forum.jackkruse.com/threads/making-an-iphone-tool-to-block-all-nnemf-easily.27434/post-327661>
 
 > [Rusty said:](/goto/post?id=325021)
 >
-> Thank you, NF. Appreciate it. I do have an affiliate program if you're interested. Please send me a DM or mail me at : [rusty@solarpowe.red](mailto:rusty@solarpowe.red)
+> Thank you, NF. Appreciate it. I do have an affiliate program if you're interested. Please send me a DM or mail me at : [[email redacted]](mailto:[email redacted])
 
 Hello can this work for IPad Pro 12.9 5th gen model A2379
 
@@ -33326,7 +33326,7 @@ This look greatI I am going to purchase. So can I now listen to dowloaded podcas
 
 > [Rusty said:](/goto/post?id=325021)
 >
-> Thank you, NF. Appreciate it. I do have an affiliate program if you're interested. Please send me a DM or mail me at : [rusty@solarpowe.red](mailto:rusty@solarpowe.red)
+> Thank you, NF. Appreciate it. I do have an affiliate program if you're interested. Please send me a DM or mail me at : [[email redacted]](mailto:[email redacted])
 
 me too! I would like all my patients to have this!
 
@@ -33341,7 +33341,7 @@ But this seems like an easy win. Will take a look!
 
 > [Rusty said:](/goto/post?id=325021)
 >
-> Thank you, NF. Appreciate it. I do have an affiliate program if you're interested. Please send me a DM or mail me at : [rusty@solarpowe.red](mailto:rusty@solarpowe.red)
+> Thank you, NF. Appreciate it. I do have an affiliate program if you're interested. Please send me a DM or mail me at : [[email redacted]](mailto:[email redacted])
 
 This look greatI I am going to purchase. So can I now listen to dowloaded podcasts with my wired headphones with aeroplane mode on? Also, is it unsafe to do calls with wired headphones?
 
@@ -42269,7 +42269,7 @@ Here are some services I can provide:
 \*vehicle inspection
 \*office/workplace inspection
 
-If you have interest in this, please send me an email: [**help@optimaldwellingspaces.com**](mailto:help@optimaldwellingspaces.com) with the following info:
+If you have interest in this, please send me an email: [**[email redacted]**](mailto:[email redacted]) with the following info:
 \-Service(s) you are interested in
 
 \*\*If interested in a home service, please answer the following\*\*
@@ -51046,7 +51046,7 @@ We stock MC Cable in a variety of gauge sizes for your electrical needs. Availab
 ### Anthony Smith — 2023-09-11T22:18:43+0300
 **Source:** <https://forum.jackkruse.com/threads/electrical-cord-shielding.28165/post-326256>
 
-> [gene@kalmens.org said:](/goto/post?id=326230)
+> [[email redacted] said:](/goto/post?id=326230)
 >
 > I am looking for ways to wrap plugged in electrical cords in some shielding material, to lower the EMF they produce. I haven't found an existing thread about it. [@Anthony Smith](https://forum.jackkruse.com/members/26765/) and [@ShaneR](https://forum.jackkruse.com/members/26002/) , do you have any recommendations? Thank you!
 
@@ -51086,7 +51086,7 @@ Thank you, Shane! I will give SafeWrap a try!
 ### Anthony Smith — 2023-09-12T04:00:07+0300
 **Source:** <https://forum.jackkruse.com/threads/electrical-cord-shielding.28165/post-326270>
 
-> [gene@kalmens.org said:](/goto/post?id=326268)
+> [[email redacted] said:](/goto/post?id=326268)
 >
 > Thank you, Anthony! I am already your customer, so I have a BVK. Is there a manual for the included meter, so I can try its modes other than AC?
 

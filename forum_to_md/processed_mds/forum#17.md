@@ -620,7 +620,7 @@ And I'm 5'3 and if I were 63Kg I'd be doingÂ a happy dance!Â  How much do yo
 ### vkiernan — 2012-12-18T14:15:33+0200
 **Source:** <https://forum.jackkruse.com/threads/which-protocol.5205/post-67821>
 
-> **laurenraso@gmail.com said**
+> **[email redacted] said**
 > I was wondering which protocol I should begin if I have
 >
 > adrenal fatigue,Â leaky gut and leptin resistance?
@@ -1059,7 +1059,7 @@ We'll see how things go tonight....Â
 **Subforum:** Meet and Greet
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### sumadu@sbcglobal.net — 2012-12-18T11:04:11+0200
+### [email redacted] — 2012-12-18T11:04:11+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-northern-california.5209/post-67806>
 
 I'm Susan and I'm a 42 year old lady from NorCal. I'm here because I'm always on a quest to improve my diet and get healthy, but this year I have completely fallen off the good health wagon and I'm desperately trying to get back on.
@@ -1742,7 +1742,7 @@ I know exactly how you feel Caroline. My children are not coming home this Chris
 ### caroline — 2012-12-19T19:52:39+0200
 **Source:** <https://forum.jackkruse.com/threads/strategies-for-christmas.5213/post-68003>
 
-> **c.adler@colostrum.de said**
+> **[email redacted] said**
 > I know exactly how you feel Caroline. My children are not coming home this Christmas, so I am staying with some friends. I just told them what I can eat and what not and so we worked out a plan. I bring my own food and something to share with them which is really good. Then I make a cake they can eat but not me. I have not eaten eggs in 4 months because I am highly sensitive (IgG4) and I have been longing to eat eggs so much. I dream about an omlette. Now I complained to my doctor about how hard I find this and he recommended me to eat quail eggs. I checked in the internet and found an organic farmer who ships these eggs like on a regular basis to his customers. Now I am so happy. So now I can have my BAB with bacon and eggs. This is true Christmas for me. I have now lost 25 kg (55 pounds) in the last 4 months and want to lose another 50 pounds within the next 4 months. So I am clear on my goal and no-one (except myself) can lead me astray, not even an invitation for Christmas dinner. If I can do it and I have a history of 60 years of obesity (I was already fat when I was a baby) you can do it too. People understand and if they don't then it is their problem, not yours. I know that we do not want to be rude, but I rather be rude than put my health and wellbeing in jeopardy. I am 60 years old now and I feel I have no more time to waste to make the wrong choices out of the wrong reasons. And I know from past experiences (more than I wish to remember) how it weakens my resolve when I give in to a moment of neglect of my goal. So think of you when you go there and how much of a delight you are to others when you are happy with yourself.
 
 Thankyou so much for that. Â I made a cake and some cookies yesterday for friends but it seemed so gross! Â Good friends do understand but they still think you are kind of weird. Â Everyone is absolutely convinced that a little of this or that won't hurt you and you \[I \] am just being silly and stubborn. Â Maybe I will just embrace being weird! Â  Â I feel as you do - I am this age \[don't know how that happened by the way\] and I have no more time to waste
@@ -2054,7 +2054,7 @@ Karen from Arizona
 ### freshveggies — 2012-12-19T12:03:08+0200
 **Source:** <https://forum.jackkruse.com/threads/started-bhrt-today-here-we-go.5224/post-67957>
 
-> **mafixit@osoh.com said
+> **[email redacted] said
 >
 > > freshveggies said
 >
@@ -2274,7 +2274,7 @@ Another lab you might ask about is the Berkley Heart Lab - [http://www.bhlinc.co
 **Subforum:** Meet and Greet
 **Posts:** 9
 ══════════════════════════════════════════════════════════════════════
-### chutton1@gmail.com — 2012-12-19T19:18:51+0200
+### [email redacted] — 2012-12-19T19:18:51+0200
 **Source:** <https://forum.jackkruse.com/threads/houston.5229/post-67993>
 
 Hello, I'm from Houston....I have 100lbs to lose (Yeahhh...I know.......). I've been looking at paleo recipes/information all week and am considering a permanent lifestyle change.
@@ -2721,12 +2721,12 @@ Hey, however we get them down...as long as we get them down. If anything happens
 **Subforum:** The Epi-Paleo Diet
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### trishalinn@gmail.com — 2012-12-21T13:02:26+0200
+### [email redacted] — 2012-12-21T13:02:26+0200
 **Source:** <https://forum.jackkruse.com/threads/eggnog.5239/post-68124>
 
 I realize this recipe isn't 100% optimal, but it's way better than the store bought stuff! If you're looking for a little holiday treat you can check out this recipe I made.Â http://intoxicatedonlife.com/2012/12/21/low-carb-eggnog/
 
-### trishalinn@gmail.com — 2012-12-21T16:48:25+0200
+### [email redacted] — 2012-12-21T16:48:25+0200
 **Source:** <https://forum.jackkruse.com/threads/eggnog.5239/post-68142>
 
 woops, just realized this should have gone in the recipes thread!
@@ -3181,7 +3181,7 @@ I love your enthusiasm Thor! Living on the edge.. nice.. The old self must die..
 **Subforum:** The New Monster Thread
 **Posts:** 14
 ══════════════════════════════════════════════════════════════════════
-### seanb4@hotmail.co.uk — 2012-12-23T07:38:08+0200
+### [email redacted] — 2012-12-23T07:38:08+0200
 **Source:** <https://forum.jackkruse.com/threads/constipation-bloating-and-orangey-red-stools.5249/post-68233>
 
 Hi Guys,
@@ -3203,7 +3203,7 @@ If you have been constipated for a while, you might see some fairly intense reac
 
 There are some 'occult blood' fecal tests I believe.Â  You might want to take one of those, just to be sure.
 
-### seanb4@hotmail.co.uk — 2012-12-23T14:47:57+0200
+### [email redacted] — 2012-12-23T14:47:57+0200
 **Source:** <https://forum.jackkruse.com/threads/constipation-bloating-and-orangey-red-stools.5249/post-68252>
 
 Had constipation and bloating for ages and tried all kinds of diets that should produce die-off and almost non is produced.
@@ -3213,7 +3213,7 @@ Been eating low carb and paleo for 2 years now.
 ### nonchalant — 2012-12-23T16:18:20+0200
 **Source:** <https://forum.jackkruse.com/threads/constipation-bloating-and-orangey-red-stools.5249/post-68256>
 
-> **seanb4@hotmail.co.uk said**
+> **[email redacted] said**
 > Had constipation and bloating for ages and tried all kinds of diets that should produce die-off and almost non is produced.
 >
 > Been eating low carb and paleo for 2 years now.
@@ -3233,7 +3233,7 @@ Try Inger's Mackeral head smoothie. Â .... like nonchalant said Â - you need
 > **Nonchalant said
 >
 >
-> > seanb4@hotmail.co.uk said
+> > [email redacted] said
 >
 > **
 >
@@ -3259,7 +3259,7 @@ I think I almost preferred when I wasn't getting it...I don't know...
 >
 > > **Nonchalant said**
 > >
-> > > seanb4@hotmail.co.uk said
+> > > [email redacted] said
 >
 > **
 >
@@ -3330,7 +3330,7 @@ I also hope things continue to go well for you. I hope your gut shapens up and s
 
 p.s. When I was buying my ox bile I felt really bad for this older lady. I couldn't tell her age properly but she looked like death. Her voice was so scratchy and like a man. She was super thin and I don't know if she had some kind of cancer or something....(but had hair). Her hands were all bruised from probably IV etc. I felt so bad for her.
 
-### seanb4@hotmail.co.uk — 2013-01-17T08:23:41+0200
+### [email redacted] — 2013-01-17T08:23:41+0200
 **Source:** <https://forum.jackkruse.com/threads/constipation-bloating-and-orangey-red-stools.5249/post-71192>
 
 > **MamaGrok said**
@@ -4267,7 +4267,7 @@ There is no doubt hormones fix themselves when we adhere to epi paleo diet, circ
 
 Thor,Â  I sent you a PM.Â  Did you receive it?
 
-### edrice@cox.net — 2012-12-27T22:08:30+0200
+### [email redacted] — 2012-12-27T22:08:30+0200
 **Source:** <https://forum.jackkruse.com/threads/iron-overload-hemochromatosis.5262/post-68550>
 
 High iron and hemochromatosis have been on my project list for a while now, but I have had some success in reducing free iron.
@@ -4536,7 +4536,7 @@ Thanks for the inspiration:Â  I just made a pot of soup using the veggies you 
 ### furface — 2012-12-27T16:49:20+0200
 **Source:** <https://forum.jackkruse.com/threads/just-made-a-super-easy-super-delicious-kick-ass-homemade-clam-chowder-cream-of-mushroom-soup.5267/post-68527>
 
-> **mfairchild@q.com said**
+> **[email redacted] said**
 > Furface,
 >
 > Thanks for the inspiration:Â  I just made a pot of soup using the veggies you suggested, cream and a bag of mixed seafood that I had languishing in the freezer.Â  After sauteing the veggies, I broke the pan with 1/3 c of white wine and added some dried shallots.Â  It was wonderful and perfect on this cold afternoon.
@@ -4562,7 +4562,7 @@ Your seafood chowder sounds delish!
 ### furface — 2012-12-27T18:08:07+0200
 **Source:** <https://forum.jackkruse.com/threads/just-made-a-super-easy-super-delicious-kick-ass-homemade-clam-chowder-cream-of-mushroom-soup.5267/post-68534>
 
-> **mfairchild@q.com said
+> **[email redacted] said
 >
 > > furface said
 >
@@ -5579,7 +5579,7 @@ Apolipoprotein A1: 161Â mg/dL (115-224)Â
 ### Destiny — 2012-12-28T07:58:06+0200
 **Source:** <https://forum.jackkruse.com/threads/hack-my-labs-please.5274/post-68572>
 
-**klein.bobbi@gmail.com said**
+**[email redacted] said**
 I just got all of my labs back from the doctor today. Here is some background information. I have leaky gut. Hormones are out of whack, haven't ovulated for 2 years, and the doctor wants to put me on BHRT, which I'll start next week. Also I have gained 45 pounds in less than 3 months without changing diet & exercise. I'm ready to be optimal and get this excess weight off. I have been eating epi-paleo, doing CT, and taking NAC, Vit. C, Zinc, Curcumin, Resveratrol, Vit. D3, Milk Thistle, and digestive enzymes. All help is greatly appreciated. Any thoughts on exercise?Â 
 
 Blood Tests with reference numbers
@@ -6107,7 +6107,7 @@ Thanks JanSz! I have a pituitary MRI on Monday and should know the results by We
 ### Destiny — 2012-12-29T15:42:51+0200
 **Source:** <https://forum.jackkruse.com/threads/hack-my-labs-please.5274/post-68687>
 
-> **klein.bobbi@gmail.com said**
+> **[email redacted] said**
 > Thanks for your input Destiny! The urinary hormone test is from Meridian Valley Lab. It's the ComprehensivePLUS Hormone Profile with hGH. I am waiting for a few more lab results to come in before I schedule a consult with Dr. Kruse.Â 
 >
 >
@@ -6159,7 +6159,7 @@ http://www.allthingsmale.com/forum/showthread.php?20061-Dr.-Patricia-Kane
 ### Destiny — 2012-12-30T11:12:39+0200
 **Source:** <https://forum.jackkruse.com/threads/hack-my-labs-please.5274/post-68737>
 
-> **klein.bobbi@gmail.com said**
+> **[email redacted] said**
 > Destiny, I believe it cost $370. Yes, I am young to be going through this, but I had an emergency colon resection 2 years ago (~ 12 inches removed) and have not found a concrete cause and cure since. Some say ischemic colitis, others ulcerative colitis; now, it's time to have an answer and solution.Â 
 >
 >
@@ -6755,7 +6755,7 @@ Inger I hope your stress resolves soon. Glad to see that you are able to enjoy y
 **Subforum:** Optimal Labs
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### trishalinn@gmail.com — 2012-12-28T17:39:03+0200
+### [email redacted] — 2012-12-28T17:39:03+0200
 **Source:** <https://forum.jackkruse.com/threads/twins-with-fevers-what-do-these-labs-tell-me.5278/post-68619>
 
 So, I've written elsewhere on the forums about my twins who have been having periodic fevers with no other symptoms for close to a year now. They have fevers about every 4-6 weeks. They don't always spike fevers at the same time, but sometime they are close to the same time. Anyhow, I've been referred to MANY specialists. Recently I've been seeing 2 different Pediatric Rheumatologist and they both have given me the same opinion - they think that we are dealing with a class of genetic diseases called "Periodic Fever Syndrome." They both want us to getting testing on the boys to see if they are one of the types that have been isolated, but they are both skeptical that this will happen because my boys don't have the other typical symptoms that accompany these known periodic fever syndromes.Â 
@@ -6820,7 +6820,7 @@ http://www.aafp.org/afp/2003/0215/p863.html
 
 Good luck! I hope your babies are better soon.
 
-### trishalinn@gmail.com — 2012-12-29T21:58:09+0200
+### [email redacted] — 2012-12-29T21:58:09+0200
 **Source:** <https://forum.jackkruse.com/threads/twins-with-fevers-what-do-these-labs-tell-me.5278/post-68710>
 
 > **kathylu said**
@@ -7217,7 +7217,7 @@ If anyone has heard anything about raw apple cider vinegar being bad for a leaky
 **Subforum:** The New Monster Thread
 **Posts:** 11
 ══════════════════════════════════════════════════════════════════════
-### seanb4@hotmail.co.uk — 2012-12-29T12:38:16+0200
+### [email redacted] — 2012-12-29T12:38:16+0200
 **Source:** <https://forum.jackkruse.com/threads/long-fasting.5284/post-68664>
 
 Hi guys,
@@ -7237,7 +7237,7 @@ Thanks, Sean.
 
 long fasting will improve autophagy efficiency......but after a few days bad things ensue.
 
-### seanb4@hotmail.co.uk — 2012-12-30T11:36:24+0200
+### [email redacted] — 2012-12-30T11:36:24+0200
 **Source:** <https://forum.jackkruse.com/threads/long-fasting.5284/post-68739>
 
 Hi Jack, What kind of bad things we talking about here?
@@ -7245,12 +7245,12 @@ Hi Jack, What kind of bad things we talking about here?
 ### Jack Kruse — 2012-12-31T13:40:33+0200
 **Source:** <https://forum.jackkruse.com/threads/long-fasting.5284/post-68831>
 
-> **seanb4@hotmail.co.uk said**
+> **[email redacted] said**
 > Hi Jack, What kind of bad things we talking about here?
 
 Long term fasting has another name.........called starvation. Â Not good.
 
-### seanb4@hotmail.co.uk — 2012-12-31T13:59:24+0200
+### [email redacted] — 2012-12-31T13:59:24+0200
 **Source:** <https://forum.jackkruse.com/threads/long-fasting.5284/post-68837>
 
 I plan on stopping the fast as soon as I get hungry but currently I am not hungry at all. This suggests that my body does not want food currently as it's energy is currently being used for detox/healing... any thoughts on this?
@@ -7268,7 +7268,7 @@ After a while I was never hungry again, but it did do damage. What I remember wa
 So in the end I can say that the fasting did not resolve anything, but contributed to the already existing problems.
 I think that a sensible epi-paleo diet will resolve your issues effectively.
 
-### seanb4@hotmail.co.uk — 2013-01-03T05:17:43+0200
+### [email redacted] — 2013-01-03T05:17:43+0200
 **Source:** <https://forum.jackkruse.com/threads/long-fasting.5284/post-69104>
 
 > **Charlotte said**
@@ -7284,7 +7284,7 @@ I have been eating epi-paleo for a while, done cold thermogenesis and many many 
 
 I will definitely not go to 10 weeks, 4 weeks will probably be my max!
 
-### seanb4@hotmail.co.uk — 2013-01-03T05:18:20+0200
+### [email redacted] — 2013-01-03T05:18:20+0200
 **Source:** <https://forum.jackkruse.com/threads/long-fasting.5284/post-69105>
 
 > **Jack Kruse said**
@@ -7301,7 +7301,7 @@ Yes, all I did in that respect was always for weight loss. I do not have any ser
 What just came to my mind is if you might have a problem with heliobacter?
 I think that you need to do the labs and have a consult to clear that up.
 
-### seanb4@hotmail.co.uk — 2013-01-03T08:14:44+0200
+### [email redacted] — 2013-01-03T08:14:44+0200
 **Source:** <https://forum.jackkruse.com/threads/long-fasting.5284/post-69115>
 
 > **Charlotte said**
@@ -7799,7 +7799,7 @@ I wish everyone on the forum a very happy New Year and my thanks for your genero
 **Subforum:** The New Monster Thread
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### seanb4@hotmail.co.uk — 2012-12-31T08:30:06+0200
+### [email redacted] — 2012-12-31T08:30:06+0200
 **Source:** <https://forum.jackkruse.com/threads/fasting-and-gut-flora.5297/post-68803>
 
 Hi,
@@ -7819,7 +7819,7 @@ Thanks for any input, Sean.
 
 Lots of bio-films and diverticulitis may be part of the problem. Forget about "cures". Follow the protocols as outlined in this forum. Big health problems take time to heal.
 
-### seanb4@hotmail.co.uk — 2012-12-31T13:09:00+0200
+### [email redacted] — 2012-12-31T13:09:00+0200
 **Source:** <https://forum.jackkruse.com/threads/fasting-and-gut-flora.5297/post-68821>
 
 > **Jonathin said**
@@ -7836,7 +7836,7 @@ I have tried protocols before to remove bio-films involving coconut oil, mineral
 **Subforum:** The New Monster Thread
 **Posts:** 5
 ══════════════════════════════════════════════════════════════════════
-### seanb4@hotmail.co.uk — 2012-12-31T08:39:01+0200
+### [email redacted] — 2012-12-31T08:39:01+0200
 **Source:** <https://forum.jackkruse.com/threads/gnawing-sensation-early-morning.5298/post-68804>
 
 Hi,
@@ -7854,7 +7854,7 @@ All comments areÂ appreciated!
 ### Jack Kruse — 2012-12-31T13:37:26+0200
 **Source:** <https://forum.jackkruse.com/threads/gnawing-sensation-early-morning.5298/post-68829>
 
-> **seanb4@hotmail.co.uk said**
+> **[email redacted] said**
 > Hi,
 >
 > Sorry for creating so many topics. Just trying to sponge up as much info as possible!
@@ -7871,7 +7871,7 @@ All comments areÂ appreciated!
 >
 > It means you likely have a dairy issue......could be a mild issue......could be a methylation issue, could be a BCM 7 issue, could be a lot in between......the smart play is avoid it and see how you do.......and if you add dairy back start with high fat low casein/whey dairy first like heavy cream.
 
-### seanb4@hotmail.co.uk — 2012-12-31T13:56:14+0200
+### [email redacted] — 2012-12-31T13:56:14+0200
 **Source:** <https://forum.jackkruse.com/threads/gnawing-sensation-early-morning.5298/post-68835>
 
 Hi Jack, don't think it is a dairy issue as I have cut out all dairy, gluten, etc for months at a time. Elimination diets have done nothing for me!
@@ -7879,12 +7879,12 @@ Hi Jack, don't think it is a dairy issue as I have cut out all dairy, gluten, et
 ### Jack Kruse — 2012-12-31T14:39:10+0200
 **Source:** <https://forum.jackkruse.com/threads/gnawing-sensation-early-morning.5298/post-68842>
 
-> **seanb4@hotmail.co.uk said**
+> **[email redacted] said**
 > Hi Jack, don't think it is a dairy issue as I have cut out all dairy, gluten, etc for months at a time. Elimination diets have done nothing for me!
 
 Elimination is the first step.......then comes removal of inflammation then comes optimization of mitochondrial efficiency.........It is a step wise process. Â The success at each level is not linear because all of our biology is not exactly similar. Â THe labs and hormone panel tell the clinician where you are in the process.
 
-### seanb4@hotmail.co.uk — 2012-12-31T15:57:25+0200
+### [email redacted] — 2012-12-31T15:57:25+0200
 **Source:** <https://forum.jackkruse.com/threads/gnawing-sensation-early-morning.5298/post-68849>
 
 > **Jack Kruse said**
@@ -8763,7 +8763,7 @@ Some times our ability to adapt up to the protein amounts also takes time.......
 **Subforum:** Cold Thermogenesis
 **Posts:** 10
 ══════════════════════════════════════════════════════════════════════
-### mel.boguski@gmail.com — 2013-01-01T16:18:53+0200
+### [email redacted] — 2013-01-01T16:18:53+0200
 **Source:** <https://forum.jackkruse.com/threads/need-to-keep-cold-all-the-time.5310/post-68930>
 
 Hi you guys,
@@ -8867,7 +8867,7 @@ We've had some extreme temps here over Christmas and New Year. An uncharacterist
 **Subforum:** Cold Thermogenesis
 **Posts:** 9
 ══════════════════════════════════════════════════════════════════════
-### mel.boguski@gmail.com — 2013-01-01T16:25:19+0200
+### [email redacted] — 2013-01-01T16:25:19+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-damaging-toes.5311/post-68931>
 
 Have any of you found CT seems to damage your toes? After maybe 2 months of doing CT off an on with cold showers, or swims in the lake (with and without water shoes), I have permanently sore toes and toe nails. There are some with black spots looking in colour like a dark bruise (these have been there over a month). There are dead skin looking scales over some areas, especially the dark parts (I do have toenail fungus too, I think. Is it spreading?). Recently, my toes have started being swollen all the time, and the worst one, a baby toe, is sore with small bumps under the skin.
@@ -12173,7 +12173,7 @@ you know me, impatient.. And grizz repeatedly said you wouldn't absorb what you 
 **Subforum:** Optimal Labs
 **Posts:** 26
 ══════════════════════════════════════════════════════════════════════
-### amber_tyrrell@hotmail.com — 2013-01-03T06:39:47+0200
+### [email redacted] — 2013-01-03T06:39:47+0200
 **Source:** <https://forum.jackkruse.com/threads/vit-d-levels-up-with-naked-sunbathing-also-question-about-crp.5325/post-69110>
 
 I had my vit D levels (with other labs) tested back in Sep and they were at 70 nmol/L range (50 - 150). This was just coming out of winter (southern hemisphere). I had my vit D tested again 3 months later, and it had gone up to 102 and that was with only sunbathing naked for about a month and not every day (obviously only when it was sunny and when I wasn't working). I thought that was quite an impressive increase? What are other people's experiences with naked sunbathing? I've been catching as much rays as I can.
@@ -12278,7 +12278,7 @@ I really gottagetalife!
 
 LOL ... well I don't have one either. It's the stupid computer and the darned internets.
 
-### amber_tyrrell@hotmail.com — 2013-01-03T16:22:51+0200
+### [email redacted] — 2013-01-03T16:22:51+0200
 **Source:** <https://forum.jackkruse.com/threads/vit-d-levels-up-with-naked-sunbathing-also-question-about-crp.5325/post-69203>
 
 Haha!! sometimes its best not to visualise. I hear what you say Inger about discovering how good naked sunbathing is... I can't wait to get out there when it is sunny, but its very hot in the midday sun and we have a hole in the ozone layer over NZ - I guess we get MORE vit d?? I can only do about 10 mins on each side and not get burnt. I love the feeling of the sun hitting my skin, to me it feels like a lovely gentle massage! My 2 teenage daughters have joined me and the 3 of us sunbathe naked, luckily we live in the countryside where no neighbours can see us!
@@ -12314,7 +12314,7 @@ I also believe that as your inflammation comes down your ability to tolerate the
 
 I am really, really trying to think of somewhere to go - my balcony is very public. I can't believe I am even considering this .....talk about progress... after all the years of bad body image...
 
-### amber_tyrrell@hotmail.com — 2013-01-03T19:59:08+0200
+### [email redacted] — 2013-01-03T19:59:08+0200
 **Source:** <https://forum.jackkruse.com/threads/vit-d-levels-up-with-naked-sunbathing-also-question-about-crp.5325/post-69228>
 
 > **caroline said**
@@ -12326,7 +12326,7 @@ I do have a great relationship with my daughters and they have really taken on b
 
 I am very brown now too and the more brown I get the less I burn. I've always associated being tanned as being healthy, as kids we never used sunblock and we were tanned and healthy.
 
-### amber_tyrrell@hotmail.com — 2013-01-03T20:32:08+0200
+### [email redacted] — 2013-01-03T20:32:08+0200
 **Source:** <https://forum.jackkruse.com/threads/vit-d-levels-up-with-naked-sunbathing-also-question-about-crp.5325/post-69235>
 
 Hi Lauren! Wondered where you have been... Did you get my emails? I have to wait until feb for my doctor to get back and then I'm going to her armed with what I have learnt here on this forum and hopefully this time she will do the hsCRP. Why is CRP not a good indication though? Mine was high which makes sense.
@@ -12359,7 +12359,7 @@ LOL, yah, there is something about lying about nude out in the open. I wouldn't 
 
 Wet tea bags should help the sunburn ... tannin helps. Or a bit of aloe. Next time try doing just 10 minutes each side to start. It IS full summer down there right now. It's full winter here, the sun, even at midday, is way low on the horizon so I'm not worried about burning anything except maybe a neighbors eyeballs!
 
-### amber_tyrrell@hotmail.com — 2013-01-04T15:09:12+0200
+### [email redacted] — 2013-01-04T15:09:12+0200
 **Source:** <https://forum.jackkruse.com/threads/vit-d-levels-up-with-naked-sunbathing-also-question-about-crp.5325/post-69325>
 
 > **ashryn said
@@ -12582,7 +12582,7 @@ Now you are the beautiful person on the outside that matches who you always were
 
 MG, anytime you want to visit New Zealand/Middle Earth, my door is open to you and your family. Lauren
 
-### amber_tyrrell@hotmail.com — 2013-01-03T16:34:01+0200
+### [email redacted] — 2013-01-03T16:34:01+0200
 **Source:** <https://forum.jackkruse.com/threads/my-new-years-thanks-to-dr-kruse.5329/post-69204>
 
 Wonderful analogy MamaGrok! I also feel like I have found the shining light in the darkness. BTW My Mum's horse was in LOTR.
@@ -13133,7 +13133,7 @@ Thanks Thor, that was really really interesting. I am just thinking these days a
 
 I like his book "Body By Science". Great advice on how to weight train most effectively.
 
-### docwatt@gmail.com — 2013-01-04T14:41:40+0200
+### [email redacted] — 2013-01-04T14:41:40+0200
 **Source:** <https://forum.jackkruse.com/threads/dr-doug-mcguff-md-anyone-follow-him.5336/post-69322>
 
 I've been following his workout prescription for more than a year. This is in the context of coming off a career of amateur bicycle racing and a very stressful job that has led to trashed adrenals and circadian mis matches. I've seen significant strength gains without siginifcant size gains doing HIT style lifting once every 7 days with little or no other exercise.
@@ -13145,7 +13145,7 @@ Tom
 
 The captioning at the bottom of the video is cracking me up.
 
-### docwatt@gmail.com — 2013-01-08T01:20:18+0200
+### [email redacted] — 2013-01-08T01:20:18+0200
 **Source:** <https://forum.jackkruse.com/threads/dr-doug-mcguff-md-anyone-follow-him.5336/post-69817>
 
 My usual post workout drink is a couple of scoops of whey, Some pure dextrose and 5 grams of Leucine. If this doesn't spike insulin, I don't know what will.
@@ -13157,7 +13157,7 @@ BTW I'm 58 yrs old.
 > **Anna K. said
 >
 >
-> > docwatt@gmail.com said
+> > [email redacted] said
 >
 > **
 >
@@ -13184,7 +13184,7 @@ Me personally? No.......but I know a lot of body builders using CT as an adjunct
 
 I only want strength gains without size. It's best to be un assuming...then when needed you can whip out your powers. lol
 
-### jeanie@truelongmont.com — 2013-01-23T10:15:07+0200
+### [email redacted] — 2013-01-23T10:15:07+0200
 **Source:** <https://forum.jackkruse.com/threads/dr-doug-mcguff-md-anyone-follow-him.5336/post-72494>
 
 > **Zorica Vuletic said**
@@ -13262,7 +13262,7 @@ people need to step away from the image-based concepts of what fitness is
 ### Josh (Paleo Osteo) — 2014-07-19T11:16:53+0300
 **Source:** <https://forum.jackkruse.com/threads/dr-doug-mcguff-md-anyone-follow-him.5336/post-134900>
 
-> [emailornot@gmail.com said:](/goto/post?id=69855)
+> [[email redacted] said:](/goto/post?id=69855)
 >
 > If CT alone was growing muscles, sherpas would look like Arnold Schwarzenegger, but they do not. They are strong, but don't have big muscles.
 
@@ -13792,7 +13792,7 @@ I told her never to compare herself to something less good/worse, but only and a
 (because that is what she did). It hurt me to say it and I saw it hurt her too. But I had to say it. She has a beautiful heart though and listened. But I guess now she have fallen into old pattern again. Because of the pressure of media, family....
 It is too sad - I feel many would change if you hold them on their hands all the way. The just have no power to do it alone. It almost breaks my heart that I am not strong enough yet but one day I will be. Strong enough to carry others. But for now I need to take care of me. Because that I am very capable of. But it is actually all for now, I fear..
 
-### duceswild557@hotmail.com — 2013-01-05T16:56:59+0200
+### [email redacted] — 2013-01-05T16:56:59+0200
 **Source:** <https://forum.jackkruse.com/threads/do-you-think-robb-wolf-or-the-kracken-are-correct.5342/post-69488>
 
 Well, I think that Mat Lalonde brought up some great points but I also think that you brought up some great points. I think that what you guys have in common is that you both want calcium and phosphorus but disagree on the source. Mattie ole' boy says why not milk? while you seem to be more in favor of sourcing it from possibly shellfish. At the end of the day I don't think anyone would argue with you that dairy is superior to fish/shellfish but I do think it is at least somewhat warranted to say that raw grass fed high fat dairy is likely okay for some people. Remember that the Sherpas eat straight butter while they climb Mt. Everest (from the podcast You did on fatburningman.com).
@@ -13814,7 +13814,7 @@ The leadership of the tribe should be questioned just like a foot soldier.
 
 There are repercussions but I am fine with it. In the end actions define who we are not the words people ascribe to us.
 
-### amber_tyrrell@hotmail.com — 2013-01-06T20:36:29+0200
+### [email redacted] — 2013-01-06T20:36:29+0200
 **Source:** <https://forum.jackkruse.com/threads/do-you-think-robb-wolf-or-the-kracken-are-correct.5342/post-69664>
 
 Dr Kruse, I remember reading somewhere that you said not to consume dairy except for French or New Zealand dairy... Has your opinion on that changed? We get milk from my brother a dairy farmer who farms biologically and are NZ grass fed cows. We don't consume much as milk but make cottage cheese quite often. With this context is it still safe to eat or not? I am thinking I should stop the dairy and see what happens?
@@ -14401,7 +14401,7 @@ The authorsâ€™ conclusion:
 
 It is concluded that the activation of peripheral and / or central IO&NS pathways may explain the co-occurrence of depression with the above disorders. This shows that depression belongs to the spectrum of inflammatory disorders.
 
-### duceswild557@hotmail.com — 2013-01-04T22:19:43+0200
+### [email redacted] — 2013-01-04T22:19:43+0200
 **Source:** <https://forum.jackkruse.com/threads/research-inflammation-causes-mental-disease.5345/post-69386>
 
 That's very interesting, especially that they also grouped it together with metabolic syndrome and HIV infection.
@@ -14879,7 +14879,7 @@ With the ACV question, I just put it in a large glass of water before a meal and
 **Subforum:** The New Monster Thread
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### duceswild557@hotmail.com — 2013-01-04T22:13:29+0200
+### [email redacted] — 2013-01-04T22:13:29+0200
 **Source:** <https://forum.jackkruse.com/threads/did-dr-kruse-just-trump-weston-price.5347/post-69385>
 
 Well a lot of people I've come into contact with have turned to the price foundation or paleo based on the work of Weston A. Price. A dentist who travelled the world examining primitives and writing a big ole book on what he found. He said that the mouth was a window to overall health. He found that when people had perfect teeth that they also had good bone structure low rates of tuberculosis, cancer and CHD among other things.
@@ -15694,7 +15694,7 @@ Welcome Sweet Potatoes! Good for you for doing the CT!
 **Subforum:** The New Monster Thread
 **Posts:** 12
 ══════════════════════════════════════════════════════════════════════
-### seanb4@hotmail.co.uk — 2013-01-06T10:57:01+0200
+### [email redacted] — 2013-01-06T10:57:01+0200
 **Source:** <https://forum.jackkruse.com/threads/water-fasting-and-bloating-from-water.5359/post-69580>
 
 Hi guys.
@@ -15718,7 +15718,7 @@ Thanks, Sean.
 
 My gosh .... that sound so worrying ..I hope someone can help.
 
-### seanb4@hotmail.co.uk — 2013-01-06T16:02:27+0200
+### [email redacted] — 2013-01-06T16:02:27+0200
 **Source:** <https://forum.jackkruse.com/threads/water-fasting-and-bloating-from-water.5359/post-69621>
 
 > **caroline said**
@@ -15732,7 +15732,7 @@ Thanks for the concern, me too!
 
 I assume that you have had all kinds of testing and a consult with Jack??
 
-### seanb4@hotmail.co.uk — 2013-01-07T09:35:55+0200
+### [email redacted] — 2013-01-07T09:35:55+0200
 **Source:** <https://forum.jackkruse.com/threads/water-fasting-and-bloating-from-water.5359/post-69728>
 
 > **caroline said**
@@ -15746,7 +15746,7 @@ Can't afford any of that. { "lightbox\_close": "Close", "lightbox\_next": "Next"
 
 Can you not figure out a way to get testing so you won't be out of pocket - at least to start with? like going into emergency at your local hospital? I am worried about you .....somehow - you need to think outside the box and have some professional guidance - you sure don't want to make yourself much worse and then have a really big mountain to climb to get back to health...
 
-### seanb4@hotmail.co.uk — 2013-01-08T05:28:39+0200
+### [email redacted] — 2013-01-08T05:28:39+0200
 **Source:** <https://forum.jackkruse.com/threads/water-fasting-and-bloating-from-water.5359/post-69832>
 
 > **caroline said**
@@ -15760,7 +15760,7 @@ I am seeing a main stream doctor who has no idea what to do. Don't worry about m
 
 so .... can you get your Doc to run tests and them post them here for someone to Hack?
 
-### seanb4@hotmail.co.uk — 2013-01-09T08:20:29+0200
+### [email redacted] — 2013-01-09T08:20:29+0200
 **Source:** <https://forum.jackkruse.com/threads/water-fasting-and-bloating-from-water.5359/post-70036>
 
 > **caroline said**
@@ -15785,7 +15785,7 @@ Basically doctor has said they are going to keep giving me medication until I ca
 I am stumped too, but would like to help somehow.. I suspect good wishes are not much use to you though.. Maybe you could tem
 Ll us what you eat too.. Like what you ate the last two weeks? Dunno if it will help, but there are some really clever people on this site.. Worth a try, no?
 
-### seanb4@hotmail.co.uk — 2013-01-09T15:12:50+0200
+### [email redacted] — 2013-01-09T15:12:50+0200
 **Source:** <https://forum.jackkruse.com/threads/water-fasting-and-bloating-from-water.5359/post-70069>
 
 Started a new topic with pics, check it out and comment guys, thanks a lot!
@@ -16549,7 +16549,7 @@ Oh my Dear Inger ........I haven't laughed that hard in a long time......a bikin
 I wonder why you don't pee as much at nite? I don't either ..... But I have a problem when I drink green tea. You don't have dairy at all now? What about butter?
 With your hot bod ....there is going to be an amazing guy show up and want to make babies with you.........
 
-### amber_tyrrell@hotmail.com — 2013-01-13T06:04:01+0200
+### [email redacted] — 2013-01-13T06:04:01+0200
 **Source:** <https://forum.jackkruse.com/threads/success-youve-seen-in-your-journey-what-have-you-noticed.5375/post-70488>
 
 The biggest thing for me is waking up at 6am feeling like I have had a great sleep and not wanting to roll over and go back to sleep for 2 hours. My husband can testify to this - we have been together for 20 years and he has NEVER seen me get up before him! My nickname used to be Slumber because of my sleeping in in the mornings (I'm ashamed to say). I now get up often before he does and I actually want to go to bed earlier and go to sleep (around 9ish). I was never asleep before midnight before. So learning about circadian rythyms and following it has been amazing, I also no longer get up in the middle of the night to pee - I thought it was because I have had 4 children and I'm not so strong down there anymore, but now I sleep right through.
@@ -17063,7 +17063,7 @@ It was real.. it was me telling it.. and it was good friends of my family that d
 Hahaha! I can't believe you WANT to catch something off a co worker!
 You know you won't, right? Viruses and bacteria only cause disease in people who are already not well.
 
-### amber_tyrrell@hotmail.com — 2013-01-10T05:54:38+0200
+### [email redacted] — 2013-01-10T05:54:38+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-and-influenza-a.5383/post-70131>
 
 I hardly ever get a cold or flu, well maybe once per year I have a cold, and last winter I had the flu for the first time in 9 years. So then 2 days before Xmas I started coming down with a cold and I felt horrible, I remembered Dr Jack saying he seeks the cold when he is sick, so I made sure I did my CT everyday, and the cold just lingered and lingered and it only went away about 3 days ago. Excuse the subject, but the amount of snot that came out of my nose was unbelievable! Perhaps the CT helped me to detox and get a lot of gunk out of my body? That's what I'm telling myself anyway.
@@ -17273,7 +17273,7 @@ Lauren
 
 Dzugan is world wide - if your GP will work with you there's no reason he/she couldn't partner w/Dzugan. there's even a member here on the forum from Peru who uses him.
 give Linda McHale a call Office 866.225.4877 x 302
-or send her an email - lmchale@dzlogic.com
+or send her an email - [email redacted]
 www.dzlogic.com
 
 Let her know what you're looking for - and see if they can help, if your GP will sign the rx - you should be all set - they might even have a Compounding Pharmacy down in NZ that they already use....
@@ -18268,7 +18268,7 @@ I want to try to limit my online time so I can unplug my router for stretches of
 **Subforum:** The New Monster Thread
 **Posts:** 1
 ══════════════════════════════════════════════════════════════════════
-### seanb4@hotmail.co.uk — 2013-01-09T15:11:56+0200
+### [email redacted] — 2013-01-09T15:11:56+0200
 **Source:** <https://forum.jackkruse.com/threads/bloating-from-300ml-of-water-pics-included.5402/post-70068>
 
 Hi guys,
@@ -19652,7 +19652,7 @@ CORTISOL:
 **Subforum:** Educating Doctors
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### banderson1960@gmail.com — 2013-01-10T21:02:44+0200
+### [email redacted] — 2013-01-10T21:02:44+0200
 **Source:** <https://forum.jackkruse.com/threads/love-my-new-doc.5420/post-70241>
 
 So I finally bit the bullet and made an appointment with a new doc. I had high hopes as her web site mentioned BHRT, hormonal testing, being optimal. I went prepared with my list of labs,etc. and I was blown away with her knowledge. She knows about paleo way of eating and supports it. She recommended a full hormone work up, testing adrenals, thyroid and even recommended testing T3 and RT3. This is when I put my list of labs I wanted away cause she covered them all! She is recommending 2 weeks break from some of my current supplements prior to labs to get a good baseline test. And to top it off, she said I had the best looking tongue that she had seen in years ( to which she connected to the paleo diet). A couple things she said that I hadn't seen here- 1) to take fish oil at night as that will help alleviate hot flashes/night sweats until I can get lab results and 2) that it was important to break a sweat while exercising at least twice a week to keep metabolism up? Thoughts on those?
@@ -19686,7 +19686,7 @@ here's to one year { "lightbox\_close": "Close", "lightbox\_next": "Next", "ligh
 **Subforum:** The New Monster Thread
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### neil@princeglobal.net — 2013-01-11T01:02:01+0200
+### [email redacted] — 2013-01-11T01:02:01+0200
 **Source:** <https://forum.jackkruse.com/threads/tumeric-supplemations.5426/post-70270>
 
 Hi
@@ -19722,7 +19722,7 @@ it is but when you are doing disease reversal or trying to control NF kappa beta
 **Subforum:** Meet and Greet
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### jack5562@ymail.com — 2013-01-11T05:37:39+0200
+### [email redacted] — 2013-01-11T05:37:39+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-all.5427/post-70278>
 
 Hi everyone,
@@ -20214,7 +20214,7 @@ I'm definitely leaning towards more raw all the time...this morning I had 1/2 lb
 **Subforum:** Cold Thermogenesis
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### neil@princeglobal.net — 2013-01-12T06:33:02+0200
+### [email redacted] — 2013-01-12T06:33:02+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-and-eczema.5433/post-70377>
 
 Hi All
@@ -20818,7 +20818,7 @@ Thanks Diane - I finally stumbled across it to! I don't understand why it wasn't
 **Subforum:** Meet and Greet
 **Posts:** 3
 ══════════════════════════════════════════════════════════════════════
-### nanmeade@aol.com — 2013-01-13T12:57:53+0200
+### [email redacted] — 2013-01-13T12:57:53+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-connecticut.5444/post-70507>
 
 I found a link to this site from Dr. D'Adamo's website. I am searching for the answer to my weight gain and hypothyroid symptoms. I have been reading a lot of the information on this site. I have been a Dr. Schwarzbein fan for many years. I have crazy bad sugar cravings so I am trying to deal with that. I see a Naturopath who had me tested for food allergies, IgG. I have to stay away from gluten which I have done for 1 and a half years with a cheat month in August 2012. I also can't eat beef or eggs! So there you go. A very quick summary of what is going on with me. There's a lot more but this is just a quick hello! { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
@@ -20840,7 +20840,7 @@ Welcome - keep reading and learning and lots of great, smart people here to answ
 **Subforum:** Optimal Labs
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### nanmeade@aol.com — 2013-01-13T13:13:15+0200
+### [email redacted] — 2013-01-13T13:13:15+0200
 **Source:** <https://forum.jackkruse.com/threads/question-about-reverse-t3-labs.5446/post-70514>
 
 11/4/11
@@ -20859,7 +20859,7 @@ Without knowing anything about me, why would my reverse T3 improve? My TSH is 4.
 
 Maybe you have corrected the reason you had a high rt3 in the first place whether it be too much stress, surgery or low ferritin. Sometimes happens inside you that makes a high rt3 to slow your body down naturally. The tsh is telling your body to make more t4 which is supposed to make t3 and the fact that your rt3 is reducing maybe means you are trying to make more t3 to get into your cells. That is my .02 cents and that is about all it is worth.
 
-### nanmeade@aol.com — 2013-01-13T15:55:49+0200
+### [email redacted] — 2013-01-13T15:55:49+0200
 **Source:** <https://forum.jackkruse.com/threads/question-about-reverse-t3-labs.5446/post-70549>
 
 vkiernan, thanks for the .02 cents! It's very much appreciated! I am the caregiver to my 92 year old aunt and 91 year old mother. Both went into assisted living at the end of July and I have been very much less stressed.
@@ -21201,7 +21201,7 @@ Darren said to use this web address. Sign up with for Gold with the same email y
 
 Dan
 
-### jeanie@truelongmont.com — 2013-01-15T00:48:51+0200
+### [email redacted] — 2013-01-15T00:48:51+0200
 **Source:** <https://forum.jackkruse.com/threads/website-v2-0-a-candid-review-and-ideas-for-improvement.5449/post-70812>
 
 CAVEMAM IN THE HOUSEEEEEEEE.
@@ -21264,7 +21264,7 @@ Just like you are helping us become optimum, we are trying to help your forum be
 
 totally agree.........but I listen. Not sure it is a bidirectional road for us all........reading between the lines.
 
-### jeanie@truelongmont.com — 2013-01-15T10:55:41+0200
+### [email redacted] — 2013-01-15T10:55:41+0200
 **Source:** <https://forum.jackkruse.com/threads/website-v2-0-a-candid-review-and-ideas-for-improvement.5449/post-70859>
 
 > **Jack Kruse said**
@@ -21519,7 +21519,7 @@ CT in wild places is especially good for the soul. all that yin we been missin
 **Subforum:** Educating Doctors
 **Posts:** 2
 ══════════════════════════════════════════════════════════════════════
-### terryfischer39@yahoo.com — 2013-01-13T23:05:22+0200
+### [email redacted] — 2013-01-13T23:05:22+0200
 **Source:** <https://forum.jackkruse.com/threads/educating-doctors.5454/post-70616>
 
 I am thoroughly discouraged. I've been through 5 Drs and I feel like I'm in a time warp. I'll tell about the last one and maybe someone can tell me where I need to improve my communication. I went to the one and only large university hospital. We talked about why I thought a certain prescription would be helpful. She said, "you have a point, now let's see what the literature says about this." She clicked away at her screen and read, " this (drug) is not recommended for your situation." I peeked around at the screen and pointed out that the information she was reading was 35 years old. We discussed 'best practices' and she felt she had to follow them to protect her license. She also didn't seem to understand that the drug from the 35 year old info was a different chemical make up than the current one I was discussing. I am moving out of state shortly. Can I ask to see the office's best practice guidelines before I pick a Doctor where I am going? I probably shouldn't pick a large university hospital either as they have to all follow 'the party line'. Right? So I had to pay her money to 'educate' her and she wasn't going to do anything anyway because of 'best practices'.
@@ -21579,7 +21579,7 @@ Cell Metab. 2011 Feb 2;13(2):149-59. doi: 10.1016/j.cmet.2011.01.004.
 Dietary inorganic nitrate improves mitochondrial efficiency in humans.
 Larsen FJ, Schiffer TA, Borniquel S, Sahlin K, Ekblom B, Lundberg JO, Weitzberg E.
 Source
-Department of Physiology and Pharmacology, Karolinska Institutet, 11486 Stockholm, Sweden. filip.larsen@ki.se
+Department of Physiology and Pharmacology, Karolinska Institutet, 11486 Stockholm, Sweden. [email redacted]
 
 "We recently demonstrated that dietary nitrate reduces oxygen cost during physical exercise, but the mechanism remains unknown. In a double-blind crossover trial we studied the effects of a dietary intervention with inorganic nitrate on basal mitochondrial function and whole-body oxygen consumption in healthy volunteers. Skeletal muscle mitochondria harvested after nitrate supplementation displayed an improvement in oxidative phosphorylation efficiency (P/O ratio) and a decrease in state 4 respiration with and without atractyloside and respiration without adenylates. The improved mitochondrial P/O ratio correlated to the reduction in oxygen cost during exercise. Mechanistically, nitrate reduced the expression of ATP/ADP translocase, a protein involved in proton conductance. We conclude that dietary nitrate has profound effects on basal mitochondrial function."
 

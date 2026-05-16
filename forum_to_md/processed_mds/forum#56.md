@@ -19385,7 +19385,7 @@ Again - that's an OLD PIC of me from January 2018. Right before writing this jou
 ### Sean Waters — 2020-09-14T00:45:46+0300
 **Source:** <https://forum.jackkruse.com/threads/seans-optimal-journal.20757/post-292092>
 
-If you guys want to reach me not on Facebook so use [s.c.waters@outlook.com](mailto:s.c.waters@outlook.com) if you need to contact me.
+If you guys want to reach me not on Facebook so use [[email redacted]](mailto:[email redacted]) if you need to contact me.
 
 ### Sean Waters — 2020-09-14T01:33:15+0300
 **Source:** <https://forum.jackkruse.com/threads/seans-optimal-journal.20757/post-292093>

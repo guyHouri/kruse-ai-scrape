@@ -3356,7 +3356,7 @@ For the 10G QS we paid a touch under AU$2k when the dollar was at $1.04, we also
 >
 > I just tried to pm Nick and couldn't .....I wonder f he got kicked off when the forum went down.....I don't think I have his email either. Maybe Freesia knows?????
 
-Hi Caroline, my usual email is [nick@tourismmedia.com.au](mailto:nick@tourismmedia.com.au)
+Hi Caroline, my usual email is [[email redacted]](mailto:[email redacted])
 
 BTW I have stuck my 6yo on the Magnetico for four nights while we gave our 3yo a quick break and the difference with the 6yo has been pretty cool. He is bounding with energy all day long and looks as happy as anything. He is always pretty happy and energised but this is at another level. Lovely to see and makes me certain it wont be long before we buy another Magnetico for him so all have one.
 
@@ -4225,7 +4225,7 @@ I have this feeling that I am hard work for some people that don't get it and wo
 > Does the thickness of your mattress matter? mine is 16inches
 
 they send the same version which works in all power points worldwide, they send you an adapter
-if you wanna get one use the email [paleoosteo@gmail.com](mailto:paleoosteo@gmail.com) at checkout for $50 discount
+if you wanna get one use the email [[email redacted]](mailto:[email redacted]) at checkout for $50 discount
 
 it has an adjustable screw in the middle which amplifies the gauss so it can travel through mattresses of varying thickness.
 
@@ -4235,7 +4235,7 @@ it has an adjustable screw in the middle which amplifies the gauss so it can tra
 > [Josh (Paleo Osteo) said:](/goto/post?id=109701)
 >
 > they send the same version which works in all power points worldwide, they send you an adapter
-> if you wanna get one use the email [paleoosteo@gmail.com](mailto:paleoosteo@gmail.com) at checkout for $50 discount
+> if you wanna get one use the email [[email redacted]](mailto:[email redacted]) at checkout for $50 discount
 >
 > it has an adjustable screw in the middle which amplifies the gauss so it can travel through mattresses of varying thickness.
 
@@ -14447,7 +14447,7 @@ Thanks again cinnamon!
 
 Hey Guys,
 
-We should not have lost any forum posts. If you see anything screwy, send an email to support and we'll look into it! [support@jackkruse.com](mailto:support@jackkruse.com).
+We should not have lost any forum posts. If you see anything screwy, send an email to support and we'll look into it! [[email redacted]](mailto:[email redacted]).
 
 I'm about to post a notice about passwords ... we don't know how deep the hackers went in to the database which holds all your forum passwords. We don't think they were necessarily interested in any non-admin passwords but ... it made me nervous and I actually loaded 1Password onto my devices and changes my passwords all across the net as a precaution. I had been using pretty much the same few passwords everywhere (as I know a lot of you do, too), and I didn't like the idea of hackers having my passwords and a linked email address that could fall into the wrong hands.
 
@@ -18233,7 +18233,7 @@ I have seen this error 3 times today in this forum.
 ### tellmisty — 2013-09-27T03:52:02+0300
 **Source:** <https://forum.jackkruse.com/threads/error-message-on-some-new-posts.8249/post-96255>
 
-Are you guys still having issues? Gretchen is right, you need to clear your cache as the first remedy, but if you have issues, let support know. Share page URLs and error messages: [support@jackkruse.com](mailto:support@jackkruse.com).
+Are you guys still having issues? Gretchen is right, you need to clear your cache as the first remedy, but if you have issues, let support know. Share page URLs and error messages: [[email redacted]](mailto:[email redacted]).
 
 ### nonchalant — 2013-09-27T03:55:58+0300
 **Source:** <https://forum.jackkruse.com/threads/error-message-on-some-new-posts.8249/post-96256>
@@ -18314,7 +18314,7 @@ Marie
 **Subforum:** The EMF Rx
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### redneckrobot@gmail.com — 2013-09-25T17:31:39+0300
+### [email redacted] — 2013-09-25T17:31:39+0300
 **Source:** <https://forum.jackkruse.com/threads/emf-books-important-texts-available-online.8256/post-96080>
 
 I found a resource for books on the EMF issue online -- thought I would share with the group.
@@ -18347,7 +18347,7 @@ The week between Chirstmas and New Year's comes to mind...always as slow as mola
 Thanks Redneck! Welcome to the forum.
 Robert O. Becker... where have I heard that name before.....
 
-### redneckrobot@gmail.com — 2013-09-27T00:40:09+0300
+### [email redacted] — 2013-09-27T00:40:09+0300
 **Source:** <https://forum.jackkruse.com/threads/emf-books-important-texts-available-online.8256/post-96234>
 
 > [nonchalant said:](/goto/post?id=96153)
@@ -19474,7 +19474,7 @@ Thanks for the replies, I have tried posting it quite a few times but it keeps c
 ### caroline — 2013-09-29T01:10:37+0300
 **Source:** <https://forum.jackkruse.com/threads/new-to-the-forum.8283/post-96415>
 
-Welcome Healthman .....have you put in a support ticket....or better still send an email to [support@jackkruse.com](mailto:support@jackkruse.com)
+Welcome Healthman .....have you put in a support ticket....or better still send an email to [[email redacted]](mailto:[email redacted])
 
 As Dr. K. said ...the forum is a bit wonky since it got hacked ...hang in there .....and glad you are here!
 
@@ -21953,7 +21953,7 @@ FYI - I live in a very old neighbourhood with lots and lots of trees .....
 
 [http://andrewamarino.com/media/2012Interview/2012Interview.html](http://andrewamarino.com/media/2012Interview/2012Interview.html)
 
-### kjgraffin@yahoo.com — 2013-11-01T02:13:49+0200
+### [email redacted] — 2013-11-01T02:13:49+0200
 **Source:** <https://forum.jackkruse.com/threads/the-ultimate-emf-book-that-is-a-must-read.8321/post-99587>
 
 Would small conifers in the house have the same effect? My mom planted some pencil trees in pots out back. I wonder if bringing them in would be more beneficial? A house full of Christmas trees!
@@ -22500,7 +22500,7 @@ Ms. Healy, who does administrative work for her husband's orthopedics practice, 
 
 Malaz Boustani, chief operating officer of the Indiana University Center for Innovation and Implementation Science, who wasn't involved in the study, said its findings add to the evidence about brain-health concerns for ICU survivors and highlight the need for recovery programs that "coordinate the complex cognitive, functional and psychological recovery needs of Americans who survived a critical illness."
 
-Write to Laura Landro at [laura.landro@wsj.com](mailto:laura.landro@wsj.com)
+Write to Laura Landro at [[email redacted]](mailto:[email redacted])
 [http://online.wsj.com/article/SB10001424052702303492504579111361055134336.html](http://online.wsj.com/article/SB10001424052702303492504579111361055134336.html)
 
 ### Jack Kruse — 2013-10-03T17:25:22+0300
@@ -33137,7 +33137,7 @@ It sounds like you had a great day...... such simple pleasures ..... such massiv
 
 That's AWESOME!!!! A CT tub for two. Don't know if that would work for me since I like to "cuddle" with the hubby to warm up
 
-### kjgraffin@yahoo.com — 2013-10-15T03:25:38+0300
+### [email redacted] — 2013-10-15T03:25:38+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-vs-magnetico.8442/post-97867>
 
 Are ya'll filling your stock tanks with non-flouridated water? I can't imagine getting enough water to fill it without taking quite a few trips to the spring for water. Does it matter what kind of water you use?
@@ -33299,7 +33299,7 @@ I was worried about not getting enough sunlight in the Carolinas Huck. I'm glad 
 
 BJ ...I think that you have it pretty well nailed...... you have a good head on your shoulders! What about your family? I remember that was a huge concern for you before.....
 
-### kjgraffin@yahoo.com — 2013-10-15T03:31:34+0300
+### [email redacted] — 2013-10-15T03:31:34+0300
 **Source:** <https://forum.jackkruse.com/threads/relocating-needs-vs-wants.8443/post-97869>
 
 > [BJK77 said:](/goto/post?id=97827)
@@ -35855,7 +35855,7 @@ Hmmm, I might just try the kelp noodles. Maybe I can find them at my local healt
 
 Me too. I'm a bit bummed. Since becoming a gold member I don't seem to be getting the emails. I didn't get it for the October webinar until I contacted support to send it to me. I didn't receive a single email about this Q&A or the upcoming October Webinar Q&A.
 
-Does anyone else have trouble getting the emails? I really would have liked to participate in this one! Support told me to check my spam folder, but there was nothing in there and I have added [support@jackkruse.com](mailto:support@jackkruse.com) to my contacts/address book so there's no reason I shouldn't be getting the emails :/
+Does anyone else have trouble getting the emails? I really would have liked to participate in this one! Support told me to check my spam folder, but there was nothing in there and I have added [[email redacted]](mailto:[email redacted]) to my contacts/address book so there's no reason I shouldn't be getting the emails :/
 
 ### cinnamon — 2013-10-17T18:38:02+0300
 **Source:** <https://forum.jackkruse.com/threads/free-community-wide-q-a.8477/post-98163>
@@ -36933,7 +36933,7 @@ Question - how far away should EMF emitting devises be or is it a accumulation o
 ### ATL_Paleo — 2013-10-21T04:40:15+0300
 **Source:** <https://forum.jackkruse.com/threads/merrily-measuring-my-magnetism.8486/post-98466>
 
-> [osowski1@msn.com said:](/goto/post?id=98431)
+> [[email redacted] said:](/goto/post?id=98431)
 >
 > Anyone have results like that from using night settings on f.lux during the day?
 
@@ -36946,7 +36946,7 @@ This enhancement made me think to check my TV. Yup ... I could adjust colors to 
 ### Inger — 2013-10-21T09:09:11+0300
 **Source:** <https://forum.jackkruse.com/threads/merrily-measuring-my-magnetism.8486/post-98483>
 
-> [osowski1@msn.com said:](/goto/post?id=98431)
+> [[email redacted] said:](/goto/post?id=98431)
 >
 > I've been using the body voltage meter to reduce the emfs. I was surprised at how high our hot tub in the master bath was eventhoughnwe didn't use it. Turned it off at the circuit. Also, my daughters room is above the garage and was able to bring it down by eliminating the fluorescent lighting in the garage and turning circuit off at night. Still working on this. I am able to work a lot at home although I am an IT software developer. I have found the lowest readings are from the basement or on nice days outside on a covered concrete porch area. I've eliminated all blue light by sitting close to a window.....except for my computer. A couple of days I've tried to use f.lux during the day but it totally kept me awake at night so guess I will try it again to see if same results. Anyone have results like that from using night settings on f.lux during the day?
 
@@ -41528,7 +41528,7 @@ Thanks ..... I will....I do not understand what is happening with the pms....
 > [GoldFishie said:](/goto/post?id=98998)
 >
 > No, I did not receive it. Seriously, I have some help to offer you in regards to your strabismus, in Australia no less! Email me at
-> [JackRocksStarFish@yahoo.com](mailto:JackRocksStarFish@yahoo.com)
+> [[email redacted]](mailto:[email redacted])
 
 Did you get my email??? we will connect, we will connect, we will connect........
 
@@ -43406,7 +43406,7 @@ Thanks, I might take another look at this once the ground outside thaws to put a
 
 This is why it is so important to test and measure things for yourself. n=1!
 
-### patgrif@hotmail.com — 2014-03-05T06:48:22+0200
+### [email redacted] — 2014-03-05T06:48:22+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-half-sheet.8572/post-113514>
 
 I use an earthing sheet actually a 'fitted' sheet on a queen bed (better than the half sheet). I think it has helped my sleep I notice also I 'like' my bed more kind of a subjective thing but it feels real. I stick the rod in the earth not the socket which I feel more comfortable doing. But one think which I thought was kind of 'funny' and maybe a bit deceptive on the part of the company................they have this 'tester' and supposedly when the sheet is grounded a green light come on on the tester. I used this and sure eneough on ANY other surface it does not light up but bingo on the sheet it does!! Well one day a few weeks ago the gardeners pulled the wire out of the rod by mistake it was completly disconnected from the rod BUT as a lark I thought let me test it now and would you believe it it lit up just as before. So that 'tester' is testing SOMETHING but NOT that it is grounded. Now I found that kind of deceptive as I say. I don't have an explanation of WHAT it is testing. Any ideas anyone?
@@ -43420,7 +43420,7 @@ I would also contact the company and ask about that.
 
 That is an oddity to be sure.
 
-### patgrif@hotmail.com — 2014-03-05T18:39:05+0200
+### [email redacted] — 2014-03-05T18:39:05+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-half-sheet.8572/post-113614>
 
 Well the thing is Cosmo it seems to test ONLY for the 'main wire' being attached (fastened) to the fastener on the sheet. If you unhook those things the light goes out. BUT what I find kind of deceptive is and maybe this was my mis-understanding is the implication is once that little green light goes on it is GROUNDED. I imagined it was some kind of measure of electrical exchange between the sheet and the ground and it is NOT! It is merely telling you it is connected (fastened) and then I wonder how does that work? Like what is the 'electrical exchange' that causes that little green light to go on. And then I'm thinking 'scam' like did they deliberatly do this just to create an 'impression' I don't really know what more testing I can do, if you have a grounding sheet and my impression is you do just unplug it either from the outlet or from the ground itself if that is what you have and then test it..............does the green light still go on? You're right I could contact the company and maybe I will I just don't 'enjoy' doing that kind of thing.
@@ -43430,7 +43430,7 @@ Well the thing is Cosmo it seems to test ONLY for the 'main wire' being attached
 
 I think you should as a service to all earthing sheet users  I didn't order or get a tester so I can't help you. Who did you buy from, I used BEP Technology and I believe there is Groundology who sell products too?
 
-### patgrif@hotmail.com — 2014-03-05T19:48:27+0200
+### [email redacted] — 2014-03-05T19:48:27+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-half-sheet.8572/post-113622>
 
 Sooperb, the company is called Unikey Health Systems and I got them somehow through Ann Louise Gittleman's book "Zapped" though I don' think they have any connection to her. You are right but I hate embarrasing people or potentially embarrasing them. Irish politeness I guess. But I think I will at some point just not at the minute.............
@@ -43440,7 +43440,7 @@ Sooperb, the company is called Unikey Health Systems and I got them somehow thro
 
 where was the wire after the gardener pulled it off the rod? was it on the ground? it might stillhave been grounded! something to test.
 
-### patgrif@hotmail.com — 2014-03-06T01:22:54+0200
+### [email redacted] — 2014-03-06T01:22:54+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-half-sheet.8572/post-113670>
 
 He pulled the wire right out of where it fits into the spike that goes in the ground so no way was it still grounded. I also then pulled out the rod/spike and even after a few days the green light still went on so..............
@@ -43474,7 +43474,7 @@ Did you listen to michaels webinar yet?
 ### Lahelada — 2014-03-06T11:37:44+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-half-sheet.8572/post-113743>
 
-> [patgrif@hotmail.com said:](/goto/post?id=113670)
+> [[email redacted] said:](/goto/post?id=113670)
 >
 > He pulled the wire right out of where it fits into the spike that goes in the ground so no way was it still grounded. I also then pulled out the rod/spike and even after a few days the green light still went on so..............
 
@@ -43500,13 +43500,13 @@ Audrey, I think when my back was so painful, the grounding was what it needed wo
 ### Tanya — 2014-03-06T16:52:16+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-half-sheet.8572/post-113777>
 
-> [patgrif@hotmail.com said:](/goto/post?id=113514)
+> [[email redacted] said:](/goto/post?id=113514)
 >
 > I use an earthing sheet actually a 'fitted' sheet on a queen bed (better than the half sheet). I think it has helped my sleep I notice also I 'like' my bed more kind of a subjective thing but it feels real. I stick the rod in the earth not the socket which I feel more comfortable doing. But one think which I thought was kind of 'funny' and maybe a bit deceptive on the part of the company................they have this 'tester' and supposedly when the sheet is grounded a green light come on on the tester. I used this and sure eneough on ANY other surface it does not light up but bingo on the sheet it does!! Well one day a few weeks ago the gardeners pulled the wire out of the rod by mistake it was completly disconnected from the rod BUT as a lark I thought let me test it now and would you believe it it lit up just as before. So that 'tester' is testing SOMETHING but NOT that it is grounded. Now I found that kind of deceptive as I say. I don't have an explanation of WHAT it is testing. Any ideas anyone?
 
 Every single grounding product that I purchased included a tester in the package. Just to satisfy my curiosity, I tried the first few of them, even though I have known already that our outlets were not grounded and the testers confirmed that. I had also gifted to someone a grounding mat and the tester worked just fine in their house because their outlets were properly grounded. However, they decided to ground it to the outside rod instead, following my lead....
 
-### patgrif@hotmail.com — 2014-03-06T18:09:18+0200
+### [email redacted] — 2014-03-06T18:09:18+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-half-sheet.8572/post-113792>
 
 I am now getting a bit confused by all this. They have 'testers' for the outlet itself which I understand works but the 'tester' I am talking about is something you put on the sheet and if it is 'working' I presume grounded a green light goes on. But what I found is though the rod was definitly not grounded the green light still went on if the wire was 'fastened' to the sheet, if you unfastened it instantly goes off. So my thinking is is it testing the connection but NOT the grounding. I kind of give up at this point I was just curious if anyone else had anything similar to report. To add to the confusion maybe my sheet IS grounded now (outside in the ground) and when I put the little green light tester on the sheet.............NOTHING..............no green light. So I'm thinking it has some battery in there that has discharged..............I am totally confused now don't know what's going on or what to think
@@ -43514,7 +43514,7 @@ I am now getting a bit confused by all this. They have 'testers' for the outlet 
 ### Tanya — 2014-03-06T18:23:18+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-half-sheet.8572/post-113795>
 
-> [patgrif@hotmail.com said:](/goto/post?id=113792)
+> [[email redacted] said:](/goto/post?id=113792)
 >
 > I am now getting a bit confused by all this. They have 'testers' for the outlet itself which I understand works but the 'tester' I am talking about is something you put on the sheet and if it is 'working' I presume grounded a green light goes on. But what I found is though the rod was definitly not grounded the green light still went on if the wire was 'fastened' to the sheet, if you unfastened it instantly goes off. So my thinking is is it testing the connection but NOT the grounding. I kind of give up at this point I was just curious if anyone else had anything similar to report. To add to the confusion maybe my sheet IS grounded now (outside in the ground) and when I put the little green light tester on the sheet.............NOTHING..............no green light. So I'm thinking it has some battery in there that has discharged..............I am totally confused now don't know what's going on or what to think
 
@@ -43549,7 +43549,7 @@ This will let you know if the earthing product is working and then you will have
 ### Cosmo — 2014-03-14T09:28:55+0200
 **Source:** <https://forum.jackkruse.com/threads/earthing-half-sheet.8572/post-115335>
 
-> [patgrif@hotmail.com said:](/goto/post?id=113514)
+> [[email redacted] said:](/goto/post?id=113514)
 >
 > I use an earthing sheet actually a 'fitted' sheet on a queen bed (better than the half sheet). I think it has helped my sleep I notice also I 'like' my bed more kind of a subjective thing but it feels real. I stick the rod in the earth not the socket which I feel more comfortable doing. But one think which I thought was kind of 'funny' and maybe a bit deceptive on the part of the company................they have this 'tester' and supposedly when the sheet is grounded a green light come on on the tester. I used this and sure eneough on ANY other surface it does not light up but bingo on the sheet it does!! Well one day a few weeks ago the gardeners pulled the wire out of the rod by mistake it was completly disconnected from the rod BUT as a lark I thought let me test it now and would you believe it it lit up just as before. So that 'tester' is testing SOMETHING but NOT that it is grounded. Now I found that kind of deceptive as I say. I don't have an explanation of WHAT it is testing. Any ideas anyone?
 
@@ -44025,7 +44025,7 @@ Thanks for the article Gracelind. Yea maybe if I had the test again with a meal 
 **Subforum:** The New Monster Thread
 **Posts:** 4
 ══════════════════════════════════════════════════════════════════════
-### kjgraffin@yahoo.com — 2013-10-27T23:44:51+0200
+### [email redacted] — 2013-10-27T23:44:51+0200
 **Source:** <https://forum.jackkruse.com/threads/cold-adapting-but-still-have-a-few-issues.8578/post-99186>
 
 Since my thyroid has really improved, I found myself looking forward to colder weather for the first time I can ever remember. I've been getting out and hiking with the temps in the 50's and I can't believe how great it feels. Just last Fall I was turning on the heat if it got colder than 72 in the car. Im loving being able to enjoy the cooler temps, but I'm still having a couple of issues that I can't figure out.
@@ -44039,7 +44039,7 @@ Thanks for any thoughts.
 
 Do you wear a hat when outside? you are much more active outside? and getting grounded and sunlight........just being in nature is wonderful.
 
-### kjgraffin@yahoo.com — 2013-10-28T02:09:43+0200
+### [email redacted] — 2013-10-28T02:09:43+0200
 **Source:** <https://forum.jackkruse.com/threads/cold-adapting-but-still-have-a-few-issues.8578/post-99201>
 
 I don't wear a hat. I used to wear ear muffs and am thinking I need to wear them again, but I would really like to know why it bothers my ears so much.

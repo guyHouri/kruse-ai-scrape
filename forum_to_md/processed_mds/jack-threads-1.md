@@ -121,7 +121,7 @@ hope this helps
 
 joe
 
-### grammasmitty@hotmail.com — 2012-03-15T02:57:17+0200
+### [email redacted] — 2012-03-15T02:57:17+0200
 **Source:** <https://forum.jackkruse.com/threads/tomatoes-salsa-other-nightshades.8/post-331>
 
 So, if all else is good, no symptoms of leaky gut, having been on paleo for quite a while, will tomatoes with high ?-tomatine concentration CAUSE a leaky gut?
@@ -726,7 +726,7 @@ Looks like the spam-bots found us here.
 
 What's a spam bot post look like?
 
-### kc_boxerman@yahoo.com — 2012-06-13T16:05:40+0300
+### [email redacted] — 2012-06-13T16:05:40+0300
 **Source:** <https://forum.jackkruse.com/threads/what-exercises.26/post-30885>
 
 > **villjamur\_stevenson;30988 wrote:** What's a spam bot post look like?
@@ -860,7 +860,7 @@ Am I breaking the no cardio rule yet?
 
 I really only do this on the weekends. For now
 
-### jeanie@truelongmont.com — 2012-08-27T06:26:16+0300
+### [email redacted] — 2012-08-27T06:26:16+0300
 **Source:** <https://forum.jackkruse.com/threads/what-exercises.26/post-47443>
 
 > **Souldanzer;47882 wrote:** Am I breaking the no cardio rule yet?
@@ -1044,7 +1044,7 @@ I met some amazing people and many Starfish.........
 
 If you want to know what a starfish is you will have to listen to my opening keynote speech.
 
-### gizmeaux@pacbell.net — 2012-03-18T04:55:14+0200
+### [email redacted] — 2012-03-18T04:55:14+0200
 **Source:** <https://forum.jackkruse.com/threads/thank-you-dr-k.35/post-2297>
 
 Thanks, JK, for making me feel soooooo good! Keep it coming. Time for me to hit the tub, so...
@@ -1054,7 +1054,7 @@ Thanks, JK, for making me feel soooooo good! Keep it coming. Time for me to hit 
 
 Yes! You just took it to another level, AGAIN!!! Having a forum to discuss specifics good, bad, and cold should help move things to deeper waters.
 
-### clzem1@yahoo.com — 2012-03-24T21:48:06+0200
+### [email redacted] — 2012-03-24T21:48:06+0200
 **Source:** <https://forum.jackkruse.com/threads/thank-you-dr-k.35/post-5541>
 
 > **Souldanzer;93 wrote:** You're simply.... awesome
@@ -1134,7 +1134,7 @@ Getting more bang for my buck would be great. So would being able to add the ben
 
 I'm interested in knowing this too. I'm not taking that high a dose of fish oil, but only because of cost/consumption issues.
 
-### zoebarry@yahoo.com — 2012-03-15T20:28:57+0200
+### [email redacted] — 2012-03-15T20:28:57+0200
 **Source:** <https://forum.jackkruse.com/threads/krill-oil.37/post-958>
 
 I've been using Dr. Mercola's brand for a year now, since it was recommended by doctor. Incidentally, my Dr charged me $89.00 for a 3-month supply, but on Dr. Mercola's website, I purchased same exact bottle for under $60.00!!
@@ -1183,7 +1183,7 @@ I used omega 3s @ 2 gm/day when I lost all my weight. Now that the weight is sta
 
 I have been using krill oil from this company:[http://www.bulknaturaloils.com/Category/766-virgin-krill-oil.aspx](http://http://www.bulknaturaloils.com/Category/766-virgin-krill-oil.aspx). They have bulk supplies and I have been pleased with the quality. They also have coconut oil and palm oil in bulk quantities.
 
-### zoebarry@yahoo.com — 2012-03-21T19:28:59+0200
+### [email redacted] — 2012-03-21T19:28:59+0200
 **Source:** <https://forum.jackkruse.com/threads/krill-oil.37/post-3950>
 
 Wow, thanks for the link Sherry! Those prices are so reasonable!
@@ -1917,7 +1917,7 @@ Yeah look back into post 70 in this thread, that's the connection I think.  and 
 
 That's interesting, sounds like the same effects that mushrooms should give you.
 
-### kc_boxerman@yahoo.com — 2012-03-15T21:50:08+0200
+### [email redacted] — 2012-03-15T21:50:08+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-1023>
 
 Factor X is the presence of direct sunlight.
@@ -2446,7 +2446,7 @@ Additionally (and this is different for humans vs other apes and mammals) our in
 
 What kind of altitude are we talking about here? Over 10k and I get sick, but I guess I could adapt.
 
-### jeanie@truelongmont.com — 2012-03-17T01:36:16+0200
+### [email redacted] — 2012-03-17T01:36:16+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-1771>
 
 ok, I don't think it's vagus nerve stuff - as the whole "alternate pathway" is bypassing that. That's why he's said CT will work for those of us who've had our vagus nerve severed via surgery.
@@ -2552,7 +2552,7 @@ What do you think, maybe that's the mechanism that happened after the atmospheri
 
 ....getting my diving gear ready...
 
-### d_mceachern@hotmail.com — 2012-03-17T05:08:32+0200
+### [email redacted] — 2012-03-17T05:08:32+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-1862>
 
 Levee 25: Hypoxia:
@@ -2667,7 +2667,7 @@ Oh, the suspense!
 
 Where's the copy of this. I want to share!!!! Especially w/ my PCP....
 
-### jeanie@truelongmont.com — 2012-03-17T16:02:58+0200
+### [email redacted] — 2012-03-17T16:02:58+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-1972>
 
 > **Jack Kruse;1879 wrote:** No one is even close to FActor X.
@@ -2798,7 +2798,7 @@ It's hot and cold together. It's sitting in a cold dark room with a fire. Hot on
 
 Arrrggghhhhh! I can't wait!!
 
-### nicebeanst@yahoo.com — 2012-03-17T20:09:26+0200
+### [email redacted] — 2012-03-17T20:09:26+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-2082>
 
 I was wondering if we are all overthinking this, and then it occurred to me that maybe \*thinking\* is Factor X. Thinking/pondering/choosing/rationalizing/experimenting.... this is something that is available to us all. Dr. K keeps saying that thoughts can change our DNA, which at first sounds like New Age woo-woo, right? But when you think about it (ha ha) before you ever DO anything, you (usually) think about it beforehand. And thinking can be good or bad.
@@ -2826,7 +2826,7 @@ I _think_ my dog can think to some degree but maybe I'm gone off the deep end th
 
 still our brains had to somehow get to the point of abstract thought  why didn't other animals get there, too
 
-### nicebeanst@yahoo.com — 2012-03-17T20:28:25+0200
+### [email redacted] — 2012-03-17T20:28:25+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-2087>
 
 Ture. Animals can think. But what about self awareness? Can your doggie rationalize bad behavior? Is he capable of ah-ha moments? Can he make major lifestyle changes/choices?
@@ -3259,14 +3259,14 @@ Didn't he say that he revealed Factor X in the interview he gave at Paleo FX? I 
 
 Sounds good, Lyndra, language does differentiate us. And Linz mentioned fire. Use of fire (cooking, heat, light) also differentiates ourselves from other hominids. .
 
-### tggywnkle@aol.com — 2012-03-19T01:28:30+0200
+### [email redacted] — 2012-03-19T01:28:30+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-2509>
 
 In Dr. Kruse's reply to Julie ( Post #718 My Leptin Prescription), he says "...The best way to treat it is radical and something I am Testing now clinically. Cold thermogenesis. I call it Factor X and will be giving a talk about it on Jimmy Moore's cruise in May"
 
 But yet, in other places it seems Factor X is something in addition to CT.
 
-### pthomaslandry@gmail.com — 2012-03-19T02:30:02+0200
+### [email redacted] — 2012-03-19T02:30:02+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-2524>
 
 Climate change lead to our upright posture, which allowed for finite motor skills and then our relatively quick development of a larger brain, which lead to reason and consciousness. Our thoughts truly can change our environment, and our environment directly controls gene expression, my vote is for self awareness/reason.
@@ -3393,7 +3393,7 @@ Let’s just hope it’s not......bacteria, virus.....parasites........oh, darn.
 
 \-R
 
-### jeanie@truelongmont.com — 2012-03-19T15:17:02+0200
+### [email redacted] — 2012-03-19T15:17:02+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-2710>
 
 Good little essay SoulDanzer - it's always good to have words to use. It's hard enough talkin science to those that think we are nuts, I think the more "descriptions" of this concept the better.
@@ -3404,7 +3404,7 @@ Is our ability to group simply a benefit for hunting and survival - or does it a
 
 I have three "factor-x" lines of thought right now, and that "bond" with other humans is one.
 
-### jeanie@truelongmont.com — 2012-03-19T15:21:32+0200
+### [email redacted] — 2012-03-19T15:21:32+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-2712>
 
 \[QUOTE=
@@ -3455,7 +3455,7 @@ Could factor x redirect us to the pathway that allows us to use our own sense of
 
 But then we would need factor Y to extend reproductive lifespan as surely we start to fade once we can no longer reproduce.
 
-### jeanie@truelongmont.com — 2012-03-19T20:23:16+0200
+### [email redacted] — 2012-03-19T20:23:16+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-2868>
 
 What is a factor? A material variable you must adjust for perhaps?
@@ -3678,7 +3678,7 @@ The only reason I feel it may not be breathing, is that I brought up the dive re
 
 When mastering breath training your body has _more_ oxygen available to it even though you are breathing shallower.
 
-### jeanie@truelongmont.com — 2012-03-20T15:26:45+0200
+### [email redacted] — 2012-03-20T15:26:45+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-3213>
 
 Also, his comments on the REACTIONS from those who've read the book - would "a protocol of learning to hold your breath and/or breath through your nose" make you go OMG, THIS IS A PARADIGM SHIFT. . or whatever they have been exclaiming.
@@ -3687,7 +3687,7 @@ He does like the word play - something in our mouths? Hold something in our mout
 
 I still hope it's SOMETHING we can do that will assist in making us optimal.
 
-### jeanie@truelongmont.com — 2012-03-20T15:28:39+0200
+### [email redacted] — 2012-03-20T15:28:39+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-3215>
 
 I too think his story about the heart surgery was somewhat relevant. . perhaps it's simply chilled air or something going into our lungs while we are cold adapted. So once we cold adapt, then we breath cold air and voila!
@@ -3748,7 +3748,7 @@ The graph also showers winter swimmers have lower adrenaline levels than the con
 
 I do understand that actually, though it probably didn't come across in that post. Dr. Kruse wrote that he did not believe Wil Hofs' abilities had anything to do with Tantric Yoga, which includes breathing and mindfulness. On the other hand, he's so cryptic  maybe he doesn't want us getting too close LOL!
 
-### jeanie@truelongmont.com — 2012-03-20T17:09:44+0200
+### [email redacted] — 2012-03-20T17:09:44+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-3259>
 
 He hasn't said "no to you all!" in a while. . . perhaps we hit on it!
@@ -3780,7 +3780,7 @@ If I didn't know better, I wouldn't associate being immersed into icy water as s
 
 and i was also thinking about that youtube vid i linked to a couple days ago about the aquatic ape theory of evolution... i know it's a controversial theory, but it does give pause for thought in terms of rapid human evolution. they might not have spent tons of time in really cold water, but as dr k points out, all you need is a temperature gradient and time (more for warmer water). maybe we became the creatures we are by chilling at the beach and snacking on heaps of seafood.
 
-### jeanie@truelongmont.com — 2012-03-20T18:23:14+0200
+### [email redacted] — 2012-03-20T18:23:14+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-3309>
 
 > **bonita;3313 wrote:** and i was also thinking about that youtube vid i linked to a couple days ago about the aquatic ape theory of evolution... i know it's a controversial theory, but it does give pause for thought in terms of rapid human evolution. they might not have spent tons of time in really cold water, but as dr k points out, all you need is a temperature gradient and time (more for warmer water). maybe we became the creatures we are by chilling at the beach and snacking on heaps of seafood.
@@ -3845,7 +3845,7 @@ I recently switched to swing shift and can say this is exactly what happened to 
 
 i know what it is: one pound of dark chocolate a day
 
-### jeanie@truelongmont.com — 2012-03-20T19:16:45+0200
+### [email redacted] — 2012-03-20T19:16:45+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-3351>
 
 Just listened to a underground wellness podcast with Dr. K. Here were his factor x comments!
@@ -3947,7 +3947,7 @@ If I recall that study, and it's been a long time so hang in there with me, is t
 
 I think part of the point of that study was that the aggression disposition is dominant... you need two domesticated parents to produce a domesticated baby... if one of the parents is aggressive, you don't get a 50/50 mix of babies
 
-### jeanie@truelongmont.com — 2012-03-20T20:24:29+0200
+### [email redacted] — 2012-03-20T20:24:29+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-3398>
 
 There is evidence of poles "shifting", I won't go into the science. . . but what if the location of africa was cold, poles shifted, then it was warm. Thus stranding all of us cold mammals in a warm environment with the need to adapt or die. Then those mammals that could come off of 4 legs and reach up for the fruit would move on.
@@ -4030,14 +4030,14 @@ I'd say that would have been stressful!
 
 Oh my. Love it.
 
-### kcorcoran@comcast.net — 2012-03-20T21:46:07+0200
+### [email redacted] — 2012-03-20T21:46:07+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-3463>
 
 Ok, I'll take a shot:
 
 Factor X - environmental change affecting epigenetic gene expression. The environment is all encompassing: weather (climate), geography, technology (fire, tools to modernity) food, light and dark cycles, circadian rhythms, thoughts...
 
-### phillipsgeorge@hotmail.com — 2012-03-20T22:10:50+0200
+### [email redacted] — 2012-03-20T22:10:50+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-3484>
 
 Didn't the Doc mention recently in his blog about having a 'family salmon-run room' in his house? or something similar?
@@ -4105,7 +4105,7 @@ Maybe not Factor X but I get a point on one count: We all have it!!_
 
 EDIT: There's a real good nugget on Time from Dr K somewhere in the abyss of the MDA Monster Thread. Might try to find it. I printed it but didn't save it on my laptop.
 
-### phillipsgeorge@hotmail.com — 2012-03-21T10:19:38+0200
+### [email redacted] — 2012-03-21T10:19:38+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-3810>
 
 Can't find that 'salmon run' reference in the blog!
@@ -4440,21 +4440,21 @@ C is the speed of light in a vacuum...
 
 probably not for Dr K...
 
-### jeanie@truelongmont.com — 2012-03-21T23:52:02+0200
+### [email redacted] — 2012-03-21T23:52:02+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4090>
 
 > **Randychaps;4058 wrote: I don't know if anyone has suggested this before, but I think "music" just might be Factor X. It can elicit an emotional response** and is probably an unanticipated consequence of our big brains. Music combined with CT--who knows what kind of hormonal or other biologic effect that could solicit. Just a thought. Music does influence our moods after all--mellows or excites and everything in between.
 
 Not as jaw dropping as telepathic aliens, but it might help keep one calm during ct!
 
-### jeanie@truelongmont.com — 2012-03-21T23:53:42+0200
+### [email redacted] — 2012-03-21T23:53:42+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4091>
 
 > **Jack Kruse;4080 wrote:** I think I may have a special thing ready for anyone who gets it before I drop it.......I'm thinking I may drop it on Jimmy Moore's cruise. He wants me to replace Gary Taubes as the lead speaker......in May.
 
 That's pretty big considering GT's role to the LC world. I wasn't going to cruise. . .but damn it's tempting just to get the info! I sure hope some twitter/bloggers will be going and sharing as soon as it comes out your pie hole!
 
-### jeanie@truelongmont.com — 2012-03-21T23:54:58+0200
+### [email redacted] — 2012-03-21T23:54:58+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4093>
 
 > **Adriana;4114 wrote:** C is the speed of light in a vacuum...
@@ -4569,7 +4569,7 @@ jesse
 
 Great recap and this made me laugh!
 
-### pthomaslandry@gmail.com — 2012-03-22T03:38:40+0200
+### [email redacted] — 2012-03-22T03:38:40+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4205>
 
 Does it have to do with smell/olfactory senses? Doesn't it stimulate the hypothalmus?
@@ -4730,17 +4730,17 @@ It's quantum biology. We exist in two states, cold adapted and warm adapted, and
 
 Yep, I've fallen down the rabbit hole!
 
-### jeanie@truelongmont.com — 2012-03-22T05:24:24+0200
+### [email redacted] — 2012-03-22T05:24:24+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4265>
 
 Using smell therapy to rewire our brain. Smells are thermoeffected.
 
-### jeanie@truelongmont.com — 2012-03-22T05:28:13+0200
+### [email redacted] — 2012-03-22T05:28:13+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4267>
 
 Light shined in the ear canal can effect the brain. I still think its something tied to a sense. It could still be sounds, and he just missed when i said it earlier!
 
-### phillipsgeorge@hotmail.com — 2012-03-22T10:08:56+0200
+### [email redacted] — 2012-03-22T10:08:56+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4290>
 
 > Just like in the garden of Eden.
@@ -4769,7 +4769,7 @@ Dr Kruse is it bigger than a bread box?
 
 Something that's tied to the moon's cycles...?
 
-### jeanie@truelongmont.com — 2012-03-22T15:28:37+0200
+### [email redacted] — 2012-03-22T15:28:37+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4349>
 
 Is there a chance we are doing it in our day to day life, and just need to focus it? Is it an action that will assist in our Optimization?
@@ -4828,7 +4828,7 @@ I was thinking about this last night. I don't know if it's Factor X, but how can
 
 All this suspense is krillin' us!
 
-### jeanie@truelongmont.com — 2012-03-22T16:19:01+0200
+### [email redacted] — 2012-03-22T16:19:01+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4394>
 
 > **Clabbergirl;4407 wrote: There's several connections to it. Here's [one](http://http://www.lorrieschoettler.com/2011/03/circadian-rhythms/):
@@ -4982,7 +4982,7 @@ Factor X would be the refractive index of a human, which can be influenced by va
 
 It would explain why we need less calories in cold... I think, LOL. And how seafood is related to Factor X...
 
-### jeanie@truelongmont.com — 2012-03-22T20:55:11+0200
+### [email redacted] — 2012-03-22T20:55:11+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4600>
 
 Unless everyone he has had do factorX is under a major non-disclosure agreement, there are lots of people out there that are probably talking about this with others. My google-fu has turned up nothing. I want an oompa loompa daddy!
@@ -5052,7 +5052,7 @@ Wow, I like this.
 >
 > It would explain why we need less calories in cold... I think, LOL. And how seafood is related to Factor X...
 
-### nosnhojjennifer@yahoo.com — 2012-03-22T21:02:57+0200
+### [email redacted] — 2012-03-22T21:02:57+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4602>
 
 I was reading the Oprah blog today and in the comments Laura at 244 asks why she is starving on the days she walks with a friend and not hungry on the days she works out with trainer at gym or does a DVD home alone. And Dr K tells her she's hit Factor X. So, is it somethIng to do with socialization? Language? Communities?
@@ -5141,7 +5141,7 @@ I think you're onto something!
 
 I have to say that I had been thinking about the Starfish idea in a similar way. I like how you developed the demonstration part of the picture as well.
 
-### jeanie@truelongmont.com — 2012-03-23T01:25:17+0200
+### [email redacted] — 2012-03-23T01:25:17+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4725>
 
 > **N~Doro;4749 wrote:** I have to say that I had been thinking about the Starfish idea in a similar way. I like how you developed the demonstration part of the picture as well.
@@ -5171,7 +5171,7 @@ In response to whether Factor-X would be revealed at the upcoming TedXNashville 
 
 This tells me that either this bio hack is not related to Factor-X...or, how it relates to Factor-X will not be obvious. Why was I thinking otherwise?
 
-### jeanie@truelongmont.com — 2012-03-23T02:20:14+0200
+### [email redacted] — 2012-03-23T02:20:14+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4752>
 
 > **LisaAPB;4759 wrote:** Well I can attest that I hurt my hand twice the second week I was doing CT, the second time I'm sure I broke a finger bone. Not only was I icing my body, but also my finger and it was healed in a matter of days except for a tiny bump under the skin that was sensitive. I also had a burn on my forearm (darn oven) that healed in a matter of days, and I know that is super fast because I've done it numerable times before and it usually takes 10-14 days to scab over and heal. I also got a nasty virus that was going around and everyone else was taken down for days with lingering chest and sinus congestion for more than a week. Not me... 24 hours and I was good to go.
@@ -5182,7 +5182,7 @@ This tells me that either this bio hack is not related to Factor-X...or, how it 
 
 Oh Lisa! I'm so itchy too. I've got rashes, lumps and bumps. Fortunately I'm excited about them because it means something is happening. I ask my husband to rub oil on my back last night and he was "what the heck did you do to your back?!" it had stripy welts on it.
 
-### jeanie@truelongmont.com — 2012-03-23T02:21:25+0200
+### [email redacted] — 2012-03-23T02:21:25+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4753>
 
 > **AmyK;4767 wrote:** In response to whether Factor-X would be revealed at the upcoming TedXNashville event, should he get to speak, Dr. Kruse replied:
@@ -5197,7 +5197,7 @@ Oh Lisa! I'm so itchy too. I've got rashes, lumps and bumps. Fortunately I'm exc
 
 Poop. I wonder why he HAS to save that.
 
-### nicebeanst@yahoo.com — 2012-03-23T02:34:22+0200
+### [email redacted] — 2012-03-23T02:34:22+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4762>
 
 > **Cavemam;4780 wrote:** Oh Lisa! I'm so itchy too. I've got rashes, lumps and bumps. Fortunately I'm excited about them because it means something is happening. I ask my husband to rub oil on my back last night and he was "what the heck did you do to your back?!" it had stripy welts on it.
@@ -5230,7 +5230,7 @@ I agree it must be the sunshine...hmmm, Dr K mentioned he has a "Dark Room" at h
 
 GREAT idea!
 
-### kc_boxerman@yahoo.com — 2012-03-23T03:13:29+0200
+### [email redacted] — 2012-03-23T03:13:29+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4780>
 
 > **Adriana;4791 wrote:** I agree it must be the sunshine...hmmm, Dr K mentioned he has a "Dark Room" at his house. Is strategic use of dark ithe X Factor, Dr K?
@@ -5239,7 +5239,7 @@ I guessed daylight way back, so I'm assuming thats not it.
 
 I think the January 9 ultimate biohack was when Dr. Jack Kruse awoke from his induced multi-day sleep/hybernation. That would have got his wife's attention.
 
-### kc_boxerman@yahoo.com — 2012-03-23T03:15:06+0200
+### [email redacted] — 2012-03-23T03:15:06+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4781>
 
 > **Optim;4808 wrote:** I think the January 9 ultimate biohack was when Dr. Jack Kruse awoke from his induced multi-day sleep/hybernation. That would have got his wife's attention.
@@ -5342,7 +5342,7 @@ Doctor Curtis Conners may have the answer. But the cost...
 **
 LoL oh if only I knew I could end this Google fueled brain drain!!!  "The process of liver regeneration involves the triggering of active growth in the remaining liver cells, in cells of bile ductules, and in unspecialized cells called stem cells**, all of which are usually quiescent in the normal liver. Proliferation of these cells and their subsequent differentiation are key events in the process by which the missing liver mass is replaced and adequate hepatic function restored. In the musculoskeletal system, different populations of quiescent stem cells allow efficient replacement of damaged or partially removed bones and muscles."
 
-### jeanie@truelongmont.com — 2012-03-23T05:29:07+0200
+### [email redacted] — 2012-03-23T05:29:07+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4847>
 
 > **Souldanzer;4815 wrote:** b/c it's a well-known tactic to increase book sales and push the price of the book up up up
@@ -5357,7 +5357,7 @@ LoL oh if only I knew I could end this Google fueled brain drain!!!  "The proces
 
 And did you benefit greatly from this earthshattering knowledge?
 
-### jeanie@truelongmont.com — 2012-03-23T05:32:52+0200
+### [email redacted] — 2012-03-23T05:32:52+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-4848>
 
 > **MJ\*;4870 wrote: LoL oh if only I knew I could end this Google fueled brain drain!!!  "The process of liver regeneration involves the triggering of active growth in the remaining liver cells, in cells of bile ductules, and in unspecialized cells called stem cells**, all of which are usually quiescent in the normal liver. Proliferation of these cells and their subsequent differentiation are key events in the process by which the missing liver mass is replaced and adequate hepatic function restored. In the musculoskeletal system, different populations of quiescent stem cells allow efficient replacement of damaged or partially removed bones and muscles."
@@ -5585,7 +5585,7 @@ do you when they'll post your talk on line??? BC I'm not only going to listen to
 
 kool!
 
-### jeanie@truelongmont.com — 2012-03-23T21:54:53+0200
+### [email redacted] — 2012-03-23T21:54:53+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-5130>
 
 > **Jack Kruse;5097 wrote:** depends upon hormones....but most within in a month
@@ -5601,7 +5601,7 @@ Sensory deprivation during CT? Amirite?
 
 Dr K did say that he operated on the spine of a Hindu that was/is able to control the sensation of pain without medication. Worst and most nervous operation Dr said he has done, ever.
 
-### kc_boxerman@yahoo.com — 2012-03-23T22:20:32+0200
+### [email redacted] — 2012-03-23T22:20:32+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-5142>
 
 > **Cavemam;5162 wrote:** Oooookay. So it's something we can implement. Something we can add to our current CT + Paleo. So glad it's something we can do.
@@ -5638,7 +5638,7 @@ nope.......but nice guess. That is levee 30 there.
 >
 > I commented on his post! Sooooo excited to hear more...increased time in the cold shower this morning and drove to and from the grocery store with my windows down...it was 44 degrees F out...brrrr lol
 
-### finnite@dccnet.com — 2012-03-24T00:20:07+0200
+### [email redacted] — 2012-03-24T00:20:07+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-5185>
 
 > **Optim;5174 wrote:** And he's said it impressed his wife...
@@ -5689,7 +5689,7 @@ Though oxygen in it's very nature sets us up for oxidation, maybe it's the flip 
 
 Sent from my Sprint Samsung Galaxy S II Epic.
 
-### phillipsgeorge@hotmail.com — 2012-03-24T12:12:56+0200
+### [email redacted] — 2012-03-24T12:12:56+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-5356>
 
 Switch off that cell phone. xxx.
@@ -5833,7 +5833,7 @@ OMG clearly not a nope , thanks Dr. Kruse!
 
 Interesting...going to have to sit on this for a while.....
 
-### jeanie@truelongmont.com — 2012-03-24T19:57:23+0200
+### [email redacted] — 2012-03-24T19:57:23+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-5503>
 
 I had a scary thought this morning while trying to turn down the temp in the shower.
@@ -5887,7 +5887,7 @@ As a side note; sitting in a tub of freezing water, covered in ice in total dark
 
 This makes some sense! I like it
 
-### phillipsgeorge@hotmail.com — 2012-03-24T21:32:46+0200
+### [email redacted] — 2012-03-24T21:32:46+0200
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-5529>
 
 salmon run up the cold rivers after the warm sea. Have you seen them leap up those rapids. Impossible jumps!
@@ -6214,7 +6214,7 @@ Could gradual and cumulative cold adaptation in the presence of a ketogenic ener
 
 .
 
-### jeanie@truelongmont.com — 2012-03-25T05:29:32+0300
+### [email redacted] — 2012-03-25T05:29:32+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-5674>
 
 MJ, i am loving your posts - keep em coming!
@@ -6263,7 +6263,7 @@ Thanks but you need to send me away LOL I'm obsessed, and my family needs some c
 
 Precisely, perhaps it's our sentience. Sure our sentience can work against us when we insist on creating biologic mismatches. But we can harness it and use it to choose to become optimal regardless of what's going on around us. The ability to take control no matter what, because we can.
 
-### jeanie@truelongmont.com — 2012-03-25T05:42:39+0300
+### [email redacted] — 2012-03-25T05:42:39+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-5684>
 
 > **Jack Kruse;5634 wrote:** [http://www.youtube.com/watch?v=1N\_9HZRVl-g&feature=share\[/video\]\]\[video=youtube\_share;1N\_9HZRVl-g\]http://www.youtube.com/watch?v=1N\_9HZRVl-g&feature=share\[/video\]](http://[video=youtube_share;1N_9HZRVl-g)
@@ -6325,7 +6325,7 @@ Anaerobic energy expenditure? (and transfer?)
 
 I'd love to read it if you happen to come across it again! Thanks, MJ!
 
-### phillipsgeorge@hotmail.com — 2012-03-25T12:29:39+0300
+### [email redacted] — 2012-03-25T12:29:39+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-5743>
 
 I've been trying to take in and understand all the recent comments........... I think I've got it:
@@ -6402,7 +6402,7 @@ A single mutation can have a large effect, but in many cases, evolutionary chang
 
 Since all of life began in a frozen world, I propose that all of life started with DNA that was coded for a cold blooded existence, through millions of years of evolutionary changes (changes in proteins) occurred with some organisms remaining cold blooded and others becoming warm blooded, but with the warm blooded creatures having their silent mutations for cold bloodedness preserved, mutations that hold or control the switch for the proteins within their/our DNA for cold bloodedness, ones that environmental pressures such as CT can switch back on.
 
-### jeanie@truelongmont.com — 2012-03-25T16:13:57+0300
+### [email redacted] — 2012-03-25T16:13:57+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-5761>
 
 > **David;5786 wrote:** But I believe, and please correct me if I got this wrong, that "reporter in Austin" who "quickly realized it when Dr Kruse told her" is a physician that does healthcare reporting for CBS TV in San Francisco. If I got that correct, she may be the one that did an N=1 Paleo diet experiment last year that was linked to in some Paleo Blogs, not so very long ago. IOW, she may have been the perfect reporter to have heard Dr. Kruse explain the latest part of the QUILT.
@@ -6416,7 +6416,7 @@ It's sex. We eat.we sleep.we reproduce. They are all natural and healthy.
 
 KP
 
-### jeanie@truelongmont.com — 2012-03-25T16:17:31+0300
+### [email redacted] — 2012-03-25T16:17:31+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-5763>
 
 > **Kpcst;5796 wrote:** It's sex. We eat.we sleep.we reproduce. They are all natural and healthy.
@@ -6440,7 +6440,7 @@ This is probably the reporter. Kim Mulvihill.
 
 That would make her quick on the uptake!
 
-### jeanie@truelongmont.com — 2012-03-25T16:21:49+0300
+### [email redacted] — 2012-03-25T16:21:49+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-5766>
 
 > **Kpcst;5796 wrote:** It's sex. We eat.we sleep.we reproduce. They are all natural and healthy.
@@ -6765,7 +6765,7 @@ Not sure it's related to Factor-X, but I have a feeling that pain perception wil
 
 I could be wrong.
 
-### jeanie@truelongmont.com — 2012-03-25T20:38:03+0300
+### [email redacted] — 2012-03-25T20:38:03+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-5922>
 
 I keep coming back to light/sun, and how full body exposure to the elements in general is lacking in our neolithic world. It's been a constant in the history of life here - skin facing the elements. There may have been some moments due to sudden changes (astroid clouds) that could have effected adaptation. . but for the most part, seems like it's been relevant to hominids.
@@ -6810,7 +6810,7 @@ this is the closest I have seen anyone come to Factor X..........
 
 This is one of Dr K's bread crumbs. I believe Wim Hof gives the answer in this video.
 
-### kcorcoran@comcast.net — 2012-03-25T20:45:56+0300
+### [email redacted] — 2012-03-25T20:45:56+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-5932>
 
 time to lose the clothes?
@@ -6888,7 +6888,7 @@ Thanks now what can we do with that? Let's all think on that...
 
 I already guessed this, and got no takers.
 
-### jeanie@truelongmont.com — 2012-03-25T21:29:12+0300
+### [email redacted] — 2012-03-25T21:29:12+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-5949>
 
 > **MJ\*;5976 wrote:** Good to know...
@@ -6996,7 +6996,7 @@ Hee hee ha ha, I knew I was right. It's fun to say just enough to get the path g
 
 We're going to have to start wrestling lions.
 
-### phillipsgeorge@hotmail.com — 2012-03-25T22:46:39+0300
+### [email redacted] — 2012-03-25T22:46:39+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-5991>
 
 Did I hear monty python:
@@ -7338,7 +7338,7 @@ Do it, MJ!!!
 
 This is the last hint I will give.........until the book comes out.
 
-### phillipsgeorge@hotmail.com — 2012-03-26T00:21:00+0300
+### [email redacted] — 2012-03-26T00:21:00+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6046>
 
 So close to easter. I hope this isn't going to involve crucifixion and lying 3 days in a cold cave.
@@ -7534,14 +7534,14 @@ By swimming, eating fish and exposing yourself to cold, you have reset your biol
 
 Polar bears live only in the arctic, which is essentially frozen ice (though not frozen year round). Penguins live only in the antarctic, which is continental land covered in ice and snow (which never thaws and is dense with minerals). Both are free of predators... polar bears because they 'rule' the area, penguins because there are no natural predators, which is why their wings evolved into flippers. Both eat from the water (for penguins, mostly fish and for polar bears mostly seals) and swim regularly but mate/birth/sleep on land. Both appear perfectly adapted to their climate, following cycles for mating, feeding, migrating, etc. Both experience seasonal changes without problem... so are cold adapted but able to respond well to flexible seasonal fluctuation. One hibernates, the other does not. Both use a singing call to find a mate.
 
-### jeanie@truelongmont.com — 2012-03-26T02:00:28+0300
+### [email redacted] — 2012-03-26T02:00:28+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6108>
 
 Beautiful day here in CO, had a few free hours unexpectedly. Decided to get up a mountain and walk in the cold. What did I ponder. Factor X. . .although I see now that I'm back, I don't think I made any progress.
 
 HOWEVER - I did have a thought that felt epiphany like. Was the experiment a total committment to the ancient pathway by blocking out the neolithic pathway? Did you sever the normal connection to the hypothalamus?
 
-### jeanie@truelongmont.com — 2012-03-26T02:07:00+0300
+### [email redacted] — 2012-03-26T02:07:00+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6112>
 
 > **Jack Kruse;6065 wrote:** Here is major hint to FACTOR X:
@@ -7584,7 +7584,7 @@ From the CT7 comments: "alpha MSH upregulates melanocytes because it reduces the
 
 Are there clues in this nugget?
 
-### jeanie@truelongmont.com — 2012-03-26T02:17:37+0300
+### [email redacted] — 2012-03-26T02:17:37+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6122>
 
 So if you reset to zero, and zero is pre warm hominid evolution time, Is there still ancient programming to grow gills or fins? Can you restart and control for the program that emerges by behaving in ancient ways, by applying the full program including factor x?
@@ -7593,7 +7593,7 @@ My face is burning up with excitement thinking about these things. When I left, 
 
 I may have to block this thread from myself, I hope I'm a ready student for this master.
 
-### nosnhojjennifer@yahoo.com — 2012-03-26T02:18:10+0300
+### [email redacted] — 2012-03-26T02:18:10+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6123>
 
 I don't know if this awareness is related to Factor X or not, but have you all noticed that your intuition is much more acute? Just stupid little things...Like I was late for work and tearing my kitchen apart looking for this lid. I kept trying to think of where I would have put it but I only found it when I stopped thinking about it and my hand just opened the silverware drawer and there it was. And, sounds stupid, but I always find really good parking now without even trying. I'm not really thinking about it, just driving and turning and things just open up. I may give up thinking all together and run on instinct!
@@ -7610,7 +7610,7 @@ LOL they tortured me with wanting a full meal and my attention!
 
 DH's comment about David... Mentioned engorged testicles which indicates increased blood flow.... and..... the energy and life it represents.
 
-### jeanie@truelongmont.com — 2012-03-26T02:26:22+0300
+### [email redacted] — 2012-03-26T02:26:22+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6131>
 
 > **AmyK;6152 wrote:** [http://www.youtube.com/watch?v=FtnGjBlwwxE&feature=youtu.be\[/video\]\]\[video=youtube\_share;FtnGjBlwwxE\]http://www.youtube.com/watch?v=FtnGjBlwwxE&feature=youtu.be\[/video\]](http://[video=youtube_share;FtnGjBlwwxE)
@@ -7691,7 +7691,7 @@ As one ascends the tree of evolution, moving from more primitive to more advance
 
 As important as instincts are to our survival, our learned perceptions are more important, especially in light of the fact that they can over-ride genetically programmed instincts. Since perceptions direct gene activity and engage behavior, the learned perceptions we acquire are instrumental in Ã¢â‚¬Å“controllingÃ¢â‚¬Â￾ the physiologic and behavioral character of our lives. The sum of our instincts and learned perceptions collectively form the subconscious mind, which in turn, is the source of the Ã¢â‚¬Å“collectiveÃ¢â‚¬Â￾ voice that our cellÃ¢â‚¬â„¢s Ã¢â‚¬Å“agreedÃ¢â‚¬Â￾ to follow.
 
-### jeanie@truelongmont.com — 2012-03-26T02:52:14+0300
+### [email redacted] — 2012-03-26T02:52:14+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6159>
 
 So does being a part of this thread count as "peer review" for our ideas? heh.
@@ -7806,7 +7806,7 @@ Black and white?
 
 MJ you are one smart cookie!
 
-### kcorcoran@comcast.net — 2012-03-26T03:59:55+0300
+### [email redacted] — 2012-03-26T03:59:55+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6183>
 
 melanin, cold swim and a tan? frostbite and sunburn protection, cool
@@ -7930,7 +7930,7 @@ I might have missed this -- is Factor X something else to be implemented (like L
 
 Silence. Intuition flourishes in silence.
 
-### newportandy@gmail.com — 2012-03-26T06:06:43+0300
+### [email redacted] — 2012-03-26T06:06:43+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6234>
 
 Ookey, been lurking too long, gotta post something.
@@ -8068,7 +8068,7 @@ The intensity of the human dive response is relative to the temperature of the w
 
 Interesting concept overall, Lauren. An even greater effect would be if each cell relates to every other cell, the effect could be geometric rather than simply a multiplier.
 
-### jeanie@truelongmont.com — 2012-03-26T15:58:06+0300
+### [email redacted] — 2012-03-26T15:58:06+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6309>
 
 > **jumcc;6311 wrote:** something that i often think about is why do humans like the warmth and carbs? Why have we become what we have become, what made us select for this path in our evolution, why did we go down this track???
@@ -8077,7 +8077,7 @@ I think about this as well. I am on board with all of this - but I do think ther
 
 So, if there was a "warm area" up in a polar region, would the cold adapted mammals be drawn to it? Clearly there are paradigm shifting effects of cold therapy, but is going full Ice Man the optimal?
 
-### jeanie@truelongmont.com — 2012-03-26T16:04:13+0300
+### [email redacted] — 2012-03-26T16:04:13+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6313>
 
 > **LinD;6261 wrote:** I might have missed this -- is Factor X something else to be implemented (like Leptin Reset or CT) or is it a result of CT and all that goes with it (Holy Trinity)?
@@ -8253,7 +8253,7 @@ Dr. Kruse I think would say, because we became too smart for our own good! We di
 
 I think so...
 
-### phillipsgeorge@hotmail.com — 2012-03-26T16:36:48+0300
+### [email redacted] — 2012-03-26T16:36:48+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6343>
 
 I'm so glad Michelangelo used his neolithic skills and knowledge to reveal the underlying paelolithic perfection.
@@ -8740,7 +8740,7 @@ I guess the brain isn't supposed to get that cold.
 
 Also, he said that alpha-MSH and the activation of melanocytes was common to all of them and important (and the white and black skin/fur/feathers) in that it helped protect against hypothermia. So, how do we put these together to get Factor X??!!!
 
-### jeanie@truelongmont.com — 2012-03-26T20:44:03+0300
+### [email redacted] — 2012-03-26T20:44:03+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6486>
 
 I wonder if salinity adjustments to the homeostasis?
@@ -9183,7 +9183,7 @@ March 25th, 2012 at 8:22 am
 
 maybe getting closer????
 
-### jeanie@truelongmont.com — 2012-03-26T22:38:51+0300
+### [email redacted] — 2012-03-26T22:38:51+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6564>
 
 Submerged in water (possibly with ocean like salinity and ph) sure does fit all the little comments like
@@ -9403,7 +9403,7 @@ I think it is a manipulated storm of all things. We respond/adapt through cold, 
 
 I am leaning toward environmental pressure that alters a biological process in a way we haven't conceived of before.
 
-### jeanie@truelongmont.com — 2012-03-27T00:03:40+0300
+### [email redacted] — 2012-03-27T00:03:40+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6608>
 
 > **donkjellberg;6605 wrote:** I LIKE this idea. Living in an area that would allow this type of activity seems almost idyllic.
@@ -10222,7 +10222,7 @@ Factor X. Patients. Us. We will change healthcare because the system isn't heali
 
 LOL can you not see...evolution is leaving me behind!
 
-### jeanie@truelongmont.com — 2012-03-27T06:32:44+0300
+### [email redacted] — 2012-03-27T06:32:44+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6828>
 
 We are the alpha and omega?
@@ -10289,7 +10289,7 @@ The Truth shall set you free!
 
 What would tie all those things together is our IQ but that can't be factor X, its too simple.
 
-### jeanie@truelongmont.com — 2012-03-27T06:45:27+0300
+### [email redacted] — 2012-03-27T06:45:27+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6844>
 
 We are still on, still no confirmation on what we can do, that he did, that is the real panty-dropper to "even the news lady"
@@ -10301,7 +10301,7 @@ We are still on, still no confirmation on what we can do, that he did, that is t
 
 Hahaha. I'm sure that's it.
 
-### jeanie@truelongmont.com — 2012-03-27T06:52:39+0300
+### [email redacted] — 2012-03-27T06:52:39+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6849>
 
 > **AmyK;6883 wrote:** D.c. ..............
@@ -10576,14 +10576,14 @@ March 26th, 2012 at 10:39 pm
 
 @GeneK using deep CT Wim Hot was able to inject bacteria and not get ill……..I was able to withstand something more radical with no ill effects.** So far I know of nothing that CT does to make you ill. It strengthens immunity as I laid out in CT 6.
 
-### phillipsgeorge@hotmail.com — 2012-03-27T12:11:42+0300
+### [email redacted] — 2012-03-27T12:11:42+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6897>
 
 Might it be said one day that the modern world was divided into two eras; BK and AK ?
 
 NO?
 
-### phillipsgeorge@hotmail.com — 2012-03-27T12:26:16+0300
+### [email redacted] — 2012-03-27T12:26:16+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6899>
 
 Perhaps that's why she (the reporter) laughed.
@@ -10665,7 +10665,7 @@ Factor X = Cellular Terrain?
 
 From Blog 1: "But we know from recent data that the healthier your cellular terrain is the more likely you are to avoid surgery as you age. Ms. Catherine Mohr does some really cool things with robotic technology but I believe her focus on our real target is a bit off. What if we reject her premise that we need surgery most of the time to treat degenerative diseases and cancer. What if cancer and degenerative disease rate dropped and became less prevalent with real preventative treatments? How about we just take care of our cells to the best of our ability and avoid the pitfalls of all surgery and robots?"
 
-### phillipsgeorge@hotmail.com — 2012-03-27T14:14:25+0300
+### [email redacted] — 2012-03-27T14:14:25+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6913>
 
 Did the Rolling Stones get it all those years ago?
@@ -10681,7 +10681,7 @@ It's a gas, gas, gas.
 
 How about taste buds. With our big brains, we are able to follow our taste buds in ways that no other animal can and lead ourselves astray. The leptin pathway is there to "correct" for those errors.
 
-### phillipsgeorge@hotmail.com — 2012-03-27T14:24:35+0300
+### [email redacted] — 2012-03-27T14:24:35+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6916>
 
 ....and every time the Doc wrote 'nope' he gave us the answer!
@@ -10938,14 +10938,14 @@ slowed life processes are compensated for by speeding up epigenetics
 
 What about a natural disaster being the cause of our epigenetics to speed up? The stress from the lack of resources from such a thing could have forced our ancestors to change their behavior and learn to fight for what was available, or seek alternative food sources...
 
-### nosnhojjennifer@yahoo.com — 2012-03-27T16:06:26+0300
+### [email redacted] — 2012-03-27T16:06:26+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6969>
 
 > **Jack Kruse;6973 wrote:** and why would evolution allow for this amazing adaptation? Why is it that this bird can do this? What naturally selected for it?
 
 an ice age? the ones that couldn't would die if temps were going wild - kind of like they are now - 70 last week and 30 today
 
-### jeanie@truelongmont.com — 2012-03-27T16:08:08+0300
+### [email redacted] — 2012-03-27T16:08:08+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-6971>
 
 Mamag, i too have a little fear going on of the lost effect. Who wants to get this invested in something to be made a fool of? It's a liittle to close to all those fads we've discussed prior.
@@ -11150,7 +11150,7 @@ I'll keep my phone line open, Doc. LOL.
 
 Extending on this, maybe we sped up our epigenetics through concurrent ice ages???
 
-### jeanie@truelongmont.com — 2012-03-27T16:59:27+0300
+### [email redacted] — 2012-03-27T16:59:27+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7000>
 
 > **Jack Kruse;7014 wrote:** bingo...........
@@ -11213,7 +11213,7 @@ The clinical goal is to modulate the TH-1, TH-2, TH-3, and TH-17 systems (by mod
 
 Eventually, after my ongoing review of the research and clinical experience, it became apparent glutathione pathway integrity and nitric oxide modulation (boosting the good and dampening the harmful) offered profound responses.
 
-### jeanie@truelongmont.com — 2012-03-27T17:03:31+0300
+### [email redacted] — 2012-03-27T17:03:31+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7005>
 
 May I suggest a conference call?  So we can get dibs on ya before the media and hype overwhelm and you actually go live in a cave to get away from it all? I've got vid con all set up! We could do it!
@@ -11252,7 +11252,7 @@ Concept "The Naked Ape"
 
 What other creature with ancient cold adapt pathways has no fur, feathers or blubber?
 
-### phillipsgeorge@hotmail.com — 2012-03-27T17:12:06+0300
+### [email redacted] — 2012-03-27T17:12:06+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7014>
 
 > **LisaAPB;7026 wrote:** I think I found it and the answer is NO.
@@ -11319,7 +11319,7 @@ localad, lol, it's a gas, gas gas... except when it's a chaperone.
 
 I just spent the last hour looking up iNOS and eNOS in his past blogs. Now I'm going to be late for work!
 
-### jeanie@truelongmont.com — 2012-03-27T17:35:09+0300
+### [email redacted] — 2012-03-27T17:35:09+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7028>
 
 > **chocolate;7057 wrote:** And why are human babies so pitifully helpless and some are like the dullest human beings ever, like they learn it. No one can be born as stupid as some people are.
@@ -12709,7 +12709,7 @@ Whoot... can she share??? or must she taunt us to keep moving fwd to figure it o
 
 Probably way more than 1,000. Just saying, the asteroid was really really big-- essentially reset the planet.
 
-### finnite@dccnet.com — 2012-03-27T20:24:09+0300
+### [email redacted] — 2012-03-27T20:24:09+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7238>
 
 camels, penguins, polar bears, canadian frogs, etc---- Thermoregulation
@@ -12755,7 +12755,7 @@ Congrats MJ!
 
 LOL I'm so busy playing I didn't see that...it's really all of us! Congrats to all of us!!!
 
-### murchmb@gmail.com — 2012-03-27T20:29:19+0300
+### [email redacted] — 2012-03-27T20:29:19+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7246>
 
 My vote is both, with a quality bound hardback in the mix. While eBooks are a fine thing and have some distinct advantages over their dead tree counterparts, there is something about a well constructed, hard bound book that to me enhances the learning/reading experience. While it may seem a bit shallow, I also believe a real, paper book lends a certain level of legitimacy/credibility for a potential reader who may be a newcomer to the subject.
@@ -12792,7 +12792,7 @@ Can someone enlighten me what factor x is now? Or is it still a secret?
 
 I thought O2 and change in atmospheric composition had been noped very early on in this thread.
 
-### nicebeanst@yahoo.com — 2012-03-27T20:34:29+0300
+### [email redacted] — 2012-03-27T20:34:29+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7252>
 
 You all are light years ahead of me with science. But something occurred to me last night that I thought for sure someone would have picked up on, when JK mentioned in #874 "Mother Nature laying the hammer to anvil." I saw it as a clue.
@@ -13272,7 +13272,7 @@ I wonder if it's more than just O2 because Randychaps had this earlier.
 
 I REALLY need to get a life and stop obsessing over this! I can't wait for the book when this all comes together
 
-### jeanie@truelongmont.com — 2012-03-27T22:55:23+0300
+### [email redacted] — 2012-03-27T22:55:23+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7352>
 
 > **MJ\*;7326 wrote:** I feel your pain, sorry I can't address it...you were such a big part of this thread!
@@ -13295,14 +13295,14 @@ Can't we pre-order the book already?
 
 She got close enough. The rest will be revealed soon enough
 
-### jeanie@truelongmont.com — 2012-03-27T23:03:42+0300
+### [email redacted] — 2012-03-27T23:03:42+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7357>
 
 > **Shijin13;7334 wrote:** I like the idea of a new brain teaser....
 
 We've got it. Assuming factor-x is something we add to our training, which is also something that came about during the dino-destruction. We have to narrow down what it is, and how we are going to utilize it.
 
-### jeanie@truelongmont.com — 2012-03-27T23:06:19+0300
+### [email redacted] — 2012-03-27T23:06:19+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7358>
 
 @Jack Kruse
@@ -13425,7 +13425,7 @@ Just catching up after having to work today...I really missed being in the playg
 
 Congratulations, MJ!!!! Thanks for giving us so much encouragement, inspiration, and intellectual stimulation!!!!
 
-### jeanie@truelongmont.com — 2012-03-28T03:33:59+0300
+### [email redacted] — 2012-03-28T03:33:59+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7478>
 
 > **AmyK;7505 wrote:** INFP
@@ -13597,7 +13597,7 @@ That's awesome, thanks MJ!
 
 So thoughtful, thank you!
 
-### trishalinn@gmail.com — 2012-03-28T05:37:21+0300
+### [email redacted] — 2012-03-28T05:37:21+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7569>
 
 I've been lurking on here. Very intriguing, but haven't had anything to add. Just wanted to say good job MJ!
@@ -13655,7 +13655,7 @@ OK everyone that wants to be in on the call, at the top of the page go to commun
 
 I'm glad we could do this!
 
-### phillipsgeorge@hotmail.com — 2012-03-28T08:54:21+0300
+### [email redacted] — 2012-03-28T08:54:21+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7626>
 
 I'm so slow. I was so mesmerised with the 'what' and not the why! What and how was he doing/using not why he was doing it. NO was an obvious guess, JK being a dentist as well.
@@ -13674,7 +13674,7 @@ Now its time for breakfast and getting ready to talk to a class of 5 year olds a
 
 I've enjoyed this thread! MJ\*, you really are a star!\*
 
-### phillipsgeorge@hotmail.com — 2012-03-28T09:32:35+0300
+### [email redacted] — 2012-03-28T09:32:35+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7628>
 
 He's another reason why I was just looking for the simple 'quick fix' answer:
@@ -13716,7 +13716,7 @@ awesome! nice one
 >
 > I've enjoyed this thread! MJ\*, you really are a star!\*
 
-### phillipsgeorge@hotmail.com — 2012-03-28T13:09:32+0300
+### [email redacted] — 2012-03-28T13:09:32+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7653>
 
 It's a revelation...................
@@ -13946,14 +13946,14 @@ Isn't that what Jack is saying? That we are mismatched.
 
 Yes, he is.
 
-### jeanie@truelongmont.com — 2012-03-28T20:20:51+0300
+### [email redacted] — 2012-03-28T20:20:51+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7829>
 
 > **tessrose;7850 wrote:** Am I the only E in here? ENFJ
 
 You may be! Not sure as ive not had a real conversation - but Jacks grandiose style could go e
 
-### nicebeanst@yahoo.com — 2012-03-28T20:34:08+0300
+### [email redacted] — 2012-03-28T20:34:08+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7839>
 
 > **MamaGrok;7853 wrote:** Not surprising - most E's don't spend a lot of time researching nitty gritties on the computer, lol. But also, many people have a tendency toward social reclusion as our bodies screw up. I used to be much more outgoing, and see windows into that now, but most of the time don't want to be around anyone other than my family at all.
@@ -13967,7 +13967,7 @@ With regard to factor X, it seems we're now leaning towards respiration. Maybe H
 
 As I know, some of the animals who live the longest breath the slowest, such as the Gallapagos giant tortoise. And I personally use a device called Resperate to treat high blood pressure by slowing the rate of breathing to I think under 10 breaths per minute.
 
-### phillipsgeorge@hotmail.com — 2012-03-28T20:59:36+0300
+### [email redacted] — 2012-03-28T20:59:36+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7854>
 
 Every EE (e**Xtinction event) (and I include rapid onset climate change) requires single generation survivors. We don't have those ancient pathways left over simply as relics of previous phenotypes. We are here now because those pathways protected us in the past.
@@ -14027,7 +14027,7 @@ If you really look at what he is saying, we not only "_can adapt to new environm
 
 But the even more dramatic insight that I have gathered from reading everything on Dr. Kruse's website (blogs, comments, forums, etc.) is that we are now confronted with yet another dramatic (and planetary level) Factor X which is being caused by the very technology that has in the past, paradoxically, helped us adapt to our environments. And that Factor X is the speeding up of the epigenetic price we are paying living in modern society that is clearly mismatched to our long term healthy survival. So, the Doc has found a way to march us back to prison (paleo-cortex) as a path to overcoming the current Factor X. The path is in all of us, so adapt or die--it is Mother Nature's way.
 
-### jeanie@truelongmont.com — 2012-03-28T21:53:21+0300
+### [email redacted] — 2012-03-28T21:53:21+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7883>
 
 > **AmyK;7920 wrote:** Indeed, none of us will truly know until he tells us. I feel confident in and fascinated by what I THINK it is and what I WANT it to be! If it all fails to be true, well, I had a joyous mental adventure!
@@ -14055,7 +14055,7 @@ I am mucho excited about THAT!
 
 Brilliant.
 
-### jeanie@truelongmont.com — 2012-03-28T21:55:57+0300
+### [email redacted] — 2012-03-28T21:55:57+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7885>
 
 > **janagram;7906 wrote:** There has long been a theory in esoteric history circles that the human race has survived millenia by retreating to ...say, the Andes and the Himalayas....during Extinction Events......This is what is called Alternative History.....(a fave of mine!)
@@ -14099,7 +14099,7 @@ Am I crazy or is this logical. It seems to fit what I have seen on surviving the
 
 LL
 
-### jeanie@truelongmont.com — 2012-03-28T22:13:39+0300
+### [email redacted] — 2012-03-28T22:13:39+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7895>
 
 > **janagram;7904 wrote:** ENFP here.....yeah, I spend lots of time on forums and such, also have a high degree of introversion...myers briggs allows for high levels of opposing factors, they don't cancel each other out.
@@ -14146,7 +14146,7 @@ I was thinking the two letters could be RR - respiratory rate?
 >
 > Linkin Park NUMB
 
-### jeanie@truelongmont.com — 2012-03-28T22:19:45+0300
+### [email redacted] — 2012-03-28T22:19:45+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7902>
 
 > **MJ\*;7763 wrote:**  and keep posting I'm going to still be reading what you guys all have to say, and dying that I can't join in!!!
@@ -14162,7 +14162,7 @@ I love this group!
 
 Unfortunately, I guessed that in a blog comment a while back. I got a "nope". But, as I am learning with other elements, it doesn't mean that breathing/respiration rate is not a factor in the grand scheme of things.
 
-### jeanie@truelongmont.com — 2012-03-28T22:28:32+0300
+### [email redacted] — 2012-03-28T22:28:32+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7910>
 
 I hope the numb thing is revealed at TedX this weekend. What do all you brilliant XNXX's have to say about what it might be?!
@@ -14313,7 +14313,7 @@ me too! How INTJ of us.
 
 What was the iceman (and his friends) doing on the ice before taking the plunge? Posing? Using up aerobic capacity? Anyone care to take a guess?
 
-### finnite@dccnet.com — 2012-03-29T01:33:02+0300
+### [email redacted] — 2012-03-29T01:33:02+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-7996>
 
 > **tessrose;7850 wrote:** Am I the only E in here? ENFJ
@@ -14327,7 +14327,7 @@ I'd like to have spent more time researching this but this thing called real lif
 
 One of the interesting things with TM or meditators is the ability to consciously change body functions generally considered outside the realm of conscious control. I have never done official bio-feedback, but I have been able to change some things based on a simple request by a healthcare practitioner. THEY were amazed I could do this, but I wasn't really. I think this is much more common than our current science will allow.
 
-### finnite@dccnet.com — 2012-03-29T01:41:11+0300
+### [email redacted] — 2012-03-29T01:41:11+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-8002>
 
 > **Cavemam;7952 wrote:** I hope the numb thing is revealed at TedX this weekend. What do all you brilliant XNXX's have to say about what it might be?!
@@ -14486,7 +14486,7 @@ I'm good with a "maybe".
 
 What a tease! LMAO. ROTFL!
 
-### kcorcoran@comcast.net — 2012-03-29T03:36:42+0300
+### [email redacted] — 2012-03-29T03:36:42+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-8046>
 
 Is anyone going to Nasheville this Saturday? I'm going!
@@ -14623,7 +14623,7 @@ My take on the freezing and flatlining, in a nutshell, is that he is wanting to 
 
 I could be mistaken, but I'm pretty sure that if this is indeed what he did, he would say "Don't try this at home."
 
-### kcorcoran@comcast.net — 2012-03-29T07:09:57+0300
+### [email redacted] — 2012-03-29T07:09:57+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-8151>
 
 > **AmyK;8093 wrote:** ...or real-time transcription of the talk, posted here???? (Kidding... unless you want to)
@@ -14661,14 +14661,14 @@ I'm pretty sure that single thought changed her DNA....
 
 so cryptic
 
-### phillipsgeorge@hotmail.com — 2012-03-29T10:27:52+0300
+### [email redacted] — 2012-03-29T10:27:52+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-8171>
 
 AmyK, I enjoyed your selection of marble/ice shots and thought of one of these. The simple solution!
 
 [http://guestofaguest.com/wp-content/uploads/2010/07/July\_42.jpg](http://http://guestofaguest.com/wp-content/uploads/2010/07/July_42.jpg)
 
-### phillipsgeorge@hotmail.com — 2012-03-29T10:29:09+0300
+### [email redacted] — 2012-03-29T10:29:09+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-8172>
 
 AmyK, I enjoyed your selection of marble/ice shots and thought of one of these ice blocks. The simple solution!
@@ -14999,7 +14999,7 @@ It's not learning for me; it's a curse! My dreams are always lucid, always have 
 
 Now I remember Dr. Kruse implying some day I might be able to wake and record composed songs ... haven't heard anything about that since. But not dreaming vividly or remembering my dreams has never been my problem, yack!
 
-### nicebeanst@yahoo.com — 2012-03-29T17:03:59+0300
+### [email redacted] — 2012-03-29T17:03:59+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-8262>
 
 > **MamaGrok;8303 wrote:** It's not learning for me; it's a curse! My dreams are always lucid, always have been. Sometimes they're so vivid and busy I wake up feeling like I was awake all night. Last night I dreamed about being at a really boring 1-man concert/halloweenstorytelling/stupidstupid. It lasted at least 30 m and I dreamed every last detail. BORING.
@@ -15119,7 +15119,7 @@ Living yr round in the Springs and training - lets just say I wouldn't have to t
 
 If I had $$ I'd seriously buy a well bred throughbred - and find an awesome trainer and train the horse at altitude, using slow long gallops, and water therapy; and grazing on wild grasses only; guarantee that horse (regardless if female/male) would be the next triple crown winner.
 
-### jeanie@truelongmont.com — 2012-03-29T18:01:45+0300
+### [email redacted] — 2012-03-29T18:01:45+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-8308>
 
 > **MJ\*;8281 wrote:** Ok you guys this is a serious post...and this much I am allowed to and want to say to you all - understanding, knowing what Factor X is, is making it really hard for me to ignore it!
@@ -15305,7 +15305,7 @@ jesse
 
 edit: here is the one -> [http://www.drrons.com/chemical-free-shampoos-conditioners.htm](http://http://www.drrons.com/chemical-free-shampoos-conditioners.htm)
 
-### phillipsgeorge@hotmail.com — 2012-03-29T21:33:37+0300
+### [email redacted] — 2012-03-29T21:33:37+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-8422>
 
 [http://www.wndu.com/mmm/headlines/Viagra\_may\_help\_treat\_cold\_hands\_syndrome\_123650224.html](http://http://www.wndu.com/mmm/headlines/Viagra_may_help_treat_cold_hands_syndrome_123650224.html)
@@ -15324,7 +15324,7 @@ OK... no one has stopped me yet.... Here's another post from another forum:
 
 Someone IS noticing what I posted.... Thanks for the extra link, Localad!
 
-### phillipsgeorge@hotmail.com — 2012-03-29T21:47:30+0300
+### [email redacted] — 2012-03-29T21:47:30+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-8432>
 
 LinD, I liked this bit:
@@ -15429,7 +15429,7 @@ LinD...you're on a roll....just tell me where to get the NOSH aspirin! (I mean, 
 
 No kidding! I want it, too, IF this is on the right track.... MJ? Dr. K?
 
-### jeanie@truelongmont.com — 2012-03-29T23:25:02+0300
+### [email redacted] — 2012-03-29T23:25:02+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-8471>
 
 > **LinD;8486 wrote:** I saw that ! and thought of you, too, since I viewed your profile and saw you mentioned not washing hair since 2010.... very interesting.
@@ -15518,7 +15518,7 @@ If you measure by the stick of trying or no fault of their own, then I think its
 
 Looks like someone let the Cat?? out of the bag. [http://latimesblogs.latimes.com/home\_blog/2012/03/dog-photography-tips.html](http://http://latimesblogs.latimes.com/home_blog/2012/03/dog-photography-tips.html)
 
-### jeanie@truelongmont.com — 2012-03-30T05:53:36+0300
+### [email redacted] — 2012-03-30T05:53:36+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-8622>
 
 > **chocolate;8657 wrote:** They were on weight probation, the guys were actually trying to help them cure the denial or whatever it was that had them thinking a little cake wouldn't hurt. Unless of course, cake doesn't make a person fat . Why can a coach tell a guy to lose weight, not a girl? They were trying to save them from themselves. Can you imagine how humiliating for a person to be sent home for being too fat?
@@ -15663,7 +15663,7 @@ ETA Oh, dang, I didn't know Nashville was in Central time. Duh.
 
 LOL MamaGrok I'm with ya, I had to do the figuring first...
 
-### phillipsgeorge@hotmail.com — 2012-03-31T23:32:17+0300
+### [email redacted] — 2012-03-31T23:32:17+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-9393>
 
 Got it! Got to to it in a tutu.
@@ -15717,7 +15717,7 @@ I expect him to follow the science. Let's hope that's what we all learn to do be
 
 As far as Factor X is concerned. No tidbits revealed that I noticed.
 
-### phillipsgeorge@hotmail.com — 2012-04-01T09:27:11+0300
+### [email redacted] — 2012-04-01T09:27:11+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-9724>
 
 Physics. White light=A mix of many colours.
@@ -15732,7 +15732,7 @@ PS. Sea food good.
 
 Funny thing is I don't like raw oysters. But opened and lightly grilled on the half shell with garlic and parsley butter; yum. I could eat lots.
 
-### phillipsgeorge@hotmail.com — 2012-04-01T12:45:14+0300
+### [email redacted] — 2012-04-01T12:45:14+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-9728>
 
 A driving passion.
@@ -15847,7 +15847,7 @@ nope but it going to be part of my next hack
 
 Time for my cold bath then - for some more thinking! Good night, all!
 
-### phillipsgeorge@hotmail.com — 2012-04-02T09:07:58+0300
+### [email redacted] — 2012-04-02T09:07:58+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-10232>
 
 I always wake up just before dawn these days. Often with unbidden, random thoughts. (Small mind so only small ideas) This morning I was thinking about storage processes.
@@ -15889,7 +15889,7 @@ My DS2 was born in winter, my nipple vasospasm was severe and I cranked up the h
 
 Well done, localad, well done!
 
-### phillipsgeorge@hotmail.com — 2012-04-02T14:19:42+0300
+### [email redacted] — 2012-04-02T14:19:42+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-10258>
 
 > **Jack Kruse;10311 wrote:** exactly what winter does for mammalian biochemistry.......it is our reset button and we never truly see a winter any longer.......instead we see a perennial summer.......artificial lights and carbohydrates.......that speed up our chemical clocks and shorten our telomere. Therefore the solution to repairing many neolithic diseases is to face a winter in winter and maybe a few induced winters during other seasons to reset what is broken........the more broken one is the longer their winter exposure needs to be.
@@ -15954,7 +15954,7 @@ Is it something to do with microbes? Deep sea vents? Hmm...Photosynthesis? That'
 
 PS I liked the hydrogen sulfide suggestion!
 
-### jeanie@truelongmont.com — 2012-04-05T22:40:57+0300
+### [email redacted] — 2012-04-05T22:40:57+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-11882>
 
 I miss this thread. I want to know what Factor X is!!!!
@@ -16010,7 +16010,7 @@ These quotes are from Wikipedia...I need to study about how far back in evolutio
 
 Me 2! I love the challenge of trying to integrate all the science--theories, facts, hypotheses--and Jack makes it a game! I am thoroughly fascinated with evolutionary medicine and biology. Jack has made it applicable to our health--what a nice slant. But, it is a bit cold of him to withhold the answer for so long. Pun intended! )
 
-### phillipsgeorge@hotmail.com — 2012-04-06T12:20:19+0300
+### [email redacted] — 2012-04-06T12:20:19+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-12079>
 
 .......... X-mas day?
@@ -16122,7 +16122,7 @@ Maybe we could try again. We're still learning.
 
 m
 
-### jeanie@truelongmont.com — 2012-04-06T19:33:09+0300
+### [email redacted] — 2012-04-06T19:33:09+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-12193>
 
 Thanks for the list Choc. My random unfounded and often wrong intuition tells me that Pain, Hypoxia, Altitude and that damn chicken are some major clues. I think I'll re-explore chicken. Nice catch Ak on the easteregg! I need to read the pain posts on here again too.
@@ -16171,14 +16171,14 @@ Intermittent hypobaric hypoxia. Producing beneficial effects on pluripotent stem
 
 I think we are doing a special Factor X webinar for the members.......early preview. That is the rumor I heard today at the water cooler.
 
-### finnite@dccnet.com — 2012-04-07T06:49:25+0300
+### [email redacted] — 2012-04-07T06:49:25+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-12390>
 
 > **Jack Kruse;12457 wrote:** I think we are doing a special Factor X webinar for the members.......early preview. That is the rumor I heard today at the water cooler.
 
 Shiny, looking forward to it!
 
-### jeanie@truelongmont.com — 2012-04-07T06:55:20+0300
+### [email redacted] — 2012-04-07T06:55:20+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-12392>
 
 > **Jack Kruse;12457 wrote:** I think we are doing a special Factor X webinar for the members.......early preview. That is the rumor I heard today at the water cooler.
@@ -16222,7 +16222,7 @@ From what I got out of this it is all about DNA methylation and its implications
 
 when will that be? maybe that and your reduced prices will be enough to get me to sign up
 
-### phillipsgeorge@hotmail.com — 2012-04-07T19:35:04+0300
+### [email redacted] — 2012-04-07T19:35:04+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-12487>
 
 Hot in the UK press "Beetroot may be the secret to winning Olympic gold"
@@ -16272,7 +16272,7 @@ So, what' the real truth about celery salt?
 
 And we always thought that when God was handing out sports equipment/uniforms that the bicycle riders were given the dorkiest ones. NOT that CT is a sport, but.....
 
-### penguinmom718@yahoo.com — 2012-04-07T21:24:54+0300
+### [email redacted] — 2012-04-07T21:24:54+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-12508>
 
 So, I am taking another educated guess that Factor X is still oxygen (O2) or methylation (Me). Wikipedia was my friend! ) Randychaps
@@ -16281,7 +16281,7 @@ Well, Google is my friend, so I am going with methylation as factor x. I found e
 
 Good find on the Easter Egg, Randy. Funny when the article is about chickens....
 
-### phillipsgeorge@hotmail.com — 2012-04-07T21:34:28+0300
+### [email redacted] — 2012-04-07T21:34:28+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-12509>
 
 > when God was handing out sports equipment
@@ -16421,7 +16421,7 @@ Doc said it was a two letter word. Is it a true word or an acronym? If it is a t
 
 Vagus is not Factor X but I hope you all go listen to the podcast I just did with [www.fatburningman.com](http://http://www.fatburningman.com) when we talk about how important the Vagus is to rewire our brain.
 
-### dkenward@yahoo.com — 2012-04-08T16:10:15+0300
+### [email redacted] — 2012-04-08T16:10:15+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-12640>
 
 > **Dali Dula;12699 wrote:** Doc said it was a two letter word. Is it a true word or an acronym? If it is a true word there are very few that would make sense at all. Id, om,we,us If it's an acronym it's really not a helpful clue. Punctuated frequency?
@@ -16496,12 +16496,12 @@ Anaerobic Respiration?
 
 don't know about you'all, but I am doing CT for wusses, and still I have noticed greatly increased muscle mass on my legs. I am doing very little HIIT or anything else. Sitting in a tub, getting more muscular and less fat, doing nothing to tear down my muscles or cross fit myself to death. (for all those folks trolling for gems, yes, I stole that line, from Dr. Kruse, who is not God)
 
-### phillipsgeorge@hotmail.com — 2012-04-08T18:59:03+0300
+### [email redacted] — 2012-04-08T18:59:03+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-12729>
 
 just this morning my wife said "You are looking really tanned"
 
-### phillipsgeorge@hotmail.com — 2012-04-08T18:59:44+0300
+### [email redacted] — 2012-04-08T18:59:44+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-12731>
 
 ..............I told her it was the bacon.
@@ -16532,7 +16532,7 @@ Sorry I'm so dense about FB, I can't find the thread on your FB wall. Could some
 
 I don't see a Factor-X thread on his FB wall either, Melinda. Maybe he meant his private wall???
 
-### phillipsgeorge@hotmail.com — 2012-04-08T20:56:40+0300
+### [email redacted] — 2012-04-08T20:56:40+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-12752>
 
 Its on his time line...look for the 'optimal' logo right hand side few posts down.
@@ -16551,7 +16551,7 @@ I give up. I cannot find it. Can't find the "optimal" logo either.
 
 I see the 60+ comments on the link Jack provides on his FB and he says, "This thread is a gas."
 
-### phillipsgeorge@hotmail.com — 2012-04-08T22:07:44+0300
+### [email redacted] — 2012-04-08T22:07:44+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-12773>
 
 several JK FB pages. Search in your FB page search box for 'Jack.Kruse' (profile pic at the moment is the TED cartoon.)
@@ -16596,7 +16596,7 @@ Have you liked or friended Dr Kruse? You may have to do that before you see the 
 
 I bet you are correct about having to be a "friend". I hit command F, typed in gas and got nothing. I friended him...will see what happens. I have "liked" him over on the other FB page. Thanks again for your input.
 
-### taryn.ourso@gmail.com — 2012-04-09T00:00:29+0300
+### [email redacted] — 2012-04-09T00:00:29+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-12800>
 
 This thread is a total gas.
@@ -16774,7 +16774,7 @@ A.b. Dada I didn't read any of the CT stuff yet, haha. Planned to on my trip to 
 
 5 hours ago Â· Like
 
-### taryn.ourso@gmail.com — 2012-04-09T00:00:59+0300
+### [email redacted] — 2012-04-09T00:00:59+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-12801>
 
 Jack Kruse nope.....its called the Leptin melanocortin pathway........Surprise! Leptin controls all mammalian fecundity in all species.......
@@ -16909,7 +16909,7 @@ Or, to put it another way... { "lightbox\_close": "Close", "lightbox\_next": "Ne
 
 Sorry if I offended anyone with the language.
 
-### jeanie@truelongmont.com — 2012-04-09T02:13:34+0300
+### [email redacted] — 2012-04-09T02:13:34+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-12831>
 
 > **Jack Kruse;12733 wrote:** except byncritics with small minds.......
@@ -17037,7 +17037,7 @@ totally agree......but I love baiting the hook.......cant help it.
 
 Jim the funny thing is the article you referenced I used in CT 9! youre channeling my neurons now?
 
-### phillipsgeorge@hotmail.com — 2012-04-09T10:46:37+0300
+### [email redacted] — 2012-04-09T10:46:37+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-12926>
 
 for the _chiselled marble look_ (our human birthright) are we pulling (shockloading) our lifetime and familial accumulated epigenetic jumper leads out to reveal underlying purer code or are we reactivating dormant pathways via nutritional, sensory and rythmic stimulation?
@@ -17056,7 +17056,7 @@ Yes, I think there is a mind meld happening.
 
 Stimulation (regulation, activation) by earth's electromagnetic field while walking barefoot?
 
-### finnite@dccnet.com — 2012-04-09T22:16:23+0300
+### [email redacted] — 2012-04-09T22:16:23+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-13118>
 
 > Jack Kruse Ab you're closing in on something....give you erections why? And it make you darker why? People with darker skin are more resistant to the pain of cold temperatures.......why? Why are most polar animals loaded with black......and all have high levels of alpha MSH????? And you're right it does give male erections and give females more libido and orgasmic too.........You just fell into the reason why the Ancient Pathway was selected for.......now close the deal. That is a lot of hints I gave you.
@@ -17082,7 +17082,7 @@ But, as well as sunshine exposure, I'm really liking the sound of dopamine right
 
 I'm thinking CO2 is Factor X...
 
-### phillipsgeorge@hotmail.com — 2012-04-10T09:35:16+0300
+### [email redacted] — 2012-04-10T09:35:16+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-13281>
 
 as a slight aside: I've really enjoyed reading all this tapestry and threads of thought from the Doc and from you all. I've been to places/ideas (thanks to the web) I'd never even dreamed of looking at a few months ago.
@@ -17125,7 +17125,7 @@ Yes, I would imagine the downsides likely came about because of the sudden chang
 
 It astounds me that this was discovered so long ago, and is not a part of standard therapy during the early years for children with Down's syndrome, so that their individual potential can be realized as they grow (and not thrown on them suddenly as happened in this instance).
 
-### phillipsgeorge@hotmail.com — 2012-04-10T22:14:26+0300
+### [email redacted] — 2012-04-10T22:14:26+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-13460>
 
 My eldest sister is completely word and number dyxlexic. She found school very difficult. However she discovered she had great rapport with Down's syndrome children and enjoyed a satisfying and fullfilled lifetime career looking after them. Whenever I visited her at the residential home she worked at I was always swamped by crowds of the happiest children you could imagine.
@@ -17292,7 +17292,7 @@ Okay, I'll bite.
 
 INTP
 
-### phillipsgeorge@hotmail.com — 2012-04-11T18:56:28+0300
+### [email redacted] — 2012-04-11T18:56:28+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-13795>
 
 > In two months I replace 25 lbs of fat with 27 pounds of muscle....using deep CT and compression/_HBOT/Pressure_
@@ -17550,7 +17550,7 @@ I have forgotten all the clues. Here's what I remember:
 
 The worst part is that I can't remember why Factor X is an important thing to know! Can someone summarize for me what makes Factor X so special that I've spent hours and hours and hours researching everything from biology to astronomy and everything in between. I've even been late to work because I got so involved in researching stuff that I lost track of time. Factor X is a Black Hole that eats Time.
 
-### rickc9@hotmail.com — 2012-04-12T17:01:41+0300
+### [email redacted] — 2012-04-12T17:01:41+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-14222>
 
 Just a guess. The id focuses on making sure the basic needs and wants of the individual are met, and nothing else. According to Freud’s psychoanalytic theory of personality, the id is the personality component made up of unconscious psychic energy that works to satisfy basic urges, needs, and desires. The id operates based on the pleasure principle, which demands immediate gratification of needs. May be the soul (We walk on it everyday - soles). When gratified we release norepinephrine which facilitates uncoupling proteins, which protect mtDNA from mutations.
@@ -17570,7 +17570,7 @@ Just a guess. The id focuses on making sure the basic needs and wants of the ind
 
 Factor X is the third thing, in addition to the Leptin Reset and CT, that we need to become optimal.
 
-### rickc9@hotmail.com — 2012-04-12T18:15:36+0300
+### [email redacted] — 2012-04-12T18:15:36+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-14248>
 
 There have been several guesses of ID on this blog thread, but I could not find an explicit NOPE for this (I could have missed it). Dr. Kruse can you give ID a definitive NOPE or not? Thanks ;-)
@@ -17737,7 +17737,7 @@ From MDA:
 
 Read more: [http://www.marksdailyapple.com/earthing/#ixzz1rtXRFkm1](http://http://www.marksdailyapple.com/earthing/#ixzz1rtXRFkm1)
 
-### phillipsgeorge@hotmail.com — 2012-04-13T08:31:06+0300
+### [email redacted] — 2012-04-13T08:31:06+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-14629>
 
 Woke up, Dawn. Idea popped in. But I see Chk already had two letters.
@@ -17753,14 +17753,14 @@ Even better in the sea?
 
 And something with the initials M S is dependant on it? is either "it" or "M S" factor X ?
 
-### phillipsgeorge@hotmail.com — 2012-04-13T12:46:37+0300
+### [email redacted] — 2012-04-13T12:46:37+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-14646>
 
 Linkin Park had this in the chorus:
 
 da da di,.........da da di di.
 
-### pthomaslandry@gmail.com — 2012-04-13T14:35:35+0300
+### [email redacted] — 2012-04-13T14:35:35+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-14652>
 
 Right under our noses... Or perhaps another clue might be the noses themselves?
@@ -17786,7 +17786,7 @@ The reason that we still have the ancient pathway is that DNA is additive, (Fibo
 
 [http://en.wikipedia.org/wiki/Population\_bottleneck](http://http://en.wikipedia.org/wiki/Population_bottleneck)
 
-### pthomaslandry@gmail.com — 2012-04-13T14:48:25+0300
+### [email redacted] — 2012-04-13T14:48:25+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-14655>
 
 Yes, that adds up, and makes sense. I was thinking it had to be a more recent event that put pressure on primates rather than rodents. Nice find!
@@ -17804,7 +17804,7 @@ Yes, that adds up, and makes sense. I was thinking it had to be a more recent ev
 
 Nope.......
 
-### pthomaslandry@gmail.com — 2012-04-13T15:27:04+0300
+### [email redacted] — 2012-04-13T15:27:04+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-14666>
 
 @jack
@@ -17820,7 +17820,7 @@ I keep getting this message when trying to send PM
 
 "Jack Kruse has exceeded their stored private messages quota and cannot accept further messages until they clear some space."
 
-### phillipsgeorge@hotmail.com — 2012-04-13T16:27:53+0300
+### [email redacted] — 2012-04-13T16:27:53+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-14687>
 
 Well this is the thread to post guesses, Doug!
@@ -17837,7 +17837,7 @@ off subject ,sorry, but listenening to poscasts with jack where he introduces th
 
 \*\*starting\*\* oops
 
-### phillipsgeorge@hotmail.com — 2012-04-13T16:49:18+0300
+### [email redacted] — 2012-04-13T16:49:18+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-14706>
 
 Good call birdy. Goblins in Lowes!
@@ -17846,12 +17846,12 @@ B12.
 
 CO
 
-### phillipsgeorge@hotmail.com — 2012-04-13T16:51:03+0300
+### [email redacted] — 2012-04-13T16:51:03+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-14709>
 
 Haven't got Lowes in the UK! So have to 'shop' online!
 
-### phillipsgeorge@hotmail.com — 2012-04-13T16:59:08+0300
+### [email redacted] — 2012-04-13T16:59:08+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-14713>
 
 Co from GZ. In most soil but better in those big dents. Pot of gold at the end of the rainbow.
@@ -17914,7 +17914,7 @@ yeah, what in the world is GZ?
 
 from here..............
 
-### phillipsgeorge@hotmail.com — 2012-04-13T18:55:13+0300
+### [email redacted] — 2012-04-13T18:55:13+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-14749>
 
 The beautiful blue. Thank goodness for shellfish.
@@ -17944,7 +17944,7 @@ Of those, what are the specifics underlying the change, i.e. did CO2 go up, down
 
 Widdle those down to some set of factors that could produce a selectable advantage for a warm adapted mammal, i.e. a selection against cold adapted organisms. In that corner case any land based organism had to be warm adapted or die and all oceanic life was able to remain cold adapted.
 
-### pthomaslandry@gmail.com — 2012-04-13T22:51:33+0300
+### [email redacted] — 2012-04-13T22:51:33+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-14858>
 
 [http://www.primitivism.com/aquatic-ape.htm](http://http://www.primitivism.com/aquatic-ape.htm)
@@ -17980,7 +17980,7 @@ Loving everyone's contributions
 
 Did I already guess and post oxytocin?
 
-### pthomaslandry@gmail.com — 2012-04-14T00:51:14+0300
+### [email redacted] — 2012-04-14T00:51:14+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-14903>
 
 > **KiwiLauren;14943 wrote:** +1. I'd definitely never heard of that either.
@@ -18018,14 +18018,14 @@ Frequent bathing, frequent shampooing, shoes, coats, constant oral hygiene obses
 
 yeah, ha ha....standing barefoot on the ground is now a therapy!!
 
-### jeanie@truelongmont.com — 2012-04-14T03:28:42+0300
+### [email redacted] — 2012-04-14T03:28:42+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-14975>
 
 > **Tom;14927 wrote:** [http://www.primitivism.com/aquatic-ape.htm](http://http://www.primitivism.com/aquatic-ape.htm)
 
 Fascinating! I am exploring this while doing my post - dinner CT.
 
-### jeanie@truelongmont.com — 2012-04-14T03:37:13+0300
+### [email redacted] — 2012-04-14T03:37:13+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-14978>
 
 > **MamaGrok;15011 wrote:** It's called "redneck" in my part of town, but that's b/c the natives have been replaced with Northern transplants here ... I think they sleep in their shoes.
@@ -18036,7 +18036,7 @@ Fascinating! I am exploring this while doing my post - dinner CT.
 
 As someone who grew up poor in Arkansas, I can tell ya - the Irony is not lost! Now if only biscuits and fried potatoes were not the staple food, the south might have gone a very different way.
 
-### pthomaslandry@gmail.com — 2012-04-14T03:54:21+0300
+### [email redacted] — 2012-04-14T03:54:21+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-14983>
 
 Bottleneck
@@ -18054,7 +18054,7 @@ We have all descended from this group of survivors, and we have their epigenetic
 
 Did we evolve from aquatic apes? Elaine Morgan on TED.com
 
-### pthomaslandry@gmail.com — 2012-04-14T04:37:07+0300
+### [email redacted] — 2012-04-14T04:37:07+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-14990>
 
 > **chocolate;15058 wrote:** [http://blog.ted.com/2009/07/31/did\_we\_evolve\_f/](http://http://blog.ted.com/2009/07/31/did_we_evolve_f/)
@@ -18069,7 +18069,7 @@ Looks like Factor X was the push of our small population of MIS6 H.Sapiens to a 
 
 i.e. we are the aquatic apes
 
-### phillipsgeorge@hotmail.com — 2012-04-14T12:05:16+0300
+### [email redacted] — 2012-04-14T12:05:16+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-15020>
 
 > Frequent bathing, frequent shampooing, shoes, coats, constant oral hygiene obsession ... all the things I kept feeling guilty for leaving out are the things I now defend as not just unnecessary, but harmful, lol.
@@ -18092,7 +18092,7 @@ Great statement localad
 
 Tom, Excellent video (from chocolate)!!! check it out!
 
-### pthomaslandry@gmail.com — 2012-04-14T23:18:43+0300
+### [email redacted] — 2012-04-14T23:18:43+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-15132>
 
 Yes, though she comes across as being a little too dogmatic, if not a little wounded.
@@ -18108,7 +18108,7 @@ There were also starchy root vegetables available, but no evidence that they wer
 
 dogmatic? wounded? I didn't get that, but...I read her book many years ago and thought, oh, well, maybe...but no one jumped on the bandwagon so I dismissed it...but she kind of explains why scientists are ..well, the way they are, which really rang true...and I was impressed with her.
 
-### pthomaslandry@gmail.com — 2012-04-15T00:49:15+0300
+### [email redacted] — 2012-04-15T00:49:15+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-15156>
 
 > **janagram;15215 wrote:** dogmatic? wounded? I didn't get that, but...I read her book many years ago and thought, oh, well, maybe...but no one jumped on the bandwagon so I dismissed it...but she kind of explains why scientists are ..well, the way they are, which really rang true...and I was impressed with her.
@@ -18221,7 +18221,7 @@ I think that was factor x going on,.....up unt the point that she ate it.
 
 I dont seem to be able to get PM here. So PM on my Dr Jack Kruse FB wall. New comments section is being uploaded to blog tonight to see how we like this one......should be better. We'll see. CT 10 is live. The comments should return in 1-1.5 hours when they pass thru the new software. No worries.
 
-### phillipsgeorge@hotmail.com — 2012-04-17T09:12:09+0300
+### [email redacted] — 2012-04-17T09:12:09+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-15831>
 
 CT 10. No moderate words there, Dr K. A great speech. Let the RE-Evolution roll!
@@ -18232,7 +18232,7 @@ CT 10. No moderate words there, Dr K. A great speech. Let the RE-Evolution roll!
 
 Let it roll!
 
-### phillipsgeorge@hotmail.com — 2012-04-17T09:40:05+0300
+### [email redacted] — 2012-04-17T09:40:05+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-15832>
 
 A CTer leaving his pool and commenting on those who espouse 'moderation' (possibly an actual demo of Factor X in progress)
@@ -18255,7 +18255,7 @@ That is what I call a fart.
 
 LOL that's more like a shart!
 
-### pthomaslandry@gmail.com — 2012-04-17T15:38:50+0300
+### [email redacted] — 2012-04-17T15:38:50+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-15866>
 
 > **janagram;15233 wrote:** Tom. Now you've got me interested; I'm really fascinated by borderline theories...can you share yours, or maybe if I pm you..
@@ -18301,7 +18301,7 @@ Jack, thanks, also, as I was following "that guy's" way of eating and not losing
 
 OMG!!!!!! localad,,, mj... That video rocks!!!! Lmfao!!!funniest thing i have seen in a long time...kind of shocking... Mental note... Pack some goggles for next zoo visit!!
 
-### pthomaslandry@gmail.com — 2012-04-17T19:38:58+0300
+### [email redacted] — 2012-04-17T19:38:58+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-15923>
 
 > **janagram;15981 wrote:** Tom, thanks for the response...your answer is truly surprising as I thought it would be a nerdly science thing....(or is it? 0 ...kidding.) I've heard such wonderful things about the Alexander work!
@@ -18344,7 +18344,7 @@ Thanks for the laugh!
 
 Sprint Samsung Epic
 
-### phillipsgeorge@hotmail.com — 2012-04-18T10:33:23+0300
+### [email redacted] — 2012-04-18T10:33:23+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16170>
 
 'blimey..(.in me english accent)These days I invariably wake up just as the sun creeps up. No worries as I always feel fresh as a daisy!
@@ -18496,7 +18496,7 @@ Lots of fat people are jealous of the skinny ones whom they rightly observe are 
 
 I also believe obesity is clearly an adaptive response, joking aside.
 
-### finnite@dccnet.com — 2012-04-18T21:48:31+0300
+### [email redacted] — 2012-04-18T21:48:31+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16324>
 
 > **donkjellberg;16317 wrote:** Another thing and I know this is off subject but obesity rates didn't start to jump until the 1970s. Prior to that we were in the single digits and stable, except for displaced populations like the Pima Indians.
@@ -18535,7 +18535,7 @@ And we hang onto fat cells for dear life to store said mycotoxins out of harms w
 
 Re Factor X--Just a stream of consciousness thought and I dont know where to put it...so here it goes. Thinking that 2 of the biggest and simplest ways our bodies interpret its environment are temperature (touch) and light (sight).....what if the next thing we need to match is auditory. Constant bombardment of tv noise etc maybe cause some type of disruption?
 
-### phillipsgeorge@hotmail.com — 2012-04-18T23:50:20+0300
+### [email redacted] — 2012-04-18T23:50:20+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16351>
 
 Heck! just back after a long day touting for work (I got the 'sack' at 60, in February, 40 yr old UK aviation law for pilots who fly public transport alone) then one and a half hr kettlebells class. Knackered now! (only once a week...dont get excited!)
@@ -18548,7 +18548,7 @@ I think wheat has been hitting (adapting) us for a long time but not as badly as
 
 Sorry! bit of a rambling post. I love you all. xxx ( ..............hey factor x ......it's the lurve train!!)
 
-### phillipsgeorge@hotmail.com — 2012-04-19T00:14:21+0300
+### [email redacted] — 2012-04-19T00:14:21+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16356>
 
 Heck...I was well pleased to get quoted by Doc K in CT 10. Jonny English made a sound bite!
@@ -18565,7 +18565,7 @@ It was an excellent quote that I had to put into CT ten.......because it fit the
 
 It really did get me to open my eyes to the idea that moderation is really just a sneaky excuse to not attain big goals. Over time, moderation is a type of laziness....I am still guilty of it....but your changing my thoughts...and that always must come first
 
-### phillipsgeorge@hotmail.com — 2012-04-19T01:21:01+0300
+### [email redacted] — 2012-04-19T01:21:01+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16374>
 
 Thanks Doc K! I got quite excited seeing my words in CT ten. Your 'Call to Arms' speech if I may be so bold to say!
@@ -18611,7 +18611,7 @@ Sprint Samsung Epic
 
 Nice quote! I may borrow that in the future . . .
 
-### phillipsgeorge@hotmail.com — 2012-04-19T07:17:30+0300
+### [email redacted] — 2012-04-19T07:17:30+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16514>
 
 dawn thoughts: 'something' is increasing steadily for the population but obesity rate seems to be accelerating.
@@ -18628,7 +18628,7 @@ QED or nope?
 
 The brit is still fighting on! ............and too tight to pay to chat!
 
-### phillipsgeorge@hotmail.com — 2012-04-19T07:47:26+0300
+### [email redacted] — 2012-04-19T07:47:26+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16517>
 
 or alternatively ; little changes in the timing= big f\*ck up in the clock:
@@ -18644,7 +18644,7 @@ or alternatively ; little changes in the timing= big f\*ck up in the clock:
 
 I love your thoughts. And don't worry about chat. You're not missing anything - so far.
 
-### phillipsgeorge@hotmail.com — 2012-04-19T10:46:20+0300
+### [email redacted] — 2012-04-19T10:46:20+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16526>
 
 not factor x but:
@@ -18816,7 +18816,7 @@ Birdy, good tip on mathematics and humor. Thanks.
 
 ITs quite surprising how intelligent every single person on this board is. each of us have our strengths/weaknesses, as well as our own thought patterns... and MJ is right...there are many who are so close to figuring it out!
 
-### jeanie@truelongmont.com — 2012-04-19T20:03:07+0300
+### [email redacted] — 2012-04-19T20:03:07+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16650>
 
 > **Shijin13;16718 wrote:** ITs quite surprising how intelligent every single person on this board is. each of us have our strengths/weaknesses, as well as our own thought patterns... and MJ is right...there are many who are so close to figuring it out!
@@ -18906,7 +18906,7 @@ Sorry I bust chops...that's what I do...
 
 Also mahahaha I want to meet that teacher, and student!  Can you just see the rest of the class spinning their wheels?
 
-### pthomaslandry@gmail.com — 2012-04-19T21:37:43+0300
+### [email redacted] — 2012-04-19T21:37:43+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16705>
 
 NS?
@@ -19005,7 +19005,7 @@ energy work, the body's electromagnetic energy, meridians terminating in the fee
 
 Carbon! Life on earth is carbon-based. Maybe. Oil, coal, ...
 
-### pthomaslandry@gmail.com — 2012-04-19T22:25:35+0300
+### [email redacted] — 2012-04-19T22:25:35+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16724>
 
 Here are all the natural selection shout outs on this site:
@@ -19019,7 +19019,7 @@ Here are all the natural selection shout outs on this site:
 
 Ashes to ashes, dust to dust,....
 
-### pthomaslandry@gmail.com — 2012-04-19T22:36:06+0300
+### [email redacted] — 2012-04-19T22:36:06+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16727>
 
 From ct-8
@@ -19046,7 +19046,7 @@ However, I'm pretty sure these two kids know Factor X (and the secrets of BAT)..
 
 [http://www.youtube.com/watch?v=\_JmA2ClUvUY&feature=relmfu\[/video\]\]\[video=youtube\_share;\_JmA2ClUvUY\]http://www.youtube.com/watch?v=\_JmA2ClUvUY&feature=relmfu\[/video\]](http://[video=youtube_share;_JmA2ClUvUY)
 
-### phillipsgeorge@hotmail.com — 2012-04-19T23:41:38+0300
+### [email redacted] — 2012-04-19T23:41:38+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16749>
 
 OK I'm just home and catching up.............You lot are so intelligent. makes my brain hurt. But brains apart we all **intuitively** know that Doc K is onto something big!
@@ -19073,7 +19073,7 @@ Now add these 'hedge better' letters as well: QM, Quantum Mechanics.
 
 OK: I'm going 'QM'.
 
-### pthomaslandry@gmail.com — 2012-04-19T23:46:05+0300
+### [email redacted] — 2012-04-19T23:46:05+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16752>
 
 > **villjamur\_stevenson;16808 wrote:** It's gotta be the Triassicâ€“Jurassic extinction event - everyone learned about that in 6th grade
@@ -19093,7 +19093,7 @@ they have factor X figured out
 
 [http://b.rox.com/2011/04/25/wet-monday/](http://http://b.rox.com/2011/04/25/wet-monday/)
 
-### jeanie@truelongmont.com — 2012-04-20T00:10:57+0300
+### [email redacted] — 2012-04-20T00:10:57+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16762>
 
 Am I scoring this right? Is it just the womens who've gotten the thumbs up from big K on xfactor?
@@ -19116,7 +19116,7 @@ So far there are three I think, two women I know of, not sure who the third is..
 
 Oh that's just Randy and Localad trying to argue their points with each other.
 
-### phillipsgeorge@hotmail.com — 2012-04-20T00:37:06+0300
+### [email redacted] — 2012-04-20T00:37:06+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16769>
 
 Ok! I guess that's an indirect 'nope' for my "QM" from MJ\*!
@@ -19163,7 +19163,7 @@ Air pressure? RNA? DNA? Mother Nature? Chromosomes?
 
 Eukaryotic cells? Mitosis? Culture? Hunter-gatherer? Big brain? Bipedalism?
 
-### pthomaslandry@gmail.com — 2012-04-20T01:51:48+0300
+### [email redacted] — 2012-04-20T01:51:48+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16792>
 
 > **Randychaps;16854 wrote:** Tectonic drift? Glaciation? Skin? Hair? Warm blooded animals?
@@ -19290,7 +19290,7 @@ did we get a nope from carbon monoxide?
 
 If it's killing you all because of an NDA, imagine how the rest of us are feeling! Worse than torture!
 
-### jeanie@truelongmont.com — 2012-04-20T04:57:43+0300
+### [email redacted] — 2012-04-20T04:57:43+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16895>
 
 > **Tom;16862 wrote:** I'm almost at that point myself! This thread has been pretty good for piecing together a lot of horizontal thinking.
@@ -19365,7 +19365,7 @@ Lol birdy that's funny
 
 is factor X slivovitz?
 
-### phillipsgeorge@hotmail.com — 2012-04-20T10:47:03+0300
+### [email redacted] — 2012-04-20T10:47:03+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16934>
 
 Randychaps; dont let it get to you!...as they say over here in Liverpool..."Calm down calm down"!
@@ -19380,7 +19380,7 @@ My Toast:
 
 "The Leptin-Melanocortin System..and bollocks to moderation." Cheers!
 
-### phillipsgeorge@hotmail.com — 2012-04-20T11:23:44+0300
+### [email redacted] — 2012-04-20T11:23:44+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16935>
 
 "Morning All" "Read all about it" Headline News........... "Biology got there first"...............All Physicists eat your heart out: 'Grand Unification Theory'.....Sorry but evolution (biochemistry) got there first and its not just a theory!
@@ -19489,7 +19489,7 @@ Interesting...
 
 Lol, ok I better hit the ice hard, lol, lots if jelly to still get rid of
 
-### phillipsgeorge@hotmail.com — 2012-04-20T15:14:39+0300
+### [email redacted] — 2012-04-20T15:14:39+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16972>
 
 Marmite; it's so half arsed.
@@ -19504,7 +19504,7 @@ I prefer a G+T, Global Tectonics: it goes with the ice! (and a slice of lemon...
 
 But i guess the kids would learn about 'Continental Drift'.
 
-### phillipsgeorge@hotmail.com — 2012-04-20T15:19:13+0300
+### [email redacted] — 2012-04-20T15:19:13+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16975>
 
 > **MJ\*;17035 wrote:** Interesting...
@@ -19530,7 +19530,7 @@ or daylight blue?
 
 As in how'd the heck Chk get blue out of all that!!!
 
-### phillipsgeorge@hotmail.com — 2012-04-20T15:27:36+0300
+### [email redacted] — 2012-04-20T15:27:36+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16982>
 
 ignore me; I'm rambling! It's the "Factor X" blues!
@@ -19630,7 +19630,7 @@ NDA!!! NDA!!!! NDA!!!
 
 Sounds interesting! Hey, stab away...it adds to our fun!
 
-### phillipsgeorge@hotmail.com — 2012-04-20T15:50:34+0300
+### [email redacted] — 2012-04-20T15:50:34+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-16996>
 
 > **Shijin13;17060 wrote:** No we need to meet some where cold, dark, and lower O2... so that means altitude and snow! whoot bringing my board to hit the fresh pow!
@@ -19656,7 +19656,7 @@ Now you're just making up your own words...
 
 Well instead of going with asphalt I could always suggest things carbon (dioxide) related, but you can't exactly walk on that. But my mind is not with this right now... trying to finish a thesis completely unrelated to this.
 
-### phillipsgeorge@hotmail.com — 2012-04-20T15:54:50+0300
+### [email redacted] — 2012-04-20T15:54:50+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17000>
 
 Those sherpas were by the seaside!
@@ -19703,7 +19703,7 @@ Both of my kids snowboard...so hard to learn but once they got it, it was easy -
 
 I hope it's on a day I can make!!
 
-### phillipsgeorge@hotmail.com — 2012-04-20T16:04:22+0300
+### [email redacted] — 2012-04-20T16:04:22+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17010>
 
 > in the parallel universe is that The Planet of the Apes?...Localad fits right in there!
@@ -19735,7 +19735,7 @@ You go Cornelius!! And uh... Randy while you two argue over the tea, switch his 
 
 He gets decaf> I'm pouring more Malbec!
 
-### phillipsgeorge@hotmail.com — 2012-04-20T16:17:35+0300
+### [email redacted] — 2012-04-20T16:17:35+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17018>
 
 Which school grade did Doc K say would have had factor X?
@@ -20021,7 +20021,7 @@ yeah my class at school was the out of the box thinking class... lowest SATs/ACT
 
 totally epic post, localdad
 
-### phillipsgeorge@hotmail.com — 2012-04-20T17:16:20+0300
+### [email redacted] — 2012-04-20T17:16:20+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17060>
 
 The largest animal ever to have lived, a mammal, and a 100% ketogenic diet.
@@ -20037,7 +20037,7 @@ Old sulphur bottom.
 
 I LOVE divergent thinkers, not all intelligence is measured with pencil and paper...Academy, what sort of Academy? Where are you from?
 
-### phillipsgeorge@hotmail.com — 2012-04-20T17:18:45+0300
+### [email redacted] — 2012-04-20T17:18:45+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17062>
 
 "Malbec seeks thee not. It is thou, thou, that madly seekest him!".
@@ -20072,7 +20072,7 @@ yeah, I agree...
 
 Speaking of Malbec...did Randy run off with it?
 
-### phillipsgeorge@hotmail.com — 2012-04-20T17:26:42+0300
+### [email redacted] — 2012-04-20T17:26:42+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17067>
 
 > **Birdy;17129 wrote:** totally epic post, localdad
@@ -20351,7 +20351,7 @@ my boiled down college dropout version...lol..with 3 year old cli9mbing on lap o
 
 sorry ,, having trouble with the whole adding a quote thing...
 
-### phillipsgeorge@hotmail.com — 2012-04-20T19:57:51+0300
+### [email redacted] — 2012-04-20T19:57:51+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17144>
 
 Over thinking.
@@ -20407,7 +20407,7 @@ Artificial light -- the electric lightbulb! Factor X?
 
 thanks , i'll test it right now..lol
 
-### phillipsgeorge@hotmail.com — 2012-04-20T20:20:38+0300
+### [email redacted] — 2012-04-20T20:20:38+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17155>
 
 BAB for the reset. BAS for the hips. BATS for the brain box....now go man go!
@@ -20478,7 +20478,7 @@ The cold part before the human part According to jack
 
 I guess I gotta backup a few 100,000 years then! back to the books!
 
-### phillipsgeorge@hotmail.com — 2012-04-20T22:09:45+0300
+### [email redacted] — 2012-04-20T22:09:45+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17182>
 
 > **villjamur\_stevenson;17247 wrote:** '
@@ -20489,7 +20489,7 @@ I guess I gotta backup a few 100,000 years then! back to the books!
 
 A very old library! Tablets of stone.
 
-### phillipsgeorge@hotmail.com — 2012-04-20T22:11:11+0300
+### [email redacted] — 2012-04-20T22:11:11+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17183>
 
 Luckily we can still read that history in our own biochemistry!
@@ -20510,7 +20510,7 @@ I know BAB....but what are BAS and BAT?
 
 Lol,I love the underground wellness(Sean croxton ) podcast with jack ,, in the first 10 minutes he talks about factor x briefly,a very good listen
 
-### phillipsgeorge@hotmail.com — 2012-04-20T22:18:05+0300
+### [email redacted] — 2012-04-20T22:18:05+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17186>
 
 > Luckily we can still read that history in our own biochemistry!
@@ -20533,14 +20533,14 @@ Thanks Doc!
 
 From [Marsupial uncoupling protein 1 sheds light on the evolution of mammalian nonshivering thermogenesis](http://http://physiolgenomics.physiology.org/content/32/2/161.full)
 
-### phillipsgeorge@hotmail.com — 2012-04-20T22:24:00+0300
+### [email redacted] — 2012-04-20T22:24:00+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17188>
 
 > **Momma28;17254 wrote:** I know BAB....but what are BAS and BAT?
 
 Big Ass Salad (Sisson, I think, some time ago, see MDA) Big Ass Thought Salad (Localad, I know, today, see this thread)
 
-### phillipsgeorge@hotmail.com — 2012-04-20T22:33:11+0300
+### [email redacted] — 2012-04-20T22:33:11+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17189>
 
 Big Ass Thought Salad. Chefs; the contributors on this thread. Ingredients; care of Jack Kruse.
@@ -20556,7 +20556,7 @@ Looks Like a Rodent, Croons Like a Bird
 
 Researchers have found that hyraxesâ€™ wailing, chucking, snorting, squeaking, tweeting songs have something rarely found in mammals: syntax and geographical dialects.
 
-### phillipsgeorge@hotmail.com — 2012-04-20T23:07:16+0300
+### [email redacted] — 2012-04-20T23:07:16+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17196>
 
 Surface Area. Warm blooded animals in cold climates are pretty large. Being big means being warmer. Big Ass Bodies.
@@ -20644,12 +20644,12 @@ the thing that scared me was the giant dragonfly hanging from the ceiling. That,
 
 Uv's impact helped set a stage for an elemental garage band to become the biggest rockstar of hominid evolution
 
-### phillipsgeorge@hotmail.com — 2012-04-20T23:58:24+0300
+### [email redacted] — 2012-04-20T23:58:24+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17216>
 
 LinD: Old English proverb; it is much better to make a woman laugh before she sees your willy.
 
-### phillipsgeorge@hotmail.com — 2012-04-21T00:05:49+0300
+### [email redacted] — 2012-04-21T00:05:49+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17221>
 
 Get cold, no laughing needed:
@@ -20686,7 +20686,7 @@ Damn ,wonder how big a sperm whale's are
 
 does anyone know how/when mitochondria entered the picture? Could it be possible that we switched mitochondria, and somehow got some that had the UCP1 feature. I am thinking like having our computer wiped out and having to re-install.
 
-### phillipsgeorge@hotmail.com — 2012-04-21T00:40:14+0300
+### [email redacted] — 2012-04-21T00:40:14+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17235>
 
 big animals, better cold adaption. Less gravity would help on land.
@@ -20714,7 +20714,7 @@ Variable Gn.
 
 But the question is what it would do, why it would be useful, what it would add if you ingest it or put it on your skin or something like that. At least, I still expect it to be something that has a biological effect. So how would clay have a biological effect? Or asphalt.
 
-### phillipsgeorge@hotmail.com — 2012-04-21T01:03:59+0300
+### [email redacted] — 2012-04-21T01:03:59+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17244>
 
 Those meteorites must have been f\*cking big to make gravity go up! Perhaps the core shifted?
@@ -20911,7 +20911,7 @@ I agree,and This forum is like factor x 101.. Wether you know xfactor or not all
 
 I still believe I have not been noped on anaerobic respiration. Jack?
 
-### pthomaslandry@gmail.com — 2012-04-21T16:25:01+0300
+### [email redacted] — 2012-04-21T16:25:01+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17385>
 
 Ocean blue
@@ -20929,7 +20929,7 @@ More specifically, those vertebrates were.... Fish.
 
 i said I will only respond to the correct answer......if you hear silence you got your answer. "Crickets."
 
-### pthomaslandry@gmail.com — 2012-04-21T16:34:21+0300
+### [email redacted] — 2012-04-21T16:34:21+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17390>
 
 > **Jack Kruse;17457 wrote:** i said I will only respond to the correct answer......if you hear silence you got your answer. "Crickets."
@@ -20986,7 +20986,7 @@ with fast cars sporting b...i mean v12 engines,, lol
 
 your brain is plenty big enough doug
 
-### phillipsgeorge@hotmail.com — 2012-04-21T16:49:18+0300
+### [email redacted] — 2012-04-21T16:49:18+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17398>
 
 Tom, over here that's known as being a "smartarse"!
@@ -21002,12 +21002,12 @@ Wonder what other secret paths we have got bound up tightly in those clever litt
 
 I still believe I have not been noped on anaerobic respiration. Jack?
 
-### phillipsgeorge@hotmail.com — 2012-04-21T16:56:29+0300
+### [email redacted] — 2012-04-21T16:56:29+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17404>
 
 Dali Dula. I think it may be: [http://www.youtube.com/watch?v=K8E\_zMLCRNg\[/video\]\]\[video=youtube\_share;K8E\_zMLCRNg\]http://www.youtube.com/watch?v=K8E\_zMLCRNg\[/video\]](http://[video=youtube_share;K8E_zMLCRNg)
 
-### pthomaslandry@gmail.com — 2012-04-21T16:58:30+0300
+### [email redacted] — 2012-04-21T16:58:30+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17407>
 
 > **Dali Dula;17473 wrote:** I still believe I have not been noped on anaerobic respiration. Jack?
@@ -21038,7 +21038,7 @@ makes me think of that guinness advert...brilliant! ;-)
 
 localad is like a youtube ninja master
 
-### pthomaslandry@gmail.com — 2012-04-21T17:06:01+0300
+### [email redacted] — 2012-04-21T17:06:01+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17414>
 
 > **localad;17469 wrote: Tom, over here that's known as being a "smartarse"!
@@ -21122,12 +21122,12 @@ Nice article. I am learning so much about our past. I feel like I'm getting a de
 
 So OK I'll guess Volcano's! And my reference is the Lord of the Rings!!
 
-### phillipsgeorge@hotmail.com — 2012-04-22T00:16:58+0300
+### [email redacted] — 2012-04-22T00:16:58+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17557>
 
 musing over malbec: that guy who survived stuck in his car for weeks in the snow. no food; ketotic. Snow; cold (and dark if there was enough snow to cover the car) Sealed in; CO2 up, O2 down. Sealed in: H2S up (especially if he'd had beans for breakfast). His own personal self-generated 'extinction event' environment! Result; 'goodnight Vienna'; time for a bit of hibernatory stasis. Handy he had a handy survival program built in, just waiting for activation!
 
-### phillipsgeorge@hotmail.com — 2012-04-22T00:31:20+0300
+### [email redacted] — 2012-04-22T00:31:20+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17563>
 
 Surf the E-waves:
@@ -21141,14 +21141,14 @@ Surf the E-waves:
 
 Aaah! The swede that did a "into the wild" ThatÂ´s how we do it in my country.
 
-### phillipsgeorge@hotmail.com — 2012-04-22T00:47:35+0300
+### [email redacted] — 2012-04-22T00:47:35+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17571>
 
 Lotska!
 
 [http://inhumanexperiment.blogspot.co.uk/2010/03/curious-case-of-human-hibernation.html](http://http://inhumanexperiment.blogspot.co.uk/2010/03/curious-case-of-human-hibernation.html)
 
-### phillipsgeorge@hotmail.com — 2012-04-22T01:18:07+0300
+### [email redacted] — 2012-04-22T01:18:07+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17579>
 
 'hibernation genomics' ...check out how much your army research is spending on it!
@@ -21160,7 +21160,7 @@ Lotska!
 
 Here is another hint for you........[http://inhumanexperiment.blogspot.co.uk/2010/03/curious-case-of-human-hibernation.html](http://http://inhumanexperiment.blogspot.co.uk/2010/03/curious-case-of-human-hibernation.html)
 
-### pthomaslandry@gmail.com — 2012-04-22T01:31:05+0300
+### [email redacted] — 2012-04-22T01:31:05+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17588>
 
 > **localad;17642 wrote:** Lotska!
@@ -21281,7 +21281,7 @@ Thought I was the only one up,, rambling on and on,sorry
 
 Time 4 bed
 
-### phillipsgeorge@hotmail.com — 2012-04-22T10:51:18+0300
+### [email redacted] — 2012-04-22T10:51:18+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17682>
 
 God keeps moving the sun (and that North Star!) quicker than Darwin can keep up. Thor throws the occasional hammer bolt in as well, to upset the angle even quicker. Luckily Darwin is a bit of a hoarder and keeps a lot of old stuff in the cellar.
@@ -21292,7 +21292,7 @@ What a year it's been! (Indeed. I'm inclined to say; what is a year?)
 
 I love Life! [http://www.youtube.com/watch?v=pe-MIDDfckw&feature=player\_detailpage\[/video\]\]\[video=youtube\_share;pe-MIDDfckw\]http://www.youtube.com/watch?v=pe-MIDDfckw&feature=player\_detailpage\[/video\]](http://[video=youtube_share;pe-MIDDfckw)
 
-### phillipsgeorge@hotmail.com — 2012-04-22T14:44:56+0300
+### [email redacted] — 2012-04-22T14:44:56+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17686>
 
 Do not ask for whom the system oscillates, it rings for thee.
@@ -21334,7 +21334,7 @@ Shamanic anarchistic archaic revival
 
 Was stuck awake last night. Was one of the wife's 2 nights where we leave the lights on (still trying to get the point across that in evolution, there is no room for mediocre.) JK mentions that factor x is two letters. After the last hint my guess would be 02. I went back and reread another clue that fascinated me. It was the chicken article. [http://www.sciencedaily.com/releases/2012/02/120229091844.htm](http://http://www.sciencedaily.com/releases/2012/02/120229091844.htm) it was about how domestication was a massive "bottleneck" in the evolution of chickens. Methylation is a chemical alteration of a DNA molecule that affects its expression. Jack says that our biochemistry is rewireable. As people have domesticated themselves becoming warm adapted we are "evolving." Our neolithic disease process is a result of epigenetic switches getting turned on and off due to domestication. Grains/farming/agriculture is the biggest dumb mistake mankind has ever done in that it is speeding up our evolution in a bad way. You always hear that a generation ago, diabetes was a disease of the elderly, yet now we see it in teens. Heart disease in kids.... We are constantly in an "ON" summer state. We are overclocking our engines and burning them out quickly. Don't we consume less 02 in sleep? Are we consuming more 02 being awake ALL the time? Does running and doing WODs burn out our telomeres because of increased oxygen metabolism? Is this why our Biologic ages are so much worse than our chronological ages because we are burning out our bodies more and more and then passing these epigenetics down to future generations? JK is taking advantage of the methylation process. Stress induced methylation. The cold, decreased 02 ( he said higher elevations are good) are turning on epigenetic factors that make us the opposite of our warm, fat, increased aging, grains eating counterparts. We are splitting the evolution process here and now with a single thought. These are genetic adaptations that get switched in you today and hopefully in our subsequent generations. Evolution has no place for mediocre. Right now, making a single mistake and not being as optimal as you can is decreasing your life span as you turn on and off the epigenetic switches to aging and disease. We sleep, we cold, we eat fat ( burn sugar you burn out your engine) we slow down need for 02 ( Wim holds his breath for 6 minutes), we are walking suspended animations, stronger, faster, less disease, live 150 years or longer and all the while passing to future generations. Or you could warm, fat, burn sugar, burn 02, increase disease, decrease life span as our modern drugs and medicine keep you alive but miserable, and pass this on to our kids.
 
-### pthomaslandry@gmail.com — 2012-04-22T15:10:23+0300
+### [email redacted] — 2012-04-22T15:10:23+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17690>
 
 This Book.
@@ -21354,7 +21354,7 @@ I don't know how it ties with everything else, but one thing that fat metabolism
 
 On the other hand, [hypothermia seems to increase O2 blood levels (page 30) due to a shift to the left in the oxyhemoglobin curve (page 28)](http://https://docs.google.com/viewer?a=v&q=cache:QcO94UmsMeIJ:www.cardionursing.com/pdfs/Ventilation-Perfusion-Diffussion-and-More.pdf+&hl=es&pid=bl&srcid=ADGEESir-mMIVfozukdPERQYDiuIeryrbQP_1QnkSAHFx5UcBk6v-4l0JUCM0za5ecbE5lucG0aeE5tyWu_O8VmZgOGaMtbh8Lr_GQdunOI2HFdCwqOgKSH5c_UtPPLrRTVUmrtVXyKV&sig=AHIEtbScW_IyfGujcBmPoW1-cSu5LNtMzA). It keeps looking like cold and slight hypoxia go hand in hand.
 
-### phillipsgeorge@hotmail.com — 2012-04-22T15:13:07+0300
+### [email redacted] — 2012-04-22T15:13:07+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17692>
 
 Sorry, forgot the letters: YR.
@@ -21382,7 +21382,7 @@ This post exactly describes the affects perfectly due to Factor X to a T........
 
 Thanks so much
 
-### pthomaslandry@gmail.com — 2012-04-22T16:13:41+0300
+### [email redacted] — 2012-04-22T16:13:41+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17708>
 
 Levee 14.
@@ -21440,7 +21440,7 @@ No.....but a sped up epigenetics is the reason why you have an organ in your hea
 
 Thanks, Jack. I'll look forward to that.
 
-### pthomaslandry@gmail.com — 2012-04-22T16:25:06+0300
+### [email redacted] — 2012-04-22T16:25:06+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17715>
 
 > **Jack Kruse;17781 wrote:** No.....but a sped up epigenetics is the reason why you have an organ in your head that allows you to change your environment for the good or for the bad......modern humans only focus on thoughts and never qualify how they affect their biology. That is why a neolithic thought can subjugate a paleolithic gene and lead to disease.
@@ -21519,17 +21519,17 @@ I guess that's what I was kind of getting at,in my job I am exposed to hundreds 
 
 If we took the traps off our plumbing and slept, would that duplicate factor x?
 
-### phillipsgeorge@hotmail.com — 2012-04-22T20:37:06+0300
+### [email redacted] — 2012-04-22T20:37:06+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17822>
 
 Those chickens were domesticated by breeders input. We are domesticated but we have done by our own choice.
 
-### phillipsgeorge@hotmail.com — 2012-04-22T21:47:17+0300
+### [email redacted] — 2012-04-22T21:47:17+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17854>
 
 So rather than it was thrown upon us by wobbling axis's or random asteroids we chose the warmth and set off (opposite direction to the pole star) to find it?
 
-### phillipsgeorge@hotmail.com — 2012-04-22T21:54:01+0300
+### [email redacted] — 2012-04-22T21:54:01+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17860>
 
 [http://a6.sphotos.ak.fbcdn.net/hphotos-ak-ash4/251685\_157396134327920\_152196238181243\_375708\_7030815\_n.jpg](http://http://a6.sphotos.ak.fbcdn.net/hphotos-ak-ash4/251685_157396134327920_152196238181243_375708_7030815_n.jpg)
@@ -21539,7 +21539,7 @@ So rather than it was thrown upon us by wobbling axis's or random asteroids we c
 
 Also, cobalt: [http://www.eplantscience.com/botanical\_biotechnology\_biology\_chemistry/plant\_nutrition/beneficial\_elements/cobalt/cobalt.php](http://http://www.eplantscience.com/botanical_biotechnology_biology_chemistry/plant_nutrition/beneficial_elements/cobalt/cobalt.php) cool stuff.
 
-### pthomaslandry@gmail.com — 2012-04-23T04:47:27+0300
+### [email redacted] — 2012-04-23T04:47:27+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17965>
 
 Species using hemocyanin for oxygen transportation are commonly crustaceans living in cold environments with low oxygen pressure. Under these circumstances hemoglobin oxygen transportation is less efficient than hemocyanin oxygen transportation.
@@ -21554,7 +21554,7 @@ Who is also found to have a receptor for short neuropeptide F's, which are linke
 
 This stuff most likely goes back to the first animals that had nervous/endocrine systems...
 
-### pthomaslandry@gmail.com — 2012-04-23T05:29:33+0300
+### [email redacted] — 2012-04-23T05:29:33+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-17977>
 
 Also of interest
@@ -21568,7 +21568,7 @@ Maybe factor X is related to our ancestors, the fossil record so to speak. Maybe
 
 Pass the Malbec please, waiting for the NOPE.
 
-### phillipsgeorge@hotmail.com — 2012-04-23T20:40:44+0300
+### [email redacted] — 2012-04-23T20:40:44+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18127>
 
 Nice one Randychaps! But what 2 letters do you suggest?
@@ -21577,7 +21577,7 @@ BOnes?
 
 Remember its not a 'nope' now, only [http://www.youtube.com/watch?v=K8E\_zMLCRNg&feature=player\_detailpage\[/video\]\]\[video=youtube\_share;K8E\_zMLCRNg\]http://www.youtube.com/watch?v=K8E\_zMLCRNg&feature=player\_detailpage\[/video\]](http://[video=youtube_share;K8E_zMLCRNg)
 
-### phillipsgeorge@hotmail.com — 2012-04-23T20:52:44+0300
+### [email redacted] — 2012-04-23T20:52:44+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18131>
 
 Might also have to fit in with a "rainbow" clue that was dropped by one of the NDAers. (which curiously I can't seem to find now on the thread)
@@ -21622,7 +21622,7 @@ I am pretty sure that earthing got a nope. Could be wrong.
 
 forest for the trees..... its all about perspective.... when you figure it out you will OMG.... fwiw my 4yo knows Factor X, so does my 2yo. So do you for that matter - you've just forgotten it amongst all the other stuff rattling around in your head
 
-### phillipsgeorge@hotmail.com — 2012-04-23T21:38:05+0300
+### [email redacted] — 2012-04-23T21:38:05+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18143>
 
 Been reading a few posts back, this thread. Amazing amount of work put forward here; MJ\*'s workup to to enlightenment and acheivement of knosis is particularly humbling to read.
@@ -21652,12 +21652,12 @@ Also, I got noped for "earthing"
 
 didn't I? I mean, it is under our feet and a 2 yr. old knows it....na, it got noped.
 
-### jeanie@truelongmont.com — 2012-04-23T22:05:04+0300
+### [email redacted] — 2012-04-23T22:05:04+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18157>
 
 Plants utilize the green pigment chlorophyll to absorb energy from sunlight to breakdown carbon dioxide into sugars. This is well known, and taught in probably every elementary school across the world. What is not as well known, is that the dark colored pigment called melanin found in the skin of humans and other mammals can absorb various types of electromagnetic radiation. In fact, melanin appears capable of absorbing a much broader spectrum of such radiation than chlorophyll. This was proven when scientists noticed various fungi growing in radioactive environments actually seemed to be thriving. Testing of these fungi proved the melanin producing their dark color was absorbing gamma radiation and converting it to energy. The article, "Ionizing Radiation Changes the Electronic Properties of Melanin and Enhances the Growth of Melanized Fungi" published by Ekaterina Dadachova reviews this discovery.
 
-### phillipsgeorge@hotmail.com — 2012-04-23T22:23:48+0300
+### [email redacted] — 2012-04-23T22:23:48+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18164>
 
 The watery seaside urge basically seems to be built in:
@@ -21668,7 +21668,7 @@ The watery seaside urge basically seems to be built in:
 
 [http://t1.gstatic.com/images?q=tbn:ANd9GcR0CqQQF3l\_IXH8GROIpOVjvQiQ-rND\_JOpfIpihNM6pE\_XJqxddA](http://http://t1.gstatic.com/images?q=tbn:ANd9GcR0CqQQF3l_IXH8GROIpOVjvQiQ-rND_JOpfIpihNM6pE_XJqxddA)
 
-### pthomaslandry@gmail.com — 2012-04-23T22:25:40+0300
+### [email redacted] — 2012-04-23T22:25:40+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18165>
 
 > **localad;18237 wrote:** The urge basically seems to be there:
@@ -21687,7 +21687,7 @@ The watery seaside urge basically seems to be built in:
 
 Not to mention the sand box too.... Sand.
 
-### pthomaslandry@gmail.com — 2012-04-23T22:31:04+0300
+### [email redacted] — 2012-04-23T22:31:04+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18167>
 
 What is at the natural history museum?
@@ -21719,7 +21719,7 @@ Dr. K told us how the eyes are almost directly linked to the brain... The two le
 
 After a weekend camping, I know I'm smarter already...
 
-### phillipsgeorge@hotmail.com — 2012-04-24T00:29:01+0300
+### [email redacted] — 2012-04-24T00:29:01+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18188>
 
 All nature knows when to sleep. We don't any more. We domesticate ourselves at our peril and engender a range of 'sports'
@@ -21856,7 +21856,7 @@ All I do know now is that I like to go barefoot a lot more these days along with
 
 I'm pretty sure its hibernation. the russian peasants who do it...well, what else are they going to do? their houses would be under snow....so they just sleep for 6 months...now us, we would have orgies and figure out how to get stoned on fermented lichen...
 
-### phillipsgeorge@hotmail.com — 2012-04-24T09:22:31+0300
+### [email redacted] — 2012-04-24T09:22:31+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18306>
 
 Damn those chickens;
@@ -21896,7 +21896,7 @@ _
 
 _
 
-### phillipsgeorge@hotmail.com — 2012-04-24T19:51:13+0300
+### [email redacted] — 2012-04-24T19:51:13+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18408>
 
 slightly connected to day light (and those damn chickens again):
@@ -21934,7 +21934,7 @@ Since the sun is everywhere, why would it only apply to the evolution of humans 
 
 this has been noped previously...
 
-### phillipsgeorge@hotmail.com — 2012-04-24T22:02:51+0300
+### [email redacted] — 2012-04-24T22:02:51+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18438>
 
 ........mind you, feeding chickens grain all year round must bugger them up too, in a chicken brain sort of way. No wonder they forgot how to fly.
@@ -21948,7 +21948,7 @@ You just blew my mind. This is an epic thread. I too recall reading about yogis 
 
 We are indeed speeding ourselves to death. And now I know calories in/out is not the equation.... And that cold will kill my fat cells not just shrink them.... And that nature laughs at moderation... Just... Wow!!!
 
-### pthomaslandry@gmail.com — 2012-04-24T22:53:13+0300
+### [email redacted] — 2012-04-24T22:53:13+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18448>
 
 Norwegian researchers at the University of TromsÃ¸ have shown that some Arctic animals (ptarmigan, reindeer) show circadian rhythms only in the parts of the year that have daily sunrises and sunsets. In one study of reindeer, animals at 70 degrees North showed circadian rhythms in the autumn, winter, and spring, but not in the summer. Reindeer at 78 degrees North showed such rhythms only autumn and spring. The researchers suspect that other Arctic animals as well may not show circadian rhythms in the constant light of summer and the constant dark of winter.\[19\]\[20\]
@@ -21986,7 +21986,7 @@ Blow your mind further.......[http://www.youtube.com/watch?v=lAupJzH31tc\[/video
 
 very nice find.
 
-### phillipsgeorge@hotmail.com — 2012-04-24T23:52:56+0300
+### [email redacted] — 2012-04-24T23:52:56+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18467>
 
 Cold, ketotic and sleepy. It's like being a 'born again' Xtian.
@@ -22022,12 +22022,12 @@ And...Tom...what does it mean for an animal to "show" or "not show" circadian rh
 
 Chickens laying eggs is food based. If you feed them year around, they lay year round. My heart was broken once when this poor mommy chicken had to abandon a makeshift nest because of a freak snowfall. All night she made it almost and then had to hike away before the snow got too deep. I think it broke her little chicken spirit some. She was one of those hens that the slut chickens would run and lay eggs in her nest while she was out and she had to sit on all of the eggs, and herd around 14 bitties that weren't even hers. Anyway, they reproduce as long as there is food. Consequences of free unfettered.
 
-### phillipsgeorge@hotmail.com — 2012-04-25T00:07:26+0300
+### [email redacted] — 2012-04-25T00:07:26+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18489>
 
 not much grass for reindeer and it must be a very pale green! What else do they eat?
 
-### pthomaslandry@gmail.com — 2012-04-25T00:10:30+0300
+### [email redacted] — 2012-04-25T00:10:30+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18491>
 
 > **janagram;18551 wrote:** the brinicle youtube did not make me feel like CTing....!!
@@ -22042,7 +22042,7 @@ This is the wiki reference (the one in English):
 
 Interesting read, and lots more to consider...
 
-### phillipsgeorge@hotmail.com — 2012-04-25T00:13:13+0300
+### [email redacted] — 2012-04-25T00:13:13+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18493>
 
 Jana...I preferred the 'religious' undertones of 'xtian' ! it went with the 'born again' (and the gnosis of this Davidian thread.)
@@ -22057,7 +22057,7 @@ Atmospheric concentrations of CO2 vary annually, rising in the fall as shortenin
 
 Wow, this is an interesting read at WUWT about the extinction events [http://wattsupwiththat.com/2012/04/24/svensmarks-cosmic-jackpot-evidence-of-nearby-supernovae-affecting-life-on-earth/#more-61941](http://http://wattsupwiththat.com/2012/04/24/svensmarks-cosmic-jackpot-evidence-of-nearby-supernovae-affecting-life-on-earth/#more-61941)
 
-### phillipsgeorge@hotmail.com — 2012-04-25T08:48:14+0300
+### [email redacted] — 2012-04-25T08:48:14+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18635>
 
 WX........................I think I've finally seen the light.
@@ -22213,7 +22213,7 @@ i must admit i was lucky in a way to enter my recent quest of changing my own he
 
 just shows that sometimes curiosity can save the cat,lol
 
-### pthomaslandry@gmail.com — 2012-04-25T19:12:29+0300
+### [email redacted] — 2012-04-25T19:12:29+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18766>
 
 > **Jack Kruse;18799 wrote:** Im not married to any dogma......just to the science that reveals the truth to me about my world and my biology.
@@ -22238,7 +22238,7 @@ Thank you for sharing your insights.
 
 ...being encased in a "tomb of ice" would not be lethal...
 
-### phillipsgeorge@hotmail.com — 2012-04-25T20:24:09+0300
+### [email redacted] — 2012-04-25T20:24:09+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18784>
 
 > **janagram;18719 wrote:** I got that, but was afraid someone might take offense so offered another option.....but ...let it stand. I like "this Davidian thread".
@@ -22265,7 +22265,7 @@ What makes the difference between frozen-dead and frozen-suspended-animation-not
 
 I'm not certain what you are asking for here... do you mean what is the difference if both REMAIN frozen, or what is the difference that allows one, but not the other, to reanimate when thawed?
 
-### phillipsgeorge@hotmail.com — 2012-04-25T20:44:16+0300
+### [email redacted] — 2012-04-25T20:44:16+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18798>
 
 Star of wonder, star of might!
@@ -22338,14 +22338,14 @@ OK I found more hints by Jack in this thread. I'm still stumped however.
 
 [http://forum.jackkruse.com/showthread.php?1092-Fasted-State-Training-Stories/page2](http://http://forum.jackkruse.com/showthread.php?1092-Fasted-State-Training-Stories/page2)
 
-### phillipsgeorge@hotmail.com — 2012-04-25T22:53:43+0300
+### [email redacted] — 2012-04-25T22:53:43+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18846>
 
 > **Jack Kruse;18873 wrote:** if you come give me a ride in the heliocopter.
 
 I'll see if the guys will let me borrow it for the weekend!
 
-### phillipsgeorge@hotmail.com — 2012-04-25T23:00:48+0300
+### [email redacted] — 2012-04-25T23:00:48+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-18848>
 
 > **AmyK;18878 wrote:** Is there ANYONE on this thread who has NOT been hurt in the head by pondering all of this stuff? Mine hurts, big time. But...I've learned a lot...so I'll take it.
@@ -22453,7 +22453,7 @@ Your mom must have been a very cool person
 
 My spin: We are composed of the elements of the universe and as such, designed to adapt to its variabilities. As far as factor X is concerned . . . still lost in the salad. Athough, the dressing tastes delicious.
 
-### phillipsgeorge@hotmail.com — 2012-04-26T21:16:50+0300
+### [email redacted] — 2012-04-26T21:16:50+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19113>
 
 The present manufactured state is not the environment for producing optimal humans. The natural environment that produces optimal humans should be taken as the correct environment.
@@ -22482,7 +22482,7 @@ One could write an interesting paper analyzing the words used in this song. I es
 
 Aaahhhh....birdy.......ho. Now that I am through crying my eyes out.....thankyou! We (don't know your age, but me anyway) lived in a magical era...
 
-### phillipsgeorge@hotmail.com — 2012-04-27T01:03:07+0300
+### [email redacted] — 2012-04-27T01:03:07+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19167>
 
 talking about natural environment......
@@ -22509,7 +22509,7 @@ Sprint Samsung Epic
 
 +1....my parents have a friend who's a hydrologist - and he keeps saying the history of water and ice - point to this, and that our current state is not the normal - our problem is that from our perspective (point of reference) is minute, compared to the cycles of the earth. I remember during a dinner conversation - that at one point, the entire earth was covered w/ice, several meters thick.
 
-### phillipsgeorge@hotmail.com — 2012-04-27T01:28:18+0300
+### [email redacted] — 2012-04-27T01:28:18+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19178>
 
 > our perspective (point of reference) is minute, compared to the cycles of the earth
@@ -22541,7 +22541,7 @@ Very nice ice: [http://www.youtube.com/watch?src\_vid=kYRi1af\_\_94&feature=iv&a
 
 Well there is a famous planetarium at the Museum of Natural History. And Dr K has called himself our 'north star.'
 
-### phillipsgeorge@hotmail.com — 2012-04-27T12:29:23+0300
+### [email redacted] — 2012-04-27T12:29:23+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19282>
 
 http://www.glimmerveen.nl/le/biological\_clock.html
@@ -22594,7 +22594,7 @@ Through diversity of organisms. Throw a massive monkey wrench in the system, and
 
 I think this is right, but it doesn't give Mother Nature enough credit. The real power of a Quantum Physical world--and biology and evolution are yoked to QP implications--is that the tradespace is whatever is possible. So, diversity is but one dimension of the multi-dimensional tradespace. Another could be that some forms of life are adaptable across the extremes. Or, some forms of life could become smart enough to change the environmental factors in their favor (mankind, for example). So, that is at least a three-dimensional tradespace--diversity across organisms, diversity of adaptation within a species across environmental factors, and diversity in the ability to actively change the natural environment. Nature selects for survivability, always! I am sure there are other dimensions possible--maybe silicon-based lifeforms rather than carbon. The universe and Mother Nature love complexity.
 
-### pthomaslandry@gmail.com — 2012-04-27T18:14:58+0300
+### [email redacted] — 2012-04-27T18:14:58+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19353>
 
 Back to those monks... (or where they lived)
@@ -22646,7 +22646,7 @@ There was a very intriguing supernova article a few posts back in this thread.
 
 damned mountains
 
-### phillipsgeorge@hotmail.com — 2012-04-27T20:00:21+0300
+### [email redacted] — 2012-04-27T20:00:21+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19400>
 
 > **Jack Kruse;19361 wrote:** So lets take this thought to its Nth degree........what implications would this have for biology/evolution. How does she control for it?
@@ -22655,7 +22655,7 @@ A 1300 hundred year global glaciation, just 12000 years ago, that kicked off in 
 
 But now thanks to a bit of (your very clever) neolithic brain power we might enjoy the best of 'both worlds'!
 
-### phillipsgeorge@hotmail.com — 2012-04-27T20:13:19+0300
+### [email redacted] — 2012-04-27T20:13:19+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19402>
 
 ..once the geological evidence indicated these massive swings and the simple fact that we are here now proves that a 'coping strategy' had already been selected for previously.
@@ -22687,7 +22687,7 @@ Now where I live, the dead of winter can be 0 degrees C and the height of summer
 
 This is that binary - now not dormant - pathway. But this is what we already know, not factor X.
 
-### phillipsgeorge@hotmail.com — 2012-04-27T23:22:30+0300
+### [email redacted] — 2012-04-27T23:22:30+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19442>
 
 For me one of the most exciting things about 'What the H--- is factor X' is that 2 months ago I could not even spell 'suprachiasmatic nucleus' and now I are one.
@@ -22715,7 +22715,7 @@ You = funny!
 
 I got more funny brain things to teach you
 
-### phillipsgeorge@hotmail.com — 2012-04-28T06:58:20+0300
+### [email redacted] — 2012-04-28T06:58:20+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19526>
 
 > **Jack Kruse;19361 wrote:** So lets take this thought to its Nth degree........what implications would this have for biology/evolution. How does she control for it?
@@ -22726,7 +22726,7 @@ The relevant DNA 'epigenetic structure changes' required to unblock the required
 
 Some fish have been shown to have such DNA, I think? (temperature controlled methylation for sex expression)
 
-### pthomaslandry@gmail.com — 2012-04-28T13:58:28+0300
+### [email redacted] — 2012-04-28T13:58:28+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19557>
 
 > **localad;19599 wrote:** Direct influence of the coding? After all, DNA is a type of crystalline structure.
@@ -22751,7 +22751,7 @@ Our use of fire/heat may have allowed for faster gene expression while we were s
 
 Factor x- fire?
 
-### phillipsgeorge@hotmail.com — 2012-04-28T14:30:24+0300
+### [email redacted] — 2012-04-28T14:30:24+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19561>
 
 So the relatively tiny changes induced in genetic material by warmer short interglacial periods produce a variety of 'fancy', often unhealthy 'sports' in us (like the 'fancy' in ornamental pigeon/ chicken breeding?). In the very long glacial periods we revert to the standard, proper 'design'!
@@ -22798,7 +22798,7 @@ I still don't know what Factor X is, but this whole thread is awesome!
 
 Another way to look at it is that our molecular makeup is more plastic than rigid (crystalline DNA). The plasticity interacts with the environment--temperature, pressure, atmospheric content and ratios of gases, solar and galactic radiation, naturally occuring radiation from radioactive elements like Uranium, etc. This complex mix of variables leads to unpredictable results, but from a living organism perspective, what survives is finely tuned to "survive" its environment and the variations associated with it. If the extremus temporarily exceeds the organisms "evolved environment" either its molecular makeup is extensible to the new extremus through adaptation or it dies. No moderation there, just Darwinian!
 
-### phillipsgeorge@hotmail.com — 2012-04-29T10:33:09+0300
+### [email redacted] — 2012-04-29T10:33:09+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19740>
 
 [http://www.nature.com/scitable/nated/content/5493/pierce\_5\_20\_mid\_1.jpg](http://http://www.nature.com/scitable/nated/content/5493/pierce_5_20_mid_1.jpg)
@@ -22807,7 +22807,7 @@ another image for localads coloring book.
 
 (PS: my ears are getting quite dark, when I get out of the cold tub)
 
-### phillipsgeorge@hotmail.com — 2012-04-29T11:35:09+0300
+### [email redacted] — 2012-04-29T11:35:09+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19742>
 
 Protein origami in the cold.
@@ -22829,7 +22829,7 @@ Flexibility, the key to enzyme power. Cold adapted origami.
 
 We need a picture of that...
 
-### phillipsgeorge@hotmail.com — 2012-04-29T13:58:27+0300
+### [email redacted] — 2012-04-29T13:58:27+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19747>
 
 Dark ears:
@@ -22838,7 +22838,7 @@ Dark ears:
 
 This picture is also a fabulous example of folded protein.
 
-### phillipsgeorge@hotmail.com — 2012-04-29T14:49:36+0300
+### [email redacted] — 2012-04-29T14:49:36+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19751>
 
 Curiously, enzyme kinetics equations use the 2 letter term, 'Km'
@@ -22976,19 +22976,19 @@ curious as to your views on the indigenous peoples of Tierra del Fuego.... argua
 
 \*\*edit, There seems to be little information available about them. Their BMR is ~160%, but other than that I can't find any evidence of physiological differences indicating health advantage. In fact, it was measles and pox that wiped most of them out.
 
-### penguinmom718@yahoo.com — 2012-04-29T21:19:56+0300
+### [email redacted] — 2012-04-29T21:19:56+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19898>
 
 Is factor x magnesium?
 
-### penguinmom718@yahoo.com — 2012-04-29T21:28:38+0300
+### [email redacted] — 2012-04-29T21:28:38+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19902>
 
 > **Jack Kruse;19875 wrote:** The diet is not the be all end all. It is very very important but there are other things that are more primal like paying attention to the cold and light cycles and how they tie to seasonality of the diet.
 
 Thank you here for answering a question I've meant to ask but never did.
 
-### phillipsgeorge@hotmail.com — 2012-04-29T21:45:58+0300
+### [email redacted] — 2012-04-29T21:45:58+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19907>
 
 > **Entelechy;19870 wrote:** I just finished reading "[Evolution of Cold-Adapted Protein Sequences](http://http://www.google.com/url?q=http://www.iconceptpress.com/01/site/publication.downloadPaper.php%3FpaperID%3D100630012744&sa=U&ei=DlOdT9_qGIT28gTC59ikDw&ved=0CAUQFjAA&client=internal-uds-cse&usg=AFQjCNH9uHubRmwknowPRp9oTTcplv6wVA)"
@@ -23067,7 +23067,7 @@ I just found the timing to be serendipitous with Localads AIW comment as I was r
 
 who... the Fuegoians? .........or the Ivory tower Paleo elitists?....... or both. ;-)
 
-### phillipsgeorge@hotmail.com — 2012-04-29T22:39:37+0300
+### [email redacted] — 2012-04-29T22:39:37+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19922>
 
 > **Jack Kruse;19864 wrote:** correct again.....I also think temperature has a lot to do with sexual dimorphism.......are you not shocked that just from randomness alone that we dont have more of one sex than the other at birth? But we dont.......WHY?
@@ -23083,7 +23083,7 @@ But mammalian birth ratios _varies_ with location/weather so that suggests an en
 
 smallpox and measles are diseases of civilization...cities, if you will...they always wipe out native populations who have zero immunity.
 
-### phillipsgeorge@hotmail.com — 2012-04-29T22:55:28+0300
+### [email redacted] — 2012-04-29T22:55:28+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19928>
 
 "Their skin is of a dirty coppery red colour." Darwin noted. Cold adaption?
@@ -23145,7 +23145,7 @@ Early reproduction could be a significant advantage in Pygmies, whose life spans
 
 Tishkoff said the results also raise the possibility that short stature itself was not even the trait under selection but instead arose because genes related to height might also have other functions, such as those than boost immunity.
 
-### pthomaslandry@gmail.com — 2012-04-30T04:13:03+0300
+### [email redacted] — 2012-04-30T04:13:03+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-19983>
 
 > **Jack Kruse;19882 wrote:** The irony is that the paleo elitest are just unaware of how much they really dont know but feel compelled to tell me I am nuts when they are firmly entrenched in biochemistry that will eventually kill them if they dont realize what I am trying to tell them.......its crystal clear biochemistry works differently in cold than hot........but the implications for them......are even bigger.
@@ -23169,7 +23169,7 @@ It seems that for many out there, it isn't always important to have context or u
 
 so fractal!
 
-### phillipsgeorge@hotmail.com — 2012-04-30T08:58:31+0300
+### [email redacted] — 2012-04-30T08:58:31+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20028>
 
 Beautiful dawn today, after several stormy mornings. So changeable. The weather; must be what keeps us 'on our toes'.
@@ -23184,7 +23184,7 @@ A bit like .............."Bread: the staff of life." Hard to shake off!
 
 I'm off now............ to sacrifice a goat.
 
-### phillipsgeorge@hotmail.com — 2012-04-30T10:58:21+0300
+### [email redacted] — 2012-04-30T10:58:21+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20030>
 
 Goat....very nice breakfast.
@@ -23398,7 +23398,7 @@ amazing how fast an acute "mismatch" can be.
 
 key message in that particular paper, was how the proteins evolved** to be cold adapted, and maintain their function, or even take on alternate functions, completely unique. Check out the Triopsin paths, the chemistry is completely different using the same compounds, a true Alice in Wonderland effect, and the why does come down to QM functions at the electron level. Are all electrons equal? hmmmm. where did I read that question before?
 
-### phillipsgeorge@hotmail.com — 2012-04-30T22:52:52+0300
+### [email redacted] — 2012-04-30T22:52:52+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20183>
 
 'blimey; its nearly May! How about ET effects (pulse and particles) on the YD event. Or have we had that?
@@ -23424,7 +23424,7 @@ rather than extremes, these studies were done on cold acclimatisation developmen
 
 " The experimental studies showed seasonal differences and aggravated thermal responses in urban residents in winter, but did not detect habituation responses typical of cold acclimatisation. In both seasons, acute moderate cold exposure resulted in positive, negative or mixed effects on cognition, reflected as changes in response times and accuracy. Simple cognitive tasks were impaired in cold, and in complex tasks both negative, positive and mixed effects were observed. It is suggested that cold exposure affects cognition through different mechanisms related to either distraction or arousal. Cold exposure increased postural sway by 70-90%, suggesting impaired postural control. Repeated exposures to moderate cold, reducing stress and discomfort and dampening physiological responses, did not markedly affect cognitive performance or postural control."
 
-### phillipsgeorge@hotmail.com — 2012-04-30T23:04:34+0300
+### [email redacted] — 2012-04-30T23:04:34+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20186>
 
 Hey, just found some 'Christmas' presents:
@@ -23451,7 +23451,7 @@ And God said "Let there be light."
 
 boom. or bang.
 
-### phillipsgeorge@hotmail.com — 2012-04-30T23:33:37+0300
+### [email redacted] — 2012-04-30T23:33:37+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20197>
 
 Yes but we had a repeat "Let there be light" which ended up with with a lot of cold adapted, dark skinned animals being favored!
@@ -23473,7 +23473,7 @@ Yes but we had a repeat "Let there be light" which ended up with with a lot of c
 
 fortunately for us, the devil is in the details
 
-### phillipsgeorge@hotmail.com — 2012-05-01T00:20:08+0300
+### [email redacted] — 2012-05-01T00:20:08+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20214>
 
 ET is in the details!
@@ -23514,7 +23514,7 @@ all energy relationships are multidimensional, and while it cannot be created no
 
 a candle burning twice as bright burns half as long, but a candle burning inefficiently makes a lot of soot, and burns up without shining much light at all. (read disease.... trim the wick!)
 
-### phillipsgeorge@hotmail.com — 2012-05-01T00:56:44+0300
+### [email redacted] — 2012-05-01T00:56:44+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20223>
 
 Yes but you need _something to make us head North_! (but not the camels apparently....it was only today i discovered you used to have them on your side of the Atlantic. They got zapped by ET. )
@@ -23530,7 +23530,7 @@ Oscillations made the central belt cold but the poles uninhabitable. Factor X ma
 
 specifically the "out of africa" march by H. Sapiens? which migration are you referring to?
 
-### phillipsgeorge@hotmail.com — 2012-05-01T01:17:30+0300
+### [email redacted] — 2012-05-01T01:17:30+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20228>
 
 > all energy relationships are multidimensional, and while it cannot be created nor destroyed, but the engine consuming it can sure as hell be made more efficient!
@@ -23620,7 +23620,7 @@ Pineal >melanin>heat energy instead of ATP?
 
 lol makes me think of "opening of the third eye" and Tibetan monks
 
-### penguinmom718@yahoo.com — 2012-05-01T07:28:18+0300
+### [email redacted] — 2012-05-01T07:28:18+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20319>
 
 > **localad;20296 wrote:** Yes but you need _something to make us head North_!
@@ -23634,7 +23634,7 @@ And no, this isn't factor x. I already asked.
 
 Use your hormones and look after your cholesterol.
 
-### phillipsgeorge@hotmail.com — 2012-05-01T14:02:58+0300
+### [email redacted] — 2012-05-01T14:02:58+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20326>
 
 Ah, Entelechy,.... is it possible that with my 'camel theory' you feel I'm jiving and wasting time on my Kosmic Debris?.......
@@ -23708,7 +23708,7 @@ Don't even need a volcano. Just fishing in cold water will make you cold adapted
 
 is that an example of evolutionary power laws? lol
 
-### jeanie@truelongmont.com — 2012-05-01T16:28:20+0300
+### [email redacted] — 2012-05-01T16:28:20+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20368>
 
 > **Entelechy;20438 wrote:** active hunting not required to come to that conclusion. Jack has said numerous times that ALL eutherian mammals have the leptin-melanocortin pathway. So, either every mammal on earth independently evolved it... or.... we got it from the same ancestor. Which seems more likely to you?
@@ -23979,7 +23979,7 @@ High Altitude: An Exploration of Human Adaptation
 
 By Robert Schoene
 
-### phillipsgeorge@hotmail.com — 2012-05-01T19:12:25+0300
+### [email redacted] — 2012-05-01T19:12:25+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20453>
 
 > In fact cold adaptation is an oxymoron, as we adapted to WARM, not cold.
@@ -24015,7 +24015,7 @@ lower HCT have better perfusion due to the better rheology of the blood to impro
 
 so that's why so much rich meat is avoided....blood clots, etc. I have that kind of gene and don't know what to do with myself. I might just need to get that book.
 
-### phillipsgeorge@hotmail.com — 2012-05-01T19:34:09+0300
+### [email redacted] — 2012-05-01T19:34:09+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20471>
 
 > **Jack Kruse;20530 wrote:** lower HCT have better perfusion due to the better rheology of the blood to improve laminar flow in small vessels. We use this in Triple H therapy for cerebral aneurysm patients event today
@@ -24056,7 +24056,7 @@ gotta be mitochondria... what is mechanism ... cold adaptation = less leaky mito
 
 cold adaptation increase mitochondrial density......that is what make BAT brown......more mitochondria induced by cold.
 
-### phillipsgeorge@hotmail.com — 2012-05-01T19:42:58+0300
+### [email redacted] — 2012-05-01T19:42:58+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20480>
 
 > **Entelechy;20546 wrote:** let me rephrase this...... any person, of any race, cold adapted long enough, having never left sea level, will develop huge VO2max. Why?
@@ -24204,7 +24204,7 @@ At least my head is now in a perfectly vegetative state to do laundry... mmmm fo
 
 And your conclusion?
 
-### phillipsgeorge@hotmail.com — 2012-05-02T10:48:11+0300
+### [email redacted] — 2012-05-02T10:48:11+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20625>
 
 My conclusion is that: 'the warm is wicked but the cold is older'
@@ -24233,7 +24233,7 @@ Supreme cold adaptation cutting out the need for light. Most efficient and robus
 
 La Paz????
 
-### phillipsgeorge@hotmail.com — 2012-05-02T15:35:38+0300
+### [email redacted] — 2012-05-02T15:35:38+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20638>
 
 "Menthol is widely used in candy, chewing gum, toothpastes, cigarettes and common cold medications. Menthol has been shown to stimulate cold receptors in the mouth and nose. The present paper puts forward the hypothesis that menthol, by its effects on oral and nasal cold receptors, may influence thirst, the drive to breathe, and arousal. The satisfying effects of menthol on thirst and breathing, together with an effect on arousal, may explain the popularity of menthol and account for the very large amount of menthol-containing products that are consumed each day."
@@ -24351,12 +24351,12 @@ Did that come from wikipedia? probably.
 
 freaking thing of beauty!
 
-### phillipsgeorge@hotmail.com — 2012-05-02T19:13:20+0300
+### [email redacted] — 2012-05-02T19:13:20+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20712>
 
 Pity SHTF is 4 letters!
 
-### phillipsgeorge@hotmail.com — 2012-05-02T19:36:14+0300
+### [email redacted] — 2012-05-02T19:36:14+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20719>
 
 Did it all go wrong when we lost our body hair?
@@ -24372,12 +24372,12 @@ not if we're descended from the aquatic ape....
 
 it amazes me how much thought has gone into this thread... we've got some serious critical thinkers here.... maybe we should running the world....
 
-### phillipsgeorge@hotmail.com — 2012-05-02T19:47:38+0300
+### [email redacted] — 2012-05-02T19:47:38+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20725>
 
 unless the aquatic ape got cold, got a few skins together, discovered fire and...................x a few k years........the automobile.
 
-### pthomaslandry@gmail.com — 2012-05-02T20:22:53+0300
+### [email redacted] — 2012-05-02T20:22:53+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20733>
 
 > **localad;20711 wrote:** "Menthol is widely used in candy, chewing gum, toothpastes, cigarettes and common cold medications. Menthol has been shown to stimulate cold receptors in the mouth and nose. The present paper puts forward the hypothesis that menthol, by its effects on oral and nasal cold receptors, may influence thirst, the drive to breathe, and arousal. The satisfying effects of menthol on thirst and breathing, together with an effect on arousal, may explain the popularity of menthol and account for the very large amount of menthol-containing products that are consumed each day."
@@ -24452,12 +24452,12 @@ a quote by Jack I just read on his blog.
 
 hehehe is this a trick question??? the answer is obvious... its all about the blue ocean opportunities... whoops... I might have stepped on a few people to leverage that blue ocean... oh well, mother nature in all her beauty is one mean bitch...there's a reason the Irish call her Callieach [http://www.firetree.net/wheel/Brighid/cailleach.html](http://http://www.firetree.net/wheel/Brighid/cailleach.html)
 
-### phillipsgeorge@hotmail.com — 2012-05-02T23:19:23+0300
+### [email redacted] — 2012-05-02T23:19:23+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20821>
 
 This is what chiropractics over here use: [http://www.biofreeze.com/](http://http://www.biofreeze.com/)
 
-### phillipsgeorge@hotmail.com — 2012-05-02T23:30:31+0300
+### [email redacted] — 2012-05-02T23:30:31+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20825>
 
 Request please! Time is running out. The girls have female intuited\* us under the table!
@@ -24516,7 +24516,7 @@ More like:
 
 1\. All recessions are bad and must be suppressed by government actions to protect established businesses and jobs, while saving a cut of the action for government itself, of course.
 
-### phillipsgeorge@hotmail.com — 2012-05-03T00:12:02+0300
+### [email redacted] — 2012-05-03T00:12:02+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20838>
 
 You girls are such teasers! You'll be telling us 'it's in the rainbow' next!
@@ -24583,14 +24583,14 @@ I still think Factor X is the unification of Quantum Field Theory and the Theory
 
 Yeah, it's like a high school dance. You walk up to the girl Of your dreams to ask her to dance, and you know she sees you and really wants to be asked, but you can't quite bring yourself to actually ask her for fear of being rejected. Thanks, Jack! I feel like I'm in high school again expecting the big NOPE!
 
-### jeanie@truelongmont.com — 2012-05-03T07:36:36+0300
+### [email redacted] — 2012-05-03T07:36:36+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20921>
 
 > **Entelechy;20747 wrote:** so you're saying if I smoke Menthol Camels, I'll be invincible! muahahah
 
 Didn't the 122 yr old chocolate eater smoke? Must have been menthol.
 
-### phillipsgeorge@hotmail.com — 2012-05-03T08:58:27+0300
+### [email redacted] — 2012-05-03T08:58:27+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-20925>
 
 Back to the blue.
@@ -24738,14 +24738,14 @@ That is as mysterious as Factor X...
 
 +1 on the rejoinder!
 
-### phillipsgeorge@hotmail.com — 2012-05-03T19:10:28+0300
+### [email redacted] — 2012-05-03T19:10:28+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-21036>
 
 Up in the air rainbows don't appear to reach the ground; they are complete circles!
 
 ................But then we are not evolved to fly!
 
-### phillipsgeorge@hotmail.com — 2012-05-03T19:15:27+0300
+### [email redacted] — 2012-05-03T19:15:27+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-21039>
 
 > **MJ\*;21038 wrote:** localad a question for you...what do you find at the end of a rainbow?
@@ -24771,7 +24771,7 @@ But lower down I've seen them 'land' both on the ground and on the sea!
 
 This is the root of all your troubles...a view too broad...come back to earth and you might find what you are looking for...
 
-### phillipsgeorge@hotmail.com — 2012-05-03T19:51:50+0300
+### [email redacted] — 2012-05-03T19:51:50+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-21053>
 
 > **MJ\*;21116 wrote:** This is the root of all your troubles...a view too broad...come back to earth and you might find what you are looking for...
@@ -24966,7 +24966,7 @@ Ahhhhh.......alrighty!
 
 I was planning to type in my latest guess when Terry comes along and mentions it in Meet and Greet! Here goes: Altitude????? (the less oxygen?)
 
-### phillipsgeorge@hotmail.com — 2012-05-04T12:02:49+0300
+### [email redacted] — 2012-05-04T12:02:49+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-21277>
 
 factor x activation?.................
@@ -25003,7 +25003,7 @@ too much bait and switch for me
 
 oh, yeah! I take silica...SILICA!! (Si?)
 
-### phillipsgeorge@hotmail.com — 2012-05-04T21:34:54+0300
+### [email redacted] — 2012-05-04T21:34:54+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-21405>
 
 One day this thread will be made into an opera:
@@ -25049,7 +25049,7 @@ I love the way you put this together Marteen...Here is evidence of another epige
 
 [http://www.bbc.co.uk/news/health-17942181](http://http://www.bbc.co.uk/news/health-17942181)
 
-### zoebarry@yahoo.com — 2012-05-04T23:18:13+0300
+### [email redacted] — 2012-05-04T23:18:13+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-21428>
 
 > **marteen;21489 wrote:** Hey folks-- been lurking for a few hundred pages.
@@ -25237,7 +25237,7 @@ How did organisms create energy prior to oxygen?.....
 
 [http://en.wikipedia.org/wiki/Great\_Oxygenation\_Event](http://http://en.wikipedia.org/wiki/Great_Oxygenation_Event)
 
-### zoebarry@yahoo.com — 2012-05-05T19:38:47+0300
+### [email redacted] — 2012-05-05T19:38:47+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-21635>
 
 > **Birdy;21585 wrote:** dang, behind a paywall again
@@ -25505,7 +25505,7 @@ dr k said its in our head.
 
 the question is, what sculpts marble?
 
-### jeanie@truelongmont.com — 2012-05-08T16:32:35+0300
+### [email redacted] — 2012-05-08T16:32:35+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-22198>
 
 Perhaps it was his smooth and pretty feet. Also, whats that thing across his back?
@@ -25569,7 +25569,7 @@ Jack is holding back for the grand finale, and then that will just be another be
 
 working on putting it all together but not quite there yet!!! I keep chiseling away at the masterpiece!
 
-### jeanie@truelongmont.com — 2012-05-08T19:00:02+0300
+### [email redacted] — 2012-05-08T19:00:02+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-22265>
 
 We should "migrate" this topic to chat or something - anybody up for having chat room open before/during/after webinar.
@@ -25581,19 +25581,19 @@ We should "migrate" this topic to chat or something - anybody up for having chat
 
 not if it shuts me out
 
-### jeanie@truelongmont.com — 2012-05-08T19:17:20+0300
+### [email redacted] — 2012-05-08T19:17:20+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-22276>
 
 > **Birdy;22354 wrote:** not if it shuts me out
 
 Hey Monkeys! might be a good time to open chat to everyone who's watching the webinar since there is never any chat going on in the chat room! Would be nice to have a little action over there.
 
-### phillipsgeorge@hotmail.com — 2012-05-08T20:13:09+0300
+### [email redacted] — 2012-05-08T20:13:09+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-22296>
 
 Are there any big oceanic herbivores?
 
-### phillipsgeorge@hotmail.com — 2012-05-08T20:28:48+0300
+### [email redacted] — 2012-05-08T20:28:48+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-22307>
 
 What is the undersea version of the banana, potato or maize?................... Land can be so much more 'starchy'!
@@ -25767,14 +25767,14 @@ got to go, I'll write out the rest of this thought 'train wreck' when I get back
 
 i love this train wreck.....its how I think too.
 
-### jeanie@truelongmont.com — 2012-05-09T03:52:09+0300
+### [email redacted] — 2012-05-09T03:52:09+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-22443>
 
 > **marteen;22402 wrote:** OK this is nutty, but in another thread someone noticed Jack's pet birds from the news videos. On a hunch I googled the chemical composition of bird droppings, and wikipedia says Guano has high levels of nitrogen and phosphorous. Maybe keeping birds in the home increases the level of nitrogen in the air, which displaces the amount of oxygen, simulating the lower level of oxygen at higher altitudes in a fairly benign manner?
 
 Ill eat them but i wont keep them! Omg no birds! A seagull attacked me at seaworld once and took my churro - pehaps birds can be trained to attack when non seasonal foods are about to be consumed.
 
-### jeanie@truelongmont.com — 2012-05-09T03:57:21+0300
+### [email redacted] — 2012-05-09T03:57:21+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-22447>
 
 > **Entelechy;22505 wrote:** Spend enough time in the sun, and you get a tan. Pigmentation in light-exposed animals is clearly prevalent, and provides higher tolereance. The
@@ -26142,7 +26142,7 @@ And that simply sux.
 
 no offense taken at least here... all tongue in cheek for me.  we're all expanding each others minds...this thread is my sanity check to keep me from banging my head on my desk as the result of analyzing minutia cost data day-in-day-out....
 
-### phillipsgeorge@hotmail.com — 2012-05-09T23:58:15+0300
+### [email redacted] — 2012-05-09T23:58:15+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-22672>
 
 > There are several indications that the Palaeo Eskimos were matriarchal.
@@ -26282,7 +26282,7 @@ Gravity maps.... gobsmacked.
 
 thanks Jack.
 
-### pthomaslandry@gmail.com — 2012-05-10T04:04:38+0300
+### [email redacted] — 2012-05-10T04:04:38+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-22731>
 
 > **Entelechy;22810 wrote:** Gravity maps.... gobsmacked.
@@ -26397,14 +26397,14 @@ We be Martians...lol
 
 I think it is how well we can optimize our accumulated mismatches. Almost everything in society is artificial these days. Its how we tweak them that matters. I'm pretty sure that is how factor X is used.
 
-### phillipsgeorge@hotmail.com — 2012-05-10T11:56:28+0300
+### [email redacted] — 2012-05-10T11:56:28+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-22791>
 
 > **Jack Kruse;22827 wrote:** Somebody else got Factor X but I am not telling them because it is too close to Xmas.......Santa wants his cookies.
 
 I knew Jack would say this! ...............but it makes me like him even more!
 
-### phillipsgeorge@hotmail.com — 2012-05-10T12:42:49+0300
+### [email redacted] — 2012-05-10T12:42:49+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-22794>
 
 When I was little my Dad had a tame sulphur crested cockatoo. It chattered and talked incessantly. It's name was Georgie. It would say stuff like 'Georgie wants a brazil nut' 'Hello georgeous' 'You're beautiful'............Each evening, to quieten Georgie down, my parents would put a dark cover over his cage. The parrot would then just say 'nite, nite." and go to sleep.
@@ -26677,7 +26677,7 @@ Anthropological studies indicate that bipedalism** preceded encephalization in t
 
 Stumbling in the dark.
 
-### phillipsgeorge@hotmail.com — 2012-05-10T21:44:15+0300
+### [email redacted] — 2012-05-10T21:44:15+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-22974>
 
 'blimey Jack, talk about slapping the boys in the face with clues and we still don't get it. It's got to be the **environment**...but what bit?
@@ -26774,7 +26774,7 @@ Love that movie... pure genius
 
 I loved that book! worth a read for everyone. couldn't put it down, right up my alley.
 
-### phillipsgeorge@hotmail.com — 2012-05-10T23:22:06+0300
+### [email redacted] — 2012-05-10T23:22:06+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23004>
 
 Gravity+air transmission (v) buoyancy+water transmission.
@@ -26783,7 +26783,7 @@ Land (v) Sea.
 
 (I wouldn't be here if it weren't for the sea. My father, during the ill-fated 'Dieppe raid' in 1942, succeeded in making the beach, through enemy fire, in his landing craft for the withdrawal. Having filled the craft with troops they unfortunately took a direct hit from an German artillery shell and sank. To escape the bloodbath on the beach my Dad swam a mile and a half out to sea, back to the allied flotilla offshore. He later told my Mother he would have swam the entire English Channel (about 40 miles wide at that point) just to get back to her. I'm glad he survived. I was born 10 years later.)
 
-### phillipsgeorge@hotmail.com — 2012-05-10T23:46:00+0300
+### [email redacted] — 2012-05-10T23:46:00+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23012>
 
 > **Joann;23087 wrote:** How romantic, sigh
@@ -26805,7 +26805,7 @@ just looking into the entire 'thick atmosphere theory' of the mesozoic era. Requ
 
 your dad must have been somewhat cold adapted to manage that swim too!
 
-### zoebarry@yahoo.com — 2012-05-10T23:50:51+0300
+### [email redacted] — 2012-05-10T23:50:51+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23019>
 
 > **localad;23094 wrote:** There's more to it than that, I think! After all he was a man...and I'm half of him too....so I guess I get the gist of it.......
@@ -27018,7 +27018,7 @@ The link between ultraviolet (UV)-B, nitric oxide (NO) and phenylpropanoid biosy
 
 After 7 kids when else but in the dark!!!!!!!lol
 
-### phillipsgeorge@hotmail.com — 2012-05-11T09:47:05+0300
+### [email redacted] — 2012-05-11T09:47:05+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23117>
 
 Signalling! Our knowledge increases.
@@ -27156,7 +27156,7 @@ Next came the eucaryotic cells between 1.5 and 2 billion years ago. Eucaryotic c
 
 Go, Entelechy go. I love the way you paint the big picture. I have many little brushstrokes but still can't make out the image. Beauteous.
 
-### phillipsgeorge@hotmail.com — 2012-05-11T21:06:58+0300
+### [email redacted] — 2012-05-11T21:06:58+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23236>
 
 Communication; even quicker than epigenetics! This is why grandparents were selected for. They were the human 'hard drives'. Passing on, by word of mouth, the accumulated knowledge base to the babies and young while the parents were busy getting the food.
@@ -27203,7 +27203,7 @@ but right now, I've got to get back to work.
 
 here is some [homework](http://http://en.wikipedia.org/wiki/File:BirdRespiration.svg) for those so interested.
 
-### phillipsgeorge@hotmail.com — 2012-05-11T21:37:38+0300
+### [email redacted] — 2012-05-11T21:37:38+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23248>
 
 Did that homework in my post 2347!
@@ -27433,7 +27433,7 @@ Just finished the Webinar.........sitting here looking at all the data that went
 
 Thinking about the slides........and thinking of your brains constructing the story........as it unfolds and you you just.......fall back into you seats with implications...........cool \*\*\*\*. I dont think I would have done this on the cruise ship.......kinda karma.
 
-### phillipsgeorge@hotmail.com — 2012-05-12T09:50:21+0300
+### [email redacted] — 2012-05-12T09:50:21+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23360>
 
 Thank you as well, Dr K, for the tease of this thread.
@@ -27517,7 +27517,7 @@ I am also going to ask all of you who will hear it.......live and then the subse
 
 Looking forward to it!
 
-### zoebarry@yahoo.com — 2012-05-12T18:37:45+0300
+### [email redacted] — 2012-05-12T18:37:45+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23416>
 
 > **Jack Kruse;23489 wrote:** I am also going to ask all of you who will hear it.......live and then the subsequent special blog that is just designed for the 100 people who wanted to hear Factor X live please try to keep Factor X under wraps as best you can until the book comes out........I hope on the special blog you will post your thoughts and insights about how Factor X now changes your perception........because that is precisely what it did for me to allow me to look at my job as a surgeon totally differently since that day at the foot of Michelangelo's masterpiece.
@@ -27545,7 +27545,7 @@ DarleenMB...I'm with you...something to do with EM changing our brains, speeding
 
 Good to know. So I don't need to be 1 hour early to make sure that I have a seat  Maybe just 15 minutes early then.
 
-### zoebarry@yahoo.com — 2012-05-12T19:15:28+0300
+### [email redacted] — 2012-05-12T19:15:28+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23429>
 
 > **Jack Kruse;23499 wrote:** The blog is going to be public on the blog site........but it will have a Special meaning for those who listen to the webinar........I am planning on releasing the blog right after the Webinar for people to chew on because I expect that many people will want to see the actionable action of Factor X on modern life.........and this blog is designed to do just that. Luvmyzoe is your a member you are getting a seat at the Webinar live if you show up......Last webinar many did not come for the live thing.......I stayed and answered CT questions submittted for close to two hours.
@@ -27575,7 +27575,7 @@ Absolutely. My lips will be sealed. And that's why I paid for the membership. My
 
 I thought that the folks who participated early on in this thread were going to be invited along, so this doesn't seem quite fair.
 
-### phillipsgeorge@hotmail.com — 2012-05-12T20:09:35+0300
+### [email redacted] — 2012-05-12T20:09:35+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23447>
 
 Birdy, we'll all know soon enough! I think things suddenly got a bit bigger, quicker than the 'old days' of the promised 'X factor' group discussion.
@@ -27592,7 +27592,7 @@ Perhaps there will still be that promised conference call for the Factor-X-threa
 
 There will be but that will be a different scene.......the depth of this issue is massive and cant be covered in a simple lecture. The discussions are endless.
 
-### phillipsgeorge@hotmail.com — 2012-05-12T20:30:19+0300
+### [email redacted] — 2012-05-12T20:30:19+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23454>
 
 We'll all be shown the pathways soon enough and the original 'kick up the arxe' that got things going in the first place.
@@ -27603,7 +27603,7 @@ Meanwhile more useful waiting time for enjoying lots of whiting, weights and wat
 
 'O' is also nearly at the 'end of the rainbow' but that might just be a bit of MJ's 'laser scatter' I'm chasing there! Meeoww.
 
-### phillipsgeorge@hotmail.com — 2012-05-12T20:41:23+0300
+### [email redacted] — 2012-05-12T20:41:23+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23456>
 
 and how about playing phrase of the day to pass the hours? Here goes mine:
@@ -27636,7 +27636,7 @@ This one is going to have slides for the visual learners as I talk.......and I i
 
 Huge CT-6 news here by Dr. Myers group
 
-### phillipsgeorge@hotmail.com — 2012-05-12T21:14:49+0300
+### [email redacted] — 2012-05-12T21:14:49+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23466>
 
 chocolate; 'highlight' 4or5 of the words in the quote and 'google search' .....straight to the paper.
@@ -27865,7 +27865,7 @@ But seriously, folks....have we gone off the deep end with the nose breathing th
 
 [http://www.burkemuseum.org/static/baskets/Teachersguideforbasketry.htm](http://http://www.burkemuseum.org/static/baskets/Teachersguideforbasketry.htm)
 
-### phillipsgeorge@hotmail.com — 2012-05-13T10:05:34+0300
+### [email redacted] — 2012-05-13T10:05:34+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23626>
 
 > **Entelechy;23653 wrote:** why the blob will never eat New York, and Jurassic Park cannot exist.
@@ -27926,7 +27926,7 @@ Yup. Lets call it Factor Y.
 
 Cooling
 
-### phillipsgeorge@hotmail.com — 2012-05-13T13:18:08+0300
+### [email redacted] — 2012-05-13T13:18:08+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23629>
 
 ..........and at the 'other' end of the rainbow.......sunlight!
@@ -27972,7 +27972,7 @@ We'll find out soon.... Next week or when the book is published.
 
 Sprint Samsung Epic
 
-### phillipsgeorge@hotmail.com — 2012-05-13T16:30:51+0300
+### [email redacted] — 2012-05-13T16:30:51+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23648>
 
 You have just given me a bit of an idea, AmyK.
@@ -27985,7 +27985,7 @@ So how about those who need a bit of encouragement (from some newly Konverted ga
 
 (does sound a bit 'WW2-ish', though!!) .....but I do know of some budding Kamp Officers!
 
-### jeanie@truelongmont.com — 2012-05-13T16:59:05+0300
+### [email redacted] — 2012-05-13T16:59:05+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23654>
 
 > **Entelechy;23665 wrote:** Anna, If that's directed at me, my answer is because it's Jacks story to tell, not mine.
@@ -27994,12 +27994,12 @@ So how about those who need a bit of encouragement (from some newly Konverted ga
 
 Oh do keep it coming. I have such a nerd crush on your posts!!!
 
-### phillipsgeorge@hotmail.com — 2012-05-13T17:01:16+0300
+### [email redacted] — 2012-05-13T17:01:16+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23655>
 
 or a little 'softer' more Kuddly treatment, for those of a gentler disposition.........The 'Kruse Karma Kollective'...........
 
-### jeanie@truelongmont.com — 2012-05-13T17:06:00+0300
+### [email redacted] — 2012-05-13T17:06:00+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23656>
 
 > **Linz;23709 wrote:** The tinnitus is our inner canary
@@ -28059,7 +28059,7 @@ In a study published online in the Early Edition of the Proceedings of the Natio
 
 In a study published online in the Early Edition of the Proceedings of the National Academy of Sciences, the team reports that the newly discovered cluster consisting of one iron and eight magnesium atoms acts like a tiny magnet that derives its magnetic strength from the iron and magnesium atoms.** The combined unit matches the magnetic strength of a single iron atom while preferentially allowing electrons of specific spin orientation to be distributed throughout the cluster.
 
-### phillipsgeorge@hotmail.com — 2012-05-14T01:00:02+0300
+### [email redacted] — 2012-05-14T01:00:02+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23761>
 
 It was staring me in the Face;
@@ -28227,7 +28227,7 @@ Originally Posted by Jack Kruse "to make it even more mind numbing FACTOR X goes
 
 My guess: "UV"?
 
-### tercay@yahoo.com — 2012-05-14T22:33:50+0300
+### [email redacted] — 2012-05-14T22:33:50+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-23988>
 
 My guess is IQ The ability to choose and create mismatches
@@ -28570,7 +28570,7 @@ Yeah, it's an ancient yoga...don't do it without expert guidance.
 
 I used to sungaze quite extensively as a child. This enlarged my brain but I do not know if this was due to an increase in mental capacity or inflammation.
 
-### penguinmom718@yahoo.com — 2012-05-16T08:19:19+0300
+### [email redacted] — 2012-05-16T08:19:19+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-24539>
 
 I first heard Israel's version of Somewhere over the Rainbow in the movie 50 First Dates. I fell in love with it then and still love it. So much so, that my kids gave me one of those sound birthday cards with that song one year. Thanks for sharing the video.
@@ -28734,7 +28734,7 @@ We covered both of these issues in the last webinar.
 
 I never know where I'm going to be or if I have to work.
 
-### jeanie@truelongmont.com — 2012-05-17T01:41:05+0300
+### [email redacted] — 2012-05-17T01:41:05+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-24729>
 
 Wanted to post this here - in case not everyone reads every other post.
@@ -28925,7 +28925,7 @@ Maybe factor X is somewhere in here....
 
 [http://www.paulcheksblog.com/barefoot-medicine-for-free](http://http://www.paulcheksblog.com/barefoot-medicine-for-free)
 
-### phillipsgeorge@hotmail.com — 2012-05-18T06:22:53+0300
+### [email redacted] — 2012-05-18T06:22:53+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-25111>
 
 Final chance at those **2 letters**, before the deadline! Need to look at this simply with a child-like interest.....
@@ -28940,7 +28940,7 @@ Children know about it and
 
 A child might label it like water taps; H and C. An adult may know it by its 2 measurements; in F or C.
 
-### phillipsgeorge@hotmail.com — 2012-05-18T07:00:11+0300
+### [email redacted] — 2012-05-18T07:00:11+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-25116>
 
 You call it Farenheit. I call it Centigrade!
@@ -29156,14 +29156,14 @@ I'm not a member and, unfortunately I'm not able to participate in the webinar t
 
 [http://www.sciencedaily.com/releases/2007/09/070924172959.htm](http://http://www.sciencedaily.com/releases/2007/09/070924172959.htm)
 
-### zoebarry@yahoo.com — 2012-05-18T20:19:46+0300
+### [email redacted] — 2012-05-18T20:19:46+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-25259>
 
 > **Birdy;25333 wrote:** [http://www.sciencedaily.com/releases/2007/09/070924172959.htm](http://http://www.sciencedaily.com/releases/2007/09/070924172959.htm)
 
 Didn't the scientists say last week that the dinosaurs farted their way into extinction? Now we're back to some asteroid? Geez, I can't keep up......
 
-### jeanie@truelongmont.com — 2012-05-18T20:22:48+0300
+### [email redacted] — 2012-05-18T20:22:48+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-25261>
 
 > **Anna K.;25189 wrote:** this is becoming a bit annoying
@@ -29288,7 +29288,7 @@ an actionable plan is going to be why you are glued to this site. FOr 7 yrs I ha
 
 You can Marti. All you have to do is sign up as a Karnivore after Saturday, and you will be able to watch both of the webinars. Then, if you can't afford to keep it going beyond the first month, you just have to resign your subscription.
 
-### phillipsgeorge@hotmail.com — 2012-05-19T13:28:27+0300
+### [email redacted] — 2012-05-19T13:28:27+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-25457>
 
 Good luck everyone! Skint englishman here waiting for any 'krumbs of knosis' brushed off the table of plenty, in a few weeks time!
@@ -29368,7 +29368,7 @@ Just my two cents…
 
 Elin
 
-### jeanie@truelongmont.com — 2012-05-19T15:46:57+0300
+### [email redacted] — 2012-05-19T15:46:57+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-25467>
 
 > **Tizawee;25546 wrote:** ROI 101. Well said, Cavemam.
@@ -29394,7 +29394,7 @@ OMG THIS. Someone from my office the other day said "We all thought you had gone
 
 Well in a few hours........you will have a new context to play with all that information you have gained.......This I promise.
 
-### phillipsgeorge@hotmail.com — 2012-05-19T16:19:37+0300
+### [email redacted] — 2012-05-19T16:19:37+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-25472>
 
 If nothing else would someone 'giveaway' just the '2 letters'?? I'm a knackeded kitten from all the jumping around, stimulated by JK and his loyal group of NDA's !!!!!
@@ -29420,7 +29420,7 @@ Factor X is 'JK'! Lol
 
 Hope you don't have to abort this mission today...[http://www.google.com/hostednews/ap/article/ALeqM5gO9OVamqCh4Z6tRuEuOGZ9vdS1wg?docId=3ca83e0fd6bd47fdb84c2c0679c2beb1](http://http://www.google.com/hostednews/ap/article/ALeqM5gO9OVamqCh4Z6tRuEuOGZ9vdS1wg?docId=3ca83e0fd6bd47fdb84c2c0679c2beb1)
 
-### phillipsgeorge@hotmail.com — 2012-05-19T18:59:27+0300
+### [email redacted] — 2012-05-19T18:59:27+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-25527>
 
 > **Jack Kruse;25559 wrote:** Deviner avant de dÃ©montrer! Ai-je besoin de rappeler que c'est ainsi que se sont faites toutes les dÃ©couvertes importantes.
@@ -29515,7 +29515,7 @@ I wasn't disappointed. I really liked the journey of trying to name it. I learne
 
 I found the webinar to be very interesting and will definitely be downloading it to watch again. The history lesson alone was worth it and the explanation as to why the southern hemisphere has animals that are not in the northern hemisphere was really interesting. Never would have figured that one out. There is a tremendous amount to digest.
 
-### phillipsgeorge@hotmail.com — 2012-05-20T11:03:17+0300
+### [email redacted] — 2012-05-20T11:03:17+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-25664>
 
 Northern 'lad' (dairy tolerant, 'hunter responsive' extremities, real name derives from 'horse loving peasant') will soon trek down to visit those remote, southern hemisphere, shores. Looking forward to a dip with the penguins. Hoping to see it all through the 'X-tinted glasses' kindly being provided here.
@@ -29680,7 +29680,7 @@ The last paragraph (maybe with the addition of IF) should become a sticky and be
 
 I know i keep accidentally leaving out the intermittent fasting piece, but if you really think about what a paleo diet is, it is not just what you eat, but how and when. Seems to me that in Paleo times, food (your next meal) was problematic in type, manner, and time. Just saying.
 
-### jeanie@truelongmont.com — 2012-05-20T20:43:48+0300
+### [email redacted] — 2012-05-20T20:43:48+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-25758>
 
 > **Jack Kruse;25761 wrote:** If you dont think it should change your protocols then you missed the point big time.......
@@ -29750,7 +29750,7 @@ Something to keep in mind when you read results and recommendations of various "
 
 NO ONE IS AVERAGE
 
-### jeanie@truelongmont.com — 2012-05-20T20:55:55+0300
+### [email redacted] — 2012-05-20T20:55:55+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-25765>
 
 > **Entelechy;25847 wrote:** Bang on again.
@@ -29902,7 +29902,7 @@ The next blog is then for you.........
 
 yes you need to assess where you are into your circadian biology and your mismatch why? if you dont know how bad or good you are you have no actionable plan
 
-### jeanie@truelongmont.com — 2012-05-20T21:57:54+0300
+### [email redacted] — 2012-05-20T21:57:54+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-25786>
 
 > **Entelechy;25868 wrote:** that is further.... WAY further..
@@ -30377,7 +30377,7 @@ Greetings, grunt, grunt, my fellow Neanderthals!  Great to meet you.
 
 Wow, maybe we'll be able to gather enough critical Neanderthal mass to colonize our own niche on this forum
 
-### phillipsgeorge@hotmail.com — 2012-05-21T10:53:56+0300
+### [email redacted] — 2012-05-21T10:53:56+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-25912>
 
 Just a side thought; _ice machines_...they are great way to bring delicate sea food back to the shore in a fresh state, for us to enjoy!
@@ -30631,7 +30631,7 @@ Wow to the human brain...score one for the big brain and junk DNA...
 
 Maybe not this particular article but we did look at this...and ponder that the key to longevity might be found there...have to think about what the key was  it was awhile ago...
 
-### phillipsgeorge@hotmail.com — 2012-05-21T17:37:49+0300
+### [email redacted] — 2012-05-21T17:37:49+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-25970>
 
 little uk thought grenade being lobbed in,.......... some stuff on the main blog comments (Greg Bear novel) got me thinking about pheromones (epigenenetic effects?) so then wondered about aromatherapy (works for some). Indeed I've used peppermint oil on my wrist pulse points for years, in the morning, whenever i've felt like an early 'mental boost' .
@@ -31193,7 +31193,7 @@ with another trick, we can make it come to a complete stop... if only for a seco
 
 electromagnetic radiation, whether defined as a particle, or wave, is not defined as motion simply because motion is relative.
 
-### jeanie@truelongmont.com — 2012-05-22T04:21:42+0300
+### [email redacted] — 2012-05-22T04:21:42+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-26174>
 
 > **neaderthal;25999 wrote:** "
@@ -31232,7 +31232,7 @@ my understanding is that protons just become non existent at absolute zero......
 
 Jack, did you read Sharon Moalem's "Survival of the Sickest" when putting together your Factor X/KT theories?
 
-### jeanie@truelongmont.com — 2012-05-22T04:45:46+0300
+### [email redacted] — 2012-05-22T04:45:46+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-26182>
 
 > **MJ\*;26068 wrote:** This could help explain some of what Jack discussed in terms of the survival of our species through the sense of smell in attraction to others with "different" smells due to differences in gene pool to create more potential genetic possibilities.
@@ -31257,7 +31257,7 @@ Marry both real time cultural influences with the reproductive advantage of "sex
 definitions may be important but the answer to everything, including Factor X, lies here (hope this picture attaches...
 [](http://http://www.jackkruse.com/forum/convert_files/attachments/26276=210-Schrodinger-cat.jpg)
 
-### jeanie@truelongmont.com — 2012-05-22T04:51:06+0300
+### [email redacted] — 2012-05-22T04:51:06+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-26186>
 
 > **Randychaps;26162 wrote:** The broader question is how much cultural proclivity is actually defined by our biology, and how much by our brains? Are there mismatches and/or opportunities in that tradespace?
@@ -31285,7 +31285,7 @@ I read it in the last month after a doc gave me a copy and I realized that the h
 
 It's getting me thinking!
 
-### jeanie@truelongmont.com — 2012-05-22T05:15:22+0300
+### [email redacted] — 2012-05-22T05:15:22+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-26201>
 
 > **Jack Kruse;26184 wrote:** culture creates lots of mismatches......even the ancient ones.......
@@ -31369,7 +31369,7 @@ I think that describes anyone that makes it to the top of the corporate ladder.
 
 I think the more we accumulate the more risky it becomes for oncogenesis due to histones and acetylation issues.
 
-### jeanie@truelongmont.com — 2012-05-22T05:34:32+0300
+### [email redacted] — 2012-05-22T05:34:32+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-26219>
 
 I think the line is drawn in practicality. Since you can't really live in a cold dark world, and at best can approximate a winter - that you have to go with the flow of circadian rhythms. I think UNLESS you are in that theoretical "cold dark place" as an environment you probably are better off with veggies in your system to feed your gut cooties as that does seem to confer some symbiosis in operations in processing the warm/hybrid world.
@@ -31393,7 +31393,7 @@ If your pendulum quit swinging, and you are close to optimal, then I think you w
 
 damn, 7 3 unsuited, but all in anyway because it's the only hand I got, and I can't bluff nature.
 
-### jeanie@truelongmont.com — 2012-05-22T05:36:44+0300
+### [email redacted] — 2012-05-22T05:36:44+0300
 **Source:** <https://forum.jackkruse.com/threads/what-the-h-is-factor-x-post-your-guesses.42/post-26222>
 
 > **Entelechy;26298 wrote:** that would be a fair statement... AT absolute zero, matter would be undefined. Much like the center of a black hole.
@@ -31948,7 +31948,7 @@ I have two pairs of lowbluelights. Like them
 
 I use regular amber sunglasses in the evening when I have to go into a blue light situation. I hope that is OK, too.
 
-### jeanie@truelongmont.com — 2012-03-15T00:57:01+0200
+### [email redacted] — 2012-03-15T00:57:01+0200
 **Source:** <https://forum.jackkruse.com/threads/glasses-to-block-blue-light.43/post-127>
 
 Since last year, I usually read before bed on my ipad - I can't find any kind of light changer option like flux. Anybody know of anything? I wonder if wearing the blueblocker glasses actually help. If there are studies out there, it would be great for links to share so we can make an informed decision.
@@ -31966,7 +31966,7 @@ Thanks!
 
 I change tehs etting to a very dim sepia or black background with white type. None of them are ideal, but I imagine it would be more acceptable with yellow lenses on.
 
-### rbu5@sssnet.com — 2012-03-15T02:01:31+0200
+### [email redacted] — 2012-03-15T02:01:31+0200
 **Source:** <https://forum.jackkruse.com/threads/glasses-to-block-blue-light.43/post-234>
 
 I saw this link on one of Dr Kruse's FB posts. Someone put it up to dim your computer screen. I have it downloaded on mine and it really works.
@@ -31981,12 +31981,12 @@ And I use the brightness meter on my Kindle Fire turned all the way down if I re
 
 HTH
 
-### jeepifer@gmail.com — 2012-03-15T02:49:57+0200
+### [email redacted] — 2012-03-15T02:49:57+0200
 **Source:** <https://forum.jackkruse.com/threads/glasses-to-block-blue-light.43/post-313>
 
 I use F.lux on my computers and it's been awesome. No, it doesn't work on iDevices unless you jailbreak them, which I won't do. I also like to slip in an hour of TV time after the kids are in bed if I can. Interesting comment on blueblocker glasses -- might have to try that!
 
-### meyoolia@gmail.com — 2012-03-15T03:28:48+0200
+### [email redacted] — 2012-03-15T03:28:48+0200
 **Source:** <https://forum.jackkruse.com/threads/glasses-to-block-blue-light.43/post-379>
 
 I just ordered a pair from lowbluelights, the kind that fit over top of my prescription glasses... along with the nightlight and a couple of incandescent bulbs for my bedside table. Let's see if they're worth the $$! lol.... if nothing else, I guess I can use 'em as over-my-glasses sunglasses \*shrug\*  ...."I wear my sunglasses at night" a la Corey Hart, lol.... more confirmation for my family that mom's lost her mind to perimenopause  ....
@@ -32014,7 +32014,7 @@ Would these work to block the blue light? seems cheap to me, any thoughts?
 
 Thanks
 
-### jeepifer@gmail.com — 2012-03-15T16:42:39+0200
+### [email redacted] — 2012-03-15T16:42:39+0200
 **Source:** <https://forum.jackkruse.com/threads/glasses-to-block-blue-light.43/post-787>
 
 Any thoughts on the orange-colored fluorescent bulbs? Thinking of putting those in the house instead of the white ones, since we really only turn them on after dark, duh.
@@ -32032,7 +32032,7 @@ When I heard about doing this I was very skeptical but for $15 (I already owned 
 
 Am I glad I did.
 
-### edance83@yahoo.com — 2012-03-16T18:28:40+0200
+### [email redacted] — 2012-03-16T18:28:40+0200
 **Source:** <https://forum.jackkruse.com/threads/glasses-to-block-blue-light.43/post-1559>
 
 I haven't had the money for blue blockers yet (even the $5 ones from walmart).. but I have been reading on them for awhile and have been wanting them. I believe they def work.
@@ -32129,7 +32129,7 @@ Wore these last night! Loved them. Definitely easier to wind down and fall aslee
 
 Is there a way to verify that the glasses really do block blue light? A google search turned a statement saying that when you wear real blue-blockers, the color blue looks black and white looks orange. I just tried that with some old amber ski goggles and saw some color differences but not a lot. Then I pulled out some blue LED Christmas lights and looked at them through the goggles. There was no difference at all - the blue lights still look blue so I'm thinking those won't work.
 
-### jeepifer@gmail.com — 2012-03-19T19:24:53+0200
+### [email redacted] — 2012-03-19T19:24:53+0200
 **Source:** <https://forum.jackkruse.com/threads/glasses-to-block-blue-light.43/post-2825>
 
 I was in Walgreens over the weekend and they had amber-colored lenses for some of their sunglasses. They also had ones that fit over, for those that wear regular glasses. I didn't check the price, but I'd be guessing $20 or less.
@@ -32253,7 +32253,7 @@ JMM - please check out post #39 - and ask Jack about this, please!
 
 You guys are so cute!
 
-### jeanie@truelongmont.com — 2012-04-11T21:20:38+0300
+### [email redacted] — 2012-04-11T21:20:38+0300
 **Source:** <https://forum.jackkruse.com/threads/glasses-to-block-blue-light.43/post-13855>
 
 > **Lyndra;113 wrote:** Who is using glasses to block that diabolical blue light we get so much of? Can any old amber-colored lenses be used or do they need to be special? I'm hoping I can use the sunglasses I already have that have amber lenses.
@@ -32285,7 +32285,7 @@ Now, 25 years later, BluBlocker is back with the finest protection and both the 
 
 Look through our selection of some of the advanced sunglasses styles available and know that you are getting value, style and protectionâ€”all in one package."
 
-### skline@peak.org — 2012-04-12T07:17:50+0300
+### [email redacted] — 2012-04-12T07:17:50+0300
 **Source:** <https://forum.jackkruse.com/threads/glasses-to-block-blue-light.43/post-14111>
 
 > **Casey;1868 wrote:** Coriander, do you wear glasses? Because they're safety goggles I think they might fit over my glasses, but might wait to see what you think.
@@ -32383,7 +32383,7 @@ Cavemam, unless you jailbreak your iPad you cannot install fLux and I have been 
 
 link please!
 
-### jeanie@truelongmont.com — 2012-10-06T16:29:01+0300
+### [email redacted] — 2012-10-06T16:29:01+0300
 **Source:** <https://forum.jackkruse.com/threads/glasses-to-block-blue-light.43/post-56590>
 
 > **Paradox;57836 wrote:** Cavemam, unless you jailbreak your iPad you cannot install fLux and I have been too chicken to do that to mine so I went on Amazon and searched for overhead projector sheets and bought 2 amber ones. At night I use my blue blockers and the overhead amber clear overlay on top of my iPad although it is slightly larger than the iPad you can still tap and read fairly easily through it and I also have an anti glare screen protector in it too. Hope this helps. They were dirt cheap, like 2 bucks each.
@@ -33119,7 +33119,7 @@ Okay, the top line explains the color coding of the "Optimal" column (for exampl
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### finnite@dccnet.com — 2012-03-23T00:40:08+0200
+### [email redacted] — 2012-03-23T00:40:08+0200
 **Source:** <https://forum.jackkruse.com/threads/optimal-labs.46/post-4687>
 
 > **Souldanzer;4687 wrote:** OPTIMAL LABS AND OPTIMAL RANGES
@@ -33164,7 +33164,7 @@ note Ft4 has a much longer half life and the lab results may not be accurate unt
 
 for a FT3/RT3 ratio to be valid both must be tested from the same blood draw.
 
-### chrystin.comeau@live.com — 2012-03-23T01:09:56+0200
+### [email redacted] — 2012-03-23T01:09:56+0200
 **Source:** <https://forum.jackkruse.com/threads/optimal-labs.46/post-4712>
 
 Can anyone give me a conversion and optimal level (the real optimal, not the one listed on the lab result ) for DHEA-s salivary. The result I got was 6.8 ng/ml, with a reference range of 2-23. The results others are reporting are in the hundreds. Are these different units? serum levels?
@@ -33230,12 +33230,12 @@ I'm experiencing poor sleep (though that could be due to the time change), and l
 
 Just curious what others are experiencing.
 
-### mycrazycartoons@gmail.com — 2012-03-15T01:18:42+0200
+### [email redacted] — 2012-03-15T01:18:42+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-163>
 
 Hi Evo.. I've had sinus drainage, intermittent sleep due to being a raging furnace to freezing off and on all night. I've been on the leptin rx for a month and CT for over 2 weeks... the sinuses started with the face dunking and is just now starting to improve. Digestion has been off too... hoping it will all find a new normal soon.
 
-### jodi.wibel@yahoo.com — 2012-03-15T01:19:34+0200
+### [email redacted] — 2012-03-15T01:19:34+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-165>
 
 I've been Paleo for a year, but just started CT a week ago. Neither of the symptoms you're experiencing, but nasal allergies are really bad (having to take allergy meds nearly every day) and feeling fatigued in the afternoons. Jack says the latter is from an increase in my DHEA and toxin & estrogen release. Not sure if the allergies should be attributed to the season, or if CT is exacerbating this? Since I've been on Paleo, I NEVER feel fatigued during the day. So far, my CT protocol consists of daily face dunks in ice water and every other day for 30-45 minutes in a pool below 65 degrees. I have hypothryroidism so I'm highly sensitive to cold. This is going to take a LONG time for me to adapt!
@@ -33282,7 +33282,7 @@ I've had bacne, which I think I've only had maybe once or twice before. But go f
 
 I think we all have some "die-off" to experience. I am 11 weeks into Leptin Rx and 4 weeks into CT. I experienced nausea after the first week that was horrific. Nausea stuck around for 2 weeks and then itching took has taken it's place for the last week or so. But that seems to be getting better too. Not sure if there will be more but who knows if it's getting rid of crap that shouldn't be there, I'm all for it.
 
-### trishalinn@gmail.com — 2012-03-15T02:58:49+0200
+### [email redacted] — 2012-03-15T02:58:49+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-333>
 
 My husband and I did the face dunks and then started to progressively cool our showers at the same time. We are on day 4 of the baths. The first couple were around 58ish and the last couple have been about 53-55. My husband was extremely lethargic and tired for a couple of days but does seem to be feeling some better today. He was wondering if it was the Leptin RX diet. I told him I doubted it, that I suspected probably the CT. I'm a bit worried, because so far I don't feel like I've really experienced any side effects.
@@ -33342,7 +33342,7 @@ I started the thread because I had seen on Dr. K's blog and the MDA monster thre
 
 I had a bit of acne, not feeling as refreshed in the morning, headaches, and nasal drainage. Also those cherry red spots on the skin on my arms from the increased Estrogen. Dr. K advised to eat mushrooms to block T converting to E2.
 
-### nicebeanst@yahoo.com — 2012-03-15T14:46:32+0200
+### [email redacted] — 2012-03-15T14:46:32+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-697>
 
 I've been doing CT abt 2 weeks now, had been doing cold showers for a almost a year, but only 2-3 min after a warm shower. Now its cold for 5-6 min. 51 deg out of the tap, yikes. 35-45 baths, alternating between legs/feet up and torso down, and legs/feet in, sitting upright. Also I sit on large ice pad during 25 drive to work.
@@ -33357,7 +33357,7 @@ Glutes, what in god's name is happening here. I feel like my butt looks awful, l
 
 I'm going to have DH take measurements, he took them 2 weeks ago.
 
-### mycrazycartoons@gmail.com — 2012-03-15T15:19:56+0200
+### [email redacted] — 2012-03-15T15:19:56+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-718>
 
 > **Evo Mama;681 wrote:** I've experienced lots of positive effects, as well, including improved mood and energy, weightloss (1+ week in and I've lost about 5-6 pounds), and much better tolerance for cold.
@@ -33378,7 +33378,7 @@ Hmm, I like the 'shrooms...time to stock up!
 
 I wonder if this is likely to be a redistribution (perhaps more internally) of temporary water weight....
 
-### finnite@dccnet.com — 2012-03-15T15:37:04+0200
+### [email redacted] — 2012-03-15T15:37:04+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-729>
 
 > **kalibex;728 wrote:** I wonder if this is likely to be a redistribution (perhaps more internally) of temporary water weight....
@@ -33398,12 +33398,12 @@ I'm MUCH more pleased that I can tighten my belt at the next notch, than the 5-6
 
 Anyway, I'd say you're making progress, so jump in that cold tub, PaleoNana!
 
-### mycrazycartoons@gmail.com — 2012-03-15T16:00:15+0200
+### [email redacted] — 2012-03-15T16:00:15+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-743>
 
 Good point... it could be water retention-- then cutting salt intake might help.
 
-### mycrazycartoons@gmail.com — 2012-03-15T16:01:30+0200
+### [email redacted] — 2012-03-15T16:01:30+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-744>
 
 > **kalibex;728 wrote:** I wonder if this is likely to be a redistribution (perhaps more internally) of temporary water weight....
@@ -33422,7 +33422,7 @@ Mine too - but she is very supportive. I'm the luckiest man alive
 
 I'm not sure if it's a die off effect: I have had really sweaty armpits, starting when I began my tub sessions. Haven't used deodorant for a year and not starting now, so hoping it will wear off...
 
-### mycrazycartoons@gmail.com — 2012-03-15T16:11:35+0200
+### [email redacted] — 2012-03-15T16:11:35+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-751>
 
 > **Evo Mama;735 wrote:** No secret. We are all different, and will respond to CT in different ways. There could be a ton of reasons why you are not losing weight just yet, but more importantly YOUR CLOTHES ARE GETTING LOOSER. If your clothes are looser AND you are maintaining weight, THAT IS FREAKIN' GREAT! That means you are likely burning fat, and gaining a little muscle. That's pretty much the only way that happens.
@@ -33437,7 +33437,7 @@ I'm not sure if it's a die off effect: I have had really sweaty armpits, startin
 
 Ah yes.. that Neolithic dogma is tough to shake off. But you are right.. it should be more about how I feel and how my clothes fit. I was on hcg for six weeks (prior to the discovery of leptin rx), where being a slave to the scale was encouraged. \*sigh\* This is all so intriguing. Thanks for the encouragement.. and bravo to you (that's my neolithic cheer for you  )
 
-### mycrazycartoons@gmail.com — 2012-03-15T16:15:40+0200
+### [email redacted] — 2012-03-15T16:15:40+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-753>
 
 > **ColleenM;730 wrote:** I think that is the case but then the question becomes why do some have the ability to shed that fluid quickly whereas others do not??
@@ -33458,7 +33458,7 @@ Hadn't even thought of that! (Conversion to muscle.)
 
 We are on the cutting edge of this, a large beta-test, _ifyouwill_, and that any odd or out of the ordinary symptoms we experience can be shared here for the greater good. It sounds like Dr. Kruse has already done preliminary testing on himself and individuals in his practice, so many of the symptoms we're reporting, he is already familiar with. But sharing these symptoms here is quite useful as it helps us to not feel alone/crazy/psychosomatic as we embark on this new process. We may have some similar and some very different experiences. Even so, I find it interesting to learn about these things as not all of them may be happening because of CT - what with all the factors each of us has in our lives every day that might affect our symptoms.
 
-### jodi.wibel@yahoo.com — 2012-03-15T17:18:39+0200
+### [email redacted] — 2012-03-15T17:18:39+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-809>
 
 Hi Claudia, I haven't had any urticaria symptoms yet, but haven't been in an ice bath yet either. What I meant about being sensitive to cold is that I tend to always be cold-natured. I rarely need to run the A/C in my car unless it's over 80 outside (I live in New Orleans) and I keep the temp in my house at around 72. The feel of a cold shower is like torture. I can only stand it for a minute or two. The pool I've been getting in doesn't have a thermometer but I'm guessing it's in the 60s. Lucky for you, you found a paleo doc! I have to bug Jack with all my questions! Curious to see if you're thyroid is normal. Symptoms include weight gain, hair loss, dry skin, and fatigue. Did you feel any nausea at first (with the CT)? I did, but forgot to mention it since it went away after the 2nd day.
@@ -33498,7 +33498,7 @@ I've definitely been sweating more. My hands are pretty much sweaty all day long
 
 I'm also hacking up all sorts of fun junk. I was doing this before LRx and CT, but now my coughing is even more productive.
 
-### nosnhojjennifer@yahoo.com — 2012-03-15T21:12:26+0200
+### [email redacted] — 2012-03-15T21:12:26+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-989>
 
 It's been interesting and helpful to read everyone's experiences. I have been following Leptin Reset Rx, adrenal Rx, leaky gut Rx and doing AI protocol for about a week. Added CT last week. Did face dunks twice and my sinuses couldn't take it. Now I have bad congestion - haven't had a sinuse attack in over two years. I moved to ice packs and since I was tolerating that I add cold tub before bed - 55 degrees for 20 min. My Raynauds flares up a bit and it takes me a long time to warm up. I do ice packs in the morning and cold tub at night. I'm sure my O6s are high and I know my hormones are a mess. (no TOM since doing hcg in July 2011) I gained three pounds since starting leptin Rx. I am so tired everyday. End up going to bed early and have weird dreams. One dream I was in a plane and Dr K was pilot! Lol
@@ -33536,7 +33536,7 @@ I have been doing my CT after my BAB, and yesterday it left me feeling exhausted
 
 Is CT making anyone else really tired?
 
-### meyoolia@gmail.com — 2012-03-16T00:52:06+0200
+### [email redacted] — 2012-03-16T00:52:06+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-1116>
 
 > **mumone;1103 wrote:** I have been doing my CT after my BAB, and yesterday it left me feeling exhausted all day long, so I think its an evening thing from now on.  than at least I can just go to bed!
@@ -33685,7 +33685,7 @@ Yes! I even brush my teeth before my CT because after I am only able to go to be
 
 Take it slow at your own pace. I started my bath at 72 and took two weeks to get to 54.
 
-### d_grhrt@yahoo.com — 2012-03-20T05:18:01+0200
+### [email redacted] — 2012-03-20T05:18:01+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-3127>
 
 Two days into the baths I had a day of such lethargy and depression I couldn't get out to go to work till 2pm. After that day, I started feeling great and even better than before I started. Hard to explain but it's a lighter, brighter feeling! Also, after a week of the baths, I improved all my lifting numbers at my workout, with no muscle soreness after. I've only been at this for 1.5 weeks, two 35 to 45 minute baths per day. I'm absolutely loving it.
@@ -33695,7 +33695,7 @@ Two days into the baths I had a day of such lethargy and depression I couldn't g
 
 tiredness,nausea and an emotional rollercoaster ride, week 3 was hell! but bright side is its improving!! but no weight / size loss yet
 
-### finnite@dccnet.com — 2012-03-20T14:44:15+0200
+### [email redacted] — 2012-03-20T14:44:15+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-3204>
 
 Did my longest (40 min) and coldest bath (45F) two nights ago and noticed junk draining down my throat. last night I did face dunks to see if I could encourage the junk to drain more and today...OMG I feel like I\`ve been hit by a truck, even the freaking soles of my feet ache! the good part is the draining has definitely picked up so that worked like it was supposed to.
@@ -33705,7 +33705,7 @@ Did my longest (40 min) and coldest bath (45F) two nights ago and noticed junk d
 
 @Dan, what are you doing for the follicular dermititis? I've got it bad I think. Just about the time I started CT, I saw little pimples forming around hair follicles in various areas of my body, but mostly concentrated on legs and belly. Then after doing about a week and a half of CT (cold showers), I developed a really bad rash on my left side. It itches like crazy! I've been trying lotion, olive oil and coconut oil, but haven't seen much improvement. I thought it was from the dy skin after the showers, but if were just that, I would've thought it would be gone by now. Any advice?
 
-### loriflarson@gmail.com — 2012-03-20T15:47:20+0200
+### [email redacted] — 2012-03-20T15:47:20+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-3227>
 
 I have had the emotional rollercoaster, the nausea, being tired as well. My sleep has improved tremendously! I am dreaming again.Do not remember the last time I had dreams. I have removed all the extra blankets from my bed.My fiance almost fell over.I usually sleep with a comforter and 2 to 3 blankets (year round)Not anymore! My sinuses are clear for a few hours after the cold bath.Hoping they clear all together.My clothes are fitting better but no difference on the scale. My hands and feet have always been cold for as long as I can remember but the last few days my feet feel like they are an fire. Maybe my circulation is improving?
@@ -33767,7 +33767,7 @@ Breakthrough vaginal bleeding 8 years post menopuse. I' m guessing/ hoping estro
 
 I've lost almost 50lb and have no loose skin whatsoever. I've also seen a lot of success stories at MDA where people have lost well over a hundred pounds and have no loose skin. I think that it's because the diet is solid, not only removing fat, but giving the skin what it needs to recover. Also, on the B/A pic thread there, people have mentioned that most of what is considered "loose skin" is actually just fat still there. If you can pinch it and get a thick pinch (instead of the thinness you get on your ankle or wrist bone), it's fat.
 
-### nicebeanst@yahoo.com — 2012-03-23T01:45:46+0200
+### [email redacted] — 2012-03-23T01:45:46+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-4735>
 
 > **MamaGrok;4661 wrote:** I've lost almost 50lb and have no loose skin whatsoever. I've also seen a lot of success stories at MDA where people have lost well over a hundred pounds and have no loose skin. I think that it's because the diet is solid, not only removing fat, but giving the skin what it needs to recover. Also, on the B/A pic thread there, people have mentioned that most of what is considered "loose skin" is actually just fat still there. If you can pinch it and get a thick pinch (instead of the thinness you get on your ankle or wrist bone), it's fat.
@@ -33776,7 +33776,7 @@ i wouldn't say my skin is loose, it is more like the fat is loose, if that makes
 
 I can see not two but FOUR abs poking through my previously smooth belly. With no real change on the scale. hmmmph!
 
-### nicebeanst@yahoo.com — 2012-03-23T01:47:28+0200
+### [email redacted] — 2012-03-23T01:47:28+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-4736>
 
 Mama Grok I see you are under 140! Congrats! I am a longtime (lurking) fan of yours from MDA
@@ -33814,7 +33814,7 @@ Yes, there were so many people posting about the softening fat over at MDA ... i
 
 great thanks for the reply. i hope it is the same, how long after starting ct did you notice the fat to leave your body?
 
-### nicebeanst@yahoo.com — 2012-03-23T02:15:06+0200
+### [email redacted] — 2012-03-23T02:15:06+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-4749>
 
 MamaG I don't know where else to post this so I will just ask here: I know that it has been quite a while since you binged, did you experience any cravings or desires pr even just plain oled hunger after you started CT? I ask b/c I had not binged on chocolate since I did Leptin Reset in Jan, started CT about 3 weeks ago, wasn't ever really hungry, and had naturally dropped to 2 meals; and this week cravings were intense, today I caved and had chocolate (not a lot by "normal" standards, 12 mini truffles, I giggle as I realize how silly might seem to some)
@@ -33898,7 +33898,7 @@ Sounds like detox to me. I've had drier skin than normal since CT. 4 weeks in, a
 
 Sounds like detox to me, too, but I would imagine it won't last longer than a week. Give it some time, and DEFINITELY not steroids! You don't want to use powerful hormones for just a week or so of looking better. Your body \*needs\* to get this stuff out, and bumps are a lot more pleasant way than vomiting or migraines!
 
-### finnite@dccnet.com — 2012-03-23T18:07:01+0200
+### [email redacted] — 2012-03-23T18:07:01+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-5021>
 
 this week I have had to cut back on CT because I ended up with a fever. got up to 101F which is high for me because my basal body temp is 96.5F
@@ -33922,7 +33922,7 @@ My skin feels strange at times too. It comes and goes, right now I have small ki
 
 I am sure it is all detox. Maybe cut back a little with the CT if you are not ready to suffer, or take supplements like vit. B and K, something to support the liver? I am going to buy milkthistle as soon as possible... I eat lots and lots of eggyolks every single day I crave them like mad. Today I had 14..!!! I whip them with 1/2 teaspoon wild raw honey and then I add a spoon of wild berries for vit C and antioxidants. Uh. It is SO good. My special, super-healthy detox-threat. Full of vitamin B
 
-### finnite@dccnet.com — 2012-03-23T20:27:06+0200
+### [email redacted] — 2012-03-23T20:27:06+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-5090>
 
 > **Inger;5067 wrote:** I have sinus-drainage on and off, at the beginning real bad, much better now 3 weeks in CT.
@@ -33964,7 +33964,7 @@ I did CT (Shower) right after waking this morning and when the water between my 
 
 Wondering if it was just a morning thing, should I have stretched or is it some type of detox/omega release?
 
-### jeanie@truelongmont.com — 2012-03-24T19:51:48+0200
+### [email redacted] — 2012-03-24T19:51:48+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-5497>
 
 > **Jennie747;5522 wrote:** I wonder if it could be the cause of increased neck and shoulder tension too?
@@ -33975,7 +33975,7 @@ I'm very rashy too, fwiw. Legs have pinpoint red spots, arms looking like some k
 
 I keep getting intestinal distress if ya know what I mean, but I've not been sure if it's detox or bad lamb or something.
 
-### finnite@dccnet.com — 2012-03-24T21:33:35+0200
+### [email redacted] — 2012-03-24T21:33:35+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-5531>
 
 > **Jennie747;5522 wrote:** I wonder if it could be the cause of increased neck and shoulder tension too?
@@ -34021,7 +34021,7 @@ I've had acne since my teens and I'm 45, no change there yet.
 
 Thanks for answering my questions about spongey fat and loose skin MamaGrok - I can't wait to see what happens next for all of us - it's exciting isn't it.
 
-### nosnhojjennifer@yahoo.com — 2012-03-25T00:31:23+0200
+### [email redacted] — 2012-03-25T00:31:23+0200
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-5590>
 
 > **Teenie Leek;4777 wrote: MamaG I don't know where else to post this so I will just ask here: I know that it has been quite a while since you binged, did you experience any cravings or desires pr even just plain oled hunger after you started CT? I ask b/c I had not binged on chocolate since I did Leptin Reset in Jan, started CT about 3 weeks ago, wasn't ever really hungry, and had naturally dropped to 2 meals; and this week cravings were intense, today I caved and had chocolate (not a lot by "normal" standards, 12 mini truffles, I giggle as I realize how silly might seem to some)
@@ -34056,7 +34056,7 @@ I also had neck pain for a few days until I realized that its from tensing up ke
 
 I can actually say my skin is really starting to improve especially on my hands. They are now soft and it doesn't hurt to touch them. Might be getting some nutrients from my food though too since I am taking sooo many enzymes now. Always so many things to consider when one has good/bad things happen in the process.
 
-### meyoolia@gmail.com — 2012-03-25T06:37:41+0300
+### [email redacted] — 2012-03-25T06:37:41+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-5704>
 
 > **vwaggs;5211 wrote:** But I am very vain and want to look good LOL! Okay no steroids! 3rd day of rash and its still going strong. Its weird to have itchy cheeks. (face that is) Thanks for the help! Any other rashes out there?
@@ -34079,14 +34079,14 @@ Dr. K said that our symptoms can be in reverse order of those we've had previous
 
 I'm very thankful to have this forum though. It feels as if I have kindred souls helping me along the path. I am having some of my initial CT symptoms reappear (loose stools, nausea, hot flashes, sleep interruption) after they have been gone for a while and that gets frustrating but it does help to hear about everyone else's experiences.
 
-### nosnhojjennifer@yahoo.com — 2012-03-26T02:21:54+0300
+### [email redacted] — 2012-03-26T02:21:54+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-6127>
 
 Just wondering, you guys with the itchy rashes, are you using Epsom salts in your baths? I usually throw a few shakes in for good measure...not sure if its necessary or not....
 
 I had a couple days of crazy appetite but I think it was more related to not eating a big enough BAB. Now, I feel so full I could die. Balance seems to be a tricky spot for me to find but closer every day...
 
-### jeanie@truelongmont.com — 2012-03-26T02:30:18+0300
+### [email redacted] — 2012-03-26T02:30:18+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-6135>
 
 > **Jennifer;6162 wrote:** Just wondering, you guys with the itchy rashes, are you using Epsom salts in your baths? I usually throw a few shakes in for good measure...not sure if its necessary or not....
@@ -34100,7 +34100,7 @@ I have not, will it help? I have a vague notion about salts pulling impurities o
 
 Epsom salt baths totally help to facilitate detox, but I don't know if it works in the cold.
 
-### meyoolia@gmail.com — 2012-03-26T04:36:03+0300
+### [email redacted] — 2012-03-26T04:36:03+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-6200>
 
 > **Sherry;6124 wrote:** I've got a rash all over the bottom part of my head and it itches. I've never had anything like that before so I'm not sure what it could be associated with from previously in my life. It's been there for a month since starting CT. .
@@ -34116,7 +34116,7 @@ I just posted on this someplace else - I have the same thing! though I sort of p
 
 I use MagSorb magnesium oil on my skin a few evening pr week. It doesn't improve my sleep, but I think it helps with my overall well-being and recovery of leaky gut.
 
-### dkenward@yahoo.com — 2012-03-26T13:23:05+0300
+### [email redacted] — 2012-03-26T13:23:05+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-6285>
 
 > **MamaGrok;6196 wrote:** Epsom salt baths totally help to facilitate detox, but I don't know if it works in the cold.
@@ -34187,7 +34187,7 @@ i cant tell with the other unless i dont use it for several days.
 
 so it is as if it does nothing until you stop using it, meaning it was doing something but i just dont know what to look at shrug
 
-### jeanie@truelongmont.com — 2012-03-26T20:56:30+0300
+### [email redacted] — 2012-03-26T20:56:30+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-6496>
 
 > **quelsen;6355 wrote:** I just put it in cold. it isn't the heat the dissolves the salt it is the exchange of electrons and it would have to be really cold to inhibit that
@@ -34223,12 +34223,12 @@ When I was having pimples from a detox last year, Paul Jaminet suggested using c
 
 Could it be cholestyramine?
 
-### kcorcoran@comcast.net — 2012-04-05T14:52:02+0300
+### [email redacted] — 2012-04-05T14:52:02+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-11680>
 
 good idea agatha, i think activated charcoal is definitely worth a try.
 
-### meyoolia@gmail.com — 2012-04-05T21:38:43+0300
+### [email redacted] — 2012-04-05T21:38:43+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-11845>
 
 > **vwaggs;6773 wrote:** Ugh! I still have the rash on my face and arms. I don't even put these in the water! Why would this pop out 4 weeks after I start CT? I would have thought the detox would have started ealier as I don't have much fat to lose. How is everyone else doing with their rashes? I can try the ES. I have to go get some tomorrow!
@@ -34249,7 +34249,7 @@ My detox started in the second week with diarrhoea and is continuing on and off 
 
 However, I'm certain the detox is a good thing - someone who hasn't seen me for a month today commented how pink and healthy I look at the moment.
 
-### trishalinn@gmail.com — 2012-04-06T05:16:34+0300
+### [email redacted] — 2012-04-06T05:16:34+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-12052>
 
 So... I'm about a month into CT now. We've been swimming in our 48-50 degree pool lately. The last couple of weeks I've had INCREDIBLY dry skin. Dry skin on places on body I've never had dry skin. It's kinda flaking. The last couple of days I've had a terrible sore throat and post nasal drip. I used to have this pretty much constantly when I was younger (doctors said allergies), but haven't had much problem with it in recent years. Sooooo... is it likely that these are side effects of the CT? Or am I just getting sick? How do you know the difference? When does the GOOD stuff start happening (I know I know... probably different for everyone). I really am trying to be patient
@@ -34261,7 +34261,7 @@ I had post-nasal drip for a day. Again, I think my die-off is easier than a lot 
 
 My belly fat is melting away like butter on a hot summer day.
 
-### trishalinn@gmail.com — 2012-04-06T05:51:42+0300
+### [email redacted] — 2012-04-06T05:51:42+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-12057>
 
 > **MamaGrok;12125 wrote:** My belly fat is melting away like butter on a hot summer day.
@@ -34280,14 +34280,14 @@ Don't worry, my belly still looks worse than it ever did before the BED really g
 
 Are you CTing while breast feeding? I don't think dr.k recommends that because of toxin release. It's your business of course but figure I'd mention it in case it didn't come up and please don't stress about it if it didn't.
 
-### trishalinn@gmail.com — 2012-04-06T19:51:08+0300
+### [email redacted] — 2012-04-06T19:51:08+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-12201>
 
 > **preluder;12144 wrote:** Are you CTing while breast feeding? I don't think dr.k recommends that because of toxin release. It's your business of course but figure I'd mention it in case it didn't come up and please don't stress about it if it didn't.
 
 I am. I had posted on his blog a little over a month ago letting him know my situation. I've been low-carb/keto for quite a while, but still gaining weight while nursing. He recommended doing the leptin rx and ct. Started both the next day (really the diet wasn't much different besides the BAB). Haven't lost any weight, but haven't gained any in the past month... so I guess that is something.
 
-### trishalinn@gmail.com — 2012-04-06T19:53:03+0300
+### [email redacted] — 2012-04-06T19:53:03+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-12203>
 
 > **MamaGrok;12130 wrote:** Don't worry, my belly still looks worse than it ever did before the BED really got out of hand. But take hope - have you seen Glam's post-twin belly pics? Besides, why should a twin belly be all that much worse than any other fat belly? Lots of people start having this result when the hormones that ut the belly fat there start to reverse themselves.
@@ -34306,7 +34306,7 @@ She's almost 2.5 now, and still nursing, but m die-off with CT has been very mil
 
 Planks & push-ups...
 
-### trishalinn@gmail.com — 2012-04-06T21:04:09+0300
+### [email redacted] — 2012-04-06T21:04:09+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-12222>
 
 I haven't seen anything funny in either of my babies. Milk production is as good as ever. In fact, the way my body produces milk I could probably nurse another one or two. I'm a regular milk cow...ha!
@@ -34452,7 +34452,7 @@ The mouth cracks are usually a B vitamin deficiency. Could CT cause you to need 
 
 That happened to me and right after the stiffness went away, I didn't have to eat at night any more. I think its the brown fat announcing itself.
 
-### betseyford@hotmail.com — 2012-04-11T01:26:19+0300
+### [email redacted] — 2012-04-11T01:26:19+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-13525>
 
 OMGoodness....I wish I would have read this thread earlier!
@@ -34538,7 +34538,7 @@ Definitely not Magnesium.....I take 600 mg every night for a long time now....th
 
 Do you eat much salt? And as a follow on, do you drink much water? You need both salt and plenty of water. When I started doing this, my leg cramps disappeared. Give it a try, it might work for you.
 
-### betseyford@hotmail.com — 2012-04-11T21:19:28+0300
+### [email redacted] — 2012-04-11T21:19:28+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-13853>
 
 > **Evo Mama;13607 wrote:** Definitely take it slow on the CT. That sounds like a fairly extreme detox, and there could also be something else going on. I would make sure you feel recovered from this before CTing again.
@@ -34617,7 +34617,7 @@ Same deal here, too. I'm taking it as a good sign. Down another pound today. I k
 
 I am here: [http://tapatalk.com/map.php?j2m0os](http://http://tapatalk.com/map.php?j2m0os)
 
-### betseyford@hotmail.com — 2012-04-16T00:10:53+0300
+### [email redacted] — 2012-04-16T00:10:53+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-15395>
 
 I was curious about the odor, I stink, pee-ewe, LOL I haven't had any side effects of the CT since my first go at it. I got 45 minutes under the ice last night and today I went out and worked in the yard for about three hours, got some sun and then my energy level came to an abrupt halt. Seriously I have nothing left, I am actually looking forward to bed time and its only 5 pm.
@@ -34629,7 +34629,7 @@ I've seen lots of folks complain about loose stools as a detox issue, but has an
 
 I took a couple long walks earlier and things started moving a little bit, but I still really feel like my colon has been blown up like a balloon...
 
-### betseyford@hotmail.com — 2012-04-16T04:14:40+0300
+### [email redacted] — 2012-04-16T04:14:40+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-15478>
 
 > **ealachan;15512 wrote:** I've seen lots of folks complain about loose stools as a detox issue, but has anyone experienced the opposite? I've been doing the Leptin reset for 45-ish days now and I've not once had a problem with intestinal bloating and constipation until today. I can't think of anything out of the ordinary that I've eaten that might have upset my guts, which is what's really baffling me.
@@ -34649,7 +34649,7 @@ Nope, I didn't. The only thing out of the ordinary that I've eaten lately was a 
 
 It's gone from what felt like constipation and gas build-up to diahrea, still with the gassy feeling (but not actually releasing much gas, if you see what I mean). It seems to be just the left side of my lower abdomen. No tenderness to the touch, but I've noticed that the more still I sit, the less it seems to bother me. It kept me up for a lot of last night. Really hoping it clears the hell out during the day today so I can get some sleep tonight.
 
-### omlh@todmi.com — 2012-04-16T17:21:05+0300
+### [email redacted] — 2012-04-16T17:21:05+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-15574>
 
 > **ealachan;15641 wrote:** Nope, I didn't. The only thing out of the ordinary that I've eaten lately was a big salad on Friday. Sometimes lettuce doesn't agree with me, but it's never done THIS to me, so I don't know. Plus, I would have thought it would have kicked in before Sunday afternoon if it was the salad I ate on Friday.
@@ -34867,7 +34867,7 @@ Hi Shilohman
 
 Thanks for your reply - excess O6 is possible. Could I ask what makes you link that with MS relapse?
 
-### kcorcoran@comcast.net — 2012-04-19T01:04:02+0300
+### [email redacted] — 2012-04-19T01:04:02+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-16369>
 
 Agatha,
@@ -34885,7 +34885,7 @@ hth
 
 OMG sudden detox hell... either that or my seasonal allergies just showed up and decided to kick my ass... but I'm going with detox... b/c I'm getting drainage - sinuses/eyes, intestinal distress... and general fatigue... and cystic acne on my scalp is back... what's crazy is I haven't really done more than Spot CT of recent... probably need to drop myself in the tub tomorrow... ugghh....
 
-### betseyford@hotmail.com — 2012-04-25T02:38:04+0300
+### [email redacted] — 2012-04-25T02:38:04+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-18540>
 
 > **Shijin13;18599 wrote:** OMG sudden detox hell... either that or my seasonal allergies just showed up and decided to kick my ass... but I'm going with detox... b/c I'm getting drainage - sinuses/eyes, intestinal distress... and general fatigue... and cystic acne on my scalp is back... what's crazy is I haven't really done more than Spot CT of recent... probably need to drop myself in the tub tomorrow... ugghh....
@@ -35007,7 +35007,7 @@ It's gotta be the once/weekly 50F river baths. I was going to do another today, 
 
 I'm jealous of you having a river to CT in! I've started to feel kind of stalker-ish in terms of finding possible cold, clean bodies of water that I could conceivably sneak a soak in, lately. I've taken a couple different routes to and from work in order to scope out boat landings, ponds, lakes, and small rivers / streams that run through fairly deserted areas.
 
-### trishalinn@gmail.com — 2012-05-05T05:07:22+0300
+### [email redacted] — 2012-05-05T05:07:22+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-21510>
 
 > **ealachan;20492 wrote:** Lately I'm noticing that not only do I have weird dry lizardy-skin patches on the fronts and sides of my ankles and the very tips of my elbows, but that the skin there is darker...not in a tan way, but in a dirty-looking way, if that makes sense. Close up, it looks a lot like I've been working in the dirt for hours and hours and it has ground into my skin...but I haven't been. No amount of exfoliating or moisturizing is helping. I'm going to stop at the pharmacy tonight to get some aloe vera gel as a last-ditch effort to un-reptile myself.
@@ -35036,7 +35036,7 @@ Wow. Last Tuesday, Rosekelly and I (she's on this forum too) and I drove to Sant
 
 when I first started ct, I had tons of dry skin on my shins, which is not a normal thing for me at all. Nothing I did made it go away, so I quit trying. Then one day I noticed the dryness was totally gone. It took about a month.
 
-### kcorcoran@comcast.net — 2012-05-06T04:15:39+0300
+### [email redacted] — 2012-05-06T04:15:39+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-21718>
 
 Sometimes I wonder if CT doesn't stir up some latent viruses in us folk who experience flu like symptoms? I've slowed way down on CT and started supplementing liposomal GSH, liposomal vitamiin C and lysine (1 gram each 3x/day) seems to help!
@@ -35136,12 +35136,12 @@ I've come down with the super awesome (sarcasm, people) gut craziness again that
 
 So apparently if done correctly Zeltig take up to 4 months to recover from during which time inflammation happens as the fat cells die
 
-### jeanie@truelongmont.com — 2012-05-16T03:27:14+0300
+### [email redacted] — 2012-05-16T03:27:14+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-24466>
 
 I had some weird skin stuff pop up! { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### jeanie@truelongmont.com — 2012-05-16T03:28:36+0300
+### [email redacted] — 2012-05-16T03:28:36+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-24467>
 
 And a rash. Ok - just got my tapatalk upload thing going. I apologize.
@@ -35153,7 +35153,7 @@ And a rash. Ok - just got my tapatalk upload thing going. I apologize.
 
 Implication being, bloaty is expected as part of fat cells dying?? Or did I miss the point...
 
-### omlh@todmi.com — 2012-05-16T20:54:14+0300
+### [email redacted] — 2012-05-16T20:54:14+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-24658>
 
 Skin on my forearms has gone all dry and scaly suddenly - not itchy at all, thank the Lord. I'm hoping it will disappear as quickly as it appeared. Am also getting major, major very specific food cravings (dried dates is one of them, and mushrooms another, as well as ginger - so not too awful) so I'm wondering what I'm deficient in that these would supply.
@@ -35255,7 +35255,7 @@ At work: turn fan on, turn off, repeat...
 
 Did I mention that hot flashes make my ears turn bright red and burn? Embarrassing to say the least.
 
-### omlh@todmi.com — 2012-05-23T14:28:59+0300
+### [email redacted] — 2012-05-23T14:28:59+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-26637>
 
 I've been having really bad stomach pains the last couple of days, as well as a decrease in "regularity"! Have broken out in blackheads and spots all over my torso and yesterday the whole of the right side of my body hurt. Today it's the left side hurting. Very strange, but no doubt it will pass. On a positive note, a finger that I damaged years ago and which has had no feeling since is now tingling and I can feel things weirdly when I touch them.
@@ -35270,7 +35270,7 @@ today after I got out of the shower I've got the all over itches I think I'm hav
 
 I'm getting all over muscle soreness again. Just like I overdid it lifting weights. Very weird, since I am not doing any other exercise except walking.
 
-### omlh@todmi.com — 2012-05-23T19:37:46+0300
+### [email redacted] — 2012-05-23T19:37:46+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-26755>
 
 > **kathylu;26838 wrote:** I'm getting all over muscle soreness again. Just like I overdid it lifting weights. Very weird, since I am not doing any other exercise except walking.
@@ -35396,7 +35396,7 @@ One interesting side effect appeared when I did my first "proper" CT in the sea 
 
 The day after I noticed stinging in my armpits when I put my daily dose Magnesium Oil there. When I looked in the mirror, I noticed several small red blisters in both armpits. Some kind of detox/die off obviously, but it would be interesting to find the root cause. Cold urticaria or something else?
 
-### jeanie@truelongmont.com — 2012-10-12T17:29:26+0300
+### [email redacted] — 2012-10-12T17:29:26+0300
 **Source:** <https://forum.jackkruse.com/threads/die-off-symptoms.48/post-57764>
 
 > **CoolSwede;59040 wrote:** One interesting side effect appeared when I did my first "proper" CT in the sea last week after only having had cold showers at home until then. I noticed that the 13C temperature didn't feel that much on my body except in my armpits where the sea water felt freezing cold. The reason was that my cold shower routine did not include my armpits.
@@ -35454,7 +35454,7 @@ I've been having some of these same symptoms coughing and itching so glad to fin
 **Subforum:** The New Monster Thread
 **Posts:** 17
 ══════════════════════════════════════════════════════════════════════
-### mmuskopf@gmail.com — 2012-03-15T01:16:11+0200
+### [email redacted] — 2012-03-15T01:16:11+0200
 **Source:** <https://forum.jackkruse.com/threads/type-1-diabetics.50/post-158>
 
 Hi all,
@@ -35463,12 +35463,12 @@ Just wondering if there are any Type 1 Diabetics here on the board. I know we ge
 
 I'm a 29 y/o male, diagnosed as T1 at age 3, so been dealing with it (in many ways!!!) for a while. Anyone else out there?
 
-### shawnacardin@charter.net — 2012-03-15T04:53:40+0200
+### [email redacted] — 2012-03-15T04:53:40+0200
 **Source:** <https://forum.jackkruse.com/threads/type-1-diabetics.50/post-490>
 
 @Michael--hi there. I've got type 1 too. I'm 49 and have had it 23 years. Where are you in this process or are you?
 
-### mmuskopf@gmail.com — 2012-03-16T01:27:12+0200
+### [email redacted] — 2012-03-16T01:27:12+0200
 **Source:** <https://forum.jackkruse.com/threads/type-1-diabetics.50/post-1138>
 
 Holy cats...short question with a long answer....here goes:
@@ -35481,7 +35481,7 @@ For diabetes, I used the pump for about 10 yrs but am back on lantus/regular/hum
 
 How about you?
 
-### clzem1@yahoo.com — 2012-03-16T17:42:16+0200
+### [email redacted] — 2012-03-16T17:42:16+0200
 **Source:** <https://forum.jackkruse.com/threads/type-1-diabetics.50/post-1515>
 
 > **Michael W;1139 wrote:** Holy cats...short question with a long answer....here goes:
@@ -35504,7 +35504,7 @@ How about you?
 
 Hi all I'm 28 been a T1D for 15yrs now, and Paleo for about a year, Jack Kruse groupie for a little under a month. I started the Leptin RX and cold training two weeks ago so I still have a ways to go. i jumped ahead a bit and just went straight to the cold tub, not quite ice baths yet, but I would like to begin soon. I'm not really over weight, but have a significant amount of body fat to lose I'm 5'4 around 140, but I think something like 29% body fat yikes. I'm really glad this thread was started because there's a ton of info for the T2D crowd and even other autoimmune issues, but not as much specifically geared to T1. I get the feeling that at least from where I'm coming from things are going to take a little longer (or maybe a lot longer) than the average \*sigh\*. I am also not exercising yet because I'm not leptin sensitive and before i knew this and was exercising was experiencing all of the symptoms Dr. K described, poor recovery, felt crappy, now weight loss etc. I was wondering if there were any T1's who have successfully come out the other end for the Leptin RX and what there experiences were? I was also on a pump for about 5 yrs, but since have switched back to injections Lantus/NPH/humalog. @Micheal I have heard of and read some excerpts from Dr. Bernstein's book, but out of curiosity why does he not like the pump?
 
-### shawnacardin@charter.net — 2012-03-16T18:54:02+0200
+### [email redacted] — 2012-03-16T18:54:02+0200
 **Source:** <https://forum.jackkruse.com/threads/type-1-diabetics.50/post-1585>
 
 > **Michael W;1139 wrote:** Holy cats...short question with a long answer....here goes:
@@ -35527,7 +35527,7 @@ Hi all I'm 28 been a T1D for 15yrs now, and Paleo for about a year, Jack Kruse g
 
 Before I started the leptin reset and ct I was working out like 3-4 days a week doing functional exercise like my TRX and running with my dogs for a few miles. I realized a long time ago that massive amounts of exercise weren't the answer. I didn't know what was but with a metabolic disease when things aren't going right it pretty much is par for the course. I use insulin pens-Levemir for basal and Novolog for bolus. I've eaten well for years but in the last 18 months quit grains and legumes because they give me too much insulin resistance. I've got secondary hypothyroid issues due to adrenal fatigue. Since starting the reset/ct, which was 7 days ago, my blood sugars have been much higher-lots of resistance-and I've felt lousy. It's so great to actually converse with someone who has type 1. I know that you understand. This disease takes every part of your life that would normally involve no thought whatsoever and makes you have to account for it. Let's keep each other posted and encourage each other.
 
-### shawnacardin@charter.net — 2012-03-16T18:58:15+0200
+### [email redacted] — 2012-03-16T18:58:15+0200
 **Source:** <https://forum.jackkruse.com/threads/type-1-diabetics.50/post-1588>
 
 @Cara-Well it looks like you're in the right place. I hear the part about it taking longer. I'm still dunking my face in water. I'm going to follow the doc's protocol so that I can be sure of my results. I'm just going to trust my body. Just be patient. I know that is the hardest thing for me. We can do this!!
@@ -35549,7 +35549,7 @@ Now he did not specify I or II so am assuming he means all types of diabetics. H
 
 I would think an in home deep bathtub connected to an aquarium chiller that will take the temp of water down to 37 F would be worth the investment for a type I if there is a hope of the type I abating.
 
-### mmuskopf@gmail.com — 2012-03-16T22:55:56+0200
+### [email redacted] — 2012-03-16T22:55:56+0200
 **Source:** <https://forum.jackkruse.com/threads/type-1-diabetics.50/post-1696>
 
 > **Cara;1517 wrote:** @Micheal I have heard of and read some excerpts from Dr. Bernstein's book, but out of curiosity why does he not like the pump?
@@ -35558,21 +35558,21 @@ He doesn't like it because its too hard to control blood sugars using the pump o
 
 Also, if you are T1D, you need to own a copy of his book. He was on the Jimmy Moore show a few times, I think. Go search for those podcasts and give them a listen.
 
-### mmuskopf@gmail.com — 2012-03-16T22:57:56+0200
+### [email redacted] — 2012-03-16T22:57:56+0200
 **Source:** <https://forum.jackkruse.com/threads/type-1-diabetics.50/post-1698>
 
 > **Shawna;1587 wrote:** Since starting the reset/ct, which was 7 days ago, my blood sugars have been much higher-lots of resistance-and I've felt lousy.
 
 I'm kind of surprised by that. Typically, you'd use a lot less insulin on a protein/fat diet. What are you eating, how often, and what are your insulin doses (basal and at meals)?
 
-### clzem1@yahoo.com — 2012-03-17T18:03:54+0200
+### [email redacted] — 2012-03-17T18:03:54+0200
 **Source:** <https://forum.jackkruse.com/threads/type-1-diabetics.50/post-2027>
 
 > **Michael W;1700 wrote:** I'm kind of surprised by that. Typically, you'd use a lot less insulin on a protein/fat diet. What are you eating, how often, and what are your insulin doses (basal and at meals)?
 
 You know for awhile I was having the same issue, and though I've managed to get my bs down it's still a work in progress. I noticed a couple of things though, some of this may just be speculation, but my thoughts were. 1. for the time being I can't handle nuts of any kind, though they are fairly high in fat the carb load is enough to throw me off. 2.( and this sorta ties into 3) There are a good number of diabetics who need to bolus with protein consumption I'm something like 1u humalog per 10grams protein, timing is also an issue especially when you're eating high fat meals coupled with protein, and/or have digestive issues, and injecting fast acting insulin you can see spikes on the back end. 3. I think for me not being Leptin sensitive, nor yet a fat burner, it's a stressor on the body at first being ketogenic, body basically thinks it's starving and is pumping out glucose from the liver screwing with bs. Then you get a chronically elevated insulin level which promotes fat storage... That's my theory anyways I would love if Dr. K would write a geeked out blog post specifically for T1s because I'm just making it up as I go. I've gotten fairly strict on the Leptin RX in the meantime supplements and all because I think fixing that will go a long way in overall glucose regulation.
 
-### mmuskopf@gmail.com — 2012-03-17T18:42:25+0200
+### [email redacted] — 2012-03-17T18:42:25+0200
 **Source:** <https://forum.jackkruse.com/threads/type-1-diabetics.50/post-2043>
 
 > **Cara;2033 wrote: 1. for the time being I can't handle nuts of any kind, though they are fairly high in fat the carb load is enough to throw me off.
@@ -35602,21 +35602,21 @@ You know for awhile I was having the same issue, and though I've managed to get 
 
 I will second this. I would love such a post as well. I've been thinking about asking him, but the poor guy has to be so busy already, lol. Maybe he'll get a glance at this sometime and find it in his heart to throw us T1Ds a bone!
 
-### shawnacardin@charter.net — 2012-03-17T18:44:28+0200
+### [email redacted] — 2012-03-17T18:44:28+0200
 **Source:** <https://forum.jackkruse.com/threads/type-1-diabetics.50/post-2044>
 
 > **Michael W;1700 wrote:** I'm kind of surprised by that. Typically, you'd use a lot less insulin on a protein/fat diet. What are you eating, how often, and what are your insulin doses (basal and at meals)?
 
 Well for starters I do 5 units of basal 12 hours apart and that remains unchanged. My bolus changes usually at night. I have had for maybe 4-5 years experienced more resistance in the evening. Typically I don't do more than 15 units of bolus per day. I know this isn't typical for people with type 1 but I've never really been the square peg in the square hole in the way this disease manifests in my body. I'm eating completely ketogenic at this point according to Dr K's protocol. This isn't my first season eating like this either. I would imagine that it will take me much longer than most to see results just because. I did the primal diet 18 months ago w/o any of the frills that Jack adds and had excellent results for about 6 weeks and then it all started crumbling. I continued but wasn't able to achieve any of the effortless results that I had been achieving prior. Now that I know what I know it would appear that I truly need the full meal deal approach to get the results I should be getting. So if you understand and follow Jack's process about the plasticity of the brain then this starts making sense. For me I see that I'm going to have to think myself into this before my body is going to be willing to follow; enter in the resistance that I'm experiencing. "What a man thinks so he is." Every thought you think is in each of your cells. Now of course not everyone thinks like I do, hence why I experience what I do. I hope I'm making sense Michael. That's why Jack keeps hammering about what we think. He's so right on the money.
 
-### shawnacardin@charter.net — 2012-03-17T19:14:02+0200
+### [email redacted] — 2012-03-17T19:14:02+0200
 **Source:** <https://forum.jackkruse.com/threads/type-1-diabetics.50/post-2059>
 
 @Cara
 
 I do know that the protein has to break down into glucose thru gluconeogenesis. So the more protein the more you'll need to inject. That totally makes sense. Also the fact that you brought up re the spikes at the end has validity too. I have to agree we need the doc to geek us out. I would love to hear what he has to say. In fact I volunteer for a bio hack if he hasn't done one already!!
 
-### clzem1@yahoo.com — 2012-03-17T21:21:54+0200
+### [email redacted] — 2012-03-17T21:21:54+0200
 **Source:** <https://forum.jackkruse.com/threads/type-1-diabetics.50/post-2103>
 
 > **Michael W;2049 wrote:**
@@ -35637,7 +35637,7 @@ It looks like I really need a copy of Dr. Bernstein's diabetes bible, and some t
 
 I was wondering if anyone has any thoughts on the artificial pancreas? It's only approved in Europe, but it seems like JDRF is making a push to get it approved more quickly in the US. I wish VLC and CT was standard practice of care here, but unfortunately it's not and unlike the pump this would be a closed loop, but with very tiny basals I don't know if there would be similar issues.
 
-### mmuskopf@gmail.com — 2012-03-17T22:05:18+0200
+### [email redacted] — 2012-03-17T22:05:18+0200
 **Source:** <https://forum.jackkruse.com/threads/type-1-diabetics.50/post-2115>
 
 > **Cara;2109 wrote:**
@@ -35646,12 +35646,12 @@ I was wondering if anyone has any thoughts on the artificial pancreas? It's only
 
 I tried medtronic's CGMS and didn't have much luck with it. The margin of error on that thing was so large, it pretty much made the readings useless. My understanding is that in order for the artificial pancreas to work, we need accurate real-time blood glucose monitoring but I'm not sure whether that exists yet. We'll get there eventually, but I'm not getting excited about anything just yet
 
-### clzem1@yahoo.com — 2012-03-21T19:56:45+0200
+### [email redacted] — 2012-03-21T19:56:45+0200
 **Source:** <https://forum.jackkruse.com/threads/type-1-diabetics.50/post-3962>
 
 @Micheal, since you seem pretty in tune with Dr. Bernstein and his recommendations, do you have any thoughts on low dose naltrexone? This is something I wanted to ask Dr. K too, but it seems like it lowers carb cravings and binges by blocking opiod receptors, and is used in treatment for autoimmune diseases. With the Leptin RX cravings are way more manageable, but since CT(and I'm not even using ice yet) My appetite is huge, and I don't want to upset the apple cart too much, I eat like a monster, but still strictly keto paleo, and not gaining, but not losing either.
 
-### mmuskopf@gmail.com — 2012-03-27T00:49:25+0300
+### [email redacted] — 2012-03-27T00:49:25+0300
 **Source:** <https://forum.jackkruse.com/threads/type-1-diabetics.50/post-6639>
 
 > **Cara;3987 wrote:** @Micheal, since you seem pretty in tune with Dr. Bernstein and his recommendations, do you have any thoughts on low dose naltrexone?
@@ -35745,7 +35745,7 @@ I know you just started this forum but it would be awesome if you could develop 
 
 Thanks for the forum!
 
-### jeepifer@gmail.com — 2012-03-15T02:41:17+0200
+### [email redacted] — 2012-03-15T02:41:17+0200
 **Source:** <https://forum.jackkruse.com/threads/forum-app-for-phones.65/post-297>
 
 > **Continuum Fitness;232 wrote:** I know you just started this forum but it would be awesome if you could develop a free app to download so we can follow on our phones. I follow one on [www.gatorcountry.com](http://http://www.gatorcountry.com) for android that has a very easy to follow format.
@@ -35766,7 +35766,7 @@ Love Tapatalk! It's free to the creator of the forum too! Hopefully Dr. Kruse wi
 
 I'll look into that! Thank you Optimizers!
 
-### finnite@dccnet.com — 2012-03-18T18:43:49+0200
+### [email redacted] — 2012-03-18T18:43:49+0200
 **Source:** <https://forum.jackkruse.com/threads/forum-app-for-phones.65/post-2404>
 
 > **Continuum Fitness;232 wrote:** I know you just started this forum but it would be awesome if you could develop a free app to download so we can follow on our phones. I follow one on [www.gatorcountry.com](http://http://www.gatorcountry.com) for android that has a very easy to follow format.
@@ -35784,7 +35784,7 @@ Hey Optimizers!
 
 Tapatalk is now installed for Optimized Living Forums. You can now install the tapatalk app on your smartphone. Enjoy!
 
-### jeepifer@gmail.com — 2012-03-19T17:03:19+0200
+### [email redacted] — 2012-03-19T17:03:19+0200
 **Source:** <https://forum.jackkruse.com/threads/forum-app-for-phones.65/post-2747>
 
 > **Jack's Marketing Monkeys;2717 wrote:** Hey Optimizers!
@@ -35806,7 +35806,7 @@ Is this new forum available on Tapatalk?Â  my old one doesn't connect...
 ### Jack Kruse — 2012-11-29T20:18:28+0200
 **Source:** <https://forum.jackkruse.com/threads/forum-app-for-phones.65/post-65900>
 
-I dont know........ask Misty@jackkruse.com
+I dont know........ask [email redacted]
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -35895,7 +35895,7 @@ I was super impressed with Erwan LeCorre in every way.
 
 For people exercising right after CT, are you warming up first? Doing sprints with a cold ankle was never good for me in the past but curious what other peoples experiences were. Running and lifting both.
 
-### omlh@todmi.com — 2012-03-24T16:52:46+0200
+### [email redacted] — 2012-03-24T16:52:46+0200
 **Source:** <https://forum.jackkruse.com/threads/exercise-before-or-after-ct.79/post-5423>
 
 I tend to try to walk the dogs after CT, as it's a gentle way of warming up. I also find that I can increase the intensity of my physio exercises if I do them after the walk (I have major knee problems, and I'm trying to avoid knee-replacement surgery). As a result of knee problems, heavy exercise is not possible for me at the moment, so I do plenty of walking, and make sure that I lift things as much as possible, which is easy living in a house that runs mainly on wood and coal for heat and cooking. Chopping wood, filling log baskets and carrying coal into the house tend to by my main "lifting heavy things", and I have definitely noticed that I can increase the weight since I started CT.
@@ -35907,7 +35907,7 @@ I tend to try to walk the dogs after CT, as it's a gentle way of warming up. I a
 **Subforum:** Optimal Kids
 **Posts:** 57
 ══════════════════════════════════════════════════════════════════════
-### trishalinn@gmail.com — 2012-03-15T03:06:14+0200
+### [email redacted] — 2012-03-15T03:06:14+0200
 **Source:** <https://forum.jackkruse.com/threads/are-you-implementing-any-of-dr-kruses-ideas-with-your-kids.84/post-343>
 
 Just wondering what you guys are doing with your kids? I want to raise strong healthy kids that have good habits. Unfortunately my 7 year old and 3 year old are already little carb-monsters. I've really tried to seriously slash those things out of their daily life, but they still get mac n' cheese, pizza, cookies, candy, and happy meals when they're out with friends/family. I'm not keeping any bread, pasta, chips, crackers, or other types of highly carby foods around the house. Though, I do still keep fruit and homemade yogurt around.
@@ -35916,7 +35916,7 @@ My 7 year old is old enough I can talk to him about why I'm not buying a lot of 
 
 Not sure how far to go with the diet and my kids. Also, how in the world would you go about implementing CT with your kids?! And at what age?
 
-### jeepifer@gmail.com — 2012-03-15T03:31:46+0200
+### [email redacted] — 2012-03-15T03:31:46+0200
 **Source:** <https://forum.jackkruse.com/threads/are-you-implementing-any-of-dr-kruses-ideas-with-your-kids.84/post-385>
 
 My kids do their own type of CT, in the snow in winter.  Not that we had much here this year, but they would happily go out and play in it! I have one swimmer and one hockey player. Maybe spending 6 months of the year in an ice rink will help?
@@ -35959,14 +35959,14 @@ I'm so jealous. lol. My granddaughter is the.biggest.carb monster you've ever se
 
 I wish this level of awareness was around when my kids were little. It is much easier to control what your children do and help them form good habits when they are young. My kids are very athletic, so their interest was piqued from a performance perspective, and they have always listened to the advice of their coaches, which sadly has been to eat healthy from a conventional standpoint - low fat and on game day high carb! Yikes, but who knew?...so this is going to be very challenging for us with teenagers, (and when I say us, I really mean me, as my husband is not interested in any of this). My 17 year old is very interested in the theories, but said this will be impossible to do at college. I think I will have more luck with my 15 year old. She's ready to at least try the diet and is dabbling with CT by slowly cooling her showers to start, and drinking lots of ice water. I look forward to following along with you all!
 
-### trishalinn@gmail.com — 2012-03-15T16:17:38+0200
+### [email redacted] — 2012-03-15T16:17:38+0200
 **Source:** <https://forum.jackkruse.com/threads/are-you-implementing-any-of-dr-kruses-ideas-with-your-kids.84/post-755>
 
 I guess I will continue to gradually cut carbs out of my kids lives as I've been doing over the past number of months. It's been quite interesting as my mentality about carbs has changed over the past year. I had been low-carb for weight loss off and on for a number of years, but didn't realize the benefit that it had for everyone. I think my change in thinking came with reading Gary Taubes books. Helped me see the damage a high carb diet could have on a person...even children!
 
 It's been great hearing what you guys are doing with your kids... hope to hear from more people!
 
-### trishalinn@gmail.com — 2012-03-15T16:19:50+0200
+### [email redacted] — 2012-03-15T16:19:50+0200
 **Source:** <https://forum.jackkruse.com/threads/are-you-implementing-any-of-dr-kruses-ideas-with-your-kids.84/post-758>
 
 > **tweety;399 wrote:** Mine are young enough that we initially limited grains and indulgences to when they were with friends and family. But over time as I got more concerned about what it was doing, we just eliminated it completely. I do make them occasional treats with coconut or almond flour, but its not regular. And it happens mostly when I see them starting to wonder why they don't eat like their friends. It keeps them happy and puts them back on track.
@@ -36011,7 +36011,7 @@ It also helps that we homeschool so their exposure to these situations is much r
 
 I have three elite children athletes.....im going to have their mom post here so you can see what she does. Her name is misty
 
-### zzzcjr@comcast.net — 2012-03-18T17:42:26+0200
+### [email redacted] — 2012-03-18T17:42:26+0200
 **Source:** <https://forum.jackkruse.com/threads/are-you-implementing-any-of-dr-kruses-ideas-with-your-kids.84/post-2391>
 
 > **Jack Kruse;2377 wrote:** I have three elite children athletes.....im going to have their mom post here so you can see what she does. Her name is misty
@@ -36025,7 +36025,7 @@ I've been trying to communicate your blog info to my sons (15 & 19), but haven't
 
 It is a hard process for me. My wife believes they need carbs but she is coming around after seeing some of the changes. Carbs and starches are so ingrained in our culture. We have to prepare foods every time we go to a social event in order to keep on track. All the tempting foods offered to the others kids can be heartbreaking.
 
-### trishalinn@gmail.com — 2012-03-19T02:38:19+0200
+### [email redacted] — 2012-03-19T02:38:19+0200
 **Source:** <https://forum.jackkruse.com/threads/are-you-implementing-any-of-dr-kruses-ideas-with-your-kids.84/post-2533>
 
 > **Jack Kruse;2377 wrote:** I have three elite children athletes.....im going to have their mom post here so you can see what she does. Her name is misty
@@ -36037,7 +36037,7 @@ Awesome! Can't wait to hear from her.
 
 Misty is posting today on my FB wall. Her daughter just won the National Championship tonight.........pretty awesome stuff. Maliya Stone is on her way to monster accomplishments
 
-### trishalinn@gmail.com — 2012-03-19T02:48:10+0200
+### [email redacted] — 2012-03-19T02:48:10+0200
 **Source:** <https://forum.jackkruse.com/threads/are-you-implementing-any-of-dr-kruses-ideas-with-your-kids.84/post-2538>
 
 Going to check out your fb wall then! Thanks for the heads up.
@@ -36047,7 +36047,7 @@ Going to check out your fb wall then! Thanks for the heads up.
 
 Wow those are some hard ages...if you want to change their eating habits than try not to make a big deal out of the transition. It all starts at home anyway so alter what their options are to choose from.
 
-### jeanie@truelongmont.com — 2012-03-19T15:35:27+0200
+### [email redacted] — 2012-03-19T15:35:27+0200
 **Source:** <https://forum.jackkruse.com/threads/are-you-implementing-any-of-dr-kruses-ideas-with-your-kids.84/post-2718>
 
 I have a 5 yr old, We've been paleo/primal for about 9 months for the whole fam. The hardest part is my fear of creating some kind of eating disorder by denying him - but I generally power through and stand firm. He can now give good explinations on why he doesn't eat wheat. We limit going out now - mostly because the oils and poor quality meats. Fortunately in Boulder area there are restaurants with grass fed, grain free options that are delish. Now if more would become aware of the oil's, that would rock.
@@ -36060,7 +36060,7 @@ Our method has been to simply tell him the reasons. "we didn't know this, we kno
 
 The hardest part for ME with him is time management for cooking for the family, making a paleo lunch and now finding time for CT! We may have to move to an actual cave soon, it seems there simply are not enough hours in the day (when you sleep 9 of em .
 
-### zzzcjr@comcast.net — 2012-03-19T17:01:27+0200
+### [email redacted] — 2012-03-19T17:01:27+0200
 **Source:** <https://forum.jackkruse.com/threads/are-you-implementing-any-of-dr-kruses-ideas-with-your-kids.84/post-2746>
 
 > **MistyStone;2550 wrote:** Wow those are some hard ages...if you want to change their eating habits than try not to make a big deal out of the transition. It all starts at home anyway so alter what their options are to choose from.
@@ -36140,7 +36140,7 @@ Play + cold water is awesome! When I had my first CT bath it brought back fun me
 
 Sounds like you've got a good plan in place with their diet and healing yourself before getting too strict (you'll need your energy). All the best!
 
-### trishalinn@gmail.com — 2012-03-22T03:46:53+0200
+### [email redacted] — 2012-03-22T03:46:53+0200
 **Source:** <https://forum.jackkruse.com/threads/are-you-implementing-any-of-dr-kruses-ideas-with-your-kids.84/post-4209>
 
 My 7 year old and I played in our 56 degree michigan pool today for an hour and a half! Yesterday the pool was at 54 and we spent an hour in there. I guess we're doing pretty good at getting our CT. My 3 year old wouldn't have ANYTHING to do with the pool though. He freaked out if he even got splashed a little bit.
@@ -36252,7 +36252,7 @@ My daughter is a beast on the soccer field and is taking to CT like a fish to wa
 
 She said her face is feeling more oily since starting this, is that a legit happening? She also had one day where she said she felt full of rage, is that normal?
 
-### trishalinn@gmail.com — 2012-03-23T16:05:05+0200
+### [email redacted] — 2012-03-23T16:05:05+0200
 **Source:** <https://forum.jackkruse.com/threads/are-you-implementing-any-of-dr-kruses-ideas-with-your-kids.84/post-4958>
 
 > **MamaGrok;4865 wrote:** Well, I go all the way. I mean, I'm responsible for their health, and they're under my care. But right now, I'm in transition with them now, and still tryign to figure out where I want them. We went very gradual in all of this, as I learned it gradually. We went with traditional/real foods 5 years ago, and gradually lessened sugar more and more, and then lessened grains. For the last two years, we've had no grains at home, but I've let them have sweets & wheat on special occasions at other people's houses.
@@ -36273,7 +36273,7 @@ Thanks so much for weighing in with your experiences! I also homeschool, and it 
 
 I don't even keep any junk in the house anymore, so we've been making good progress. The special occasions are really where it's going to be hard for us. This week we had my nieces birthday party at a local pizza joint. My husband and I had chef salads (only thing there we could eat) and the kids had pizza and cake. I know I should cut that out too. Are there certain tests you would recommend for gluten intolerance?
 
-### jeanie@truelongmont.com — 2012-03-23T16:15:39+0200
+### [email redacted] — 2012-03-23T16:15:39+0200
 **Source:** <https://forum.jackkruse.com/threads/are-you-implementing-any-of-dr-kruses-ideas-with-your-kids.84/post-4966>
 
 I've not started CT with my 5 yr old, but I have changed the family lifestyle as far as eating paleo, no tv/computers after dark, get your bootie outside and play, and stoping the "get a coat, wear a hat, put on your shoes before going outside" stuff.
@@ -36297,7 +36297,7 @@ Also, I figure he's not really broken like me - so for me this is THERAPY to rep
 
 I think that's a smart approach...and CT is something you can always add...with teens that's the easy part, food is the hard part...if you can conquer the food issues for your kids then you are in great shape as a parent, they can elect to do CT when they get older and want to do it...
 
-### jeanie@truelongmont.com — 2012-03-23T20:10:49+0200
+### [email redacted] — 2012-03-23T20:10:49+0200
 **Source:** <https://forum.jackkruse.com/threads/are-you-implementing-any-of-dr-kruses-ideas-with-your-kids.84/post-5082>
 
 The other thing we are doing is not "snacking" as much. School at his age is all about a snack all the time. . .seems whenever we are with friends too. . gotta feed the children every hour or they will perish! He even said this a.m. that I didn't need to pack him a snack because he would rather just go to recess faster.
@@ -36380,7 +36380,7 @@ I think my 5yo is one of those with borderline insulin resistance from my pregna
 >
 > Since she's upping her eating and CT at the same time I am sure there is some detox from both, but I was concerned about the rage day, she said she felt really angry...I was thinking it might be some extra testosterone being released...so far it only happened once, but if it becomes an issue I'll probably have her back off. She has not gotten her period yet so the hormones/oily skin could be part of the process of puberty too or a combo...
 
-### omlh@todmi.com — 2012-03-24T17:05:20+0200
+### [email redacted] — 2012-03-24T17:05:20+0200
 **Source:** <https://forum.jackkruse.com/threads/are-you-implementing-any-of-dr-kruses-ideas-with-your-kids.84/post-5427>
 
 My 17-year-old refuses to join in with anything, but does at least keep quiet and eats what I provide when she's home (all my children are at boarding school, which complicates issues). My middle daughter (15) has had major, life-threatening health problems all her life, and is very happy eating a Paleo diet as she feels much healthier and most of her issues have now resolved, and she has quite independently found Dr. Kruse's blog (via MDA, which she is an avid reader of) and started to try CT at school - she started with face-dunking, and has moved onto cold showers as they have no baths, and is wanting to try full CT when she gets back home for the holidays next week. My youngest (11 years old) also has a few health problems which she finds are majorly helped with a Primal/Paleo diet, and she's totally on board for that, but has yet to take on board the idea of CT. However, I've been very mean at home and turned the heating off completely, and I've also turned the thermostat on the hot water system down, so it's not quite as easy to have a very hot bath or shower ... my OH is not impressed, and he's not on board at all!
@@ -36392,7 +36392,7 @@ My 17-year-old refuses to join in with anything, but does at least keep quiet an
 
 It definitely needs to be something they will own as teenagers. It's great about your 15 year old, and maybe her interest in this will spark the others!
 
-### jeanie@truelongmont.com — 2012-03-26T02:37:56+0300
+### [email redacted] — 2012-03-26T02:37:56+0300
 **Source:** <https://forum.jackkruse.com/threads/are-you-implementing-any-of-dr-kruses-ideas-with-your-kids.84/post-6140>
 
 So, we are a little short on proper boundaries round here. My Almost 6 yr old thinks nothing of walking in while I'm taking a bath or shower or using the bathroom. "Mommy needs her privacy" doesn't always make the withdraw fast.
@@ -36420,12 +36420,12 @@ Donkjellberg, my kids have smoothies with raw eggs every morning (just yolks) an
 
 Ditto, without the berries. Cinnamon + nutmeg + vanilla = eggnog for the kids every day.
 
-### jeanie@truelongmont.com — 2012-03-28T01:59:03+0300
+### [email redacted] — 2012-03-28T01:59:03+0300
 **Source:** <https://forum.jackkruse.com/threads/are-you-implementing-any-of-dr-kruses-ideas-with-your-kids.84/post-7431>
 
 Are any of Ya'lll going keto with your kids. I just can't bring myself there - he isn't going hardcore CT, where he would need it to access ancient pathway (he's almost 6). I have been letting him have a banana or rice or apple or Lara bar here or there. I remember Doc saying his daughter is. We are coming into farmers market season, so my plan is to feed him the fruits veggies that are in season. Coming around to next winter though. . .I wonder if he should go keto.
 
-### jeanie@truelongmont.com — 2012-03-28T02:00:34+0300
+### [email redacted] — 2012-03-28T02:00:34+0300
 **Source:** <https://forum.jackkruse.com/threads/are-you-implementing-any-of-dr-kruses-ideas-with-your-kids.84/post-7434>
 
 > **donkjellberg;6203 wrote:** We eliminated dairy from my and my son's diet last week. His nighttime sinus congestion has been reduced about 90%. All our dairy is grass fed and raw. We consumed (kefir), cheese, and butter daily. We are only using the butter now. The chocolate whey protein in our kefir smoothies is out too.
@@ -36597,7 +36597,7 @@ she recently had a CIMT run on me and it showed my atrial age was 51 - due to in
 
 You are such an inspiration
 
-### jeepifer@gmail.com — 2012-03-15T17:13:35+0200
+### [email redacted] — 2012-03-15T17:13:35+0200
 **Source:** <https://forum.jackkruse.com/threads/n-1-my-journey-on-the-leptin-reset.94/post-805>
 
 Thanks for sharing! I'm new to the LR world, but not to paleo/primal. Although, knowing and implementing are two different things.  You've given me a lot to think about, which is a good thing! Thanks again...
@@ -36660,7 +36660,7 @@ THanks Ladies
 
 Lucy...we still need to talk about BPII....
 
-### rbu5@sssnet.com — 2012-03-19T16:54:11+0200
+### [email redacted] — 2012-03-19T16:54:11+0200
 **Source:** <https://forum.jackkruse.com/threads/n-1-my-journey-on-the-leptin-reset.94/post-2743>
 
 Shijin13, reading your thread gives me hope. I think you even helped me back in Jan/Feb when I just began my Leptin journey to cut a long swath of "chasing tail" time. Made me realize I can't wait on Labs and just keep stabbing in the dark and hope to hit the golden ring. Thanks!
@@ -36857,7 +36857,7 @@ I too am having difficulty getting the weight to go even w/ the LPrx.
 **Subforum:** Optimal Kids
 **Posts:** 23
 ══════════════════════════════════════════════════════════════════════
-### smithangels@comcast.net — 2012-03-15T05:07:25+0200
+### [email redacted] — 2012-03-15T05:07:25+0200
 **Source:** <https://forum.jackkruse.com/threads/share-lunch-box-ideas-for-kids.104/post-518>
 
 My girls are in K and 1st. My 1st grader gets made fun of, regarding her (my) lunch choices. Tuna is too "smelly" apparently.
@@ -36890,7 +36890,7 @@ salami and cream cheese roll ups! salami, yesterday afternoon my kids clipped of
 
 hard boiled eggs, sardines, oysters etc... my kids will pretty much eat anything we put infront of them... the favorite veggies are KAle, collards, broccoli greens and broccoli - 1/2 the time dh and I don't get any!
 
-### trishalinn@gmail.com — 2012-03-15T16:25:12+0200
+### [email redacted] — 2012-03-15T16:25:12+0200
 **Source:** <https://forum.jackkruse.com/threads/share-lunch-box-ideas-for-kids.104/post-762>
 
 My 7 year old LOVES salads loaded with meat and hard boiled eggs and cucumbers. I have started making all of our dressing homemade. It's so easy, cheap, and much healthier!
@@ -36899,7 +36899,7 @@ I make my own yogurt with full fat milk and strain the whey off, so it's like gr
 
 Wish I could come up with more snack and treat ideas!
 
-### jeepifer@gmail.com — 2012-03-15T16:54:38+0200
+### [email redacted] — 2012-03-15T16:54:38+0200
 **Source:** <https://forum.jackkruse.com/threads/share-lunch-box-ideas-for-kids.104/post-794>
 
 @Trisha, save the whey and use it to make your own pickled foods (asparagus, pickles, green beans) -- it's very easy!
@@ -36945,7 +36945,7 @@ A lot of schools are nut free, so you might won't be able to make it with almond
 
 This is something I didn't do for a while, but now I might do it once in a while.
 
-### trishalinn@gmail.com — 2012-03-16T04:42:09+0200
+### [email redacted] — 2012-03-16T04:42:09+0200
 **Source:** <https://forum.jackkruse.com/threads/share-lunch-box-ideas-for-kids.104/post-1271>
 
 > **jeepifer;795 wrote:** @Trisha, save the whey and use it to make your own pickled foods (asparagus, pickles, green beans) -- it's very easy!
@@ -36960,7 +36960,7 @@ This is something I didn't do for a while, but now I might do it once in a while
 
 I've made pickles before, but never used whey. Does it enhance the pickles somehow?
 
-### jeepifer@gmail.com — 2012-03-16T05:02:25+0200
+### [email redacted] — 2012-03-16T05:02:25+0200
 **Source:** <https://forum.jackkruse.com/threads/share-lunch-box-ideas-for-kids.104/post-1278>
 
 > **Trisha;1272 wrote:** I've made pickles before, but never used whey. Does it enhance the pickles somehow?
@@ -36987,7 +36987,7 @@ I typically strain the whey out of greek yogurt, and use it with my veggies. I t
 
 I love making homemade Greek yogurt! So very very good... I need to figure out how to make it with coconut milk now, because I need to cut out dairy.
 
-### trishalinn@gmail.com — 2012-03-16T19:51:30+0200
+### [email redacted] — 2012-03-16T19:51:30+0200
 **Source:** <https://forum.jackkruse.com/threads/share-lunch-box-ideas-for-kids.104/post-1621>
 
 > **fabbecky;1423 wrote:** I love making homemade Greek yogurt! So very very good... I need to figure out how to make it with coconut milk now, because I need to cut out dairy.
@@ -37001,7 +37001,7 @@ Don't forget the cool lunch boxes from lunchbots for kids that are tired of brin
 
 My son loves meat roll ups with cheese inside and fruit in his lunch (he still wont eat many veges). If your kids are begging for lunchables (luckily my son has no idea what these are), maybe add a few rice crackers as they have some baked ones out there that don't contain other bad stuff (if you occasionally allow rice). Sometimes it's about limiting the worse choices and allowing a bit of less than perfect (don't let perfect be the enemy of good).
 
-### omlh@todmi.com — 2012-03-18T15:27:45+0200
+### [email redacted] — 2012-03-18T15:27:45+0200
 **Source:** <https://forum.jackkruse.com/threads/share-lunch-box-ideas-for-kids.104/post-2362>
 
 I don't make a packed lunch for my children any more as they are at boarding school, but when I did make them, I would include some of the following: steamed asparagus spears wrapped in prosciutto or smoked salmon (I used to live near a place that smoked their own salmon, so I'd get trimmings cheaply and freeze them!), tuna mayo with home-made mayo and sliced spring onions/scallions, with slices of red pepper to dip into it, meatballs, mini burgers, Scotch eggs made with quail's eggs and rolled in sesame seeds instead of breadcrumbs, chicken kebabs, chicken in pimento mayonnaise (home-made mayo with pureed roast red peppers and roast garlic mixed in) in little gem lettuce boats, frittata, smoked salmon roulade (smoked salmon wrapped around home-made smoked salmon pate), home-made vegetable crisps/chips, angels on horseback (prunes wrapped in bacon then baked until the bacon is crispy), etc .... a thermos filled with home-made vegetable soup was also generally a winner!
@@ -37011,7 +37011,7 @@ I don't make a packed lunch for my children any more as they are at boarding sch
 
 First rule of a great lunch for kids is a BAB! If you really push the breakfast, the lunch becomes less important. Ditto with a well done dinner at home. If you have those two bookends, you have great insulation for that lunch you can't supervise so closely.
 
-### jeanie@truelongmont.com — 2012-03-20T17:45:32+0200
+### [email redacted] — 2012-03-20T17:45:32+0200
 **Source:** <https://forum.jackkruse.com/threads/share-lunch-box-ideas-for-kids.104/post-3285>
 
 I agree. . .we even were so abusive as to make a few dinners in a row he wasn't that thrilled with (some with new veggies or something) so he was super hungry in the a.m., and started loading him up on the BAB! I've noticed, although I pack the required 2 snacks, many days he doesn't touch them. Of course they are things he's not that thrilled with like coconut flakes with some dark chocolate.
@@ -37154,7 +37154,7 @@ Shelley
 >
 > When "treats" are needed (rarely) we do the almond flour cookies and stuff. It's still got too much sugar, but I figure a little honey or maple syrup can be processed by a few hours outside.
 
-### jeepifer@gmail.com — 2012-03-29T01:36:37+0300
+### [email redacted] — 2012-03-29T01:36:37+0300
 **Source:** <https://forum.jackkruse.com/threads/share-lunch-box-ideas-for-kids.104/post-7998>
 
 > **cgk;7521 wrote:** Thanks for the reminder that I really need to demand a dehydrator for Mother's Day.
@@ -37821,7 +37821,7 @@ A bit disappointed. BF percentage was still 29, same as last month. Good news is
 
 ETA: Liver and gall-bladder are now looking awesome according to naturopath, so I was right when is aid that something has shifted- my body feels cleaner and elss "congested"/toxic.
 
-### meyoolia@gmail.com — 2012-03-20T14:07:05+0200
+### [email redacted] — 2012-03-20T14:07:05+0200
 **Source:** <https://forum.jackkruse.com/threads/post-leptin-rx-support-thread.106/post-3190>
 
 Hi all,
@@ -38015,7 +38015,7 @@ Haven't had a chance to take the pic!!! I need too though! I'm looking pretty go
 
 I don't skip lunch daily - a lot depends on what I had for hab, wo, CT and general craziness of the day!
 
-### meyoolia@gmail.com — 2012-03-21T00:03:10+0200
+### [email redacted] — 2012-03-21T00:03:10+0200
 **Source:** <https://forum.jackkruse.com/threads/post-leptin-rx-support-thread.106/post-3560>
 
 > **Glamorama;3558 wrote:** I was LS everywhere except liver for nearly 6 months! So some areas are slower at recovering depending on what damage we're trying to repair.
@@ -38284,7 +38284,7 @@ HCl and probiotics do totally different things. I totally needed HCl even after 
 
 Can you explain this a bit please?
 
-### finnite@dccnet.com — 2012-03-21T05:11:31+0200
+### [email redacted] — 2012-03-21T05:11:31+0200
 **Source:** <https://forum.jackkruse.com/threads/post-leptin-rx-support-thread.106/post-3780>
 
 > **KiwiLauren;3802 wrote:** Can you explain this a bit please?
@@ -38934,7 +38934,7 @@ Put your numbers from your labs in this calculator to get the ratio. From what I
 
 [http://new.instacalc.com/421](http://http://new.instacalc.com/421)
 
-### finnite@dccnet.com — 2012-03-24T03:50:36+0200
+### [email redacted] — 2012-03-24T03:50:36+0200
 **Source:** <https://forum.jackkruse.com/threads/post-leptin-rx-support-thread.106/post-5283>
 
 > **natural\_girl;5309 wrote:** Put your numbers from your labs in this calculator to get the ratio. From what I have read you should be between 200-300 but again I think it is individual
@@ -40499,7 +40499,7 @@ How much D3? They only sell them as 1000 IU capsules here... would I take the en
 
 Steam is a good idea, will do it tonight before bed! The headache is gone now, but with 3 weeks of coughing I think its time to deal with it once and for all.
 
-### jeanie@truelongmont.com — 2012-04-23T07:46:02+0300
+### [email redacted] — 2012-04-23T07:46:02+0300
 **Source:** <https://forum.jackkruse.com/threads/post-leptin-rx-support-thread.106/post-17992>
 
 Ok, ive used my tricks on myself and hubby and works great! You will have to have some honey tho.
@@ -40508,7 +40508,7 @@ Make a warm tea with apple cider vinegar (raw organic with the mother). Put in h
 
 Also if you get subsequent ear infection - warm olive oil, steep crushed garlic in it, then drip into ear. This kills ear infections.
 
-### jeanie@truelongmont.com — 2012-04-23T07:47:50+0300
+### [email redacted] — 2012-04-23T07:47:50+0300
 **Source:** <https://forum.jackkruse.com/threads/post-leptin-rx-support-thread.106/post-17993>
 
 > **Cavemam;18065 wrote:** Ok, ive used my tricks on myself and hubby and works great! You will have to have some honey tho.
@@ -40794,7 +40794,7 @@ Goal is just around the corner... This has been so educational and so much fun. 
 
 holy smokes! you look fantastic! well done
 
-### jeanie@truelongmont.com — 2012-04-29T01:33:20+0300
+### [email redacted] — 2012-04-29T01:33:20+0300
 **Source:** <https://forum.jackkruse.com/threads/post-leptin-rx-support-thread.106/post-19682>
 
 > **Glamorama;19269 wrote:** Photo update. Taken after eating a big HAB this morning. Comparison to 11 and 5 months ago. Several inches off waist, arms much slimmer, and cup-size down by 2 entire sizes.
@@ -40884,7 +40884,7 @@ MG, you have really come so far too with all of your obstacles. So many of us ou
 
 You both are truly amazing in how far you have come.
 
-### kathiebu@hotmail.com — 2012-05-02T21:19:43+0300
+### [email redacted] — 2012-05-02T21:19:43+0300
 **Source:** <https://forum.jackkruse.com/threads/post-leptin-rx-support-thread.106/post-20762>
 
 > **vkiernan;20403 wrote:** MG, you have really come so far too with all of your obstacles. So many of us out here are so grateful that you have put your life out here; it helps us to realize we are not alone in all of our battles.
@@ -40915,7 +40915,7 @@ Thanks for the kind words.
 
 I actually think the girls look better now after bfing, than before bfing. while they're not ideal, the look like a natural mature breast. very happy w/them right now...of course a nice bra will go a long ways in the self appreciation department IMO!
 
-### ehanner@gmail.com — 2012-05-02T23:16:26+0300
+### [email redacted] — 2012-05-02T23:16:26+0300
 **Source:** <https://forum.jackkruse.com/threads/post-leptin-rx-support-thread.106/post-20818>
 
 Sorry for the bother but can someone tell me what MSM is please? I've been doing cold showers and focusing on my stomach and under my arms. It looks like the flab is being absorbed.
@@ -41252,7 +41252,7 @@ One thing he wrote recently was to someone on the topic of an ice bath to put th
 
 I spot-CT my waist, have done so for a month. It seems to affect fat-reduction all over, but especially in my upper body. My waist is slightly smaller, but thanks to bloating I don't think I'll ever get a flat stomach no matter how much I CT. People seem to reap more benefits to their health by doing full submerges though. The shower is just a helpful tool in getting used to cold... on its own it will never do what spot-CT or submerge can do.
 
-### trishalinn@gmail.com — 2012-03-15T17:08:11+0200
+### [email redacted] — 2012-03-15T17:08:11+0200
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-799>
 
 > **Myree67;575 wrote:** I believe I read Dr.K saying somewhere that yes combined CT with coconut oil will help skin stay tighter... don't quote me though I read so much every day that I can't keep straight who said what where lol.
@@ -41291,7 +41291,7 @@ Give me more details please. I just started adding in some exercises right after
 
 Every time I do CT, even just a face dunk, I sleep like a rock that night. People need to know that even if they don't lose a pound or an inch, good sleep is worth its weight in gold. 20 minutes shivering in a tub is much better than 6 hours tossing and turning, and the 8 groggy hours that follow.
 
-### nicebeanst@yahoo.com — 2012-03-15T19:53:49+0200
+### [email redacted] — 2012-03-15T19:53:49+0200
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-928>
 
 benefits I have experienced:
@@ -41376,7 +41376,7 @@ I've also notice some reduction in belly fat. I actually tried on my bikini for 
 
 Currently sitting in a bath. Trying it earlier vs later and I'll see how it goes
 
-### jayjha1@gmail.com — 2012-03-16T17:28:13+0200
+### [email redacted] — 2012-03-16T17:28:13+0200
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-1500>
 
 so yesterday - I had 12 calories - yes a whole freakin 12
@@ -41717,7 +41717,7 @@ You will get there.
 
 (((Hugs)))
 
-### jeanie@truelongmont.com — 2012-03-22T03:02:55+0200
+### [email redacted] — 2012-03-22T03:02:55+0200
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-4190>
 
 I feel ya! I am the same age and nearly the same weight. I cant bring myself to the scale anymore. Froma all the things you are saying - its clearly working and clearing out the bad. Bad symptoms are proof something is happening. Improvements come after this part.
@@ -41777,12 +41777,12 @@ Yaaahhhh!!! where else could you go and have so many people happy about your mis
 
 I am noticing that my face is tighter - When I put face cream on it doesn't sink in like it used to - sort of sits on top - never been like that before
 
-### omlh@todmi.com — 2012-03-22T10:46:19+0200
+### [email redacted] — 2012-03-22T10:46:19+0200
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-4292>
 
 I have noticed that I am majorly exhausted after a cold soak (and I know I'm not down to temperature yet - not far to go, but definitely not down to temperature), and I am 7 cold soaks, and 13 days of cold showers and face dunks in. I am also finding that I have no appetite any more - food simply does not interest me. I feel very lethargic and don't have much interest in anything at the moment. But I am beginning to be able to drop the layers of clothing and the heating is turned off completely. My sleep is different, and I feel more rested when I get up in the mornings. I've lost 2 inches around the stomach, but no weight. However, I've had several comments asking what I've done to my face as apparently it looks much "younger". I've also noticed that I can lift heavier objects (carrying 2 full coal scuttles and not even thinking about it, rather than one and huffing and puffing), and yesterday I moved a table that I couldn't previously shift AT ALL upstairs without problems. I am also finding that physio for a knee problem is much easier, and that my knee hurts more but feels better overall. Changes are afoot, but whether they are good or bad remains to be seen. I am really thankful for these forums, as otherwise I would think I was going mad!
 
-### loriflarson@gmail.com — 2012-03-22T14:06:20+0200
+### [email redacted] — 2012-03-22T14:06:20+0200
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-4308>
 
 > **caroline;4307 wrote:** I am noticing that my face is tighter - When I put face cream on it doesn't sink in like it used to - sort of sits on top - never been like that before
@@ -41892,7 +41892,7 @@ Where is it?
 
 While I am not in your situation, I do want to let you know that you will see results from this journey. I have been primal since Feb/2010, and lost 35 lbs. Have been at a plateau for 2 years now. I still need to lose another 30. I have thyroid issues, so my individual body issues are different than yours. But I know you will see results. One thing I thought of after reading your posts, is to not only give you encouragement - keep at it!!!, but to suggest you drink more filtered water. This should help "flush" your system. Please post if this helps. I've recently (Mar 4) started Lrx, and have just started cold adaptation. I'll keep you posted. I hope to hear from you again.
 
-### jeanie@truelongmont.com — 2012-03-22T20:03:49+0200
+### [email redacted] — 2012-03-22T20:03:49+0200
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-4564>
 
 > **Jack Kruse;4503 wrote:** My first surgical Ct patient came in for a F/U and we did a video with him today in the office. Pretty amazing.
@@ -42011,7 +42011,7 @@ Just saw your 140 note. SOOOOOOOOOOOOOOOOOOOOOOOO exciting!!!!!! Details please.
 
 Congrats!!!! How long have you been doing CT?
 
-### omlh@todmi.com — 2012-03-22T23:11:53+0200
+### [email redacted] — 2012-03-22T23:11:53+0200
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-4649>
 
 > **MamaGrok;4659 wrote:** I BROKE 140!!!! For the first time since 2004, I weigh less than 140 ... three babies ago!! Yeah, definitely CT benefit!
@@ -42029,7 +42029,7 @@ I had crazy pimples last week, and low energy this week, but the fat just keeps 
 
 ETA It started by the belly & thigh fat feeling loose and like I could almost pull it off, instead of tightly bound to me and very wide, as it had been. Those have shrunk most, and now the fat on the back of my upper arms, and on my forearms, is feeling the same way those did a few weeks ago!
 
-### finnite@dccnet.com — 2012-03-22T23:59:05+0200
+### [email redacted] — 2012-03-22T23:59:05+0200
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-4670>
 
 Congrats MamaG! that is so exciting for you!!
@@ -42108,7 +42108,7 @@ To add some TMI - Prior to LRx and CT, DH and I were lucky if we got intimate 1x
 
 In addition, as I've mentioned before, my body comp has improved, along with my mood, brain function, hair, nails, and recently sleep. I wake up ready to tackle the day and greatly look forward to my CT. Life is good, and it's only getting better!!!
 
-### jeanie@truelongmont.com — 2012-03-23T15:03:00+0200
+### [email redacted] — 2012-03-23T15:03:00+0200
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-4927>
 
 > **Evo Mama;4958 wrote:** I just mentioned this on the CT8 blog comments, but I thought I'd mention it here too. Prior to starting LRx and CT on 3/6/12, my knee was giving me trouble, following weekly sprinting and coaching/playing youth intramural basketball (I can't tell you how much fun it is to play basketball with youngsters on lowered nets!). My knee would start getting sore about 30 minutes after playing and would be stiff and sore throughout the next day, and fading soreness for a day or two after than. By the time I recovered, it was time to sprint or play b-ball again. When I started LRx and CT, I stopped sprinting altogether and had a break in the bball schedule, so last night was the first time I played basketball since starting. And, guess what? No knee soreness whatsoever! Truly amazing. I feel great today.
@@ -42362,12 +42362,12 @@ KP
 
 I've noticed this same thing. Less sweating/body heat produced by the same exercise. Really apparent in the last week. Just seem less inflamed overall, although maybe it's psychosomatic. I'm about 3 weeks in. Cold baths and cold showers, no heat in the car with windows down (still in the 30s and 40s here), occasional ice pack, nothing but ice water for drinking.
 
-### omlh@todmi.com — 2012-03-27T12:03:09+0300
+### [email redacted] — 2012-03-27T12:03:09+0300
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-6896>
 
 Yesterday was a bad day as a family - my youngest daughter injured herself badly, and we headed to hospital (she will be OK, but it will take some time, lots of stock/bone broth and good foods, rest and some pain meds as she has a winged scapula following a bad shoulder dislocation). Whilst there, I ended up several times having to run fast and hard to the car for varying items she needed. It wasn't until the evening, when we were home again, that I realised that (a) my knee didn't hurt (I am trying to avoid knee replacement surgery), and (b) I hadn't been out of breath at any point, which is unheard of for me! Missed my cold soak yesterday, for obvious reasons, but will get back on track today as I can really see some major benefits.
 
-### finnite@dccnet.com — 2012-03-27T15:45:48+0300
+### [email redacted] — 2012-03-27T15:45:48+0300
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-6950>
 
 Olivia,
@@ -42421,7 +42421,7 @@ TheKid- EXCELLENT post! Thanks for that perspective!  I am on the same path righ
 
 Very good post and so true! I was just thinking the same thing this last few days. I have adrenal fatigue and am wondering if I just start doing things that I really enjoy, might I actually help myself in the long run instead of always just reading all the probs we all have out here and further stressing over how to fix it all. There probably should be some balance and I know I have been obsessed with reading and not necessarily having any fun like even watching tv programs that make me laugh or intrigues me. Might just watch some telly tonight afterall and put the laptop down for a break!
 
-### omlh@todmi.com — 2012-03-30T21:17:57+0300
+### [email redacted] — 2012-03-30T21:17:57+0300
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-8904>
 
 Had some really good news today, which for me really underlines the benefits of CT. A couple of years ago, I dislocated my patella, and have had recurrent dislocations and subluxations (several a month) since. An MRI scan showed severe damage, and I have been seeing an orthopaedic surgeon to discuss knee replacement surgery to help solve this. My life has been very restricted because of this, spending half my time on crutches, so I was obviously keen to resolve the problem. I had another appointment today with the surgeon and he was very pleasantly surprised at how effective the physio I've been having has been - much more effective than he's seen before. I was asked whether I had been taking collagen supplements (stock/bone broth for me!) as the ligaments and tendons are much tighter than they were, and the knee is significantly more stable. I explained that I had been having cold baths and he reckons that this has helped immensely - in fact, if it's even better in another couple of months, he wants to do another MRI scan to track the changes.
@@ -42686,7 +42686,7 @@ CT is really helping my lower back. It is getting strong! I still am careful wit
 
 This is great!! And I haven't even been spot icing my back. Amazing stuff.
 
-### omlh@todmi.com — 2012-04-16T17:12:15+0300
+### [email redacted] — 2012-04-16T17:12:15+0300
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-15570>
 
 Back from the physio - no swelling in my knee now, and onto 3 weeks between appointments (as opposed to weekly). Not only that, but my physio was asking about this, and happily took down details of the blog! I really can't thank Dr. Kruse enough!
@@ -42832,7 +42832,7 @@ I have psoriasis sporadically on one elbow.
 
 Last summer Dr K told me to take NAC 600mg with 1000 mg Vitamin C 3x a day.
 
-### skline@peak.org — 2012-04-22T01:46:07+0300
+### [email redacted] — 2012-04-22T01:46:07+0300
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-17590>
 
 > **Myree67;575 wrote:** I believe I read Dr.K saying somewhere that yes combined CT with coconut oil will help skin stay tighter... don't quote me though I read so much every day that I can't keep straight who said what where lol.
@@ -42955,7 +42955,7 @@ I assume you're following the AI paleo diet w/ no dairy, nuts, eggs, nightshades
 
 Wow that would be amazing... I got that around age 13 on my upper arms (made buying a prom dress tricky!) and have covered up my arms ever since. Then over the years (I'm 46) it's now all over my arms and also legs. I would adore it going away!!! It looks like a rash and is bumpy, but its just hair follicles inflamed i think. Of course, inflammation, why should i be surprised?? More CT for me.....!
 
-### jeanie@truelongmont.com — 2012-04-29T01:45:36+0300
+### [email redacted] — 2012-04-29T01:45:36+0300
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-19684>
 
 > **MJ\*;19380 wrote:** That should have been the very first thing you ever said!
@@ -43131,7 +43131,7 @@ All of that would be supplemented by offal. Not much muscle meat right now. I'm 
 
 Lol, more of an answer than you really cared for
 
-### omlh@todmi.com — 2012-05-05T18:43:10+0300
+### [email redacted] — 2012-05-05T18:43:10+0300
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-21629>
 
 Sprotten would be sprats in English, I think, Souldanzer - delicious little morsels they are, too! We used to eat them dredged in flour and deep-fried then covered in lemon juice.
@@ -43227,7 +43227,7 @@ Interesting.... When I used to do half marathons (not any more of course!!) we u
 
 Adaptation sweet spot? Very interesting!!
 
-### rjconser@swbell.net — 2012-05-13T13:54:59+0300
+### [email redacted] — 2012-05-13T13:54:59+0300
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-23631>
 
 Don't see that anyone has yet mentioned another very simply benefit for CT - jet lag.
@@ -43369,7 +43369,7 @@ Inger you just motivated my wife to get back in the tub again.......she stopped 
 
 Inger my wife just literally got in the shower and called for me to check the water temp........lol Amazing what another women can do to another women........I cant affect that change at all. LOL
 
-### finnite@dccnet.com — 2012-05-25T16:12:42+0300
+### [email redacted] — 2012-05-25T16:12:42+0300
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-27314>
 
 > **Dali Dula;27382 wrote:** I woke up today with a FBG of 86!!!!!!!!!!!!!! Diagnosed 3 yrs ago with an a1c of 13. Went paleo 1 year ago. Started leptin reset nov 2011,started ct in feb 12. CT everyday. Not taking any diabetes meds. 86 bitch, take that you f,ing diabetes! Thank you Dr. Kruse, you are the man! Oh, I'm also ripped and in the best shape of my life at 51. Ha. Hahahahahahahahaha! Bring on summer.
@@ -43413,7 +43413,7 @@ Fantastic!
 
 Wonderful! I guess pretty soon CT first thing in the morning or before bed will become like a must for us just like taking a shower or brushing our teeth.
 
-### omlh@todmi.com — 2012-05-25T20:17:11+0300
+### [email redacted] — 2012-05-25T20:17:11+0300
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-27395>
 
 I have today been signed off completely from needing knee replacement surgery, and the physiotherapist and further consultant appointments! The consultant was amazed at the recovery since I started the CT journey, and has told me that there is now no difference in strength between the good and "bad" knees - I am truly grateful, and I think that he will be looking into CT (although he feels compliance might be a problem ...).
@@ -43425,7 +43425,7 @@ Olivia,
 
 That's wonderful news! What an inspiration for the rest of us.
 
-### kandc88@gmail.com — 2012-05-25T20:53:37+0300
+### [email redacted] — 2012-05-25T20:53:37+0300
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-27406>
 
 My husband is also amazed as I really did not have much to lose but CT has melted off some stubborn stomach fat that we didnâ€™t really even know I had...there is just less than before. In fact my clothes are looking a bit silly and Iâ€™m thankful that I didnâ€™t cut drawstrings out of my shorts last summer cause I need them to keep my shorts up now! I got called Lean and Mean by a friend I hadnâ€™t seen in a few months and yesterday was asked if I was a runner, which is just hysterical as nothing is further from the truth. I feel bad for the women who run and run and run and do half marathonâ€™s and triathlons constantly looking for results that I can get with an hour of exercise per week and clean eating. Iâ€™m less hungry than ever so only eat when Iâ€™m hungry. Iâ€™m a bit worried that people will start to think I have a problem. The headaches I am getting are annoying, though and Iâ€™m hoping that eventually as the hormones work themselves out that will get better too, preferably before I run out of migraine meds, they are the only thing that cause the headaches to not be debilitating...
@@ -43594,7 +43594,7 @@ Great news Olivia!
 
 What else did you do for your knee besides CT?
 
-### omlh@todmi.com — 2012-05-26T11:49:14+0300
+### [email redacted] — 2012-05-26T11:49:14+0300
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-27603>
 
 > **indigogirl;27652 wrote:** Great news Olivia!
@@ -43662,7 +43662,7 @@ WOW Olivia and Dali Dula!
 
 Olivia, I asked because I've had 2 arthroscopic surgeries on my left knee for torn meniscus. The first was about 24 years ago, the second surgery was this past fall. I also have arthritis in that knee. It's not where I want it to be in terms of rehab.
 
-### omlh@todmi.com — 2012-05-27T11:39:22+0300
+### [email redacted] — 2012-05-27T11:39:22+0300
 **Source:** <https://forum.jackkruse.com/threads/the-benefits-of-cold-thermogenesis-thread.111/post-27814>
 
 > **indigogirl;27906 wrote:** WOW Olivia and Dali Dula!
@@ -43991,7 +43991,7 @@ Looking fwd to seeing your remarks!!!
 
 awesome!!!!!!!!!!!!!!!!!!!!!!
 
-### jeepifer@gmail.com — 2012-03-15T16:43:46+0200
+### [email redacted] — 2012-03-15T16:43:46+0200
 **Source:** <https://forum.jackkruse.com/threads/the-paleo-fx-experience-so-far.112/post-788>
 
 Wish I could've been there, but would love to see a video. Thanks!!!
@@ -44001,7 +44001,7 @@ Wish I could've been there, but would love to see a video. Thanks!!!
 
 Waiting on pins and needles to get the speech. Oh wait....that is waiting in a tub filled with ice water!
 
-### trishalinn@gmail.com — 2012-03-15T17:14:29+0200
+### [email redacted] — 2012-03-15T17:14:29+0200
 **Source:** <https://forum.jackkruse.com/threads/the-paleo-fx-experience-so-far.112/post-806>
 
 Looking forward to hearing all of your talks from paleo fx. Lovin' the forum
@@ -44109,7 +44109,7 @@ Great news, Jack! And this new forum is WONDERFUL! I was just wishing earlier to
 
 Please let us know when it airs so those of us overseas can find it online. Great news and well deserved!
 
-### rbu5@sssnet.com — 2012-03-15T15:18:53+0200
+### [email redacted] — 2012-03-15T15:18:53+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-7-will-launch-soon-after-paleo-fx.113/post-717>
 
 > **Jack Kruse;585 wrote:** There is lots of buzz down here about the CT protocol and it looks like I am getting interviewed by CBS news in the AM about it. Should be real fun.......
@@ -44123,7 +44123,7 @@ We got your back Doc!
 
 Awesome news Doc! The world is a changin'!
 
-### finnite@dccnet.com — 2012-03-15T15:25:17+0200
+### [email redacted] — 2012-03-15T15:25:17+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-7-will-launch-soon-after-paleo-fx.113/post-723>
 
 Just hope they don\`t do some fool thing and have Dr Asshat (oz) after to counter point or anything....on the other hand I think I\`d pay big $$ to watch Jack take on Asshat
@@ -44142,7 +44142,7 @@ That's really great news! Be sure to let us know when it airs!
 
 Just hope CBS doesn't do any creative editing.
 
-### trishalinn@gmail.com — 2012-03-15T16:39:12+0200
+### [email redacted] — 2012-03-15T16:39:12+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-7-will-launch-soon-after-paleo-fx.113/post-784>
 
 Awesome! I hope it goes well, and I'll be looking forward to seeing the interview. Also, anxiously awaiting CT7 and learning more!
@@ -45826,7 +45826,7 @@ Thanks, Dex, for the info (I can't get my 'reply with quote' function to work to
 
 > **KiwiLauren;6276 wrote:** Thanks, Dex, for the info (I can't get my 'reply with quote' function to work today). I have been taking the fresh salmon oil but am now thoroughly confused. I live in NZ, however... are you saying I can get the testing you rec regardless?
 
-The test is received in the mail and you mail it back. It involves you sticking your finger and dripping a blood splot on a card. I don't see why you can't do it from NZ. Send an email to Doug Bilbus at [doug@lipidlab.com](mailto:doug@lipidlab.com) He owns lipidlab.
+The test is received in the mail and you mail it back. It involves you sticking your finger and dripping a blood splot on a card. I don't see why you can't do it from NZ. Send an email to Doug Bilbus at [[email redacted]](mailto:[email redacted]) He owns lipidlab.
 
 ### healthnut — 2012-03-26T17:29:33+0300
 **Source:** <https://forum.jackkruse.com/threads/omega-3-supplementation.153/post-6386>

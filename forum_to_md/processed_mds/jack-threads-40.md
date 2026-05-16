@@ -3309,7 +3309,7 @@ Water in an underground reservoir or a deep pond would pick up magnetism from th
 
 The Zika Virus is causing microencephaly as a survival mechanism due to an altered environment. The body has sensed that energy availability is lower in some way, shape or form and selected a virus that reduces the size of the brain in order to propagate the species. This is de-evolutionary selection. since the brain is the largest user of energy in the human organism, less available energy means we need a smaller brain just to exist in the current environment. Our body is colonized with millions of viruses (10 to 1 ratio to bacteria). DNA is a virus. Life has many options to insure survival--all based on what the available energy environment is signaling. Right now, I'd argue the environment is signaling pretty shitty energy (and not just where this is happening, but everywhere).
 
-### info@sorrentinodental.com — 2016-02-12T16:50:22+0200
+### [email redacted] — 2016-02-12T16:50:22+0200
 **Source:** <https://forum.jackkruse.com/threads/zika-virus-has-a-lesson-for-us-are-you-listening.17545/post-188856>
 
 Oh crap. We need to do something about this but not what the media or modern medicine is telling us to do.
@@ -10877,7 +10877,7 @@ For the night get yourself blue blocking glasses. They will block any blue from 
 **Subforum:** Meet and Greet
 **Posts:** 7
 ══════════════════════════════════════════════════════════════════════
-### lynnchavarriarn@gmail.com — 2016-03-01T21:49:06+0200
+### [email redacted] — 2016-03-01T21:49:06+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-georgia-desperate-for-wellness-knowledge.17622/post-190036>
 
 Hi from Georgia! Dr. K is awesome and I have followed him and corresponded with him for several years. When his blog changed I had problems participating, but today I took the time to get in and reclaim my position as his student. I am an RN with a Masters in Nursing and working on my DNP. I have not focused on my own health and wellness and today I begin this journey. I am a life long enthusiastic learner and I feel overwhelmed with my state of health at 58. I have 2 children that are athleates and I desire to help them succeed with the knowledge I gain from Dr. K. I want to know about Dr. K's opinion on Protandim, Essential Oils, and how to get a complete evaluation. I am looking forward to a healthier future as part of this community of Optimal Health! Thank you Dr. K for sharing! I know you said in the beginning you did not believe people should have to pay for your knowledge and you have freely shared!
@@ -10904,7 +10904,7 @@ If you can manage it - become a gold member and you will have access to the mont
 
 Have you started the leptin RX?
 
-### lynnchavarriarn@gmail.com — 2016-03-02T05:08:19+0200
+### [email redacted] — 2016-03-02T05:08:19+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-georgia-desperate-for-wellness-knowledge.17622/post-190063>
 
 no to all, I have totally ignored my needs and wellness for others. I am getting started now! I am a sponge and soaking it all in. A little overwhelmed and anxious to learn it all. Thanks!
@@ -10921,7 +10921,7 @@ Here is a snippet of where we are now: [http://www.cnn.com/2016/03/01/health/gra
 ### caroline — 2016-03-02T06:42:14+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-georgia-desperate-for-wellness-knowledge.17622/post-190068>
 
-> [lynnchavarriarn@gmail.com said:](/goto/post?id=190063)
+> [[email redacted] said:](/goto/post?id=190063)
 >
 > no to all, I have totally ignored my needs and wellness for others. I am getting started now! I am a sponge and soaking it all in. A little overwhelmed and anxious to learn it all. Thanks!
 
@@ -12164,7 +12164,7 @@ Sounds like a great control mechanism...huh... If we don't want a cheeseburger, 
 
 Bottom line is that consumers want \*choice.\* The more choice we have available, the more we empower each individual. The less choice we have, the easier it is for other entities to shackle and control. And more specifically, many highly important choices are being hidden in plain "sight." Let's look at the nnEMF issue of invisibility. If people could see WiFi, mircrowave, radio and other forms of light, people would be outcrying for choice over what we are forced to ensure with so much interference that would be blocking our vision. The fog alone would get people to change, but because nnEMF fog is invisible, it's right under everyone's nose with no big sensory systems to detect it mentally (unless you're nnEMF sensitive like me), even though our mitochondria sensory systems do detect it. One perfect example that comes to mind is the choice not have SmartMeter light penetrate their brains at 3am when it blasts energy into their pineal glands. Many states don't offer an opt-out program. Our choices are diminishing slowly and insideously. Unless society regains back an attitude of independence in my opinion, an attitude that we're not gonna take the crap from those that want to control us.
 
-### patgrif@hotmail.com — 2016-06-09T04:52:59+0300
+### [email redacted] — 2016-06-09T04:52:59+0300
 **Source:** <https://forum.jackkruse.com/threads/chemtrails-are-they-real.17645/post-196202>
 
 > [Inger said:](/goto/post?id=190331)
@@ -12182,7 +12182,7 @@ I know how you feel Inger, when I first became aware of it about 2 months ago I 
 
 There is loads of stuff on youtube about it you can see the movie "What on Earth are they spraying us with" and "Why on Earth are they spraying us". Also "Don't talk about the weather" just loads and loads of stuff there. Happy reading and watching and don't let 'the boyfriend' talk you out of it................
 
-### patgrif@hotmail.com — 2016-06-09T05:05:28+0300
+### [email redacted] — 2016-06-09T05:05:28+0300
 **Source:** <https://forum.jackkruse.com/threads/chemtrails-are-they-real.17645/post-196204>
 
 Inger: you mentioned about officials denying it. Here is a slightly comic in an Irish way of a guy calling some officials.
@@ -12230,7 +12230,7 @@ I'm not sure about the credibility of Kristen Meghan, but I think Shijin13 has m
 
 They have stopped here too...temperature been soaring.
 
-### patgrif@hotmail.com — 2016-06-22T06:19:47+0300
+### [email redacted] — 2016-06-22T06:19:47+0300
 **Source:** <https://forum.jackkruse.com/threads/chemtrails-are-they-real.17645/post-197061>
 
 This is a question for Dr Kruse himself or anyone else who feels 'qualified' to answer. Given that our atmosphere has been turned into something that all kinds of electronic pulses etc flow through from end to end with all kinds of frequencies is it _necessary_ to sort of 'prime' our atmosphere in this way. I mean by spraying it with all kinds of nano particles of metals (aluminum, barium, strontium etc etc) and also applying HAARP and NEXRAD type electro-magnetic frequencies to 'ready' it for the transmission of many military communications and also of course our own civilian uses, cell phones, wireless internet, GPS devices etc etc.
@@ -12277,7 +12277,7 @@ I don't think the debate should be about a single factor, i.e. "chemtrails". I s
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### patgrif@hotmail.com — 2016-06-23T02:04:30+0300
+### [email redacted] — 2016-06-23T02:04:30+0300
 **Source:** <https://forum.jackkruse.com/threads/chemtrails-are-they-real.17645/post-197118>
 
 > [Jonathin said:](/goto/post?id=197116)
@@ -12300,7 +12300,7 @@ I don't think the debate should be about a single factor, i.e. "chemtrails". I s
 
 Jonathin, it seems the 'hard edges' 'angles' and 'rippling' are the effects of massive EMF's applied to the metals etc in 'chemtrails' I would say it is far from OK and has little to do with the 'old fashioned' contrails that just condensation of water vapor not a big deal (though of course exhaust also has some pollutants) but unfortunatly I think this IS a big deal and not in a good way........
 
-### patgrif@hotmail.com — 2016-06-23T02:06:36+0300
+### [email redacted] — 2016-06-23T02:06:36+0300
 **Source:** <https://forum.jackkruse.com/threads/chemtrails-are-they-real.17645/post-197119>
 
 > [Penny said:](/goto/post?id=197112)
@@ -12356,7 +12356,7 @@ A cloud particle is basically water and aerosols. It's like a cell. The aerosol 
 ### Jonathin — 2016-06-26T00:14:38+0300
 **Source:** <https://forum.jackkruse.com/threads/chemtrails-are-they-real.17645/post-197274>
 
-> [patgrif@hotmail.com said:](/goto/post?id=197118)
+> [[email redacted] said:](/goto/post?id=197118)
 >
 > Jonathin, it seems the 'hard edges' 'angles' and 'rippling' are the effects of massive EMF's applied to the metals etc in 'chemtrails' I would say it is far from OK and has little to do with the 'old fashioned' contrails that just condensation of water vapor not a big deal (though of course exhaust also has some pollutants) but unfortunatly I think this IS a big deal and not in a good way........
 
@@ -15535,7 +15535,7 @@ Tom Doud is a member here. He made mine. Contact him. His operations are in Mich
 **Source:** <https://forum.jackkruse.com/threads/blue-blockers-sold-online.17704/post-191240>
 
 thanks to Jack's tip-off I had mine also done by Tom. They are awesome!!! If you don't find him here look on fb, or here the email
-[hartlandeyecare@yahoo.com](mailto:hartlandeyecare@yahoo.com)
+[[email redacted]](mailto:[email redacted])
 
 ### Simon Wright — 2016-03-21T11:46:05+0200
 **Source:** <https://forum.jackkruse.com/threads/blue-blockers-sold-online.17704/post-191242>
@@ -30000,7 +30000,7 @@ Was it that information can't go faster than the speed of light?
 
 Unifying electromagnetism with gravity instead of the weak force?
 
-### patgrif@hotmail.com — 2016-05-02T12:42:41+0300
+### [email redacted] — 2016-05-02T12:42:41+0300
 **Source:** <https://forum.jackkruse.com/threads/april-2016-q-a.17858/post-194013>
 
 > [Jack Kruse said:](/goto/post?id=193790)
@@ -30724,7 +30724,7 @@ I observed spikes in needle every few seconds. LTE spiked to ~0.07-0.10, and 3G 
 
 I'm trying to get more weather wise  it's back to being cold and overcast here, with the odd better day thrown in .... But I reckon there's a quantum yield in even crappy weather and I'm gonna look for it.  Result 1 - on an overcast day with an icy cold wind, get out of the wind as best I can and use a cellular baby's cot blanket like a cloak, moved to the right position to make a wind break, but still lets some light through, and half my body still fully exposed or in tan thru. Doable, even had lunch outside.
 
-### patgrif@hotmail.com — 2016-04-29T15:48:05+0300
+### [email redacted] — 2016-04-29T15:48:05+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-193817>
 
 Sue, you have struggled with the weather issue a lot and maybe just just widen it out a bit I think it might be worth looking at bit at a 'bigger picture'. I am Irish but live in LA so I don't of course specifically have this problem but my brother who lives in the West of Ireland does and very much so. He is at the point he says where he will just have to quit farming fields are water logged but the worst in the cold. The 'quantum yield' to use a phrase is way down. No growth, sheep are starving land feels cold and dead.
@@ -30736,7 +30736,7 @@ I am again talking about 'chemtrails'...............now I understand this has so
 ### Sue-UK — 2016-04-29T18:17:36+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-193826>
 
-> [patgrif@hotmail.com said:](/goto/post?id=193817)
+> [[email redacted] said:](/goto/post?id=193817)
 >
 > Sue, you have struggled with the weather issue a lot and maybe just just widen it out a bit I think it might be worth looking at bit at a 'bigger picture'. I am Irish but live in LA so I don't of course specifically have this problem but my brother who lives in the West of Ireland does and very much so. He is at the point he says where he will just have to quit farming fields are water logged but the worst in the cold. The 'quantum yield' to use a phrase is way down. No growth, sheep are starving land feels cold and dead.
 >
@@ -30772,7 +30772,7 @@ Is this true, and if so, how should we think about the impact from the use of IR
 
 I taught 30 patients how to do Gulf South version of my CT protocol. Very cool
 
-### patgrif@hotmail.com — 2016-04-30T00:13:14+0300
+### [email redacted] — 2016-04-30T00:13:14+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-193858>
 
 > [Sue-UK said:](/goto/post?id=193826)
@@ -30810,7 +30810,7 @@ Any chance wind increases/stimulates electrons? What is wind on a quantum level?
 ### Sue-UK — 2016-04-30T18:45:34+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-193896>
 
-> [patgrif@hotmail.com said:](/goto/post?id=193858)
+> [[email redacted] said:](/goto/post?id=193858)
 >
 > Sue, it's good you say nature is 'thriving' but I dunno. From BOTH what I see and what I read I would be inclined to think that is not correct but of course that is only my opinion and really I am glad to hear differently. I am wondering if Dr Kruse has a take on this not to try to put him on the spot or anything. But it seems to me that this 'chemtrails' thing really actually fleshes out his concerns about nnEMF gives it a more complete and coherent picture which leads to a greater understanding of what is going on. As long as this is going on we may be truly f..... and even telling people to "move" and so on might still well be missing something big. For myself I have been planning to move to Ireland but they are spraying there, the climate is so screwed there so cold and wet and overcast. Here on the other hand it seems I may be gulping down aluminum nanoparticles, Barium and Strontium and other 'lovelies'
 >
@@ -30899,7 +30899,7 @@ Just the basics, I watched the sunrise, ate a big breakfast, 16 ounce cold brew 
 
 Andro enhance seems to work great for me when I play. I feel alert and talkative which is important and fun. My timing and play seems to bump up a notch.
 
-### patgrif@hotmail.com — 2016-05-01T06:56:15+0300
+### [email redacted] — 2016-05-01T06:56:15+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-193925>
 
 > [Sue-UK said:](/goto/post?id=193896)
@@ -30912,7 +30912,7 @@ Andro enhance seems to work great for me when I play. I feel alert and talkative
 
 Sue, that's interesting. It's strange the spraying does not seem to be everywhere. I find what your husband says encouraging and he being a farmer and from a farming background would have a good sense of stuff like that. Maybe it's not all as bad as I thought. Thanks again Sue
 
-### patgrif@hotmail.com — 2016-05-01T07:00:41+0300
+### [email redacted] — 2016-05-01T07:00:41+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-193927>
 
 I don't consider myself a 'writer' but well I 'write' sometimes but please take this as my concern for the weather and don't judge it as 'poetry' or whatever. As a child growing up in Ireland I remember endless conversations about the weather and it seems so sad now it sort of 'gone'
@@ -30959,20 +30959,20 @@ if not me?
 My job to do
 to get our weather back
 
-### patgrif@hotmail.com — 2016-05-01T07:11:31+0300
+### [email redacted] — 2016-05-01T07:11:31+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-193928>
 
 That reminds me of this song...................."I went back to Ohio/but my city was gone" all on the theme when things are taken away...............
 
-### patgrif@hotmail.com — 2016-05-01T15:14:48+0300
+### [email redacted] — 2016-05-01T15:14:48+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-193936>
 
-> [patgrif@hotmail.com said:](/goto/post?id=193928)
+> [[email redacted] said:](/goto/post?id=193928)
 >
 > That reminds me of this song...................."I went back to Ohio/but my city was gone" all on the theme when things are taken away...............
 >
 
-> [patgrif@hotmail.com said:](/goto/post?id=193925)
+> [[email redacted] said:](/goto/post?id=193925)
 >
 > Sue, that's interesting. It's strange the spraying does not seem to be everywhere. I find what your husband says encouraging and he being a farmer and from a farming background would have a good sense of stuff like that. Maybe it's not all as bad as I thought. Thanks again Sue
 
@@ -30988,7 +30988,7 @@ Taught three patients why the sun is not toxic.
 
 Patrick love your poem above.
 
-### patgrif@hotmail.com — 2016-05-01T17:07:01+0300
+### [email redacted] — 2016-05-01T17:07:01+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-193944>
 
 > [Jack Kruse said:](/goto/post?id=193940)
@@ -30999,16 +30999,16 @@ Oh thanks Dr Kruse, I always say to people don't think of me as a 'writer' (beca
 
 But what's interesting to me now is this is how 'propaganda' works..................take something innocent and twist it into something else like it's opposite maybe. Take something pure and beautiful and USE that for an agenda of filth and poison. And convince people they are dealing with the SAME thing! We are NOT dealing with the same thing this is disgusting mis-direction and propaganda but it slips in under the cover of the earlier experience. This has really got my "Irish" up pisses me off.................
 
-### patgrif@hotmail.com — 2016-05-01T17:25:31+0300
+### [email redacted] — 2016-05-01T17:25:31+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-193946>
 
-> [patgrif@hotmail.com said:](/goto/post?id=193944)
+> [[email redacted] said:](/goto/post?id=193944)
 >
 > Oh thanks Dr Kruse, I always say to people don't think of me as a 'writer' (because I am not) I just try to convey things sometimes hopefully this did at least you thought so. It's interesting it's a lovely memory for me as a child taking a break with my Dad working in the fields and just lying on the grass and looking up at the sky and wondering about the jet way above and WHY did it leave that trail. We didn't know but there was 'beauty' in it we just enjoyed looking at it the clear blue sky and the brilliant white 'jet' coming out of the jet
 >
 > But what's interesting to me now is this is how 'propaganda' works..................take something innocent and twist it into something else like it's opposite maybe. Take something pure and beautiful and USE that for an agenda of filth and poison. And convince people they are dealing with the SAME thing! We are NOT dealing with the same thing this is disgusting mis-direction and propaganda but it slips in under the cover of the earlier experience. This has really got my "Irish" up pisses me off.................
 
-### patgrif@hotmail.com — 2016-05-01T17:29:23+0300
+### [email redacted] — 2016-05-01T17:29:23+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-193947>
 
 Thanks Neil, how are you doing? Do you have any take on these kinds of things? Feel free to not answer if you want. Speaking of jets I was reminded of this song. Now it's interesting that photo what 'smoke is being blown here'. Seriously though I think this is partly how this nonsense is 'normalized' you see it in ads cartoons etc etc. After a while it will feel 'normal' to look up at the sky and see toxic crap sprayed all over it. Hey learn to love your prison!
@@ -31016,7 +31016,7 @@ Thanks Neil, how are you doing? Do you have any take on these kinds of things? F
 ### NeilBB — 2016-05-01T17:47:23+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-193950>
 
-> [patgrif@hotmail.com said:](/goto/post?id=193947)
+> [[email redacted] said:](/goto/post?id=193947)
 >
 > Thanks Neil, how are you doing? Do you have any take on these kinds of things? Feel free to not answer if you want. Speaking of jets I was reminded of this song. Now it's interesting that photo what 'smoke is being blown here'. Seriously though I think this is partly how this nonsense is 'normalized' you see it in ads cartoons etc etc. After a while it will feel 'normal' to look up at the sky and see toxic crap sprayed all over it. Hey learn to love your prison!
 >
@@ -31030,14 +31030,14 @@ You have to be clear on what your goals are. If your personal goal is simply to 
 ### NeilBB — 2016-05-01T18:03:36+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-193951>
 
-> [patgrif@hotmail.com said:](/goto/post?id=193947)
+> [[email redacted] said:](/goto/post?id=193947)
 >
 > Thanks Neil, how are you doing? Do you have any take on these kinds of things? Feel free to not answer if you want. Speaking of jets I was reminded of this song. Now it's interesting that photo what 'smoke is being blown here'. Seriously though I think this is partly how this nonsense is 'normalized' you see it in ads cartoons etc etc. After a while it will feel 'normal' to look up at the sky and see toxic crap sprayed all over it. Hey learn to love your prison!
 >
 
 Sometimes though, I do feel "Numb," like your Irish neighbors...
 
-### patgrif@hotmail.com — 2016-05-01T18:09:55+0300
+### [email redacted] — 2016-05-01T18:09:55+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-193953>
 
 Neil I always have a problem with 'just looking after myself' kind of approach. Maybe coming from an almost 'indigenous' situation (Ireland in the 'old days') it does not sit right with us the kind of 'individualistic' and even I might say 'narcissistic' approach. Thought I am aware that is the reality of the modern world. The other aspect of this though is 'individual' no longer works I mean if we are all breathing toxic air nobody can escape that. I mean it's a sad situation and then all we are offered is some kind of 'micro' solution. Isn't that kind of the problem we are all running in place and getting nowhere. But I do take your point(s) also Neil I am a bit unbalanced in that way
@@ -31045,13 +31045,13 @@ Neil I always have a problem with 'just looking after myself' kind of approach. 
 ### NeilBB — 2016-05-01T18:20:13+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-193955>
 
-> [patgrif@hotmail.com said:](/goto/post?id=193953)
+> [[email redacted] said:](/goto/post?id=193953)
 >
 > Neil I always have a problem with 'just looking after myself' kind of approach. Maybe coming from an almost 'indigenous' situation (Ireland in the 'old days') it does not sit right with us the kind of 'individualistic' and even I might say 'narcissistic' approach. Thought I am aware that is the reality of the modern world. The other aspect of this though is 'individual' no longer works I mean if we are all breathing toxic air nobody can escape that. I mean it's a sad situation and then all we are offered is some kind of 'micro' solution. Isn't that kind of the problem we are all running in place and getting nowhere. But I do take your point(s) also Neil I am a bit unbalanced in that way
 
 Then be like Hercules! Figure out a way to behead the hydra, without two more heads growing back...
 
-### patgrif@hotmail.com — 2016-05-01T18:30:56+0300
+### [email redacted] — 2016-05-01T18:30:56+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-193957>
 
 That's good Neil I like 'ancient heroes' the world was bigger then. That's an interesting U2 song and video I had not heard that. My favorite U2 at the moment is this one. Keep on truckin' Neil..............
@@ -31059,7 +31059,7 @@ That's good Neil I like 'ancient heroes' the world was bigger then. That's an in
 ### NeilBB — 2016-05-01T18:54:08+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-193961>
 
-> [patgrif@hotmail.com said:](/goto/post?id=193957)
+> [[email redacted] said:](/goto/post?id=193957)
 >
 > That's good Neil I like 'ancient heroes' the world was bigger then. That's an interesting U2 song and video I had not heard that. My favorite U2 at the moment is this one. Keep on truckin' Neil..............
 >
@@ -31243,7 +31243,7 @@ Nothing is as wealthy but the inexhaustible wealth of nature. She shows her powe
 
 Excruciatingly beautiful.....and I believe I just experienced a 'nuclear event'.
 
-### patgrif@hotmail.com — 2016-05-12T21:53:20+0300
+### [email redacted] — 2016-05-12T21:53:20+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194629>
 
 > [Jack Kruse said:](/goto/post?id=194618)
@@ -31256,7 +31256,7 @@ A scientist in the UK said he noticed it first as he had solar panels on his hou
 
 I think of Sue-UK is she and others fighting a losing battle over there I mean it is a problem everywhere though in LA one can kind of gloss over it. How about Norway and Sweden for example. This to me needs to become a 'cause' tackling this on an individual level cannot work very well
 
-### patgrif@hotmail.com — 2016-05-12T22:16:56+0300
+### [email redacted] — 2016-05-12T22:16:56+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194631>
 
 Dr Kruse: this is another one that addresses the effect of EMF frequencies on the environment/weather. And not 'accidental' or 'incidental' but a deliberate messing with the climate. I happen to know a bit about the week he is talking about in the UK/Ireland as my brother was telling me exactly what this guy is talking about. Tell me there is nothing going on here..................or tell the people in the UK nothing is going on
@@ -31264,7 +31264,7 @@ Dr Kruse: this is another one that addresses the effect of EMF frequencies on th
 ### NeilBB — 2016-05-12T22:18:36+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194632>
 
-> [patgrif@hotmail.com said:](/goto/post?id=194629)
+> [[email redacted] said:](/goto/post?id=194629)
 >
 > Dr Kruse: I agree with all this but......................what if the sun is being systematically 'screened out' now. I am referring to the whole program which we can loosely call 'chemtrails'. But also as also applies to your neck of the woods it seems to involve massive use of electro-magnetic energies into the environment. It seems to be a one-two punch to the climate. This gets quite complicated so for now I will keep it as simple as possible. The sun is being screened out...................apparently and I don't know actually where these numbers come from now the oceans have 90% cloud cover at any given time and the land has 70% cloud cover.
 >
@@ -31276,7 +31276,7 @@ Patrick. I think you are correct in your assessment and I'm certain Jack would a
 
 Bottom line is really quite simple for the individual. Due to global changes, quantum yields and health will be down across the board. Lattitudes and climates that used to comfortably accomodate healthy life can't do so very well anymore. BUT, certain places still can do OK because their geography and environment contains more margin for error. If someone wants to do better, they'd better think about moving to one of those places. If not, they will likely struggle. Jack has said this many many times. Optimal is not for everybody. Or everyWHERE, today. This seems to be a very difficult concept for people to get. Of course, the situation is serious. I don't think that's news to anyone here. Serious situations require serious adaptive measures. Without such measures, one can expect to fail today. It is what it is.
 
-### patgrif@hotmail.com — 2016-05-13T00:00:26+0300
+### [email redacted] — 2016-05-13T00:00:26+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194639>
 
 > [NeilBB said:](/goto/post?id=194632)
@@ -31292,7 +31292,7 @@ Neil I appreciate what you are saying to me BUT if people continue to try to dea
 ### lohd2015 — 2016-05-13T00:21:10+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194641>
 
-> [patgrif@hotmail.com said:](/goto/post?id=194639)
+> [[email redacted] said:](/goto/post?id=194639)
 >
 > Neil: I notice several people already 'like' this. I have to say I don't though I DO like YOU! To me Neil this is no answer at all what are all the people in say the UK and Ireland supposed to do? Move? Millions of people are moving in the other direction TO the UK and Ireland because it is even WORSE where they are their countries ruined by our wars there.
 >
@@ -31312,7 +31312,7 @@ There is an environmental whatever they are called person who wrote a 50 page bo
 ### NeilBB — 2016-05-13T01:35:09+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194645>
 
-> [patgrif@hotmail.com said:](/goto/post?id=194639)
+> [[email redacted] said:](/goto/post?id=194639)
 >
 > Neil: I notice several people already 'like' this. I have to say I don't though I DO like YOU! To me Neil this is no answer at all what are all the people in say the UK and Ireland supposed to do? Move? Millions of people are moving in the other direction TO the UK and Ireland because it is even WORSE where they are their countries ruined by our wars there.
 >
@@ -31327,7 +31327,7 @@ What are "people" "supposed" to do? They are supposed to be obedient sheep and l
 ### Jack Kruse — 2016-05-13T07:37:06+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194656>
 
-> [patgrif@hotmail.com said:](/goto/post?id=194639)
+> [[email redacted] said:](/goto/post?id=194639)
 >
 > Neil: I notice several people already 'like' this. I have to say I don't though I DO like YOU! To me Neil this is no answer at all what are all the people in say the UK and Ireland supposed to do? Move? Millions of people are moving in the other direction TO the UK and Ireland because it is even WORSE where they are their countries ruined by our wars there.
 >
@@ -31366,7 +31366,7 @@ Doris says, "I don't know what I can do as an individual to help change the cour
 
 Can I say Amen
 
-### patgrif@hotmail.com — 2016-05-13T08:19:40+0300
+### [email redacted] — 2016-05-13T08:19:40+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194664>
 
 > [Jack Kruse said:](/goto/post?id=194656)
@@ -31400,7 +31400,7 @@ Pat I am not sure why this irks you so much...........It is OK to upset about th
 
 This is the modern problem.............stated succinctly
 
-### patgrif@hotmail.com — 2016-05-13T16:27:22+0300
+### [email redacted] — 2016-05-13T16:27:22+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194677>
 
 > [NeilBB said:](/goto/post?id=194672)
@@ -31431,7 +31431,7 @@ So in this sense, natural selection is completely the blind with respect to life
 
 Pat health narcissism comes from people refusing to understand that the conditions of existence and their desires almost always stand at odds of how we are constructed. Nothing records the effects of a sad life so graphically as the condition of thinking of the human brain.
 
-### patgrif@hotmail.com — 2016-05-13T16:39:43+0300
+### [email redacted] — 2016-05-13T16:39:43+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194681>
 
 > [Jack Kruse said:](/goto/post?id=194675)
@@ -31450,7 +31450,7 @@ Here is where I disagree with your premise.......individuals are uniquely able t
 ### NeilBB — 2016-05-13T16:48:13+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194685>
 
-> [patgrif@hotmail.com said:](/goto/post?id=194677)
+> [[email redacted] said:](/goto/post?id=194677)
 >
 > Neil: that's an interesting 'speech' but.................maybe I was not clear on one thing. My point and as I say I may have not made it so clearly is 'declining quantum yield' from the sun in the instance we are talking about has NOTHING to do with what 'is' or the 'nature of reality' or anything like that. My argument is (and I could be wrong though I doubt it) it is a direct result of 'geo-engineering' or more simply put deliberate and conscious human intervention. As such it is a 'political' act and can ONLY be solved by 'political' means. As in getting together and raising an alarm or at the very least understanding CLEARLY what is happening.
 >
@@ -31464,7 +31464,7 @@ The population is going to shrink, Patrick. One way or the other. Why not focus 
 
 You seem to _want_ to be upset about all this and demand that _we_ get upset about it too. I understand that sentiment, like being at a pep rally or political rally. I'm just not intersted in that. Not at all. I am about the truth and getting people who won't accept it out of my way...
 
-### patgrif@hotmail.com — 2016-05-13T17:00:45+0300
+### [email redacted] — 2016-05-13T17:00:45+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194687>
 
 > [Jack Kruse said:](/goto/post?id=194683)
@@ -31586,7 +31586,7 @@ Leading by example is ideal.
 
 Now I am going to change somebody's life as I walk in the French Quarter today before my flight.
 
-### patgrif@hotmail.com — 2016-05-13T20:25:59+0300
+### [email redacted] — 2016-05-13T20:25:59+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194724>
 
 > [Jack Kruse said:](/goto/post?id=194688)
@@ -31601,7 +31601,7 @@ You mentioned they are 'modelling' an atmosphere for Mars.................if tha
 
 I have a question though. Is an 'ionized atmosphere' necessary for all our gadgets GPS, wireless internet, satellite TV to work? Is our whole 'way of life' dependent on doing this? So some 'damage' in probably unavoidable but now I think it has reached the point like the US said in Vietnam "to save the town they had to destroy it" I think you SHOULD go to Congress but I am aware also this always just turns into a talking shop
 
-### patgrif@hotmail.com — 2016-05-13T20:35:30+0300
+### [email redacted] — 2016-05-13T20:35:30+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194725>
 
 > [NeilBB said:](/goto/post?id=194691)
@@ -31620,7 +31620,7 @@ It was not my intention to criticize Dr K for not being "aware enough" Now I fin
 
 As far as some of the other issues.........................I think a lot of this is 'cultural' the US is a hyper individualistic society I come from almost an 'indigenous' situation. I prefer 'indigenous' as I suppose you would expect since it is what I grew up with. But thinking about both approached I think it has more 'truth' than our modern mess. I STILL think co-operative and concerted action is way better than 'narcissistic' tinkering around the edges.
 
-### patgrif@hotmail.com — 2016-05-13T20:39:00+0300
+### [email redacted] — 2016-05-13T20:39:00+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194726>
 
 > [Penny said:](/goto/post?id=194711)
@@ -31634,7 +31634,7 @@ Penny when they called you "nuts" was it specifically about the chemtrails - geo
 ### Jack Kruse — 2016-05-13T20:51:14+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194729>
 
-> [patgrif@hotmail.com said:](/goto/post?id=194725)
+> [[email redacted] said:](/goto/post?id=194725)
 >
 > Neil: first off Noah's Ark is a 'story' there could not possibly be any 'truth' in that. So when you go into the land of metaphor all bets are off and anyone can say and think anything.. I am sure the ancients faced some severe disasters but I would bet they were not saved by some guy and his "Ark". They probably just muddled through and were lucky at least some of them
 >
@@ -31703,7 +31703,7 @@ I think you should try it........
 
 I wonder if those cocktail dudes with the cameras from last night might want to film it??
 
-### patgrif@hotmail.com — 2016-05-13T21:53:35+0300
+### [email redacted] — 2016-05-13T21:53:35+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194743>
 
 > [NeilBB said:](/goto/post?id=194736)
@@ -31722,7 +31722,7 @@ Go the beach drink some water and talk to some girls..........that is th kind of
 ### NeilBB — 2016-05-13T22:05:45+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194745>
 
-> [patgrif@hotmail.com said:](/goto/post?id=194743)
+> [[email redacted] said:](/goto/post?id=194743)
 >
 > Neil: It's not that I don't 'like' epistemology........................I have a degree in Philosophy and 'epistemology' was part of that. I just don't believe it is in any sense a 'science' if I remember properly it was explained like this to us . Epistemology = the question how do we know that we know and what we know. I mean from my experience it leads to an awful lot of chasing your own tail and if not like you 'find' some truth or certainty well all that means is you have stopped thinking. So.................I don't think it solves very much if anything. I know Neil you think it can really be nailed down in some way I don't see it and certainly not with the likes Ayn Rand lol. A super alienated modern 'philosopher' imo........
 >
@@ -31733,7 +31733,7 @@ It's just like medical school Patrick. Most of what they teach in school is wron
 ### Joe Gavin — 2016-05-13T22:16:56+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194746>
 
-> [patgrif@hotmail.com said:](/goto/post?id=194743)
+> [[email redacted] said:](/goto/post?id=194743)
 >
 > Neil: It's not that I don't 'like' epistemology........................I I was just about to delve into that kind of stuff and felt 'ready' for it but now I am seriously **side tracked**, **disturbed and jacked up** with this geo-engineering, **seems there is always something to stymie me. Damn!**
 
@@ -31755,7 +31755,7 @@ Agree. Only "truth" really "exists" at all, in fact. Utter bullshit is simply th
 ### Penny — 2016-05-14T00:07:00+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194750>
 
-> [patgrif@hotmail.com said:](/goto/post?id=194726)
+> [[email redacted] said:](/goto/post?id=194726)
 >
 > Penny when they called you "nuts" was it specifically about the chemtrails - geo-engineering issue? I mean even a few months ago I would have tended to think of it as 'nuts' not now though not at all. I think it is a massive problem and the 'spraying' in only one aspect of it the massive EMF's are probably even more significant
 
@@ -31778,7 +31778,7 @@ How did someone like Winston Churchill, who is obviously leptin resistant, had s
 
 Would greatly appreciate your thoughts if you have a moment to spare. Thank you.
 
-### patgrif@hotmail.com — 2016-05-14T02:25:20+0300
+### [email redacted] — 2016-05-14T02:25:20+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194754>
 
 > [lohd2015 said:](/goto/post?id=194751)
@@ -31793,7 +31793,7 @@ IMO Churchill was a 'mad dog' warmonger who is a totally destructive human being
 
 [https://redice.tv/red-ice-radio/the-british-mad-dog-debunking-the-myth-of-winston-churchill](https://redice.tv/red-ice-radio/the-british-mad-dog-debunking-the-myth-of-winston-churchill)
 
-### patgrif@hotmail.com — 2016-05-14T02:26:03+0300
+### [email redacted] — 2016-05-14T02:26:03+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194755>
 
 > [Joe Gavin said:](/goto/post?id=194746)
@@ -31887,7 +31887,7 @@ No need to apologize. I am happy to discuss it actually. I was kindof making a s
 
 I actually hate all this group communication. I like talking to people one on one. A real exchange. I have no idea what most of these people think of most of the crap I post here because most of them lurk and rarely say a damn thing to me. I do appreciate your question and interest. I also like Patrick a lot because he isn't afraid to say what he thinks, even if he knows it will piss me off.
 
-### patgrif@hotmail.com — 2016-05-15T01:37:57+0300
+### [email redacted] — 2016-05-15T01:37:57+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194793>
 
 Neil: I have no problem with you and certainly I don't say things with the intention of 'pissing you off' if it does it's purely a 'side effect'
@@ -31918,7 +31918,7 @@ Pat, the paradigms you mention are sexy and the secret revelations embue with th
 ### NeilBB — 2016-05-15T04:31:55+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194802>
 
-> [patgrif@hotmail.com said:](/goto/post?id=194793)
+> [[email redacted] said:](/goto/post?id=194793)
 >
 > Neil: I have no problem with you and certainly I don't say things with the intention of 'pissing you off' if it does it's purely a 'side effect'
 >
@@ -31942,7 +31942,7 @@ Pat, the paradigms you mention are sexy and the secret revelations embue with th
 
 Patrick, I don't believe every conspiracy theory is true. One needs to stay grounded and focused. Paradigms are actually necessary and can be largely correct. There is a pattern to the things that don't fit that follows the trail led by science and epistemology. And then there's just a lot of people writing books and blogs with crazy ideas. It's necessary to be able to discern the difference. How? Preponderance of the evidence in an epistemological process.
 
-### patgrif@hotmail.com — 2016-05-15T10:17:56+0300
+### [email redacted] — 2016-05-15T10:17:56+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194809>
 
 > [Lahelada said:](/goto/post?id=194799)
@@ -31951,7 +31951,7 @@ Patrick, I don't believe every conspiracy theory is true. One needs to stay grou
 
 Lahelada, I guess that is an aspect of it there is some kind of 'satisfaction' or 'dopamine effect (same thing?) involved in these 'discoveries' though really I don't believe I do it for that reason or not consciously at least. It is not just a matter of turning conventional wisdom on it's head but there is also the fact of ability I might say to change my mind. That part is sort of inherently 'painful' in that I have to face up to the fact I was 'wrong' all those years and takes a while. My beliefs have conditioned my decisions so well if my beliefs were wrong were my decisions then wrong. And well yes.................but then I think that is where self acceptance comes in.................I was 'wrong' well ok but even 'wrong' is always from a perspective what's to say my 'new' beliefs are correct either in time they may turn out to have been 'wrong' so in a funny way that can lead to self acceptance or knowing ALL beliefs are provisional and questionable but at the same time I feel I have made some progress from old beliefs that I now see to have been very limited and based really only on what I was TOLD by others and often told for an agenda. An agenda that is now more transparent. Hope that mess makes some sense.
 
-### patgrif@hotmail.com — 2016-05-15T10:26:59+0300
+### [email redacted] — 2016-05-15T10:26:59+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194810>
 
 > [NeilBB said:](/goto/post?id=194802)
@@ -31978,7 +31978,7 @@ The business of science today takes full advantage of people not understanding h
 ### NeilBB — 2016-05-15T17:16:03+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194828>
 
-> [patgrif@hotmail.com said:](/goto/post?id=194810)
+> [[email redacted] said:](/goto/post?id=194810)
 >
 > Neil, see here a bit I see you (and not only you) often promote 'thinking outside the box' but then when someone actually DOES and it's like oops I did not mean 'that' outside the box. I do not do this to be 'controversial' it is really an inner process but it does feel right and I feel like someone who all my life was on a slippery slope but now I am holding a rope at least. I have no idea why this happened but thinking about it sitting and taking in the AM sun everyday and most often even watching the sun rise seems to have something maybe a lot to do with it. In which case props to Dr Kruse again.......................he talked about the Sphinx facing the East. I have felt a bit Sphinx like recently and I never thought I would...............that why also I mentioned I was all ready to delve into this 'ancient wisdom' and this modern bullshit of chemtrails etc come up and stymies me again. It's like saying NO you will NOT have peace you will not be happy................
 
@@ -32000,7 +32000,7 @@ Frankly, when I posed the question to you, I was hoping for a mini education/lec
 I am thinking of starting a thread on music, a subject that is very close to my heart, after listening to the May Webinar. Music is as much a part of my life as my struggles with my health since a child. Hearing the webinar was like getting my head split open and everything just spilled out all over on the floor, and I am seeing them under a totally new light. For once, there may be answers to so many questions I just took for granted my entire life. I feel like a little puppy running around it’s new home, breathless from the excitement of the explorations. I hope that I can get some help from members who love music to help me navigate my various ideas, or at least, set me on the right course. Thank you in advance.
 (I think I might want to call the thread "How to Biohack Music")
 
-### patgrif@hotmail.com — 2016-05-15T17:38:11+0300
+### [email redacted] — 2016-05-15T17:38:11+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194831>
 
 > [NeilBB said:](/goto/post?id=194828)
@@ -32009,7 +32009,7 @@ I am thinking of starting a thread on music, a subject that is very close to my 
 
 Yes reminds me of the saying "Every genius is an outsider, but not every outsider is a genius" lol
 
-### patgrif@hotmail.com — 2016-05-15T17:41:17+0300
+### [email redacted] — 2016-05-15T17:41:17+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194832>
 
 Song.......................
@@ -32017,7 +32017,7 @@ Song.......................
 ### NeilBB — 2016-05-15T18:28:26+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-194835>
 
-> [patgrif@hotmail.com said:](/goto/post?id=194832)
+> [[email redacted] said:](/goto/post?id=194832)
 >
 > Song.......................
 >
@@ -32035,7 +32035,7 @@ I always liked that one. And for a different reason, this one...
 
 beautifully said. simple and true
 
-### patgrif@hotmail.com — 2016-05-18T16:54:25+0300
+### [email redacted] — 2016-05-18T16:54:25+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-195022>
 
 > [Inger said:](/goto/post?id=195019)
@@ -32076,7 +32076,7 @@ Stellar!
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### patgrif@hotmail.com — 2016-05-18T21:06:57+0300
+### [email redacted] — 2016-05-18T21:06:57+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-195039>
 
 > [Inger said:](/goto/post?id=195024)
@@ -32104,7 +32104,7 @@ Patrick I want you to be drawn to reality.........I love so much about you but y
 
 Hold me to the same standard.
 
-### patgrif@hotmail.com — 2016-05-19T06:32:01+0300
+### [email redacted] — 2016-05-19T06:32:01+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-195058>
 
 > [Jack Kruse said:](/goto/post?id=195050)
@@ -32125,7 +32125,7 @@ Black swan events occur..........but the mechanism has to be explainable and pla
 ### NeilBB — 2016-05-19T19:03:54+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-195081>
 
-> [patgrif@hotmail.com said:](/goto/post?id=195039)
+> [[email redacted] said:](/goto/post?id=195039)
 >
 > It's tricky though and 'complicated' at least the way I see it 'global warming' IS a problem and WAS a problem already but then what we do about it -geo engineering - makes it MORE of a problem. So to kind of wind back from that is difficult. Say if the powers that be were to stop all geo-engineering the problems of global warming would likely become more obvious. So for now it's like we are giving the planet/weather drugs which really solves nothing only masks the makes the problems more intractable. Just like if a person does it.
 
@@ -32205,7 +32205,7 @@ Joe.. I also just posted a 'Deep Thoughts By Scompy' in my journal because you i
 ### Inger — 2016-05-21T11:56:10+0300
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/post-195165>
 
-> [patgrif@hotmail.com said:](/goto/post?id=195058)
+> [[email redacted] said:](/goto/post?id=195058)
 >
 > Thanks Dr K that's nice of you to say that. But as for 'woo' well that can be a tough one I mean what is 'woo' and what is not. I am actually getting a bit scared about some of this stuff..................what if they is a massive belch of methane from the North Pole and the whole human race might be gone by 2030. Is that 'woo' I hope so but well you never know. As you said yourself one time 'past performance is no guarantee of future results' and I am applying this now to the very survival of the human race and maybe all life.
 >

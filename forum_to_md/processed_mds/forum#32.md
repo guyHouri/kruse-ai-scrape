@@ -2319,7 +2319,7 @@ You should also provide:
 Requests for permits can be sent to the Office of Chemical Safety and Environmental Health.
 OCSEH contact details
 Fax 02 6289 2500
-Email [tmu@health.gov.au](mailto:tmu@health.gov.au)
+Email [[email redacted]](mailto:[email redacted])
 .
 
 ### Josh (Paleo Osteo) — 2015-05-31T11:10:11+0300
@@ -14436,7 +14436,7 @@ Jack how would one go about getting training through you? I am graduating next J
 
 Not sure.......it would have to be post graduate on your own time. That will make it tough. But as things decline in society......your skills will be more in demand.
 
-### patgrif@hotmail.com — 2014-05-02T18:47:06+0300
+### [email redacted] — 2014-05-02T18:47:06+0300
 **Source:** <https://forum.jackkruse.com/threads/optimal-east-coast-vacation-spot.10721/post-124633>
 
 All I wanna do is 'soak up the sun'
@@ -14546,7 +14546,7 @@ We were thinking Cape Cod or Martha's Vineyard.....But MDI looks really nice..I 
 ### nicld — 2014-05-03T04:16:42+0300
 **Source:** <https://forum.jackkruse.com/threads/optimal-east-coast-vacation-spot.10721/post-124825>
 
-> [patgrif@hotmail.com said:](/goto/post?id=124633)
+> [[email redacted] said:](/goto/post?id=124633)
 >
 > All I wanna do is 'soak up the sun'
 >
@@ -15665,7 +15665,7 @@ A quick story: The last time I was in Orlando was to meet my Acupuncture teacher
 
 I have hugged some amazing people today.....but I could really use a hug from you....
 
-### patgrif@hotmail.com — 2014-05-05T03:56:32+0300
+### [email redacted] — 2014-05-05T03:56:32+0300
 **Source:** <https://forum.jackkruse.com/threads/may-4-2014-webinar-q-a-alert.10751/post-125208>
 
 Dr Kruse: I just listened to the Q&A and honestly I get concerned that you could waste too much time and money and whatever else on all these 'platform changes'. I ran a company for 25 years and technology can easily become a black hole. And always the 'new' people will promise and promise and promise................
@@ -15698,7 +15698,7 @@ On another note from the Q and A…I had a question about the 3 percent saline s
 ### Jack Kruse — 2014-05-05T04:21:57+0300
 **Source:** <https://forum.jackkruse.com/threads/may-4-2014-webinar-q-a-alert.10751/post-125213>
 
-> [patgrif@hotmail.com said:](/goto/post?id=125208)
+> [[email redacted] said:](/goto/post?id=125208)
 >
 > Dr Kruse: I just listened to the Q&A and honestly I get concerned that you could waste too much time and money and whatever else on all these 'platform changes'. I ran a company for 25 years and technology can easily become a black hole. And always the 'new' people will promise and promise and promise................
 >
@@ -17858,7 +17858,7 @@ i want that thing too
 **Subforum:** The EMF Rx
 **Posts:** 7
 ══════════════════════════════════════════════════════════════════════
-### joangtaylor@gmail.com — 2014-05-07T14:47:02+0300
+### [email redacted] — 2014-05-07T14:47:02+0300
 **Source:** <https://forum.jackkruse.com/threads/home-automation-system.10778/post-125620>
 
 I posed the following question on a website called "allexperts.com." I received an answer from a physics and radiation safety professor. I guess that this "expert" is not up-to-date on EMF safety.
@@ -43812,7 +43812,7 @@ I just read about a guy that said he chose to be short ...he didn't want to inti
 ### dan.orloski22 — 2014-05-31T18:04:56+0300
 **Source:** <https://forum.jackkruse.com/threads/email-support-for-membership.10969/post-129045>
 
-Will the [support@jackruse.com](mailto:support@jackruse.com) be back my monday?
+Will the [[email redacted]](mailto:[email redacted]) be back my monday?
 
 ### dan.orloski22 — 2014-06-01T01:08:48+0300
 **Source:** <https://forum.jackkruse.com/threads/email-support-for-membership.10969/post-129096>
@@ -44730,7 +44730,7 @@ Infrared energy is emitted or absorbed by molecules when they change their rotat
 
 Each molecule in our cells sends out a unique electromagnetic field that can "sense" the field of the complimentary molecule. It's as if there is a "dance" in the cellular medium and the molecules move to the rythm. The music is supplied by the bio-photon.
 
-Veljkovic and Irina Cosic (already spoke about her on my blog once) proposed that molecular interactions are electrical in nature, and they take place over distances that are large compared with the size of molecules. Cosic later introduced the idea of dynamic electromagnetic field interactions, that molecules recognize their particular targets and vice versa by electromagnetic resonance. This is why smart meters fuck us all up. In fact, all non native EMF cause us not to be able to sense the native EMF to coordinate biochemical and circadian cycles. In other words, the molecules send out specific frequencies of electromagnetic waves which not only enable them to 'see' and 'hear' each other, as both photon and phonon modes exist for electromagnetic waves, but also to influence each other at a distance and become ineluctably drawn to each other if vibrating out of phase (in a complementary way).You can read this here: The Real Bioinformatics Revolution: Proteins and Nucleic Acids Singing to One Another? (Paper available at [report@i-sis.org.uk](mailto:report@i-sis.org.uk))
+Veljkovic and Irina Cosic (already spoke about her on my blog once) proposed that molecular interactions are electrical in nature, and they take place over distances that are large compared with the size of molecules. Cosic later introduced the idea of dynamic electromagnetic field interactions, that molecules recognize their particular targets and vice versa by electromagnetic resonance. This is why smart meters fuck us all up. In fact, all non native EMF cause us not to be able to sense the native EMF to coordinate biochemical and circadian cycles. In other words, the molecules send out specific frequencies of electromagnetic waves which not only enable them to 'see' and 'hear' each other, as both photon and phonon modes exist for electromagnetic waves, but also to influence each other at a distance and become ineluctably drawn to each other if vibrating out of phase (in a complementary way).You can read this here: The Real Bioinformatics Revolution: Proteins and Nucleic Acids Singing to One Another? (Paper available at [[email redacted]](mailto:[email redacted]))
 
 There are about 100,000 chemical reactions happening in every cell each second. The chemical reaction can only happen if the molecule which is reacting is excited by a photon...........Once the photon has excited a reaction it returns to the field and is available for more reactions... We are swimming in an ocean of light. (Hold this thought and my next post,OSF5, will explain this in detail)
 
@@ -46262,7 +46262,7 @@ Scroll up to post #2. I posted the link in the same place where the PDF's are. I
 >
 > what an awesome endeavor Kyra!
 
-> [cjhf06@yahoo.com said:](/goto/post?id=130718)
+> [[email redacted] said:](/goto/post?id=130718)
 >
 > Wow, I sure appreciate you taking the time to compile info and very grateful to have this resource. Nice lead for "pay it forward".
 

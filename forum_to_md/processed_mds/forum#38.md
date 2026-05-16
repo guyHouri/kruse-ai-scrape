@@ -11473,7 +11473,7 @@ Make sure breakfast is big and full of fat and protein
 
 Thanks to everybody for this really good thread. It has helped me a lot
 
-### dennis.london@gmail.com — 2018-04-26T17:47:46+0300
+### [email redacted] — 2018-04-26T17:47:46+0300
 **Source:** <https://forum.jackkruse.com/threads/too-much-protein.12842/post-239973>
 
 Getting caught up on the posts and this one seems to jump out at me simply because I was always hungry in the beginning which had me wanting to snack as well. For me, having the BAB (Big Ass Breakfast) was the key to removing the snacks - which in turn pushed my Leptin reset into high gear. Starting my day with 3 eggs, 3 or 4 slices of bacon, and half an avocado was what held me, not just up to lunch, but well into the afternoon - sometimes until dinner. That typically relied on my daily activity level, of which I didn't (and still don't) get a ton of due to my job sitting at a computer all day. Once the snacking demon was removed I was well on my way to optimal. Just remember - it won't happen overnight and you will have to quiet that demon with something. What worked for me was drinking a big glass (12 to 16 oz) of water whenever I felt the need to snack. I believe Dr Kruse mentioned somewhere that our snacking urge could be tied to improper hydration...especially if you're in a high EMF area.
@@ -11485,7 +11485,7 @@ I know it seems fairly basic, but honestly, this is what worked best for me.
 
 Dennis, you need a human pic up ASAP. Forum rule.
 
-### dennis.london@gmail.com — 2018-04-27T17:59:29+0300
+### [email redacted] — 2018-04-27T17:59:29+0300
 **Source:** <https://forum.jackkruse.com/threads/too-much-protein.12842/post-240029>
 
 > [Jack Kruse said:](/goto/post?id=239976)
@@ -11502,7 +11502,7 @@ Thanks dennis. That’s great to know and you’re probably right. I have a life
 I did the BAB last year but stopped and when I met jack in Mexico he said I didn’t need to do that anymore as he didn’t think I was leptin resistant. But I do agree a good breakfast helps the cravings a lot. I’m a long way from 1 meal a day though. I get hungry by lunch still.
 I’ve had a few hormone issues so gonna get them checked out I think. That’s not helping the cravings.
 
-> [dennis.london@gmail.com said:](/goto/post?id=239973)
+> [[email redacted] said:](/goto/post?id=239973)
 >
 > Getting caught up on the posts and this one seems to jump out at me simply because I was always hungry in the beginning which had me wanting to snack as well. For me, having the BAB (Big Ass Breakfast) was the key to removing the snacks - which in turn pushed my Leptin reset into high gear. Starting my day with 3 eggs, 3 or 4 slices of bacon, and half an avocado was what held me, not just up to lunch, but well into the afternoon - sometimes until dinner. That typically relied on my daily activity level, of which I didn't (and still don't) get a ton of due to my job sitting at a computer all day. Once the snacking demon was removed I was well on my way to optimal. Just remember - it won't happen overnight and you will have to quiet that demon with something. What worked for me was drinking a big glass (12 to 16 oz) of water whenever I felt the need to snack. I believe Dr Kruse mentioned somewhere that our snacking urge could be tied to improper hydration...especially if you're in a high EMF area.
 >
@@ -11554,7 +11554,7 @@ Well the posts below suggest breakfast is super important but as you’ll see fr
 > Hi Emma
 > I may not be leptin resistant anymore either now. I am not overweight. So if you are going to do one meal a day, Its breakfast right? i do feel i don't sleep as well since i go to bed hungry. I'm a post menopausal woman. 54 Yrs. I think Jack is saying one meal a day. I am presuming its breakfast. Does anyone have any other suggestion
 
-### dennis.london@gmail.com — 2018-05-02T17:45:18+0300
+### [email redacted] — 2018-05-02T17:45:18+0300
 **Source:** <https://forum.jackkruse.com/threads/too-much-protein.12842/post-240356>
 
 > [Emma Sabin said:](/goto/post?id=240307)
@@ -11581,7 +11581,7 @@ The precise mechanism is discussed how we go from a normal metabolism to a redox
 ### Emma Sabin — 2018-05-08T19:23:41+0300
 **Source:** <https://forum.jackkruse.com/threads/too-much-protein.12842/post-240823>
 
-> [dennis.london@gmail.com said:](/goto/post?id=240356)
+> [[email redacted] said:](/goto/post?id=240356)
 >
 > Emma - by no means did I ever go to just one meal a day. Sorry if it came across that way. What I meant to convey was that by eating a BAB I was able to basically eliminate the snacking urges while getting my Leptin reset. I would still have a small lunch, typically something like a childs portion or a cobb salad (or whatever). Then dinner would be a nice steak or preferably some seafood. Of course we would try to eat earlier as you don't want to eat 4 hours prior to going to bed...so, if you typically go to bed at 10pm you'll want to be done eating by 6pm.
 
@@ -13721,7 +13721,7 @@ I recall JanSZ mentioning that he takes doses as high as 400mg DHEA and 900mg Pr
 >
 >
 > 1.  Bernd Nilius and Thomas Voets are in the Department of Molecular Cell Biology, Laboratory of Ion Channel Research, KU Leuven, Campus Gasthuisberg, Herestraat 49, bus 802, B-3000 Leuven, Belgium.
->     e-mail: [bernd.nilius@med.kuleuven.be](mailto:bernd.nilius@med.kuleuven.be)
+>     e-mail: [[email redacted]](mailto:[email redacted])
 >
 >
 > **Abstract**
@@ -32380,7 +32380,7 @@ The officials will never link the Germanwings pilot to the the real culprit. Non
 
 -   There are over ten commercial crashes and incidnts that are similar........and the military has a lot more. NASA major concern now is the psychological status of astronauts off this planet. The physics is clear.........Calcium efflux ruins seed germination and voltage gates working in neurons. The physics is clear if you look for it.
 
-### patgrif@hotmail.com — 2015-03-27T15:55:17+0200
+### [email redacted] — 2015-03-27T15:55:17+0200
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-159551>
 
 > [Jack Kruse said:](/goto/post?id=159530)
@@ -32399,7 +32399,7 @@ And a lot of these kids the go nuts don't have any real thing that separates the
 
 Another interesting aspect (to me at least) is if you really probe these stories I would say almost always there are on some kind of psycho-active drug. I mean of the 'legal kind' some 'anti-depressant' something to combat 'manic-depression' etc etc. I will closely watch this story about the pilot to see if there is some involvement of that. It is something the media typically studiously ignores after all it is very bad 'advertising' for Merck , Pziser or whoever that these guys are most often on one of their 'products'. To me it shows in microcosm the vast waste of resources etc in 'standard psychology'. I could imagine the syllogistic effects of psycho-active drugs with blue light, nnEMF and sleep disorders could be horrendous as this story is an example. Also most of these guys seem to act 'out of the blue' like nobody suspects until it happens that is quite unlike 9/11 which required years of planning.
 
-### patgrif@hotmail.com — 2015-03-27T15:57:26+0200
+### [email redacted] — 2015-03-27T15:57:26+0200
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-159553>
 
 Maybe off the topic a bit but this is 'funny'/'sad'
@@ -32407,7 +32407,7 @@ Maybe off the topic a bit but this is 'funny'/'sad'
 ### nonchalant — 2015-03-27T17:30:40+0200
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-159560>
 
-> [patgrif@hotmail.com said:](/goto/post?id=159551)
+> [[email redacted] said:](/goto/post?id=159551)
 >
 > I must admit I thought of something similar when I heard the Germanwings story. They will do a huge amount of probing of his 'psychology' and analyse that to death.............but at you say not much about the effects of being up so high etc. Of course that applies in different ways to a lot of these 'mass killers' stories. Like I read a book about the Columbine school shooters and at the time there was this whole thing about how bullied they were how un-popular they were etc...............this book claims that was not really true and implied the real factor was they were often literally up all night playing video games. Even then he focuses though more on the content of the games (violence of all kinds) but I thought following Dr K well maybe it was not the content so much as being up all night with all the blue light from the monitor.
 >
@@ -32417,12 +32417,12 @@ Maybe off the topic a bit but this is 'funny'/'sad'
 
 Acting 'out of the blue'. Indeed.
 
-### patgrif@hotmail.com — 2015-03-27T17:58:27+0200
+### [email redacted] — 2015-03-27T17:58:27+0200
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-159563>
 
 'out of the blue' and 'into the black'
 
-### patgrif@hotmail.com — 2015-03-27T18:47:53+0200
+### [email redacted] — 2015-03-27T18:47:53+0200
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-159567>
 
 > [Jack Kruse said:](/goto/post?id=159530)
@@ -32461,7 +32461,7 @@ Good source of amber lightbulbs....
 ### Da-mo — 2015-03-28T21:23:12+0200
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-159679>
 
-> [patgrif@hotmail.com said:](/goto/post?id=159551)
+> [[email redacted] said:](/goto/post?id=159551)
 >
 > I must admit I thought of something similar when I heard the Germanwings story. They will do a huge amount of probing of his 'psychology' and analyse that to death.............but at you say not much about the effects of being up so high etc. Of course that applies in different ways to a lot of these 'mass killers' stories. Like I read a book about the Columbine school shooters and at the time there was this whole thing about how bullied they were how un-popular they were etc...............this book claims that was not really true and implied the real factor was they were often literally up all night playing video games. Even then he focuses though more on the content of the games (violence of all kinds) but I thought following Dr K well maybe it was not the content so much as being up all night with all the blue light from the monitor.
 >
@@ -32471,7 +32471,7 @@ Good source of amber lightbulbs....
 
 I made a similar observation when last year my son attended the funeral of an old schoolmate who had taken his own life. As I found out, the young man was studying law at university all day and playing video games all night and hardly sleeping. It seemed his suicide was not a great surprise to those that knew him.
 
-### patgrif@hotmail.com — 2015-03-28T21:49:49+0200
+### [email redacted] — 2015-03-28T21:49:49+0200
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-159680>
 
 **"Numerous [psychiatric medications](http://m.welt.de/vermischtes/article138877866/Andreas-L-hatte-schwere-psychosomatische-Erkrankung.html) were reportedly found in Lubitz's (the co-pilot) apartment."**
@@ -32497,7 +32497,7 @@ It's catching on.
 
 [http://mobile.nytimes.com/2015/05/26/health/sids-risk-living-at-high-altitude.html?\_r=0&referrer=](http://mobile.nytimes.com/2015/05/26/health/sids-risk-living-at-high-altitude.html?_r=0&referrer=)
 
-### patgrif@hotmail.com — 2015-05-25T18:33:55+0300
+### [email redacted] — 2015-05-25T18:33:55+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165303>
 
 > [Lahelada said:](/goto/post?id=165302)
@@ -32519,7 +32519,7 @@ Dr. William Torch of the University of Nevada School of Medicine did a study of 
 
 Pat ,babies in Nepal are usually from Nepal. Sherpas live to a ripe old age due to a genetic mutation I believe . Not everyone has it . Does one vaccinate babies this early now ? No idea .
 
-### patgrif@hotmail.com — 2015-05-25T18:59:16+0300
+### [email redacted] — 2015-05-25T18:59:16+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165309>
 
 > [Lahelada said:](/goto/post?id=165306)
@@ -32530,7 +32530,7 @@ Lahelada: In the US it is shocking how early they vaccinate, my understanding is
 
 This is an interview with Jon Rappoport who to me is a very good writer and clear thinker. I am aware some of this starts to sound a bit 'conspiracy theory' but if you think about it the same has been done re the dangers on nnEMF (Andrew Marino "Going Somewhere"). I don't go for 'conspiracies' but at the same time what would you call the downplaying of the dangers of nnEMF. The SAME can be and I believe has been done re vaccines.
 
-### patgrif@hotmail.com — 2015-05-25T19:12:32+0300
+### [email redacted] — 2015-05-25T19:12:32+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165311>
 
 > [Lahelada said:](/goto/post?id=165306)
@@ -32547,7 +32547,7 @@ There is no genetic advantage. It is a fallacy of modern biologic dogma. There i
 
 Life is a kind of prison for us when we believe the wrong things. We are connected to the universe, but we experience this world disconnected from the whole. It is an optical delusion of our conscious perception allowing us to separate space from time. This prison is unique. We can constrict our life or we can broaden its walls via our perspective. Our perspective is our conscious optical delusion of how we control the flow of light in our brain and emit those frequencies back to others to sense. As you shine your light you become your own social media company to others to share or reject broadening of tightening the walls of your prison. Day and night is part of the game of life. Your mind is a key in this game, and whatever ideas it unlocks can lead to unlimited potential. Use your mind to eavesdrop on your thoughts. As it listens, you learn and gain wisdom. Optimal is found subtracting bad old ideas from new ones that you bio hack and find work to re connect you to nature. Life has limits but your mind has none if you allow it freedom to operate.
 
-### patgrif@hotmail.com — 2015-05-25T20:55:12+0300
+### [email redacted] — 2015-05-25T20:55:12+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165321>
 
 > [Jack Kruse said:](/goto/post?id=165312)
@@ -32562,7 +32562,7 @@ Dr Kruse: I wanted to thank you again for pointing the way with Van Wijk ("Light
 ### Lahelada — 2015-05-25T20:59:42+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165322>
 
-> [patgrif@hotmail.com said:](/goto/post?id=165309)
+> [[email redacted] said:](/goto/post?id=165309)
 >
 > Lahelada: In the US it is shocking how early they vaccinate, my understanding is they vacc. for Hepatitus B at one day old! A 'disease' you get from shooting drugs and prostitution (they say).............at least give the child time lol. You live in Argentina right? I don't know what they do there but how early and how often they vacc. in the US is frightening and shocking to me.
 
@@ -32588,7 +32588,7 @@ Vaccinations cause many "measurements" in our DNA and are subject to all of the 
 
 I guess the 15 feet or so I was up in the tree might have raised my dopamine levels...LOL
 
-### patgrif@hotmail.com — 2015-05-25T23:37:41+0300
+### [email redacted] — 2015-05-25T23:37:41+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165341>
 
 > [Lahelada said:](/goto/post?id=165322)
@@ -32678,7 +32678,7 @@ Eastern philosophy kinda relays this same sort of thought process, whereby there
 
 ....
 
-### patgrif@hotmail.com — 2015-05-26T02:48:44+0300
+### [email redacted] — 2015-05-26T02:48:44+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165350>
 
 > [Josh said:](/goto/post?id=165324)
@@ -32696,7 +32696,7 @@ And not to mention less 'exotic' effects like neuron death from mercury or a con
 ### Josh — 2015-05-26T02:58:04+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165352>
 
-> [patgrif@hotmail.com said:](/goto/post?id=165350)
+> [[email redacted] said:](/goto/post?id=165350)
 >
 > Yes Josh - but also maybe less exotic effects like mercury causing brain cells death or alumin
 >
@@ -32761,7 +32761,7 @@ electromagnetic effects are not "exotic", they are foundational....
 
 I will never be that good at math with my sticky gates and all....
 
-### patgrif@hotmail.com — 2015-05-26T03:36:44+0300
+### [email redacted] — 2015-05-26T03:36:44+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165360>
 
 > [Josh said:](/goto/post?id=165352)
@@ -32784,7 +32784,7 @@ That maybe so Josh, but this kind of 'quantum measurement' goes on all the time 
 ### Jack Kruse — 2015-05-26T03:40:25+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165362>
 
-> [patgrif@hotmail.com said:](/goto/post?id=165360)
+> [[email redacted] said:](/goto/post?id=165360)
 >
 > That maybe so Josh, but this kind of 'quantum measurement' goes on all the time with no great consequence. I don't think it is correct to equate something as 'benign' as that with wha tI see as a toxic assault on an infant's very undeveloped immune system and more than just the immune system. I am sure that also might occasion 'quantum measurement' or maybe a better word would be 'quantum chaos'
 
@@ -32795,7 +32795,7 @@ Pat what if I told you this is how all AI occurs?
 
 All autoimmune diseases are fundamentally disorders of ubiquitin marking. Why? Adaptation occurs in temporal sequences. Time is a function of light and mass interaction allowing us to conceive of evolution as carrying out adaptive walks toward peaks that represent how well proteins perform specific catalytic or ligand binding tasks. Evolution of proteins is what the immune system specializes in. What is time or temporal sequences a synonym for? = CIRCADIAN BIOLOGY
 
-### patgrif@hotmail.com — 2015-05-26T03:59:17+0300
+### [email redacted] — 2015-05-26T03:59:17+0300
 **Source:** <https://forum.jackkruse.com/threads/bio-hacking-altitude-ubiquination-one-is-live.12990/post-165366>
 
 > [Jack Kruse said:](/goto/post?id=165362)
@@ -34181,7 +34181,7 @@ All over the Earth there are natural vortex - areas with weird gravitational pul
 
 How would there areas affect us?
 
-### patgrif@hotmail.com — 2015-02-24T17:22:09+0200
+### [email redacted] — 2015-02-24T17:22:09+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156481>
 
 I must admit there is a lot about this whole SCN, gravity, effect of being tall, speed/bending of light etc etc.............that I'm not 'getting' but a thought then occurs. When we are laying down things are different, all that stuff is you might say 'out the window' for the moment............and if I think about it it is I suppose..............like it's hard to imagine sleeping while NOT laying down, that would not really be sleeping, or even when we lay down say on the grass outside or inside on a sofa or bed the 'quality' is kind of different. Like probably not the best for 'mental' work. So I accept there is a lot to this even if I can't really 'understand' it.
@@ -34198,7 +34198,7 @@ Pat is is simple......SCN needs DHA to run faster than the clocks in your liver 
 
 This is why you retina has higher DHA levels than your brain or tissues by design, the SCN has to run faster than your liver or pancreas clock.
 
-### patgrif@hotmail.com — 2015-02-24T21:35:42+0200
+### [email redacted] — 2015-02-24T21:35:42+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156493>
 
 Thanks Dr Kruse. I will and do take your word for it. It is interesting to me also the very things I have 'difficulty' in understanding are it seems the very areas I have a 'problem' with. Like my mind is throwing up 'objections' so I don't have to (be able to ) get well
@@ -34318,7 +34318,7 @@ My latest concern with coffee is the effect it has on adrenalin response.
 ### Da-mo — 2015-02-26T00:24:47+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156624>
 
-> [patgrif@hotmail.com said:](/goto/post?id=156493)
+> [[email redacted] said:](/goto/post?id=156493)
 >
 > Thanks Dr Kruse. I will and do take your word for it. It is interesting to me also the very things I have 'difficulty' in understanding are it seems the very areas I have a 'problem' with. Like my mind is throwing up 'objections' so I don't have to (be able to ) get well
 >
@@ -34383,7 +34383,7 @@ yep - no electricity, no wifi, no cell phone towers, high fat - low carb diet, n
 
 .
 
-### patgrif@hotmail.com — 2015-02-26T06:44:16+0200
+### [email redacted] — 2015-02-26T06:44:16+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156671>
 
 > [Jack Kruse said:](/goto/post?id=156495)
@@ -34399,7 +34399,7 @@ I know this has implication for T2D (my problem) so is the organ clock of the pa
 ### yewwei.tan — 2015-02-26T08:29:21+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156679>
 
-> [patgrif@hotmail.com said:](/goto/post?id=156671)
+> [[email redacted] said:](/goto/post?id=156671)
 >
 > Yes indeed...........I just read that again and I remembered that a bit. BUT I will admit I am quite mystified by this thing of 'organ clocks' running too fast etc. I mean I just read an article in Scientific American that explained 'clock genes' quite well it made sense that say a bacterium is 'programmed' by genes to be in a certain state during daytime and another state in nighttime to take advantage from an energy standpoint to the different environment(s).
 >
@@ -34550,7 +34550,7 @@ Does the gyromagnetic ratio of N matter?
 
 to stick an O2 on iron?
 
-### patgrif@hotmail.com — 2015-02-26T21:34:09+0200
+### [email redacted] — 2015-02-26T21:34:09+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156741>
 
 > [yewwei.tan said:](/goto/post?id=156679)
@@ -34619,7 +34619,7 @@ So now I am getting it a bit the SCN is primary it is BEFORE the pancreas 'clock
 
 Thanks to every one for bearing with me. Maybe my 'job' here is to ask the 'stupid question'. BTW this morning I was thinking in terms of 'psychology' and say an infant with it's mother. Food is VERY important but it is not the ONLY thing..............there are things 'MORE' important for one thing in the womb there was no 'food' in the accepted sense of that word, after being born food becomes an issue of course...........but there are other things the sense of night and day, heat and cold, the mother's presence (or absence) the light in the environment and the light in the mother's eyes .................so many things. And I know it's just a 'conceit' but I thought this thing of making food the most important thing is like a limitation in thinking. It's like saying none of these things are so important only food is important. The 'paleo leaders' are in a way repeating that kind of history. Maybe a world so poor that the only thing is food..................anyway I am not explaining well but it made sense at the time!
 
-### patgrif@hotmail.com — 2015-02-26T21:42:32+0200
+### [email redacted] — 2015-02-26T21:42:32+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156743>
 
 Next question HOW do I make my SCN run 'faster' actually ahead or at least I prefer that word................I'm thinking have plenty DHA in the eyes to pick up the sunshine, actually go in the sunshine, do everything to 'sense/feel' the environment, heat, cold all the rest of it. See one reason I was confused also is I'm thinking the SCN CANNOT run faster/ahead of the pancreas say because it is getting it's 'information' FROM the pancreas, how could it possibly be ahead of it. I pictured the SCN ONLY getting information from the 'inside' all the organs like the liver, pancreas etc. What I was forgetting was the 'outside' so if the SCN is receiving all the outside information properly and efficiently it then relays that information to the pancreas etc it is then 'ahead'. I pictured it getting ONLY information from the 'inside'....................another limitation in thinking that I have just realized. This is one of the things I love about this place, I feel I am literally clearing up my 'thinking' and even 'feeling' too........................
@@ -34639,7 +34639,7 @@ And that rule I should call the Patrick rule..........because I been telling tha
 
 Now I think you may see why...........
 
-### patgrif@hotmail.com — 2015-02-27T03:10:01+0200
+### [email redacted] — 2015-02-27T03:10:01+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156766>
 
 > [Jack Kruse said:](/goto/post?id=156750)
@@ -34664,7 +34664,7 @@ And I STILL don't get what the 'rule' is......................OMG sometimes I fe
 It is in the blog!!!!!
 New Rule: No human being itself should be considered impaired innately, instead there are environmental short comings that cause the impairment. Thus, it is incumbent on the on the clinician to recommend treatment of the environment their patient is in. People react to an inferior environment, way before their genome is altered.
 
-### patgrif@hotmail.com — 2015-02-27T04:24:23+0200
+### [email redacted] — 2015-02-27T04:24:23+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156772>
 
 > [Jack Kruse said:](/goto/post?id=156767)
@@ -34695,7 +34695,7 @@ Should the gut clock (thinking "second brain") also run faster than the organ cl
 ### nonchalant — 2015-02-28T18:51:35+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-2-is-now-live.13031/post-156889>
 
-> [patgrif@hotmail.com said:](/goto/post?id=156772)
+> [[email redacted] said:](/goto/post?id=156772)
 >
 > OK OK..............I see what you are saying now that it is not 'me' that is impaired it's my environment (LA). Well it would be nice to blame it all on LA and it does seem to be a factor but I would say I have had some deep rooted problems long before LA but I would agree LA did not help also. And NOT only in the nnEMF arena other arenas too.....................but it would take too long to go into now......................
 
@@ -34775,7 +34775,7 @@ We mistakenly think that touch occurs on the periphery of our self, a skin thing
 
 I can personally attest to this.
 
-### patgrif@hotmail.com — 2015-02-24T21:44:43+0200
+### [email redacted] — 2015-02-24T21:44:43+0200
 **Source:** <https://forum.jackkruse.com/threads/great-article-on-importance-of-touch.13045/post-156494>
 
 Hope, that is a very interesting article, I was kind of speculating too how food could become a substitute for touch. Like the way Dr K talks about food as something that 'un-condenses' the body, things 'swell' as proteins are un-condensed and then this swelling causes pizo-electric currents to flow (Hope I am right about this!) result is we are getting a kind of 'internal massage' but if this was supplied by the environment by actual touch the need for 'internal touching' might be less. Could it be that the 'touching starvation' we are trying to make up with 'internal touching' through food. This might be an interesting idea in terms of food addiction or whatever. I count myself as someone who was/is 'addicted' to food and is in part occasioned I now think by 'touching starvation'. I think also that is why when Dr K says food is not primordial it is putting us into the right track if we believe it is we keep doing the same thing looking for a different result and not finding.................
@@ -34785,7 +34785,7 @@ Anyway that aside I really liked that article. Thanks Hope.
 ### Hope — 2015-02-25T00:01:09+0200
 **Source:** <https://forum.jackkruse.com/threads/great-article-on-importance-of-touch.13045/post-156504>
 
-> [patgrif@hotmail.com said:](/goto/post?id=156494)
+> [[email redacted] said:](/goto/post?id=156494)
 >
 > Hope, that is a very interesting article, I was kind of speculating too how food could become a substitute for touch. Like the way Dr K talks about food as something that 'un-condenses' the body, things 'swell' as proteins are un-condensed and then this swelling causes pizo-electric currents to flow (Hope I am right about this!) result is we are getting a kind of 'internal massage' but if this was supplied by the environment by actual touch the need for 'internal touching' might be less. Could it be that the 'touching starvation' we are trying to make up with 'internal touching' through food. This might be an interesting idea in terms of food addiction or whatever. I count myself as someone who was/is 'addicted' to food and is in part occasioned I now think by 'touching starvation'. I think also that is why when Dr K says food is not primordial it is putting us into the right track if we believe it is we keep doing the same thing looking for a different result and not finding.................
 >
@@ -34795,7 +34795,7 @@ That's great, PatGrif!! I have always loved physical touch - even holding hands 
 
 I'm not sure there is a substitute for touch........even food or vice versa! Though I will say, my desire for food has gone down in recent years, and my desire for touch has gone up. Wonder if there is a connection?
 
-### patgrif@hotmail.com — 2015-02-25T01:02:55+0200
+### [email redacted] — 2015-02-25T01:02:55+0200
 **Source:** <https://forum.jackkruse.com/threads/great-article-on-importance-of-touch.13045/post-156516>
 
 Yes Hope I would agree there is no 'real' substitute but substitutes are by definition you might say not that real. Sometimes I think of 'healing' as getting under our substitutes to what is real at least as best we can. Anyway enough rambling from me I love this song "Substitute" by The Who
@@ -35220,7 +35220,7 @@ Money should never get in the way of good health but for some reason we think mo
 Poor health decreases your ability and the amount of lifetime you have to make money in the first place. There is no better investment than your health.
 It's unfortunate that the only time we realize that is when we have been sick for a very very long time.
 
-### patgrif@hotmail.com — 2015-03-02T01:34:54+0200
+### [email redacted] — 2015-03-02T01:34:54+0200
 **Source:** <https://forum.jackkruse.com/threads/jaimes-journal.13049/post-157095>
 
 > [Mike Collins said:](/goto/post?id=157054)
@@ -35236,10 +35236,10 @@ Mike I just happened to read this in to-day's NY Times it's all about 'serotonin
 
 I was waiting for someone to apply a new idea.........way to go Pat.
 
-### patgrif@hotmail.com — 2015-03-02T02:24:26+0200
+### [email redacted] — 2015-03-02T02:24:26+0200
 **Source:** <https://forum.jackkruse.com/threads/jaimes-journal.13049/post-157101>
 
-> [patgrif@hotmail.com said:](/goto/post?id=157095)
+> [[email redacted] said:](/goto/post?id=157095)
 >
 > Mike I just happened to read this in to-day's NY Times it's all about 'serotonin' and SSRI's etc. A very well written article I thought.............also just thinking of what Dr K wrote in Ub4 there is a very strong tie between serotonin and melatonin and ubiquination and auto-phagy and............and...............and.............
 
@@ -35257,7 +35257,7 @@ I agree........when cycles uncouple things become very complex and this is why, 
 ### Cpt.Tired — 2015-03-02T03:10:43+0200
 **Source:** <https://forum.jackkruse.com/threads/jaimes-journal.13049/post-157108>
 
-> [patgrif@hotmail.com said:](/goto/post?id=157101)
+> [[email redacted] said:](/goto/post?id=157101)
 >
 > Mike, I am sorry I forgot to actually post the article
 >
@@ -35595,7 +35595,7 @@ Because arsenic is excreted predominantly by glomerular filtration, analysis for
 
 seafood in diet regularly may be confounding results
 
-### patgrif@hotmail.com — 2015-03-16T05:10:53+0200
+### [email redacted] — 2015-03-16T05:10:53+0200
 **Source:** <https://forum.jackkruse.com/threads/jaimes-journal.13049/post-158626>
 
 > [Josh (Paleo Osteo) said:](/goto/post?id=158616)
@@ -37456,7 +37456,7 @@ IF gets us to Autophagy and to SuperOxide burst
 
 Why is nothing also sensible? What did CRON data in 1930 show? It worked. Why did I fight with Rosedale 4 yrs ago about CRON in primates and said it wont work any more? Is the Earth today representative of 1930? NOPE
 
-### patgrif@hotmail.com — 2015-02-27T04:11:33+0200
+### [email redacted] — 2015-02-27T04:11:33+0200
 **Source:** <https://forum.jackkruse.com/threads/why-paleo-has-a-deep-problem-ubiquitin-3-is-live.13075/post-156771>
 
 I just read Ub 3..........................I found the idea of water as a 'de-coherent lens' fascinating it's like 'life' is what enables perception of 'reality' but at a cost of obscuring also it in the process. The quantum processes are 'masked' by water but at the same time water (life) is what enables anything (us) to 'perceive' these quantum processes. So it's like there is a gain and there is a loss too. That's life I suppose. I hope this is not getting too 'philosophical' but I find that so interesting like water is a 'cataract' on reality but at the same time enables there to be a reality. (Thinking out loud)
@@ -37472,7 +37472,7 @@ I 'understand' a bit more why I had such a hard time getting this notion of the 
 
 the answer to the last one was in the blog too.....ubiquitin is ubiquitous in eukaryotes.......you even asked this during the Q & A.
 
-### patgrif@hotmail.com — 2015-02-27T05:30:10+0200
+### [email redacted] — 2015-02-27T05:30:10+0200
 **Source:** <https://forum.jackkruse.com/threads/why-paleo-has-a-deep-problem-ubiquitin-3-is-live.13075/post-156777>
 
 > [Jack Kruse said:](/goto/post?id=156775)
@@ -37483,7 +37483,7 @@ Hmmm.................I guess even 'wild' animals could have a problem in that th
 
 Ubiquitin is ubiquitous in that it is in all animals that I get. But what I am wondering is all animals have an SCN..................I presume the answer is 'yes' but it is correct to think that humans have a more 'sensitive' SCN in that their brains are so much more powerful, is it true then that we are more prone to 'damage' from 'timing problems' of all kinds in that we rely on it even more and it is a bigger factor with us. But I presume all life can have this problem too........................
 
-### patgrif@hotmail.com — 2015-02-27T05:39:59+0200
+### [email redacted] — 2015-02-27T05:39:59+0200
 **Source:** <https://forum.jackkruse.com/threads/why-paleo-has-a-deep-problem-ubiquitin-3-is-live.13075/post-156778>
 
 Then I remember the whole 'bi-pedalism' thing. Is our SCN more vulnerable to 'mis-timing' because of this? I presume the answer is 'yes' so again it's our greatest glory but also a vulnerability and I suppose more than in animals. I remember Dr K someplace saying the really 'human specific' things like the neo-cortex and a very evolved immune system would be the first to suffer from the conditions of modern life so again I suppose 'last in............' 'first out'
@@ -37495,7 +37495,7 @@ The more complex the animal the more sensitive they are to mis signaling.
 
 All animals have a central Circadian clock.
 
-### patgrif@hotmail.com — 2015-02-27T06:03:50+0200
+### [email redacted] — 2015-02-27T06:03:50+0200
 **Source:** <https://forum.jackkruse.com/threads/why-paleo-has-a-deep-problem-ubiquitin-3-is-live.13075/post-156780>
 
 > [Jack Kruse said:](/goto/post?id=156779)
@@ -37781,7 +37781,7 @@ Check out the "biohacks" in this....there is a lot of over-exhuberant spiritual 
 ### Stella — 2015-02-27T19:14:39+0200
 **Source:** <https://forum.jackkruse.com/threads/bought-a-very-important-movie.13097/post-156817>
 
-[http://boughtmovie.net/free-viewing/thank-you.php?AFFID=195137&email=alans8@prodigy.net](http://boughtmovie.net/free-viewing/thank-you.php?AFFID=195137&email=alans8@prodigy.net%C2%A0) 
+[http://boughtmovie.net/free-viewing/thank-you.php?AFFID=195137&email=[email redacted]](http://boughtmovie.net/free-viewing/thank-you.php?AFFID=195137&email=[email redacted]%C2%A0) 
 
 I'm posting the link to the movie "Bought." You can view it free for the next week. I urge everyone to watch it and pass it on. Then do as your conscience dictates.
 
@@ -37799,7 +37799,7 @@ Thanks for sharing!
 
 Loved the Gardasil trial where they said it had the same safety as the placebo - Gardasil has lots of aluminum but get this - the people taking the "placebo" were actually ingesting aluminum... insane.
 
-### patgrif@hotmail.com — 2015-02-28T03:04:12+0200
+### [email redacted] — 2015-02-28T03:04:12+0200
 **Source:** <https://forum.jackkruse.com/threads/bought-a-very-important-movie.13097/post-156846>
 
 Thanks for that movie Stella. Personally I am not at all convinced vaccines are safe or even necessary. I heard this woman Janine Roberts interviewed on KPFK and was impressed by her and ordered her book called "Fear of the Invisible" about viruses and vaccines. I am looking forward to reading it, in this video I don't think she comes across so well but the message is important..................and my take is vaccines are a huge and mostly un-necessary and dangerous 'industry' by now. Scary.
@@ -37842,7 +37842,7 @@ The US Gov creates viruses & super bugs as weapons. Lyme is a classic example of
 
 Yes and the point is? I have been on both sides because I like most people still do not know how it works in medical physics and would prefer to grasp the mechanisms rather than the politics. ...
 
-### patgrif@hotmail.com — 2015-02-28T11:45:03+0200
+### [email redacted] — 2015-02-28T11:45:03+0200
 **Source:** <https://forum.jackkruse.com/threads/bought-a-very-important-movie.13097/post-156868>
 
 > [Jack Kruse said:](/goto/post?id=156850)
@@ -37851,7 +37851,7 @@ Yes and the point is? I have been on both sides because I like most people still
 
 BRING IT ON!!!......................LOL!!...............
 
-### patgrif@hotmail.com — 2015-02-28T12:02:46+0200
+### [email redacted] — 2015-02-28T12:02:46+0200
 **Source:** <https://forum.jackkruse.com/threads/bought-a-very-important-movie.13097/post-156869>
 
 > [Josh said:](/goto/post?id=156852)
@@ -37864,7 +37864,7 @@ I mean the sheer AMOUNT of them it's just crazy and the TIME at which the childr
 
 I am wondering now what Dr K is suggesting maybe that with proper Ubiquination we can sort of survive anything? Maybe so and hopefully true I mean it does strike me sometimes it's kind of amazing any of us are alive when you read about all the poisons and foreign chemicals we are exposed to. But we ARE.................alive so there is 'evidence' there but at the same time Mother Nature has limits and does break down and give in too. Especially it's a strong and sore point with me with very young and vulnerable children. They should NOT be used as 'guinea pigs' for the like of Merck, Monsanto and Psizer. Even the process of injecting them with those needles................as a child I was 'afraid' of that and I think with good reason. Aside from the pain isn't it different to be 'exposed' to a virus in the natural way to having it injected into you like that. That is another issue....................there are lots of issues............
 
-### patgrif@hotmail.com — 2015-02-28T13:06:55+0200
+### [email redacted] — 2015-02-28T13:06:55+0200
 **Source:** <https://forum.jackkruse.com/threads/bought-a-very-important-movie.13097/post-156872>
 
 The only virus I was 'scared' of as a child was polio. I remember seeing some children with those 'iron traps' they were in. But just reading here apparently only 1 in 100 of people who contract polio get's ill (how different is that to vaccines) and MOST children establish 'natural immunity'. Here is something about it...............
@@ -37874,7 +37874,7 @@ _"The key is the unexpected etiology of polio. The virus is orally communicated,
 ### Josh — 2015-02-28T18:03:17+0200
 **Source:** <https://forum.jackkruse.com/threads/bought-a-very-important-movie.13097/post-156882>
 
-> [patgrif@hotmail.com said:](/goto/post?id=156872)
+> [[email redacted] said:](/goto/post?id=156872)
 >
 > The only virus I was 'scared' of as a child was polio. I remember seeing some children with those 'iron traps' they were in. But just reading here apparently only 1 in 100 of people who contract polio get's ill (how different is that to vaccines) and MOST children establish 'natural immunity'. Here is something about it...............
 >
@@ -37885,7 +37885,7 @@ My wife had polio at age 4....she still has PTSD around being "enclosed". They b
 ### Josh — 2015-02-28T18:05:26+0200
 **Source:** <https://forum.jackkruse.com/threads/bought-a-very-important-movie.13097/post-156883>
 
-> [patgrif@hotmail.com said:](/goto/post?id=156869)
+> [[email redacted] said:](/goto/post?id=156869)
 >
 > Josh, I know little enough about this area but I find myself interested and after I read this "Fear of the Invisible" I may take you up on the book you recommended. But instinctively I feel the like of Bill Gates etc are on the wrong track with this whole business of 'wiping out' viruses. It's a very militaristic mind set and probably doomed to fail. I read about some country Thailand maybe where they were trying to do this and the mayhem it causes is beyond description. Like the mayhem all the vaccines being 'tested' on very young and fragile children in this country I think it's a disgrace and very 'profit driven'
 >
@@ -37895,7 +37895,7 @@ My wife had polio at age 4....she still has PTSD around being "enclosed". They b
 
 Vaccines are no substitute for obeying the laws of this universe, depends upon how comfortable we are with being uncomfortable and the periodic culling of the herd...that is what pox viruses seem to have done historically in the populations of many organisms on this planet.
 
-### patgrif@hotmail.com — 2015-02-28T22:37:47+0200
+### [email redacted] — 2015-02-28T22:37:47+0200
 **Source:** <https://forum.jackkruse.com/threads/bought-a-very-important-movie.13097/post-156925>
 
 > [Josh said:](/goto/post?id=156882)
@@ -38092,7 +38092,7 @@ welcome and post a pic.
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### patgrif@hotmail.com — 2015-02-28T23:13:16+0200
+### [email redacted] — 2015-02-28T23:13:16+0200
 **Source:** <https://forum.jackkruse.com/threads/better-late-than-never-hello-group.13110/post-156928>
 
 > [Hans said:](/goto/post?id=156911)
@@ -39134,7 +39134,7 @@ From NZ...
 
 [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4073141/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4073141/)
 
-### patgrif@hotmail.com — 2015-03-02T01:01:51+0200
+### [email redacted] — 2015-03-02T01:01:51+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-4-is-now-live.13116/post-157086>
 
 Just 'read' Ub4 'read' means must re-read. A few impressions...............I had not considered how we can have too much 'ubiquination' I had thought of it as a matter of how do we crank up Ub which for those of us 'old' I suppose that is important. But it seems in earlier life at least the way it is lived now may involve excess Ub. This is a tricky balance obviously wholesale breaking down of proteins is not good either just as the inability to do so is also not good. It seems the combination of nnEMF, vaccines, pesticides etc etc may be setting up young people for this problem. I have become more convinced recently that the severe excess of vaccines on children is very likely a real problem. I know of a few kids who suffer from Asberger's etc and it is heart breaking. Also whenever there is UNIFORM agreement or almost uniform in the media (NPR, cable news, regular news, PBS even some 'leftie' stations) as there is about vaccines (Just take your damn shots!!) usually it means it is quite WRONG!! At least that's the way it seems to me
@@ -39195,7 +39195,7 @@ chemo is a 14 Billion Dollar cash cow. Chemo drugs are the only drugs dispensed 
 
 A cure for cancer was find in the late 1970s but the US Gov intentionally kept it a secret - no money in it.
 
-### patgrif@hotmail.com — 2015-03-02T03:41:20+0200
+### [email redacted] — 2015-03-02T03:41:20+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-4-is-now-live.13116/post-157110>
 
 > [BTA said:](/goto/post?id=157104)
@@ -39359,7 +39359,7 @@ quantum brain blog............
 ### Jude — 2015-03-02T06:46:25+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-4-is-now-live.13116/post-157136>
 
-> [patgrif@hotmail.com said:](/goto/post?id=157086)
+> [[email redacted] said:](/goto/post?id=157086)
 >
 > Just 'read' Ub4 'read' means must re-read. A few impressions...............I had not considered how we can have too much 'ubiquination' I had thought of it as a matter of how do we crank up Ub which for those of us 'old' I suppose that is important. But it seems in earlier life at least the way it is lived now may involve excess Ub. This is a tricky balance obviously wholesale breaking down of proteins is not good either just as the inability to do so is also not good. It seems the combination of nnEMF, vaccines, pesticides etc etc may be setting up young people for this problem. I have become more convinced recently that the severe excess of vaccines on children is very likely a real problem. I know of a few kids who suffer from Asberger's etc and it is heart breaking. Also whenever there is UNIFORM agreement or almost uniform in the media (NPR, cable news, regular news, PBS even some 'leftie' stations) as there is about vaccines (Just take your damn shots!!) usually it means it is quite WRONG!! At least that's the way it seems to me
 >
@@ -39428,7 +39428,7 @@ yep..........im excited now........
 ### BTA — 2015-03-02T18:41:46+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-4-is-now-live.13116/post-157170>
 
-> [patgrif@hotmail.com said:](/goto/post?id=157110)
+> [[email redacted] said:](/goto/post?id=157110)
 >
 > BTA, let me be completely honest I know nothing about Laetrile though I did hear 'rumors' about it during I think the 1980's. But I guess my question is in principle knowing all we do now (here especially) about all the 'systems' in the body, how tightly it is all 'coupled' (word of the day!) how there are huge and broad forces at play how could one 'compound' like that (whatever it is) be a cure or a preventer of cancer. I mean 'in principle' like it does not matter what the compound is or might be.
 >
@@ -39544,7 +39544,7 @@ So we all know 1% controls all the money in our country. I don't know who they a
 The 1% goal is everyone on planet earth to be microchipped. This is why emf will never be talked about. They have something going on that I really can't speak out about or I won't be able to speak any longer. Money has become power. Only 1% has this power. Now what's on the back of your dollar bill, a pyramid, and what's at the top? I just told you.....
 (Actually look at a dollar before replying)
 
-### patgrif@hotmail.com — 2015-03-02T20:39:07+0200
+### [email redacted] — 2015-03-02T20:39:07+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-4-is-now-live.13116/post-157188>
 
 > [BTA said:](/goto/post?id=157170)
@@ -39921,7 +39921,7 @@ Or I could be wrong...
 
 They do not understand context either....I have watched them come and go with health problems on both ends...depends on their choices and N=1.
 
-### patgrif@hotmail.com — 2015-03-03T02:07:30+0200
+### [email redacted] — 2015-03-03T02:07:30+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-4-is-now-live.13116/post-157219>
 
 > [Jack Kruse said:](/goto/post?id=157212)
@@ -40004,7 +40004,7 @@ For the old people here: this post describes Souldanzer...........and now you kn
 ### Jack Kruse — 2015-03-03T02:15:36+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-4-is-now-live.13116/post-157221>
 
-> [patgrif@hotmail.com said:](/goto/post?id=157219)
+> [[email redacted] said:](/goto/post?id=157219)
 >
 > Wow can't wait................hopefully 'riff raff' are allowed in. Not only myself I know quite a few riff raff.............
 
@@ -40050,7 +40050,7 @@ I might take a drive...
 
 Thank you Kristi ! Appreciate it! Would love to see him speak, but I'm in TO. Too far away for me.
 
-### patgrif@hotmail.com — 2015-03-03T03:01:42+0200
+### [email redacted] — 2015-03-03T03:01:42+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-4-is-now-live.13116/post-157228>
 
 > [Jack Kruse said:](/goto/post?id=157221)
@@ -40283,15 +40283,15 @@ Watch actions not words.
 
 Must have been something in the water in NOLA around Gravier St, in the early 90's...
 
-### patgrif@hotmail.com — 2015-03-03T16:59:53+0200
+### [email redacted] — 2015-03-03T16:59:53+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-4-is-now-live.13116/post-157298>
 
 It's called building an empire, not fighting for freedom. What's bullshit is all this fighting for freedom and we sit here giving up our freedoms left and right. Government bans, restrictions, tax increases. We're not as free as we think we are. Who created the modern microwave world? Ask yourself this?\[/quote\]
 
-### patgrif@hotmail.com — 2015-03-03T17:01:26+0200
+### [email redacted] — 2015-03-03T17:01:26+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-4-is-now-live.13116/post-157299>
 
-> [patgrif@hotmail.com said:](/goto/post?id=157298)
+> [[email redacted] said:](/goto/post?id=157298)
 >
 >
 >
@@ -40742,7 +40742,7 @@ Hi Guys- Know anything about EMF exposure in Tesla/electric cars? I am thinking 
 
 It will kill you faster than cancer.
 
-### patgrif@hotmail.com — 2015-03-03T00:35:31+0200
+### [email redacted] — 2015-03-03T00:35:31+0200
 **Source:** <https://forum.jackkruse.com/threads/tesla-vehicles.13131/post-157209>
 
 I heard on the radio today about some new Samsung cell phone and they were touting the fact it can be charged without being plugged in. It's amazing what a lure 'convenience' is just that slight bit of convenience is enough to win people over, forget ( though they don't know) about their health. And this stuff is increasing in so many areas like WTF is wrong with plugging it in to charge it...............
@@ -40794,7 +40794,7 @@ Tesla is no good. See link below.
 ### RobH — 2015-07-14T18:05:19+0300
 **Source:** <https://forum.jackkruse.com/threads/tesla-vehicles.13131/post-171941>
 
-> [patgrif@hotmail.com said:](/goto/post?id=157209)
+> [[email redacted] said:](/goto/post?id=157209)
 >
 > I heard on the radio today about some new Samsung cell phone and they were touting the fact it can be charged without being plugged in. It's amazing what a lure 'convenience' is just that slight bit of convenience is enough to win people over, forget ( though they don't know) about their health. And this stuff is increasing in so many areas like WTF is wrong with plugging it in to charge it...............
 
@@ -40997,7 +40997,7 @@ My friend is about to go on the medication called "Stribild". I don't know what 
 
 Mel
 
-### patgrif@hotmail.com — 2015-03-03T17:17:43+0200
+### [email redacted] — 2015-03-03T17:17:43+0200
 **Source:** <https://forum.jackkruse.com/threads/hiv.13147/post-157301>
 
 Melanie, I am purely speaking for myself here and quite aware it would probably paint me as some kind of 'quack' / 'weirdo'. (I am not a doctor so just 'weirdo' is fine!) BUT I think the whole HIV theory is WRONG and a big MISTAKE. I emphasize I am not speaking in any way on behalf of Dr Kruse and I know you didn't ask me but.................I think it is a tragedy and a shame the damage this 'theory' has caused. Rather than go on any more about it I would refer you/your friend to 2 people who are definitely not 'quacks/weirdos' Peter Duesberg whose book "Inventing Aids" convinced me totally that the HIV virus hunters were onto the wrong target and here is a video featuring Kary Mullis a Nobel Prize Winner in Biology for his invention of the PCR technique. The videos is also quite 'entertaining' at least I thought so.
@@ -41006,7 +41006,7 @@ Let me be clear also I have no 'dog in this fight' I am not gay and never tested
 
 Please if you have time try to watch this video and keep in mind this guy Kary Mullis IS a Nobel Prize Winner....................not just some dunce with a 'chip on his shoulder'
 
-### patgrif@hotmail.com — 2015-03-03T17:39:02+0200
+### [email redacted] — 2015-03-03T17:39:02+0200
 **Source:** <https://forum.jackkruse.com/threads/hiv.13147/post-157304>
 
 Is it only me................but some of the stuff Kary Mullis says and the way he says it reminds me of Dr Kruse just a little bit.................
@@ -41014,13 +41014,13 @@ Is it only me................but some of the stuff Kary Mullis says and the way 
 ### Melanie Procter — 2015-03-04T00:50:19+0200
 **Source:** <https://forum.jackkruse.com/threads/hiv.13147/post-157362>
 
-> [patgrif@hotmail.com said:](/goto/post?id=157304)
+> [[email redacted] said:](/goto/post?id=157304)
 >
 > Is it only me................but some of the stuff Kary Mullis says and the way he says it reminds me of Dr Kruse just a little bit.................
 
 I thank you for your help. I will pass it onto my friend.
 
-### patgrif@hotmail.com — 2015-03-04T03:46:37+0200
+### [email redacted] — 2015-03-04T03:46:37+0200
 **Source:** <https://forum.jackkruse.com/threads/hiv.13147/post-157374>
 
 > [Melanie Procter said:](/goto/post?id=157362)
@@ -41056,14 +41056,14 @@ I was wondering if Jack has ever written on HIV that you can remember? I don't k
 
 HIV makes its appearance.............
 
-### patgrif@hotmail.com — 2015-03-21T21:20:08+0200
+### [email redacted] — 2015-03-21T21:20:08+0200
 **Source:** <https://forum.jackkruse.com/threads/hiv.13147/post-159142>
 
 I have been talking about "Fear of the Invisible" about viruses and vaccines I have now read the follow up book "The Vaccine Papers" and it recalls to me sort of like Becker's book "The Body Electric" and the follow up by Andrew Marino more the 'practical' consequences. The 'Fear' book is more the science the 'Papers' book more the nitty gritty of legal stuff practical consequences, harm etc.
 
 I don't know really what Dr Kruse's attitude is to vaccines..................but I suppose in the atmosphere we live in now even showing doubt about the 'wisdom' of all these vaccinations is enough for some people to discredit you or try to. I heard about a guy on the radio who speculated the the Apple watch might cause cancer...........and on NPR they are mocking him like crazy, saying he goes along with Dr Mercola who is some 'quack' who dis-agrees about the wisdom of vaccinations. I have noticed this recently the seeming absolute unanimity about vaccines "just take your damn shots" but based on these books my guess is now autism, aspergers etc are quite likely at least as much if not more a function of vaccines than pretty much anything else. Throw in of course lack of breast-feeding, pesticides, nano-particles nnEMF's etc and you have a toxic stew for our children. But I think vaccines is a BIG one......................
 
-### patgrif@hotmail.com — 2015-03-21T23:06:17+0200
+### [email redacted] — 2015-03-21T23:06:17+0200
 **Source:** <https://forum.jackkruse.com/threads/hiv.13147/post-159148>
 
 This is quite a good documentary on autism and the possible reasons. One thing stood out for me pregnant women are encouraged to get the flu shot....................oops big mistake I am afraid so it even starts before the child is born. The woman will have a immune reaction to the flu shot not to mention the mercury, aluminum or whatever else is there..............bod news for the baby I'm afraid.................
@@ -41255,7 +41255,7 @@ A rare, freak storm/cloud caused snow fall in Huntington Beach, CA. Since I miss
 
 I know someone who has worked at the largest marine mammal rehab in CA for 15 years. She is a supervisor and is freaking out over the stats. It is going to be a brutal pupping season.
 
-### patgrif@hotmail.com — 2015-03-03T19:32:53+0200
+### [email redacted] — 2015-03-03T19:32:53+0200
 **Source:** <https://forum.jackkruse.com/threads/unique-and-rare-ct-today.13152/post-157321>
 
 I saw one in Santa Monica just lying there I thought it was dead but then it blinked it's eyes. Very sad apparently they are starving something to do with the water being warmer and the fish they feed on have moved to colder waters. Also and I don't know how 'valid' this is but a few years ago at Venice Beach there was a lot of stingray type fish (I got bitten twice)...................now nothing. And the pelicans were diving enthusiastically for fish now much less. This is just in a period of 3 years as I say it is only what I notice for myself and I have nothing in the way of stats or whatever to back it up. But it feels bad like the oceans really are dying..................
@@ -41953,7 +41953,7 @@ please also obtain a proper VAP lipid test such as the LipoScan through imupro s
 **
 [http://jackkruse.com/ubiquination-5-the-sea-within-epigenetic-control/](http://jackkruse.com/ubiquination-5-the-sea-within-epigenetic-control/)
 
-### patgrif@hotmail.com — 2015-03-04T17:21:48+0200
+### [email redacted] — 2015-03-04T17:21:48+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-5-is-now-live-archimedes-meets-ubiquitin.13162/post-157424>
 
 I will ask this question because I am confused...............I could probably figure it out if I tried really hard and read up on a lot of things but I have a feeling others may be confused also about this so maybe in the spirit of 'public service' I ask it too. Quote from Ub5:
@@ -41966,7 +41966,7 @@ Another 'stupid' question. How about the difference between AC and DC current? T
 
 I am 'wading through' (more sea imagery) these last blogs AND the webinar. It is a fascinating idea how important 'flotation' is how floating reduces mass.............I had never even thought of that but it makes sense. Then more 'work' can be done with less effort easier to push or move something with lessor mass. The idea of 'trans-generational epi-genetics' is fascinating it's like in the womb is where the 'environment' is total and is impacting the fetus in a very 'strong' way more strongly than it will ever be again. SO 'strongly' that people thought a lot of things to be 'genetic' but are actually 'epi-genetic' actually the result of the 'environment'. Darwin's 'conditions of existence' we can see up close and personal actually happening, happening especially in the womb. Also a fetus does not 'eat food' not in the accepted sense anyway of that word another way 'food' is not 'primordial'? The first nine months of our existence and the most 'formative' but no food..................some food for thought there.............
 
-### patgrif@hotmail.com — 2015-03-04T17:32:18+0200
+### [email redacted] — 2015-03-04T17:32:18+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-5-is-now-live-archimedes-meets-ubiquitin.13162/post-157425>
 
 It couldn't be (COULD IT??) that 'electric flow' in water is 'proton currents'? If warm water has more protons and less electrons than cold water..............could it possibly be 'proton currents'. This is something I have been confused about before can 'proton currents' be in any sense called 'electricity'. These are kind of basic things that give me a lot of difficulty sometimes.
@@ -41980,7 +41980,7 @@ Great question.
 
 Shows you how diverse lady evolution is in us..........we use all ways to make and distribute energy.......and it is our job to realize how it happens and connects.
 
-### patgrif@hotmail.com — 2015-03-04T19:03:56+0200
+### [email redacted] — 2015-03-04T19:03:56+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-5-is-now-live-archimedes-meets-ubiquitin.13162/post-157430>
 
 > [Josh said:](/goto/post?id=157426)
@@ -41992,12 +41992,12 @@ Shows you how diverse lady evolution is in us..........we use all ways to make a
 
 Pat regarding water.....is it easier to push a 500 lb patient on the beaches sand or in the water? This is how water invokes Einstein's relativity in a very counterintuitive way to save massive energy to the cell. The sea within is amazing in its simplicity but power. This is how we can tap the semiconductive and DC current in light or in dark..........
 
-### patgrif@hotmail.com — 2015-03-04T19:16:51+0200
+### [email redacted] — 2015-03-04T19:16:51+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-5-is-now-live-archimedes-meets-ubiquitin.13162/post-157434>
 
 Sorry I can't seem to help myself here.....................I feel I have put this on too..............
 
-### patgrif@hotmail.com — 2015-03-04T19:21:22+0200
+### [email redacted] — 2015-03-04T19:21:22+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-5-is-now-live-archimedes-meets-ubiquitin.13162/post-157435>
 
 > [Jack Kruse said:](/goto/post?id=157431)
@@ -42006,7 +42006,7 @@ Sorry I can't seem to help myself here.....................I feel I have put thi
 
 Yes I am starting to appreciate that......................never thought of it before, though I grew up by the seaside. We NEVER went in the water or ate fish much either. We were 'land lubbers' with all the limitations of imagination that implies. We were all about raising beef and growing onions. My dad told me one time he was NEVER (even in a boat) in a depth of water that he could drown in. I still can't swim. Pisses me off now I am trying to learn. The magic of water in all it's forms......................
 
-### patgrif@hotmail.com — 2015-03-04T19:48:55+0200
+### [email redacted] — 2015-03-04T19:48:55+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-5-is-now-live-archimedes-meets-ubiquitin.13162/post-157437>
 
 Another quote from Ub5:
@@ -42017,7 +42017,7 @@ Dr K it would be correct to say (wouldn't it?) that is it not ONLY nnEMF causes 
 
 This has always underlied my interest in 'psychology' imagine even worse a child who is chronically stressed. This effect I believe can last a lifetime or some of it's effects can. 'Undoing' that is a tricky process and something I have been interested in for many years. I do believe your 'protocols' may have a lot of implications for psychology too certainly more than most 'talk therapy'.................
 
-### patgrif@hotmail.com — 2015-03-04T20:37:03+0200
+### [email redacted] — 2015-03-04T20:37:03+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-5-is-now-live-archimedes-meets-ubiquitin.13162/post-157441>
 
 I am not in any way trying to 'minimize' the importance of nnEMF. If what you are saying is correct (and based on your record if I was a gambling man I would not be prepared to bet against you) that is a true disaster for the human race. It's like 'stress in a can' and something that to a greater or lesser degree affects EVERYONE, EVERYWHERE, and ALL THE TIME and mostly without their 'knowing' it. Especially children now they are more vulnerable and have a lifetime of it to 'look forward' to. They will all have 'traumatic childhoods' so to speak in one way or another. That's why the schools pushing an iPad on every child what a disaster..................
@@ -42083,7 +42083,7 @@ Also, all of these gaseous density relationships would also have to change with 
 ### yewwei.tan — 2015-03-04T23:54:09+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-5-is-now-live-archimedes-meets-ubiquitin.13162/post-157455>
 
-> [patgrif@hotmail.com said:](/goto/post?id=157424)
+> [[email redacted] said:](/goto/post?id=157424)
 >
 > I will ask this question because I am confused...............I could probably figure it out if I tried really hard and read up on a lot of things but I have a feeling others may be confused also about this so maybe in the spirit of 'public service' I ask it too. Quote from Ub5:
 >
@@ -42302,7 +42302,7 @@ The reference to the Viking's sunstone polarizing light, would calcium efflux he
 
 calcium efflux cause your versions of calcite to become cloudy uncoupling light from metabolic cycles.
 
-### patgrif@hotmail.com — 2015-03-05T21:27:17+0200
+### [email redacted] — 2015-03-05T21:27:17+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-5-is-now-live-archimedes-meets-ubiquitin.13162/post-157552>
 
 The key word in Ub5 to me at least was 'floating' and thinking a little about the word............it implies lack of effort, we talk about someone who 'floats' through life, someone who 'takes it all in' and responds in a kind of easy and effortless manner. I dare to day channeling Dr K that kind of person lives on the 'ledge' of the thermo-dynamic and quantum worlds whereas someone who is only in the thermo-dynamic world their life is full of effort and stress. Things for them are literally 'heavier' to move everything requires more effort and 'work'. Thermo-dynamics as far as I understand it is all about the ability to do 'work' to move 'heavy ' objects here and there.
@@ -42311,7 +42311,7 @@ I thought of Muhammed Ali who 'floats like a butterfly and stings like a bee' it
 
 Dr K would probably call this 'poetic' or 'mystic' or attempting to be but for me it means something. Most of my life has been very 'effortfull' (full of effort) I was in the moving and storage business for many years which involves......................moving large and heavy objects from here to there. Nothing for me came 'easy' so for me this business of 'floating' and how objects are literally 'lighter' seems to give a window to a world I have rarely seen and am now just glimpsing...............
 
-### patgrif@hotmail.com — 2015-03-05T21:37:13+0200
+### [email redacted] — 2015-03-05T21:37:13+0200
 **Source:** <https://forum.jackkruse.com/threads/ubiquination-5-is-now-live-archimedes-meets-ubiquitin.13162/post-157553>
 
 I find this such a beautiful expression of the longing............................for a better world, a truer world, a world without so much effort and 'work' This band the "Hoodoo Gurus" are Aussies too..................

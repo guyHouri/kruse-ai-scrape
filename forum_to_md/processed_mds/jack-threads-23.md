@@ -8504,7 +8504,7 @@ nope.........this is cult.........y'all need to worship and come to worship. Wha
 
 I'm gonna open a nice bottle of wine and forget this place for a while.
 
-### patgrif@hotmail.com — 2014-11-23T05:01:32+0200
+### [email redacted] — 2014-11-23T05:01:32+0200
 **Source:** <https://forum.jackkruse.com/threads/take-it-slow.9428/post-148213>
 
 > [Jack Kruse said:](/goto/post?id=148211)
@@ -14571,7 +14571,7 @@ Happy birthday Yew! There are many things I have wished I could change, but real
 
 Happy Birthday Yew! I value your contributions to this site and the quantum group, I learn so much from reading your posts.
 
-### patgrif@hotmail.com — 2015-05-25T20:48:02+0300
+### [email redacted] — 2015-05-25T20:48:02+0300
 **Source:** <https://forum.jackkruse.com/threads/take-it-slow.9428/post-165320>
 
 Yew: even more 'belated' Happy Birthday from me. I really like the way you talk about yourself too. We know you have a great brain but it's interesting to hear a bit of your personal story.
@@ -14592,7 +14592,7 @@ How have you been getting on with the sodium bicarbonate?
 
 When you shine your flashlight on what should be read and contemplated it makes subtracting BS in your life you have believed forever quite easy.
 
-### patgrif@hotmail.com — 2015-05-25T23:20:19+0300
+### [email redacted] — 2015-05-25T23:20:19+0300
 **Source:** <https://forum.jackkruse.com/threads/take-it-slow.9428/post-165335>
 
 > [Jack Kruse said:](/goto/post?id=165333)
@@ -14611,7 +14611,7 @@ Patrick when you meet my wife ask her one question........how many books do I ha
 
 When I read one I can tell you immediately what is important and what is trash. When I tell you to buy a whole book........DO IT.
 
-### patgrif@hotmail.com — 2015-05-25T23:34:15+0300
+### [email redacted] — 2015-05-25T23:34:15+0300
 **Source:** <https://forum.jackkruse.com/threads/take-it-slow.9428/post-165339>
 
 > [Jack Kruse said:](/goto/post?id=165337)
@@ -14623,7 +14623,7 @@ I accept that lol.....................anyway if you think of any more especially
 ### yewwei.tan — 2015-05-26T00:03:24+0300
 **Source:** <https://forum.jackkruse.com/threads/take-it-slow.9428/post-165344>
 
-> [patgrif@hotmail.com said:](/goto/post?id=165320)
+> [[email redacted] said:](/goto/post?id=165320)
 >
 > Yew: even more 'belated' Happy Birthday from me. I really like the way you talk about yourself too. We know you have a great brain but it's interesting to hear a bit of your personal story.
 >
@@ -24181,7 +24181,7 @@ On another note, I'm part way through Gerard Pollack's book and it is a joy to r
 >
 > Should be getting the data from the 23andMe test back in a couple weeks. The company was stopped from providing an analysis of the data beyond ancestry, however, so I'm at a loss for how to get it interpreted. Anyone out there know of a source for interpreting the data?
 
-Yes, contact Sterling Hill at [http://www.mthfrsupport.com/](http://www.mthfrsupport.com/) or [beclotaware@gmail.com](mailto:beclotaware@gmail.com) and she'll interpret it for you for $50.00.
+Yes, contact Sterling Hill at [http://www.mthfrsupport.com/](http://www.mthfrsupport.com/) or [[email redacted]](mailto:[email redacted]) and she'll interpret it for you for $50.00.
 You can also run it through her app on the site for $20- although it doesn't tell you what each SNP does, so you'll have to go online to snpedia.com to look them up one by one.
 Or you can run it through promethease and it will do a pretty good analysis for you- I found that having both was most useful to me though.
 
@@ -24190,7 +24190,7 @@ Or you can run it through promethease and it will do a pretty good analysis for 
 
 > [Embyr42 said:](/goto/post?id=107316)
 >
-> Yes, contact Sterling Hill at [http://www.mthfrsupport.com/](http://www.mthfrsupport.com/) or [beclotaware@gmail.com](mailto:beclotaware@gmail.com) and she'll interpret it for you for $50.00.
+> Yes, contact Sterling Hill at [http://www.mthfrsupport.com/](http://www.mthfrsupport.com/) or [[email redacted]](mailto:[email redacted]) and she'll interpret it for you for $50.00.
 > You can also run it through her app on the site for $20- although it doesn't tell you what each SNP does, so you'll have to go online to snpedia.com to look them up one by one.
 > Or you can run it through promethease and it will do a pretty good analysis for you- I found that having both was most useful to me though.
 
@@ -26295,7 +26295,7 @@ Chrisman also cautioned that itâ€™s not known what exactly might account fo
 Jeffrey Max, M.D., a psychiatrist who specializes in psychiatric outcomes of traumatic brain injury in children and adolescents at the University of California, San Diego noted, â€œIn our research, weâ€™ve found that about 10 percent of the kids had a full depressive disorder or subclinical depressive disorder 6 months after a concussion.â€ Children who have a history of concussion are more likely to develop attention-deficit/hyperactivity disorder (ADHD) and have difficulties controlling their moods, especially anger, rather than experience depression, Max added.
 Unlike Chrisman, however, Max observed that the actual brain injury associated with concussions is probably a major cause of depression in the first few months after injury. â€œIn the clinic, weâ€™ve certainly seen cases where within hours \[of sustaining a concussion\], a kid whoâ€™s never had depression before is suddenly depressed and suicidal. One of our studies found that the brain images in children with traumatic brain injury and depression were actually quite similar to those seen in adults who develop depression as a result of traumatic brain injury.â€
 TERMS OF USE: This story is protected by copyright. When reproducing any material, including interview excerpts, attribution to the Health Behavior News Service, part of the Center for Advancing Health, is required. While the information provided in this news story is from the latest peer-reviewed research, it is not intended to provide medical advice or treatment recommendations. For medical questions or concerns, please consult a health care provider.
-Journal of Adolescent Health: Contact Tor Berg at (415) 502-1373 or [tor.berg@ucsf.edu](mailto:tor.berg@ucsf.edu) or visit [www.jahonline.org](http://www.jahonline.org)
+Journal of Adolescent Health: Contact Tor Berg at (415) 502-1373 or [[email redacted]](mailto:[email redacted]) or visit [www.jahonline.org](http://www.jahonline.org)
 Chrisman SP and Richardson LP. Prevalence of diagnosed depression in adolescents with history of concussion. 2013. J Adolesc Health.
 
 ### Scompy — 2018-05-14T04:29:55+0300
@@ -27109,7 +27109,7 @@ Understood, but replays don't allow for "live" questions  Maybe allow gold membe
 ### Jack Kruse — 2014-02-22T22:33:23+0200
 **Source:** <https://forum.jackkruse.com/threads/feedback-needed-for-new-updates-and-needs.9455/post-111730>
 
-This is a good idea.......Send it to [Misty@jackkruse.com](mailto:Misty@jackkruse.com)
+This is a good idea.......Send it to [[email redacted]](mailto:[email redacted])
 
 ### tellmisty — 2014-02-23T02:11:21+0200
 **Source:** <https://forum.jackkruse.com/threads/feedback-needed-for-new-updates-and-needs.9455/post-111751>

@@ -129,7 +129,7 @@ You're ON! We'll drop DH off at a local pub or something and we can go stroll th
 ### danrmorris — 2013-01-15T14:48:52+0200
 **Source:** <https://forum.jackkruse.com/threads/carolines-journal.5458/post-70887>
 
-Caroline. I'll get you the webinar. Email me at dan@lettersfromdan.com and I'll send it to you.
+Caroline. I'll get you the webinar. Email me at [email redacted] and I'll send it to you.
 
 In the meantime I'll figure out what the problem is. And get it fixed.
 
@@ -140,7 +140,7 @@ Dan
 
 > **danrmorris said**
 >
-> Caroline. I'll get you the webinar. Email me at dan@lettersfromdan.com and I'll send it to you.
+> Caroline. I'll get you the webinar. Email me at [email redacted] and I'll send it to you.
 > In the meantime I'll figure out what the problem is. And get it fixed.
 > Dan
 
@@ -389,7 +389,7 @@ thanks AN....should be on the mend soon!
 
 It does sound like the flu or some serious detoxing going on. I hope you're feeling better soon. I know what you mean about turning yourself off from a food. One night a few years ago we were having a BBQ with friends who are vegan and I ate a vegan sausage. I starting getting sick that night and was miserable with the flu for a few days later. I can't even look at those sausages to this day. Which isn't a bad thing I guess, considering the crap they're made with. But hopefully once you're feeling better you'll probably want the seafood again because it's good for you body.
 
-### kathiebu@hotmail.com — 2013-01-20T09:48:19+0200
+### [email redacted] — 2013-01-20T09:48:19+0200
 **Source:** <https://forum.jackkruse.com/threads/carolines-journal.5458/post-71787>
 
 I hope you feel better soon Caroline!! Just do like you feel today, no pressure with food or Ct. Like Paula said, it might be so detox, which is good!!
@@ -3816,7 +3816,7 @@ Fortunately all the best things in life are for free Audrey..LOL so no need to b
 
 No idea about losing because I do not weigh. But I am not fat and I eat always 3 meals so far, and they are big. must be very electron depleted..lol I do think when comes summer and I get much sun and earthing I will cut down on food. But it might be because eating almost only raw though. I guess that is the difference. Or the age. Being younger might be why I can go with more food..? Hmm. Mom (61 yo) eats way less that me. She is also thinner than I though, almost too thin, but full of energy. But she says she cannot eat more! And she never diet, ever. Eats a fairly healthy diet. But not Epi paleo. She does goes every morning in the ice hole..
 
-### kathiebu@hotmail.com — 2013-04-17T17:44:30+0300
+### [email redacted] — 2013-04-17T17:44:30+0300
 **Source:** <https://forum.jackkruse.com/threads/carolines-journal.5458/post-84344>
 
 Inger you always are right: best things in life are free! If everybody could think like you!
@@ -30825,7 +30825,7 @@ Strong words Barry. But eye opening.
 
 Will DM you on FB, time to talk mano a mano....
 
-### jeanie@truelongmont.com — 2013-01-23T11:57:11+0200
+### [email redacted] — 2013-01-23T11:57:11+0200
 **Source:** <https://forum.jackkruse.com/threads/the-9th-most-important-thing-what-you-dont-know-wont-hurt-you.5484/post-72513>
 
 Some of the responses to Barry are simply reactionary/bandwagony. It's hard to see much actual discourse on here with this.
@@ -31369,7 +31369,7 @@ I had no trouble at all once I figured out Spreecast worked on Safari and not Fi
 
 My apologies if I was disruptive on the chat portion!
 
-### wholland@jhsph.edu — 2013-01-21T23:49:57+0200
+### [email redacted] — 2013-01-21T23:49:57+0200
 **Source:** <https://forum.jackkruse.com/threads/spreecast-will-the-reset-broadcasts-and-webinars-be-on.5508/post-72238>
 
 Maybe a good ol' fashioned teleconference. I never watch because I'm taking notes frantically. That technology seems to be more stable. There are plenty companies that have the service, it can be recorded and thousands can be on at once.... Just a thought...
@@ -31612,7 +31612,7 @@ Do we think that these would work? I like the idea of something you can wear dur
 
 http://www.lifeenergysolutions.com/natty/
 
-### edwardfries@netcommander.com — 2013-01-17T19:58:03+0200
+### [email redacted] — 2013-01-17T19:58:03+0200
 **Source:** <https://forum.jackkruse.com/threads/do-we-think-these-would-work-for-emf.5518/post-71301>
 
 That looks similar to what I was thinking of getting.
@@ -31775,7 +31775,7 @@ Onwards and Upwards. { "lightbox\_close": "Close", "lightbox\_next": "Next", "li
 
 you got a big Rx in a few days........be ready!
 
-### duceswild557@hotmail.com — 2013-01-22T10:08:27+0200
+### [email redacted] — 2013-01-22T10:08:27+0200
 **Source:** <https://forum.jackkruse.com/threads/exercise-and-mitochondia.5523/post-72279>
 
 Aren't anaerobic exercises like HIIT good for mitochondrial function?
@@ -31816,7 +31816,7 @@ Glenn PDQ: Please explain what you mean by 'birds are way ahead of us on this on
 > http://www.the-scientist.com/?articles.view/articleNo/23786/title/Plugging-the-Mitochondrial-Leak/
 > According to Gustavo Barja at the Complutense University in Madrid, pigeons leak barely a tenth the ROS of rats, and live nearly ten times longer, yet their resting metabolic rates are similar. "ROS leakage is so low in pigeons that they can afford to have much lower antioxidant levels than rats, and still live longer," says Barja. "The question is, why are pigeon mitochondria so leak-proof?"
 
-### duceswild557@hotmail.com — 2013-01-24T12:23:42+0200
+### [email redacted] — 2013-01-24T12:23:42+0200
 **Source:** <https://forum.jackkruse.com/threads/exercise-and-mitochondia.5523/post-72662>
 
 @jack, you said "Not if your LRâ€¦â€¦â€¦..it means you need more electronsâ€¦â€¦before you can lose them again" and I think that's great advice for anyone who is considering endurance exercises, but that's simply not the case for anaerobic HIIT, specifically something like the Sprint 8 protocol. 30 second bouts of all out physical exertion 3 times a week is only 12 minutes of workout per 7 days. I think it's great that you lost weight and got into shape using cold therapy and without exercise and I by no means encourage anybody to do endurance exercises of any sort. But there is no reason to put off doing a HIIT protocol like sprint 8 until one becomes leptin sensitive because HIIT will increase leptin sensitivity:
@@ -31829,14 +31829,14 @@ It also increases mitoChondrial capacity in t2 diabetics.
 
 I really like your blog but I feel like your biased against real exercise like HIIT because you didn't use it for your transformation. Phil Campbell used it though in a clinical setting n=11, with phenomenal body Recomposition results and I think you would strengthen your own position in health and longevity if you looked more into this. 4)link 4
 
-### duceswild557@hotmail.com — 2013-01-24T12:25:34+0200
+### [email redacted] — 2013-01-24T12:25:34+0200
 **Source:** <https://forum.jackkruse.com/threads/exercise-and-mitochondia.5523/post-72663>
 
 3) http://jap.physiology.org/content/111/6/1554.full.pdfÂ And 4) \[video=youtube\_share;geVJqKCFk-c\]http://www.youtube.com/watch?v=geVJqKCFk-c&feature=youtube\_gdata\_player\[/video\] from above.
 
 Also, I only post this here because I feel like if you incorporated this into your program you'd probably be the best blog on the net for health and longevity tbh.
 
-### joupnorth@hotmail.com — 2013-01-26T00:40:28+0200
+### [email redacted] — 2013-01-26T00:40:28+0200
 **Source:** <https://forum.jackkruse.com/threads/exercise-and-mitochondia.5523/post-72675>
 
 HIIT increases my cortisol, which in turn pumps my blood sugar. If HIIT increases mitochondrial capacity in T2D, i'd be all over it, but probably not at the cost blood sugar stability. Unless someone can show me otherwise....? Due respect for Mercola for the good he does do, but I don't think he's the last word on these matters.
@@ -32321,7 +32321,7 @@ EPIC
 
 Does not cover it.
 
-### wright_de@hotmail.com — 2013-01-21T18:05:36+0200
+### [email redacted] — 2013-01-21T18:05:36+0200
 **Source:** <https://forum.jackkruse.com/threads/the-ultimate-key-to-emf-2-is-right-here.5558/post-72131>
 
 JK,
@@ -32342,7 +32342,7 @@ You'll find out Jan 24th.
 
 Right Jack?
 
-### wright_de@hotmail.com — 2013-01-22T12:33:12+0200
+### [email redacted] — 2013-01-22T12:33:12+0200
 **Source:** <https://forum.jackkruse.com/threads/the-ultimate-key-to-emf-2-is-right-here.5558/post-72301>
 
 Having fun with hints like factor x days.
@@ -33149,7 +33149,7 @@ A nice bison burger, turkey in turmeric and pepper and a little smashed cauli al
 
 I just had my first MHS (mackerel head smoothie). Definitely more psychological - as it wasn't all that bad once I drank it LOL. 3 small mackerel, lemon juice, water and cilantro (note to self - need more lemon and cilantro!) and my bulletproof tea (butter and CO). I'm excited to see how I feel today!
 
-### jenafraserrmt@gmail.com — 2013-01-21T13:10:52+0200
+### [email redacted] — 2013-01-21T13:10:52+0200
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-eat-today.5581/post-72054>
 
 diane i agree! MHS are mostly psychological... although a good blender helps too
@@ -33217,7 +33217,7 @@ Means Patty needs to meet me at the ocean more!
 
 you'll know soon enough........1/24/2013
 
-### wholland@jhsph.edu — 2013-01-21T23:44:23+0200
+### [email redacted] — 2013-01-21T23:44:23+0200
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-eat-today.5581/post-72237>
 
 No BAB today because I had fasting labs, it was a trade for today. But I did have BP coffee and added a chunk of Chocolate blubber just for something different than my usual BPC or tea. Then I had seared tuna with avocado and lemon aioli for lunch and then had salmon, shrimp and scalops with broccoli for dinner. I got a bit peckish later so I had more water, a piece of chocolate blubber and 3 Brazil nuts. I'm starting to get the Low carb "flu" now...
@@ -33278,7 +33278,7 @@ Dinner is usually something very hearty: mostly lamb and some sort of steamed ve
 
 One of the strategies for dietary change management that Tim Ferriss uses in the 4-Hour Body is to eat the same meals over and over again. This is my approach in order to avoid missteps that have plagued me in the past. My main misstep was waking up with nothing ready eat which often meant too long of a delay on the BAB. It would also lead to delying eating sometimes until I got to work. We have a breakfast spot next door where I would do large amounts of eggs. But then the smell of coffee would draw me in. And what's coffee without cream? Since I'm supposed to really have neither (Hashis, adrenal fatigue), those trips to that spot would throw me off.
 
-### jenafraserrmt@gmail.com — 2013-01-23T16:24:49+0200
+### [email redacted] — 2013-01-23T16:24:49+0200
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-eat-today.5581/post-72557>
 
 I do the same thing - eating very similar meals all the time and its very helpful. I switch it up each week, but breakfast is pretty similar all the time: either salmon or mackeral filet with oysters/scallops/mussels. Yesterday I went and got a fresh piece of wild slamon and asked for 200g, and she sold me 500g so this morning my protein intake was about 90g!! Easy to do with seafood, very difficult to do with eggs and bacon!! (mmmm bacon)
@@ -33287,7 +33287,7 @@ Lunch was 1 lb of mussels and clams and chocolate bark. and dinner will be osso 
 
 I was having horrible horrible carb cravings - even dreaming of eating carbs (even being paleo for two years!!) these past few weeks but started taking "ortho-glucose" that has loads of cinnamon, chromium and bitter melon in it and they stopped automatically. Thank goodness!!
 
-### jenafraserrmt@gmail.com — 2013-01-23T16:28:28+0200
+### [email redacted] — 2013-01-23T16:28:28+0200
 **Source:** <https://forum.jackkruse.com/threads/what-did-you-eat-today.5581/post-72558>
 
 chocolate blubber is like chocolate bark but waaaaay more full of fat. i think this canadian guy "invented" it...
@@ -33380,7 +33380,7 @@ I can't remember now where I've read this (which blog), or heard this, on this s
 
 In a closed system, if inflammation is generated with a postive charge, then somewhere, there is an equal and opposite negative charge, given that the system was at neutral beforehand. Where is the net negative charge within the inflammed individual?
 
-### duceswild557@hotmail.com — 2013-01-21T18:43:10+0200
+### [email redacted] — 2013-01-21T18:43:10+0200
 **Source:** <https://forum.jackkruse.com/threads/inflammation-has-a-net-positive-charge-where-is-the.5586/post-72144>
 
 Would the net negative charge bein their diminishing health?
@@ -33409,7 +33409,7 @@ you will sound much smarter on Jan 24th.......because your beating the right dru
 
 Wow... having a 'Big Bang Theory' moment! I so feel like Penny!! { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### byboozian@gmail.com — 2013-01-22T13:28:01+0200
+### [email redacted] — 2013-01-22T13:28:01+0200
 **Source:** <https://forum.jackkruse.com/threads/inflammation-has-a-net-positive-charge-where-is-the.5586/post-72309>
 
 > **bigknitwit said**
@@ -33430,7 +33430,7 @@ And then your life changes.
 ### bigknitwit — 2013-01-22T20:12:27+0200
 **Source:** <https://forum.jackkruse.com/threads/inflammation-has-a-net-positive-charge-where-is-the.5586/post-72396>
 
-> **byboozian@gmail.com said
+> **[email redacted] said
 >
 >
 > > bigknitwit said
@@ -34210,7 +34210,7 @@ With all these things in place, why would a person still need cycloset?
 
 If your clock is set by light dark and magnetism.......and you can no longer see magnetism.........do you think light and dark can keep your clock running well? Cycloset helps artificially reset the light part of the SCN because we can no longer sense the magnet........If you use fake light.......and you do......that one is broken too.......GOT IT YET? It is not that hard..........you CANT TELL TIME PERIOD and your body has no idea when to do what when.........chaos is called inflammation and inflammation underpins every neolithic disease on the planet........it means youre and the world is decaying/aging/dying at faster rates than every before.............just because you cant tell time.
 
-### jeanie@truelongmont.com — 2013-02-09T22:17:18+0200
+### [email redacted] — 2013-02-09T22:17:18+0200
 **Source:** <https://forum.jackkruse.com/threads/emf-2-q-and-a-hopefully.5618/post-75069>
 
 Bignitwit said: According to EMF-4 (as I understand it), even with all the other protocols in place, I didn't have a chance at serious gains in health, because EMFs in my environment were interfering with my brain's ability to sense, (and sync) with Schumann resonance.
@@ -34517,7 +34517,7 @@ The consensus among modern vitamin D researchers (as I just read in John Cannell
 **Subforum:** The New Monster Thread
 **Posts:** 96
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2013-01-26T17:51:35+0200
+### [email redacted] — 2013-01-26T17:51:35+0200
 **Source:** <https://forum.jackkruse.com/threads/just-grounding-contrary-opinions-needed.5627/post-72729>
 
 My N-1 for "earthing" is going on about 9 months. However it's in conjunction with all the other epi-paleo stuff. I'm seasonally low carb epi paleo + raw dairy. My lab markers for inflammation are quite low and surprising considering I have excess fat (as of today about 190 lbs at 5'7).
@@ -34564,7 +34564,7 @@ What is a J-factor?
 
 I get more confused the more I read about all this stuff. I'm truly trying to understand, but the more I try, the more skeptical I become.
 
-### jeanie@truelongmont.com — 2013-01-26T23:01:14+0200
+### [email redacted] — 2013-01-26T23:01:14+0200
 **Source:** <https://forum.jackkruse.com/threads/just-grounding-contrary-opinions-needed.5627/post-72757>
 
 > [bigknitwit said:](/goto/post?id=72749)
@@ -34741,7 +34741,7 @@ I'm happy to read your take on all of this. I have an EE degree, and while this 
 
 I have the same thoughts about the electron theory. However I do know from my own health research that those in my study who should have died, given their diagnosis and expected prognosis, but who didn't, all spent time where they connected to their physical environment. These were people who had their hands in the ground gardening, sat with their bottoms, hands and feet in touch with the earth on mountains, in caves, by the sea, who "sidled up to a tree, placing my back against the tree and felt the energy of the earth coming up through the ground." Now I'm not sure about this energy idea, its form, its scientific explanation. But if that is what they did, if Jack reports the same thing, then I'm happy to go with it as a way of helping the healing process.
 
-### jeanie@truelongmont.com — 2013-01-28T03:07:29+0200
+### [email redacted] — 2013-01-28T03:07:29+0200
 **Source:** <https://forum.jackkruse.com/threads/just-grounding-contrary-opinions-needed.5627/post-72948>
 
 > [shilohman said:](/goto/post?id=72910)
@@ -34765,7 +34765,7 @@ Here's an interesting read with some good cites: Electrons as Antioxidants: A Ke
 
 Make that [http://georgewashington2.blogspot.com/2011/04/electrons-and-antioxidants-key-to-good.html](http://georgewashington2.blogspot.com/2011/04/electrons-and-antioxidants-key-to-good.html)
 
-### jeanie@truelongmont.com — 2013-01-28T04:15:27+0200
+### [email redacted] — 2013-01-28T04:15:27+0200
 **Source:** <https://forum.jackkruse.com/threads/just-grounding-contrary-opinions-needed.5627/post-72955>
 
 > [RayB said:](/goto/post?id=72950)
@@ -34780,7 +34780,7 @@ Also, nothing here shows a coupling of "low volts" (such as you would see with a
 
 In order to optimize, I would like to find the most efficient way to increase actual electron transfer from earth to human. The most interesting thing in that article to me was the reference to chinese medicine and the spots they say electrons enter the body. . .perhaps that's a clue.
 
-### jeanie@truelongmont.com — 2013-01-28T04:24:04+0200
+### [email redacted] — 2013-01-28T04:24:04+0200
 **Source:** <https://forum.jackkruse.com/threads/just-grounding-contrary-opinions-needed.5627/post-72957>
 
 Also, when grounded through artificial means - are the electrons just flowing through? How to encourage their uptake by the electron transport chain ultimately ending in production of ATP?. . or are they going out the same way they come in?
@@ -34825,7 +34825,7 @@ Grounding doesn't have to be elaborate or costly. Could be as simple as a metall
 
 My cold tub is a mini ocean. Refrigerated, filtered, grounded, and UV sterilized, filled with 75 gallons of artificial sea water (reconstituted from epsom salt and magnesium chloride from the dead sea). I did the grounding and the salt addition at the same time. It seems to be a real gamechanger but I don't know which change should get the credit. My wife and I love it. BTW, haven't changed the water in over 3 months...don't need to.
 
-### jeanie@truelongmont.com — 2013-01-28T22:18:19+0200
+### [email redacted] — 2013-01-28T22:18:19+0200
 **Source:** <https://forum.jackkruse.com/threads/just-grounding-contrary-opinions-needed.5627/post-73041>
 
 > [RayB said:](/goto/post?id=73040)
@@ -35736,7 +35736,7 @@ There was a histamine thread a few months ago that I started ...I think  I'm ver
 
 I was wondering about the connection on my own and then I read this from paleobunny. Now there are lots of things that contribute to histamine build up for me and I have had other periods when things have been better, so no science people will be impressed, but I'm am open to understanding the connection for my own selfish purposes...
 
-### jeanie@truelongmont.com — 2013-01-28T04:29:01+0200
+### [email redacted] — 2013-01-28T04:29:01+0200
 **Source:** <https://forum.jackkruse.com/threads/explain-to-me-how-emf-effects-glucose-metabolism.5642/post-72959>
 
 > [BJK77 said:](/goto/post?id=72888)
@@ -36644,7 +36644,7 @@ Best of wishes to you all.
 ### caroline — 2013-02-01T05:24:34+0200
 **Source:** <https://forum.jackkruse.com/threads/week-1-is-down-hows-every-one-doing.5652/post-73620>
 
-> [monddevi@gmail.com said:](/goto/post?id=73614)
+> [[email redacted] said:](/goto/post?id=73614)
 >
 > I lost 3 pounds on the third day,then today it's back! Bummer,I hope things get better for me..
 > I'm having a hard time trying to find things to eat in the mornings.I just never feel hungry and force eat some canned sardines and eggs..it's getting un appatizing quickly lol! I am excited about being healthier and want this to work.
@@ -37160,7 +37160,7 @@ Thanks - please report back! Can I ask what was prescribed? Extended release? 50
 
 wait - just re-read...sounds like she is ABOUT to prescribe. Good luck. I hear it can cause tummy upset but there are certain things you can eat ot offset it. I also hear that it subsides within 2 weeks or so.
 
-### jeanie@truelongmont.com — 2013-01-29T20:13:51+0200
+### [email redacted] — 2013-01-29T20:13:51+0200
 **Source:** <https://forum.jackkruse.com/threads/questions-about-metformin-for-those-in-the-know.5670/post-73184>
 
 I do metformin - I don't have BS issues, but I like it because it doesn't seem to have many downsides - and it's a great appetite/cravings regulator if that is broken in you.
@@ -37958,7 +37958,7 @@ The metabolic syndrome: role of skeletal muscle metabolism.
 Stump CS, Henriksen EJ, Wei Y, Sowers JR.
 Source
 
-MU Diabetes and Cardiovascular Research Center, Columbia, Missouri, USA. [stumpc@health.missouri.edu](mailto:stumpc@health.missouri.edu)
+MU Diabetes and Cardiovascular Research Center, Columbia, Missouri, USA. [[email redacted]](mailto:[email redacted])
 Abstract
 
 Skeletal muscle constitutes the largest insulin-sensitive tissue in the body and is the primary site for insulin-stimulated glucose utilization. Skeletal muscle resistance to insulin is fundamental to the metabolic dysregulation associated with obesity and physical inactivity, and contributes to the development of the metabolic syndrome (MS). The inability to efficiently take up and store fuel, and to transition from fat to glucose as the primary source of fuel during times of caloric abundance (high insulin) or scarcity (low insulin) has been termed metabolic inflexibility which contributes to a whole body metabolic dysregulation and cardiovascular risk. Potential mechanisms contributing to reduced insulin signaling and action in skeletal muscle includes adipose tissue expansion and increased inflammatory adipokines, increased renin-angiotensin-aldosterone system (RAAS) activity, decreases in muscle mitochondrial oxidative capacity, increased intramuscular lipid accumulation, and increased reactive oxygen species. Future research is focused upon understanding these and other potential mechanisms in order to identify therapeutic targets for reducing MS risk. Strategies will include adequate physical activity and maintaining a healthy weight, but may also require specific pharmacologic interventions.
@@ -38827,7 +38827,7 @@ ETA we should receive Chaos and Havoc's today or tomorrow....
 
 Ouch, that is high. You might want to consider buying a round trip airfare to Nevada, USA to pick up your mattress pads and pay the extra baggage charge on them. I would think that would be much cheaper, at least something to check into.
 
-### jeanie@truelongmont.com — 2013-02-14T19:25:29+0200
+### [email redacted] — 2013-02-14T19:25:29+0200
 **Source:** <https://forum.jackkruse.com/threads/my-magnetico-sleep-pad.5697/post-75835>
 
 > [Shijin13 said:](/goto/post?id=75825)
@@ -39225,12 +39225,12 @@ Very interesting. How did you determine the magnets were alternating? Did you ta
 I used a compass. The "N" is actually the south end of the compass needle, so it points to the north side of the magnets.
 Yes, I've thought about making a pad also. Two layers of thick material, glue magnets in one line, sew, glue on another line, sew, etc.
 
-### curtwht@yahoo.com — 2013-03-28T17:40:46+0200
+### [email redacted] — 2013-03-28T17:40:46+0200
 **Source:** <https://forum.jackkruse.com/threads/my-magnetico-sleep-pad.5697/post-82058>
 
 [http://www.magnet4less.com/product\_info.php?cPath=2\_6&products\_id=255](http://www.magnet4less.com/product_info.php?cPath=2_6&products_id=255) these magnets look similar to magnetico's. The magnetico description on ebay describes similar dimension and gauss. The magnetico single classic has 384 magnets, you can buy 500 ceramic from magnet 4 less for around 150$ plus 40$ shipping. Here is another link with interesting info [http://www.azunimags.com/catalog/item/5456673/5395084.htm](http://www.azunimags.com/catalog/item/5456673/5395084.htm) I don't know if these are as good as magnetico.
 
-### opelecky@yahoo.com — 2013-03-29T23:49:33+0200
+### [email redacted] — 2013-03-29T23:49:33+0200
 **Source:** <https://forum.jackkruse.com/threads/my-magnetico-sleep-pad.5697/post-82207>
 
 Hi there,
@@ -39240,7 +39240,7 @@ That's probably a silly question the magnetico sleep pad directions mention that
 ### shilohman — 2013-03-30T00:07:32+0200
 **Source:** <https://forum.jackkruse.com/threads/my-magnetico-sleep-pad.5697/post-82211>
 
-> [opelecky@yahoo.com said:](/goto/post?id=82207)
+> [[email redacted] said:](/goto/post?id=82207)
 >
 > Hi there,
 >
@@ -39253,7 +39253,7 @@ You want to be exposed only to the negative field of the magnets. The distance a
 
 I ordered a Magnetico today and got the discount...I'm glad I waited.
 
-### opelecky@yahoo.com — 2013-03-30T14:08:13+0200
+### [email redacted] — 2013-03-30T14:08:13+0200
 **Source:** <https://forum.jackkruse.com/threads/my-magnetico-sleep-pad.5697/post-82271>
 
 Is there a discount code somewhere that Misty mentioned? I just talked to my husband and am ready to order. Thanks.
@@ -40131,7 +40131,7 @@ Just a quick recap of my first 5 days. My sleep has been ok but I have been very
 ### Jack Kruse — 2013-07-18T01:17:15+0300
 **Source:** <https://forum.jackkruse.com/threads/my-magnetico-sleep-pad.5697/post-90297>
 
-> [montediaz@live.com said:](/goto/post?id=90269)
+> [[email redacted] said:](/goto/post?id=90269)
 >
 > Couldn't we make our own electromagnetic pads for far cheaper and stronger?
 

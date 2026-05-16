@@ -939,7 +939,7 @@ Thanks Dad  Good Looking out!!!
 
 How did you determine that you had all these metal build-ups?
 
-### finnite@dccnet.com — 2012-04-03T17:09:41+0300
+### [email redacted] — 2012-04-03T17:09:41+0300
 **Source:** <https://forum.jackkruse.com/threads/quelsen-aka-jonathan-d-goins-two-es-no-os.294/post-10772>
 
 there are low levels of arsenic in daily foods
@@ -1452,7 +1452,7 @@ this makes a lot of sense. I think about the $$ I have wasted on supplements and
 
 I really appreciate you spelling this out. I sometimes need the long verson to get it into my head.
 
-### skline@peak.org — 2012-04-23T19:23:41+0300
+### [email redacted] — 2012-04-23T19:23:41+0300
 **Source:** <https://forum.jackkruse.com/threads/quelsen-aka-jonathan-d-goins-two-es-no-os.294/post-18110>
 
 **quelsen;18175 wrote:** what you do may be influenced by what you read here but please make your own informed decision.
@@ -1564,7 +1564,7 @@ Soak for 30 minutes, 15 of those minutes you need to be submerged up to your nec
 
 What did I say long ago in the leptin series when rev t3 and LR are at issue? Your thyroid labs are useless unless your Quest or Lab Corp.
 
-### nosnhojjennifer@yahoo.com — 2012-04-26T04:10:03+0300
+### [email redacted] — 2012-04-26T04:10:03+0300
 **Source:** <https://forum.jackkruse.com/threads/quelsen-aka-jonathan-d-goins-two-es-no-os.294/post-18923>
 
 > **quelsen;18175 wrote:**
@@ -1665,7 +1665,7 @@ Duh, I just found a sublingual.
 
 " What zinc compounds release bioactive ionic zinc (iZn)? The mouth knows! Ionic zinc (the active ingredient) always tastes astringent and orally drying and metallic. Lozenges containing substantial iZn do not taste like candy!" after finding this quote and not finding any good ingredients for sublinguals, does, anyone have a good source?
 
-### Szara.loring@gmail.com — 2012-04-29T18:14:17+0300
+### [email redacted] — 2012-04-29T18:14:17+0300
 **Source:** <https://forum.jackkruse.com/threads/quelsen-aka-jonathan-d-goins-two-es-no-os.294/post-19821>
 
 I'm sure you are already aware of all of this, but ...do you know if your are genetically predisposed to be a hypomethylator? This might be limiting your ability to detox. It may also be preventing you from having good folate levels. I found this cryptic paper on folate levels and a variety of issues including detox of environmental toxins...
@@ -2097,7 +2097,7 @@ There are more free ions in ocean water. Free is always good.
 
 I am REALLY far from the ocean so it ain't happening.
 
-### nosnhojjennifer@yahoo.com — 2012-06-08T18:35:29+0300
+### [email redacted] — 2012-06-08T18:35:29+0300
 **Source:** <https://forum.jackkruse.com/threads/quelsen-aka-jonathan-d-goins-two-es-no-os.294/post-30161>
 
 > **quelsen;29655 wrote:** STATICOT™ SHIELDING FABRIC
@@ -2206,7 +2206,7 @@ gah, my body seems capable of neocaloricgenesis.
 
 revision. it seems that each system i address throws something else out of whack and i am back to square one.
 
-### jeanie@truelongmont.com — 2012-07-18T01:48:58+0300
+### [email redacted] — 2012-07-18T01:48:58+0300
 **Source:** <https://forum.jackkruse.com/threads/quelsen-aka-jonathan-d-goins-two-es-no-os.294/post-38871>
 
 > **quelsen;38991 wrote:** i would love to see a linear progression from 350 to 225. not all this up down esp given that i play everything by the book. in the last two years i can honestly say i had 2 doughuts and one reses peanut butter cup, the rest of the time Primal, Paleo or Ketogenic.
@@ -2259,7 +2259,7 @@ well that is pretty much all i have.
 
 I've noticed the same thing. I have quite the roadmap of blue all over, including lower belly fat, thighs (especially tops of thighs?!), and side-fat. The veins don't stick out or anything...I can just seem them under my skin, sometimes disturbingly bright blue. I always thought it was maybe because my skin had been stretched pretty thin from being so big, so it's easier to see through, maybe? That's probably not how skin actually works, but when I'm standing there looking in the mirror trying to talk myself down from a panic attack at the sight of all the veins, it seems an excellent rationale.
 
-### jeanie@truelongmont.com — 2012-07-18T22:01:25+0300
+### [email redacted] — 2012-07-18T22:01:25+0300
 **Source:** <https://forum.jackkruse.com/threads/quelsen-aka-jonathan-d-goins-two-es-no-os.294/post-39130>
 
 Just wait till you drop another 75-100 lds, then you are covered in blue streaked crepe paper! It's a party in your pants!
@@ -2577,12 +2577,12 @@ Amazing, quelsen! Hard work pays off!!
 
 you are the man........that is all I can say. Im speechless.
 
-### tercay@yahoo.com — 2012-08-16T05:43:03+0300
+### [email redacted] — 2012-08-16T05:43:03+0300
 **Source:** <https://forum.jackkruse.com/threads/quelsen-aka-jonathan-d-goins-two-es-no-os.294/post-45157>
 
 What an honor it is to have you share this with me. Congratulations!
 
-### finnite@dccnet.com — 2012-08-16T07:03:12+0300
+### [email redacted] — 2012-08-16T07:03:12+0300
 **Source:** <https://forum.jackkruse.com/threads/quelsen-aka-jonathan-d-goins-two-es-no-os.294/post-45165>
 
 that is an amazing transformation! what I really notice is that you don\`t look anywhere near 334, seems like you have managed to maintain a large portion of your muscle mass
@@ -2602,7 +2602,7 @@ and the kicker is Logic tells me i am smaller,
 
 kinestetically i don't feel smaller
 
-### finnite@dccnet.com — 2012-08-16T17:40:57+0300
+### [email redacted] — 2012-08-16T17:40:57+0300
 **Source:** <https://forum.jackkruse.com/threads/quelsen-aka-jonathan-d-goins-two-es-no-os.294/post-45205>
 
 > **quelsen;45534 wrote:** i begin to wonder if any of it was muscle.
@@ -2799,7 +2799,7 @@ On another note, you are doing so FANTASTIC! It has been awhile since I read you
 
 Kelly
 
-### jeanie@truelongmont.com — 2012-08-29T19:37:52+0300
+### [email redacted] — 2012-08-29T19:37:52+0300
 **Source:** <https://forum.jackkruse.com/threads/quelsen-aka-jonathan-d-goins-two-es-no-os.294/post-48121>
 
 > **differentstory;48569 wrote:** Funny, I was thinking that same exact thing. . .is the BHRT really helping. Not sure.
@@ -2990,7 +2990,7 @@ CT destroys the FBG........it is why I tell all my diabetics if you want to see 
 
 Sounds similar to my experience. Before CT my FBG was usually 115 to 125 after 2+ years low-carb on top of losing 60 lbs (28 percent), getting down to 12% BF, and trying \_everything\_ else I could think of short of prescription drugs or severe calorie restriction. Two weeks after starting CT, it's now 95 to 105 mg/dL, and more often than not below 100 mg/dL.
 
-### d_mceachern@hotmail.com — 2012-03-22T23:44:25+0200
+### [email redacted] — 2012-03-22T23:44:25+0200
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-4666>
 
 > **Jack Kruse;2896 wrote:** CT destroys the FBG........it is why I tell all my diabetics if you want to see some magic get cold.
@@ -3463,7 +3463,7 @@ I know at least it is something for me to keep in mind for later years and will 
 
 Cooling, your results are really great! Keep up the good work. It's good that even less cold waters can still help. I myself have really benefited from keto seafood (but Post Leptin Rx) + CT. My stomach is completely flat now, my arms have some definition as well as my legs show more muscle definition with much reduced boobs and behind. Hopefully I can get more 6 pack look soon. Maybe I should continue more with spot CT on abs. ;-) lol
 
-### betseyford@hotmail.com — 2012-04-10T02:21:54+0300
+### [email redacted] — 2012-04-10T02:21:54+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-13187>
 
 OMGosh, I am so glad to FINALLY find people with the same problem I have been trying to figure out for 2.5 years. I went Paleo and my FBG number went up, my Doctor was shocked and said I was lying about how low carb I was. It has been high ever since and when I crossfit it gets worse. IF'ing makes things worse too. I feel like I had tried everything. My FBG numbers have averaged 127. I started LR last week and will begin CT tonight. I am pretty excited to see numbers below 100 and very scared of the shivers!!
@@ -3532,7 +3532,7 @@ Cooling
 
 DAWN pheno is from loss of leptin control in PEPCK enzyme. CT gets it back faster than anything and this is why cold is the best treatment for diabetes.
 
-### betseyford@hotmail.com — 2012-04-12T02:05:36+0300
+### [email redacted] — 2012-04-12T02:05:36+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-13993>
 
 > **Anna K.;14024 wrote:** High fasting levels on low carb is common and I think it's known as the Dawn phenomenon. The question is if it's safe or not?
@@ -3551,7 +3551,7 @@ Read all that stuff and had the same question you did, is it safe or not? I have
 
 Thank you Dr. Kruse!
 
-### betseyford@hotmail.com — 2012-04-12T02:47:27+0300
+### [email redacted] — 2012-04-12T02:47:27+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-14009>
 
 > **CoolingWeb;13727 wrote:** Hello BagladyLKN
@@ -3579,14 +3579,14 @@ Your FBG numbers like mine, oh well, we must continue on hopeful n desperate, LO
 
 If you are a girl, have your hormones checked out as well. My FBG did not go down until I started supplementing my estrogen.
 
-### betseyford@hotmail.com — 2012-04-12T03:20:11+0300
+### [email redacted] — 2012-04-12T03:20:11+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-14028>
 
 > **Destiny;14084 wrote:** If you are a girl, have your hormones checked out as well. My FBG did not go down until I started supplementing my estrogen.
 
 Hi Destiny! I am female and having it all done on Friday!! so excited. I am very sure there will be some kind of deficit, my whole life has been a mismatch, LOL
 
-### betseyford@hotmail.com — 2012-04-12T03:24:21+0300
+### [email redacted] — 2012-04-12T03:24:21+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-14034>
 
 can I just say again how excited I am to find others like me!!  thanks for all the hope!
@@ -3932,7 +3932,7 @@ Cites
 
 \- [http://www.livestrong.com/article/130831-detox-liver-naturally/](http://http://www.livestrong.com/article/130831-detox-liver-naturally/) SAMe and Milk Thistle
 
-### betseyford@hotmail.com — 2012-04-14T22:53:05+0300
+### [email redacted] — 2012-04-14T22:53:05+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-15129>
 
 wow Cooling......you bring out the best stuff from the Doc!! Thanks. I am doing everything you have listed in the post above including a strict elimination of alcohol. I gots heal my leaky gut and liver. My FBG yesterday was 131, my Doctor agrees that can't be good.
@@ -3961,7 +3961,7 @@ I started LowCarb about 3 years ago and for a long time had high FBG in the morn
 
 \----I LOOOOOVVVEEEE THIS FORUM & THE FOLKS HERE ----GENUINE AND BRILLIANT-----
 
-### betseyford@hotmail.com — 2012-04-18T15:00:48+0300
+### [email redacted] — 2012-04-18T15:00:48+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-16180>
 
 > **ARP;16241 wrote:** Hi Guys - really nice thread here. Thx @ Cooling for the great summary!!! very helpful.
@@ -3974,7 +3974,7 @@ I started LowCarb about 3 years ago and for a long time had high FBG in the morn
 
 That is super cool!! My FBG just came down after going to the immersions, from the 130's to 105! but I skipped CT last night and it is back up but only to 114. You are absolutely right about the metabolism being really messed up, I figure it didn't get that way overnight so it won't be fixed over night. It is really good to know that I can fix it though!!
 
-### betseyford@hotmail.com — 2012-04-18T15:04:50+0300
+### [email redacted] — 2012-04-18T15:04:50+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-16182>
 
 > **CoolingWeb;16235 wrote:** Liver Rx has a version number increase. Ver 0.2 is out.
@@ -4183,7 +4183,7 @@ Thanks to everyone.
 
 My liver ALT is high. It was not in the past. I am not sure what I did to aggravate this.
 
-### betseyford@hotmail.com — 2012-04-21T15:32:32+0300
+### [email redacted] — 2012-04-21T15:32:32+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-17357>
 
 > **CoolingWeb;17407 wrote:** Thank You Dr. K. 88 is the new magic number to aim for then.
@@ -4433,7 +4433,7 @@ I agree, it's a paradigm shift we're experiencing, and now I finally have some r
 
 BTW, what is LGN and LTGN? I want to be happy for you but I don't know what it means!
 
-### betseyford@hotmail.com — 2012-04-23T14:03:14+0300
+### [email redacted] — 2012-04-23T14:03:14+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-18023>
 
 > **Maggie;18094 wrote:** I agree, it's a paradigm shift we're experiencing, and now I finally have some real hope.
@@ -4503,7 +4503,7 @@ Dextery,
 
 I think many of us are like this, and I previously took some comfort in Peter's (at Hyperlipid) explanation; however, Dr Kruse has subsequently pointed out that this indicates a measure of leptin resistance in the liver (and he has mentioned other factors which may be peripherally involved). After all, why has the liver decided that 115 is the right level, when we all know that the correct value is really around 90? It seems that it (the liver) is confused about something!
 
-### betseyford@hotmail.com — 2012-04-23T21:32:55+0300
+### [email redacted] — 2012-04-23T21:32:55+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-18142>
 
 This is awesome Dextery thanks! but my A1c is a consistant 5.7 and in two years of paleo I cannot get it any lower, additionally my Lipid panel is stuck as well and I can only get it to be good, it needs to be better that good and rightly should be as I have been pretty strict paleo, except for alcohol consumption. When I increase my carb intake I get fat very quickly. I can gain 5 pounds in a matter of days. So I agree with Ray in that My liver is confused or should I say overloaded and I feel I am probably LR & IR at the muscular level as well.
@@ -4545,7 +4545,7 @@ Dr. K mentioned PEPCK and Leptin problem at the liver as a reason for this. But 
 
 Cooling
 
-### betseyford@hotmail.com — 2012-04-24T01:58:20+0300
+### [email redacted] — 2012-04-24T01:58:20+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-18208>
 
 > **CoolingWeb;18235 wrote:**
@@ -4598,7 +4598,7 @@ If you dont get rid of the fat cell and just the fat you dont really ever solve 
 
 I do the LRx (since Jan. 2) and ct (mid march). I do believe the lower numbers are the result of ct as they never changed before I started cting. So I guess, according to DR. K's response above, I've killed off a few fat cells so that is why my numbers dropped.
 
-### betseyford@hotmail.com — 2012-04-25T01:11:22+0300
+### [email redacted] — 2012-04-25T01:11:22+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-18507>
 
 Sooo happy fer ya SD13!!!!
@@ -4614,7 +4614,7 @@ My fasting number started going down to 80's mid Feb after the estrogen suppleme
 
 I have been following the LRx protocol since December and CT since February.
 
-### betseyford@hotmail.com — 2012-04-25T01:20:26+0300
+### [email redacted] — 2012-04-25T01:20:26+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-18513>
 
 Destiny, I don't have any answers for you, but am sure glad you shared. That is just awesome.
@@ -4626,7 +4626,7 @@ I am going to be having my hormone tests reviewed tomorrow, hoping for more answ
 
 Do I get this right... if my BG initially goes down into 70s after eating but then bounces back up into 90s and 100s if I don't eat for several hours - that means I'm LS at muscle but LR at liver, correct?
 
-### betseyford@hotmail.com — 2012-04-25T01:27:00+0300
+### [email redacted] — 2012-04-25T01:27:00+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-18515>
 
 > **Souldanzer;18587 wrote:** Do I get this right... if my BG initially goes down into 70s after eating but then bounces back up into 90s and 100s if I don't eat for several hours - that means I'm LS at muscle but LR at liver, correct?
@@ -4638,7 +4638,7 @@ Do I get this right... if my BG initially goes down into 70s after eating but th
 
 I think optimal is under 85 consistently fasted.
 
-### betseyford@hotmail.com — 2012-04-25T01:30:53+0300
+### [email redacted] — 2012-04-25T01:30:53+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-18517>
 
 I believe, previously in this post Doc says 88 or lower, close enough!
@@ -4697,14 +4697,14 @@ What is your water temp for ct? I think the lowering of numbers takes a long tim
 
 Mine used to be around 77. I am not sure why it changed in the last couple of years.
 
-### betseyford@hotmail.com — 2012-04-25T02:30:42+0300
+### [email redacted] — 2012-04-25T02:30:42+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-18535>
 
 > **Destiny;18595 wrote:** Good luck, BagladyLKN! I hope your results will help you big time!!
 
 Thank you Destiny! I need all I can get
 
-### betseyford@hotmail.com — 2012-04-25T02:33:59+0300
+### [email redacted] — 2012-04-25T02:33:59+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-18538>
 
 > **Destiny;18606 wrote:** Mine used to be around 77. I am not sure why it changed in the last couple of years.
@@ -5087,7 +5087,7 @@ Cooling
 
 I broke out my bg monitor today and meant to check it this AM but forgot. I remembered before I ate dinner and it was 104! I had been low/mid-90's for months. It was 4 hours exactly since I ate lunch. I've now eaten dinner and ~30 ish mins later I'm at 130. Not too pretty is it.
 
-### skline@peak.org — 2012-05-22T03:09:32+0300
+### [email redacted] — 2012-05-22T03:09:32+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-26156>
 
 Progress report on sweet potato power --- I have ups and downs every couple of days, but I stay the course.
@@ -5155,7 +5155,7 @@ Usually BG peaks at 45m post meal. The 30m test you made does not tell you much.
 
 Cooling
 
-### betseyford@hotmail.com — 2012-05-23T02:17:39+0300
+### [email redacted] — 2012-05-23T02:17:39+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-26527>
 
 I have definitely figured out, because I am keeping a journal, that the later I eat dinner the night before the higher my FBG number is in the morning. I am really at the point now, if I don't eat by 8 pm, I suck down a protein shake real fast an skip the dinner all together. I am making my breakfast and lunch my biggest meals.
@@ -5184,7 +5184,7 @@ This is great news! I have been remiss in checking my FBG--I will do so tomorrow
 
 This is why it is part of the Leptin Rx......4 hrs of time between dinner and bed.
 
-### betseyford@hotmail.com — 2012-05-23T04:50:31+0300
+### [email redacted] — 2012-05-23T04:50:31+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-26580>
 
 Thanks Doc!!!! this has made a world of difference for me, however it is not always easy to do.
@@ -5216,7 +5216,7 @@ Stay Cool,
 
 Cooling
 
-### betseyford@hotmail.com — 2012-05-23T14:34:42+0300
+### [email redacted] — 2012-05-23T14:34:42+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-26638>
 
 > **CoolingWeb;26707 wrote:** Yup, excellent news.
@@ -5323,7 +5323,7 @@ What CT does to TXNIP is lowers it tremendously via the effect on leptin and BG.
 
 Cooling
 
-### jeanie@truelongmont.com — 2012-05-28T16:08:43+0300
+### [email redacted] — 2012-05-28T16:08:43+0300
 **Source:** <https://forum.jackkruse.com/threads/iceman-ir-and-fbg-dr-k-nugget-in-the-comments.295/post-28021>
 
 Heh, after jacks posts yesterday, I had to spend my prebed reading on those suckers - looking forward to where this is going!
@@ -5936,7 +5936,7 @@ Haven't yet frozen the tie on cold strips that I also got. This feels really nic
 
 Thanks for the review. I need the belly-icer too so this won't be ideal for me. All the ones I saw on the internet seemed a bit short and I am fairly long in the torso. OK, back to searching for me!
 
-### jeanie@truelongmont.com — 2012-03-19T21:41:20+0200
+### [email redacted] — 2012-03-19T21:41:20+0200
 **Source:** <https://forum.jackkruse.com/threads/arctic-heat-vest-quick-review.296/post-2911>
 
 Thanks for the photo, certainly something that might be great to grab out of the f reezer for a car ride or chores without much drama. Does it look like you could put two together to make a long hanging apron to cover more?
@@ -5952,7 +5952,7 @@ The size small fits me as in the pic above, and I am 5'7"+ and chest about 36 B/
 
 Oh yeah, the grey bulging stripes are the cold stuff, but it does seem to keep whole torso cool, though I haven't taken skin temps yet cause I don't feel like it right now.
 
-### jeanie@truelongmont.com — 2012-03-19T21:55:00+0200
+### [email redacted] — 2012-03-19T21:55:00+0200
 **Source:** <https://forum.jackkruse.com/threads/arctic-heat-vest-quick-review.296/post-2920>
 
 Please keep us posted - I am really itching to figure out something that can be utilized quickly without a big production so I can do it ad hoc.
@@ -6770,7 +6770,7 @@ Just a little update for those interested
 
 Took FST to the next level last week. IF'd from 9pm fri until 1pm Saturday . Then ran for 6.5hrs over mountains .. Felt strong. So that kicks "carb loading" out the back door ;-)
 
-### kcorcoran@comcast.net — 2012-05-24T02:43:52+0300
+### [email redacted] — 2012-05-24T02:43:52+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-26900>
 
 wow! that would do me in.
@@ -7114,7 +7114,7 @@ However, FST and CT still have to be optimised for athletic development. I don't
 
 Also remember this nugget......caus eyou will see it in a future blog soon on the Brain gut axis.......ketones are needed for brain growth and cranial maintence.....especially of myelin......and athletes who are carb hounds usually ruin their myelin sheet turnovers to decrease cognition with deep endurance.......where cold athletes have huge reserve.......same thing with adrenal issues.
 
-### jeanie@truelongmont.com — 2012-05-30T04:10:13+0300
+### [email redacted] — 2012-05-30T04:10:13+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-28308>
 
 > **Jack Kruse;28377 wrote:** Also remember this nugget......caus eyou will see it in a future blog soon on the Brain gut axis.......ketones are needed for brain growth and cranial maintence.....especially of myelin......and athletes who are carb hounds usually ruin their myelin sheet turnovers to decrease cognition with deep endurance.......where cold athletes have huge reserve.......same thing with adrenal issues.
@@ -8157,7 +8157,7 @@ Felt good ;-)
 
 "in order for the adaptation to occur , the stimulus must resonate"
 
-### klellja@gmail.com — 2012-08-26T12:50:03+0300
+### [email redacted] — 2012-08-26T12:50:03+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-47196>
 
 love this thread Barry! As a dancer I've noticed I feel great when I'm training in the morning with an empty stomach. But I'm not keto-adapted, I'm just a paleo foodist not always low-carb. I'd like to give it a try. Where to start? Would you recommend something (like books or websites with good suggestions)?
@@ -8179,7 +8179,7 @@ My comments on this thread provide a lot of detail also
 
 Realise...
 
-### klellja@gmail.com — 2012-08-26T23:15:16+0300
+### [email redacted] — 2012-08-26T23:15:16+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-47332>
 
 Barry, this is precisely what I appreciate in your comments, this gives me inspiration to find by myself what works for me. I'm very excited to learn more about keto-adaptation and ready to new experiences!
@@ -8429,7 +8429,7 @@ Looks like his diet was still crap....
 
 I agree, his diet is far from optimal but I think it's quite interesting that he is at least moving in the direction of low carb/high fat. There are lots of ways to get to the same destination.
 
-### mccune9@hotmail.co.uk — 2012-12-10T05:39:24+0200
+### [email redacted] — 2012-12-10T05:39:24+0200
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-66992>
 
 I've found this thread incredibly interesting, especially as some of the experiences shared are somewhat similar to what I have experienced/continue to experience.
@@ -12926,7 +12926,7 @@ How do I know this for sure ? I don’t but it’s based on what I have learnt, 
 
 There are athletes out there that want to do this correctly. It can improve performance, health and even lengthen an athlete’s career. I am working with a few pro cyclists on this at the moment and I’m going to take on a few more athletes that would be interested. I’m using a 6 month period of nutrition support applying all the principles above I mentioned above. Its primarily aimed at the experienced endurance athlete that can get the majority of the benefits within this timeframe.
 
-This service will be added shortly to my store page. In the meantime, if there are any direct enquiries, please send email me on [barry@optimumnutrition4sport.com](mailto:barry@optimumnutrition4sport.com)
+This service will be added shortly to my store page. In the meantime, if there are any direct enquiries, please send email me on [[email redacted]](mailto:[email redacted])
 
 ### Linz — 2014-10-09T13:37:58+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-143309>
@@ -12964,7 +12964,7 @@ Throws fuel on my flames. ⚡️☀️⚡️
 >
 > There are athletes out there that want to do this correctly. It can improve performance, health and even lengthen an athlete’s career. I am working with a few pro cyclists on this at the moment and I’m going to take on a few more athletes that would be interested. I’m using a 6 month period of nutrition support applying all the principles above I mentioned above. Its primarily aimed at the experienced endurance athlete that can get the majority of the benefits within this timeframe.
 >
-> This service will be added shortly to my store page. In the meantime, if there are any direct enquiries, please send email me on [barry@optimumnutrition4sport.com](mailto:barry@optimumnutrition4sport.com)
+> This service will be added shortly to my store page. In the meantime, if there are any direct enquiries, please send email me on [[email redacted]](mailto:[email redacted])
 
 ur
 
@@ -14490,7 +14490,7 @@ Works if you work it...your work speaks for itself, no need to be "worthwhile" a
 
 I thought the last 5 minutes were good and you opened the door with your idea about dots.........its all about context of the environment. I need to get you into our project with Jay Caffrey in premier soccer leagues.......The guy interviewing you seem stuck on food......he kept asking about food even when you gave him a bunch of other ideas of what you might look at..........
 
-### patgrif@hotmail.com — 2015-04-12T01:40:20+0300
+### [email redacted] — 2015-04-12T01:40:20+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-160937>
 
 > [Barry said:](/goto/post?id=160913)
@@ -14713,7 +14713,7 @@ Context changes everything
 
 yes it does..............
 
-### patgrif@hotmail.com — 2015-04-15T17:10:27+0300
+### [email redacted] — 2015-04-15T17:10:27+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-161292>
 
 I wonder though about the whole project of 'elite athletes' I mean especially the pure 'endurance' kind like cycling, long distance running etc. Other sports of course has that element in them but soccer for example is a lot more than just 'athleticism'. Vision, calmness on the ball etc are what makes a great soccer player, more than just pure power, a 'great' cyclist not so sure. It does not sound 'normal' or 'healthy' even to try to win the Tour De France
@@ -14723,7 +14723,7 @@ I wonder though about the whole project of 'elite athletes' I mean especially th
 
 I agree
 
-> [patgrif@hotmail.com said:](/goto/post?id=161292)
+> [[email redacted] said:](/goto/post?id=161292)
 >
 > I wonder though about the whole project of 'elite athletes' I mean especially the pure 'endurance' kind like cycling, long distance running etc. Other sports of course has that element in them but soccer for example is a lot more than just 'athleticism'. Vision, calmness on the ball etc are what makes a great soccer player, more than just pure power, a 'great' cyclist not so sure. It does not sound 'normal' or 'healthy' even to try to win the Tour De France
 
@@ -14752,7 +14752,7 @@ The major glaring common mistakes I see are these:
 
 The original Olympic ideal in ancient Greece was for an athlete to not only be "balanced" athletically, but also to be an integrated whole of mind/body/spirit. Contrast that with today's athletic ideal where everyone is a "specialist" even to the point where whether you run/swim/whatever 500 meters or 1000 meters distance, the "experts" are completely different people. Everything in the world today is that specialized. Specialization enhances humanity as a whole--mankind is more efficient--there is a larger variety of different sized "cogs" to fit into societal machinery. But by pursuing such extremes, the individual "cogs" are less healthy, less durable, and more easily replaced. That is what I see everywhere, in athletics and in society in general. That is the price we have decided to pay for societal (and athletic) advancement. As always, there is an associated cost...
 
-### patgrif@hotmail.com — 2015-04-15T19:33:32+0300
+### [email redacted] — 2015-04-15T19:33:32+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-161307>
 
 > [NeilBB said:](/goto/post?id=161304)
@@ -14764,7 +14764,7 @@ Yes I saw the documentary by Alex Gibney about Lance Armstrong. And it was ridic
 ### Josh — 2015-04-15T19:43:54+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-161310>
 
-> [patgrif@hotmail.com said:](/goto/post?id=161307)
+> [[email redacted] said:](/goto/post?id=161307)
 >
 > Yes I saw the documentary by Alex Gibney about Lance Armstrong. And it was ridiculous the extremes he and others went to. And really it is hard to even consider cycling at that level a 'sport' there is little or no sport in it just pure brutal endurance. I could see very few redeeming features in it
 
@@ -15125,7 +15125,7 @@ Here's a picture of the glacier water I use for Cold Thermogenesis....
 
 { "lightbox\_close": "Close", "lightbox\_next": "Next", "lightbox\_previous": "Previous", "lightbox\_error": "The requested content cannot be loaded. Please try again later.", "lightbox\_start\_slideshow": "Start slideshow", "lightbox\_stop\_slideshow": "Stop slideshow", "lightbox\_full\_screen": "Full screen", "lightbox\_thumbnails": "Thumbnails", "lightbox\_download": "Download", "lightbox\_share": "Share", "lightbox\_zoom": "Zoom", "lightbox\_new\_window": "New window", "lightbox\_toggle\_sidebar": "Toggle sidebar" }
 
-### patgrif@hotmail.com — 2015-09-21T00:17:57+0300
+### [email redacted] — 2015-09-21T00:17:57+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-177462>
 
 > [Ian said:](/goto/post?id=177461)
@@ -15247,7 +15247,7 @@ Where "The Talent Code" however won't extend its reach is into epigenetics. Ther
 
 Meet Darwin.. my Cold Thermogenesis buddy! He watches over us from his home here when we get into the glacier stream - but seems quite happy to just watch and warn us if a vulture flies overhead. Considering he's going very soon to spend at least 6 months hibernating with his brown fat to keep him warm at 6000ft altitude I guess Cold Adaptation is not an issue for him. I'm a bit worried because he's not as fat as he should be and we had a strangely long heatwave this summer which might have stopped him putting on enough fat. The mountains here are all formed by glaciers so I guess the marmottes just get pushed down the mountain when the glaciers are growing. Considering my country of origin - Scotland (further north) - was under a kilometre of ice only 15,000 years ago it might also be the opposite - only the mountain tops are free of the ice sheets! I wonder how the 7 billion population will be fed when this returns - as it will - sooner rather than later.
 
-### patgrif@hotmail.com — 2015-09-25T04:07:48+0300
+### [email redacted] — 2015-09-25T04:07:48+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-177838>
 
 > [Ian said:](/goto/post?id=177461)
@@ -15263,7 +15263,7 @@ Meet Darwin.. my Cold Thermogenesis buddy! He watches over us from his home here
 
 That's a gorgeous picture, is that where you really do CT. If so lucky you. Deserves a gorgeous piece of music Jimi Hendrix's "Waterfall/May This be Love"
 
-### patgrif@hotmail.com — 2015-09-25T04:11:01+0300
+### [email redacted] — 2015-09-25T04:11:01+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-177839>
 
 Sorry, that Jimi Hendrix song was meant to be under the picture of the waterfall (where Ian does his CT)
@@ -15273,7 +15273,7 @@ Sorry, that Jimi Hendrix song was meant to be under the picture of the waterfall
 
 Still good to see Hendrix and Pat in the same post..........
 
-### patgrif@hotmail.com — 2015-09-25T18:03:26+0300
+### [email redacted] — 2015-09-25T18:03:26+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-177869>
 
 > [Jack Kruse said:](/goto/post?id=177851)
@@ -15289,7 +15289,7 @@ You know - I've never heard that before - fantastic!
 
 Yes - the photo is taken from the CT location - which is only slightly downstream from the actual waterfall. The glacier is directly above the waterfall. It's like a small chunk of paradise there - no people and lots of wildlife.
 
-### patgrif@hotmail.com — 2015-09-26T04:19:34+0300
+### [email redacted] — 2015-09-26T04:19:34+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-177908>
 
 Ian wrote
@@ -15314,7 +15314,7 @@ Is it in France?
 ### Ian — 2015-09-26T18:33:23+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-177932>
 
-> [patgrif@hotmail.com said:](/goto/post?id=177908)
+> [[email redacted] said:](/goto/post?id=177908)
 >
 > Ian wrote
 >
@@ -15397,7 +15397,7 @@ The instruction you have found is completely standard - it's what all profession
 
 You aren't in the same part of Isère as I'm in so perhaps your water is chlorine free - however the statement that "water in the Isère (department)" is chlorine free is certainly not true. Might want to check with your local administration - and speak to Veolia - the water company if they are being used. Even worse it appears that over 30% of salt used in France has fluoride added - so it will be in many products (at least it isn't in the water). It's one of the most carcinogenic substances on earth and a neurotoxin - used for Sarin gas production and has replaced chlorine gas in warfare. It's also the basis of Prozac and in practically every supermarket dental product. I just shop at Satoriz and buy everything organic to avoid all of that nonsense. I drive to Albertville to find a Satoriz but I'm sure there's one near Grenoble.
 
-### patgrif@hotmail.com — 2015-09-28T23:43:39+0300
+### [email redacted] — 2015-09-28T23:43:39+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-178066>
 
 > [Ian said:](/goto/post?id=177932)
@@ -15423,7 +15423,7 @@ I find myself reading a lot of kind of 'odd' books also about history especially
 ### Ian — 2015-09-29T00:35:11+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-178068>
 
-> [patgrif@hotmail.com said:](/goto/post?id=178066)
+> [[email redacted] said:](/goto/post?id=178066)
 >
 > Ian: the idea that Down's Syndrome could be 'cured/helped' by that kind of intervention is fascinating but as you say it depends on the TIME of the intervention. I have been involved in something called Primal Therapy which attempts to 'travel back in time' so to speak and (this might sound weird but it really isn't) but with mixed results as far as I can see. This comes more from a 'psychology' perspective but I believe it can be a 'biology' perspective also. Anyway it is all very interesting, I suppose we could say the earlier the experience the more intense is the epi-genetic effect. I guess we could say for example in the womb epigenetics is firing away like mad and determining a lot about the future of the baby.
 >
@@ -15432,7 +15432,7 @@ I find myself reading a lot of kind of 'odd' books also about history especially
 Lipton's Biology of Belief sounds like it's right up your street.
 I read a lot about history too - keeping in mind that most history is a perversion of the truth and so seeking out authors who have the real integrity to deal with it. Like - unfortunately - with science - this is surprisingly hard to find! Along the lines that you are reading I've just finished Douglas Reed's "The Controversy of Zion" - but it's neither about Christianity or Islam - it's about the Jews! Reed was a world famous foreign correspondent for the Times and had close relations personally with both Churchill and Hitler. I don't think that there is any chance of understanding what's going on in the Middle East today without understanding what really happened back then. It's a continuation of the same process - unfinished business!!! Lenin (in 1907) stated that there would be three world wars to achieve World Revolution. Trotsky lived in New York when the Bolshevik revolution began - and the finance came from Wall St. It's a twin prong evolution of Zionism and Communism with the same backers. Same story today - that's why the ME is in total chaos.
 
-### patgrif@hotmail.com — 2015-09-29T01:31:42+0300
+### [email redacted] — 2015-09-29T01:31:42+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-178074>
 
 > [Ian said:](/goto/post?id=178068)
@@ -15447,7 +15447,7 @@ As far as Lenin's theory/prediction we have already had 2 WW's and well on our w
 ### Ian — 2015-09-29T15:15:07+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-178116>
 
-> [patgrif@hotmail.com said:](/goto/post?id=178074)
+> [[email redacted] said:](/goto/post?id=178074)
 >
 > This is so weird.............I just finished a book called "Pawns in the Game" by a guy called William Carr. Anyway it's about all this stuff and I found it extremely intellectually challenging (in that it contradicts a lot of what I thought I 'knew'). I guess the hardest thing for me to accept/understand is that the Bolshevik revolution was a 'capitalist' plan though the guy gives quite a bit of 'evidence' of that. It would probably be considered 'conspiracy theory' and 'anti-Semitic' but I have to say I found it extremely thought provoking and absorbing. An example of what it kind of changed my mind about was I always considered Franco the 'bad guy' in the Spanish Civil War, this guy makes out quite the opposite. Also he says Hitler never wanted to fight England but was sort of 'snookered' into it. Again he give plenty evidence of that.
 >
@@ -15457,7 +15457,7 @@ Is Carr's book the only one of this genre that you have read so far? It's a soli
 
 From a health perspective I don't think any of this stuff can be ignored if there is to be any hope of understanding why our world is so totally fucked up. One of the best books to give a clue is actually written by Henry Ford (His only book). It's boring to read - but essential. Written in 1920 when you go through it - it could have been written today. With books like that I use "text to speech" or audio book recordings - usually when I'm training outdoors. That way I avoid too much sedentary reading and tedious books flow far better when turned into audio.
 
-### patgrif@hotmail.com — 2015-09-30T05:08:12+0300
+### [email redacted] — 2015-09-30T05:08:12+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-178218>
 
 > [Ian said:](/goto/post?id=178116)
@@ -15995,7 +15995,7 @@ I started this thread/blog, whatever you want to call it, over 3yrs ago. I've sh
 
 So all I ask is that we stay "on topic" so that the journey can continue and people can share the views. Not sure why anyone with common sense would disagree with that ?
 
-### patgrif@hotmail.com — 2015-10-10T22:17:31+0300
+### [email redacted] — 2015-10-10T22:17:31+0300
 **Source:** <https://forum.jackkruse.com/threads/fasted-state-training-adaptations.297/post-179014>
 
 > [Barry said:](/goto/post?id=178996)
@@ -25049,7 +25049,7 @@ I don’t know if you will get this since your discussion was 12 years ago, but 
 **Subforum:** Cold Thermogenesis
 **Posts:** 6
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2012-03-19T21:44:24+0200
+### [email redacted] — 2012-03-19T21:44:24+0200
 **Source:** <https://forum.jackkruse.com/threads/all-seafood-or-just-cold-waters-seafood.298/post-2916>
 
 In the efforts to eat more water food, is everything good - or do we need to focus on cold water varieties? Also, any hints for canned/tinned seafood consumption?
@@ -25155,12 +25155,12 @@ How long have you guys been doing LR?
 
 Hi, I'm in Phoenix. I started the leptin reset in July, and have been eating post reset style for 2 months.
 
-### mycrazycartoons@gmail.com — 2012-03-21T00:51:13+0200
+### [email redacted] — 2012-03-21T00:51:13+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-arizona.299/post-3595>
 
 Hi Owl.. I'm also from the Valley.. welcome
 
-### mycrazycartoons@gmail.com — 2012-03-21T00:58:14+0200
+### [email redacted] — 2012-03-21T00:58:14+0200
 **Source:** <https://forum.jackkruse.com/threads/hello-from-arizona.299/post-3601>
 
 It's challenging to CT in the desert! Loving the cold the past few days.
@@ -25269,7 +25269,7 @@ For what it's worth, I had my gallbladder out in November of 2008 and it took th
 
 I'm not an expert on this, but have you tried Betaine HCL? I know a lot of people here find heartburn/GERD much better when using HCL. Reflux is usually caused by too little stomach acid.
 
-### finnite@dccnet.com — 2012-03-21T04:25:28+0200
+### [email redacted] — 2012-03-21T04:25:28+0200
 **Source:** <https://forum.jackkruse.com/threads/question-re-lr-and-if.300/post-3760>
 
 or if you don\`t have a gallbladder I believe purified oxbile is recommended as well
@@ -25368,7 +25368,7 @@ Today, it's taking me sometimes to the true first unread, and sometimes to pages
 
 I've looked through m y settings to see if this is anything personal on my side, but can't find anything that would affect this.
 
-### finnite@dccnet.com — 2012-04-11T17:52:31+0300
+### [email redacted] — 2012-04-11T17:52:31+0300
 **Source:** <https://forum.jackkruse.com/threads/go-to-first-new-post.301/post-13757>
 
 > **MamaGrok;13815 wrote:** Yeah, that's the button that's not working right. It's supposed to take you to the first new post _after the last one you read_, whether it was the one you posted or not. I've been using forums that use vBulletin for six years, and that's the way this button always works.
@@ -25462,7 +25462,7 @@ You could probably throw them in to a frying pan after this process but I think 
 
 Hahahaha. Thanks guys, I guess I will just suck it up and go with saucy slightly watery shimp sautés. Will have to find a good wild source restaurant for scampi once I decide to retry butter.
 
-### jeanie@truelongmont.com — 2012-03-21T03:28:50+0200
+### [email redacted] — 2012-03-21T03:28:50+0200
 **Source:** <https://forum.jackkruse.com/threads/frozen-shrimp.303/post-3726>
 
 Salt! You thaw them, salt them, then leave them on a napkin/towel in the fridge. Alternately, you brine them then just paper towel dry them.
@@ -25540,7 +25540,7 @@ It would be great to see how this plays out with different protocols being follo
 
 Anyone who is interested in this Colleen is the HCG expert and always SUPER helpful!
 
-### jeepifer@gmail.com — 2012-03-20T01:02:14+0200
+### [email redacted] — 2012-03-20T01:02:14+0200
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-2992>
 
 You've got me intrigued... Thanks! (I think.  )
@@ -25572,7 +25572,7 @@ I just love CT. It's amazing how addicting it gets. I feel so good when I get ou
 
 August, I have read Pounds and Inches COUNTLESS times. Countless. And I never noticed that before. Thanks for posting it!
 
-### rbu5@sssnet.com — 2012-03-20T02:58:14+0200
+### [email redacted] — 2012-03-20T02:58:14+0200
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-3053>
 
 I'll report in as a guinea pig
@@ -25611,7 +25611,7 @@ If you have any further suggestions as to how to make this the perfect successfu
 
 With or with out fat?
 
-### rbu5@sssnet.com — 2012-03-20T03:07:51+0200
+### [email redacted] — 2012-03-20T03:07:51+0200
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-3062>
 
 > **August;3064 wrote: Oh, while I was looking for the passage re: feeling cold . . I found this, which I thought was interesting: (under the
@@ -25635,7 +25635,7 @@ With or with out fat?
 >
 > Whoa August, very interesting find. I never read this before and will go check out my copy of P & I. Thanks!
 
-### rbu5@sssnet.com — 2012-03-20T03:14:39+0200
+### [email redacted] — 2012-03-20T03:14:39+0200
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-3066>
 
 > **SuzieQ;3078 wrote:** I am doing HCG and CT... I am one week in.
@@ -25706,7 +25706,7 @@ Now, I am at the very end of the 3rd round and at 160 lbs, 5"9 female. Would sti
 
 I'm a little leary of jumping to the reset right off of HCG. Colleen would you recommend this?
 
-### texascosmicangel@yahoo.com — 2012-03-20T12:05:34+0200
+### [email redacted] — 2012-03-20T12:05:34+0200
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-3177>
 
 This is my first post and I hope I'm doing this right. Hello to you all from Texas.
@@ -25741,7 +25741,7 @@ I am on day 10. I have officially cut out fruit and am only eating protein and v
 
 nice to see someone from Chicago...and yeah now that the winter seems to be behind us it's so much easier (at least for me) to do CT. for the past week i found myself "craving" CT. i can't do it before bed though because i can't sleep, but if i do it in the morning or after lunch i feel clear headed and love the feeling. i will have to buy a termometer to check the temps of my tap water ...it seems to be warmer now for whatever reason. . . well anyway glad to see another Chicago'an
 
-### loriflarson@gmail.com — 2012-03-20T16:50:42+0200
+### [email redacted] — 2012-03-20T16:50:42+0200
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-3249>
 
 Excited to see the results from those of you that have started this already. I will be doing another round of HCG in about a 10 days. This will be my 3rd round of hcg.last round I only ate the protein and veg,extra protein to get 500 cal. I also ate breakfast and early dinner. I lost 18.2 lbs. I am already doing CT and hoping for good results this round!
@@ -25764,7 +25764,7 @@ I doubt you're on enough Armour. Make your doctor check your free T3 and free T4
 
 So glad to see this great group gathering! And eager to hear your results.
 
-### jeanie@truelongmont.com — 2012-03-20T19:34:36+0200
+### [email redacted] — 2012-03-20T19:34:36+0200
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-3375>
 
 Colleen and Jack
@@ -26125,7 +26125,7 @@ Lori
 
 Some people find that supplementing with ox bile helps with digesting the fats and supporting the gall bladder.
 
-### jeepifer@gmail.com — 2012-03-23T15:16:52+0200
+### [email redacted] — 2012-03-23T15:16:52+0200
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-4935>
 
 Lori, I'm going to be doing something very similar, in about the same timeframe, depending on when I get my hcg. It will be fun to compare notes!
@@ -26237,7 +26237,7 @@ Thanks for all the help. I also plan to continue my CT, I won't be starting for 
 
 Yes! This is what i was asking.
 
-### rbu5@sssnet.com — 2012-03-24T18:19:00+0200
+### [email redacted] — 2012-03-24T18:19:00+0200
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-5455>
 
 > **colleencoble;5335 wrote:** If I do another round, I will eliminate the fruit and add in 200 calories more of protein which I'll eat in the morning. Is that what you mean? I don't weigh veggies. I just eat what I want of the allowed veggies.
@@ -26275,7 +26275,7 @@ who is on day one of loading for round 2 using paleo style eating...gathering ne
 
 No RBee. I'll take out 200 calories in fruit and add in 200 calories of protein. I would not lose on more than 500 calories.
 
-### rbu5@sssnet.com — 2012-03-25T01:41:45+0200
+### [email redacted] — 2012-03-25T01:41:45+0200
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-5610>
 
 > **colleencoble;5599 wrote:** No RBee. I'll take out 200 calories in fruit and add in 200 calories of protein. I would not lose on more than 500 calories.
@@ -26304,7 +26304,7 @@ Separate comment: being terrified of the cold as I am, I surprised myself with t
 
 As Dr Kruse has commented: your attitude/thoughts are the only thing holding you back. Just do it
 
-### smwpeterson@gmail.com — 2012-03-25T16:43:59+0300
+### [email redacted] — 2012-03-25T16:43:59+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-5780>
 
 Hi I am starting HCG today. I did this two years ago and lost 60 lbs kept off 30lbs. I will add CT to it this time.
@@ -26321,7 +26321,7 @@ I am on Armour 2GR.
 
 Thanks for all the work.
 
-### smwpeterson@gmail.com — 2012-03-25T17:40:05+0300
+### [email redacted] — 2012-03-25T17:40:05+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-5812>
 
 Thank you. I am off to shop for compression shirt and ice packs. I have loads of sweet potatoes in the oven and pork roast/bacon on for loading days. Coconut milk and chocolate?
@@ -26347,7 +26347,7 @@ momere, your planned break will be fine. Sounds like you are doing great!
 
 Honey Crisp, I always hate loading days so I'm not actually going to load this time. I'm just going to eat normal paleo. I might indulge in a bit of dark chocolate but that's going to be it.
 
-### jeepifer@gmail.com — 2012-03-25T20:10:35+0300
+### [email redacted] — 2012-03-25T20:10:35+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-5913>
 
 1\. Vegetables have carbs.
@@ -26356,14 +26356,14 @@ Honey Crisp, I always hate loading days so I'm not actually going to load this t
 
 Don't sweat it, skip the breadsticks and fruit.
 
-### rbu5@sssnet.com — 2012-03-25T20:15:27+0300
+### [email redacted] — 2012-03-25T20:15:27+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-5915>
 
 Omygosh--dropped 1.4#'s in one day. I usually am a .5 pound or nothing loser.
 
 CT=Woot!
 
-### lynn@ellijay.com — 2012-03-25T20:39:41+0300
+### [email redacted] — 2012-03-25T20:39:41+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-5923>
 
 I have now been on this round - HCG (inj) + CT for one week. Really my losses have been very typical of my other 2 rounds, maybe a bit less but of course I am not starting at the same place as I was for the others. But truly what I want to happen with adding the CT to the protocol is an easier stabilization. It would be great to have that LIW be the real sticking point without bouncing around, especially those first couple of weeks on P3. I have been doing more spot CT'ing than the baths because it is just harder to get in the cold bathtub when I am colder on the HCG (more shivering!) And really I'm colder - about 1 degree less than normal. I eat 2 meals without the breadsticks and usually no fruit, but I have had a couple of apples when I feel like I need it. I have NO hunger on the shots; have done the hHCG drops/pellets the last times and this is SO much better. Will keep you posted.
@@ -26380,7 +26380,7 @@ Colleen, brilliant... skip loading. I am terrified of it as I gained so much las
 
 My plan for protocol is to weigh out 500 calories of grass fed lean fillet mignon and divide into 4 portions. 2 portions for breakfast and one portion for lunch and one for dinner. Do you think there is a problem with eating meat every day, or most days. I do eat shrimp and lobster but I feel best eating meat.
 
-### smwpeterson@gmail.com — 2012-03-26T00:17:41+0300
+### [email redacted] — 2012-03-26T00:17:41+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-6040>
 
 I need a little advice I mixed a 5000 iu vial with the 2cc of B-water then added it to the empty vial but I guess my vial is too small I was only able to about 10 cc or ½ the water needed. Would this mean I need to take less mixture in my morning shot? Maybe 3cc’s instead of 6?
@@ -26456,7 +26456,7 @@ TOTAL CALORIES - 470** (might be a bit higher or lower each day depending on pro
 
 I'm excited to try this, truly. I might add in lunch with a few ounces of protein and another vegetable if I'm really hungry some days, but I'll never exceed 500 calories or go fewer than 4 hours between meals. Can't wait to see the results you guys have with hCG and CT, too!
 
-### rbu5@sssnet.com — 2012-03-26T22:08:19+0300
+### [email redacted] — 2012-03-26T22:08:19+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-6550>
 
 eleveneleven-Welcome!
@@ -26485,7 +26485,7 @@ Honey Crisp - are you planning on taking the supplements while on hCG? I was con
 
 Thanks RBee! The reason I'm doing two vegetables is because I really wanna make sure I'm getting in my probiotics, and when I did hCG last round, I had the best weeks when I added in some raw kraut with the protein and the veggies! I figure since I have one round down where I followed the protocol EXACTLY (except for the days when I added a natural probiotic to my meals), it's worth it to experiment a bit this time around. Like with the meal plan I have set up without the fruit and breadsticks, it doesn't quite make it up to 500...so I'll probably end up experimenting with either adding more protein to my BAB, or adding more to dinner, or even eating a lunch if my hunger is high enough.
 
-### rbu5@sssnet.com — 2012-03-27T02:34:15+0300
+### [email redacted] — 2012-03-27T02:34:15+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-6701>
 
 > **eleveneleven;6687 wrote:** Thanks RBee! The reason I'm doing two vegetables is because I really wanna make sure I'm getting in my probiotics, and when I did hCG last round, I had the best weeks when I added in some raw kraut with the protein and the veggies! I figure since I have one round down where I followed the protocol EXACTLY (except for the days when I added a natural probiotic to my meals), it's worth it to experiment a bit this time around. Like with the meal plan I have set up without the fruit and breadsticks, it doesn't quite make it up to 500...so I'll probably end up experimenting with either adding more protein to my BAB, or adding more to dinner, or even eating a lunch if my hunger is high enough.
@@ -26501,7 +26501,7 @@ Good luck and keep us updated on your progress!
 
 Just got mine today! Now to figure out how to mix it and use it!
 
-### jeepifer@gmail.com — 2012-03-27T03:33:52+0300
+### [email redacted] — 2012-03-27T03:33:52+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-6728>
 
 I got my injection kit, now anxiously awaiting the rx hcg. Hoping it will arrive by April 6 so I can load on Easter weekend!
@@ -26511,7 +26511,7 @@ I got my injection kit, now anxiously awaiting the rx hcg. Hoping it will arrive
 
 No, it's not protocol to eat two veggies at a meal. But with CT it may not matter. We don't really know.
 
-### rbu5@sssnet.com — 2012-03-27T04:39:27+0300
+### [email redacted] — 2012-03-27T04:39:27+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-6757>
 
 Colleen, I am down 1.6 from yesterday. That is 3 pounds in two days. And I am 16 days in so a total of 10#'s. I'm anxious to see what happens tomorrow. If I lose more than 4 oz again, it is DEFINITELY due to the CT!
@@ -26604,7 +26604,7 @@ Magnesium up to 1200 mg?
 
 ok ,ty. wasn't sure
 
-### jeepifer@gmail.com — 2012-03-28T04:12:33+0300
+### [email redacted] — 2012-03-28T04:12:33+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-7513>
 
 Speaking of supplements, my magnesium is a blend with d-ribose and malate (in a powder). Any thoughts about that during HCG? I have a super hard time tolerating oral mag and this is one of the rare blends that seems to work for me.
@@ -26712,7 +26712,7 @@ Gratz on your lose! I am afraid to even weight today... I know I will have paid 
 
 what is a modified correction day look like?
 
-### lynn@ellijay.com — 2012-03-28T16:42:39+0300
+### [email redacted] — 2012-03-28T16:42:39+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-7714>
 
 > **Honey Crisp;7749 wrote:** Have you ever done a modified correction day in P2? I've gone rogue on rounds and had good results with losses. I've never had a problem with stabilization during P3. I'd continue losing during P3. It was P4 that gave me trouble and eventually started me on the path to following a paleo/primal lifestyle. Hmmmmm, might be time to start experimentation......
@@ -26762,7 +26762,7 @@ I agree that you would be burning fat, but I wonder if the body takes the easy s
 
 My experience with my body is that it will deplete normal and some structural fat, and even muscle tone (mainly upper body) before it will start on the saddlebags. So, it would be great if I could just inject the HCG directly into the fat that I want to disappear.  If only it worked that way....
 
-### loriflarson@gmail.com — 2012-03-28T17:37:16+0300
+### [email redacted] — 2012-03-28T17:37:16+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-7735>
 
 Shinegirl are you useing coconut oil? Also are you eatting veggies? Would like to know as I will be starting another round in a few days.I know everyone is different but you seem to be having great losses the way your doing hcg and ct. Thanks!
@@ -26805,7 +26805,7 @@ I wish you hope and strength.
 
 Destinyave - staying on protocol this time only tinkering with the timing, taking out fruit and replacing with protein. If there were any changes they would be driven by what i feel like my body needs. Yesterday yes i had coconut oil. Today im 2.2 lighter. Dont know if ill need it again especially because some are saying dr. Advises not to. Best to be safe. Veggies? Im eating 2 -3 cups a day of whatever is in season/ out of my garden. Staying at 500 cals.
 
-### loriflarson@gmail.com — 2012-03-28T20:34:42+0300
+### [email redacted] — 2012-03-28T20:34:42+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-7840>
 
 > **Shinegirl;7836 wrote:** Destinyave - staying on protocol this time only tinkering with the timing, taking out fruit and replacing with protein. If there were any changes they would be driven by what i feel like my body needs. Yesterday yes i had coconut oil. Today im 2.2 lighter. Dont know if ill need it again especially because some are saying dr. Advises not to. Best to be safe. Veggies? Im eating 2 -3 cups a day of whatever is in season/ out of my garden. Staying at 500 cals.
@@ -27060,7 +27060,7 @@ Colleen!!
 
 oh boy, I think I have a problem. I am traveling for these next few days. I packed a cooler with the HCG in it and it froze, not 100% solid but enough. Colleen, is it ruined? If so... I am SOL for 2 days....recommendations if it is ruined? Two days ago, it was day 14 and I blew it big time on a binge...so trying to recover from that, now this. I could use some hand holding. I feel like I have ruined my chances of recovering from all this successfully.
 
-### rbu5@sssnet.com — 2012-03-30T19:05:59+0300
+### [email redacted] — 2012-03-30T19:05:59+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-8839>
 
 > **SuzieQ;8862 wrote:** Bumping this...
@@ -27385,7 +27385,7 @@ It is great reading about all the things everyone is trying. Colleen, I sit here
 
 On a side note... been thinking about doing 100% protein on a round. Not sure it is doable and it doesn't sound 100% healthy. lol Any opinions out here?
 
-### rbu5@sssnet.com — 2012-04-01T04:07:23+0300
+### [email redacted] — 2012-04-01T04:07:23+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-9638>
 
 I am doing the Hcg with the CT. Not adding in the CO. Just not eating the fruit or the grains this round. My losses are about the same as when I did the protocol last year. I had a major slip up though last week that I think if I didn't have, my losses would be much more. Somedays I am losing more than a pound, but averaging overall .5 a day. I am on day 21.
@@ -27559,7 +27559,7 @@ Cw- 139.8
 
 Goal- 130
 
-### smwpeterson@gmail.com — 2012-04-01T16:23:31+0300
+### [email redacted] — 2012-04-01T16:23:31+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-9761>
 
 I did it! I took the challenge and I lost. On Friday I had not planned well for a shopping trip and found myself at a Mexican restaurant hungry. I order a house salad with dressing on the side and my husband had fajita. I took some of the fajita chicken and onions from him and “dipped” a little dressing. I also could not resist a few chips and salsa. Then what the heck a square of dark chocolate. The rest of the day was as Simeon instructions.
@@ -27831,7 +27831,7 @@ actually goes by dzugan phsyiologic now he wrote the book "your blood doesn't li
 
 Colleen can speak to it better than i - it was discussed a lot at the monster thread over at MDA. Shinjin also uses them.
 
-### rbu5@sssnet.com — 2012-04-02T01:40:39+0300
+### [email redacted] — 2012-04-02T01:40:39+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-10028>
 
 > **AmieSue;9710 wrote: Dear RBee,
@@ -27909,7 +27909,7 @@ thanks!!! super excited
 
 just replying so i can subscribe...
 
-### rbu5@sssnet.com — 2012-04-02T01:58:24+0300
+### [email redacted] — 2012-04-02T01:58:24+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-10036>
 
 > **nuttmegs17;10094 wrote:** bacterostatic water: something like this?
@@ -27975,7 +27975,7 @@ Update - just saw your responses in red...
 
 You don't need mixing vials if you get the 2000 iu. But yes you will need the syringes to go with the needles.  and bac water and needles look good.
 
-### rbu5@sssnet.com — 2012-04-02T03:51:03+0300
+### [email redacted] — 2012-04-02T03:51:03+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-10099>
 
 > **nuttmegs17;10148 wrote:** so everything else looks ok?
@@ -28091,12 +28091,12 @@ Marilee
 
 Welcome Marilee! Congrats on your fabulous losses this round!
 
-### rbu5@sssnet.com — 2012-04-02T18:08:42+0300
+### [email redacted] — 2012-04-02T18:08:42+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-10328>
 
 Hi Marilee! Welcome. What a wonderful story. You are amazing, from 335 to 198. It's great you are incorporating CT too. Will be watching your progress and cheering you on.
 
-### rbu5@sssnet.com — 2012-04-02T18:13:49+0300
+### [email redacted] — 2012-04-02T18:13:49+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-10333>
 
 > **Shinegirl;10348 wrote:** Good morning everyone! I hope everyone is feeling amazing today. I only got 5 hrs sleep but when I did close my eyes I was completely out. Slept so well. I'm still a little tired though. So, funny story. Kinda.
@@ -28153,12 +28153,12 @@ After dinner I did do an hour of spot ct. Had a 1.4 loss from yesterday so wonde
 
 I just couldn't get myself to take any CO this morning. So will continue on w/out adding in oil for now.
 
-### rbu5@sssnet.com — 2012-04-02T18:14:31+0300
+### [email redacted] — 2012-04-02T18:14:31+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-10334>
 
 oh, and gym pants....with my sweatshirt LOL
 
-### rbu5@sssnet.com — 2012-04-02T18:45:33+0300
+### [email redacted] — 2012-04-02T18:45:33+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-10356>
 
 > **colleencoble;10189 wrote:** Those are the syringes I use. You don't need the vials if you're getting 2000 iu. You can wrap it in foil to keep the light out. i've always used hucog but all the brands are good.
@@ -28360,7 +28360,7 @@ The trick to weighing in every day is to not get attached to the weight. Some we
 
 Weighing daily gives you good data if you're tracking your food intake. I use perfect diet tracker for instance. That can help you figure out if you have food sensitivities. It's all just data!
 
-### rbu5@sssnet.com — 2012-04-03T03:17:05+0300
+### [email redacted] — 2012-04-03T03:17:05+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-10604>
 
 > **colleencoble;10453 wrote:** The Corion vial is actually a little larger then the hucog vial. And both will allow a total of 4 cc of fluid in a 2000 iu vial which is a good mixing dose.  You can't do it with a 5000 iu vial though. I don't like a super potent mix.
@@ -28398,7 +28398,7 @@ Thank you, Shinegirl! I will decrease my drops and see what happens. As I said o
 
 Lisa, maybe just cut back to 2x a week to keep your cold adaptation? Give it a few days without and see if you're feeling better then try it about Friday again?
 
-### rbu5@sssnet.com — 2012-04-03T04:32:43+0300
+### [email redacted] — 2012-04-03T04:32:43+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-10657>
 
 > **colleencoble;10715 wrote:** just so you know, RBee, my name is Colleen not Connie.
@@ -28538,7 +28538,7 @@ I feel your pain, Shinegirl! I was up .4 this morning! I suspect it is because I
 
 Joanne, Try face dunking and spot treating for CT instead of full immersion. I am seeing amazing results on my face and losing inches from my stomach, inner thighs and butt. Also, I am never cold and it feels great. I am taking Colleen's advice and waiting Friday to CT to see if that is the reason for feeling weak. Good luck to everyone!!
 
-### jeepifer@gmail.com — 2012-04-03T20:14:53+0300
+### [email redacted] — 2012-04-03T20:14:53+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-10858>
 
 Getting ready to load this weekend. Any thoughts on foods? I'm thinking chicken wings, brisket and pulled pork, and of course, Easter ham (if I were doing the cooking it would be lamb but since my ex-MIL was kind enough to invite me to join them, I'll graciously eat what's served!).
@@ -28567,7 +28567,7 @@ Colleen, I agree about the boring food. I've stopped using the mustard dressing 
 
 Jeepifer, there's always chicken fried steak if you want to push the envelope, and don't for get the gravy, or hollandaise sauce is good. How about some homemade icecream? You could also try P3 pizza with a mozarella and cauliflower crust, and whatever toppings you desire...
 
-### loriflarson@gmail.com — 2012-04-03T23:02:05+0300
+### [email redacted] — 2012-04-03T23:02:05+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-10936>
 
 is anyone doing "keto" /hcg/ CT? Am thinking of cutting all fruit and only having 1 small serving veggie and the rest of my 500 cal in protein.I am not adding in fats. What are your thoughts on this Colleen? I am not brave enough to add the fats! LOL
@@ -28600,7 +28600,7 @@ IMO - coconut manna is evil!!!  coconut oil is a much better choice. I know too 
 
 So sorry about your mother, Alicia!
 
-### loriflarson@gmail.com — 2012-04-04T02:21:14+0300
+### [email redacted] — 2012-04-04T02:21:14+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-11041>
 
 Ane-Sorry about your mom
@@ -28614,7 +28614,7 @@ Sent from my VS910 4G using Tapatalk
 
 I don't think I would cut out all veggies, destinyave. I mean, you could I guess, but I'd just cut the fruit.
 
-### loriflarson@gmail.com — 2012-04-04T02:27:15+0300
+### [email redacted] — 2012-04-04T02:27:15+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-11043>
 
 > **colleencoble;11111 wrote:** I don't think I would cut out all veggies, destinyave. I mean, you could I guess, but I'd just cut the fruit.
@@ -28639,7 +28639,7 @@ I'm pretty close to a keto diet. I eat less than 500 calories and my carbs are b
 
 Still waiting on blood test results. With my luck they had to send it to the mainland. Poor guys at the lab didn't even know what pregnenalone was. Welcome to the Big Island.
 
-### loriflarson@gmail.com — 2012-04-04T14:35:07+0300
+### [email redacted] — 2012-04-04T14:35:07+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-11222>
 
 I need to get my labs done.Looking into ZRT and figuring out which ones to get done first as I can not afford to do all that I need at once.Any suggestions as to what is the most important?
@@ -28762,7 +28762,7 @@ How important are loading days in you guys' experience? Just trying to plan ahea
 
 also - dont know if its bc i'm back on the CT bandwagon (only got 1-2 days in last week while on vacation), but i feel like my body is fighting something...been super tired during the day and having a harder time waking up (and then when I do wake up, its with a bit of sinus pressure)...could be from the LDN increase I made a couple weeks ago too...
 
-### rbu5@sssnet.com — 2012-04-05T16:30:30+0300
+### [email redacted] — 2012-04-05T16:30:30+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-11714>
 
 > **rocketmom;11653 wrote:** I guess I have planned this second round very poorly...FIL turned 95 on Saturday and we took him to South Padre Island for fresh fish, both my husband and I are celebrating birthdays today, and Easter is Sunday. Hmmm. I stayed on protocol regardless. I am seeing a lot of body changes after 33 total pounds lost. I am also seeing a bunch of wrinkles where wrinkles shouldn't be lol! I turned 59 today, and this is gonna be the last birthday I will acknowledge! I treated myself to a filet mignon for dinner. Since I have eliminated fruit this round I had a bigger filet than the 3.5 but stayed under my 500 calories. Not doing well on CT. I did not like the face dunking but I am doing the icing. Hanging in there. Averaging .5 loss per day so I am very satisfied.
@@ -28775,7 +28775,7 @@ Happy Birthday! Wow, that is great you stayed on protocol. Awesome job!
 
 I have noticed that my body is losing better with just spot icing every couple days. For some reason, when I would get in tub and soak, the next few days were stalls for me. Now I feel like I am picking up steam 26 days in. At this point I was always slogging along in my other rounds. I'll take this
 
-### rbu5@sssnet.com — 2012-04-05T16:33:36+0300
+### [email redacted] — 2012-04-05T16:33:36+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-11717>
 
 > **Zoe Patricia;11772 wrote:** Happy Birthday Denise, Good for you icing and staying protocol. Keep celebrating those birthdays.
@@ -28801,7 +28801,7 @@ Happy birthday, Dennise!
 
 nutmeggs, loading is important but now that I know better, I wouldn't load with any grains. Stuff down some fatty foods, lots of meats, come allowed carbs like fruit and sweet potato and chocolate.
 
-### rbu5@sssnet.com — 2012-04-05T16:36:00+0300
+### [email redacted] — 2012-04-05T16:36:00+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-11719>
 
 > **nuttmegs17;11780 wrote:** Hello!
@@ -29012,7 +29012,7 @@ One thing to remember is that most need to decrease the dose with each successiv
 
 How long have you stayed at a dose, AmieSue? Did you do a skip day when before you lowered your dose?
 
-### rbu5@sssnet.com — 2012-04-06T04:45:19+0300
+### [email redacted] — 2012-04-06T04:45:19+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-12041>
 
 I am laying off CT baths for awhile but will still do the CT spot icing. I'm not starving, but do think about food sometimes. I am a little hungry now and when I feel this way, I think about a huge cut of prime rib or steak with butter. So I am wondering if it is cravings too.
@@ -29255,7 +29255,7 @@ aww hugs colleen - really sorry to hear that. take care and safe travels
 
 my thoughts are with you -safe travel and big hugs
 
-### rbu5@sssnet.com — 2012-04-09T13:13:44+0300
+### [email redacted] — 2012-04-09T13:13:44+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-12932>
 
 > **colleencoble;12894 wrote:** AmieSue, a skip day tells you if your dose is too high. If you're better by evening, then you need to lower the dose a bit.
@@ -29277,7 +29277,7 @@ Colleen,
 
 So sorry for your loss. Take care! {{{hugs}}}
 
-### loriflarson@gmail.com — 2012-04-09T22:21:00+0300
+### [email redacted] — 2012-04-09T22:21:00+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-13119>
 
 Colleen Sorry for your loss , thoughts are with you.
@@ -29309,7 +29309,7 @@ I ordered the 2000iu hucog brand HCG...I think you said I should be able to use 
 
 [http://www.gpzservices.com/items/pro...amber/list.htm](http://http://www.gpzservices.com/items/pro...amber/list.htm)
 
-### rbu5@sssnet.com — 2012-04-10T03:27:05+0300
+### [email redacted] — 2012-04-10T03:27:05+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-13199>
 
 nuttmegs, I think Connie stated that you wouldn't need the storage vial if you are mixing the bac water right into the pill vial. You may want to cover the vial once mixed with foil to store in the refrigerator. If you feel better using the storage vial, yes, I would get the amber ones to keep the mixed hcg protected from light. HTh, and if you need any help with mixing lmk.
@@ -29376,7 +29376,7 @@ I am not sure if this helpful, but I just got off a round of HCG 4 days ago and 
 
 It is. Thank you! I'm back to CTing and added fats after refraining all weekend. I can't tell you how comforting it was to have a cold bath when I got home after a big tuna salad with mayo. 1 lb loss after CT. I'm on hhcg, and I'm never good with p3 (my 3 round) but I've proved to myself that meal timing is what is best for my body. I just hope that I make it through LRx (p3) without gaining due to homeopathic.
 
-### jeepifer@gmail.com — 2012-04-12T02:21:44+0300
+### [email redacted] — 2012-04-12T02:21:44+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-13997>
 
 Need some help!
@@ -29414,7 +29414,7 @@ Jeepifer, maybe a smaller breakfast and a bigger lunch?
 
 You are trying to follow the Leptin Reset while on HCG?
 
-### jeepifer@gmail.com — 2012-04-12T05:09:50+0300
+### [email redacted] — 2012-04-12T05:09:50+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-14075>
 
 > **indigogirl;14130 wrote:** Jeepifer, maybe a smaller breakfast and a bigger lunch?
@@ -29445,7 +29445,7 @@ Good morning. Coleen, so good to hear from you, I was close to giving up. Yester
 
 Zoe
 
-### jeepifer@gmail.com — 2012-04-12T18:11:17+0300
+### [email redacted] — 2012-04-12T18:11:17+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-14247>
 
 > **colleencoble;14168 wrote:** That's a high dose, Jeepifer. I'd skip your shot tomorrow and see how you feel. I bet you'll start feeling great by evening. I never like to see people start higher than 150. And even then, many need to take it down a line or so on the syringe.
@@ -29474,7 +29474,7 @@ Hope today is good! Keep us posted.  Thanks for the well wishes. Heading home to
 
 LOL! Thanks, August!
 
-### jeepifer@gmail.com — 2012-04-13T01:35:45+0300
+### [email redacted] — 2012-04-13T01:35:45+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-14477>
 
 > **colleencoble;14325 wrote:** Hope today is good! Keep us posted.  Thanks for the well wishes. Heading home tomorrow.
@@ -30648,7 +30648,7 @@ But I'm not on any hormones and thyroid meds and I don't want to be if I can cor
 
 You have to do what you believe in and what's right for you! : )
 
-### finnite@dccnet.com — 2012-04-24T14:51:20+0300
+### [email redacted] — 2012-04-24T14:51:20+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-18330>
 
 > **Claudia;18248 wrote:** This is all very interesting. But, my whole purpose in eating paleo for all these years and doing hcg to lose this last 12 lbs, and doing the Leptin reset, and CT, etc. is to avoid taking any thyroid stuff or anything like that. I thought CT and Leptin Rx are supposed to optimize thyroid and all hormones. That's what I'm shooting for here.
@@ -30837,7 +30837,7 @@ Hi Colleen, tried to message you and it says you're inbox is full or something, 
 ### colleencoble — 2012-05-05T14:53:24+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-21592>
 
-Feel free to email me! [colleen@colleencoble.com](mailto:colleen@colleencoble.com)
+Feel free to email me! [[email redacted]](mailto:[email redacted])
 
 ### fitgirl — 2012-05-06T17:20:40+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-21765>
@@ -31013,7 +31013,7 @@ Very interesting! It sure surprised me that CT doesn't seem to help, it actually
 
 Several started that, August, and they got hungry and quit. So that's when I got to wondering if CT and hcg do the same thing and sort of negate each other. I do't know. But starting tomorrow, I'm going to do CT + hcg strict protocol. We'll see what happens. Though I'm pretty cold adapted now, I think. I don't even shiver much and I feel warmer all the time, warmer than I ever have. I could try it without CT for 3 weeks and see what happens. Not sure what to do.
 
-### finnite@dccnet.com — 2012-05-10T13:54:59+0300
+### [email redacted] — 2012-05-10T13:54:59+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-22795>
 
 Colleen I'd love to see you try strict protocol with full immersion CT as I'm going to try with icing CT when I start my round. I was telling Itsy that I want to do this as an n-1 to see if icing is more effective than full water immersion for women as I've seen here the women with the greater success appear to be doing more icing than full water immersion.
@@ -31397,14 +31397,14 @@ I read your posts about experimenting with HWC while on hcg and it did not work.
 
 I am experimenting with it and losing. Do you think I should stop? I am concerned about stabilization.
 
-### amber_tyrrell@hotmail.com — 2012-10-09T13:03:46+0300
+### [email redacted] — 2012-10-09T13:03:46+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-57074>
 
 Hi Colleen,
 
 I'm starting day three of HCG tomorrow after starting the paleo diet a month ago (and finding Jack's website just before that), I thought I would give HCG a go... but having read as much as I can here - and its not all of it as I have to go to bed now (its late), I wondered could you please tell me - do I stick to the HCG protocol and not substitute grain for more protein? And do I add in CT or not? Thank you
 
-### jeanie@truelongmont.com — 2012-10-10T00:42:12+0300
+### [email redacted] — 2012-10-10T00:42:12+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-57186>
 
 > **Amber Tyrrell;58376 wrote:** Hi Colleen,
@@ -31421,7 +31421,7 @@ Jack is a man, his N-1 is simply different in a major way.
 
 I know I'm not Colleen - but I though I would throw in a different $.02. Good Luck. Follow the protocol even if it does seem silly.
 
-### amber_tyrrell@hotmail.com — 2012-10-10T11:18:41+0300
+### [email redacted] — 2012-10-10T11:18:41+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-57268>
 
 > **Cavemam;58492 wrote:** What I've seen is:
@@ -31446,7 +31446,7 @@ I know I'm not Colleen - but I though I would throw in a different $.02. Good Lu
 
 Thank you Cavemam... you have given great advice and I will follow it. I just finished my first day of the 500 cal diet today, and I am so out of eating grains and fruit that I never even thought of them, so didn't have the grossini or fruit but instead I doubled my protein at both meals. I must admit I felt hungry this afternoon - will that start to ease? Already thinking about those BIG ASSED BREAKFASTS!! I really hope this works because its difficult to do. It's murphy's law, but we really don't go out much at night and in the last week I have been invited to 4 partys within the time I'm doing HCG! Damn!
 
-### jeanie@truelongmont.com — 2012-10-10T18:19:07+0300
+### [email redacted] — 2012-10-10T18:19:07+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-57340>
 
 > **Amber Tyrrell;58575 wrote:** Thank you Cavemam... you have given great advice and I will follow it. I just finished my first day of the 500 cal diet today, and I am so out of eating grains and fruit that I never even thought of them, so didn't have the grossini or fruit but instead I doubled my protein at both meals. I must admit I felt hungry this afternoon - will that start to ease? Already thinking about those BIG ASSED BREAKFASTS!! I really hope this works because its difficult to do. It's murphy's law, but we really don't go out much at night and in the last week I have been invited to 4 partys within the time I'm doing HCG! Damn!
@@ -31465,7 +31465,7 @@ Two types of hunger to be aware of. . .
 
 Lastly, I think you may want to consider adding in either strawberries OR an apple for late meal each day. There are some extra properties these fruits have that assist with all kinds of biological functions - fructose/carbs are NOT the only consideration when it comes to fruit. Your body is going through ALOT- help it how you can and apples have something that help you keep fat burning. If you you are low cal/in ketosis. I did not take supplements, but in retrospect would do it if I did it again. Search Jack's blog - he lays out a list of them.
 
-### amber_tyrrell@hotmail.com — 2012-10-10T22:34:47+0300
+### [email redacted] — 2012-10-10T22:34:47+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-57419>
 
 > **Cavemam;58647 wrote:** You can do it!!! I had my 4th of July weeklong family vacation and packed all of my food, so damnit, you can't handle a party! (channeling Jack).
@@ -31511,7 +31511,7 @@ Thank you Cavemam!
 
 Sorry I've been traveling and am just getting caught up. Cavemam gave you good advice though.  I would not add in CT. It derails hunger for way too many for me to recommend it.  I think they fight against one another in some ways. Hope you're losing well!
 
-### amber_tyrrell@hotmail.com — 2012-10-17T23:35:47+0300
+### [email redacted] — 2012-10-17T23:35:47+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-58804>
 
 > **colleencoble;60318 wrote:** Sorry I've been traveling and am just getting caught up. Cavemam gave you good advice though.  I would not add in CT. It derails hunger for way too many for me to recommend it.  I think they fight against one another in some ways. Hope you're losing well!
@@ -31525,21 +31525,21 @@ What do you think about cycling? I am doing a 40 day round but I don't know how 
 
 melba toast? Is not that a grain?
 
-### amber_tyrrell@hotmail.com — 2012-10-18T02:57:50+0300
+### [email redacted] — 2012-10-18T02:57:50+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-58844>
 
 > **Jack Kruse;60348 wrote:** melba toast? Is not that a grain?
 
 Yes it is - therefore why i'm not having it and eating extra protein instead.
 
-### jeanie@truelongmont.com — 2012-10-18T20:42:28+0300
+### [email redacted] — 2012-10-18T20:42:28+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-58987>
 
 > **Jack Kruse;60348 wrote:** melba toast? Is not that a grain?
 
 blink blink. whaaat?
 
-### jeanie@truelongmont.com — 2012-10-18T20:43:50+0300
+### [email redacted] — 2012-10-18T20:43:50+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-58988>
 
 > **Amber Tyrrell;60381 wrote:** Yes it is - therefore why i'm not having it and eating extra protein instead.
@@ -31548,7 +31548,7 @@ Perhaps he was answering to a different thread. I did the no toast, more protein
 
 How are the losses going?
 
-### amber_tyrrell@hotmail.com — 2012-10-20T22:40:00+0300
+### [email redacted] — 2012-10-20T22:40:00+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-59384>
 
 > **Cavemam;60528 wrote:** Perhaps he was answering to a different thread. I did the no toast, more protein thing - calories right at 500 a day. I also found just fish just would not keep me on track.
@@ -31573,7 +31573,7 @@ I think this was said in a tongue in cheek way. He knows and is pointing it out 
 
 Sarcasm in writing can be difficult to discern.
 
-### amber_tyrrell@hotmail.com — 2012-10-22T12:56:00+0300
+### [email redacted] — 2012-10-22T12:56:00+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-59590>
 
 > **LinD;61086 wrote:** I think this was said in a tongue in cheek way. He
@@ -31586,7 +31586,7 @@ Sarcasm in writing can be difficult to discern.
 
 Yes - one needs to see the facial expression!
 
-### amber_tyrrell@hotmail.com — 2012-10-22T13:00:43+0300
+### [email redacted] — 2012-10-22T13:00:43+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-59591>
 
 > **colleencoble;61069 wrote:** Glad you're doing well, Amber! Though I
@@ -31595,7 +31595,7 @@ Yes - one needs to see the facial expression!
 
 Ah, Ok, ill start adding my fruit in tomorrow. I continue to be amazed at the weight loss - down 1.7 pounds today. I have never been able to lose weight like this. So do you think its ok to split the 40 day protocol in half?
 
-### kandc88@gmail.com — 2012-10-22T16:12:02+0300
+### [email redacted] — 2012-10-22T16:12:02+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-59612>
 
 > **LinD;61086 wrote:** I think this was said in a tongue in cheek way. He knows and is pointing it out that 'we' should know better.
@@ -31611,14 +31611,14 @@ I actually think he misread it and it's written a little confusingly (is that ev
 
 No Amber. You really need a minimum of 23 days on hcg just like the protocol states. And I see way better stability in people when they do at least 30 days. There is no reason to split it unless you are going to have to eat off protocol 4 or more days. Otherwise, just push on through.
 
-### amber_tyrrell@hotmail.com — 2012-10-23T12:10:01+0300
+### [email redacted] — 2012-10-23T12:10:01+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-59799>
 
 > **kandc88;61179 wrote:** I actually think he misread it and it's written a little confusingly (is that even a word) "(I)have substituded the fruit and melba toast for extra protein. " What you have done is substituted extra protein for the fruit and melba toast. I think he actually thought you had eaten fruit and toast in place of protein...I had to read it a couple times cause it didn't make sense to me and then I realized what was meant...course Jack is the king of confusing writing and ramblings so one would think he'd be a great decipherer!
 
 Now I'm confused.... because when I say I substitute something FOR something - its the latter 'something' you are having instead???? Not so? Well I meant I'm having extra protein and not toast.
 
-### amber_tyrrell@hotmail.com — 2012-10-23T12:14:01+0300
+### [email redacted] — 2012-10-23T12:14:01+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-59800>
 
 > **colleencoble;61183 wrote:** No Amber. You really need a minimum of 23 days on hcg just like the protocol states. And I see way better stability in people when they do at least 30 days. There is no reason to split it unless you are going to have to eat off protocol 4 or more days. Otherwise, just push on through.
@@ -31630,7 +31630,7 @@ I'm getting such good results that I think maybe I should just push through now,
 
 I would just push through. There is no benefit to a break because it gets you out of the groove. Your skin will recover when you get to P3. I did 5 rounds of 45 days so I know what I'm talking about.
 
-### amber_tyrrell@hotmail.com — 2012-10-24T00:29:13+0300
+### [email redacted] — 2012-10-24T00:29:13+0300
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-59900>
 
 > **colleencoble;61397 wrote:** I would just push through. There is no benefit
@@ -31644,7 +31644,7 @@ Wow that's a lot of days on HCG! Ok. I CAN do it!! I must say it took me at leas
 
 I took the prescribed breaks.
 
-### jeanie@truelongmont.com — 2012-11-01T18:56:37+0200
+### [email redacted] — 2012-11-01T18:56:37+0200
 **Source:** <https://forum.jackkruse.com/threads/new-guinea-pigs.304/post-61317>
 
 > **Amber Tyrrell;61478 wrote:** Wow that's a lot of days on HCG! Ok. I CAN do it!! I must say it took me at least 10 days to really get into the groove of it and now it just feels normal to eat so little, so I'll follow your advice, I don't like the idea of starting over again. Long round here i come!!!! Thanks Colleen
@@ -31769,7 +31769,7 @@ No weight lost since starting 4 weeks ago, but BF-percentage went down quite fas
 
 I'm down nearly 10 pounds since starting CT February 22nd.
 
-### omlh@todmi.com — 2012-03-20T10:34:32+0200
+### [email redacted] — 2012-03-20T10:34:32+0200
 **Source:** <https://forum.jackkruse.com/threads/ct-weight-loss-results.305/post-3174>
 
 A week in and I've gained 5lbs but lost 2 inches around the tummy. Baths are daily and getting colder after my first "too cold" one, and my daily shower is now cold as well! Even better in some ways is that our main source of heat for the house is no longer safe to use, so the top temperature inside is now a balmy 53.6F, and I'm resisting adding layers
@@ -32024,7 +32024,7 @@ I've noticed a lot of my friend'sand acquaintances from high school whom I keep 
 
 More than half of us have had c-sections, and lots of preemies and so-called "miracle babies." This should not be happening to twenty-five -28 year olds. Pottenger knew it all along.
 
-### skline@peak.org — 2012-04-29T22:13:24+0300
+### [email redacted] — 2012-04-29T22:13:24+0300
 **Source:** <https://forum.jackkruse.com/threads/indian-100-year-old-strong-man-what-is-your-excuse.308/post-19914>
 
 > **BeingVenus;19974 wrote:** I've noticed a lot of my friend'sand acquaintances from high school whom I keep in touch with on Facebook (we're all in our mid twenties) are having trouble getting pregnant. Like, an inordinate amount of them are resorting to fertility treatments, seems like
@@ -32118,7 +32118,7 @@ Thanks!
 
 I take Life Extension ones: but they have rice
 
-### Szara.loring@gmail.com — 2012-03-21T19:01:52+0200
+### [email redacted] — 2012-03-21T19:01:52+0200
 **Source:** <https://forum.jackkruse.com/threads/pqq-supplement.309/post-3941>
 
 I've been looking for a PQQ supplement w/o rice flour. I found that pure encapsulations offers two formulas that contain PQQ. These are both "hypoallergenic". I have not tried either, but am considering it.
@@ -32281,7 +32281,7 @@ My original point was: aren't we creating a mismatch doing CT in late spring, su
 
 and aren't mismatches between the natural environment and the artificial one humans create the basis of mismatched and disease????
 
-### meyoolia@gmail.com — 2012-04-09T15:22:38+0300
+### [email redacted] — 2012-04-09T15:22:38+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-during-warm-weather.310/post-12946>
 
 > **PaleoDentist;12989 wrote:** just bumping this thread in the hoped Dr Kruse chimes in.
@@ -32698,7 +32698,7 @@ I admire Dr. Kruse's synthesis. He's tied a lot of evolutionary biology and brai
 
 RE: Utah Dr. Kruse: His approach is novel, somewhat unique, and un-tested really, so I'm picking my spots to try it, namely with a N of 1 on myself, and a few receptive patients I know well and have excellent rapport with. My wacky cholesterol labs are the 1st hiccup I've encountered, however. Everything else has been dynamite.
 
-### kcorcoran@comcast.net — 2012-03-20T21:15:58+0200
+### [email redacted] — 2012-03-20T21:15:58+0200
 **Source:** <https://forum.jackkruse.com/threads/hack-my-labs-ldl-and-total-cholesterol-have-gone-psycho-on-paleo-leptin-ct.312/post-3443>
 
 Hi Dan,
@@ -32713,7 +32713,7 @@ HTH
 
 Kathy
 
-### kcorcoran@comcast.net — 2012-03-20T21:26:05+0200
+### [email redacted] — 2012-03-20T21:26:05+0200
 **Source:** <https://forum.jackkruse.com/threads/hack-my-labs-ldl-and-total-cholesterol-have-gone-psycho-on-paleo-leptin-ct.312/post-3449>
 
 I think if we really are inducing fat cell apoptosis with CT, there will naturally be a lot of FFA, cholesterol and other cellular debrise released into the local tissue and eventually into circulation. (hence, bruising, soreness some get. macrophages get recriuited to come in for clean up, note that the fat loss occurs gradually over a period of 2 to 3 months!) Read the Zeltiq coolsculpting website regarding the explanation of how the fat loss occurs. There will be a temporary inflammation happening as part of the clean up process. Maybe labs should be scrutinized once fat loss is done any your body has stabilized 6 months or so.
@@ -32901,7 +32901,7 @@ Dr. Kruse made some comments regarding high cholesterol and LDL over on Dr. Davi
 
 [http://www.trackyourplaque.com/blog/2011/07/the-exception-to-low-carb.html#comment-23777](http://http://www.trackyourplaque.com/blog/2011/07/the-exception-to-low-carb.html#comment-23777) Interesting...
 
-### kc_boxerman@yahoo.com — 2012-03-22T22:52:22+0200
+### [email redacted] — 2012-03-22T22:52:22+0200
 **Source:** <https://forum.jackkruse.com/threads/hack-my-labs-ldl-and-total-cholesterol-have-gone-psycho-on-paleo-leptin-ct.312/post-4643>
 
 Dr Dan - I don't want to hijack your thread but I have my own lab issue that's making me crazy. I can't get my hs-CRP under control and I'm wandering if you or Dr. K knows if this ALWAYS indicates inflammation. I feel great, have eaten 80/20 primal for a couple years, and was 100% on the leptin reset (with some high-fat dairy) for six weeks when the lab was drawn. My CRP is 3.4 and was 3.5 in October. This last lab had a previous reverse T3 to free T3 issue cleared up (switched to T3 only Cytomel) and Vit D at 101. I do have lower end testosterone readings and had been doing HCG three times a week in January to work on this. I'm doing all this to lower "inflamation" (and take care of my thyroid, and shred all belly fat I guess...), so it's sure frustrating to not see the number really move.
@@ -32913,7 +32913,7 @@ Waiting on telomere results...
 
 Optim, I'm no doctor, but I'd guess that your 80/20 diet kept you at high inflammation - you probably have some food intolerances, and I'd start looking at gluten first, dairy second - and that it will take some time to get lower. I don't know about you, but I was 99/1 and while it didn't keep my hsCRP up, it kept my ANA & severe fat malabsorption up ... no good. Bad gut inflammation, from just one serving of wheat maybe in each month. I used to be a breadaholic and just can't tolerate it at all any more, it seems.
 
-### kc_boxerman@yahoo.com — 2012-03-22T23:29:37+0200
+### [email redacted] — 2012-03-22T23:29:37+0200
 **Source:** <https://forum.jackkruse.com/threads/hack-my-labs-ldl-and-total-cholesterol-have-gone-psycho-on-paleo-leptin-ct.312/post-4656>
 
 For what it's worth the 80/20 was before October of last year. Some dairy is the only thing I have maintained and it is just so hard for me to believe that could make this result stay so bad. I hadn't had any grain for months at the time of the last blood draw.
@@ -33106,7 +33106,7 @@ yes, definitely take your time. no point in rushing it. im also waiting for the 
 **Subforum:** The Epi-Paleo Diet
 **Posts:** 20
 ══════════════════════════════════════════════════════════════════════
-### kathiebu@hotmail.com — 2012-03-20T15:31:36+0200
+### [email redacted] — 2012-03-20T15:31:36+0200
 **Source:** <https://forum.jackkruse.com/threads/can-i-have-dark-chocolate-while-on-the-reset.316/post-3216>
 
 Hi everyone,
@@ -33267,7 +33267,7 @@ link you had used is broke found article at [https://jackkruse.com/what-might-ca
 **Subforum:** The Leptin Rx
 **Posts:** 22
 ══════════════════════════════════════════════════════════════════════
-### chrystin.comeau@live.com — 2012-03-20T16:28:00+0200
+### [email redacted] — 2012-03-20T16:28:00+0200
 **Source:** <https://forum.jackkruse.com/threads/can-anyone-hack-me.317/post-3240>
 
 Hormone Test 03/05/2012 Units Range
@@ -33312,7 +33312,7 @@ Oh my, your hormones are in the toilet! I'm not familiar with the tsh blood spot
 
 I'm w/Colleen on this one...
 
-### chrystin.comeau@live.com — 2012-03-21T17:29:41+0200
+### [email redacted] — 2012-03-21T17:29:41+0200
 **Source:** <https://forum.jackkruse.com/threads/can-anyone-hack-me.317/post-3908>
 
 > **colleencoble;3619 wrote:** Oh my, your hormones are in the toilet! I'm not familiar with the tsh blood spot. I'll have to look that up. Cortisol too high at night. I'd start some pregnenolone, vitamin D and dhea. And I'd find a good bioidentical hormone doctor to get things rolling better. You could try the CT for a while and retest in 3 mos if you like. I'm not very patient myself. I like fixed NOW. LOL
@@ -33344,7 +33344,7 @@ You cannot produce what your body has STOPPED making. I went on BHRT last June v
 
 High night time cortisol is often one of the first signs of adrenal problems. The cortisol readings will go up, usually the night time one, before they go low. Your body is in a constant state of "flight" at ngiht. Eliminate any stimulants like caffeine. I can't remember if you are doing the circadian protocol but I'd suggest that. I know PS is good to take at night to calm that high cortisol.
 
-### chrystin.comeau@live.com — 2012-03-22T20:53:58+0200
+### [email redacted] — 2012-03-22T20:53:58+0200
 **Source:** <https://forum.jackkruse.com/threads/can-anyone-hack-me.317/post-4599>
 
 > **L8F;4152 wrote:** Agree with above, with the addition that it looks like from your Prog number that you had not yet ovulated, which is borne out by the fact that your period is late. So you have to shift the numerical interpretation to follicular phase, which makes the ratio a bit different. LRx should help even some of this out, and CT too....
@@ -33353,7 +33353,7 @@ High night time cortisol is often one of the first signs of adrenal problems. Th
 
 I had been on it for just over a month before I tested....
 
-### chrystin.comeau@live.com — 2012-03-22T21:08:42+0200
+### [email redacted] — 2012-03-22T21:08:42+0200
 **Source:** <https://forum.jackkruse.com/threads/can-anyone-hack-me.317/post-4605>
 
 Ok, anybody that's listening....
@@ -33381,14 +33381,14 @@ Bless you, and keep on going. Please do post a sample day and help us hack you.
 
 I'm so sorry you are feeling this way. I've been there with feeling overwhelmed....overwhelmed with the most simple tasks. I even went to the doc on my 50th birthday to convince her that I really needed those thyroid drugs as my labs proved it and all she did was say that based on the symptoms I'm agoraphobic and she sent me off with t script for Wellbutrin. I'm very social and knew there was a problem when I didn't want to go out with my friends. For me it took getting on thyroid meds to help with that feeling of not being able to handle what was in front of me even though it may not be that much. It also helped with energy, and being able to take on more and do more in my life. I hope you can get to a doc somehow because you need some BHRT at the very least but your thyroid is starting to slow but it may need just a dab of progesterone to help it along.
 
-### chrystin.comeau@live.com — 2012-03-23T11:47:36+0200
+### [email redacted] — 2012-03-23T11:47:36+0200
 **Source:** <https://forum.jackkruse.com/threads/can-anyone-hack-me.317/post-4890>
 
 > **Patty Cakes;4779 wrote:** I'm so sorry you are feeling this way. I've been there with feeling overwhelmed....overwhelmed with the most simple tasks. I even went to the doc on my 50th birthday to convince her that I really needed those thyroid drugs as my labs proved it and all she did was say that based on the symptoms I'm agoraphobic and she sent me off with t script for Wellbutrin. I'm very social and knew there was a problem when I didn't want to go out with my friends. For me it took getting on thyroid meds to help with that feeling of not being able to handle what was in front of me even though it may not be that much. It also helped with energy, and being able to take on more and do more in my life. I hope you can get to a doc somehow because you need some BHRT at the very least but your thyroid is starting to slow but it may need just a dab of progesterone to help it along.
 
 Thank you all so much for your concern
 
-### chrystin.comeau@live.com — 2012-03-23T12:19:38+0200
+### [email redacted] — 2012-03-23T12:19:38+0200
 **Source:** <https://forum.jackkruse.com/threads/can-anyone-hack-me.317/post-4892>
 
 > **PrimalPam;4760 wrote:** Can you post a daily food log so we can see if we can pinpoint something?
@@ -33420,7 +33420,7 @@ she had a history of ED, sugar addiction... she struggled close to 6mths on the 
 
 as for the emotional roller-coaster... If you're CTing as well.. you could be releasing emotions you've forgot about that have been stored up by your body... go w/it feel the emotions...laugh, cry, rage - grab something heavy and chuck it (outside preferably!) but let it go.... which can be a hard thing... especially if its been with you for a long time...
 
-### chrystin.comeau@live.com — 2012-03-23T17:40:45+0200
+### [email redacted] — 2012-03-23T17:40:45+0200
 **Source:** <https://forum.jackkruse.com/threads/can-anyone-hack-me.317/post-5001>
 
 > **Shijin13;4954 wrote:** Ok - I don't have an ED...but I do have hormone problems... w/in a month on the LR I gained 10lbs... Dr K says when you gain on the LR - its an indication of hormone issues - which your labs verified... Check out MamaGrok's journal on MDA - [http://www.marksdailyapple.com/forum/thread4753.html](http://http://www.marksdailyapple.com/forum/thread4753.html)
@@ -33449,7 +33449,7 @@ If you're Cting you should be eating keto-paleo. Your menu included watermellon,
 
 **cjco;4921 wrote:** Thank you all so much for your concern
 
-### chrystin.comeau@live.com — 2012-03-24T01:20:29+0200
+### [email redacted] — 2012-03-24T01:20:29+0200
 **Source:** <https://forum.jackkruse.com/threads/can-anyone-hack-me.317/post-5219>
 
 > **MamaGrok;5177 wrote:** My husband has no idea the extent of what I went through for the past 10+ years, or even that I had an eating disorder. I have long felt that this part of it will have to stay mine until I am really, ,really past it.
@@ -33490,7 +33490,7 @@ Yes, cut the fruit and dairy. But up the meat and the protein. Do you consume co
 
 For me, the fruit, chocolate and sadly, the wine, will make me crave.
 
-### chrystin.comeau@live.com — 2012-03-24T13:34:50+0200
+### [email redacted] — 2012-03-24T13:34:50+0200
 **Source:** <https://forum.jackkruse.com/threads/can-anyone-hack-me.317/post-5364>
 
 Thanks. Started the day with 5 scrambled eggs, 4 pc bacon, 3 pc sausage.
@@ -33564,7 +33564,7 @@ I cannot really explain to you why my fbg went up when I started low carb, but t
 
 I know other people have this - Peter at Hyperlipid has blogged about it, for example. Still, I measured 105 again yesterday and it is a bit frustrating.
 
-### dkenward@yahoo.com — 2012-03-24T12:41:25+0200
+### [email redacted] — 2012-03-24T12:41:25+0200
 **Source:** <https://forum.jackkruse.com/threads/liver-management-tools-optimal-liver-monitoring-at-home.318/post-5358>
 
 > **Baba;5379 wrote:** Well, at least according to Jack Kruse, leptin resistance occurs at the hypothalamus, the liver and the muscles.

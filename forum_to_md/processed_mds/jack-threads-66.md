@@ -2143,7 +2143,7 @@ They have auricular ones now. Really easy to use. Ask your neurologist about the
 >
 > Although im sorry for your circumstances Jim, this has been a great teaching thread. I ran into it while researching the etiology behind my own tinnitus and I'm thankful for the discussion. Jim, I have to ask....with your remote location in Idaho and firearms training, are you also someone who believes in prepping for SHTF situations?
 
-Hi MJ, I've been diving into what Jack laid out and researching vagal nerve stimulation devices. The recent Patreo blog really went into detail with the vagal exhaust theme, so I guess my timing was oppurtune. Do you have tinnnitus issues also? I'm happy to discuss SHTF resiliency scenarios at [jrpxyz77@protonmail.com](mailto:jrpxyz77@protonmail.com) if you'd like.
+Hi MJ, I've been diving into what Jack laid out and researching vagal nerve stimulation devices. The recent Patreo blog really went into detail with the vagal exhaust theme, so I guess my timing was oppurtune. Do you have tinnnitus issues also? I'm happy to discuss SHTF resiliency scenarios at [[email redacted]](mailto:[email redacted]) if you'd like.
 Cheers,
 Jim
 
@@ -6124,7 +6124,7 @@ I attached one of the reports. You can review the yellow section.
 ### wtsmg — 2026-05-09T16:18:22+0300
 **Source:** <https://forum.jackkruse.com/threads/mdrn-life-deuterium-depleted-water-scam-warning.31710/post-373543>
 
-If you're (unfortunately) in Ontario and looking for the Whistler Water (132ppm)... while making you're exit plan, of course... that DavidL mentions drinking (further up in this thread), the company said it's available at Whole Foods, Farm Boy, Healthy Planet, Nature's Emporium, Ambrosia Natural Foods if you've got one of those nearby. Call your store first to make sure as not all locations carry it. If you're in any other province, you can reach out to them at [info@whistlerfb.com](mailto:info@whistlerfb.com). It took a while to hear back from them, but they did eventually reply.
+If you're (unfortunately) in Ontario and looking for the Whistler Water (132ppm)... while making you're exit plan, of course... that DavidL mentions drinking (further up in this thread), the company said it's available at Whole Foods, Farm Boy, Healthy Planet, Nature's Emporium, Ambrosia Natural Foods if you've got one of those nearby. Call your store first to make sure as not all locations carry it. If you're in any other province, you can reach out to them at [[email redacted]](mailto:[email redacted]). It took a while to hear back from them, but they did eventually reply.
 
 [Reply](https://forum.jackkruse.com/threads/davids-journal-finally-aligned.12031/reply?quote=373540)
 
@@ -11472,7 +11472,7 @@ sent the email & received update confirmation already - many thx to [@Szen](http
 ### ZacMerriken — 2026-05-05T20:04:04+0300
 **Source:** <https://forum.jackkruse.com/threads/when-you-begin-with-a-silver-gold-or-platinum-membership.19027/post-373149>
 
-Hey guys, new titanium member as of April 27th, 2026. I got charged that day with a conformation email from [support@jackkruse.com](mailto:support@jackkruse.com). I haven't been able to access any gold/titanium blogs or old Q&A videos. I added a screen shot but it says access denied. I have emailed [support@jackkruse.com](mailto:support@jackkruse.com) with no response. No worries if you guys are backed up, just wondering if I am missing a step. Excited to be here!
+Hey guys, new titanium member as of April 27th, 2026. I got charged that day with a conformation email from [[email redacted]](mailto:[email redacted]). I haven't been able to access any gold/titanium blogs or old Q&A videos. I added a screen shot but it says access denied. I have emailed [[email redacted]](mailto:[email redacted]) with no response. No worries if you guys are backed up, just wondering if I am missing a step. Excited to be here!
 
 ### YaMan — 2026-05-05T20:17:45+0300
 **Source:** <https://forum.jackkruse.com/threads/when-you-begin-with-a-silver-gold-or-platinum-membership.19027/post-373150>

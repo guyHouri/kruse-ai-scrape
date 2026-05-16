@@ -2562,7 +2562,7 @@ I attached one of the reports. You can review the yellow section.
 ### wtsmg — 2026-05-09T16:18:22+0300
 **Source:** <https://forum.jackkruse.com/threads/mdrn-life-deuterium-depleted-water-scam-warning.31710/post-373543>
 
-If you're (unfortunately) in Ontario and looking for the Whistler Water (132ppm)... while making you're exit plan, of course... that DavidL mentions drinking (further up in this thread), the company said it's available at Whole Foods, Farm Boy, Healthy Planet, Nature's Emporium, Ambrosia Natural Foods if you've got one of those nearby. Call your store first to make sure as not all locations carry it. If you're in any other province, you can reach out to them at [info@whistlerfb.com](mailto:info@whistlerfb.com). It took a while to hear back from them, but they did eventually reply.
+If you're (unfortunately) in Ontario and looking for the Whistler Water (132ppm)... while making you're exit plan, of course... that DavidL mentions drinking (further up in this thread), the company said it's available at Whole Foods, Farm Boy, Healthy Planet, Nature's Emporium, Ambrosia Natural Foods if you've got one of those nearby. Call your store first to make sure as not all locations carry it. If you're in any other province, you can reach out to them at [[email redacted]](mailto:[email redacted]). It took a while to hear back from them, but they did eventually reply.
 
 [Reply](https://forum.jackkruse.com/threads/davids-journal-finally-aligned.12031/reply?quote=373540)
 
@@ -3741,7 +3741,7 @@ Hey Markus,
 
 When I was looking into having DDW shipped to Hawaii, I was emailing directly with Clayton from HydroHealth.
 
-[sales@extralightwater.com](mailto:sales@extralightwater.com)
+[[email redacted]](mailto:[email redacted])
 
 We didn't end up ordering a bulk shipment after all, but he was responsive and helpful in answering all my questions about pricing/quantities/shipment methods, etc.! Who knows, maybe he's a robot, lol (hard to say) - but I did not get scammy/AI vibes. Not sure what it would look like for international shipping, as they are out of Arizona but HH does offer a bulk discount.
 
@@ -9020,7 +9020,7 @@ sent the email & received update confirmation already - many thx to [@Szen](http
 ### ZacMerriken — 2026-05-05T20:04:04+0300
 **Source:** <https://forum.jackkruse.com/threads/when-you-begin-with-a-silver-gold-or-platinum-membership.19027/post-373149>
 
-Hey guys, new titanium member as of April 27th, 2026. I got charged that day with a conformation email from [support@jackkruse.com](mailto:support@jackkruse.com). I haven't been able to access any gold/titanium blogs or old Q&A videos. I added a screen shot but it says access denied. I have emailed [support@jackkruse.com](mailto:support@jackkruse.com) with no response. No worries if you guys are backed up, just wondering if I am missing a step. Excited to be here!
+Hey guys, new titanium member as of April 27th, 2026. I got charged that day with a conformation email from [[email redacted]](mailto:[email redacted]). I haven't been able to access any gold/titanium blogs or old Q&A videos. I added a screen shot but it says access denied. I have emailed [[email redacted]](mailto:[email redacted]) with no response. No worries if you guys are backed up, just wondering if I am missing a step. Excited to be here!
 
 ### YaMan — 2026-05-05T20:17:45+0300
 **Source:** <https://forum.jackkruse.com/threads/when-you-begin-with-a-silver-gold-or-platinum-membership.19027/post-373150>
@@ -12528,7 +12528,7 @@ I am a new gold member. Looking forward to the info here. Just starting to navig
 ### Anthony Smith — 2026-05-11T23:03:38+0300
 **Source:** <https://forum.jackkruse.com/threads/help.32742/post-373769>
 
-Email the office - [info@kruseatdestin.com](mailto:info@kruseatdestin.com)
+Email the office - [[email redacted]](mailto:[email redacted])
 
 
 ══════════════════════════════════════════════════════════════════════

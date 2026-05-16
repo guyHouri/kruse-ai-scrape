@@ -15030,7 +15030,7 @@ UVB (280-315nm)
 >
 > consults via skype have been open to members for last 6 weeks. They are based on availability
 
-Must have been a miscommunication. I'll get with your office. [support@jackkruse.com](mailto:support@jackkruse.com) or [info@jackkruse.com](mailto:info@jackkruse.com)? Best way to make the appointment?
+Must have been a miscommunication. I'll get with your office. [[email redacted]](mailto:[email redacted]) or [[email redacted]](mailto:[email redacted])? Best way to make the appointment?
 
 ### John Nicholas — 2018-08-17T22:27:07+0300
 **Source:** <https://forum.jackkruse.com/threads/the-people-of-the-am-sun.20005/post-248702>
@@ -20328,7 +20328,7 @@ And for those who think the technology to make spine implants react more like bi
 ### Jack Kruse — 2017-08-29T01:22:53+0300
 **Source:** <https://forum.jackkruse.com/threads/the-links-of-the-sun-and-mitochondrion-is-key-for-the-mitochondriac.20052/post-222473>
 
-Jansz do not post this stuff here about Patreon. Email [support@jackkruse.com](mailto:support@jackkruse.com) to get the help a member needs to fix this issue. Thanks.
+Jansz do not post this stuff here about Patreon. Email [[email redacted]](mailto:[email redacted]) to get the help a member needs to fix this issue. Thanks.
 
 ### drezy — 2017-08-29T01:27:11+0300
 **Source:** <https://forum.jackkruse.com/threads/the-links-of-the-sun-and-mitochondrion-is-key-for-the-mitochondriac.20052/post-222475>
@@ -20403,7 +20403,7 @@ How do I access them?
 ### Jack Kruse — 2017-08-30T23:36:01+0300
 **Source:** <https://forum.jackkruse.com/threads/blogs.20055/post-222611>
 
-[support@jackkruse.com](mailto:support@jackkruse.com)
+[[email redacted]](mailto:[email redacted])
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -28963,7 +28963,7 @@ I have been reading your blogs since 2012 and i want to say you have done a fant
 ### JanSz — 2017-09-09T23:43:03+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-florida.20121/post-223260>
 
-> [smwilson180@gmail.com said:](/goto/post?id=223259)
+> [[email redacted] said:](/goto/post?id=223259)
 >
 > Hi Dr. Kruse,
 >
@@ -29015,7 +29015,7 @@ I wish I knew that - mine is there too. did you ask Mission Control?
 ### Bigknife7 — 2017-10-01T19:40:50+0300
 **Source:** <https://forum.jackkruse.com/threads/hello-from-florida.20121/post-224618>
 
-> [smwilson180@gmail.com said:](/goto/post?id=223259)
+> [[email redacted] said:](/goto/post?id=223259)
 >
 > Hi Dr. Kruse,
 >
@@ -30732,7 +30732,7 @@ How am I able to set up a consultation with jack?
 
 Become a Silver or Gold member.
 
-Then email [support@jackkruse.com](mailto:support@jackkruse.com)
+Then email [[email redacted]](mailto:[email redacted])
 
 Ask Doc if he minds if you record the season when you start. Some folks seem to forget all the material their session covered.
 

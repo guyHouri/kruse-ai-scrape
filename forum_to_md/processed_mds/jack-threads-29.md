@@ -8700,7 +8700,7 @@ hugs back!
 ### Rain — 2014-10-19T22:46:31+0300
 **Source:** <https://forum.jackkruse.com/threads/jack-for-calcium-help-its-elaine.11935/post-144316>
 
-> [cnymicaa@gmail.com said:](/goto/post?id=144269)
+> [[email redacted] said:](/goto/post?id=144269)
 >
 > I am planning on following Elaine's progress. I see people like her in the ER often, and I know there is no help for them there. It will be interesting to see how her health returns, and as a nurse, sometimes when people are discharged in tears of frustration, I try to "unofficially" point them to a book that I think may help them get to the root of the problem. I am busy on the job and cannot take the time to really explain much, but I know that my reading one book 7 years ago had me eating differently, feeling better, and searching for why that was, and ultimately to more and more understanding as I kept following those rabbit holes. This is amazing how Jack reached out to Elaine and offered some simple solutions to get started right now.
 > For instance I pointed a woman to a book 2 weeks ago, and she contacted me yesterday and told me her diabetic sugars were better and she lost 7+ lbs already. When she is ready I will point out another book. I did tell her I eat fish once a day and how important that was.
@@ -15438,7 +15438,7 @@ I spoke about light in electromagnetic coupling in the blog long ago. I even men
 
 **"Veljkovic and Cosic proposed that molecular interactions are electrical in nature, and they take place over distances that are large compared with the size of molecules. Cosic later introduced the idea of dynamic electromagnetic field interactions, that molecules recognize their particular targets and vice versa by electromagnetic resonance. In other words, the molecules send out specific frequencies of electromagnetic waves which not only enable them to 'see' and 'hear' each other, as both photon and phonon modes exist for electromagnetic waves, but also to influence each other at a distance and become ineluctably drawn to each other if vibrating out of phase (in a complementary way)."** -- The Real Bioinformatics Revolution: Proteins and Nucleic Acids Singing to One Another?
 
-Paper available at [report@i-sis.org.uk](mailto:report@i-sis.org.uk)
+Paper available at [[email redacted]](mailto:[email redacted])
 
 ### BTA — 2014-10-26T04:54:57+0200
 **Source:** <https://forum.jackkruse.com/threads/pushing-the-envelope-quantum-astro-philosophy.11985/post-145189>
@@ -17494,7 +17494,7 @@ Ken
 ### Jack Kruse — 2014-10-28T19:18:36+0200
 **Source:** <https://forum.jackkruse.com/threads/october-28th-webinar.12016/post-145436>
 
-There will be a Live Q & A. Diane should send you a number to access the call. you can email [skruse613@gmail.com](mailto:skruse613@gmail.com) to make sure you get hooked up. Make sure you listen to October webinar before the Q & A so you can ask anything about this webinar. You also can ask any other questions at all too. There is no limit to the topics.
+There will be a Live Q & A. Diane should send you a number to access the call. you can email [[email redacted]](mailto:[email redacted]) to make sure you get hooked up. Make sure you listen to October webinar before the Q & A so you can ask anything about this webinar. You also can ask any other questions at all too. There is no limit to the topics.
 
 ### rlee314 — 2014-10-28T20:53:10+0200
 **Source:** <https://forum.jackkruse.com/threads/october-28th-webinar.12016/post-145447>
@@ -21754,7 +21754,7 @@ Pollack's book helped me a lot to understand this!
 
 Yeah, and now it is translated into german. I will order it
 
-### patgrif@hotmail.com — 2014-11-17T20:36:21+0200
+### [email redacted] — 2014-11-17T20:36:21+0200
 **Source:** <https://forum.jackkruse.com/threads/explanation-of-the-photoelectric-effect-in-humans.12042/post-147646>
 
 [http://www.counterpunch.org/2014/11/17/an-electronic-silent-spring/](http://www.counterpunch.org/2014/11/17/an-electronic-silent-spring/)
@@ -29030,7 +29030,7 @@ I still have to listen - cant wait!
 
 Game is going to be upgraded soon........just wait.
 
-### patgrif@hotmail.com — 2014-11-19T03:17:36+0200
+### [email redacted] — 2014-11-19T03:17:36+0200
 **Source:** <https://forum.jackkruse.com/threads/how-about-that-call-yesterday.12181/post-147773>
 
 I found the hints about physics very intriguing. I have long been 'frustrated' with modern physics and I find the whole kind of Stephen Hawking worship unconvincing. Not to mention parallel universes black holes, wormholes etc etc. I am really looking forward to more on this kind of stuff. In an earlier Q&A Dr Kruse mentioned his notion that Dark Matter was a kind of construct made up to account for some limitations in the theory. Instinctively I find/feel that to be on the right path and personally can't wait for more on gravity etc etc. His notions initially sound a bit outlandish but I have learned not to dismiss, there is almost certainly big nuggets in there.
@@ -29330,7 +29330,7 @@ I've got a bit of a mental tick..not sure what you would call it...a pet peeve a
 
 Anyway thanks for all the links and things hope no one is too bothered by my correction...don't know how to do it without feeling like I'm being mean or possibly making people think I'm more bothered than I am...its hard to describe what I mean..
 
-### patgrif@hotmail.com — 2014-11-19T22:11:04+0200
+### [email redacted] — 2014-11-19T22:11:04+0200
 **Source:** <https://forum.jackkruse.com/threads/cold-thermogenesis-temps-how-long.12190/post-147850>
 
 Jonathan. First off I find you very honest and very un-pretentious. It takes real courage to lay out your problems as you do. About the whole subject of "Cold" and let me be very clear here I am speaking ONLY for myself but I can relate to what you are saying very much. Personally I CANNOT do it unless in the presence of 'warmth'!!! What I mean is I do it at the beach here in LA only after a good dose of sunshine and I go in but only as long as it does not begin to feel 'masochistic'. Now this can vary also according to circumstance like I have notices if I am with someone talking etc in the water I can and tend to say MUCH LONGER than I do by myself. By myself it can easily start to feel 'masochistic' and not actually good for me.
@@ -29477,7 +29477,7 @@ Wonder about Rudolph yet and red light? surprised no one asked about it.
 **Why is IR light the choice of light stored in a mitochondria? Rudolph's nose was red, shiny and bright, which means it reflected light rather than emits it. Reflected light is distorted and is useless for signaling from a source. Emitted light carries a signaling secrets.**
 IR light cuts through the fog by controlling signaling in water.......... I drop bread crumbs constantly.
 
-### patgrif@hotmail.com — 2014-11-20T01:33:43+0200
+### [email redacted] — 2014-11-20T01:33:43+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147871>
 
 Yes it shocks me and worries me. I am a T2D so lots of stuff there to 'worry' about and no clear direction out or what to do. Maybe in time?
@@ -29515,7 +29515,7 @@ We remain clueless that we cannot artificially select for what nature has not al
 
 ^^^^biggest epistemologic mistake I made in my own medical training.
 
-### patgrif@hotmail.com — 2014-11-20T02:51:30+0200
+### [email redacted] — 2014-11-20T02:51:30+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147877>
 
 > [Jack Kruse said:](/goto/post?id=147872)
@@ -29537,7 +29537,7 @@ I mean is really such a slam dunk? I mean lots of people live in LA their whole 
 
 LA is where you are now.........what set your mitochondrial program Pat? Life is an N=1 game..........youre forgetting the lessons I already taught you.........you have to string this knowledge together to gain wisdom...........you need to begin doing that.
 
-### patgrif@hotmail.com — 2014-11-20T03:18:55+0200
+### [email redacted] — 2014-11-20T03:18:55+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147879>
 
 I am not sure what you mean by "what set your mitochondrial program Pat?"..............I grew up in Ireland but came to LA in 1978 at the age of 26 y. o. so which one/both set up my mitochondrial program? Not sure what you mean there exactly.
@@ -29555,7 +29555,7 @@ I mean I have the option I am pretty sure to move to Ireland I am not 'arguing' 
 
 Perhaps re-examine the meaning of **_"transgenerational epigenetics"._**.....
 
-### patgrif@hotmail.com — 2014-11-20T03:26:35+0200
+### [email redacted] — 2014-11-20T03:26:35+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147881>
 
 > [Josh said:](/goto/post?id=147880)
@@ -29595,18 +29595,18 @@ You have to coordinate the orchestra to make the music of life..........and the 
 ### Josh — 2014-11-20T03:40:48+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147885>
 
-> [patgrif@hotmail.com said:](/goto/post?id=147881)
+> [[email redacted] said:](/goto/post?id=147881)
 >
 > What exactly would that tell me? Do you know if so I am prepared to be enlightened.
 
 If you could see your mother and grandmother's phenotype/genetics who carried your mitochondrial DNA versus the mothers and grandmothers's of the "other people" you refer to who do not have problems, you might have better perspective...
 
-### patgrif@hotmail.com — 2014-11-20T03:48:55+0200
+### [email redacted] — 2014-11-20T03:48:55+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147886>
 
 OK I will re-read all this but it will STILL be beyond me really. But I pretty much take your word for it. So.................to try to keep it simple or to something I can DO about it other than rowing with one oar, would moving to the West of Ireland it's way out in the country, thinly populated, not even living in a village but I know there are 2 cell towers there that I am aware of. Though in Ireland they had this rule a cell tower had to be at least one kilometer from any dwelling, now they are changing that unfortunately, anyway are you saying it would help to leave LA and go there. I am going to take your answer VERY seriously I very likely will do what you say, so be careful don't just throw something off the top of your head. Not that I am saying you ever do!
 
-### patgrif@hotmail.com — 2014-11-20T03:51:03+0200
+### [email redacted] — 2014-11-20T03:51:03+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147887>
 
 > [Josh said:](/goto/post?id=147885)
@@ -29654,7 +29654,7 @@ What a long strange trip its been.....
 ### yewwei.tan — 2014-11-20T06:08:55+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147906>
 
-> [patgrif@hotmail.com said:](/goto/post?id=147879)
+> [[email redacted] said:](/goto/post?id=147879)
 >
 > I am not sure what you mean by "what set your mitochondrial program Pat?"..............I grew up in Ireland but came to LA in 1978 at the age of 26 y. o. so which one/both set up my mitochondrial program? Not sure what you mean there exactly.
 >
@@ -29895,7 +29895,7 @@ The next 3 blogs and Dec Webinar will cover more material than the first two yrs
 
 Be careful what you ask for in Q & A's........you might get it.
 
-### patgrif@hotmail.com — 2014-11-20T07:19:14+0200
+### [email redacted] — 2014-11-20T07:19:14+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147929>
 
 I guess I have to say I am dissapointed I get a lot of heavy duty science but no real answers to what I think are kind of specific questions. Or am I just to 'dumb' to realize what I am being told. Like my question about is there some kind of 'aggregate effect' of all these devices living in a large city. And even if you go out how about the ionosphere etc. I am utterly at a loss here.
@@ -29953,7 +29953,7 @@ Sidenote, I don't know why, but my favourite Dire Straits song is always the 14 
 ### yewwei.tan — 2014-11-20T07:56:52+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147936>
 
-> [patgrif@hotmail.com said:](/goto/post?id=147929)
+> [[email redacted] said:](/goto/post?id=147929)
 >
 > I guess I have to say I am dissapointed I get a lot of heavy duty science but no real answers to what I think are kind of specific questions. Or am I just to 'dumb' to realize what I am being told. Like my question about is there some kind of 'aggregate effect' of all these devices living in a large city. And even if you go out how about the ionosphere etc. I am utterly at a loss here.
 
@@ -29963,7 +29963,7 @@ If you can, you should really get down to the Optimal Reset 2015 meetup at the e
 
 .
 
-### patgrif@hotmail.com — 2014-11-20T08:15:30+0200
+### [email redacted] — 2014-11-20T08:15:30+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147939>
 
 You guys seem to 'know' so much and yet seem able to explain so little. I find all this 'parading' or knowledge kind of objectionable like it's some kind of race hopefully not to the bottom. I am asking simple enough questions but it's like if I can 'compete' in who is the 'cleverest' just seems a bit childish actually
@@ -29984,7 +29984,7 @@ Yew, for us unable to make it to the event, I wonder for a long time how valuabl
 ### prAna303 — 2014-11-20T10:04:12+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147945>
 
-> [patgrif@hotmail.com said:](/goto/post?id=147939)
+> [[email redacted] said:](/goto/post?id=147939)
 >
 > You guys seem to 'know' so much and yet seem able to explain so little. I find all this 'parading' or knowledge kind of objectionable like it's some kind of race hopefully not to the bottom. I am asking simple enough questions but it's like if I can 'compete' in who is the 'cleverest' just seems a bit childish actually
 
@@ -30005,7 +30005,7 @@ We all have issues in modern world. I can sense many shitty things going on insi
 ### Jude — 2014-11-20T13:19:22+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147952>
 
-> [patgrif@hotmail.com said:](/goto/post?id=147939)
+> [[email redacted] said:](/goto/post?id=147939)
 >
 > You guys seem to 'know' so much and yet seem able to explain so little. I find all this 'parading' or knowledge kind of objectionable like it's some kind of race hopefully not to the bottom. I am asking simple enough questions but it's like if I can 'compete' in who is the 'cleverest' just seems a bit childish actually
 
@@ -30020,7 +30020,7 @@ Your description of that lovely place in Ireland makes me want to visit.....have
 ### kovita — 2014-11-20T14:22:20+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147953>
 
-> [patgrif@hotmail.com said:](/goto/post?id=147939)
+> [[email redacted] said:](/goto/post?id=147939)
 >
 > You guys seem to 'know' so much and yet seem able to explain so little. I find all this 'parading' or knowledge kind of objectionable like it's some kind of race hopefully not to the bottom. I am asking simple enough questions but it's like if I can 'compete' in who is the 'cleverest' just seems a bit childish actually
 
@@ -30148,7 +30148,7 @@ Yes there is a lot to learn about the embryo and what it does...........it is us
 
 I keep thinking about the movie _The Brothers O'Toole_, based in the tiny town of Molly-Be-Damned, Colorado.  Or better known as Molly-Be-Deemed, for all the proper ladies in town. And there came one person to the town, who could actually pronounce molybdenum properly. Everyone was awed!
 
-### patgrif@hotmail.com — 2014-11-20T18:25:32+0200
+### [email redacted] — 2014-11-20T18:25:32+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147979>
 
 I appreciate the 'support' especially Jude and Kovita: Thanks. Honestly Dr Kruse though I am a huge 'fan' of yours I find you manner a bit imperious and high handed. I am not 'disputing' anything, I have lived in LA for 36 years and now based especially on what you are saying I AM seriously thinking about moving to Ireland. But I do not feel it is necessary to brow beat me and kind of go on like I have brain damage or something. Maybe I do, maybe we all do. But I would warn you in the most friendly and best intentioned way your way of dealing with things can tend towards being a 'cult' You may find this ridiculous and maybe it is...............but time will tell.
@@ -30164,7 +30164,7 @@ I understand the body is 'complicated' but there seems to be more and more 'obfu
 
 Patrick your feelings are what they are. I can't change that. You chimmed in and said youre were confused and I tried to help you understand and you're still are pissed. I can't solve your feelings only you can. I can only show you what the science says you might consider. That choice is 100% yours and not that of a cult.
 
-### patgrif@hotmail.com — 2014-11-20T19:11:25+0200
+### [email redacted] — 2014-11-20T19:11:25+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147983>
 
 Dr Kruse: I am sure you have a good point. The thing is I was diagnosed as T2D 11 years ago and I have tried my best including try to implement EVERYTHING (magnetico, CT, DHA, no cell/wifi/blue light on and on and on) you say...............well maybe except not living in LA. But I asked or thought I did is there an 'aggregate effect' of EMF and I suppose I know the answer I am sure is is 'yes' But would it hurt to try to explain that a little bit and in English please. I feel 'played with' and taunted and not in a nice way.
@@ -30176,7 +30176,7 @@ Also IMHO to 'reduce' everything to protons, electrons, magnetism is 'reductioni
 ### kovita — 2014-11-20T19:34:36+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147984>
 
-> [patgrif@hotmail.com said:](/goto/post?id=147983)
+> [[email redacted] said:](/goto/post?id=147983)
 >
 > Dr Kruse: I am sure you have a good point. The thing is I was diagnosed as T2D 11 years ago and I have tried my best including try to implement EVERYTHING (magnetico, CT, DHA, no cell/wifi/blue light on and on and on) you say...............well maybe except not living in LA. But I asked or thought I did is there an 'aggregate effect' of EMF and I suppose I know the answer I am sure is is 'yes' But would it hurt to try to explain that a little bit and in English please. I feel 'played with' and taunted and not in a nice way.
 >
@@ -30204,7 +30204,7 @@ p.s. Off to print out this blog for reading today.
 ### sjoshua — 2014-11-20T20:23:15+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147991>
 
-> [patgrif@hotmail.com said:](/goto/post?id=147983)
+> [[email redacted] said:](/goto/post?id=147983)
 >
 > Dr Kruse: I am sure you have a good point. The thing is I was diagnosed as T2D 11 years ago and I have tried my best including try to implement EVERYTHING (magnetico, CT, DHA, no cell/wifi/blue light on and on and on) you say...............well maybe except not living in LA. But I asked or thought I did is there an 'aggregate effect' of EMF and I suppose I know the answer I am sure is is 'yes' But would it hurt to try to explain that a little bit and in English please. I feel 'played with' and taunted and not in a nice way.
 
@@ -30233,12 +30233,12 @@ So what does that mean? If you are doing everything you are able (...willing) to
 2 - put your fleshpod in an environment that what you're currently doing is sufficient to fully mitigate AND begin reversing disease
 3 - continue status quo, expecting status quo results
 
-### patgrif@hotmail.com — 2014-11-20T20:28:14+0200
+### [email redacted] — 2014-11-20T20:28:14+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147992>
 
 Well me too. I am a major student of Dr Kruse and I hope stuff I say might be taken in a 'positive' way. It is not me intention to pull down or destroy in any way it is my way of making a contribution which we are constantly assured is ok or even the point...............but I think it is important to be honest to speak what I really think, it is too easy to let things slip and a kind of hate to say it again a 'cult like' situation develops. I don't need to be patronized like I am someone with some kind of huge problem but I would honestly ask people here to act less like 'groupies' and more like independent adults who CAN think for themselves at least as best as they can. When a difference of opinion or even just a question really is 'attacked' with some bogus stuff about an inability to tunnel electrons or whatever. Well as I said 2 can play that game, that to me is just 'power tripping'
 
-### patgrif@hotmail.com — 2014-11-20T20:36:05+0200
+### [email redacted] — 2014-11-20T20:36:05+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147993>
 
 > [sjoshua said:](/goto/post?id=147991)
@@ -30273,13 +30273,13 @@ Thanks Joshua, that is a very good explanation I actually really appreciate that
 ### Josh — 2014-11-20T20:38:51+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147994>
 
-> [patgrif@hotmail.com said:](/goto/post?id=147992)
+> [[email redacted] said:](/goto/post?id=147992)
 >
 > Well me too. I am a major student of Dr Kruse and I hope stuff I say might be taken in a 'positive' way. It is not me intention to pull down or destroy in any way it is my way of making a contribution which we are constantly assured is ok or even the point...............but I think it is important to be honest to speak what I really think, it is too easy to let things slip and a kind of hate to say it again a 'cult like' situation develops. I don't need to be patronized like I am someone with some kind of huge problem but I would honestly ask people here to act less like 'groupies' and more like independent adults who CAN think for themselves at least as best as they can. When a difference of opinion or even just a question really is 'attacked' with some bogus stuff about an inability to tunnel electrons or whatever. Well as I said 2 can play that game, that to me is just 'power tripping'
 
 Consider that by and large this is a site for inquiring into the nature of "reality". It is not a "get free medical treatment and advice site". It is illegal to give medical advice in this context. We are struggling with the identification of the best conceptual framework to assess our current COE's and make relevant choices to optimize ourselves here. Our individual "personalities" and "communication styles" are secondary and in fact irrelevant. It is important to understand when and if one needs an actual "healthcare practitioner/guide" to work through one's own relevant and pressing issues. Even a brilliant "understanding of the game" will not make one a great "player". A physicist may understand football better than a quaterback, but he would not survive 10 seconds in a game.
 
-### patgrif@hotmail.com — 2014-11-20T20:55:59+0200
+### [email redacted] — 2014-11-20T20:55:59+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147997>
 
 That's a good example Josh...................I guess basically I got a bit 'freaked out' by my situation like AM I really sitting here being 'microwaved' in spite of my best efforts. And it seems I am.
@@ -30287,7 +30287,7 @@ That's a good example Josh...................I guess basically I got a bit 'frea
 ### sjoshua — 2014-11-20T21:04:23+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-147998>
 
-> [patgrif@hotmail.com said:](/goto/post?id=147993)
+> [[email redacted] said:](/goto/post?id=147993)
 >
 > Thanks Joshua, that is a very good explanation I actually really appreciate that. And yes I think I will be making plans to leave LA and return to the West of Ireland. But I hope people can imagine this is not an easy thing to do but it CAN be done and I imagine now it will. I mean definitly something is off my sleep is basically 'thrashed' and in the Summer in Ireland I did seem to sleep much better and actually feel better too. Thanks again that's really nice of you
 
@@ -30300,7 +30300,7 @@ I had the pleasure of visiting Ireland back in summer '08... given the choice I'
 ### cantweight — 2014-11-20T21:11:00+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148000>
 
-> [patgrif@hotmail.com said:](/goto/post?id=147993)
+> [[email redacted] said:](/goto/post?id=147993)
 >
 > Thanks Joshua, that is a very good explanation I actually really appreciate that. And yes I think I will be making plans to leave LA and return to the West of Ireland. But I hope people can imagine this is not an easy thing to do but it CAN be done and I imagine now it will. I mean definitly something is off my sleep is basically 'thrashed' and in the Summer in Ireland I did seem to sleep much better and actually feel better too. Thanks again that's really nice of you
 
@@ -30348,7 +30348,7 @@ Brother John
 ### yewwei.tan — 2014-11-20T22:18:06+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148012>
 
-> [patgrif@hotmail.com said:](/goto/post?id=147983)
+> [[email redacted] said:](/goto/post?id=147983)
 >
 > I am 62 years old and have been around a bit, a long association with "Primal Therapy" and honestly I feel I can sense the beginnings of 'cult like' thinking. And to just say 'the science' says so not you THAT is even a kind of cult like way of talking. Because if the science says there is no arguing!! Just accept it or else be considered 'stupid' or something. I understand your frustrations with 'lessor minds' and honestly sometimes I wonder why you bother even with all of these 'bio-hackers' like I see you as streets ahead of them. Still.............and I 'admit' I am not in a good place I have to face the fact I don't seem to be able to 'conquer' T2D and maybe yes moving away from LA is the part of the puzzle for me to do now. I accept that I suppose. But even all that said the world is in very bad shape anyway, I heard today we may get 6 degrees Celsius warming by 2050. Is the world doomed anyway and for all the hope and need for DHA what if all the oceans are dead by that date. Where does that leave us, I think some 'humility' in the face of these facts would be more appropriate (better tunneling of electrons lol - see 2 can play that game) as a response To pull stuff like that at least to pull it routinely when anyone disagrees or simple don't understand IS 'cult like' IMO
 >
@@ -30386,7 +30386,7 @@ Now onto diving into some of the parts before my daily swim .......
 ### NeilBB — 2014-11-20T22:21:39+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148013>
 
-> [patgrif@hotmail.com said:](/goto/post?id=147979)
+> [[email redacted] said:](/goto/post?id=147979)
 >
 > I appreciate the 'support' especially Jude and Kovita: Thanks. Honestly Dr Kruse though I am a huge 'fan' of yours I find you manner a bit imperious and high handed. I am not 'disputing' anything, I have lived in LA for 36 years and now based especially on what you are saying I AM seriously thinking about moving to Ireland. But I do not feel it is necessary to brow beat me and kind of go on like I have brain damage or something. Maybe I do, maybe we all do. But I would warn you in the most friendly and best intentioned way your way of dealing with things can tend towards being a 'cult' You may find this ridiculous and maybe it is...............but time will tell.
 >
@@ -30456,7 +30456,7 @@ I'll update this thread with summaries once I'm done with the reading
 
 I do not appreciate that cult BS either. I should have said what I was thinking but it would not have been pretty.
 
-### patgrif@hotmail.com — 2014-11-20T23:25:11+0200
+### [email redacted] — 2014-11-20T23:25:11+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148026>
 
 > [NeilBB said:](/goto/post?id=148013)
@@ -30465,7 +30465,7 @@ I do not appreciate that cult BS either. I should have said what I was thinking 
 
 Neil, I havn't read your blog (yet) I am catching up I was in Ireland for 4 months and took off completely including from here. I know a little about 'epistemology' I have a degree in Philosophy not that I value that very much. But I don't think you can rigidly decide what is a cult or not, there are gradations it is a continuum I would say. I think this place is far from being a cult but you know give it time. As Joni Mitchell said in a song "I have seen some hot blazes/come down to smoke and ash" and this thing if a disagreement or even a question is dealt with by the questioner's inability to tunnel electrons to entangle electrons to tunnel protons whatever whatever.................that I consider a slippery slope and it makes me wary. It like a Marxist deciding you have the 'incorrect line' was Marxism a cult.............yes and no not so easy to decide. I don't think there any standards really but maybe I know it when I see it...............
 
-### patgrif@hotmail.com — 2014-11-20T23:33:18+0200
+### [email redacted] — 2014-11-20T23:33:18+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148028>
 
 > [yewwei.tan said:](/goto/post?id=148012)
@@ -30503,7 +30503,7 @@ Neil, I havn't read your blog (yet) I am catching up I was in Ireland for 4 mont
 
 You guys love 'quantum' indefiniteness probabilistic etc..............but you are awfully definite about being indefinite. Dont mean to be a smart-ass but it hits me that way. Also I think the word 'quantum' is just overdone a bit. I mean I took a Chemistry class about 30 years ago and it struck me at the time that at least chemical reactions are actually 'electronic' But we KNOW that is it necessary to kind of beat that horse to death all the time, I get tired of it personally.
 
-### patgrif@hotmail.com — 2014-11-20T23:55:33+0200
+### [email redacted] — 2014-11-20T23:55:33+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148030>
 
 > [Lahelada said:](/goto/post?id=148001)
@@ -30514,7 +30514,7 @@ You guys love 'quantum' indefiniteness probabilistic etc..............but you ar
 
 Lahelada, well it's not impossible but you know not so easy. I would be going back to the farm I grew up on, I had 'issues' with my family etc. But it's 'all good' now so I probably can pull it off
 
-### patgrif@hotmail.com — 2014-11-20T23:57:24+0200
+### [email redacted] — 2014-11-20T23:57:24+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148031>
 
 > [Martin said:](/goto/post?id=148007)
@@ -30531,7 +30531,7 @@ Lahelada, well it's not impossible but you know not so easy. I would be going ba
 
 Martin: that a very nice way of putting it. I believe in that approach and live that way very much. I have found some people don't like.....................hopefully Dr Kruse is not one of those he does not seem like a person to hold a 'grudge' plus I imagine he does not have the time lol
 
-### patgrif@hotmail.com — 2014-11-21T00:06:57+0200
+### [email redacted] — 2014-11-21T00:06:57+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148032>
 
 I do feel I owe Dr Kruse an apology so here it is. I apologize, certainly the use of the 'cult' word is over the top so I'm sorry.
@@ -30809,7 +30809,7 @@ I will need to let these diagrams sit in my head for awhile before commenting fu
 ### Penny — 2014-11-21T02:21:00+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148037>
 
-> [patgrif@hotmail.com said:](/goto/post?id=147929)
+> [[email redacted] said:](/goto/post?id=147929)
 >
 > I guess I have to say I am dissapointed I get a lot of heavy duty science but no real answers to what I think are kind of specific questions. Or am I just to 'dumb' to realize what I am being told. Like my question about is there some kind of 'aggregate effect' of all these devices living in a large city. And even if you go out how about the ionosphere etc. I am utterly at a loss here.
 
@@ -31184,7 +31184,7 @@ shrewd picking that up......
 ### Inger — 2014-11-21T17:22:09+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148077>
 
-> [patgrif@hotmail.com said:](/goto/post?id=148032)
+> [[email redacted] said:](/goto/post?id=148032)
 >
 > I do feel I owe Dr Kruse an apology so here it is. I apologize, certainly the use of the 'cult' word is over the top so I'm sorry.
 >
@@ -31205,7 +31205,7 @@ That said, I understand you feel confused and angry. The way it flows on this si
 and Patrick... I moved too.... to an environment with less EMF....... so good to come away from the darn smart meter... 3 and 4 G etc....
 I do not regret it one bit
 
-### patgrif@hotmail.com — 2014-11-21T18:14:01+0200
+### [email redacted] — 2014-11-21T18:14:01+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148079>
 
 Inger, it's 'funny' almost but now I feel yes I NEED to move. It is hard to say what I am 'thinking' or 'feeling' but my body above all feels de-hydrated (though I drink lots of spring water or at least is supposed to be spring water). There is something wrong with me, like I say I feel so de-hydrated that nothing I do can change it. Dr Kruse has mentioned that diabetics are chronically de-hydrated. So again I am sorry for 'shooting my mouth' off fighting Irish I suppose. It's just it freaked me out I am trying to do all the 'right things' and I still have the problem. And yes there is 'denial' hard to admit I suppose I am powerless in spite of all that I do living in the 'microwave' here. Then again I question myself has the notion of the 'microwave' just entered my mind to make me feel this way. But I doubt that really, I don't have any 'labs' to point to perhaps it is a good idea for me to get some. But this has been a bit of an earthquake for me and I hope Dr Kruse will understand.................
@@ -31327,7 +31327,7 @@ The mainstream wants you to take antioxidants to "fix" the problem. This reduces
 LCHF people reduce ROS through avoidance of carbohydrate-derived electron input to complex I. Same answer, if not modulated by seasonal input eventually. See my post here...
 [http://forum.jackkruse.com/index.ph...about-infrared-and-ct.9675/page-3#post-146800](http://forum.jackkruse.com/index.php?threads/a-little-story-about-infrared-and-ct.9675/page-3#post-146800)
 
-### patgrif@hotmail.com — 2014-11-21T21:17:27+0200
+### [email redacted] — 2014-11-21T21:17:27+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148102>
 
 One thing that occurs to me now is from reading some of the website Josh (Paleo) and Yew put on here the 'holoscience' one that is promoting the "Electric Universe" with with Dr Kruse seems very aligned with..................but THAT view of the universe is quite 'hostile' to Einstein for example and many other 'un-questioned' aspects of relativity, black holes etc. So........................if that is the more 'correct' one which I tend to think is correct..............then Dr Kruse is kind of trying to have it both ways. He 'rejects' much of modern physics but KEEPS all this business about 'paired' and 'unpaired' electrons. That stuff seems dubious to me I don't think it is even close to being 'proved' but then to make this a big factor in biology...............I dunno seems a MAJOR 'stretch' to me. What if the original 'quantum' notion of 'paired electrons' is headed for the same scientific thrash heap as big bang, black holes, dark energy etc. I am not trying to nit pick here I tend to believe in my own N=1 I need to move out of LA it only makes sense.............but I am not about to give up my 'critical thinking' or 'common sense' and stake my life on trying to regain my ability to 'pair electrons' something that may not even be real. I think Dr Kruse has achieved an amazing amount already but I do feel (rightly or wrongly) he just might be jumping a bit too far and a bit too quick with this 'pairing electrons' business................
@@ -31335,13 +31335,13 @@ One thing that occurs to me now is from reading some of the website Josh (Paleo)
 ### Josh — 2014-11-21T21:23:48+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148103>
 
-> [patgrif@hotmail.com said:](/goto/post?id=148102)
+> [[email redacted] said:](/goto/post?id=148102)
 >
 > One thing that occurs to me now is from reading some of the website Josh (Paleo) and Yew put on here the 'holoscience' one that is promoting the "Electric Universe" with with Dr Kruse seems very aligned with..................but THAT view of the universe is quite 'hostile' to Einstein for example and many other 'un-questioned' aspects of relativity, black holes etc. So........................if that is the more 'correct' one which I tend to think is correct..............then Dr Kruse is kind of trying to have it both ways. He 'rejects' much of modern physics but KEEPS all this business about 'paired' and 'unpaired' electrons. That stuff seems dubious to me I don't think it is even close to being 'proved' but then to make this a big factor in biology...............I dunno seems a MAJOR 'stretch' to me. What if the original 'quantum' notion of 'paired electrons' is headed for the same scientific thrash heap as big bang, black holes, dark energy etc. I am not trying to nit pick here I tend to believe in my own N=1 I need to move out of LA it only makes sense.............but I am not about to give up my 'critical thinking' or 'common sense' and stake my life on trying to regain my ability to 'pair electrons' something that may not even be real. I think Dr Kruse has achieved an amazing amount already but I do feel (rightly or wrongly) he just might be jumping a bit too far and a bit too quick with this 'pairing electrons' business................
 
 This reply indicates you have neither fully embraced the subtleties of Dr. Kruse's discussion nor that of the EU people. It is a fairly brutal exercise to orient oneself fully so that one might critique both from a valid and informed perspective. For example, Wal Thornhill who I met last weekend has been working full-time on these questions since 1979 when he met Velikovsky. Jack has been studying and experimenting for 10 years. None of us can begin to approach the depth of their inquiry. It is unclear what you are looking for here? Are you looking for a good excuse to ignore the data and stay comfortable? No one would fault you for this. In my perspective it is the quality of your consciousness at death that is most vital, the length of life is secondary. These are individual choices and explorations. Best of luck with your choices.
 
-### patgrif@hotmail.com — 2014-11-21T21:28:58+0200
+### [email redacted] — 2014-11-21T21:28:58+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148104>
 
 I am only bringing attention to what Josh (Paleo) and Yew already did but I really like this "Electric Universe" science web site. It is fairly accessible I would say and I think will put some of Dr Kruse's promised notions about gravity etc in a good and understandable context. But now I really do question the what I see as 'un-thinking adherence' to a lot of this 'quantum' business. The first thing I don't like about it is it seems un-necessary to say it is 'quantum' all the time, a chemical reaction (exchange of electrons is 'quantum' ok big deal that has been known for a long time) but also it seems to open up limitless avenues for excuse my French 'bullshit' things winking in and out of existence, paired electrons STILL affecting each other though they might be trillions of miles apart, and applying all this to biology. Maybe time to cool off a bit on some of this stuff. Anyway here's the website
@@ -31351,7 +31351,7 @@ I am only bringing attention to what Josh (Paleo) and Yew already did but I real
 ### NeilBB — 2014-11-21T21:29:57+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148105>
 
-> [patgrif@hotmail.com said:](/goto/post?id=148102)
+> [[email redacted] said:](/goto/post?id=148102)
 >
 > One thing that occurs to me now is from reading some of the website Josh (Paleo) and Yew put on here the 'holoscience' one that is promoting the "Electric Universe" with with Dr Kruse seems very aligned with..................but THAT view of the universe is quite 'hostile' to Einstein for example and many other 'un-questioned' aspects of relativity, black holes etc. So........................if that is the more 'correct' one which I tend to think is correct..............then Dr Kruse is kind of trying to have it both ways. He 'rejects' much of modern physics but KEEPS all this business about 'paired' and 'unpaired' electrons. That stuff seems dubious to me I don't think it is even close to being 'proved' but then to make this a big factor in biology...............I dunno seems a MAJOR 'stretch' to me. What if the original 'quantum' notion of 'paired electrons' is headed for the same scientific thrash heap as big bang, black holes, dark energy etc. I am not trying to nit pick here I tend to believe in my own N=1 I need to move out of LA it only makes sense.............but I am not about to give up my 'critical thinking' or 'common sense' and stake my life on trying to regain my ability to 'pair electrons' something that may not even be real. I think Dr Kruse has achieved an amazing amount already but I do feel (rightly or wrongly) he just might be jumping a bit too far and a bit too quick with this 'pairing electrons' business................
 
@@ -31363,7 +31363,7 @@ He never said you or anybody had to believe him or do anything. You are here bec
 
 Challenging a person's theory by saying basically, "What he's saying is very complicated and unusual. It might possibly be wrong," is very different from finding an actual error that you can correct. If you want to poke holes in his theory, you're gonna have to study harder. A lot harder.
 
-### patgrif@hotmail.com — 2014-11-21T21:43:53+0200
+### [email redacted] — 2014-11-21T21:43:53+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148106>
 
 > [NeilBB said:](/goto/post?id=148105)
@@ -31378,7 +31378,7 @@ Challenging a person's theory by saying basically, "What he's saying is very com
 
 Neil, with all due respect I AM thinking for myself, I am not trying to 'pull rank' as I feel you are (a bit). After all you are a 'doctor' so you feel entitled it is not up to you to tell me what I need or need not study. I am just pointing out some rather obvious 'holes' in some of the discussions here and even possibly (gasp!) by Dr Kruse himself. Now I understand he has able 'lieutenant's like you to step up and plug the holes as quickly as possible as well as Josh (non-Paleo) but to me you more heighten my concern about 'group think' I mean what do YOU think about 'paired electrons' and more importantly their application to biology.
 
-### patgrif@hotmail.com — 2014-11-21T22:00:33+0200
+### [email redacted] — 2014-11-21T22:00:33+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148110>
 
 > [Josh said:](/goto/post?id=148103)
@@ -31390,7 +31390,7 @@ Josh, I find that 'patronizing' and smug in a rather silly way. What am I lookin
 ### NeilBB — 2014-11-21T22:09:36+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148111>
 
-> [patgrif@hotmail.com said:](/goto/post?id=148106)
+> [[email redacted] said:](/goto/post?id=148106)
 >
 > Neil, with all due respect I AM thinking for myself, I am not trying to 'pull rank' as I feel you are (a bit). After all you are a 'doctor' so you feel entitled it is not up to you to tell me what I need or need not study. I am just pointing out some rather obvious 'holes' in some of the discussions here and even possibly (gasp!) by Dr Kruse himself. Now I understand he has able 'lieutenant's like you to step up and plug the holes as quickly as possible as well as Josh (non-Paleo) but to me you more heighten my concern about 'group think' I mean what do YOU think about 'paired electrons' and more importantly their application to biology.
 
@@ -31512,7 +31512,7 @@ Apologies if these sound like drunk ramblings of a dude who is high as f\*\*\*. 
 ### NeilBB — 2014-11-21T22:57:20+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148114>
 
-> [patgrif@hotmail.com said:](/goto/post?id=148106)
+> [[email redacted] said:](/goto/post?id=148106)
 >
 > Neil, with all due respect I AM thinking for myself, I am not trying to 'pull rank' as I feel you are (a bit). After all you are a 'doctor' so you feel entitled it is not up to you to tell me what I need or need not study. I am just pointing out some rather obvious 'holes' in some of the discussions here and even possibly (gasp!) by Dr Kruse himself. Now I understand he has able 'lieutenant's like you to step up and plug the holes as quickly as possible as well as Josh (non-Paleo) but to me you more heighten my concern about 'group think' I mean what do YOU think about 'paired electrons' and more importantly their application to biology.
 
@@ -31521,7 +31521,7 @@ Also Pat, I'm disappointed that you haven't read my blog. Its actually enormousl
 ### Josh — 2014-11-21T23:15:59+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148116>
 
-> [patgrif@hotmail.com said:](/goto/post?id=148110)
+> [[email redacted] said:](/goto/post?id=148110)
 >
 > Josh, I find that 'patronizing' and smug in a rather silly way. What am I looking for here? Are you saying I shouldn't be here? I would imagine I am looking for something similar to you, well being health both mental and physical, nothing out of the ordinary. Again you promote 'thinking for yourself' but quickly run to 'authority' whether Velikovsky who I have never met but good for you you have met someone who has met him.......good for you..............honestly as I see it here you might be the one to quote yourself who is "looking for a good excuse to ignore the data and stay comfortable?" As I have said before 2 can play that game. I VERY much disagree with your statement "None of us can begin to approach the depth of their inquiry." Again promoting 'original thinking' but as soon as you encounter it attempt to 'smother' it with an appeal to 'authority'. I said before I have a degree in Philosophy but I do not consider it a big deal.....................but I have some 'education' I find this 'running to authority' so weird especially from people who constantly SAY the opposite...............
 
@@ -31532,7 +31532,7 @@ We can skip the "due respect", I am an obnoxious New York Jew and I got the "Iri
 
 Hey when is this apocalypse happening???? Not nice to keep all this to yourselves... I will even settle for turning water into a 1952 Penfolds.
 
-### patgrif@hotmail.com — 2014-11-22T00:25:45+0200
+### [email redacted] — 2014-11-22T00:25:45+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148119>
 
 > [Josh said:](/goto/post?id=148116)
@@ -31541,7 +31541,7 @@ Hey when is this apocalypse happening???? Not nice to keep all this to yourselve
 
 Cool!
 
-### patgrif@hotmail.com — 2014-11-22T00:50:15+0200
+### [email redacted] — 2014-11-22T00:50:15+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148122>
 
 > [NeilBB said:](/goto/post?id=148111)
@@ -31572,7 +31572,7 @@ All that said I think Jack has stumbled brilliantly onto CT and I intend to cont
 
 Emphasis on the bolded sections below in the quote
 
-> [patgrif@hotmail.com said:](/goto/post?id=148122)
+> [[email redacted] said:](/goto/post?id=148122)
 >
 > I mean I have only stumbled really the last few days on this "Electric Universe" site and I find majorly interesting. And it did strike me as potentially inconsistent for Dr Kruse to kind of TAKE a lot of that but at the same time KEEP Einstein etc like it was literally un-questionable. There is just a feeling a lit bit of being bamboozled and I start to nit pick a little bit.
 >
@@ -31613,7 +31613,7 @@ It also underlies why the Fournier Effect works. Read my post for the explanatio
 
 ...
 
-### patgrif@hotmail.com — 2014-11-22T02:21:02+0200
+### [email redacted] — 2014-11-22T02:21:02+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148128>
 
 Yewwei, I just read an article in last Sunday's NY Times [http://www.nytimes.com/2014/11/16/opinion/sunday/is-quantum-entanglement-real.html?\_r=0](http://www.nytimes.com/2014/11/16/opinion/sunday/is-quantum-entanglement-real.html?_r=0) which seem to throw some doubt on how 'proved' it is. But to be honest I have no idea if it is 'proved' or 'true' or not. My question was more IF it is 'true' to then say it has major implications for biology and the nature of diabetes well to a 'common sense' point of view like mine seems well 'not proven' shall we say. That's all
@@ -31646,7 +31646,7 @@ I've been toying with the idea of starting a thread to thrash out some of these 
 ### Josh — 2014-11-22T03:18:44+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148130>
 
-> [patgrif@hotmail.com said:](/goto/post?id=148128)
+> [[email redacted] said:](/goto/post?id=148128)
 >
 > Yewwei, I just read an article in last Sunday's NY Times [http://www.nytimes.com/2014/11/16/opinion/sunday/is-quantum-entanglement-real.html?\_r=0](http://www.nytimes.com/2014/11/16/opinion/sunday/is-quantum-entanglement-real.html?_r=0) which seem to throw some doubt on how 'proved' it is. But to be honest I have no idea if it is 'proved' or 'true' or not. My question was more IF it is 'true' to then say it has major implications for biology and the nature of diabetes well to a 'common sense' point of view like mine seems well 'not proven' shall we say. That's all
 >
@@ -31659,7 +31659,7 @@ Jack never said "just do CT" he actually qualified it a t length in the appendix
 ### Jack Kruse — 2014-11-22T04:38:52+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148134>
 
-> [patgrif@hotmail.com said:](/goto/post?id=148102)
+> [[email redacted] said:](/goto/post?id=148102)
 >
 > One thing that occurs to me now is from reading some of the website Josh (Paleo) and Yew put on here the 'holoscience' one that is promoting the "Electric Universe" with with Dr Kruse seems very aligned with..................but THAT view of the universe is quite 'hostile' to Einstein for example and many other 'un-questioned' aspects of relativity, black holes etc. So........................if that is the more 'correct' one which I tend to think is correct..............then Dr Kruse is kind of trying to have it both ways. He 'rejects' much of modern physics but KEEPS all this business about 'paired' and 'unpaired' electrons. That stuff seems dubious to me I don't think it is even close to being 'proved' but then to make this a big factor in biology...............I dunno seems a MAJOR 'stretch' to me. What if the original 'quantum' notion of 'paired electrons' is headed for the same scientific thrash heap as big bang, black holes, dark energy etc. I am not trying to nit pick here I tend to believe in my own N=1 I need to move out of LA it only makes sense.............but I am not about to give up my 'critical thinking' or 'common sense' and stake my life on trying to regain my ability to 'pair electrons' something that may not even be real. I think Dr Kruse has achieved an amazing amount already but I do feel (rightly or wrongly) he just might be jumping a bit too far and a bit too quick with this 'pairing electrons' business................
 
@@ -31670,7 +31670,7 @@ You think you know where I am going.........that may be your error.
 ### NeilBB — 2014-11-22T04:44:47+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148136>
 
-> [patgrif@hotmail.com said:](/goto/post?id=148122)
+> [[email redacted] said:](/goto/post?id=148122)
 >
 > That's fine Neil I have no problem with any of that. I just read your blogpost...........it's fine again I find nothing 'wrong' with it even if it seems a bit 'un-exceptional'. What I mean is it seems (to me) a little bit stating the obvious but again it's good a good thing to keep in mind. It's nothing to do with me not wanting Jack to be right as you say. I wish he was always unquestionably right wouldn't life be a lot simpler then. And in many many ways I have felt and acted that he is. Even this latest kerfuffle it looks like I will be dragged kicking and screaming to Ireland. So.................look at what people DO not what they SAY. I am 'listening' to him in a VERY important decision. (Actions speak louder than words!!)
 
@@ -31689,7 +31689,7 @@ Good luck. Whatever it is you want, I hope you get it.
 
 I thought your blog was awesome NeilBB but maybe you're right when you told me people just don't get it............
 
-### patgrif@hotmail.com — 2014-11-22T05:05:30+0200
+### [email redacted] — 2014-11-22T05:05:30+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148138>
 
 > [NeilBB said:](/goto/post?id=148136)
@@ -31725,7 +31725,7 @@ I don't like this 'moving on' business seems a bit typical of 'throw away world'
 
 Very Well said Neill....
 
-### patgrif@hotmail.com — 2014-11-22T05:20:58+0200
+### [email redacted] — 2014-11-22T05:20:58+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148141>
 
 Caroline, do you 'like' everyone except me. I hate to say it but that kind of makes me question the 'group(ie)' thing again. What is so bad about a bit of doubt? What is so awful about a few tough questions? Your 'behavior' is making my point more compellingly than I ever could. This constant need to 'belong' and to 'agree' seems 'cultist' to me
@@ -31733,7 +31733,7 @@ Caroline, do you 'like' everyone except me. I hate to say it but that kind of ma
 ### caroline — 2014-11-22T05:39:27+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148142>
 
-> [patgrif@hotmail.com said:](/goto/post?id=148141)
+> [[email redacted] said:](/goto/post?id=148141)
 >
 > Caroline, do you 'like' everyone except me. I hate to say it but that kind of makes me question the 'group(ie)' thing again. What is so bad about a bit of doubt? What is so awful about a few tough questions? Your 'behavior' is making my point more compellingly than I ever could. This constant need to 'belong' and to 'agree' seems 'cultist' to me
 
@@ -31745,7 +31745,7 @@ Jack has always told us to question everything.... That is what you seem to be d
 
 Neil has suggested that you go to NOLA and meet Jack in person . .. and then maybe you will understand what we see.
 
-### patgrif@hotmail.com — 2014-11-22T06:27:48+0200
+### [email redacted] — 2014-11-22T06:27:48+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148143>
 
 > [Jack Kruse said:](/goto/post?id=148134)
@@ -32015,7 +32015,7 @@ A page I found on Tensegrity in Biology [http://www.tensegrityinbiology.co.uk/bi
 
 I cant say I'm assembling this puzzle in any linear way - I'm just assembling various parts of the jigsaw that seem to fit together - not throwing any pieces away that I cant make fit(understand) yet - and looking forward to finding the pieces that tie all these small pictures together to make the big picture. As Jack said in the webinar - sometimes its about perspective, sometimes that puzzle piece is rotated or flipped upside down so I dont recognise it yet.
 
-### patgrif@hotmail.com — 2014-11-23T03:02:46+0200
+### [email redacted] — 2014-11-23T03:02:46+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148203>
 
 I want to sincerely apologize to the Forum and specifically to Jack, and also Neil, Josh, and Caroline. Hope I have not forgotten anyone. To explain but not to excuse I was really freaked out by my situation in LA and in a kind of daze lashed out in all directions. Partly denial I want to cast doubt, do you REALLY know etc
@@ -32042,7 +32042,7 @@ My first thoughts were regard to recruitment of satellite cells... in terms that
 ### NeilBB — 2014-11-23T03:42:47+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148205>
 
-> [patgrif@hotmail.com said:](/goto/post?id=148203)
+> [[email redacted] said:](/goto/post?id=148203)
 >
 > I want to sincerely apologize to the Forum and specifically to Jack, and also Neil, Josh, and Caroline. Hope I have not forgotten anyone. To explain but not to excuse I was really freaked out by my situation in LA and in a kind of daze lashed out in all directions. Partly denial I want to cast doubt, do you REALLY know etc
 >
@@ -32103,7 +32103,7 @@ No answers yet, back tomorrow for more thinking ....
 
 I'm in the Frennch Quarter knee deep into a few dozen oysters and some wine.............Finished the Dec webinar today..........by the way.......it was good.
 
-### patgrif@hotmail.com — 2014-11-23T05:14:49+0200
+### [email redacted] — 2014-11-23T05:14:49+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148214>
 
 > [Josh (Paleo Osteo) said:](/goto/post?id=148206)
@@ -32506,7 +32506,7 @@ i agree with this. jack has done an amazing job of connecting the dots.
 
 Easy now, we are enter cult status...........
 
-### patgrif@hotmail.com — 2014-11-24T02:50:34+0200
+### [email redacted] — 2014-11-24T02:50:34+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148303>
 
 > [Jack Kruse said:](/goto/post?id=148299)
@@ -32518,7 +32518,7 @@ Dr Kruse, that kind of got to you huh? Well in Ireland we say 'with drink the tr
 ### NeilBB — 2014-11-24T03:31:38+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148306>
 
-> [patgrif@hotmail.com said:](/goto/post?id=148303)
+> [[email redacted] said:](/goto/post?id=148303)
 >
 > but there are teensy weensy 'signs' and well you know things can start small and mushroom hugely.............like galaxies lol
 
@@ -32537,7 +32537,7 @@ I will tell Jack when I think he's wrong about something because I trust my own 
 
 in my experience JK always listens to responsible questions/criticisms... ......He pays deep attention - and I do know that first hand ......
 
-### patgrif@hotmail.com — 2014-11-24T03:47:37+0200
+### [email redacted] — 2014-11-24T03:47:37+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148308>
 
 > [NeilBB said:](/goto/post?id=148306)
@@ -32557,7 +32557,7 @@ Neil, I see this as slightly ironic.................just because you 'know' all 
 ### NeilBB — 2014-11-24T03:54:30+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148309>
 
-> [patgrif@hotmail.com said:](/goto/post?id=148308)
+> [[email redacted] said:](/goto/post?id=148308)
 >
 > Neil, I see this as slightly ironic.................just because you 'know' all the epistemological traps and have it all 'figured out' is in the end no guarantee of you not falling into exactly the traps you warn against. Human life and brains can be VERY ironic. No big deal ..................but I am stuck by what a furore even the cult word has caused..................it just seems to have touched a nerve, people just seem slightly 'over sensitive' to the charge (which I am not actually making) just saying I do see some 'signs' which could get worse...............
 
@@ -32581,7 +32581,7 @@ Like a combination of herd menatality feeding into confirmation bias?
 
 Absolutely. Huge ingredients in the recipe for "dogma stew."
 
-### patgrif@hotmail.com — 2014-11-24T04:24:26+0200
+### [email redacted] — 2014-11-24T04:24:26+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148312>
 
 > [NeilBB said:](/goto/post?id=148309)
@@ -32594,7 +32594,7 @@ Um...............ah...............I 'try' to (know my limitations) sometimes I t
 ### NeilBB — 2014-11-24T05:07:57+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148313>
 
-> [patgrif@hotmail.com said:](/goto/post?id=148312)
+> [[email redacted] said:](/goto/post?id=148312)
 >
 > Um...............ah...............I 'try' to (know my limitations) sometimes I think I am TOO much that way. I tend to see the 'holes' in my own thinking and I suppose by extension then to others too. I am skeptical to a fault. See when I see you say so confidently that you know your limitations in my mind that kind of means you actually don't. If you REALLY did you would not be so sure. But neither one is 'right' being crippled by doubt is no fun either and I would not necessarily recommend it and good for you for being confident in yourself. But I don't think it has that much to do with 'epistemology' it is more of your or my instinctive feeling about life and ourselves
 
@@ -32607,7 +32607,7 @@ Skepticism is good to employ to a point. But you also have to know when it's tim
 ### yewwei.tan — 2014-11-24T05:28:48+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148314>
 
-> [patgrif@hotmail.com said:](/goto/post?id=148312)
+> [[email redacted] said:](/goto/post?id=148312)
 >
 > Um...............ah...............I 'try' to (know my limitations) sometimes I think I am TOO much that way. I tend to see the 'holes' in my own thinking and I suppose by extension then to others too. I am skeptical to a fault. See when I see you say so confidently that you know your limitations in my mind that kind of means you actually don't. If you REALLY did you would not be so sure. But neither one is 'right' being crippled by doubt is no fun either and I would not necessarily recommend it and good for you for being confident in yourself. But I don't think it has that much to do with 'epistemology' it is more of your or my instinctive feeling about life and ourselves
 
@@ -32669,7 +32669,7 @@ Sidenote: I had recently re-read the Quantum Cell blog post, and it seems very r
 ### NeilBB — 2014-11-24T15:30:28+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148318>
 
-> [patgrif@hotmail.com said:](/goto/post?id=148308)
+> [[email redacted] said:](/goto/post?id=148308)
 >
 > Neil, I see this as slightly ironic.................just because you 'know' all the epistemological traps and have it all 'figured out' is in the end no guarantee of you not falling into exactly the traps you warn against. Human life and brains can be VERY ironic. No big deal ..................but I am stuck by what a furore even the cult word has caused..................it just seems to have touched a nerve, people just seem slightly 'over sensitive' to the charge (which I am not actually making) just saying I do see some 'signs' which could get worse...............
 
@@ -32742,7 +32742,7 @@ EE 6 and the quantum brain blog really are synthesis of my bio hacking the perio
 I'm just stirring the pot...breaking up the cultlike atmosphere...causing general trouble and mayhem...
 But I'm glad you're back--I'm really sick of typing...
 
-### patgrif@hotmail.com — 2014-11-24T18:32:44+0200
+### [email redacted] — 2014-11-24T18:32:44+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148333>
 
 > [NeilBB said:](/goto/post?id=148318)
@@ -32774,10 +32774,10 @@ Reminded me that love is fractal.
 And what Josh said... it is the consciousness you have achieved that counts at your last moment
 I loved that Josh - I really had to think about it quite a bit.
 
-### patgrif@hotmail.com — 2014-11-24T19:29:35+0200
+### [email redacted] — 2014-11-24T19:29:35+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-148335>
 
-> [patgrif@hotmail.com said:](/goto/post?id=148333)
+> [[email redacted] said:](/goto/post?id=148333)
 >
 > That's cool Neil. All of this has kind of come upon me in a rush the last few days. I didn't even know about the "Electric Universe' world until last week. I have been reading and watching a lot of their videos make a huge amount of sense. I found the one on the surface of Mars totally convincing.
 >
@@ -33598,7 +33598,7 @@ Worth seeing it in a picture...our links to our mom's....
 In case I did not miss this, it now seems obvious how in a world hostile to mitochondria, men will start dying (out)....this woman scares me....
 
 > **Mitochondria, Maternal Inheritance, and Male Aging**
-> [](mailto:damian.dowling@monash.edu)
+> [](mailto:[email redacted])
 >
 > DOI: [http://dx.doi.org/10.1016/j.cub.2012.07.018](http://dx.doi.org/10.1016/j.cub.2012.07.018)
 >
@@ -34046,7 +34046,7 @@ Brother John
 
 I made a comparison and drew a conclusion based on a long conversation. That's all. I like Patrick. I wish we he would come back. He was throwing a lot of criticism around at this time. The tone of my response here relates to that context, but I stand by my analysis. Humian skepticism is the archetype for the position he was espousing at that moment. No lack of respect was intended..
 
-### patgrif@hotmail.com — 2014-12-13T23:08:04+0200
+### [email redacted] — 2014-12-13T23:08:04+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-150026>
 
 > [NeilBB said:](/goto/post?id=150022)
@@ -34069,7 +34069,7 @@ Love it Patrick... you rock for sure
 ### NeilBB — 2014-12-14T20:50:05+0200
 **Source:** <https://forum.jackkruse.com/threads/tensegrity-9-is-live-welcome-comments-here.12199/post-150096>
 
-> [patgrif@hotmail.com said:](/goto/post?id=150026)
+> [[email redacted] said:](/goto/post?id=150026)
 >
 > That's fine Neil, I haven't actually gone anywhere proof is I suppose that I answer here. I have been reading the blog trying to keep up as best as I can especially with yourself Dr Kruse and Yew! And you are correct I WAS throwing around a lot of criticism I was actually freaked out by being told I had to move out of LA. But I am coming to terms with it and in the 'planning stages' of moving to Ireland so that 'explains' my tantrum if I should call it that at the time. As I said before "Actions speak louder than words"
 >
@@ -40197,7 +40197,7 @@ He's a digital man
 ### NeilBB — 2016-05-12T22:54:33+0300
 **Source:** <https://forum.jackkruse.com/threads/rush-or-otherwise-interesting-song-of-day.12246/post-194634>
 
-Today's dedication is to @[patgrif@hotmail.com](mailto:patgrif@hotmail.com)
+Today's dedication is to @[[email redacted]](mailto:[email redacted])
 
 ### NeilBB — 2016-05-13T20:15:54+0300
 **Source:** <https://forum.jackkruse.com/threads/rush-or-otherwise-interesting-song-of-day.12246/post-194723>
@@ -41982,7 +41982,7 @@ This guy needs some serious sun, but kicks ass and takes names on stage anyway.
 
 Pretty good drum cover:
 
-### gcnorbury@gmail.com — 2018-11-20T13:41:48+0200
+### [email redacted] — 2018-11-20T13:41:48+0200
 **Source:** <https://forum.jackkruse.com/threads/rush-or-otherwise-interesting-song-of-day.12246/post-256049>
 
 Hello all you Musical Kruse fans!

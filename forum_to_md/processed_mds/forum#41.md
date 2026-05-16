@@ -14775,7 +14775,7 @@ is the Active Woman's Alternative
 for Pads and Tampons**
 [http://femmycycle.com/about/](http://femmycycle.com/about/)
 
-### patgrif@hotmail.com — 2016-04-24T11:34:58+0300
+### [email redacted] — 2016-04-24T11:34:58+0300
 **Source:** <https://forum.jackkruse.com/threads/low-cortisol-levels.14194/post-193347>
 
 I haven't been on here for a while but something has come up for me and it is....................chemtrails. I admit if someone had mentioned this to me as a concern even say 6 months ago I might have kind of doubted the person's sanity. But.................I feel very differently now.................I have been checking into this phenomenon and honestly to me it is very worrying. This video is of Dr Russel Blaylock who has already been raising the alarm about vaccines and interestingly maybe chemtrails are a from of 'involuntary caccination' at least to the extent of delivering aluminum to the body and brain. Alzheimer's anyone? This is scary indeed and unfortunately as I delve more into the subject there seems to be a deep 'military' reason for all this. Scary, scary........................I begin to think now this should be a real 'cause'. Maybe here we are a bit too concerned with 'exotica' of health meanwhile a major health danger is hiding in plain sight. I would be very interested in anyone's take on this..........................
@@ -14791,7 +14791,7 @@ I fortunately have not seen much this year yet here but I am looking up to the s
 ### JanSz — 2016-04-24T16:02:37+0300
 **Source:** <https://forum.jackkruse.com/threads/low-cortisol-levels.14194/post-193362>
 
-> [patgrif@hotmail.com said:](/goto/post?id=193347)
+> [[email redacted] said:](/goto/post?id=193347)
 >
 > I haven't been on here for a while but something has come up for me and it is....................chemtrails. I admit if someone had mentioned this to me as a concern even say 6 months ago I might have kind of doubted the person's sanity. But.................I feel very differently now.................I have been checking into this phenomenon and honestly to me it is very worrying. This video is of Dr Russel Blaylock who has already been raising the alarm about vaccines and interestingly maybe chemtrails are a from of 'involuntary caccination' at least to the extent of delivering aluminum to the body and brain. Alzheimer's anyone? This is scary indeed and unfortunately as I delve more into the subject there seems to be a deep 'military' reason for all this. Scary, scary........................I begin to think now this should be a real 'cause'. Maybe here we are a bit too concerned with 'exotica' of health meanwhile a major health danger is hiding in plain sight. I would be very interested in anyone's take on this..........................
 >
@@ -14813,7 +14813,7 @@ Automobile engines come to mind.
 
 ////
 
-### patgrif@hotmail.com — 2016-04-24T17:51:56+0300
+### [email redacted] — 2016-04-24T17:51:56+0300
 **Source:** <https://forum.jackkruse.com/threads/low-cortisol-levels.14194/post-193364>
 
 > [Inger said:](/goto/post?id=193356)
@@ -14829,7 +14829,7 @@ Apparently chemtrails are being sprayed in the US and all NATO countries. Inger 
 
 Speaking of being in NATO.............that is a highly questionable 'honor' apparently Croatia was 'welcomes' to NATO by massive spraying of chemtrails..................let's hope Ireland has the wisdom to keep out of it...........
 
-### patgrif@hotmail.com — 2016-04-24T17:59:24+0300
+### [email redacted] — 2016-04-24T17:59:24+0300
 **Source:** <https://forum.jackkruse.com/threads/low-cortisol-levels.14194/post-193366>
 
 > [JanSz said:](/goto/post?id=193362)
@@ -14856,7 +14856,7 @@ Hi JanSz, I have only started to find out about them but yes there is aluminum i
 ### JMO — 2016-04-24T18:36:51+0300
 **Source:** <https://forum.jackkruse.com/threads/low-cortisol-levels.14194/post-193370>
 
-> [patgrif@hotmail.com said:](/goto/post?id=193364)
+> [[email redacted] said:](/goto/post?id=193364)
 >
 > Hi Inger, nice to 'see' you again! Yes I see LOTS and LOTS of chemtrails all the time now that I am looking for them. I never 'saw' them before much, it is amazing how our 'awareness' can and is determined by what is 'on our mind'. I have never been the most observant as a person but if something is on my mind I tend to get 'obsessional' about it. And this thing concerns me and worries me a lot now. More than Jack's 'favorite' nnEMF. Maybe put the two together and you have a real nightmare. Maybe it is just the last straw to make me leave LA and find my way back to Ireland.
 >
@@ -14867,7 +14867,7 @@ Hi JanSz, I have only started to find out about them but yes there is aluminum i
 Hi Patrick!
 Now that I have an awareness of these trails ....it is horrific. It is quite noticeable with X's in the sky...starts and stops and the white haze. The sun is being blocked every damn day! We have maybe a sunny day every couple of weeks. Quite frankly, this has caused us much concern, worry and it's depressing. DH comes home or calls me and his first words are go look outside at the sky. I believe it must be a lot worse than previous years because it used to be sunny and I can't believe I wouldn't have noticed these before. Nobody even notices these---and we are reluntant to bring it up...well cuz 99% percent of people are zombies and would just believe its plane exhaust. Everyday is a white haze. Sometimes the planes come out at night and blast the sundown. I wonder if some areas in the US are worse than others...like how is it in the Gulf coast? We are definitely getting hammered in Omaha NE.
 
-### patgrif@hotmail.com — 2016-04-24T19:52:10+0300
+### [email redacted] — 2016-04-24T19:52:10+0300
 **Source:** <https://forum.jackkruse.com/threads/low-cortisol-levels.14194/post-193375>
 
 > [JMO said:](/goto/post?id=193370)
@@ -14915,7 +14915,7 @@ and
 
 \[/URL\]
 
-### patgrif@hotmail.com — 2016-04-27T00:28:55+0300
+### [email redacted] — 2016-04-27T00:28:55+0300
 **Source:** <https://forum.jackkruse.com/threads/low-cortisol-levels.14194/post-193620>
 
 One of Dr Kruse's central statements (which I also like and agree with very much) is about how any individual is not inherently 'sick' but to understand look to the person's environment. Well I can't help but feel that would perfectly apply to the 'chemtrails' problem or more precisely the massive spraying of toxic chemicals into our skies. Here I do find a great concern with I sometimes feel are the 'minutiae' or the 'exotica' of health. I mean this is all very interesting and valuable I am sure but what if we are missing the 'elephant' in the room. I feel this applies to vaccines also what if they are crippling a whole generation of children and some of course show up here and are we just giving them 'palliatives' to some serious problems that we can't get to the root of?
@@ -14970,7 +14970,7 @@ That green mucus came back on my visit to Poland couple years latter. It took ho
 
 Nothing worth doing is easy............
 
-### patgrif@hotmail.com — 2016-04-27T05:19:08+0300
+### [email redacted] — 2016-04-27T05:19:08+0300
 **Source:** <https://forum.jackkruse.com/threads/low-cortisol-levels.14194/post-193663>
 
 > [Valerie said:](/goto/post?id=193635)
@@ -14996,7 +14996,7 @@ Just had raw grassfed beef heart carpaccio for breakfast...... yummy
 ### JanSz — 2016-04-27T15:27:36+0300
 **Source:** <https://forum.jackkruse.com/threads/low-cortisol-levels.14194/post-193691>
 
-> [patgrif@hotmail.com said:](/goto/post?id=193663)
+> [[email redacted] said:](/goto/post?id=193663)
 >
 > Thanks Valerie, I live in LA so maybe that is it partly at least. Though I have lived in LA for 35 years and never had this cough before. Maybe it is partly 'psycho-somatic' but actually I doubt that too. I am aware people might well find my concerns a bit 'crazy' but really I don't think so. 'Crazy' is having something like this go on with no public discussion, no explanation, no admission it is even happening. THAT'S crazy imo.
 >
@@ -15075,7 +15075,7 @@ DIY Plasma Treatment Device
 ### JMO — 2016-05-04T02:50:03+0300
 **Source:** <https://forum.jackkruse.com/threads/low-cortisol-levels.14194/post-194131>
 
-> [patgrif@hotmail.com said:](/goto/post?id=193620)
+> [[email redacted] said:](/goto/post?id=193620)
 >
 > One of Dr Kruse's central statements (which I also like and agree with very much) is about how any individual is not inherently 'sick' but to understand look to the person's environment. Well I can't help but feel that would perfectly apply to the 'chemtrails' problem or more precisely the massive spraying of toxic chemicals into our skies. Here I do find a great concern with I sometimes feel are the 'minutiae' or the 'exotica' of health. I mean this is all very interesting and valuable I am sure but what if we are missing the 'elephant' in the room. I feel this applies to vaccines also what if they are crippling a whole generation of children and some of course show up here and are we just giving them 'palliatives' to some serious problems that we can't get to the root of?
 >
@@ -15085,7 +15085,7 @@ DIY Plasma Treatment Device
 
 Patrick....I was thinking the same as Jansz. Is it possible for you to take a month or so and try an area in the gulf south and see how you feel? I definitely have this for an agenda before I retire. I like it down in the Englewood area of FL because it's warmer in the winter but definitely plan to check out the Navarre area too. Test the waters before jumping into another bad environment.
 
-### patgrif@hotmail.com — 2016-05-04T07:12:57+0300
+### [email redacted] — 2016-05-04T07:12:57+0300
 **Source:** <https://forum.jackkruse.com/threads/low-cortisol-levels.14194/post-194135>
 
 Thanks JMO, yeah I had 'planned' to move back to Ireland but the weather there was always a concern for me. But now if this 'chemtrailing' is really as big a deal as it seems to be it may well be as you put it a 'bad environment' On the other hand part of me wants to go back there and 'do something' about it. But of course I know that is way more easily said than done and this 'program' if it exists in the way I suspect has pretty nothing to do with the Irish government. Which is the kind of crazy position we have reached where a 'government' has no say or nothing to say about their skies being sprayed with who knows what. It brings home to me that a lot of this talk about "Globalists" is unfortunately too true. The whole idea of what a 'country' is has gone by the board. Nobody told me...............
@@ -18623,7 +18623,7 @@ I will submit your information to Dr.Kenson.
 His contact information is Office number:
 +8631189261575 Mobile
 (Whatsapp/Viber): +8613582363683
-Email: [sjz-kidneyhope@sjzkidneyhospital.com](mailto:sjz-kidneyhope@sjzkidneyhospital.com)
+Email: [[email redacted]](mailto:[email redacted])
 Skype ID: wang.kenson
 Facebook: [https://www.facebook.com/kenson.wang.12](https://www.facebook.com/kenson.wang.12)
 
@@ -18652,7 +18652,7 @@ but
 instead of webinar I got
 error #2035
 Will have to bother again
-[support@jackkruse.com](mailto:support@jackkruse.com)
+[[email redacted]](mailto:[email redacted])
 
 Also will have to mention extremely low sound, that is after using amplifier.
 /
@@ -20140,7 +20140,7 @@ ISIS brings you the latest revelations on water in this extended series that sta
 
 **ISIS Report 30/06/04**
 **Water Forms Massive Exclusion Zones**
-_Water, the most abundant constituent of living organisms, is associated with an enormous amount of surfaces inside cells and in the extracellular matrix. Is all of this biological water different from water in bulk? The answer is definitely yes, if the incredible new findings are to be taken on board. [Dr. Mae-Wan Ho](mailto:m.w.ho@i-sis.org.uk) reports_
+_Water, the most abundant constituent of living organisms, is associated with an enormous amount of surfaces inside cells and in the extracellular matrix. Is all of this biological water different from water in bulk? The answer is definitely yes, if the incredible new findings are to be taken on board. [Dr. Mae-Wan Ho](mailto:[email redacted]) reports_
 
 **A [fully illustrated](http://www.i-sis.org.uk/full/WFMEZFull.php) version of this article with sources is posted on ISIS Members’ website. Details [here](http://www.i-sis.org.uk/membership.php).**
 
@@ -23115,7 +23115,7 @@ Jorge D. Flechas, M.D.
 Hendersonville, NC 28792
 Office: (828) 684-3233
 Fax: (828) 684-3253
-Email: [flechasfamily@yahoo.com](mailto:flechasfamily@yahoo.com)
+Email: [[email redacted]](mailto:[email redacted])
 \------------------------------------------
 Jorge D. Flechas, M.D., M.P.H., is the Medical Director of Flechas Family Practice in Hendersonville, N.C. In addition to family practice, Dr. Flechas's subspecialities include Iodine Therapy for thyroid and breast disorders, bio-identical hormone replacement for both men and women, and diagnosis and treatment of cardiac-related issues such as coronary artery disease, atherosclerosis, and hypertension.
 \--------------------------------------------
@@ -28285,7 +28285,7 @@ For more information about this report visit [https://www.researchandmarkets.com
 **Media Contact:**
 
 Laura Wood, Senior Manager
-[press@researchandmarkets.com](mailto:press@researchandmarkets.com)
+[[email redacted]](mailto:[email redacted])
 
 For E.S.T Office Hours Call +1-917-300-0470
 For U.S./CAN Toll Free Call +1-800-526-8630
@@ -36335,7 +36335,7 @@ Membership maven, JustAnswer
 Your membership plan:
 Price: $46
 Next payment: June 16, 2019
-Your JA membership saves you $100’s in Expert services. To keep on saving, you don’t need to do anything. To pass it up, go here or email [vip@justanswer.com](mailto:vip@justanswer.com).
+Your JA membership saves you $100’s in Expert services. To keep on saving, you don’t need to do anything. To pass it up, go here or email [[email redacted]](mailto:[email redacted]).
 
 ### JanSz — 2019-06-15T17:11:32+0300
 **Source:** <https://forum.jackkruse.com/threads/low-cortisol-levels.14194/post-272698>
@@ -38025,7 +38025,7 @@ While previous extensive molecular-dynamics simulations have successfully been a
 As proton tunnelingandmobilitypatterns in hydrogen-bonding water solvation shells aregreatly limited by both hydronium and deuteronsubstitutions(5, 6), these cationsreadily alter viscosity and structureof interfacial hydration shells that critically influence mitochondrial ATP synthesis, hencecellular health(7).
 Thelinear correlation of hydrogen bond strengths with lengths suggests that the enthalpy (strength) of anEigen type hydrogen bond is 18.4 kJ/mol(6),as compared with only 10.6 kJ/mol in bulk water, based onRaman measurements(8,9).
 Thistalk discusses proton mobility in matrix water that isintimately connectedwith the surrounding hydrogen bonding patternwith emphasis on the excessivekinetic isotope effectsof deuterium (5) for broad translational and medical interpretations.
-1.)van der Spoel, D.; vanMaaren, P. J.; Larsson, P.; Timneanu, N. J.Phys. Chem.B 2006, 110, 4393-4398.2.)Stuart, V. Inelastic incoherent neutron scattering studies of water interacting with biological macromolecules.J. Am. Chem. Soc.20021244565-569. [https://doi.org/10.1021/ja016277w3.)Special](https://doi.org/10.1021/ja016277w3.\)Special) Issue on Proton Solvation and Proton Mobility. Agmon,N., Gutman, M., Eds. Isr. J. Chem. 1999, 39 (3/4).4.)Voth, G. A. Acc. Chem. Res. 2006, 39, 143-150.5.)Drechsel‐Grau, C.,Marx D. [https://doi.org/10.1002/anie.2014059896.)Markovitch](https://doi.org/10.1002/anie.2014059896.\)Markovitch), O., Agmon, N. J. Phys. Chem. [https://doi.org/10.1021/jp068960g7.)Sommer](https://doi.org/10.1021/jp068960g7.\)Sommer), A.P., Haddad, M., FechtJ.[https://www.nature.com/articles/srep120298.)Agmon](https://www.nature.com/articles/srep120298.\)Agmon), N. J. Chim. Phys. Phys.sChim. Biol. 1996, 93, 1714-1736.9.)Carey, D. M.; Korenowski, G. M. J. Chem. Phys. 1997, 108, 2669-2675.Hirshberg Foundation Seed Grant Awardees PresentationsDeutenomics& Cancer-2019September 20, 2019 -2:00 PM to 6:00 PM -UCLAFaculty Center -Sequoia RoomAuthor Information:Correspondence and requests for materials should be addressed to L.G.B. (boros@labiomed.org; [boros.laszlo@yahoo.com](mailto:boros.laszlo@yahoo.com)) (USA)Key Words:deuterium depletion, mitochondrial matrix metabolic water, deuterium-depleted water, NADPH, Eigen cation, Zundelcation, proton tunneling, mitochondria, hydronium, structured water, deutenomics,interfacial water
+1.)van der Spoel, D.; vanMaaren, P. J.; Larsson, P.; Timneanu, N. J.Phys. Chem.B 2006, 110, 4393-4398.2.)Stuart, V. Inelastic incoherent neutron scattering studies of water interacting with biological macromolecules.J. Am. Chem. Soc.20021244565-569. [https://doi.org/10.1021/ja016277w3.)Special](https://doi.org/10.1021/ja016277w3.\)Special) Issue on Proton Solvation and Proton Mobility. Agmon,N., Gutman, M., Eds. Isr. J. Chem. 1999, 39 (3/4).4.)Voth, G. A. Acc. Chem. Res. 2006, 39, 143-150.5.)Drechsel‐Grau, C.,Marx D. [https://doi.org/10.1002/anie.2014059896.)Markovitch](https://doi.org/10.1002/anie.2014059896.\)Markovitch), O., Agmon, N. J. Phys. Chem. [https://doi.org/10.1021/jp068960g7.)Sommer](https://doi.org/10.1021/jp068960g7.\)Sommer), A.P., Haddad, M., FechtJ.[https://www.nature.com/articles/srep120298.)Agmon](https://www.nature.com/articles/srep120298.\)Agmon), N. J. Chim. Phys. Phys.sChim. Biol. 1996, 93, 1714-1736.9.)Carey, D. M.; Korenowski, G. M. J. Chem. Phys. 1997, 108, 2669-2675.Hirshberg Foundation Seed Grant Awardees PresentationsDeutenomics& Cancer-2019September 20, 2019 -2:00 PM to 6:00 PM -UCLAFaculty Center -Sequoia RoomAuthor Information:Correspondence and requests for materials should be addressed to L.G.B. ([email redacted]; [[email redacted]](mailto:[email redacted])) (USA)Key Words:deuterium depletion, mitochondrial matrix metabolic water, deuterium-depleted water, NADPH, Eigen cation, Zundelcation, proton tunneling, mitochondria, hydronium, structured water, deutenomics,interfacial water
 
 ### JanSz — 2019-09-09T02:49:49+0300
 **Source:** <https://forum.jackkruse.com/threads/low-cortisol-levels.14194/post-277443>
@@ -41628,7 +41628,7 @@ Perspectives on the Pandemic Episode 2: In this explosive second edition of Pers
 .
 
 Dr. Ban G. Truong, DO, PhD, FACEP, ABAARM
-Email: [support@weightless4life.com](mailto:support@weightless4life.com) T
+Email: [[email redacted]](mailto:[email redacted]) T
 witter: [https://twitter.com/WeightlessMWNM](https://www.youtube.com/redirect?redir_token=gLKuIBVSvgPk8Vu1ccfd0wnaLuJ8MTU4NjE4MjM1MUAxNTg2MDk1OTUx&event=video_description&v=UdDQJeQZgPw&q=https%3A%2F%2Ftwitter.com%2FWeightlessMWNM)
 
 This doctor does telemedicine.
@@ -44562,7 +44562,7 @@ Considering the dependence of cell growth on naturally occurring deuterium, deut
 ### JanSz — 2020-08-10T15:02:09+0300
 **Source:** <https://forum.jackkruse.com/threads/low-cortisol-levels.14194/post-291460>
 
-[https://www.facebook.com/n/?permali...wxtuPk&n\_m=janszulczb@gmail.com&lloc=new\_view](https://www.facebook.com/n/?permalink.php&story_fbid=1172323246473698&id=100010881004678&aref=1597053688999238&medium=email&mid=5ac82c03bea74G5af35e49c527G5ac8309d1ed46G318&bcode=2.1597053692.AbyX0Eoyv6mjHwxtuPk&n_m=janszulczb%40gmail.com&lloc=new_view)
+[https://www.facebook.com/n/?permali...wxtuPk&n\_m=[email redacted]&lloc=new\_view](https://www.facebook.com/n/?permalink.php&story_fbid=1172323246473698&id=100010881004678&aref=1597053688999238&medium=email&mid=5ac82c03bea74G5af35e49c527G5ac8309d1ed46G318&bcode=2.1597053692.AbyX0Eoyv6mjHwxtuPk&n_m=janszulczb%40gmail.com&lloc=new_view)
 
 ### JanSz — 2020-08-12T22:46:18+0300
 **Source:** <https://forum.jackkruse.com/threads/low-cortisol-levels.14194/post-291491>
@@ -44771,7 +44771,7 @@ Membership Fees:
 • 6 Months: 135 USD
 • 1 Year: 250 USD
 
-Contact Email & PayPal Address: [dr.fox.pb@gmail.com](mailto:dr.fox.pb@gmail.com)
+Contact Email & PayPal Address: [[email redacted]](mailto:[email redacted])
 
 Please send me a Screenshot after you've Transferred, so I can Confirm Payment with you and send me a Friend Request on Facebook:
 [https://www.facebook.com/groups/lifti](https://www.facebook.com/groups/lifti)...
@@ -47651,7 +47651,7 @@ See also:
 [](https://www.youtube.com/user/AntiagingSystems)
 [AntiagingSystems](https://www.youtube.com/channel/UCiM6Up8qFnRGnewg3n-k14w)
 4.92K subscribers
-This is the first in a series of IAS webinars. The first episode will be a brief introduction into anti-aging, there will be more product specific topics coming soon. If you have any questions, or would like to recommend a topic please email us at: [feedback@antiaging-systems.com](mailto:feedback@antiaging-systems.com) Since 1991 IAS have been producing articles, magazines and conferences to promote and educate the population on how to maintain optimal health as they age. We also provide information on where to safely purchase hard to obtain medicines, nutritional supplements and bio identical hormones to make these theories and methods a reality. Our website is available here:
+This is the first in a series of IAS webinars. The first episode will be a brief introduction into anti-aging, there will be more product specific topics coming soon. If you have any questions, or would like to recommend a topic please email us at: [[email redacted]](mailto:[email redacted]) Since 1991 IAS have been producing articles, magazines and conferences to promote and educate the population on how to maintain optimal health as they age. We also provide information on where to safely purchase hard to obtain medicines, nutritional supplements and bio identical hormones to make these theories and methods a reality. Our website is available here:
 
 [https://www.antiaging-systems.com/](https://www.youtube.com/redirect?event=video_description&v=cWJQl2nYB6U&redir_token=QUFFLUhqbHJJRnNGSVVsZlNMakUyNy1oRDNKZzhncXJUUXxBQ3Jtc0ttZENCWVRkSHU1Q042QlhId0xHUmg5cVFybTVIaEpfMzMydjR2YWtvUUk5bTJaUEtnOXlTdVh6Y05pVjhxWnQ0Z05IaVd4NnJRRU5yaUxIQU1Sb1M3RGNUWkkybktpRnBGNGtFYVViYTFqMm1jOVB5cw%3D%3D&q=https%3A%2F%2Fwww.antiaging-systems.com%2F)
 
@@ -50632,7 +50632,7 @@ Dec 23, 2020
 ### JanSz — 2021-07-13T15:39:36+0300
 **Source:** <https://forum.jackkruse.com/threads/low-cortisol-levels.14194/post-301077>
 
-Laszlo G. Boros <contact@laszlogboros.com>
+Laszlo G. Boros <[email redacted]>
 Washington Post - J&J injections - FDA - Guillain-Barré warning
 \----------------------------
 FDA adds new warning on Johnson & Johnson vaccine related to rare autoimmune disorder

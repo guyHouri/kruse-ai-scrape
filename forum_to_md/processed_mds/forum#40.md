@@ -3768,7 +3768,7 @@ Melatonin is filled with an aromatic ring. Your pictogram shows it in this blog.
 
 VDR and RXR need DHA to work. Brain gut 5 alert
 
-### patgrif@hotmail.com — 2015-04-28T04:11:24+0300
+### [email redacted] — 2015-04-28T04:11:24+0300
 **Source:** <https://forum.jackkruse.com/threads/how-does-melatonin-and-leptin-couple.14155/post-162600>
 
 > [Jack Kruse said:](/goto/post?id=162550)
@@ -3782,7 +3782,7 @@ Yes Josh I thought it was very well done. Nice to see Kruse wisdom filtering out
 ### Josh (Paleo Osteo) — 2015-04-28T04:43:57+0300
 **Source:** <https://forum.jackkruse.com/threads/how-does-melatonin-and-leptin-couple.14155/post-162603>
 
-> [patgrif@hotmail.com said:](/goto/post?id=162600)
+> [[email redacted] said:](/goto/post?id=162600)
 >
 > Yes Josh I thought it was very well done. Nice to see Kruse wisdom filtering out in that way. I felt it is something I really could believe unlike most 'pop' medicine or standard medicine too.
 

@@ -3373,12 +3373,12 @@ Fair enough! Will leave it.
 
 \[Additionally, various spokespeople on leptin & obesity (and other conditions) are very confusing about interpreting low and high leptin values, although some leptin correlations with insulin and thyroid test values are made with apparent meaning for some -- which my doc, who ordered the blood test panel, opted not to discuss.\]
 
-### cleerlite@yahoo.com — 2018-07-17T23:54:56+0300
+### [email redacted] — 2018-07-17T23:54:56+0300
 **Source:** <https://forum.jackkruse.com/threads/leptin-lab-value.21340/post-246095>
 
 Hello friends.....Can someone give me a comprehensive list of labs to order. i have found a few listed at a time in various emails and posts. I am still confused. My 72 yr. brain needs help! Before I sign on for a consult with Dr. K I would like to have all the tests he needs to address my health issues. Thank you soooooo much!
 Susan Bohannon
-[cleerlite@yahoo.com](mailto:cleerlite@yahoo.com)
+[[email redacted]](mailto:[email redacted])
 
 ### Jack Kruse — 2018-07-18T04:30:37+0300
 **Source:** <https://forum.jackkruse.com/threads/leptin-lab-value.21340/post-246107>
@@ -11805,7 +11805,7 @@ Eye floaters = problem with Muller's cells = vitreous shrinking due to dehydrati
 
 1989 David K. Berler did a study on monkey eyes with fluorescent lights. Studies of Müller cell biology using tissue culture and animal models provide evidence of the remarkable capacity of this cell type for graded responses to environmental insult, the capacity to proliferate, translocate from the retina and alter phenotype and thus, functional characteristics of the eye. There is now evidence that Müller cells function as an effector cell type in traction retinal detachment associated with proliferative vitreoretinopathy (PVR) and proliferative diabetic retinopathy (PDR) which leads to blindness. The first step in this process is that flickering leads to bubbles forming inside the Muller cells and I think the scattering of light from the bubbles might be the cause of floaters. I think flicker (LED) is the major cause of floaters. Only one light does not flicker.......SUNLIGHT -------> real terrestrial sunlight.
 
-### gcnorbury@gmail.com — 2018-11-26T14:17:34+0200
+### [email redacted] — 2018-11-26T14:17:34+0200
 **Source:** <https://forum.jackkruse.com/threads/eye-flotators-outdoor-only.21396/post-256609>
 
 "Outdoor light only flickers when geoengineering particles are above."
@@ -16586,7 +16586,7 @@ And in 2017, Panasonic Avionics announced a partnership with Tascent -- a biomet
 
 Prodigy Legend Keith Flint Dies Aged 49
 
-### gcnorbury@gmail.com — 2019-03-07T15:25:50+0200
+### [email redacted] — 2019-03-07T15:25:50+0200
 **Source:** <https://forum.jackkruse.com/threads/blue-light-and-5g-deaths-time-to-start-a-body-count-in-2018-19.21428/post-264694>
 
 **Magenta Devine, TV presenter, dies aged 61**
@@ -38025,14 +38025,14 @@ If it works for a woman in labor, it will work for me when I get woken up in the
 >
 > in the uk on laptop ok on iphone free but needsto be reloaded every week.@ KrusinWitchie
 
-That's annoying. You could email them: [contact@iristech.co](mailto:contact@iristech.co)
+That's annoying. You could email them: [[email redacted]](mailto:[email redacted])
 
 ### drezy — 2019-04-27T00:00:58+0300
 **Source:** <https://forum.jackkruse.com/threads/my-optimal-journal.21529/post-269051>
 
 > [KrusinWitchie said:](/goto/post?id=269000)
 >
-> That's annoying. You could email them: [contact@iristech.co](mailto:contact@iristech.co)
+> That's annoying. You could email them: [[email redacted]](mailto:[email redacted])
 
 That's not an easy platform to develop on if your app does something that the phone manufacturer does not like.
 
@@ -41135,7 +41135,7 @@ Moreover, I wanted science itself to provide me with "actual truth or proofs," n
 “Our kids, my kids included, we are subjecting them to one of the biggest social experiments we have seen in a long time,” she said. “What happens to my daughter if she can’t communicate over dinner — how is she going to find a spouse? How is she going to interview for a job?”
 “I have families now that go teetotal,” Dr. Burgert said. “They’re like, ‘That’s it, we’re done.’” [https://www.nytimes.com/2018/10/26/style/digital-divide-screens-schools.html](https://www.nytimes.com/2018/10/26/style/digital-divide-screens-schools.html)
 
-### gcnorbury@gmail.com — 2018-12-05T19:34:28+0200
+### [email redacted] — 2018-12-05T19:34:28+0200
 **Source:** <https://forum.jackkruse.com/threads/screen-time-and-melanopsin-in-kids.21570/post-257312>
 
 This is a great interview with Sam Vaknin discussing Social Media. He does not make the link with blue light, but does a good job of explaining the results that we now see today with the lost generation etc.

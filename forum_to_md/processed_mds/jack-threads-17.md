@@ -14365,7 +14365,7 @@ but someone is there
 
 I think youre Dad should not go in debt for your ex.......bad idea.
 
-### patgrif@hotmail.com — 2015-08-20T00:00:23+0300
+### [email redacted] — 2015-08-20T00:00:23+0300
 **Source:** <https://forum.jackkruse.com/threads/ingers-journal.6472/post-175167>
 
 > [Inger said:](/goto/post?id=175154)
@@ -14415,7 +14415,7 @@ I like to touch.. and be close to people... I like that a lot! I touch people al
 
 I swear I will touch you a lot when we meet one day. Sorry.
 
-### patgrif@hotmail.com — 2015-08-20T21:15:04+0300
+### [email redacted] — 2015-08-20T21:15:04+0300
 **Source:** <https://forum.jackkruse.com/threads/ingers-journal.6472/post-175230>
 
 > [Inger said:](/goto/post?id=175193)
@@ -14446,7 +14446,7 @@ So the ex and his girlfriend with a daughter are history now? I think the pair o
 ### Inger — 2015-08-24T18:56:16+0300
 **Source:** <https://forum.jackkruse.com/threads/ingers-journal.6472/post-175542>
 
-> [patgrif@hotmail.com said:](/goto/post?id=175230)
+> [[email redacted] said:](/goto/post?id=175230)
 >
 > That's great Inger and I probably should not even 'intrude'. As you say each relationship is unique nobody knows what really happens from the 'outside' and even from the 'inside' too a lot of the time. But you follow your instincts I am sure they are good and actually what you say makes all the sense in the world
 
@@ -26137,7 +26137,7 @@ OMG I hope it's for the whole series!
 
 When I clicked the link in the email, the top line with price says **"EMF Webinar Series**" .... thus one price should cover all 5 parts.
 
-### opelecky@yahoo.com — 2013-03-29T23:46:32+0200
+### [email redacted] — 2013-03-29T23:46:32+0200
 **Source:** <https://forum.jackkruse.com/threads/emf-boot-camp.6508/post-82206>
 
 Ok. I'll just wait then. Thanks. Olga
@@ -26242,7 +26242,7 @@ I only feel it in my spine when I am laying down.
 
 .. Shocking!
 
-### opelecky@yahoo.com — 2013-03-29T02:29:56+0200
+### [email redacted] — 2013-03-29T02:29:56+0200
 **Source:** <https://forum.jackkruse.com/threads/can-you-feel-the-energy-when-grounding.6518/post-82115>
 
 I don't feel anything. Sadly. I also was hoping that grounding would help me with jet leg last summer in Europe but it didn't. I didn't do this right away though. Maybe in 1 day after I landed...
@@ -31284,7 +31284,7 @@ Thanks for any insights.....
 
 I have mine located in my bedroom for exactly the reason you gave...it's the room I spend the most time in. Plugging it into the ground system appears to enhance the coverage in my house, as I can feel the effects downstairs. When I walk in the door after a long day at work, I immediately feel a calming effect. That has been my experience so far. YMMV
 
-### opelecky@yahoo.com — 2013-05-17T03:51:40+0300
+### [email redacted] — 2013-05-17T03:51:40+0300
 **Source:** <https://forum.jackkruse.com/threads/schumann-generator.6621/post-86281>
 
 Howdy,
@@ -31308,7 +31308,7 @@ I can't say for sure if the Schumann unit is solely responsible for those improv
 ### Martin — 2013-05-18T15:59:15+0300
 **Source:** <https://forum.jackkruse.com/threads/schumann-generator.6621/post-86408>
 
-> [opelecky@yahoo.com said:](/goto/post?id=86281)
+> [[email redacted] said:](/goto/post?id=86281)
 >
 > Howdy,
 >
@@ -31320,7 +31320,7 @@ There are EMF's being emitted from these units, but at 7.83 that would seem to b
 
 I'd like to see some more trials and testing for effect on these Schumann generators. I'm intrigued.
 
-### opelecky@yahoo.com — 2013-05-20T03:14:42+0300
+### [email redacted] — 2013-05-20T03:14:42+0300
 **Source:** <https://forum.jackkruse.com/threads/schumann-generator.6621/post-86501>
 
 Ok. I understand that the frequency should be 7.83Hz otherwise what's the point, right? I was thinking more of some other stuff that comes with current like duty magnetism or something like this. I wonder if there are places that would have a decent return policy and let you try stuff somewhat like magnetico pad. I think that also have seen some battery operated ones on the web but I'm not sure.
@@ -31483,7 +31483,7 @@ Anyone else with anything else to chime in with? I appreciate the help guys!
 
 would you please post a link for that product if you don't mind? Thanks a lot!
 
-### opelecky@yahoo.com — 2013-05-31T03:52:47+0300
+### [email redacted] — 2013-05-31T03:52:47+0300
 **Source:** <https://forum.jackkruse.com/threads/schumann-generator.6621/post-87165>
 
 [http://www.earthpulsetechnologies.com/](http://www.earthpulsetechnologies.com/) I think this is the link. I was ready to buy Earthsafe Whole House device but now I'm intrigued by this one. I watched one video with the jumping dog but I'm not sure that I'm ready to buy yet...
@@ -32144,7 +32144,7 @@ Yeah...I don't think there was a direct reference to moles just kind of a put th
 
 Yes Diane the warts! I forgot about that one....got to get my daughter to do that!
 
-### edance83@yahoo.com — 2013-04-06T03:56:12+0300
+### [email redacted] — 2013-04-06T03:56:12+0300
 **Source:** <https://forum.jackkruse.com/threads/23-year-old-toe-nail-fungus-spontaneously-resolving-with-full-on-ct-and-bab.6651/post-83073>
 
 Wonderful about the fungus!
@@ -32225,7 +32225,7 @@ Curves64, wow.. how interesting! I have a bro that has nail fungus too for many 
 
 EMF causes your immune system to power down and this allows all bacteria, fungi, and virus to fluorish.........this is why leaky gut is caused by EMF more than any reason and why the conventional and unconventional treatments often fail to do much long term until you get EMF serious about your conditions of existence.
 
-### edance83@yahoo.com — 2013-04-07T18:16:21+0300
+### [email redacted] — 2013-04-07T18:16:21+0300
 **Source:** <https://forum.jackkruse.com/threads/23-year-old-toe-nail-fungus-spontaneously-resolving-with-full-on-ct-and-bab.6651/post-83232>
 
 > [curves64 said:](/goto/post?id=83085)
@@ -32906,7 +32906,7 @@ KleinBobbie, amazing results...!!!  Thank you so much for sharing, very encourag
 
 Parallels what Kev found too......[http://www.jackkruse.com/cold-thermogenesis-11-paleo-fx-to-practice/](http://www.jackkruse.com/cold-thermogenesis-11-paleo-fx-to-practice/)
 
-### wallycourie@gmail.com — 2013-04-07T16:38:42+0300
+### [email redacted] — 2013-04-07T16:38:42+0300
 **Source:** <https://forum.jackkruse.com/threads/amazing-results-in-3-months.6662/post-83217>
 
 climbing out of the Klein Bottle, eh?
@@ -32951,7 +32951,7 @@ Thanks Caroline! Now that the new project is up and running online (feel free to
 ### Jack Kruse — 2013-05-20T15:05:05+0300
 **Source:** <https://forum.jackkruse.com/threads/amazing-results-in-3-months.6662/post-86528>
 
-> [klein.bobbi@gmail.com said:](/goto/post?id=86511)
+> [[email redacted] said:](/goto/post?id=86511)
 >
 > 1 month later and feeling better than ever. I have now found that my BUN/ creatine ratio has improved and is now 12! Na is 142 mmol/L (a little high). Body composition is slowly going down with increased CT and photoelectric effect (until I move to the ocean in the late Spring it is 2- 22 pound bags of ice while I am laying out in the sun). But best of all, my thinking has improved 100%, brain fog is gone from the fall, and I feel like I can accomplish anything. I have since quit a job that was not fulfilling and went all in working on my own business full time and rebranding it to do not only what I am good at, but what I am passionate about (creativity and making the impossible possible). Full launch of new rebranding is tomorrow, and I'm not worried at all. Scary, right? Without Dr. Kruse's help this would have just still been a dream because my thinking would still have been lacking and clouded with fear. This is no longer the case.
 >
@@ -33022,7 +33022,7 @@ What's that saying... ?
 ### nonchalant — 2013-06-05T16:07:35+0300
 **Source:** <https://forum.jackkruse.com/threads/amazing-results-in-3-months.6662/post-87536>
 
-> [klein.bobbi@gmail.com said:](/goto/post?id=86665)
+> [[email redacted] said:](/goto/post?id=86665)
 >
 > It's the same type of thing that we see when people are diagnosed with terminal illnesses. Some do not question whether there is another solution and just accept it. However, we turn and say, "Let's see if there is another answer out there."
 

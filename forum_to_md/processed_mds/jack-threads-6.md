@@ -345,7 +345,7 @@ am also gearing up mentally for the first time in the tub. Our tub is really col
 
 Ok, digression aside. Not really hungry since BAB so am having a mug of BPC and few spoonfuls of coconut manna. Jack will be so proud  Trying to decide what's for dinner. Maybe some turkey mignon ... Schwan's turkey wrapped in appelwood smoked bacon. And some asparagus for hubby.
 
-### kathiebu@hotmail.com — 2012-04-11T19:41:17+0300
+### [email redacted] — 2012-04-11T19:41:17+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-13812>
 
 You are doing good with Ct!!
@@ -393,7 +393,7 @@ BAB was 5oz of steak, 3 FF eggs with coconut milk (carton) and couple of slices 
 
 Wondering WTF factor X is. My science background is a long time in the past and was in chemistry not biology so I guess I'm going to have to wait for the big reveal.
 
-### kathiebu@hotmail.com — 2012-04-13T03:21:41+0300
+### [email redacted] — 2012-04-13T03:21:41+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-14515>
 
 > **DarleenMB;13899 wrote:** NONONONO NO DECAF!!! BAD. I have been on decaf for probably 20 years because caffeine makes me insane. After reading the posts on coffee over at bulletproofexec.com I realized the problem was the coffee, not me.
@@ -462,7 +462,7 @@ There's another thread over in the CT forum about hot showers. Got me to thinkin
 
 Thinking about baked tilapia for 2nd meal today. Just LOVE it that way!
 
-### kathiebu@hotmail.com — 2012-04-15T20:12:08+0300
+### [email redacted] — 2012-04-15T20:12:08+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-15345>
 
 So sorry about your brother Darleen. So sad to be so young and be destroying his live like that.
@@ -764,7 +764,7 @@ grrrr.
 
 Time for my cool shower and the bag o'ice.
 
-### jeanie@truelongmont.com — 2012-04-26T19:16:01+0300
+### [email redacted] — 2012-04-26T19:16:01+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-19063>
 
 How frustrating! I know how difficult it is to work so hard and be faced with anti-results. I don't have a solution for you, but we've all been there.
@@ -916,7 +916,7 @@ D: salmon filets and cole slaw (hubby's fave and I can't seem to make enough of 
 
 Forgot to mention that I woke up all puffy this morning. Don't know if it was the sweet potato or something in the Aidell's chicken sausages that did it. I'm pretty sure I drank lots of water yesterday. Scale hasn't budged. pooh.
 
-### kathiebu@hotmail.com — 2012-05-01T19:44:39+0300
+### [email redacted] — 2012-05-01T19:44:39+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-20482>
 
 Congrats on the 5 days, you are doing good  I did have some sweet potatoes too last friday and my legs were all swollen and heavy. Sweet holds on on water!!
@@ -1262,7 +1262,7 @@ Still aghast at what happened to Jack and his family on the low carb cruise. If 
 
 As someone who has been burned (to the tune of several thousand dollars and 2 years of my life pretty much lost) by some loon on the internet I can really empathize. I cannot say any more than that because it isn't quite done yet.
 
-### kathiebu@hotmail.com — 2012-05-09T23:28:23+0300
+### [email redacted] — 2012-05-09T23:28:23+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-22662>
 
 It's never boring reading you
@@ -1442,7 +1442,7 @@ GW: 130
 
 There. I am officially humiliated.
 
-### kathiebu@hotmail.com — 2012-05-13T21:51:33+0300
+### [email redacted] — 2012-05-13T21:51:33+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-23733>
 
 Oh, ma chÃ©rie, don't be humiliated. You have been through so much!! Be proud of what you're doing for yourself and exited about the new person you are becoming!! Weight is only a symptom among others, and as you heal, it will go away.
@@ -1563,7 +1563,7 @@ bioidentical hormone replacement therapy. This is what I'm [doing](http://http:/
 
 PaulaLynn, anytime I can help someone with even just a little bit of my experience I'm a happy camper! Thank YOU!
 
-### nicebeanst@yahoo.com — 2012-05-16T03:12:09+0300
+### [email redacted] — 2012-05-16T03:12:09+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-24458>
 
 Hi Darleen, coming out of the wood work to say hi!! I love your journal, you're very funny. Keep it up
@@ -2065,7 +2065,7 @@ I wish things would DO something. ANYthing. then I remind myself that it took me
 
 Don't do the cold shower before you get in the tub. Just get in the tub and give your bod a chance. You have to go more than 5 minutes though. It might take you 10 min to warm up but just try again. I know you can do it. You have overcome a lot more than a cold bath for sure.
 
-### jeanie@truelongmont.com — 2012-05-26T23:31:00+0300
+### [email redacted] — 2012-05-26T23:31:00+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-27726>
 
 Darlene,
@@ -2107,7 +2107,7 @@ Was barely hungry yesterday after the 6oz of beef etc for BAB. Had half of half 
 
 Don't have any idea what's on the menu for today. Household chores await. Company coming later this week so need to get ready.
 
-### kathiebu@hotmail.com — 2012-05-29T01:28:52+0300
+### [email redacted] — 2012-05-29T01:28:52+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-28092>
 
 I ditched the eggs too a couple days ago  The thing is I LOVE eggs!! That was half of my BAB every morning. The good thing is that I feel so much better since I cut them out...Not 100% sure it's because of that, but I don't really feel like re-introduce them back for now. Will make a test in a few weeks...Can't wait to see if you'll feel better too!!
@@ -3066,7 +3066,7 @@ Thanks, Darlene! I will have look into the W protocol. I am on 0.25mg Triest twi
 
 Safest for whom? Him/her I would think. The book ["Sex, lies & menopause"](http://http://amzn.to/KEXI3X) is a real eye opener. I heartily recommend it to every woman.
 
-### kathiebu@hotmail.com — 2012-06-24T06:53:14+0300
+### [email redacted] — 2012-06-24T06:53:14+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-33254>
 
 Hi Darleen!
@@ -3188,7 +3188,7 @@ What app are you using for calorie counting? It's not an app, but I really like 
 
 I'd consider that a blessing. Just sayin'. I've never heard Dr K mention calorie tracking as part of his program.
 
-### nosnhojjennifer@yahoo.com — 2012-06-28T21:28:59+0300
+### [email redacted] — 2012-06-28T21:28:59+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-34219>
 
 Hi darleen. Have you considered leaky gut as a reason for your new food allergies? The way it was explained to me is when you have a leaky gut, food passes through gut into immune system (especially if you have low stomach acid and food is not as digested as it should be) and then your immune system marks that food as a foreign substance and now you're allergic to it. Clear up leaky gut and it might help your allergies. Just a suggestion. Good luck to you. I admire your spirit and sense of humor!!
@@ -3426,7 +3426,7 @@ So still eating a sort of BAB ... about 7oz (uncooked) ground beef this morning 
 
 Have traced the mouth itching to either my coffee (highly doubtful) or my Melaleuca cold water omega capsules. Pretty sure it's the latter but can't figure out WHY as I've been taking those off and on for about a year with no problem until this Spring. There's really nothing in it that should/could be doing this which is why tomorrow I won't take ANY supplements again and we'll see if the itching occurs after I finish my coffee. Might also be the butter but it's Troyer brand hand rolled from GF cows so??? Unless it's the GRASS the cows have been eating ... I do have a lot of different grass allergies. hmmm. Something to ponder.
 
-### jeanie@truelongmont.com — 2012-07-11T18:41:48+0300
+### [email redacted] — 2012-07-11T18:41:48+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-36848>
 
 Darleen,
@@ -3484,7 +3484,7 @@ Had lunch which I don't normally do because a friend was here (she had her right
 
 Cut back on the ground beef this morning because 8 oz just seems too much. Cut back to 6 and changed the butter in my BPC to see if THAT makes a difference on the itchy tongue. If not then I'm looking at the coffee. NOOOOOOOOOOO
 
-### jeanie@truelongmont.com — 2012-07-11T23:25:10+0300
+### [email redacted] — 2012-07-11T23:25:10+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-36950>
 
 Dear god lumps of fat and no coffee? I'd rant too. I think it's great you are not wanting to eat! That's good right? Good luck on spurring the loss. I don't plan on doing another round any time soon, but I am eager to see what experience others are having with different stuff. Ultimately for me I just let go of the idea of the food being a pleasurable thing, and It's like medicine so I don't much care if it's broccoli or asparagus or salad. They all run together - no pleasure in them. That IS the idea though right?
@@ -3543,7 +3543,7 @@ This is going to be a normal 21 day round so it shouldn't be that tough to get t
 
 Measured the temp of our tap water yesterday and it has warmed up to a whopping 61Â°. ooooh. Pass the ice pfbbbt.
 
-### jeanie@truelongmont.com — 2012-07-12T17:37:32+0300
+### [email redacted] — 2012-07-12T17:37:32+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-37177>
 
 > **DarleenMB;37336 wrote:** Day 1 HcG protocol
@@ -3601,7 +3601,7 @@ Found ANOTHER lipoma on my right calf. WTF?!!!!! Here's hoping the hcg will get 
 
 Good luck with the HCG, Darleen! I'm not very familiar with it (although I've read some about others' experiences on forums) so I'm looking forward to following your HCG journey.
 
-### jeanie@truelongmont.com — 2012-07-13T20:35:35+0300
+### [email redacted] — 2012-07-13T20:35:35+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-37552>
 
 That lipoma thing is disturbing.
@@ -3667,7 +3667,7 @@ Meal 2? um. hmmm. I might foil pack some tilapia and toss it in the NuWave cooke
 
 Plan on 20 minutes with the bag o'ice on my bare tummy. Also spot icing of those LUMPS on my legs AND a cold shower.
 
-### kathiebu@hotmail.com — 2012-07-14T18:19:44+0300
+### [email redacted] — 2012-07-14T18:19:44+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-37777>
 
 Hi Darleen!
@@ -3757,7 +3757,7 @@ See that? I still dropped a little. 5 pounds in 3 days is awesome from where I s
 
 argh I just checked the weather widget. A "cool" 89 for today, 101 tomorrow and high to mid 90's the remainder of the week. My scandahoovian ancestors are whining.
 
-### jeanie@truelongmont.com — 2012-07-17T17:38:02+0300
+### [email redacted] — 2012-07-17T17:38:02+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-38721>
 
 > **DarleenMB;38897 wrote:** Thanks PaulaLynn!
@@ -3953,7 +3953,7 @@ I'm trying to find a balance. The leptin reset is a great starting point but I m
 
 Oh yeah, I looked at my back in the mirror again this morning and there is that flattened kite shape surrounded by fluffy me just as plain as day. It is just WEIRD.
 
-### jeanie@truelongmont.com — 2012-07-21T19:51:00+0300
+### [email redacted] — 2012-07-21T19:51:00+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-40021>
 
 > **DarleenMB;40195 wrote:** Day 9 HCG
@@ -3994,7 +3994,7 @@ Oh yeah, I looked at my back in the mirror again this morning and there is that 
 
 LOVE LOVE LOVE experiments, may I design some for you since I'm too chicken? hah!
 
-### jeanie@truelongmont.com — 2012-07-21T19:52:46+0300
+### [email redacted] — 2012-07-21T19:52:46+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-40023>
 
 > **DarleenMB;40205 wrote:** Hmm. Good point Lanie, as usual. Some days my head just doesn't get put on straight. But wouldn't there have been a rise in BG first? It had barely been an hour since I had finished breakfast and the coffee.
@@ -4031,7 +4031,7 @@ I see two possible expeiments for you that might be telling. First, try no coffe
 
 Of course it could be something else about coffee that drives hunger. When I asked Dr. K. why coffee makes me hungry he said it stimulates cortisol. Not sure why that leads to hunger, but he knows about this stuff better than me.
 
-### jeanie@truelongmont.com — 2012-07-21T21:10:51+0300
+### [email redacted] — 2012-07-21T21:10:51+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-40057>
 
 Also, clearly HCG is doing something with hunger - and the normal things that increase it may not work the same. Isn't the theory that eating fat while under the influence of the right dose of HCG turns on the hunger - which is why it's fat free plan?
@@ -4055,7 +4055,7 @@ Besides, I"m anxious to try a cold bath.
 
 And I thought about having hubby take a pic of that weird kite shaped indent in my back but EWWWWWWW who wants to see my ugly old nekkid (upper) back with all that flab hanging around. ICK. I can't even stand to look at it.
 
-### jeanie@truelongmont.com — 2012-07-22T01:51:52+0300
+### [email redacted] — 2012-07-22T01:51:52+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-40117>
 
 > **DarleenMB;40302 wrote:** Cavemam, most of those "theories' are just guesses. Until somebody does some actual REAL science we're just whistling in the dark and everything is anecdotal which is NOT the same thing as science.
@@ -4144,7 +4144,7 @@ Lunch: (cause I know I'm gonna want/need it) small green salad with small can of
 
 Dinner: Scallops and shrimp. ???
 
-### jeanie@truelongmont.com — 2012-07-22T21:03:03+0300
+### [email redacted] — 2012-07-22T21:03:03+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-40257>
 
 Ok, love it Darleen. . .keep reporting! I've got lots of HCG left - so if I can get my current weight to hold - I'm coming up with an HCG helped hybernation experiment in the dead of winter. Any and all input welcome. Please keep reporting foods too - and uh, please no grains
@@ -4340,7 +4340,7 @@ Am still on my "Longmire" reading kick. Am now on book 4 and am going to be majo
 
 We're still wilting from the heat but we are supposed to get a reprieve tomorrow. Weather widget says high of 76. I'll believe it when I see it.
 
-### jeanie@truelongmont.com — 2012-08-02T22:30:29+0300
+### [email redacted] — 2012-08-02T22:30:29+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-42558>
 
 > **DarleenMB;42813 wrote:** had out of town company last night and took them out to dine but it was way late. 9 or so before we actually ate. grrr.
@@ -4562,7 +4562,7 @@ Fitchburg, WI 53711
 
 ph: 608.233.2378 | fax: 608.233.2375
 
-[astangermd@tds.net](mailto:astangermd@tds.net)
+[[email redacted]](mailto:[email redacted])
 
 ### DarleenMB — 2012-08-17T22:36:18+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-45420>
@@ -4800,7 +4800,7 @@ FBG 88
 
 Oh and Lanie, thanks for the lab info. (and I've been reading your blog, just haven't had anything to say back!)
 
-### jeanie@truelongmont.com — 2012-08-21T03:25:09+0300
+### [email redacted] — 2012-08-21T03:25:09+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-45976>
 
 > **DarleenMB;46236 wrote:** Well I figure that if I log everything for about 2 months then take it to the doc/PA they will HAVE to listen. Of course, if I start losing weight that may not be of help.
@@ -5100,7 +5100,7 @@ I'm thinking I'll go ahead this month (september) and do the annual wellness thi
 
 In the meantime, back to my @\*#&%(#) blood glucose levels.
 
-### jeanie@truelongmont.com — 2012-08-31T17:24:28+0300
+### [email redacted] — 2012-08-31T17:24:28+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-48571>
 
 > **DarleenMB;49038 wrote: Here's my WTF moment for today ... FBG is 112. I repeat. WTF**?!!!
@@ -5251,7 +5251,7 @@ I'm always surprised at how I can just let the walls down here on the 'net and j
 
 And that is my TMI for today.
 
-### jeanie@truelongmont.com — 2012-08-31T19:01:12+0300
+### [email redacted] — 2012-08-31T19:01:12+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-48588>
 
 > **DarleenMB;49060 wrote:** Well ladies, that's good to know in that I will stop those drinks. Good thing I only have a couple left in the fridge.
@@ -5702,7 +5702,7 @@ Thanks but I think the nearest Trader Joe's is probably a little more than 2 hou
 
 Costco has great prices and great products plus they treat their employees like gold! We love 'em. That $45 bag of shrimp? It was a LOT of shrimp and they were the big ones. But we were already way over budget so I had to either put something back or skip it for now. As it was we spent WAY too much. Because we only go about every 3 months (and not at all in the winter) we usually spend around $300 per trip. We spent double that this time. I'm still reeling. But we were out of everything plus there's the usual, "oh look at this!" ... I must have spent nearly $80 on raw nuts alone and about that much on the meat. But it was 10 boneless pork loin chops (the big ones), 4 big strip steaks, 4+ pounds of chuck "ribs" which I cut up for a fantastic paleo beef stew AND 2 huge bags of sirloin burgers (which at $3.99 a pound already saved me a bunch over what I've been paying). When you consider how much you're getting, it's well worth it. I keep raw almonds, pecans and walnuts in the freezer. And I was all out of pine nuts. Plus EVERYTHING has gone up this summer. What I had in that cart would have been $500 last Spring. I'm trying not to get too depressed. At least we can afford decent food and a roof over our heads and heat in the winter. Not everyone is so lucky.
 
-### jeanie@truelongmont.com — 2012-09-27T00:55:37+0300
+### [email redacted] — 2012-09-27T00:55:37+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-54607>
 
 > **DarleenMB;55361 wrote:** So now I have infections in both ears. My brain feels as if it slid sideways. I hate taking antibiotics. And my sister, who is having surgery on her neck to repair the damage from her fall last summer, has signed a DNR. She is 62. I know she's terrified of becoming a paraplegic because of the damage and the spinal stenosis but I think the DNR is a mistake at this time. Her son and daughter are not so happy with her either, nor is her husband. I'm just plain scared out of my wits. We have been estranged pretty much since I left "home" at 17 and just this past year have reconnected.
@@ -5740,7 +5740,7 @@ Take some warmed olive oil, crush a bunch of garlic in it for about 10 mins, the
 
 sounds like love potion.......
 
-### jeanie@truelongmont.com — 2012-09-27T00:59:20+0300
+### [email redacted] — 2012-09-27T00:59:20+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-54611>
 
 > **Jack Kruse;55408 wrote:** sounds like love potion.......
@@ -5819,7 +5819,7 @@ bother.
 
 I'm rethinking the "love potion" for my ear.
 
-### jeanie@truelongmont.com — 2012-09-27T22:27:57+0300
+### [email redacted] — 2012-09-27T22:27:57+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-54838>
 
 I have used it, and I use it on my kid. I had a double ear infection that made me cry. I did that, and before I could get the antibiotics script filled the pain let up.
@@ -5833,7 +5833,7 @@ I still feel just wretched. Probably because I had the infection for well over a
 
 My appetite has gone south, I'm cranky. Just plain bitchy.
 
-### jeanie@truelongmont.com — 2012-09-28T23:51:04+0300
+### [email redacted] — 2012-09-28T23:51:04+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-55092>
 
 Darleen! Just do it, crush some fresh garlic and get it in your ear. You will love me! I think the mojo is in the chemicals that break down rather quickly.
@@ -6130,7 +6130,7 @@ Yeah yeah. vanity and all that crap.
 
 You are a "stitch" DarleenMB~~I don't think I look too good in photos either (probably 'cause for me there is too much truth, and it's hard to swallow)
 
-### jeanie@truelongmont.com — 2012-10-11T03:27:24+0300
+### [email redacted] — 2012-10-11T03:27:24+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-57494>
 
 > **DarleenMB;58803 wrote:**
@@ -6314,7 +6314,7 @@ Well hubby can test the stew ... he loves oysters and mussels and shrimp. I hope
 
 Oh and I'm working on a rather long journal post. Man my head has been buzzing all day long with images and thoughts flitting around like fireflies on a hot summer night. sheesh.
 
-### jeanie@truelongmont.com — 2012-10-15T04:31:33+0300
+### [email redacted] — 2012-10-15T04:31:33+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-58238>
 
 Darlene,
@@ -6379,7 +6379,7 @@ What I distilled out of yesterday's mindmash was this. I have allowed fear to in
 
 And that's as much as I can deal with right now.
 
-### jeanie@truelongmont.com — 2012-10-15T20:54:56+0300
+### [email redacted] — 2012-10-15T20:54:56+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-58376>
 
 Thanks for sharing. I'm impressed.
@@ -6560,12 +6560,12 @@ Not sure what B.O.B. means, but I think I get the idea from the other replies.
 
 Also be forewarned, some battery-powered toys are not strong enough, which can be discouraging.
 
-### jeanie@truelongmont.com — 2012-10-17T03:06:04+0300
+### [email redacted] — 2012-10-17T03:06:04+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-58636>
 
 Want to make sure I am not wasting my oxy efforts - one doesnt need penetration for the oxy right? Just looking for the O-face?
 
-### jeanie@truelongmont.com — 2012-10-17T03:06:36+0300
+### [email redacted] — 2012-10-17T03:06:36+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-58637>
 
 Also, probably some good smut is more productive than BOB
@@ -6587,7 +6587,7 @@ boyfriend on batteries
 
 vocabulary I picked up on here along the way lol
 
-### jeanie@truelongmont.com — 2012-10-17T03:08:08+0300
+### [email redacted] — 2012-10-17T03:08:08+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-58639>
 
 > **DarleenMB;60125 wrote:** LOL Ealachan I should have just pm'd you!
@@ -6711,7 +6711,7 @@ I think the fact that you can admit this to yourself is a pretty big step in the
 
 Hugs to you.
 
-### jeanie@truelongmont.com — 2012-10-17T22:45:14+0300
+### [email redacted] — 2012-10-17T22:45:14+0300
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-58791>
 
 > **DarleenMB;60279 wrote:** Thanks for the recs ... I'm still trying to narrow the field down.
@@ -7634,7 +7634,7 @@ Yes I did scroll down. And my first reaction was WHOA DUDE point that thing some
 
 What a moron. He (or they) won't be on FB for much longer. I'd bet money they get the boot.
 
-### jeanie@truelongmont.com — 2012-11-07T16:28:21+0200
+### [email redacted] — 2012-11-07T16:28:21+0200
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-62513>
 
 > **DarleenMB;64229 wrote:** That's just it. I HAVE done it. Just not enough. And I went I got chilled already because I was sitting around in my little housecoat and bare feet. Now I'm freezing.
@@ -7702,7 +7702,7 @@ I just thought of Roger Daultry screaming his ballad to Darleen.......Who the f#
 
 Ah you only wish. I haven't even scratched the surface.
 
-### jeanie@truelongmont.com — 2012-11-08T00:14:20+0200
+### [email redacted] — 2012-11-08T00:14:20+0200
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-62710>
 
 > **DarleenMB;64448 wrote:** In reading through some conversations this morning I found myself feeling vaguely uncomfortable at what I found. The more I thought about it the more I thought it was time to really "out" myself.
@@ -8558,7 +8558,7 @@ Just noticed ... DO THE MATH TO POST? WTH?
 
 So far everything is still pretty discombobulated from what I can see....I'm not seeing any new posts on most of the forums. Sometimes I'm getting 'You do not have premission to view this page'.
 
-### gebronson@gmail.com — 2012-11-23T18:35:07+0200
+### [email redacted] — 2012-11-23T18:35:07+0200
 **Source:** <https://forum.jackkruse.com/threads/so-lets-try-this-darleenmb.627/post-65461>
 
 I'm bumbling about myself... I'll figure this out.....
@@ -18637,7 +18637,7 @@ Awesome thread here........I cant wait to see how your journey continues to unfo
 
 I look forward to learning much from you - and in that vein would you think about a tutorial on how you posted your lovely pictures until Jack's Monkeys figure out how to make it easier?! I would also be interested in your lighting technique etc. - but maybe that could be a PM so we don't go too much off topic here! Thank you and welcome!
 
-### kathiebu@hotmail.com — 2012-04-04T18:13:40+0300
+### [email redacted] — 2012-04-04T18:13:40+0300
 **Source:** <https://forum.jackkruse.com/threads/you-know-how-i-feel.628/post-11317>
 
 Looks like you are an awesome cook and photographer!!
@@ -18716,7 +18716,7 @@ GW = Goal weight
 
 Paula
 
-### dkenward@yahoo.com — 2012-04-04T20:57:59+0300
+### [email redacted] — 2012-04-04T20:57:59+0300
 **Source:** <https://forum.jackkruse.com/threads/you-know-how-i-feel.628/post-11403>
 
 Jina, your lake pictures are my new desktop wallpaper, thank you! That is way cool.
@@ -18918,7 +18918,7 @@ i'll throw in some non-food pics from the weekend  i LOVE water, and there's ple
 
 around my neighbourhood. can't wait til i have enough free time in the days to actually go swim in it!
 
-### kathiebu@hotmail.com — 2012-04-13T16:17:48+0300
+### [email redacted] — 2012-04-13T16:17:48+0300
 **Source:** <https://forum.jackkruse.com/threads/you-know-how-i-feel.628/post-14682>
 
 Hi .lina! You are doing great! Al lyour meals look so delicious!! Would you share the fresh mushroom sauce recipe?? It looks soooo good!! Thank you!!
@@ -18976,7 +18976,7 @@ other things that have happened the last few days include my first intermittent 
 
 and my first cold bath. hoping to see results on the scale/measurements soon, so sick of plateauing.
 
-### kathiebu@hotmail.com — 2012-04-15T00:48:11+0300
+### [email redacted] — 2012-04-15T00:48:11+0300
 **Source:** <https://forum.jackkruse.com/threads/you-know-how-i-feel.628/post-15155>
 
 > **.lina;15210 wrote: my pleasure, AbetterME**!
@@ -19591,7 +19591,7 @@ this is just an iphone-snap but look at this beauty - the salmon just MELTS in y
 
 and i am gonna go on a hunt for that green seaweed salad to eat with _everything_:
 
-### amber_tyrrell@hotmail.com — 2012-09-07T10:38:49+0300
+### [email redacted] — 2012-09-07T10:38:49+0300
 **Source:** <https://forum.jackkruse.com/threads/you-know-how-i-feel.628/post-49942>
 
 Hi .lina I also grow zucchini in my garden - they are a never fail produce! They grow so prolifically and like you say one plant will be growing 5 at once and in different sizes. I try not let them grow too big as the skin gets tough when they are big. But they are a great vegetable to have chopped into stir frys, grated in quiche (and hidden from the children who don't like them much!), and they are delicious fried up with onions and tomatoes - chunky style. But also something I tried recently - slice them lengthways and use as a substitute for lasagne sheets in lasagne.
@@ -20139,7 +20139,7 @@ Ok I just saw this, so he has a lot of allergies, you may want to see an ENT doc
 
 No allergies that we know of...just the ezcema when lots of wheat is consumed. doing the early intervention then we go from there based upon the recommendation; I anticipate we'll look at both allergies, check hearing, see an ENT, and maybe even start speech therapy...
 
-### omlh@todmi.com — 2012-04-04T19:10:11+0300
+### [email redacted] — 2012-04-04T19:10:11+0300
 **Source:** <https://forum.jackkruse.com/threads/took-the-kids-in-for-a-celiac-panel.635/post-11348>
 
 My youngest was diagnosed non-coeliac gluten-intolerant when she was 4 - she had the blood test and the results were off the scale, so we took her off all foods containing wheat immediately (we had to re-introduce them for her biopsy, which was hell - she was really, really ill then). Within a week she started to sleep better, her eczema started to clear up, her speech improved (but not her hearing - she is partially deaf in one ear, so it is worth having a hearing test done) and her school commented on how much her behaviour improved. When she had the re-introduction to gluten for her biopsy, it was back to square one and then some - and disappointingly her biopsy was clear, hence the non-coeliac gluten intolerant label as she is so symptomatic when she eats anything containing gluten! She also has multiple allergies which clear up considerably, although not completely, when following a primal/paleo diet, and she is sadly hypermobile and dislocates her hips, shoulders and kneecaps with the greatest of ease ...
@@ -20153,7 +20153,7 @@ she wanted to dance/ballet as a 2nd activity - so we signed her up for class - t
 
 Initially I thought this lack of ability to follow directions, and participate in group setting was related to her not being in pre-school; maybe its partially diet related!!! EUREKA!
 
-### omlh@todmi.com — 2012-04-04T19:49:46+0300
+### [email redacted] — 2012-04-04T19:49:46+0300
 **Source:** <https://forum.jackkruse.com/threads/took-the-kids-in-for-a-celiac-panel.635/post-11368>
 
 It could well be food-related behaviour problems - we always know when youngest has eaten something she shouldn't have for several reasons - bloating, upset stomach, body odour changes, eczema and terrible, argumentative and obstructive behaviour!
@@ -20205,7 +20205,7 @@ I see a doc in Fairfax that does Asyra testing. It sounds really out there....en
 
 Great for kids...I hate having them stuck for bloodwork. They are so brave but it breaks my heart.
 
-### finnite@dccnet.com — 2012-04-08T05:18:32+0300
+### [email redacted] — 2012-04-08T05:18:32+0300
 **Source:** <https://forum.jackkruse.com/threads/took-the-kids-in-for-a-celiac-panel.635/post-12582>
 
 serum celiac tests for kids are even less reliable than for adults but I hope you get some response that might help convincing the day care folks to not give the kids the gluten.
@@ -20221,7 +20221,7 @@ jmho but always check the diet!
 
 I have been lurking on this forum but this is my first post. You guys are so inspirational. I am trying really hard to switch my kids over to a paleo/primal lifestyle. They have lots of allergies, both food and environmental. They both have eczema. My oldest especially can be very difficult to handle. He's 8 tomorrow (Easter!) but still has frequent meltdowns, oppositional behavior and has been diagnosed with ADHD. He's on meds for that bit I really don't feel good about it. We tried to take him off but it seemed like his anxiety got worse. I don't know where to turn for help. Doctors just propose more drugs and poo poo any talk of dietary change. My family is downright hostile about it and school and activities are such minefields. I really feel at the end of my rope. Help!
 
-### finnite@dccnet.com — 2012-04-08T18:23:01+0300
+### [email redacted] — 2012-04-08T18:23:01+0300
 **Source:** <https://forum.jackkruse.com/threads/took-the-kids-in-for-a-celiac-panel.635/post-12713>
 
 > **Sem;12655 wrote:** I have been lurking on this forum but this is my first post. You guys are so inspirational. I am trying really hard to switch my kids over to a paleo/primal lifestyle. They have lots of allergies, both food and environmental. They both have eczema. My oldest especially can be very difficult to handle. He's 8 tomorrow (Easter!) but still has frequent meltdowns, oppositional behavior and has been diagnosed with ADHD. He's on meds for that bit I really don't feel good about it. We tried to take him off but it seemed like his anxiety got worse. I don't know where to turn for help. Doctors just propose more drugs and poo poo any talk of dietary change. My family is downright hostile about it and school and activities are such minefields. I really feel at the end of my rope. Help!
@@ -20235,7 +20235,7 @@ this book [http://www.amazon.ca/This-Your-Child-Doris-Rapp/dp/0688119077](http:/
 
 Colleen - can you believe I JUST ordered that book on Amazon and it arrived yesterday? I haven't had a chance to read it yet but my boys have many of the symptoms just from the photos on the back of the book. I also got the book "What's eating your child?" the hard part for me is getting everyone else to cooperate. Even my husband, who totally agrees with me and says he wholeheartedly supports this, will then do something like take the boys to Starbucks while I'm still sleeping and get them low fat cinnamon cakes. I know he means well and just wants to let me sleep but aargh! I got even more freaked after I saw the 60 minutes story on sugar. I knew most of it but still! I'm going to let today go ... It's Easter and my sons 8th birthday but tomorrow is a new day. Happy Easter!
 
-### finnite@dccnet.com — 2012-04-10T04:10:44+0300
+### [email redacted] — 2012-04-10T04:10:44+0300
 **Source:** <https://forum.jackkruse.com/threads/took-the-kids-in-for-a-celiac-panel.635/post-13213>
 
 I think you will really find the book useful, I haven\`t seen the other one and will look it up. hopefully it was a successful birthday party!
@@ -20321,7 +20321,7 @@ My 2nd babbled as if he made complete sense, and just gradually started adding r
 
 Then my 3rd started talking before her first birthday, but in the chaos of a busy household I didn't really notice the significance. My sister is a speech pathologist, and nearly fell off her chair when my 12mth old said 'more please mum'. This same child didn't walk until she was 16mths. Coming down the hallway she said proudly 'look mum, emmy's walking'.
 
-### omlh@todmi.com — 2012-04-21T12:57:56+0300
+### [email redacted] — 2012-04-21T12:57:56+0300
 **Source:** <https://forum.jackkruse.com/threads/took-the-kids-in-for-a-celiac-panel.635/post-17350>
 
 We used Johannsen Sound Therapy for youngest, as she has dyslexic-related auditory processing problems - she didn't really start speaking until she was two, and then only a few words which she couldn't say properly. She ended up have fairly extensive speech therapy from age 5 - 6, in combination with the Sound Therapy and now has much fewer problems - I doubt she'll ever be 100%, especially as she is partially deaf in one ear. I must say, we were particularly worried when she didn't talk, as eldest started at around 11 months, and middle one around 10 months - both were making good sense by a year - so it was a bit of a shock when youngest was so slow to talk (mind you, she makes up for it now - a real blether-box!).
@@ -20752,7 +20752,7 @@ I'm really dismayed to see the MDs calling names... I guess a medical (or psychi
 
 Wow! Emily and her doctor friends are taking a vote. All we get to vote on here is whether we want the e-book or hardcopy. Why can't we start some real science????
 
-### kc_boxerman@yahoo.com — 2012-04-04T06:54:42+0300
+### [email redacted] — 2012-04-04T06:54:42+0300
 **Source:** <https://forum.jackkruse.com/threads/would-any-of-you-like-to-chime-in-here.638/post-11160>
 
 Harris is a disappointment. He's like the kid that everyone says has potential, but...
@@ -20814,7 +20814,7 @@ I am aware that Jack has talked like that, though I haven't seen him do it in re
 
 Why are you here? I ask that genuinely. You know that those of us here are all fans of Dr. Kruse, since this is his forum, so what gives?
 
-### jeanie@truelongmont.com — 2012-04-04T07:40:19+0300
+### [email redacted] — 2012-04-04T07:40:19+0300
 **Source:** <https://forum.jackkruse.com/threads/would-any-of-you-like-to-chime-in-here.638/post-11174>
 
 I keep looking for one of the experts who keep insulting me to refute the basic premise of biology stuff being effected by temp. Nothing. That speaks volumes.
@@ -21335,7 +21335,7 @@ My favorite t-shirt proposal on this forum is the one just on the LR Rx thread: 
 
 95! interesting comparison ; )
 
-### jeanie@truelongmont.com — 2012-04-05T00:17:54+0300
+### [email redacted] — 2012-04-05T00:17:54+0300
 **Source:** <https://forum.jackkruse.com/threads/would-any-of-you-like-to-chime-in-here.638/post-11496>
 
 > **caroline;11256 wrote:** I am continually amazed that Dr. K. has time for all of this. Over the last number of years I have been lucky enough to have some personal friends that are wonderful Docs. They struggle to balance their lives. They are totally committed to their families and their patients and their community. Never enough hours in the day and always putting themselves out there for whoever needs help. I bow to them
@@ -21562,7 +21562,7 @@ How did I miss this thread? I was the lucky target of the C word....I did push b
 
 Mazel tov! on being the "lucky target." That's pretty funny that you only found out now.
 
-### taryn.ourso@gmail.com — 2012-04-07T01:25:03+0300
+### [email redacted] — 2012-04-07T01:25:03+0300
 **Source:** <https://forum.jackkruse.com/threads/would-any-of-you-like-to-chime-in-here.638/post-12317>
 
 > **ColdBren;12375 wrote:** How did I miss this thread? I was the lucky target of the C word....I did push buttons on purpose, its hard not to with his personality type...and mine. He just seems like an angry guy that has figured some good things out about health....nothing compelling at all. This site is a treasure chest of health info and I will gladly hang out here as much as possible.
@@ -21574,7 +21574,7 @@ I admire your willingness to post there at all!! I'm a heavy lurker but I don't 
 
 People are so tough on the internet. I was actually suprised that only women "defended my honor"....makes be a bit discouraged. Anyway, it is interesting hearing the discussions, even the confrontational ones because there were some good points on both sides.
 
-### taryn.ourso@gmail.com — 2012-04-07T04:25:20+0300
+### [email redacted] — 2012-04-07T04:25:20+0300
 **Source:** <https://forum.jackkruse.com/threads/would-any-of-you-like-to-chime-in-here.638/post-12353>
 
 > **ColdBren;12414 wrote:** People are so tough on the internet. I was actually suprised that only women "defended my honor"....makes be a bit discouraged. Anyway, it is interesting hearing the discussions, even the confrontational ones because there were some good points on both sides.
@@ -22165,7 +22165,7 @@ I'll be eating lamb and nothing else, despite being asked to bring a vegetable I
 
 And probably doing maybe a little resisting, at least of my kids' easter eggs (which I fill with "yogurt" covered raisins, dried fruit, organic gummies, etc.), judging by the dream I had last night (of eating half a Kroger cake).
 
-### omlh@todmi.com — 2012-04-08T12:52:42+0300
+### [email redacted] — 2012-04-08T12:52:42+0300
 **Source:** <https://forum.jackkruse.com/threads/so-what-are-you-up-to-for-easter.643/post-12617>
 
 We'll be eating a grass-fed 3-rib of beef roast today, I'll be doing some roast potatoes for the children, and other vegetables will be roasted cauliflower and some sauteed broccoli. I've made 90% dark chocolate Easter eggs for all (mini-ones), and will have some baked chocolate custard from The Primal Cookbook for the children for pudding. We'll also be going for an extra-long walk with the dogs down to our pond (which I might just get into!) and back through the woods. Racing Demon by candlelight will be the order of the evening, rather than any computers or television.
@@ -22360,7 +22360,7 @@ What are we talking about there?
 
 Good careful answer, August!
 
-### nicebeanst@yahoo.com — 2012-04-05T20:24:55+0300
+### [email redacted] — 2012-04-05T20:24:55+0300
 **Source:** <https://forum.jackkruse.com/threads/you-know-you-are-becoming-optimized-when.644/post-11814>
 
 when you "forget" to eat (cause you aren't hungry!)
@@ -22440,7 +22440,7 @@ Beeeeeeppppp
 
 Can't take credit... an older gentleman on MDA used that expression in his success story a few Fridays ago. I just loved it.
 
-### jeanie@truelongmont.com — 2012-04-14T23:02:32+0300
+### [email redacted] — 2012-04-14T23:02:32+0300
 **Source:** <https://forum.jackkruse.com/threads/you-know-you-are-becoming-optimized-when.644/post-15130>
 
 When you take the covers off your kids at night when checking on them asleep.
@@ -22522,7 +22522,7 @@ So sweet!!!
 
 sent from my phone while wrangling at least 1 toddler...expect typos, smile when you see them...the toddlers or the typos
 
-### kcorcoran@comcast.net — 2012-05-04T02:11:47+0300
+### [email redacted] — 2012-05-04T02:11:47+0300
 **Source:** <https://forum.jackkruse.com/threads/you-know-you-are-becoming-optimized-when.644/post-21160>
 
 When your husband keeps giving you the eye!
@@ -22601,7 +22601,7 @@ LOL and just who did they belong to?
 
 hehehe   ...........
 
-### phillipsgeorge@hotmail.com — 2012-05-04T22:45:54+0300
+### [email redacted] — 2012-05-04T22:45:54+0300
 **Source:** <https://forum.jackkruse.com/threads/you-know-you-are-becoming-optimized-when.644/post-21418>
 
 Bloody hell! Tied up in laser knots (by MJ\*, mainly!) on another thread and I'm missing all the fun here!
@@ -22707,7 +22707,7 @@ And Glam, my apologies for despoiling your success thread with pictures of man f
 
 Attached files [](http://http://www.jackkruse.com/forum/convert_files/attachments/11384=100-start.jpg)
 
-### selma@decna.no — 2012-04-04T21:21:31+0300
+### [email redacted] — 2012-04-04T21:21:31+0300
 **Source:** <https://forum.jackkruse.com/threads/flat-tummy-mission-accomplished-pic.645/post-11414>
 
 Sorry Croak - no money back as I can see less fat on the 2.nd picture... And the belly is shrinking on both the north and the south side.
@@ -22719,7 +22719,7 @@ Fantastic results - both of you.
 
 I think it is amazing at how much more of the door you can see in the last pic! Maybe it is positioning but I think you look much smaller! Congrats to both!
 
-### edance83@yahoo.com — 2012-04-04T22:36:36+0300
+### [email redacted] — 2012-04-04T22:36:36+0300
 **Source:** <https://forum.jackkruse.com/threads/flat-tummy-mission-accomplished-pic.645/post-11445>
 
 Glam how do you get your pics to post like this? I tried today and it kept telling me it was too big and when I finally got it small enough (super small btw) it just posted links and not the actual picture. I tried doing it straight from my computer and from flckr.
@@ -22742,7 +22742,7 @@ Lovelife, I use Photobucket for all my pics. Much easier!
 
 With CT, yes, there is indeed shrinkage.
 
-### edance83@yahoo.com — 2012-04-05T00:22:09+0300
+### [email redacted] — 2012-04-05T00:22:09+0300
 **Source:** <https://forum.jackkruse.com/threads/flat-tummy-mission-accomplished-pic.645/post-11498>
 
 Thanks Glam! I will try it out. And congrats girl you look amazing! I can't wait till I have a flat tummy too. Still stuck with a little pudge on the lower stomach.
@@ -22859,7 +22859,7 @@ Love these pictures! Do post again Croak as you progress.
 
 Ditto, I'd love to see a monthly update form you Croak!
 
-### trishalinn@gmail.com — 2012-04-20T05:44:59+0300
+### [email redacted] — 2012-04-20T05:44:59+0300
 **Source:** <https://forum.jackkruse.com/threads/flat-tummy-mission-accomplished-pic.645/post-16906>
 
 > **Glamorama;11577 wrote: Did you see what I used to look like? My waist measured 120 cm in June 2011. Now 75 cm! Crazy stuff!
@@ -22886,7 +22886,7 @@ me too! I'm hopeful...praying I see some change soon
 
 My tummy was flat within 4 months of giving birth to twins, I only struggled once I stopped breastfeeding them. And never recovered hormonally before conceiving the third, which caused me all the weight and issues before going primal.
 
-### betseyford@hotmail.com — 2012-04-20T15:15:28+0300
+### [email redacted] — 2012-04-20T15:15:28+0300
 **Source:** <https://forum.jackkruse.com/threads/flat-tummy-mission-accomplished-pic.645/post-16973>
 
 thanks for the inspiration! I needed it this morning.
@@ -22901,7 +22901,7 @@ Glam and Croak you both are so inspirational! Thanks for sharing!
 
 Added a new picture to my "collage o' fat" on Page 1. 16 days after my last picture, and I've only dropped 9 pounds. Sucks, doesn't it?
 
-### trishalinn@gmail.com — 2012-04-21T04:09:57+0300
+### [email redacted] — 2012-04-21T04:09:57+0300
 **Source:** <https://forum.jackkruse.com/threads/flat-tummy-mission-accomplished-pic.645/post-17310>
 
 > **Glamorama;17037 wrote:** My tummy was flat within 4 months of giving birth to twins, I only struggled once I stopped breastfeeding them. And never recovered hormonally before conceiving the third, which caused me all the weight and issues before going primal.
@@ -22920,7 +22920,7 @@ It will. Sounds like your hormones are taking time getting themselves sorted out
 
 Excellent pics and progress, congrats to you both!
 
-### nosnhojjennifer@yahoo.com — 2012-05-15T15:15:33+0300
+### [email redacted] — 2012-05-15T15:15:33+0300
 **Source:** <https://forum.jackkruse.com/threads/flat-tummy-mission-accomplished-pic.645/post-24173>
 
 Thanks for posting Glam and Croak. I really need some motivation today...hitting the bottom of my reserves of positive thinking and this gave me a big boost.
@@ -22975,7 +22975,7 @@ I'm too bashful to post any naked pics of my fat ----but I've had similar succes
 **Subforum:** Cold Thermogenesis
 **Posts:** 46
 ══════════════════════════════════════════════════════════════════════
-### meyoolia@gmail.com — 2012-04-04T14:16:04+0300
+### [email redacted] — 2012-04-04T14:16:04+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-11214>
 
 Okay, so I've whined and whinged and complained here, there, and everywhere. I promise after starting this thread I'll DROP it if I'm on my own!
@@ -22991,7 +22991,7 @@ meyoolia I'm sorry you're having extreme symptoms. I'm glad you posted. We could
 
 All that matters is that you become healthier in the long run.
 
-### meyoolia@gmail.com — 2012-04-04T17:49:21+0300
+### [email redacted] — 2012-04-04T17:49:21+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-11298>
 
 > **Adria;11350 wrote:** meyoolia I'm sorry you're having extreme symptoms. I'm glad you posted. We could be the first women in our age group taking a sudden dose of CT. We're all unique as to where our body health is currently, to me this means approach CT at your own individual pace and listen to your body. If I were you I'd work on diet and light until you're healthier. To me heathier means normal weight sustained for long time, your skin is clear, you're sleeping great, no diseases, little to no meds or supplements needed. And I would be cautious of any advice from a neuropath. I would't use neem on my scalp or skin as neem has shown to be toxic to children if ingested. So for me I'd consider it unsafe. Be as natural in all areas of your life as possible. I'd stay at little to no CT until you're at optimal health. Even then go very slow and be aware of your body at all times, be ready to back off or stop. This may not be the path DrK recommends, or your neuropath, or what any others on this forum are doing.
@@ -23026,7 +23026,7 @@ Sorry you're going through this. Doc has said cold urticaria is from poor omega 
 
 Neem is good. It's a natural shampoo my daughter uses on dogs in her groom shop when they have skin problems. Hopefully that will really fix it.
 
-### meyoolia@gmail.com — 2012-04-04T22:14:37+0300
+### [email redacted] — 2012-04-04T22:14:37+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-11434>
 
 > **colleencoble;11396 wrote:** Sorry you're going through this. Doc has said cold urticaria is from poor omega 3/6 ratio so it's probably good you've backed off. How much were you doing and what were you doing? If full immersion, then that was probably too fast. Though I jumped right into immersion too. I'm 60 though and have been on BHRT for 5 years, regular hormones before that. And my naturopath got me in pretty good shape with omega 3 about 15 years ago. It's good you have a naturopath to help you. They usually try to treat underlying causes than regular doctors. They don't just throw drugs at the problem but try to fix the cause.
@@ -23064,7 +23064,7 @@ A few hours later, warm to touch, bright red marks appeared on belly where I'd i
 
 In [this thread](http://http://forum.jackkruse.com/showthread.php?551), Dr K warns against using alcohol filled gel-packs for spot icing, too late for me, but perhaps helpful to someone else.
 
-### meyoolia@gmail.com — 2012-04-05T00:28:43+0300
+### [email redacted] — 2012-04-05T00:28:43+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-11503>
 
 > **MamaGrok;11516 wrote:** Are the rashes/itching/etc. exclusively in areas you're using cold?
@@ -23081,7 +23081,7 @@ Nope. That's what confused me for so long after it broke out. It's JUST on my he
 
 And the cold-water shampoo rinses were done after I'd quit tubbing, with just a hand-held shower head, bent over the tub. Only made things worse, I suspect. Now I'm warm rinsing. The neem is actually a godsend - I'm neem oiling (cut 50/50 with almond oil) once or twice a day (2nd time in the evening and I 'marinade' in it overnight), washed twice a day with neem shampoo/conditioner today cuz I can't be seen by piano students all greased up, lol. It's unbelievable how swollen and really painful the more affected side has gotten...urff!... thankfully, slowly subsiding....hopefully gone by this time next week!!
 
-### meyoolia@gmail.com — 2012-04-05T00:33:03+0300
+### [email redacted] — 2012-04-05T00:33:03+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-11505>
 
 > **Kathy;11564 wrote:** After 2 weeks of face dunking, wanting to go slow and follow protocol exactly, I proceeded to 5 minutes of abdomen icing wearing a compression shirt & using a therapy gel-pack that came with a fabric covering. The gel-pack NEVER touched my skin. After 5 minutes my skin temperature was 49Âºf, so the next day, I went for 8 minutes, instead of increasing to 10 - thinking: "go slow". Skin temp was 50Âºf & tummy felt numb.
@@ -23096,7 +23096,7 @@ And the cold-water shampoo rinses were done after I'd quit tubbing, with just a 
 
 Well done on going slow. It's frustrating that one person's slow is another's too fast! I never reacted at the ice stage. Just happy cherry red. I iced with home made gel packs made of 1 part rubbing alcohol to 2 parts water. I suspect they get less cold than other mixtures I've found that use 1:1 mixtures or the commercial blue gel packs. I never had a problem with the 1:2 packs.... maybe give 1:2 or even 1/2:2-1/2 mixtures, to "warm" them up a bit but still avoid freezing solid?
 
-### kc_boxerman@yahoo.com — 2012-04-05T00:57:24+0300
+### [email redacted] — 2012-04-05T00:57:24+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-11521>
 
 > **colleencoble;11396 wrote:** Neem is good. It's a natural shampoo my daughter uses on dogs in her groom shop when they have skin problems. Hopefully that will really fix it.
@@ -23125,7 +23125,7 @@ Thanks for reiterating that warning. For my own learning process, did have red o
 
 From my perspective, this kind of reaction is like a minor sunburn - not gonna cause any permanent harm at all, just don't make a habit of it. I'd like to know if Dr. Kruse agrees.
 
-### mycrazycartoons@gmail.com — 2012-04-05T06:37:45+0300
+### [email redacted] — 2012-04-05T06:37:45+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-11632>
 
 Several have posted about sinus issues and coughs etc.. with CTing. I've had sinus drainage and a cough for weeks.. this can't be just detoxing, can it? It's so bad, I can't sleep at night. This is pretty much my only detox symptom, but it's knocking me out. Dr. K says his family does CT when sick.. I did a 50 deg soak last night for 30 minutes and was feeling kind of clumsy and out of it afterward.. and shivered for a long time.. then coughed most of the night. (I did follow protocol exactly).
@@ -23137,17 +23137,17 @@ On the positive side, my muscles are rock hard and I don't have any pain anymore
 
 I have had a minor rash since starting CT. The calves of my legs itch, but I've had itchy legs off and on for years. The rash is on my back. It started at the tailbone area and moved up my spine to mid back. Actually, it started in my butt cheeks, it's the first thing I asked Dr K about after I started CT, ..."was it normal to experience itchy buttocks?" I hope it's just detox for me. I've also had a few pimples, which is not common for me and indicates something hormonal going on.
 
-### omlh@todmi.com — 2012-04-05T11:20:10+0300
+### [email redacted] — 2012-04-05T11:20:10+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-11654>
 
 I have come out in an itchy rash up the back of my thighs and in the small of my back - it appeared last night. It is NOT cold urticaria, more like a bad case of eczema. I have also broken out in boils on my legs (3 at the last count) - most unpleasant! I'm hoping that these are all detox symptoms, and that they will pass.
 
-### meyoolia@gmail.com — 2012-04-05T15:11:47+0300
+### [email redacted] — 2012-04-05T15:11:47+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-11686>
 
 LisaAPB & oliviascotland - ya see, this is what I mean. Powerful tools, and we have three choices: "it's detox, what do you expect" and we tough it out until some undetermined time when it settles down, which I'm gathering the majority of folks opt for.... or "it's detox, slow down" and we do.... or, door number three, we've caused some sort of autoimmune issue or illness and should likely STOP! But how to know which? Detox or illness or crashing immune system?? (yeah, the 1st 2 are arguably the same thing perhaps) Should some people \*not\* be doing parts or any of the CT? And how long should we wait ('suffer') before opting to stop? When does it become as productive as treating headache with a rock to the head? that said, I do plan to ease back into the CT eventually, but it really does make me wonder....
 
-### meyoolia@gmail.com — 2012-04-05T15:19:02+0300
+### [email redacted] — 2012-04-05T15:19:02+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-11689>
 
 > **PaleoNana;11701 wrote:** Several have posted about sinus issues and coughs etc.. with CTing. I've had sinus drainage and a cough for weeks.. this can't be just detoxing, can it? It's so bad, I can't sleep at night. This is pretty much my only detox symptom, but it's knocking me out. Dr. K says his family does CT when sick.. I did a 50 deg soak last night for 30 minutes and was feeling kind of clumsy and out of it afterward.. and shivered for a long time.. then coughed most of the night. (I did follow protocol exactly).
@@ -23156,7 +23156,7 @@ LisaAPB & oliviascotland - ya see, this is what I mean. Powerful tools, and we h
 
 Have you tried easing up the intensity, either with less time or - arguably better - warmer soaks? Sleep is likely more important than hardcore CT. I love my neti pot - ever tried one? great for rinsing the sinuses.
 
-### omlh@todmi.com — 2012-04-05T15:26:00+0300
+### [email redacted] — 2012-04-05T15:26:00+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-11692>
 
 Based on eczema-like rash, I've decided to keep the daily cold showers, keep the daily spot-icing, but move on to baths every second day until it gets better. I will also monitor the progress and slow down further if it gets worse. I really don't want to stop completely as so far it's helping me avoid major knee surgery and I'll put up with a lot to avoid that!
@@ -23247,7 +23247,7 @@ Former health issues: hypothyroid, fatty liver, hypertriglyceridemia, pre-diabet
 
 Joining in late here, but I started fast, went straight to the tub and experienced lots of increased hunger, out of control emotions and a 6 lb. loss on the scales in the first three weeks. I started to despise doing it and quit for a few days, but then started spot-CT and ending my showers with cold water. I never get my head wet, but I notice a lot of new hair growth, on my hairline and my face even, as well as scabs on my scalp that seem to come from nowhere. My face is also dotted with light red spots. I'm assuming I have a lot of toxins clearing out. I've experienced extreme fatigue and headaches, too. Some days are harder than others; I just take it slow, knowing that it's more sustainable for me in the long-term than pushing things to the max.
 
-### gr8tfl1@yahoo.com — 2012-04-05T17:49:33+0300
+### [email redacted] — 2012-04-05T17:49:33+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-11754>
 
 I have a question, too. I've been doing CT cold baths for 3 1/2 weeks now. I'm having feet pain in the tub for the last 15 min of my 45 min 50-55F bath. For the first 30 minutes I'm good to go, some shivering sometimes but then my feet hurt from just being cold. When I get out everything is a lovely cherry red. I've had cold hands & feet since childhood-so I'm assuming it's related to that but I'm wondering do I push through or back off? Anyone else experiencing this?
@@ -23271,7 +23271,7 @@ My husband had eczema for years in the winter (his father has it year-round now 
 
 Until he did his first CT bath. Eczema right away afterward. This is clearly the way he is detoxing this. 40, southeast, one bath, long-time naturally low-carb & high fat eater, very lean, no maor health issues at all, but two very unhealthy parents.
 
-### gr8tfl1@yahoo.com — 2012-04-05T18:37:11+0300
+### [email redacted] — 2012-04-05T18:37:11+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-11775>
 
 Thanks for the help MamaGrok. I always enjoy reading all your posts, here and on MDA. You are a wonderful part of this community!
@@ -23281,7 +23281,7 @@ Thanks for the help MamaGrok. I always enjoy reading all your posts, here and on
 
 I think it was on this thread, someone mentioned getting clumsy after CT. Hypothermia can lead to mental confusion, and that's why we shouldn't extend the time or cold of our CT'ing without a spotter. Now, simple clumsiness b/c fingers are a little cold, you probably should just be sure to keep them warmer next time (out of water and covered with gloves), but if you get really really cold and clumsiness and/or confusion sets in, that's a warning sign - don't go that far next time. Or anywhere close. Just take it way slower.
 
-### meyoolia@gmail.com — 2012-04-05T21:22:33+0300
+### [email redacted] — 2012-04-05T21:22:33+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-11840>
 
 > **MamaGrok;11770 wrote:**
@@ -23300,7 +23300,7 @@ Not knocking Dr. Kruse or the whole LR/CT idea.... It's just so easy to get swep
 
 ...and I also appreciate your input, btw
 
-### Szara.loring@gmail.com — 2012-04-05T21:46:10+0300
+### [email redacted] — 2012-04-05T21:46:10+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-11847>
 
 > **MamaGrok;11833 wrote:** Emilie - look into neoprene socks.
@@ -23332,7 +23332,7 @@ I can only suspect that I'd had them \*inside\* for years, and they finally deci
 
 Same thing with one of my sons. Haven't seen 'em since.
 
-### mycrazycartoons@gmail.com — 2012-04-05T22:47:39+0300
+### [email redacted] — 2012-04-05T22:47:39+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-11885>
 
 > **MamaGrok;11889 wrote:** I think it was on this thread, someone mentioned getting clumsy after CT. Hypothermia can lead to mental confusion, and that's why we shouldn't extend the time or cold of our CT'ing without a spotter. Now, simple clumsiness b/c fingers are a little cold, you probably should just be sure to keep them warmer next time (out of water and covered with gloves), but if you get really really cold and clumsiness and/or confusion sets in, that's a warning sign - don't go that far next time. Or anywhere close. Just take it way slower.
@@ -23352,7 +23352,7 @@ Someone else mentioned on here that perhaps the itchy scabby scalp symptoms were
 
 I guess what I'm trying to say is that it's nice to know that we're all in this together and we will get through this together. Your story is my story and my story is your story. The connection is quite helpful. And it's helpful for me to remember that even with the symptoms I'm having I am also seeing some improvements. Not in NY-minute type of time but slowly and surely.
 
-### spinnsugar@hotmail.com — 2012-04-06T01:12:22+0300
+### [email redacted] — 2012-04-06T01:12:22+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-11973>
 
 > **PaleoCowgirl;11802 wrote:** Joining in late here, but I started fast, went straight to the tub and experienced lots of increased hunger, out of control emotions and a 6 lb. loss on the scales in the first three weeks. I started to despise doing it and quit for a few days, but then started spot-CT and ending my showers with cold water. I never get my head wet, but I notice a lot of new hair growth, on my hairline and my face even, as well as scabs on my scalp that seem to come from nowhere. My face is also dotted with light red spots. I'm assuming I have a lot of toxins clearing out. I've experienced extreme fatigue and headaches, too. Some days are harder than others; I just take it slow, knowing that it's more sustainable for me in the long-term than pushing things to the max.
@@ -23366,7 +23366,7 @@ I agree Sherry.
 
 Regarding increased hunger I think this is sometimes a sign that the body's detox pathways are becoming overwhelmed and the body wants to return some of the junk to storage until the liver can cope - hence a desire to eat.
 
-### omlh@todmi.com — 2012-04-06T17:17:40+0300
+### [email redacted] — 2012-04-06T17:17:40+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-12140>
 
 Yesterday was a terrible day - I felt fantastic after a first thing in the morning cold shower, but after about an hour I started to feel bone-deep cold, and couldn't warm myself up at all. Spent the whole day shivering, my temperature went down to 35.4C/95.72F, and even when I went to bed I couldn't get warm enough to sleep. This lasted until lunch-time today. I had a warmish shower this morning rather than a cold one, but otherwise haven't added extra layers of clothing (didn't yesterday, either), but now I am feeling really glowingly warm and comfortable ... I don't know what it was, but my cold soak planned for this afternoon can wait until tomorrow!
@@ -23380,7 +23380,7 @@ The more that comes to the surface (skin rashes and such) the better, at least I
 
 When the poisons start to come out of my skin I will jump for joy.
 
-### meyoolia@gmail.com — 2012-04-07T05:30:03+0300
+### [email redacted] — 2012-04-07T05:30:03+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-12372>
 
 > **Suhenna;12330 wrote:** I must say that the worst for me is being sick to my stomach, but it's hardly a new symptom. I expected to go thourgh it with the eating habits and life style I have had in the past. If I take on other symptoms it's also nothing new. I realize I have to go back through all the crap I have accumulated through the years of neglecting my body. I am also quite depressed but hardly new to me.
@@ -23402,7 +23402,7 @@ Awww  big cyber hug! I suffered increasingly from low-grade depression for \*yea
 
 Thanks, but my problem is a bad liver and not thyroid. Also, I started having depression since I was 6 years old. My depression has decreased because of Homeopathy. Still my liver needs to be addressed. I am also quite sure that detoxing from diet and CT is taking me back through some things. I can live with it knowin it will get better soon.
 
-### skline@peak.org — 2012-04-08T04:35:22+0300
+### [email redacted] — 2012-04-08T04:35:22+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-12574>
 
 I've been worrying about using the ice vest, when the ice has been in a deep freeze, because that's at 0 degrees F, extremely cold, especially for someone working into CT gradually. I considered putting the ice packs into the freezer for a shorter time, or leaving them out for a time before using them, figuring out how much it would take by experimenting and using a temperature gauge.
@@ -23413,12 +23413,12 @@ So, the protocol would work like this: take the ice packs out of the deep freeze
 
 Anybody else want some variations on the ice vest ideas, by means of a sewing machine?
 
-### meyoolia@gmail.com — 2012-04-09T20:58:53+0300
+### [email redacted] — 2012-04-09T20:58:53+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-13084>
 
 so after a week of neem oiling/shampooing, the rash from HELL is 95% GONE - yay! - and a normal TOM is back (yay?) I'm gonna give the lymph's a chance to come down more, then it's back to cold packing before bed for a week or two, and gentler cold baths... like 65F... awhile. Yeeshk. "Sorry Dr. Ordanis" (my naturopath) I kinda promised her I'd be "hers" to treat with \*just\* BHRT again once this cleared up. \*shrug\*
 
-### Szara.loring@gmail.com — 2012-04-09T21:15:23+0300
+### [email redacted] — 2012-04-09T21:15:23+0300
 **Source:** <https://forum.jackkruse.com/threads/cautionary-tales-severe-ct-reactions-and-how-youve-dealt-with-them.647/post-13092>
 
 > **Anna K.;12803 wrote:** Just to clarify, you get into the tub with the socks on and they get wet, yet they keep the feet warm?
@@ -23910,7 +23910,7 @@ Best,
 
 Jim
 
-### nicebeanst@yahoo.com — 2012-04-04T20:24:37+0300
+### [email redacted] — 2012-04-04T20:24:37+0300
 **Source:** <https://forum.jackkruse.com/threads/intro-new-to-dr-j-and-paleo.655/post-11383>
 
 Art, welcome. Now come on into the cold pool, a big cannonball right in! You have nothing to lose, and everything to gain.
@@ -23968,7 +23968,7 @@ Just adding to the chorus of "you can do it" and "you have nothing to lose". I l
 
 You can definitely do this, and you won't be doing it alone by any means!
 
-### nicebeanst@yahoo.com — 2012-04-04T20:53:06+0300
+### [email redacted] — 2012-04-04T20:53:06+0300
 **Source:** <https://forum.jackkruse.com/threads/intro-new-to-dr-j-and-paleo.655/post-11400>
 
 Begin NOW with what you have. Just do it Art. Baby steps.
@@ -24247,7 +24247,7 @@ Thanks! Going to look into this for my iPhone. I love f.lux for the Mac.
 
 [http://stereopsis.com/flux/](http://http://stereopsis.com/flux/)
 
-### loriflarson@gmail.com — 2012-04-05T01:17:31+0300
+### [email redacted] — 2012-04-05T01:17:31+0300
 **Source:** <https://forum.jackkruse.com/threads/make-your-screen-even-darker.657/post-11525>
 
 Any one know if one works for linux? F.lux does not.
@@ -24402,7 +24402,7 @@ So I'm not sure why Dr K is recommending "icing" after all exercise ?
 
 I exercise and do my LHT hours prior to CT. So gym at 10 am, CT at 5 pm, the walk around 6 pm. So far I've had nothing but gains in the gym.
 
-### nicebeanst@yahoo.com — 2012-04-05T15:42:30+0300
+### [email redacted] — 2012-04-05T15:42:30+0300
 **Source:** <https://forum.jackkruse.com/threads/ice-cold-post-exercise-blunts-adaptations.660/post-11700>
 
 I train 3 x week from 4-5:30, dinner then CT after, for an hour. CT on days off from training as well. My technique coach finally picked up a calculating error I put into my program. For six weeks I have been doing a MENS program, forgot to adjust for women, I have been doing 5# jumps on worksets of sq and dl, 2.5 on bench, should have been 2.5/1.25 lbs. ha ha, oops. Also I am "masters" so I should have factored in a lighter recovery day, and I didn't. I still feel like I could keep making these jumps too. My powerlifting meet is in less than two weeks, I have put on 12.5# on my single squat which is significant gain in 6 weeks, from 220 to 232.5
@@ -24476,7 +24476,7 @@ plus.. is it the case that these studies are done on warmadapted people. so mayb
 
 the C-s on my keypad are stuck  sorry for typos
 
-### zzzcjr@comcast.net — 2012-04-06T18:08:21+0300
+### [email redacted] — 2012-04-06T18:08:21+0300
 **Source:** <https://forum.jackkruse.com/threads/ice-cold-post-exercise-blunts-adaptations.660/post-12166>
 
 > **SimonM;12140 wrote:** I'd like to see the references you are looking at, as I find it very hard to believe that ice baths a) prevent all adaptation and that b) anyone can possibly prove that long term.
@@ -24557,7 +24557,7 @@ jesse
 
 Ice baths are like taking antioxidant supplements - beneficial but should be timed right so as not to interfere with inflammation which, never mind adaptation, is crucial for healing to occur. However use of ice baths after/during training - a standard set by France's national institute of sport being 15 minutes in 50 degree cold water - is a far cry from CT...I think.
 
-### zzzcjr@comcast.net — 2012-04-07T01:39:09+0300
+### [email redacted] — 2012-04-07T01:39:09+0300
 **Source:** <https://forum.jackkruse.com/threads/ice-cold-post-exercise-blunts-adaptations.660/post-12319>
 
 > **SimonM;12356 wrote: I think that's because the science is nowhere near as conclusive as Barry is suggesting and that the "science" (such as it is) directly conflicts with real-life experience. I know it is a pain, but you really do have to experiment with your boys and see what works for them long-term. I say long-term because the overwhelmingly majority of sports "science" experiments are short-term. There is also currently no placebo control for an ice bath known to man
@@ -24570,7 +24570,7 @@ The bolded sounds like a good plan, plus it gives them more freedom time-wise--n
 
 Your whole response was very helpful. Thanks for taking the time to post it.
 
-### nicebeanst@yahoo.com — 2012-04-07T02:13:38+0300
+### [email redacted] — 2012-04-07T02:13:38+0300
 **Source:** <https://forum.jackkruse.com/threads/ice-cold-post-exercise-blunts-adaptations.660/post-12325>
 
 I know I read an article in Runner's World about Meb and Deena wearing ice vest PRIOR to the marathon event in Athens, everyone was outside, in the heat and humidity, the US team was indoors, wearing ice vests. Still looking for the article, quick search found these links, granted just anecdotal evidence, but it THOSE top guns are doing it.... duh.
@@ -24603,7 +24603,7 @@ Then this
 
 296240b3bc611d47b8e4d0f9c3ee121e3c854830
 
-### nicebeanst@yahoo.com — 2012-04-07T02:28:47+0300
+### [email redacted] — 2012-04-07T02:28:47+0300
 **Source:** <https://forum.jackkruse.com/threads/ice-cold-post-exercise-blunts-adaptations.660/post-12332>
 
 Barry, thanks for that link. I want to make sure I understand your concern with CT post training: that because CT reduces inflammation, the muscles will not be able to adapt to the training stressor(s)? Because the inflammation is necessary for adaptation?
@@ -24814,7 +24814,7 @@ I know there are lots of variables and you did a good job at pointing them all o
 
 question everything ;-)
 
-### finnite@dccnet.com — 2012-04-17T06:14:46+0300
+### [email redacted] — 2012-04-17T06:14:46+0300
 **Source:** <https://forum.jackkruse.com/threads/ice-cold-post-exercise-blunts-adaptations.660/post-15821>
 
 > **SimonM;14045 wrote:
@@ -25189,12 +25189,12 @@ Krusing to Optimization
 
 "Optimal: We Kan Do It!"......maybe too subtle?
 
-### jeanie@truelongmont.com — 2012-05-14T16:23:17+0300
+### [email redacted] — 2012-05-14T16:23:17+0300
 **Source:** <https://forum.jackkruse.com/threads/optimal-tshirt-thread.663/post-23880>
 
 I would like to re-iterate the "turn off" factor of deliberate marketing-mis spellings. Please no! KAN U DIG IT?
 
-### jeanie@truelongmont.com — 2012-05-14T16:23:59+0300
+### [email redacted] — 2012-05-14T16:23:59+0300
 **Source:** <https://forum.jackkruse.com/threads/optimal-tshirt-thread.663/post-23881>
 
 > **Cavemam;23962 wrote:** I would like to re-iterate the "turn off" factor of deliberate marketing-mis spellings. Please no! KAN U DIG IT?
@@ -25480,7 +25480,7 @@ Hack with Jack you won't go back.
 
 Unfortunately created at 3:30am. Still bi-phasic, night sweaty, argh.
 
-### kc_boxerman@yahoo.com — 2012-04-05T19:21:38+0300
+### [email redacted] — 2012-04-05T19:21:38+0300
 **Source:** <https://forum.jackkruse.com/threads/optimal-tshirts.665/post-11796>
 
 Printing slogans on cotton t-shirt is so yesterday
@@ -25555,7 +25555,7 @@ It is possible......I have a compression shirt that is done already
 
 Sent from my DROID RAZR using Tapatalk
 
-### jeanie@truelongmont.com — 2012-04-06T19:23:21+0300
+### [email redacted] — 2012-04-06T19:23:21+0300
 **Source:** <https://forum.jackkruse.com/threads/optimal-tshirts.665/post-12189>
 
 @Jack
@@ -25573,7 +25573,7 @@ I like "Winter is Coming".
 
 Great suggestions, cavemam!
 
-### jeanie@truelongmont.com — 2012-04-06T19:36:31+0300
+### [email redacted] — 2012-04-06T19:36:31+0300
 **Source:** <https://forum.jackkruse.com/threads/optimal-tshirts.665/post-12195>
 
 > **MamaGrok;12261 wrote:** Great suggestions, cavemam!
@@ -25942,7 +25942,7 @@ she's all that and a side of bacon!!!
 
 Absolutely, and check out the other beluga, too!
 
-### d_mceachern@hotmail.com — 2012-04-05T23:57:19+0300
+### [email redacted] — 2012-04-05T23:57:19+0300
 **Source:** <https://forum.jackkruse.com/threads/great-cold-adaptation-story-in-the-media.675/post-11930>
 
 > **MamaGrok;11978 wrote:** Absolutely, and check out the other beluga, too!
@@ -26158,7 +26158,7 @@ The guy in the article seems to believe he can train others to do what he is doi
 **Subforum:** Cold Thermogenesis
 **Posts:** 21
 ══════════════════════════════════════════════════════════════════════
-### jeanie@truelongmont.com — 2012-04-05T22:10:36+0300
+### [email redacted] — 2012-04-05T22:10:36+0300
 **Source:** <https://forum.jackkruse.com/threads/i-think-i-hacked-some-unpleasantness-of-the-cold-tub.676/post-11859>
 
 I remembered Jack saying he would sometimes sit in the hottub with warmer water on his bottom half, while icing the upper.
@@ -26209,7 +26209,7 @@ Well if you want unpleasantness, try doing only showers. I don't have an alterna
 
 I am really thinking of buying a huge. Garbage can instead. Guess I need to buy an ice maker as well.
 
-### finnite@dccnet.com — 2012-04-05T23:34:13+0300
+### [email redacted] — 2012-04-05T23:34:13+0300
 **Source:** <https://forum.jackkruse.com/threads/i-think-i-hacked-some-unpleasantness-of-the-cold-tub.676/post-11917>
 
 > **hellojtm;11970 wrote:** I have a feeling that once you get below 75 it feels cold... and somewhere around 40-45 you get so numb that it's actually easier than 55.
@@ -26220,7 +26220,7 @@ I am really thinking of buying a huge. Garbage can instead. Guess I need to buy 
 
 I actually think you are right with this. I live in the same city as Croak and find the colder water is easier to take than the 55F
 
-### meyoolia@gmail.com — 2012-04-05T23:44:18+0300
+### [email redacted] — 2012-04-05T23:44:18+0300
 **Source:** <https://forum.jackkruse.com/threads/i-think-i-hacked-some-unpleasantness-of-the-cold-tub.676/post-11925>
 
 > **ColleenM;11986 wrote:** I actually think you are right with this. I live in the same city as Croak and find the colder water is easier to take than the 55F
@@ -26257,7 +26257,7 @@ Now that my water temps are higher, I can even go straight into a slightly cool 
 
 I should clarify: I'm also doing ice wraps all the way around my torso on my skin, so I'm def. still getting some major cold. In fact, the coldest I feel is after taking off the ice!
 
-### finnite@dccnet.com — 2012-04-06T02:28:12+0300
+### [email redacted] — 2012-04-06T02:28:12+0300
 **Source:** <https://forum.jackkruse.com/threads/i-think-i-hacked-some-unpleasantness-of-the-cold-tub.676/post-12002>
 
 > **meyoolia;11994 wrote:** Hey ColleenM & Croak - I'm gonna be in Vancouver this month from 18th to 26th for a music-teaching conference.... wanna join me in a lunatic ocean dip? lol! (seriously!)  I'm definitely gonna get in to the chest for a few minutes, might not risk more due to FINALLY starting to get over this extended scalp/neck cold urticaria, but game for rib depth! "lunacy" loves company
@@ -26295,7 +26295,7 @@ The word bugger doesn't have much impact in the US, as most don't realize what t
 
 (damn, I can't just post a smiley)
 
-### jeanie@truelongmont.com — 2012-04-06T16:42:29+0300
+### [email redacted] — 2012-04-06T16:42:29+0300
 **Source:** <https://forum.jackkruse.com/threads/i-think-i-hacked-some-unpleasantness-of-the-cold-tub.676/post-12118>
 
 > **hazyjane;12017 wrote:** Cavemam, I did a similar thing- I used a space heater to warm my bathroom and left my feet/hands out of the water (55Âº) and I have a big cold pack on my belly. I still got lots of results (including detox results!) Now that it's warmer out and I'm more cold adapted, the water doesn't feel so bad. I'm also experimenting with warmer water (65Âº) with more immersion, since BAT is still activated at this temp. It feels pretty good!
@@ -26535,7 +26535,7 @@ Here's the link to follow: [http://jackkruse.com/products/optimized-cooking/](ht
 
 Spring update is coming soon......saw them yesterday. I also saw that they are integrating some of your wants and suggestions too! Looks like we are going to have a customized CT compression shirt. I love it. I got mine yesterday. May have to post a pic
 
-### kc_boxerman@yahoo.com — 2012-04-07T19:13:59+0300
+### [email redacted] — 2012-04-07T19:13:59+0300
 **Source:** <https://forum.jackkruse.com/threads/cookbook.687/post-12483>
 
 I have been unable to get a pm response from the marketing monkeys on the winter cookbook sans password. The email link I got expired (I didn't know what it was when it came. Any suggestions?
@@ -26963,7 +26963,7 @@ It's coconut oil  The chocolate I appear to do best with is Giradelli 100percent
 
 I'm pretty hooked on the Green and Blacks 85%.... Ingredient list is short and no soy lecithin
 
-### finnite@dccnet.com — 2012-06-05T15:48:57+0300
+### [email redacted] — 2012-06-05T15:48:57+0300
 **Source:** <https://forum.jackkruse.com/threads/chocolate.689/post-29529>
 
 Souldanzer the reason you might be sick with Lindt is that it is not gluten free. Lindt admits they use barley malt to sweeten all chocolate under 70% and they do not change or even clean machines for the 70%+ brands.
@@ -26987,12 +26987,12 @@ Thanks, Colleen, I was recently made aware of this issue with Lindt  Have been a
 
 I really can't eat anything below 99percent - too much sugar and I don't even like it. Considering my gut's still leaky, I think I just need to get over the chocolate factor
 
-### finnite@dccnet.com — 2012-06-05T17:49:23+0300
+### [email redacted] — 2012-06-05T17:49:23+0300
 **Source:** <https://forum.jackkruse.com/threads/chocolate.689/post-29550>
 
 yeah, cross contamination is the bane of my existence. it's amazing where you can get it from
 
-### jeanie@truelongmont.com — 2012-06-05T17:58:21+0300
+### [email redacted] — 2012-06-05T17:58:21+0300
 **Source:** <https://forum.jackkruse.com/threads/chocolate.689/post-29551>
 
 > **Souldanzer;29633 wrote:** Thanks, Colleen, I was recently made aware of this issue with Lindt  Have been avoiding it since. I'm not sure it really is the gluten but I've noticed a similar reaction to a different food that I knew might have been contaminated (roommate... ). Which makes me realize I probably get cross-contamination more often than I think and that might explain some things. I'll start paying attention to this.
@@ -27065,7 +27065,7 @@ I have 1/2 to a full bar/day (3.5 oz).
 
 Thank God! Yet another craving that I mistook for trouble. And now I can indulge and enjoy! Best news ever.
 
-### jeanie@truelongmont.com — 2012-08-27T04:40:52+0300
+### [email redacted] — 2012-08-27T04:40:52+0300
 **Source:** <https://forum.jackkruse.com/threads/chocolate.689/post-47417>
 
 > **Jack Kruse;47854 wrote:** it is............
@@ -27269,7 +27269,7 @@ You have opposite of what you want. You need to turn the lights way down at nigh
 
 We could give you more tips if we knew more about you such as what is your life like and what are you currently taking and what time of day? Are you battling anything else in your life besides high nighttime cortisol?
 
-### stephsxty9@gmail.com — 2012-04-09T04:14:40+0300
+### [email redacted] — 2012-04-09T04:14:40+0300
 **Source:** <https://forum.jackkruse.com/threads/hc-dhea-pregnenolone.691/post-12876>
 
 I was on HC for two years. Luckily was able to get off of it recently. I took it 4 x a day and did not take it with food. I had no issues. If you do have issues then take it with a little tea and cream or coffee and cream. Unless of course you are sensitive to dairy. Anyway you shouldn't need much cream to tolerate the HC.
@@ -27361,7 +27361,7 @@ I sure love all the tidbits one picks up out here. You never know what you will 
 
 I think a cup now and then might be ok once your estrogen levels are lower. I have a friend who totally gets hot flashes if she drinks coffee- it messes up her estrogen ratio that much!
 
-### stephsxty9@gmail.com — 2012-04-12T03:07:57+0300
+### [email redacted] — 2012-04-12T03:07:57+0300
 **Source:** <https://forum.jackkruse.com/threads/hc-dhea-pregnenolone.691/post-14021>
 
 > **vkiernan;13013 wrote:** Absolutely on the belly diuretic. I'm sure you know already know though that it is the balance to estrogen which is anti-diuretic. They need to balance each other with a specific ratio. Do you also find it gets rid of the aggitation and helps you sleep?
@@ -27387,7 +27387,7 @@ Hi Steph. Thanks for the input. Yep, been on DIM since last fall along with sily
 
 How much HC and what time of day did you take it? From some stuff I've read, I am taking too much at once. One book talks about taking no more than 10 mg per dose to not shut the adrenals down and I am on 12.5 morning and noon then 7.5 at 3pm. Do you think this is an issue? I don't know anyone that takes it to even begin to know good from bad etc.
 
-### stephsxty9@gmail.com — 2012-04-12T23:48:56+0300
+### [email redacted] — 2012-04-12T23:48:56+0300
 **Source:** <https://forum.jackkruse.com/threads/hc-dhea-pregnenolone.691/post-14416>
 
 > **vkiernan;14155 wrote:** Hi Steph. Thanks for the input. Yep, been on DIM since last fall along with silymarin. Estrogen was being reduced according to labs but pms and sore breasts tell another story. Sounds like you are dealing with everything I am attempting to deal with. The CT has really messed me up hormonal too but I am not quitting. I am going to keep letting it do it's thing and hope for the best. I cannot believe what cold water truly does to your body. Seems like most of us females and a few males are really getting the detox. It is crazy and I am floored when I read all the stuff that is happening to all of us like hormones, old injuries flaring up, nausea, headaches, etc. I have experienced all those I mentioned.
@@ -27672,7 +27672,7 @@ Well I don't know if what I did was the right answer, but I had come across some
 
 Good to know! I think I'll order some and see if I notice any improvements with it. Thank you.
 
-### nosnhojjennifer@yahoo.com — 2012-05-01T04:23:40+0300
+### [email redacted] — 2012-05-01T04:23:40+0300
 **Source:** <https://forum.jackkruse.com/threads/hc-dhea-pregnenolone.691/post-20276>
 
 Hi everyone. Hope you are all feeling well. I have to say I feel like I've turned a corner. Just when I thought my poor adrenals were beyond help, I've gotten some relief. Not sure what to point to. I have been taking Pregnenolone 50 mg along with my other vitamins and the estradiol. I just added progesterone. I have not been able to take Maca or Astragalus because I'd get a low blood sugar response. I have had an occassional coffee but always regret it afterward. Today I had a cup and felt very low blood sugar like after. But 99% chocolate seems fine. Of course I eat too much of it! Dr K has posted that he eats the 99% choc when he wants to lose weight! Not sure what he meant by that but Here's hoping!
@@ -27696,7 +27696,7 @@ I am surprised you are not taking some of progesterone in the evening at bed tim
 
 Did you back off the preg today? If so, let us know how you fare this evening. I would consider getting a smaller dose of the preg and taking it daily instead of every other day. This keeps your brain going daily. I am not sure but I don't think it is one of those things that stays with you per se. From what I've read, it helps you focus and stimulates your creative thinking. As Uzzi Reiss says, helps you swim in the crowd with people. Makes you more social. He says he has never seen it build and turn into other hormones like they say it does.
 
-### nosnhojjennifer@yahoo.com — 2012-05-01T15:39:48+0300
+### [email redacted] — 2012-05-01T15:39:48+0300
 **Source:** <https://forum.jackkruse.com/threads/hc-dhea-pregnenolone.691/post-20347>
 
 > **vkiernan;20409 wrote:**
@@ -27741,7 +27741,7 @@ The dry eyes can also be a Hashi's thing... also, hypothyroid people are nearly 
 
 [http://www.visionworksusa.com/dryeyes.htm](http://http://www.visionworksusa.com/dryeyes.htm)
 
-### nosnhojjennifer@yahoo.com — 2012-05-02T04:51:57+0300
+### [email redacted] — 2012-05-02T04:51:57+0300
 **Source:** <https://forum.jackkruse.com/threads/hc-dhea-pregnenolone.691/post-20602>
 
 Hey ladies! How r you?? Thanks for the feedback and audits suck! Lol especially for adrenal glands. I skipped the pregnonelone (or however you spell it)today and did not have heart palps but kind of a weird fluttering type pressure. Idk. Maybe just in my head. I think I'll take a Pregnenolone tomorrow for comparison. I had some stress related low blood sugar episodes today, mostly evidenced by my desire to kill people for very stupid reasons (like driving slow or wanting to talk to me when I'm busy-lol, how dare they!) I am guessing that is left over from drinking coffee yesterday. But bizarrely I continue to feel happier and lighter despite the fact that I have now gained 10 pounds!!! Ugh. On the one hand I'm miserable with my bulging belly but I feel better physically so it's hard to get too upset. Idk. Dr K posted a comment on fb about feeling intuitively fine in the midst of chaos. And that about sums it up!
@@ -27755,7 +27755,7 @@ OMG, I am the same way. They s/know I am busy and not to bother me, right???? So
 
 Did you look into plugs for your dry eyes? They work amazingly well. I remember about 6 years ago not knowing what was wrong with my eyes. I had asked my eye doc at the time and they didn't know and this went on for a few years. My sister just happened to find a good eye doctor who diagnosed her, and then we were talking and she diagnosed me and so I went to him, got plugs and end of story.
 
-### nosnhojjennifer@yahoo.com — 2012-05-02T05:19:35+0300
+### [email redacted] — 2012-05-02T05:19:35+0300
 **Source:** <https://forum.jackkruse.com/threads/hc-dhea-pregnenolone.691/post-20612>
 
 > **vkiernan;20680 wrote:** OMG, I am the same way. They s/know I am busy and not to bother me, right???? So, this isn't normal behavior?? LOL
@@ -27773,7 +27773,7 @@ Can you wear them/get them with contacts? For awhile now I have been noticing my
 
 I would think you could. They actually put these tiny little things into your eye duct. You DON'T know they are there. They have been a godsend for me. The only problem is early morning when I first get up, sometimes my eyes water and it can't go anywhere. But, this is really nothing compared to what I was going thru. They should usually be removed once a year and replaced. Not cheap though. Insurance does cover most of it though depending of course on your ins. coverage.
 
-### nosnhojjennifer@yahoo.com — 2012-05-02T05:42:23+0300
+### [email redacted] — 2012-05-02T05:42:23+0300
 **Source:** <https://forum.jackkruse.com/threads/hc-dhea-pregnenolone.691/post-20618>
 
 > **vkiernan;20688 wrote:** I would think you could. They actually put these tiny little things into your eye duct. You DON'T know they are there. They have been a godsend for me. The only problem is early morning when I first get up, sometimes my eyes water and it can't go anywhere. But, this is really nothing compared to what I was going thru. They should usually be removed once a year and replaced. Not cheap though. Insurance does cover most of it though depending of course on your ins. coverage.
@@ -28499,7 +28499,7 @@ I just have a quick question, I just picked up some DHEA, 7 keto, what kind of d
 
 Thanks
 
-### danniellethatcher@gmail.com — 2012-08-29T04:47:35+0300
+### [email redacted] — 2012-08-29T04:47:35+0300
 **Source:** <https://forum.jackkruse.com/threads/hc-dhea-pregnenolone.691/post-48020>
 
 I recently had some labs done. I am very low on DHEA and have been supplementing with 7Keto. I tried regular DHEA but it gave me terrible acne. My labs today showed that my testosterone is high, barely, but range is 2-45 and i am at 46. I had been deficient in testosterone for the past year. My doc says that the 7Keto is converting into testosterone. While it's great that my testosterone level is up to normal, any suggestions as to how to raise my DHEA without making too much testosterone? I did ask for some topical DHEA and will see if that helps,but I really need to raise my DHEA significantly.. any thoughts???
@@ -28511,7 +28511,7 @@ I recently had some labs done. I am very low on DHEA and have been supplementing
 
 Hmmm, I thought 7-keto didnt convert to T??? Guess I have to do a little more reading.
 
-### danniellethatcher@gmail.com — 2012-08-29T04:53:42+0300
+### [email redacted] — 2012-08-29T04:53:42+0300
 **Source:** <https://forum.jackkruse.com/threads/hc-dhea-pregnenolone.691/post-48025>
 
 I didnt realize that this would happen. she never mentioned it. so i'm sort of throwing this out there to see if anyone else has had this problem as well
@@ -28582,7 +28582,7 @@ Concur w/what VK posted. 7keto doesnt convert. Totally off topic but is it possi
 
 The other thing it could indicate is your hormones are starting to get back on track.
 
-### jeanie@truelongmont.com — 2012-08-29T18:25:30+0300
+### [email redacted] — 2012-08-29T18:25:30+0300
 **Source:** <https://forum.jackkruse.com/threads/hc-dhea-pregnenolone.691/post-48099>
 
 > **vkiernan;48504 wrote:** You don't have a bit of PCOS going on do you? Did you test your T prior and know that it rose when taking the DHEA? This might be an ask Jack question to see if 7-keto can raise T.
@@ -28608,7 +28608,7 @@ Just looked in Dzugan's book and his chart states that optimal T for women is 60
 
 Hello everyone, I'm sorry I'm late to the party but you all seem very knowledgeable about Preg & prog in relation to ED and high T resulting from PCOS. I'm setting up an appt to get saliva testing for hormone panel & cortisol but would like opinions on whether preg & prog would make PCOS -ED+high T worse or would these help to reverse the suboptimal numbers? I wasn't able to read the entire thread, (going back to it now). Should I mention the preg & prog at the appt or leave it up to the NP doing the testing to make the suggestion? I'm totally scared to even think about DHEA because I know it would make high T even worse. I read years ago that female T should be in the 20-25 range(Canada)...am I completely wrong about that? I also read somewhere recently that milk thistle(silymarin) raises prolactin levels which can cause breast pain....I try to avoid it but it is in my D-glucarate supplement that I take to detoxify estrogens....
 
-### jeanie@truelongmont.com — 2012-08-29T19:32:07+0300
+### [email redacted] — 2012-08-29T19:32:07+0300
 **Source:** <https://forum.jackkruse.com/threads/hc-dhea-pregnenolone.691/post-48116>
 
 > **Patty Cakes;48554 wrote:** Just looked in Dzugan's book and his chart states that optimal T for women is 60-76 ng/dL. So don't know if you are really high or heading to optimal???
@@ -28623,7 +28623,7 @@ tap tap tap
 
 When someone says they are going to do something, THEY SHOULD DO IT! NOW!
 
-### jeanie@truelongmont.com — 2012-08-29T19:32:54+0300
+### [email redacted] — 2012-08-29T19:32:54+0300
 **Source:** <https://forum.jackkruse.com/threads/hc-dhea-pregnenolone.691/post-48117>
 
 > **Cavemam;48567 wrote:** Ok, been waiting for them to fax over all the reports! I hope the whole panel is there. Geeeze, FAX IT ALREADY.
@@ -28642,7 +28642,7 @@ When someone says they are going to do something, THEY SHOULD DO IT! NOW!
 
 hehe perhaps that's the testosterone talking.
 
-### jeanie@truelongmont.com — 2012-08-29T19:34:18+0300
+### [email redacted] — 2012-08-29T19:34:18+0300
 **Source:** <https://forum.jackkruse.com/threads/hc-dhea-pregnenolone.691/post-48119>
 
 > **2BLS;48555 wrote:** Hello everyone, I'm sorry I'm late to the party but you all seem very knowledgeable about Preg & prog in relation to ED and high T resulting from PCOS. I'm setting up an appt to get saliva testing for hormone panel & cortisol but would like opinions on whether preg & prog would make PCOS -ED+high T worse or would these help to reverse the suboptimal numbers? I wasn't able to read the entire thread, (going back to it now). Should I mention the preg & prog at the appt or leave it up to the NP doing the testing to make the suggestion? I'm totally scared to even think about DHEA because I know it would make high T even worse. I read years ago that female T should be in the 20-25 range(Canada)...am I completely wrong about that? I also read somewhere recently that milk thistle(silymarin) raises prolactin levels which can cause breast pain....I try to avoid it but it is in my D-glucarate supplement that I take to detoxify estrogens....
@@ -28658,7 +28658,7 @@ Read the stuff on Lef.org about DHEA. . .good info.
 
 Never heard that one. Guess I have more research. I have been taking it since last fall since my BUN levels are always way over the range. The only time my breast pain went away was when I took a lot of Iodine and also CT'ing but then it came back but not with the vengeance it normally does. I did back off on CT'ing though too.
 
-### danniellethatcher@gmail.com — 2012-08-30T02:54:19+0300
+### [email redacted] — 2012-08-30T02:54:19+0300
 **Source:** <https://forum.jackkruse.com/threads/hc-dhea-pregnenolone.691/post-48254>
 
 I am not sure about the PCOS.. and yes, we did labs and I was actually quite low on testosterone and she wrote a prescription for it but I didnt use it but a few times, and definitely not around the time that these labs were done. I'll drop Dr. Kruse a note and ask him about conversion. When I was sitting in front of my doctor, I just took her word that that was the reason my T came back high. I wasn't prepared to question this one. LOL.. QUESTION EVERYTHING... it's been beaten into my head. I let that one slip I guess. thank you for all of your help
@@ -28674,7 +28674,7 @@ D - I tried to post this prior to you asking but didn't make it. This is from Ja
 
 Because of the overwhelming evidence connecting low levels of DHEA to problems associated with aging, I suggest that all people over age 40 begin DHEA therapy. For most people, the starting dose of DHEA is between 15â€“200 mgs, taken in one daily dose. Many studies have used a daily dose of 50 mg. Women tend to use the 7-keto DHEA form and men can use the regular DHEA form. WHY? 7-Keto DHEA is not converted into estrogen or testosterone, so it may be safely taken by women with hormone-dependent diseases like breast cancer.
 
-### danniellethatcher@gmail.com — 2012-08-30T03:34:13+0300
+### [email redacted] — 2012-08-30T03:34:13+0300
 **Source:** <https://forum.jackkruse.com/threads/hc-dhea-pregnenolone.691/post-48265>
 
 thank you VKiernan.. I was just reading this blog.. so obviously my doctor was mistaken. I am going to print this post and show it to her and see if she can explain why my testosterone has risen significantly. thanks for pulling this up
@@ -28914,7 +28914,7 @@ I just gave it to the MM.....
 
 Tried the Catena Alamos Malbec last night, I liked it quite a bit - especially for the price.
 
-### phillipsgeorge@hotmail.com — 2012-05-31T00:47:51+0300
+### [email redacted] — 2012-05-31T00:47:51+0300
 **Source:** <https://forum.jackkruse.com/threads/hey-jack-can-you-give-us-a-wine-list.710/post-28441>
 
 Just came back from my weekly kettlebell class. Knackered! Enjoyed a couple of glasses of 'Oyster Bay' merlot. It's my 're-carb' and re-lax!
@@ -28942,7 +28942,7 @@ I've always been a fan of red wine but over the last couple of years I become ve
 
 Have you tried a bunch of different varieties? I always had that reaction to Cabernet. But I'm finding that I am not having any sort of negative reaction to Malbecs or finger lakes Pinot Noir's.
 
-### nosnhojjennifer@yahoo.com — 2012-05-31T17:14:42+0300
+### [email redacted] — 2012-05-31T17:14:42+0300
 **Source:** <https://forum.jackkruse.com/threads/hey-jack-can-you-give-us-a-wine-list.710/post-28589>
 
 I have notes on wine Dr K has mentioned or come to think of it, they might be on his "recommended page":
@@ -29377,7 +29377,7 @@ Dunno if these stats will help but I'm 5'4" and 135 pounds right now. Labs would
 
 I know that leaky gut is connected to depression... But I'm actually afraid to take probiotics. Dr. Kruse commented on a thread I made on MDA about how when I took probiotics I got unbelievably terrible carb cravings. I have 0 cravings right now and my carbs are only 11% of my calories.
 
-### selma@decna.no — 2012-04-11T11:15:20+0300
+### [email redacted] — 2012-04-11T11:15:20+0300
 **Source:** <https://forum.jackkruse.com/threads/an-unhealthy-mind.713/post-13672>
 
 How about homemade sauerkraut? That is a powerful probiotic and comes with (some) carbs for the bacteria? And kombucha? Raw vegetables are supposedly very good for these bacteria and they are usually also very low in carbs. (And extremely low in GI/high in fiber so they shouldn't trigger cravings).
@@ -29410,7 +29410,7 @@ It's not quick and easy, but healing isn't. But it is possible. I know, because 
 
 @KiwiLauren - I hadn't implemented it before but I'll start implementing the Leaky Gut Prescription too.  I've actually been taking L-Glutamine on and off to help with cravings and I should have put two and two together about it! I need to start taking it consistently instead of just on and off.
 
-### chrystin.comeau@live.com — 2012-04-12T17:28:05+0300
+### [email redacted] — 2012-04-12T17:28:05+0300
 **Source:** <https://forum.jackkruse.com/threads/an-unhealthy-mind.713/post-14233>
 
 > **quelsen;13053 wrote:** Rhoswen.
@@ -29597,7 +29597,7 @@ The reason is advice on some of "the" cliquish paleo sites owned by clinicians. 
 
 if you want moderation........in evolution go read the polar GPS story I just posted on CT 9. 426 mile swim in freezing water and took her cub.........? Moderation for her was a certain death. Mother Nature has different rules than modern medicine. Realize that folks! evaluate your situation with these facts........then make decisions.
 
-### nosnhojjennifer@yahoo.com — 2012-04-14T16:27:06+0300
+### [email redacted] — 2012-04-14T16:27:06+0300
 **Source:** <https://forum.jackkruse.com/threads/an-unhealthy-mind.713/post-15049>
 
 IMHO, you need both - brain support and a way to explore new ways of viewing the world and reacting to the world. Here is a great podcast on brain drain. Dr Kalish talks about the effect of SSRIs on the brain. He also recommends the 5 HTP and L Tyrosine, always be taken together so there is a balance of serotonin and dopamine. Both my mom and I started taking them and feel better - more energy and more focus. I think its helpful to feel better but view it as a band-aide to get me started. Leptin Rx and CT are going to the root and bringing healing to the cause. Its easier to keep going on Leptin RX and CT when I feel good!
@@ -29687,7 +29687,7 @@ Moderation isn't part of MY epigenetic programming. Realized that many moons ago
 
 Right now it's ALL CT/Keto/Circadian. Let's see where that's going to get me, lol! Probably not mediocre... either dead or thriving?
 
-### skline@peak.org — 2012-04-15T20:15:21+0300
+### [email redacted] — 2012-04-15T20:15:21+0300
 **Source:** <https://forum.jackkruse.com/threads/an-unhealthy-mind.713/post-15347>
 
 > **Jack Kruse;15347 wrote:** Well then CT 10 is going to be for you........just wait til you read it. And the video at the end should open your eyes too........we have many prominent Paleo MD's advocating for moderation. I will tell you what moderation advocation is a symbol of. Then you can decide.
@@ -29709,7 +29709,7 @@ Bring on CT-10!
 
 Piano doctor lady, I have to show someone your post... we just learned something new!
 
-### skline@peak.org — 2012-04-15T20:33:05+0300
+### [email redacted] — 2012-04-15T20:33:05+0300
 **Source:** <https://forum.jackkruse.com/threads/an-unhealthy-mind.713/post-15354>
 
 > **chocolate;15420 wrote:** Bring on CT-10!
@@ -29727,7 +29727,7 @@ If it comes from me, don't count on it being right, but it's great if people wil
 
 Rhoswen, I really like your avatar pic.
 
-### jeanie@truelongmont.com — 2012-04-16T01:35:03+0300
+### [email redacted] — 2012-04-16T01:35:03+0300
 **Source:** <https://forum.jackkruse.com/threads/an-unhealthy-mind.713/post-15414>
 
 > **Jack Kruse;15347 wrote:** Well then CT 10 is going to be for you........just wait til you read it. And the video at the end should open your eyes too........we have many prominent Paleo MD's advocating for moderation. I will tell you what moderation advocation is a symbol of. Then you can decide.
@@ -30302,7 +30302,7 @@ I've been having temper tantrums all week ... not fun. Every time something does
 
 Amen Sister
 
-### nosnhojjennifer@yahoo.com — 2012-04-27T03:18:03+0300
+### [email redacted] — 2012-04-27T03:18:03+0300
 **Source:** <https://forum.jackkruse.com/threads/an-unhealthy-mind.713/post-19203>
 
 **Rhoswen;18995 wrote:** Argh, I feel like things have been spiraling downward for me lately. I'm having a really hard time even doing CT at the moment which ain't good. I might have to go back to a therapist again for help. I didn't even realize it, but there looks like there is an office down the street from me with a doc who does Cognitive-Behavioral therapy with her patients.
@@ -30402,7 +30402,7 @@ Of course, I'm still sticking with the Leptin RX and CT too. I'm actually down t
 
 If it is that low I bet for sure your free T 3 level is horrendous too.......or your inflammation is up.
 
-### nosnhojjennifer@yahoo.com — 2012-06-07T16:11:06+0300
+### [email redacted] — 2012-06-07T16:11:06+0300
 **Source:** <https://forum.jackkruse.com/threads/an-unhealthy-mind.713/post-29889>
 
 > **Rhoswen;29965 wrote:** Thanks for the links and advice guys. Still struggling along though. Past few weeks have been pretty awful. However, I've discovered a couple of therapies that are helping me a lot. I know a few of you have expressed that therapy never works but I think I might have found something that is not only super effective, but also still fairly new and unknown.
@@ -30429,7 +30429,7 @@ Ha Ha! I saw some friends today who commented that I am looking slimmer and heal
 
 Has anyone else enjoyed reactions from friends/family - do share...
 
-### penguinmom718@yahoo.com — 2012-04-07T21:00:20+0300
+### [email redacted] — 2012-04-07T21:00:20+0300
 **Source:** <https://forum.jackkruse.com/threads/puzzled-friends.720/post-12504>
 
 My husband made a comments this morning about breakfast he got a chorizo-egg burrito at the farmers market, and said he left over half for me and that I could pull out the insides ( I am allergic to wheat) and eat them AND there was plenty there to eat - a reference to my BABs. lol The burrito was good - mostly chorizo, although it have a bit of cheese on it. I know it wasn't paleo, but it was low carb.
@@ -30477,7 +30477,7 @@ People come to my house now just to see what I am cooking.....They just look mor
 
 I posted the other day on Facebook about my CT session, and I had four people reply almost immediately saying "Why would you do something like that to yourself?!" I told them that I do it because it makes me feel good, because it will help me live longer, and because I'm a little bit of a sicko.
 
-### betseyford@hotmail.com — 2012-04-15T20:59:53+0300
+### [email redacted] — 2012-04-15T20:59:53+0300
 **Source:** <https://forum.jackkruse.com/threads/puzzled-friends.720/post-15358>
 
 CT'd in front of my husband last night and he "officially" thinks I have lost it now! hahahahaha!!
@@ -30602,7 +30602,7 @@ Thanks, I've been taking DE for it. I'm wondering if I can stop taking it, or if
 
 Photo of the day is a yummy treat!! Double cream/ HWC with melted 90% chocolates stirred into to it, sprinkle of cinnamon on top. You can replace the cream with coconut cream, I have photos of that too, will post another day.
 
-### trishalinn@gmail.com — 2012-04-11T06:06:35+0300
+### [email redacted] — 2012-04-11T06:06:35+0300
 **Source:** <https://forum.jackkruse.com/threads/glamoramas-food-in-photos.727/post-13637>
 
 mmmmmm... love your pics! Giving me tasty ideas
@@ -30631,7 +30631,7 @@ Skirt-steak done medium rare, the cut into strips. Perfect for Mexican, Chinese,
 
 I want to come to your house for supper...and dessert (and I'm talking about the chocolate).
 
-### trishalinn@gmail.com — 2012-04-12T05:21:29+0300
+### [email redacted] — 2012-04-12T05:21:29+0300
 **Source:** <https://forum.jackkruse.com/threads/glamoramas-food-in-photos.727/post-14081>
 
 > **Glamorama;13712 wrote:** I have twins too.
@@ -30735,7 +30735,7 @@ Tomato and basil salad from my garden, drizzled with EVOO and Celtic salt. Delis
 
 Chipolate-stew with grass-fed beef mince, cooked in tomato passata, with fresh herbs, topped with steamed asparagus. I use soy-, gluten- and dairy-free chipolatas, lean beef type.
 
-### nosnhojjennifer@yahoo.com — 2012-04-15T17:03:54+0300
+### [email redacted] — 2012-04-15T17:03:54+0300
 **Source:** <https://forum.jackkruse.com/threads/glamoramas-food-in-photos.727/post-15297>
 
 awesome presentation...thanks for sharing...one of our grocery stores here in the states carries beef from Australia at good prices. The label says pasture raised but doesn't really say "grass fed." Just wondering your thoughts on that...Is the same thing? Thanks GLAM!
@@ -30770,7 +30770,7 @@ Unless were going through a drought, everything is grass fed here. No drought in
 
 I never cut nightshades.... My leaky gut is pretty much healed by now.
 
-### nosnhojjennifer@yahoo.com — 2012-04-16T01:59:31+0300
+### [email redacted] — 2012-04-16T01:59:31+0300
 **Source:** <https://forum.jackkruse.com/threads/glamoramas-food-in-photos.727/post-15419>
 
 > **Glamorama;15479 wrote:** Unless were going through a drought, everything is grass fed here. No drought in the last 3 years!
@@ -30817,7 +30817,7 @@ Freshly made, off to freeze in ice-cube trays:
 
 After frozen, I pop the cubes out and store them in a big box in my freezer:
 
-### trishalinn@gmail.com — 2012-04-17T17:51:26+0300
+### [email redacted] — 2012-04-17T17:51:26+0300
 **Source:** <https://forum.jackkruse.com/threads/glamoramas-food-in-photos.727/post-15895>
 
 That's how I do my bone broth too! I keep mine in gallon size zip locks. My husband always makes fun of them, but they're uuber convenient!
@@ -30832,7 +30832,7 @@ Glam, Love your photos as well as your menu ideas!!! Thanks for sharing!
 
 Glam..are you on Pinterest? If so I would love to follow your pins and get some of your ideas!!
 
-### txritchies@att.net — 2012-04-18T00:30:51+0300
+### [email redacted] — 2012-04-18T00:30:51+0300
 **Source:** <https://forum.jackkruse.com/threads/glamoramas-food-in-photos.727/post-16017>
 
 > **MartiD;16038 wrote:** Glam..are you on Pinterest? If so I would love to follow your pins and get some of your ideas!!
@@ -30942,7 +30942,7 @@ Coconut frappe. 1/2 cup coffee (I use decaf), 2 tsp raw cacao, pinch of stevia, 
 
 Oh, man that looks good! Thank-you and keep posting more pics of your creations!
 
-### trishalinn@gmail.com — 2012-04-20T18:51:49+0300
+### [email redacted] — 2012-04-20T18:51:49+0300
 **Source:** <https://forum.jackkruse.com/threads/glamoramas-food-in-photos.727/post-17123>
 
 I think I'd like this, minus the coffee lol! I'm one of those that doesn't like coffee unless it's hot and black, but these foo foo drinks always look so tasty!
@@ -31059,7 +31059,7 @@ Here they sell them year round, I just buy a bag with sea salt macs, then put it
 
 Parma-ham with EVOO and drops of high-quality balsamic vinegar. Nne of my fav lunch-options in autumn!
 
-### trishalinn@gmail.com — 2012-04-24T05:02:14+0300
+### [email redacted] — 2012-04-24T05:02:14+0300
 **Source:** <https://forum.jackkruse.com/threads/glamoramas-food-in-photos.727/post-18264>
 
 What's Parma ham? You have the most delightful pics! I love to cook and would love to learn how to take pics of my food and make it look as beautiful as you do!
@@ -31109,12 +31109,12 @@ My quick-option lunch on days without leftover dinner: 2 cans of tuna, steamed b
 
 Paleo bolognese with homegrown basil, grass fed beef mince, lots of garlic... I eat it on it's own, the family have it with rice pasta.
 
-### trishalinn@gmail.com — 2012-04-27T03:58:03+0300
+### [email redacted] — 2012-04-27T03:58:03+0300
 **Source:** <https://forum.jackkruse.com/threads/glamoramas-food-in-photos.727/post-19221>
 
 That dish looks very yummilicious! Still lovin the pics...
 
-### nosnhojjennifer@yahoo.com — 2012-04-27T05:48:55+0300
+### [email redacted] — 2012-04-27T05:48:55+0300
 **Source:** <https://forum.jackkruse.com/threads/glamoramas-food-in-photos.727/post-19259>
 
 > **Glamorama;16570 wrote:** Thai curry:
@@ -31139,7 +31139,7 @@ That dish looks very yummilicious! Still lovin the pics...
 
 I look forward to trying this! (and the chocolate coconut cream thing too) thank u!
 
-### nosnhojjennifer@yahoo.com — 2012-04-27T05:51:16+0300
+### [email redacted] — 2012-04-27T05:51:16+0300
 **Source:** <https://forum.jackkruse.com/threads/glamoramas-food-in-photos.727/post-19262>
 
 > **Glamorama;17010 wrote:** Coconut frappe. 1/2 cup coffee (I use decaf), 2 tsp raw cacao, pinch of stevia, a can of coconut milk, lots of ice. Blend on high for about 30-40 seconds. Pour into tall glass, add straw, enjoy! (think of it as inner CT)
@@ -31184,7 +31184,7 @@ Ivy send me two recipes and I will add them to cookbook if you want too. with pi
 
 Sure, my pleasure. Which recipes do you want? Credit me as the glam starfish! Lol
 
-### trishalinn@gmail.com — 2012-04-28T04:36:54+0300
+### [email redacted] — 2012-04-28T04:36:54+0300
 **Source:** <https://forum.jackkruse.com/threads/glamoramas-food-in-photos.727/post-19509>
 
 > **Glamorama;19549 wrote:** Something yummy for the weekend; white chocolate coconut slice.
@@ -31209,7 +31209,7 @@ This is my fave recipe. I must make this yummmmmmmm!
 
 Hey Trisha, I put this in the freezer today because it was so sticky (due to too much coconut cream), and when I took some out to try, it was like ice cream! pretty yummy!
 
-### trishalinn@gmail.com — 2012-04-28T16:57:39+0300
+### [email redacted] — 2012-04-28T16:57:39+0300
 **Source:** <https://forum.jackkruse.com/threads/glamoramas-food-in-photos.727/post-19571>
 
 > **Glamorama;19621 wrote:** Hey Trisha, I put this in the freezer today because it was so sticky (due to too much coconut cream), and when I took some out to try, it was like ice cream! pretty yummy!
@@ -31236,7 +31236,7 @@ After cooking, topped with tomato garlic sauce, spring onions, sautÃ©ed onions
 
 Yum! Kids, husband and myself all loved it. This will be a staple!
 
-### nosnhojjennifer@yahoo.com — 2012-04-30T04:59:24+0300
+### [email redacted] — 2012-04-30T04:59:24+0300
 **Source:** <https://forum.jackkruse.com/threads/glamoramas-food-in-photos.727/post-19995>
 
 hand up for the recipe on the meatza! Looks delish
@@ -31343,7 +31343,7 @@ I make bone broth and freeze it in small blocks. It is nice instead of tea or co
 
 Choc fudge brownie, primal style:
 
-### nosnhojjennifer@yahoo.com — 2012-05-12T14:26:33+0300
+### [email redacted] — 2012-05-12T14:26:33+0300
 **Source:** <https://forum.jackkruse.com/threads/glamoramas-food-in-photos.727/post-23363>
 
 Oh what an image to wake up to! YUM...that looks awesome...do you ship to USA? LOL
@@ -31468,7 +31468,7 @@ from the seafood and from veggies.....that is why I eat skin of fish, some eyeba
 
 Would love some tips on how to eat shrimp shells
 
-### finnite@dccnet.com — 2012-04-08T17:47:01+0300
+### [email redacted] — 2012-04-08T17:47:01+0300
 **Source:** <https://forum.jackkruse.com/threads/vitamin-c-and-ketogenic-diet.728/post-12695>
 
 > **primat;12752 wrote:** Would love some tips on how to eat shrimp shells
@@ -31480,7 +31480,7 @@ aren\`t they used to make broth?
 
 Until I learn how to do that, I'm drinking a lot of rose hip/ hibiscus tea. 1 bag of that+ 1 bag of fruit flavored tea smells and tastes so yummy!
 
-### jeanie@truelongmont.com — 2012-04-08T18:50:56+0300
+### [email redacted] — 2012-04-08T18:50:56+0300
 **Source:** <https://forum.jackkruse.com/threads/vitamin-c-and-ketogenic-diet.728/post-12722>
 
 > **Jack Kruse;12706 wrote:** from the seafood and from veggies.....that is why I eat skin of fish, some eyeballs, and heads etc. I eat the exoskeleton of shrimp too. I learned this all from reading about how the Inuit did it back in the day.
@@ -31559,7 +31559,7 @@ It wont be long now........science is knocking on the doors I am knocking on too
 
 Can't wait for the next edition to the cookbook.  I always do this stock in the crock pot, if i can plan ahead. You can always save any seafood shells such as crab, lobster, shrimp, even fish bones and fish heads (without gills) in the freezer until you need them for a really hearty fish broth. But when you need a cup or so of fish stock for a quick recipe, you can simmer shrimp shells in a little water for 15 minutes or so and you get a lovely pink broth. Just barely cover the shells with water. I always include a bit of onion, celery and carrot, as well as some seasoning and herbs de Provence. It's a good quick soup, too.
 
-### dkenward@yahoo.com — 2012-04-09T17:34:01+0300
+### [email redacted] — 2012-04-09T17:34:01+0300
 **Source:** <https://forum.jackkruse.com/threads/vitamin-c-and-ketogenic-diet.728/post-12999>
 
 > **Jack Kruse;13019 wrote:** Take a look at this recent gem of a research paper that is now linking all the things I have been saying.......Ketogenic diets to adenosine......adenosine is linked to the sleep cycle.
@@ -31592,7 +31592,7 @@ You can dose yourself with vit c to bowel tolerance. When diarrhea kicks in, bac
 **Subforum:** Cold Thermogenesis
 **Posts:** 42
 ══════════════════════════════════════════════════════════════════════
-### selma@decna.no — 2012-04-08T16:44:02+0300
+### [email redacted] — 2012-04-08T16:44:02+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-for-hashimotos-scared.729/post-12659>
 
 I'm wondering about how CT will work without thyroid or - in my case - with a severely damaged one and high antibodies.
@@ -31620,14 +31620,14 @@ There is simply no better treatment I have found honestly
 
 By doing what we’re afraid to do because it’s beyond our comfort zone, we grow in confidence. We are paid to do the impossible so success becomes inevitable. This your time. And today's your day. Begin by making it count now.
 
-### selma@decna.no — 2012-04-08T18:07:25+0300
+### [email redacted] — 2012-04-08T18:07:25+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-for-hashimotos-scared.729/post-12705>
 
 I have a hard time understanding how my body can adapt to cold when I got an unresponsive thyroid... That's the main reason for my doubt. (That is except from the fact that I hate freezing.  ) I've not managed CT more than about once – twice a week and with very moderate temperatures… so far with little success and much freezing.
 
 On the other hand – you have been correct in so much earlier …
 
-### selma@decna.no — 2012-04-08T18:12:52+0300
+### [email redacted] — 2012-04-08T18:12:52+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-for-hashimotos-scared.729/post-12707>
 
 > **Patty Cakes;12732 wrote:** I have Hashis and have been doing the CT since Feb 12. I only have TPO antibodies on the last lab a year ago.
@@ -31664,7 +31664,7 @@ I'm working on my own bio-hack in this area as well. I've been hypothyroid (non-
 
 One thing I can report at the 4 week point, though. My feet had always been cold when not taking Synthroid--my first indicator I was hypothyroid 10 years ago, and last winter when my TSH was raising. Even with Synthroid, my feet have never felt warm, and I always wore heavy socks and boots when outside. This go-around, I have been walking barefoot in the snow every day. My toes are actually warm to the touch now. They used to be like blocks of ice. Yesterday was my longest snow-walk...I walked about 15 minutes in the snow, then put on a pair of crocs and spent another 30-45 minutes outside in the snow with minimal foot warmth. Last night before bed, my toes were actually radiating heat. Whether this indicates a re-awakening of thyroid function will be left to the labs in 2 weeks, but I never thought in my wildest dreams I would have warm toes again.
 
-### selma@decna.no — 2012-04-08T18:44:26+0300
+### [email redacted] — 2012-04-08T18:44:26+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-for-hashimotos-scared.729/post-12720>
 
 > **Patty Cakes;12780 wrote: I copied the paragraphs below this from the doc's CT6 blog. It briefly explains that the thyroid is not even needed if you are doing CT. The whole blog is a biggie!
@@ -31751,7 +31751,7 @@ you dont explain a thing......you do things how you feel. See how you feel and g
 
 Luckily my endo has said that how I feel will override what lab results say. A relief after years of crap.
 
-### barattafam@gmail.com — 2012-04-09T02:10:32+0300
+### [email redacted] — 2012-04-09T02:10:32+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-for-hashimotos-scared.729/post-12830>
 
 I've had Hashi's for 11 years. I've tried very low carb diets in the past, only to be derailed by feeling absolutely awful around a week into it. I'm very aware of what I feel like without meds (I take Synthroid and Cytomel) and its exactly how Ive felt without enough carbs.
@@ -31767,7 +31767,7 @@ If TRH doesn't need a thyroid to work, then what does it do? TRH stimulates the 
 
 So, how does cold change our use of TRH, that makes a thyroid redundant?
 
-### kc_boxerman@yahoo.com — 2012-04-09T04:29:27+0300
+### [email redacted] — 2012-04-09T04:29:27+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-for-hashimotos-scared.729/post-12879>
 
 > **Coriander;12942 wrote:** If TRH doesn't need a thyroid to work, then what does it do? TRH stimulates the pituitary to make TSH, no? TSH stimulates the thyroid to make T4.
@@ -31792,7 +31792,7 @@ Akman that is so cool about the difference in your feet this time around....am v
 
 There is an awesome article on CT posted by KiwiLauren on page 2 of the What body parts are you prioritising thread (sorry don't know how to paste it here). In the section entitled BAT as a Secretory Organ there is a section on T3. It says that BAT converts T4 into T3 during cold exposure. So theoretically, if we can increase our BAT stores and do cold exposure we can increase our T3 levels ( presumably assuming adequate levels of T4).
 
-### selma@decna.no — 2012-04-09T15:13:48+0300
+### [email redacted] — 2012-04-09T15:13:48+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-for-hashimotos-scared.729/post-12945>
 
 > **agatha;13006 wrote:** There is an awesome article on CT posted by KiwiLauren on page 2 of the What body parts are you prioritising thread (sorry don't know how to paste it here). In the section entitled BAT as a Secretory Organ there is a section on T3. It says that BAT converts T4 into T3 during cold exposure. So theoretically, if we can increase our BAT stores and do cold exposure we can increase our T3 levels ( presumably assuming adequate levels of T4).
@@ -31930,7 +31930,7 @@ The need for BAT in newborns is that they don't have the muscles to shiver with.
 
 someone just posted a nice response for thyroid issues in rats on CT 9 if you all want to peak
 
-### selma@decna.no — 2012-04-13T16:34:22+0300
+### [email redacted] — 2012-04-13T16:34:22+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-for-hashimotos-scared.729/post-14694>
 
 Great!
@@ -31998,7 +31998,7 @@ Here is the product used for it:
 
 _"This scientifically developed formula provides key nutrients that are used in the system for the expression of eNOS and nNOS, and dampening the expression of iNOS. It contains targeted nutritional support for tissue health, anti-inflammatory mechanisms, as well as healthy immune response. It further supports healthy peripheral blood flow to the brain, hands, feet, and sexual organs."_
 
-### nosnhojjennifer@yahoo.com — 2012-04-15T05:13:41+0300
+### [email redacted] — 2012-04-15T05:13:41+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-for-hashimotos-scared.729/post-15222>
 
 > **hazyjane;15191 wrote:** Are you doing any form of immune modulation right now? I wonder if you need some nitric oxide support to help get that blood flow to your feet and hands? This is a big issue for a lot of Hashi's patients. Check out this article on nitric oxide modulation:
@@ -32101,7 +32101,7 @@ I still find myself with extremely cold feet throughout the day too, which makes
 
 Just curious if anyone else is struggling more with the actual CT itself than with the recovery. Wouldn't surprise me if I'm the only one . . . my doctor says I'm an "oddball" and "complex case!" LOL!! I seem to always have reactions opposite of those that are anticipated.
 
-### omlh@todmi.com — 2012-04-08T17:40:15+0300
+### [email redacted] — 2012-04-08T17:40:15+0300
 **Source:** <https://forum.jackkruse.com/threads/what-is-the-hardest-part-for-you.730/post-12686>
 
 At the moment, the hardest part for me is actually being able to have a cold soak. Not only am I finding it difficult to face, but I am also finding it very difficult to fit into my life during the Easter break with visitors and family around! I've found that if I CT after about 3.00 p.m., my recovery time is very long, and I do not sleep. The last good soak I had, my recovery time was really long, and I think a lot of this came from not having been able to do a daily soak.
@@ -32111,7 +32111,7 @@ At the moment, the hardest part for me is actually being able to have a cold soa
 
 My wife thinks I'm a freak doing this. So trying to find the time for a cold shower, immersion bath, and walking around the with ice packs wrapped to a compression shirt - is the most difficult part. I was having issues with recovery after the immersion - but my body rapidly comes back up to temp now. So just finding the time is the biggest issue.
 
-### finnite@dccnet.com — 2012-04-08T17:59:05+0300
+### [email redacted] — 2012-04-08T17:59:05+0300
 **Source:** <https://forum.jackkruse.com/threads/what-is-the-hardest-part-for-you.730/post-12702>
 
 CT around TOM (time of month) is much more difficult to do, I still do it but cannot go as long or as cold
@@ -32154,7 +32154,7 @@ The hardest part of CT for me is the after event of shivering. Sitting in the co
 
 I totally agree with moving after C/T. When I get out of the tub or shower I run in place for a few minutes and walk around naked for a bit. It makes all the difference when you get busy. I then put on a Terry robe for awhile
 
-### jeanie@truelongmont.com — 2012-04-09T01:40:35+0300
+### [email redacted] — 2012-04-09T01:40:35+0300
 **Source:** <https://forum.jackkruse.com/threads/what-is-the-hardest-part-for-you.730/post-12823>
 
 > **BJK77;12742 wrote:** It seems like the majority of posters that aren't yet fully adapted struggle the most with recovery after CT. I find myself recovering much more quickly than I had been, but the baths are still torturous for me! I'm having trouble staying in the tub at 53-55 degrees for more than 20-30 minutes. I've started shivering again and am still finding it to be super unpleasant . . . this is after 5+ weeks of CT.
@@ -32347,12 +32347,12 @@ I totally agree with Dr Jack to do CT one need determination and focus, some day
 
 I know if don’t try I’ll never know, so far I’ve seen good think like detox, my little finger was swollen for 2 days, i don’t get so bloated.
 
-### jeanie@truelongmont.com — 2012-04-09T20:22:09+0300
+### [email redacted] — 2012-04-09T20:22:09+0300
 **Source:** <https://forum.jackkruse.com/threads/what-is-the-hardest-part-for-you.730/post-13054>
 
 I think to myself "this is way better than going to a 1.5 hr fitness bootcamp" like I used to do for health. Plus I can listen to podcasts or read this forum while there. Mucho better than the old days.
 
-### omlh@todmi.com — 2012-04-09T20:41:49+0300
+### [email redacted] — 2012-04-09T20:41:49+0300
 **Source:** <https://forum.jackkruse.com/threads/what-is-the-hardest-part-for-you.730/post-13080>
 
 I followed Cavemam's room heater advice yesterday and today, and also stopped getting into the bath whilst it was running, and it was surprisingly easy to get into a full tub and stay there for 25 minutes (could have stayed longer, but children needed attention). Warm-up time was shorter, too!
@@ -32645,7 +32645,7 @@ In general, my experience "interviewing" doctors to find out if our methods will
 
 I really want a doctor for twice a year testing and check-in. I don't go to doctors for little problems. I want a doctor that can see the big picture. I want a doctor that can look at the test results and give me guidance for lifestyle changes. I don't want medication.
 
-### finnite@dccnet.com — 2012-04-09T19:55:33+0300
+### [email redacted] — 2012-04-09T19:55:33+0300
 **Source:** <https://forum.jackkruse.com/threads/have-i-had-success-question-for-experienced-cters.737/post-13043>
 
 > **Caroline Cooper;13099 wrote:** Hi Dr Kruse,
@@ -32691,7 +32691,7 @@ also if you are looking for a doctor for specific issues Don Stewart who is on t
 
 Thank you. It looks like you are experienced in these matters! How have you dealt with your labs?
 
-### finnite@dccnet.com — 2012-04-09T21:48:30+0300
+### [email redacted] — 2012-04-09T21:48:30+0300
 **Source:** <https://forum.jackkruse.com/threads/have-i-had-success-question-for-experienced-cters.737/post-13111>
 
 got what I can through our system ( I have a reasonable GP) and now working with a naturopath for some other labs
@@ -32758,7 +32758,7 @@ Hi Art, the hypothalamus is not part of the thyroid system, but they are both pa
 
 That's a bit simplified, but I hope it makes sense.
 
-### finnite@dccnet.com — 2012-04-09T16:23:08+0300
+### [email redacted] — 2012-04-09T16:23:08+0300
 **Source:** <https://forum.jackkruse.com/threads/t3-and-reverse-t3.740/post-12960>
 
 hi, you have some pretty basic info backwards here
@@ -32775,7 +32775,7 @@ when you body wants to slow your metabolism down it will tell the T4 to produce 
 
 Please read [http://www.stopthethyroidmadness.com/reverse-t3/](http://http://www.stopthethyroidmadness.com/reverse-t3/) to learn more about RT3 and thyroid in general
 
-### kc_boxerman@yahoo.com — 2012-04-09T17:17:28+0300
+### [email redacted] — 2012-04-09T17:17:28+0300
 **Source:** <https://forum.jackkruse.com/threads/t3-and-reverse-t3.740/post-12991>
 
 > **LisaAPB;13027 wrote:** So the rT3 is taking up room but not doing any of the work, and it's blocking the real deal from doing the work too.
@@ -32909,7 +32909,7 @@ If Dr. J is monitoring, I'd appreciate having his input on this.
 
 Art
 
-### penguinmom718@yahoo.com — 2012-04-10T00:59:45+0300
+### [email redacted] — 2012-04-10T00:59:45+0300
 **Source:** <https://forum.jackkruse.com/threads/zero-sugar-or-just-low-carb.742/post-13152>
 
 > **ineedanLR;13200 wrote:
@@ -32923,7 +32923,7 @@ Short answer, no. If your liver is functioning properly, it can make all the glu
 
 The liver makes the needed carbohydrates from proteins, powered by fats for the conversion. The liver, however, needs to be in shape for this, and if it is constantly repairing itself from onslaughts of fructose, alcohol, or acetaminophen, it's abilities are hindered.
 
-### jeanie@truelongmont.com — 2012-04-10T03:55:07+0300
+### [email redacted] — 2012-04-10T03:55:07+0300
 **Source:** <https://forum.jackkruse.com/threads/zero-sugar-or-just-low-carb.742/post-13203>
 
 > **ineedanLR;13017 wrote: I understand our bodies need some sugar.
@@ -32994,7 +32994,7 @@ GL to all.
 
 Art
 
-### jeanie@truelongmont.com — 2012-04-10T16:50:39+0300
+### [email redacted] — 2012-04-10T16:50:39+0300
 **Source:** <https://forum.jackkruse.com/threads/zero-sugar-or-just-low-carb.742/post-13331>
 
 > **ineedanLR;13378 wrote:** TY Caveman. My formal diabetes education is almost 20 years old. I haven't gotten a formal refresher....so I'm bound to be a little 'off' with regard to the latest diabetes diet and treatment(s).
@@ -33277,7 +33277,7 @@ The Paleo diet is not necessarily made to be low-carb, in general. Many people d
 
 I think it depends which Paleo diet you follow. Cordain is stricter than Wolf who is stricter than Sisson. I just read Cordain's 2012 The Paleo answer and he breaks down nightshades and autoimmune diseases, dairy, vitamins, etc. He says no peas, legumes etc, no dairy not even chia seeds and no nightshades for autoimmune. I may cut out nightshades this summer which means my friends and neighbors will be reaping the benefits of all these veggies from my organic garden.
 
-### kc_boxerman@yahoo.com — 2012-04-09T17:11:03+0300
+### [email redacted] — 2012-04-09T17:11:03+0300
 **Source:** <https://forum.jackkruse.com/threads/paleo-strict-enough.743/post-12987>
 
 I think in general every food "kills" our body somehow. It's the only explanation for every food having a downside. We need to get to a point of optimization on what we never eat, what we eat on occasion, and what we treat as staples that are the least offensive and most nutrient rich for our bodies. It's nice to have a set of rules but none can apply to all and response needs to be considered. I see the mixed signals on coffee as a good example here (appropriateness based on cortisol issues, timing, quality of coffee). This is why CT leading to lower calorie eating might extend longevity - not the weight loss but the smaller food consumption. A summary document without writing another book on this (maybe and e-document) would be nice.
@@ -33400,7 +33400,7 @@ ZONULIN RECEPTOR BINDING DOMAIN\*
 
 Anderson has a huge body of work and I will find the good stuff. I'm not hitting it so easily.
 
-### finnite@dccnet.com — 2012-04-09T20:04:39+0300
+### [email redacted] — 2012-04-09T20:04:39+0300
 **Source:** <https://forum.jackkruse.com/threads/zonulin-leaky-gut-and-blood-brain-barrier-articles.748/post-13045>
 
 [http://sites.google.com/site/jccglutenfree/zonulin](http://http://sites.google.com/site/jccglutenfree/zonulin)
@@ -33412,7 +33412,7 @@ most of these are a few years old but it\`s a good reference site for leaky gut 
 
 Any research done by Dr. Vojdani relative to autoimmune, leaky gut, and the TH17 system is brilliant as well
 
-### txritchies@att.net — 2012-04-10T22:32:57+0300
+### [email redacted] — 2012-04-10T22:32:57+0300
 **Source:** <https://forum.jackkruse.com/threads/zonulin-leaky-gut-and-blood-brain-barrier-articles.748/post-13465>
 
 > **ColleenM;13114 wrote:** [http://sites.google.com/site/jccglutenfree/zonulin](http://http://sites.google.com/site/jccglutenfree/zonulin)
@@ -33790,7 +33790,7 @@ Probiotic mixture has also been reported to protect epithelium barrier by mainta
 
 This is an amazing collection of articles.
 
-### nosnhojjennifer@yahoo.com — 2012-07-02T04:24:33+0300
+### [email redacted] — 2012-07-02T04:24:33+0300
 **Source:** <https://forum.jackkruse.com/threads/zonulin-leaky-gut-and-blood-brain-barrier-articles.748/post-34938>
 
 Trying to follow you chocolate. Great stuff. I'm tyoe A blood and i believe that blood type diet recommends type a be vegetarians. Sounds like a bad call Now where us the zonulin for dummies?
@@ -33825,7 +33825,7 @@ Haorah J, Ramirez SH, Schall K, Smith D, Pandya R, Persidsky Y.
 
 Source
 
-Center for Neurovirology and Neurodegenerative Disorders, Department of Pharmacology and Experimental Neuroscience, University of Nebraska Medical Center, Omaha, Nebraska 68198-5215, USA. [Jhaorah@unmc.edu](mailto:Jhaorah@unmc.edu)
+Center for Neurovirology and Neurodegenerative Disorders, Department of Pharmacology and Experimental Neuroscience, University of Nebraska Medical Center, Omaha, Nebraska 68198-5215, USA. [[email redacted]](mailto:[email redacted])
 
 Abstract
 
@@ -33941,7 +33941,7 @@ I'm glad someone was paying attention. My apologies for the harm caused.
 
 [http://jackkruse.com/cold-thermogenesis-9-theory-meets-practice/](http://http://jackkruse.com/cold-thermogenesis-9-theory-meets-practice/)
 
-### jeanie@truelongmont.com — 2012-04-09T22:55:40+0300
+### [email redacted] — 2012-04-09T22:55:40+0300
 **Source:** <https://forum.jackkruse.com/threads/ct-9-is-live-watch-the-videos.758/post-13132>
 
 > **Jack Kruse;13186 wrote:** [http://jackkruse.com/cold-thermogenesis-9-theory-meets-practice/](http://http://jackkruse.com/cold-thermogenesis-9-theory-meets-practice/)
@@ -34047,7 +34047,7 @@ Thanks; awesome! There's a great video of people doing this on YouTube; unfortun
 
 Awesome!! Thanks so much for sharing this story
 
-### iliarski@yahoo.com — 2012-04-10T06:32:04+0300
+### [email redacted] — 2012-04-10T06:32:04+0300
 **Source:** <https://forum.jackkruse.com/threads/zakalyatsa-russian-cold-adaptation.759/post-13259>
 
 I'm also from Russia (Ukraine, to be exact...). ZAKALYAISYA means something like "expose yourself to cold to get stronger", similar to how you convert iron to steel - by putting hot iron into a cold water. Ever since reading about CT and every time I get in the cold shower/tub, I cannot help but start singing a Russian song from the Soviet times, I think, 1940s... Rough translation of this song from Russian to English sounds something like
@@ -34091,7 +34091,7 @@ How awesome is that? Those babies are probably so healthy!
 
 LOVE IT!!! We need to get more mothers to do that here in the States.
 
-### iliarski@yahoo.com — 2012-04-10T16:44:05+0300
+### [email redacted] — 2012-04-10T16:44:05+0300
 **Source:** <https://forum.jackkruse.com/threads/zakalyatsa-russian-cold-adaptation.759/post-13330>
 
 Here is the transcription:
@@ -34120,7 +34120,7 @@ Solntse, vozduh i voda...
 
 If you do a search on youtube for the following word , you'll find a lot of Russian clips with winter swimming: Закаляйся
 
-### trishalinn@gmail.com — 2012-04-10T17:05:36+0300
+### [email redacted] — 2012-04-10T17:05:36+0300
 **Source:** <https://forum.jackkruse.com/threads/zakalyatsa-russian-cold-adaptation.759/post-13336>
 
 > **Tucker;13392 wrote:** tsatsa,
@@ -34162,7 +34162,7 @@ This is so intriguing! The more and more I learn about CT the more and more I'm 
 
 Here's to COLD ADAPTED BABIES!!! These babies are going to RULE the WORLD, because they will be the only ones healthy enough to do so.
 
-### trishalinn@gmail.com — 2012-04-10T17:33:08+0300
+### [email redacted] — 2012-04-10T17:33:08+0300
 **Source:** <https://forum.jackkruse.com/threads/zakalyatsa-russian-cold-adaptation.759/post-13348>
 
 > **Tucker;13414 wrote:** I wonder if some of the Russians on the forum could ask their grandmothers to give us some tips on how to do CT with the babies. Isn't it cool how all this old wisdom is resurfacing?
@@ -34216,7 +34216,7 @@ Thanks for the lyrics Tsatsa.
 
 I loved the babies clip - though I'd want to take precautions against slipping and accidentally dropping the baby in the cold water. It was amazing to see how unconcerned and pink the babies were.
 
-### jeanie@truelongmont.com — 2012-04-10T21:26:58+0300
+### [email redacted] — 2012-04-10T21:26:58+0300
 **Source:** <https://forum.jackkruse.com/threads/zakalyatsa-russian-cold-adaptation.759/post-13443>
 
 > **Tucker;13447 wrote:** Trisha,
@@ -34255,7 +34255,7 @@ Sure would like to hear from Dr. Ukropec
 
 Is there anyone here who can tell me what this lady is saying? [http://www.youtube.com/watch?v=6N07T-MEisM&feature=related\[/video\]\]\[video=youtube\_share;6N07T-MEisM\]http://www.youtube.com/watch?v=6N07T-MEisM&feature=related\[/video\]](http://[video=youtube_share;6N07T-MEisM)
 
-### jeanie@truelongmont.com — 2012-04-11T03:10:06+0300
+### [email redacted] — 2012-04-11T03:10:06+0300
 **Source:** <https://forum.jackkruse.com/threads/zakalyatsa-russian-cold-adaptation.759/post-13542>
 
 I can't stop watching the russian you tube ice dunking stuff! I wish I spoke this!
@@ -34440,7 +34440,7 @@ I got my tank for 60 dollars at a local feed store
 
 [](<http://http://www.jackkruse.com/forum/convert_files/attachments/13408=114-cold tub.jpg>)
 
-### trishalinn@gmail.com — 2012-04-10T17:26:56+0300
+### [email redacted] — 2012-04-10T17:26:56+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-13342>
 
 My husband and I were thinking of getting something similar when our pool heats up and we can no longer use it. It would certainly be easier to cool off than our huge pool. Do you keep the water in the tub and just add ice? If so, how do you keep the water clean? Could you just throw some chlorine in?
@@ -34464,7 +34464,7 @@ I set one a 75 gallon stock tank too, got it at the local feed store for $65. I 
 
 quick, someone register freezetheanimal.com before this catches on.
 
-### trishalinn@gmail.com — 2012-04-10T17:43:43+0300
+### [email redacted] — 2012-04-10T17:43:43+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-13356>
 
 Good to hear what you all are doing. Our pool has been hanging between 48-52 degrees the past 4 weeks we've had it open, so we don't need to have a new set up quite yet!
@@ -34483,14 +34483,14 @@ Good to hear what you all are doing. Our pool has been hanging between 48-52 deg
 
 The best option is to sink the tank in the ground. I had a hydroponic greenhouse operation in Florida and had to insulate my above ground tanks. You can buy reflective thermal bubble wrap insulation at Home Depot. It is used for hot water heaters. Wrap the sides and make a cover of Corning Pink or Dow Blue foam board, also from Home Depot.
 
-### jeanie@truelongmont.com — 2012-04-10T18:15:12+0300
+### [email redacted] — 2012-04-10T18:15:12+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-13371>
 
 > **Adriana;13431 wrote:** The best option is to sink the tank in the ground. I had a hydroponic greenhouse operation in Florida and had to insulate my above ground tanks. You can buy reflective thermal bubble wrap insulation at Home Depot. It is used for hot water heaters. Wrap the sides and make a cover of Corning Pink or Dow Blue foam board, also from Home Depot.
 
 Hmm, how to drain and refil if you sink it? I'm awaiting delivery of my yard-tub. Cogitating on getting it cold in winter. I've looked at the fish tank chillers - but they are a bit pricey, and I'm not sure they will hold up outdoors. My goal is to not put too many obstacles between me and CT. . I need to be able to walk out and hop in!
 
-### jeanie@truelongmont.com — 2012-04-10T18:30:07+0300
+### [email redacted] — 2012-04-10T18:30:07+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-13376>
 
 > **Cavemam;13440 wrote:** Hmm, how to drain and refil if you sink it? I'm awaiting delivery of my yard-tub. Cogitating on getting it cold in winter. I've looked at the fish tank chillers - but they are a bit pricey, and I'm not sure they will hold up outdoors. My goal is to not put too many obstacles between me and CT. . I need to be able to walk out and hop in!
@@ -34531,7 +34531,7 @@ Richard is a supporter of CT.....he has been doing it off and on for 5 years. He
 
 For those w/the 100-150gal tubs - what are you doing to prevent mosquitoes??? In NoVA/DC metro - we have serious mosquito problem... I would love to get one of these for CTing -especially in the summer - but I would have to dump the water after every CT session... and putting in a water feature requires a permit in our county... TPITA...but I could do this on the patio... but how to get rid of the H2O after every session... If I could figure a way to set this up by the garden, then use the water to water it...that would work... going to have to think on this...
 
-### jeanie@truelongmont.com — 2012-04-10T19:07:59+0300
+### [email redacted] — 2012-04-10T19:07:59+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-13394>
 
 > **Birdy;13452 wrote:** My plan is to put the tub underground partially and then put planters around the base. I am not sure how this will work with the cover. And, still get approval from my live-in landscape architect....
@@ -34545,14 +34545,14 @@ Let me know if you figure that one out. I keep thinking about drainage if it's l
 
 Action speaks louder than words.
 
-### jeanie@truelongmont.com — 2012-04-10T19:12:52+0300
+### [email redacted] — 2012-04-10T19:12:52+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-13399>
 
 > **AKMan;13449 wrote:** Just tell them it's for the 6 milk cows that you plan on raising...
 
 hehe, our community just started doing permits for Backyard Chickens - but HOA trumps that. I should make an effort to remove the "no livestock" addendum. Perhaps after I get all "who gives a shit what they think" after CTing for a few years like Jack.
 
-### jeanie@truelongmont.com — 2012-04-10T19:15:24+0300
+### [email redacted] — 2012-04-10T19:15:24+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-13401>
 
 > **agatha;13361 wrote:** Richard Nikoley at Free the Animal has just set up a tub for CT - take a look!
@@ -34649,7 +34649,7 @@ check out their blogs.......the audience is shrinking too. Actions speak louder 
 
 I gave up on Kurt Harriss' blog long before he went nasty on you, Jack. Something about his attitude and openly tantrumish rant on his blog made me cringe and I haven't been able to go back.
 
-### selma@decna.no — 2012-04-11T11:06:10+0300
+### [email redacted] — 2012-04-11T11:06:10+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-13671>
 
 > **Glamorama;13694 wrote:** I gave up on Kurt Harriss' blog long before he went nasty on you, Jack. Something about his attitude and openly tantrumish rant on his blog made me cringe and I haven't been able to go back.
@@ -34730,7 +34730,7 @@ I'm guessing my getting used to the cold washcloths helped me a bit when I start
 
 Ha ha. After reading his post I decided to try it too. I haven't used soap on my body or anything on my hair for a year and a half. A nice rinse eliminates unpleasantness from the days' activities and my wife cannot tell any difference. So I have now nixed the mismatch of our cultural obsession that destroys our natural skin flora.
 
-### jeanie@truelongmont.com — 2012-04-11T18:36:55+0300
+### [email redacted] — 2012-04-11T18:36:55+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-13788>
 
 > **donkjellberg;13855 wrote:** Ha ha. After reading his post I decided to try it too. I haven't used soap on my body or anything on my hair for a year and a half. A nice rinse eliminates any unpleasantness from the day's activities and my wife cannot tell any difference. So I have now nixed the mismatch of our cultural obsession that destroys our natural skin flora.
@@ -34785,7 +34785,7 @@ I may just have to try the CO, baking soda and vanilla.
 
 So because psychiatrists do not "lay hands" on their patients, what they have to say is irrelevant? I'm not sure I'm following. They, like all other MDs, have been to medical school and completed residency. They, like MDs in other specialties, conduct clinical interviews, order blood work, and prescribe medication. I've heard Dr. Deans speak and, per her report, she applies paleo to her practice to the degree that the data support it. So that may mean taking a vitamin D level on a patient and encouraging supplementation, or educating a patient on the importance of good sleep. But the fact of the matter is, there is not much good data beyond anecdotal reports to indicate that a paleo lifestyle results in better mental health outcomes. And that HuffPost article is on the use of hypothermia in patients who are critically injured, so I'm not sure how directly relevant it is to patients on this forum, unless, of course, they're currently suffering from gunshot or stab wounds.
 
-### jeanie@truelongmont.com — 2012-04-11T23:04:58+0300
+### [email redacted] — 2012-04-11T23:04:58+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-13885>
 
 I make my own pure high end vanilla. Sooooo awesome. We go through several liters a year. Seriously. It's vodka and vanilla beans steeped for at least 6 months. Awesome gift item.
@@ -34839,7 +34839,7 @@ Thank you!
 
 yes, you have been missing something
 
-### penguinmom718@yahoo.com — 2012-04-12T04:57:06+0300
+### [email redacted] — 2012-04-12T04:57:06+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-14071>
 
 > **APow;13932 wrote:** Kurt Harris, Melissa, Evelyn, et al. think people who are trying to regain their health suck and are fat idiots? Yes, that is definitely your impression of their sentiments, given that that is not even close to what they've said.
@@ -34954,7 +34954,7 @@ yes, this is MY impression, too. Harris has made it clear a number of times that
 
 Honestly, I don't know why Deans was participating in some of this. Honestly, I thought someone had hacked into her accounts. Maybe she just wasn't aware of all that was going on.
 
-### penguinmom718@yahoo.com — 2012-04-12T09:18:46+0300
+### [email redacted] — 2012-04-12T09:18:46+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-14143>
 
 > **APow;14148 wrote:** Merri and Birdy,
@@ -35133,7 +35133,7 @@ Hi Cody,
 
 I'm here to think critically about Dr. Kruse's ideas. If I'm bothering you terribly, feel free to ignore me. Or are you here to harass people who don't agree with you? It sounds as if you think the motto of Dr. Kruse's forums is "follow or get the f\*\*\* out of the way"? That sounds like a cult, not a forum.
 
-### penguinmom718@yahoo.com — 2012-04-12T18:34:18+0300
+### [email redacted] — 2012-04-12T18:34:18+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-14255>
 
 > **APow;14246 wrote: Asperger's is mentioned in a thread entitled "CT and Aspberger's (one of the autism spectrums)". A mother asks if keto + CT would be beneficial to her adult son with Asperger's and Dr. Kruse replies, "Yes it would be." There is some _limited_ evidence that a keto diet can be beneficial for autism, so sure, try it. But CT? Why? Based on what theory? I was appalled by the confidence of Dr. Kruse's response to this woman. So many hucksters have infiltrated the field of autism over the years and and promised snake oil cures to desperate parents. The last thing the paleo world needs is its leaders becoming wildly overstating the benefits of certain practices.
@@ -35172,7 +35172,7 @@ Flawed means suboptimal, not useless.
 >
 > But do I think we have to discard all the research we've done so far because it's been done on "warm-adapted humans"? Absolutely not. First of all, we have no way of distinguishing warm-adapted from cold-adapted humans (i.e., there's no standard way to measure these constructs). Second, as far as I can tell, we have no reason to believe that cold-adaptedness would influence a patient's response to existing treatments (pharmacological or behavioral). And we have even less evidence to believe that cold exposure (CT) would ameliorate mental health outcomes. Although CT does open up some new research ideas, it's premature to conclude that it invalidates "ALL medical management/health care" research.
 
-### penguinmom718@yahoo.com — 2012-04-12T18:45:46+0300
+### [email redacted] — 2012-04-12T18:45:46+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-14261>
 
 > **APow;14321 wrote:** Hi Cody,
@@ -35185,7 +35185,7 @@ Good for you. I do the same thing.
 
 I just want to let you know, though, that you do come across sometimes as someone who is trying to stir things up, rather that thinking critically about or simply disagreeing with with Dr. Kruse's ideas.
 
-### jeanie@truelongmont.com — 2012-04-12T18:48:52+0300
+### [email redacted] — 2012-04-12T18:48:52+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-14263>
 
 > **APow;14321 wrote:** Hi Cody,
@@ -35530,7 +35530,7 @@ Thank you and my cortisol levels thank you.
 
 This was Dean Dwyer inspired. When the Paleo fx video's come out you will understand......I call it being Dwyer'd
 
-### skline@peak.org — 2012-04-12T23:38:22+0300
+### [email redacted] — 2012-04-12T23:38:22+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-14408>
 
 > **Cavemam;13468 wrote:** hehe, our community just started doing permits for Backyard Chickens - but HOA trumps that. I should make an effort to remove the "no livestock" addendum. Perhaps after I get all "who gives a shit what they think" after CTing for a few years like Jack.
@@ -35593,7 +35593,7 @@ Thank you!!!
 
 no mink!!!!!! Gosh, that was my next factor X guess. The trouble with this plan is, entire towns and counties have set up these ordinances against basic living. It can't be unwound by a simple change, at least around here.
 
-### skline@peak.org — 2012-04-13T00:31:02+0300
+### [email redacted] — 2012-04-13T00:31:02+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-14439>
 
 I see I jumped past all the dreariness by replying to an early post.
@@ -35614,7 +35614,7 @@ Actually, waiting 2 to 3 years for any benefit from CT would be quite.... diffic
 
 Good thing I haven't had to wait years for any benefits. I started seeing some benefits in a few days, and many more in a few weeks. And I'm excited to see what else is in store for me.
 
-### skline@peak.org — 2012-04-13T00:42:06+0300
+### [email redacted] — 2012-04-13T00:42:06+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-14448>
 
 > **Birdy;14505 wrote:** no mink!!!!!! Gosh, that was my next factor X guess. The trouble with this plan is, entire towns and counties have set up these ordinances against basic living. It can't be unwound by a simple change, at least around here.
@@ -35623,7 +35623,7 @@ Change is on the way, thanks to Peak Oil and climate change and the depletion of
 
 Just had a perverse little notion: call Paleo-Hacks "The Mink Farm".
 
-### penguinmom718@yahoo.com — 2012-04-13T00:42:25+0300
+### [email redacted] — 2012-04-13T00:42:25+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-14449>
 
 > **piano-doctor-lady;14508 wrote:** I see I jumped past all the dreariness by replying to an early post.
@@ -35638,7 +35638,7 @@ Just had a perverse little notion: call Paleo-Hacks "The Mink Farm".
 
 Apow wasn't here to prove to himself that Dr Kruse's ideas work... or that they didn't work. Just to complain about them and stir things up. That became obvious to me with his response to my post about what Kurt Harris said.
 
-### skline@peak.org — 2012-04-13T00:44:21+0300
+### [email redacted] — 2012-04-13T00:44:21+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-14451>
 
 > **Nonchalant;14511 wrote:** Actually, waiting 2 to 3 years for any benefit from CT would be quite.... difficult. In fact, I doubt I'd still be doing CT if I haven't already reaped benefits. Getting in that cold bath, day after day, just on faith? Hmmm...
@@ -35672,7 +35672,7 @@ Mink farm it is. Hey, we have alot more in common with vegans than we think. Rea
 
 I need to repair a cistern and I'm just toughing it out in a heated pool with chilly showers. I want to get that 50 degree action so I can fix my skin and burn out a little more garbage from my liver. Then go get some labs. I hope I don't regrow a uterus. I just want my hormones back.
 
-### skline@peak.org — 2012-04-13T01:19:30+0300
+### [email redacted] — 2012-04-13T01:19:30+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-14470>
 
 > **Birdy;14531 wrote:** Mink farm it is. Hey, we have alot more in common with vegans than we think. Really everything, except the meat part. I don't wear mink, and now thanx to CT, I don't even need much for warmth.
@@ -35704,7 +35704,7 @@ While the word troll and its associated verb trolling are associated with Intern
 
 Cron dont worry about it.......you said your mind. Apow is gone. Dean Dwyer motivated me to throw out people who are counter productive to reason. I love debate and I live for critics......but that person was not here for the correct reasons.....so I made the call. And now I have moderating abilities.....i feel strong like bull. I better be careful if I am drinking wine huh?
 
-### penguinmom718@yahoo.com — 2012-04-13T03:43:32+0300
+### [email redacted] — 2012-04-13T03:43:32+0300
 **Source:** <https://forum.jackkruse.com/threads/free-the-animal-does-ct.771/post-14523>
 
 > **Birdy;14529 wrote:** for me it was the "c" word lol
@@ -36296,7 +36296,7 @@ dh = darling husband
 
 Coconut oil is composed of approximately 66% medium-chain triglycerides aka MCT.
 
-### vjoywilliams@sbcglobal.net — 2012-04-12T02:00:37+0300
+### [email redacted] — 2012-04-12T02:00:37+0300
 **Source:** <https://forum.jackkruse.com/threads/glossary-of-terms.787/post-13990>
 
 "
@@ -36920,7 +36920,7 @@ Example: "This will destroy cell membrane chemistry and alter DHA in the CM"
 From this thread -
 [http://forum.jackkruse.com/index.php?threads/candida-fest-help.11560/#post-145587](http://forum.jackkruse.com/index.php?threads/candida-fest-help.11560/#post-145587)
 
-### patgrif@hotmail.com — 2015-02-21T00:52:17+0200
+### [email redacted] — 2015-02-21T00:52:17+0200
 **Source:** <https://forum.jackkruse.com/threads/glossary-of-terms.787/post-156177>
 
 CM = cell membrane (I'm thinking)
@@ -37326,7 +37326,7 @@ Shouldn't it read SKIN temperature fall below 50-55 degrees?
 
 It does now
 
-### phillipsgeorge@hotmail.com — 2012-04-15T09:57:47+0300
+### [email redacted] — 2012-04-15T09:57:47+0300
 **Source:** <https://forum.jackkruse.com/threads/easy-start-guide-leptin-reset-and-cold-thermogenesis.790/post-15261>
 
 JMM's: You corrected the skin 50-55 in face dunking paragraph (line 6),
@@ -37456,7 +37456,7 @@ love your work! The new front page is brilliant!
 
 You like it.........me, pass. But I am open to change. I hate technology but I love change.......so I want to see y'all feed back
 
-### kc_boxerman@yahoo.com — 2012-04-11T03:49:35+0300
+### [email redacted] — 2012-04-11T03:49:35+0300
 **Source:** <https://forum.jackkruse.com/threads/hey-marketing-monkeys.793/post-13574>
 
 Put the listing of claimed benefits available from CT6 and it's a perfect referral page:
@@ -37563,7 +37563,7 @@ Chrisgraff has some great ideas.
 
 We already have a volunteer moderator
 
-### pthomaslandry@gmail.com — 2012-04-11T23:14:04+0300
+### [email redacted] — 2012-04-11T23:14:04+0300
 **Source:** <https://forum.jackkruse.com/threads/hey-marketing-monkeys.793/post-13892>
 
 I would volunteer. If you need more...
@@ -38029,7 +38029,7 @@ I'm searching for this.
 >
 >
 >
-> Department of Neurosciences, Lerner Research Institute, Cleveland Clinic Foundation, Cleveland, Ohio 44195, USA. [kiddg@nue.org](mailto:kiddg@nue.org)
+> Department of Neurosciences, Lerner Research Institute, Cleveland Clinic Foundation, Cleveland, Ohio 44195, USA. [[email redacted]](mailto:[email redacted])
 >
 > Abstract
 >
@@ -38070,7 +38070,7 @@ Write it down and let it go.
 
 Gold fish crackers. I wish I could pluck back every single last one I ever gave a child. And remember I have FIVE... some who are now in college.
 
-### omlh@todmi.com — 2012-04-11T18:25:00+0300
+### [email redacted] — 2012-04-11T18:25:00+0300
 **Source:** <https://forum.jackkruse.com/threads/guilt-thread.802/post-13781>
 
 Margarine, sunflower oil and soya products when we were told my OH and middle daughter were to avoid lactose. I so wish that I hadn't poisoned them with the stuff. I wonder whether some of my middle and youngest daughters' health problems started there, and whether we'll be able to reverse them.
@@ -38162,7 +38162,7 @@ I am a mother, and grandmother. My children were born in the early 80's, and I c
 
 Yes my remorse is great, because I now know that I set certain rocks rolling even before my children were born, that affect even my grandchildren. However, my hope is also great, because I am living proof that change is possible.
 
-### finnite@dccnet.com — 2012-04-14T22:51:08+0300
+### [email redacted] — 2012-04-14T22:51:08+0300
 **Source:** <https://forum.jackkruse.com/threads/guilt-thread.802/post-15128>
 
 Soy, is my biggest guilt trip, DS was born lactose and casein intolerance, nursed until 1 year and then onto soy milk for another year.
@@ -38199,7 +38199,7 @@ And yes, maybe I should have qualified "let it go" What needs to go is guilt and
 
 I have always found strength in my weakness and failures.......wait til you see the Paleo fx videos.......That is a trait I had when I emerged from the vagina.
 
-### penguinmom718@yahoo.com — 2012-04-15T06:14:55+0300
+### [email redacted] — 2012-04-15T06:14:55+0300
 **Source:** <https://forum.jackkruse.com/threads/guilt-thread.802/post-15238>
 
 One thing I did a few months ago when I was feeling guilty about what I fed them as small children, I went up to my now grown children and apologized for what I did. I told them that I though it was the right thing to do back then, but now I knew it wasn't.
@@ -38232,7 +38232,7 @@ My kids STILL look at me like I'm nuts. But they're eating our new crazy food an
 
 Care to share the story of your birth?
 
-### jeanie@truelongmont.com — 2012-04-16T03:03:07+0300
+### [email redacted] — 2012-04-16T03:03:07+0300
 **Source:** <https://forum.jackkruse.com/threads/guilt-thread.802/post-15446>
 
 I had a lifetime of wrong and endless stories of things pre-baby to feel guilty about, but now he's here (almost 6) - I look at mine every day and I think, HOLY \*\*\*\* HOW COULD THIS AWESOME THING BE A PRODUCT OF ME.
@@ -39839,7 +39839,7 @@ They are too large for a reversal. Me thinks they need to be excised.
 
 You can allegedly tie them off with dental floss. Just like banding livestock. Or paint clear fingernail polish on them. Or if you can live with some nasty ole duct tape on them. The adhesive is supposed to irritate and get inflamed and shed it off.
 
-### betseyford@hotmail.com — 2012-04-12T03:30:53+0300
+### [email redacted] — 2012-04-12T03:30:53+0300
 **Source:** <https://forum.jackkruse.com/threads/home-remedies-for-warts-skin-tags-and-pigment-problems.816/post-14038>
 
 > **shilohman;14033 wrote:** Dr. K says skin tags are from excess omeg 6. Seems like Krill oil and maybe an ice pack on the tags might take care of them.
@@ -39864,7 +39864,7 @@ Good luck!
 
 I thought he mentioned that skin tags were indicative of glucose/insulin issues....anyone else remember this?
 
-### nosnhojjennifer@yahoo.com — 2012-04-26T22:33:24+0300
+### [email redacted] — 2012-04-26T22:33:24+0300
 **Source:** <https://forum.jackkruse.com/threads/home-remedies-for-warts-skin-tags-and-pigment-problems.816/post-19126>
 
 > **chocolate;14015 wrote:** I'm trying to get a handle on this pigmentation, now that I understand how important it is for our skin to generate anti-inflammatories.
@@ -40317,7 +40317,7 @@ My feet are freezing again and my hands are so dry they're cracking. I'm having 
 
 I'm on 1 grain (65 mg) Naturethroid and am wondering if I need to increase it. I have a lab slip to get re-tested, but I was holding off until after a few months of CT so I could see how it was affecting things, but now I think I need to get it checked sooner. I'll probably head in this weekend.
 
-### selma@decna.no — 2012-04-14T23:12:13+0300
+### [email redacted] — 2012-04-14T23:12:13+0300
 **Source:** <https://forum.jackkruse.com/threads/hypothyroid-worsening.819/post-15131>
 
 It's difficult to know how CT is affecting thyrois. I've held back because I'm afraid of this. At the same time - CT seems to be doing wonders for clearing out rT3...

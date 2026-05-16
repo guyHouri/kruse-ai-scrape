@@ -723,7 +723,7 @@ Any suggestions/insight on how to make this decision? I'm pretty sure they won't
 
 composite. Talk to my buddy John Sorrentino on his website. HE is a dentist and does on line consults to help you decide the next best step.
 
-### info@sorrentinodental.com — 2015-06-16T15:56:06+0300
+### [email redacted] — 2015-06-16T15:56:06+0300
 **Source:** <https://forum.jackkruse.com/threads/lost-a-tooth-filling-now-what.15532/post-168400>
 
 Can you post an x-ray? It does not sound like you need a root canal. It sounds more like you need a crown.
@@ -736,7 +736,7 @@ That is what I call a house call!!!!
 ### lilly antic — 2015-06-16T17:46:43+0300
 **Source:** <https://forum.jackkruse.com/threads/lost-a-tooth-filling-now-what.15532/post-168415>
 
-> [info@sorrentinodental.com said:](/goto/post?id=168400)
+> [[email redacted] said:](/goto/post?id=168400)
 >
 > Can you post an x-ray? It does not sound like you need a root canal. It sounds more like you need a crown.
 
@@ -752,7 +752,7 @@ Wow! This forum is amazing . . . thanks so much!!! I'll see if I can pick the xr
 
 Looking, if it helps, my DH had a root canal scheduled (about 6-8 months off) when I started him on Vitamin K, the MK-4 (menatetrenone) variety. At his next appointment, nothing was said about a root canal, and he also didn't have any new cavities. It's been a couple years now.
 
-### info@sorrentinodental.com — 2015-06-16T19:06:43+0300
+### [email redacted] — 2015-06-16T19:06:43+0300
 **Source:** <https://forum.jackkruse.com/threads/lost-a-tooth-filling-now-what.15532/post-168432>
 
 > [lookingforanswers said:](/goto/post?id=168416)
@@ -2108,7 +2108,7 @@ No you don't but you are teaching those who find you how to fish on their own, a
 ### Gagnrad — 2015-06-18T19:37:43+0300
 **Source:** <https://forum.jackkruse.com/threads/paging-pat-grif.15613/post-168777>
 
-I was wondering @[patgrif@hotmail.com](mailto:patgrif@hotmail.com) how is Shilin pronounced? I'm thinking of the traditional song "Lakes of Shilin".
+I was wondering @[[email redacted]](mailto:[email redacted]) how is Shilin pronounced? I'm thinking of the traditional song "Lakes of Shilin".
 
 Nic Jones is wonderful guitar player, but he does come from Kent so I'm not sure his Gaelic pronunciation would be correct.
 
@@ -4476,7 +4476,7 @@ e-cig no bueno. Method of delivery is key.....cant use it when it cause pseudohy
 
 which brings me back to this link @[yewwei.tan](https://forum.jackkruse.com/members/6824/) posted on FB [http://www.nature.com/nrn/journal/v12/n11/images/nrn3105-f4.jpg](http://www.nature.com/nrn/journal/v12/n11/images/nrn3105-f4.jpg)
 
-### patgrif@hotmail.com — 2015-07-01T04:32:28+0300
+### [email redacted] — 2015-07-01T04:32:28+0300
 **Source:** <https://forum.jackkruse.com/threads/nicotine-gum-biohack-ubi-17.15797/post-170153>
 
 I started on nicotine on the Cruise and seemed to do really 'well' on it. 2mg a day just in the morning no food or cravings of any kind all day. Ate in the evening only. Yesterday (Monday) day after I got back again took 2mg and felt kind of strongly 'affected' all day. Did not eat at all yesterday very unusual for me..............like as in never happened before.
@@ -4511,7 +4511,7 @@ nicotine should be broken up.......meaning once or twice a week maybe enough to 
 
 ^^^yes i am just noticing that!
 
-### patgrif@hotmail.com — 2015-07-02T05:45:28+0300
+### [email redacted] — 2015-07-02T05:45:28+0300
 **Source:** <https://forum.jackkruse.com/threads/nicotine-gum-biohack-ubi-17.15797/post-170304>
 
 > [Jack Kruse said:](/goto/post?id=170273)
@@ -5660,7 +5660,7 @@ October 5th to 11th, 2015
 
 **Contact Information**
 
--   [info@wsim2015.com](mailto:info@wsim2015.com)
+-   [[email redacted]](mailto:[email redacted])
 -   877-888-8970
 -   Honolulu, Hawaii, USA
 
@@ -5900,7 +5900,7 @@ INTRODUCING THE 'I WANT MY QUANTLET' VIDEO MESSAGE CONTEST!
 Here's how you can ENTER and WIN:
 
 1\. Record a short (less than 15 seconds) video with your phone, webcam or camcorder explaining in your own words what the Quantlet does and how you intend to use it in your life.
-2\. Email us the video to [info@quantlets.com](mailto:info@quantlets.com).
+2\. Email us the video to [[email redacted]](mailto:[email redacted]).
 3\. We will review and post it to our page for votes when deemed appropriate and after you complete a simple release document allowing us to promote your video.
 4\. The video with the highest number of votes WINS and receives their Quantlet once BETA units ship early next year.
 
@@ -9167,7 +9167,7 @@ On the cold hill’s side.
 
 Waking up on the "cold hill's side" is a very old motif. Sometimes the returning person finds everyone he knew aged, or dead and gone.
 
-Even these days I believe the notion of sojourning with the fairies and not coming back quite as you went used in a humorous way in Ireland to refer to people - "he's away with the fairies". At least I think so. I wonder if @[patgrif@hotmail.com](mailto:patgrif@hotmail.com) would agree with that phrase being in use.
+Even these days I believe the notion of sojourning with the fairies and not coming back quite as you went used in a humorous way in Ireland to refer to people - "he's away with the fairies". At least I think so. I wonder if @[[email redacted]](mailto:[email redacted]) would agree with that phrase being in use.
 
 Beliefs about the elves - the same, or similar, beings really - are still somewhat live in Iceland, too. There are certain rocks associated with tales about them that people are reluctant to move - that kind of thing. Perhaps people aren't totally sure, but they tend to play safe.
 
@@ -13560,14 +13560,14 @@ I love how [Yew-wei](https://www.facebook.com/yewwei.tan?hc_location=ufi) simpli
 
 In fact the sorrentino effect is in the blog........
 
-### patgrif@hotmail.com — 2015-07-03T06:44:20+0300
+### [email redacted] — 2015-07-03T06:44:20+0300
 **Source:** <https://forum.jackkruse.com/threads/how-does-factor-x-tie-to-ubiquitination.16055/post-170476>
 
 One thing though........................the message I take also is thought our zip code may be more important than our genetic code just about ANY zip code can be hazardous now. If a wind born toxin/spore/fungus whatever can get us we are not safe ANYWHERE really. But of course not to use that as an excuse some places are for sure safer or better than others.
 
 That's sort of the message I take from Elizabert Kolbert's book also, these things are un-predictable and getting more un-predictable. If one is a frog or a bat WHERE is 'safety' really? Is there such a thing anymore? Are we any different that frogs or bats or bees? Will our brain save us? Unlikely I would say not only are our brains limited but they CAUSED our present dilemma or our present dilemma is caused by the 'works' of out brains. I find all this 'depressing' which is the word I use for coming to terms or learning inconvenient truths.
 
-### patgrif@hotmail.com — 2015-07-03T07:03:30+0300
+### [email redacted] — 2015-07-03T07:03:30+0300
 **Source:** <https://forum.jackkruse.com/threads/how-does-factor-x-tie-to-ubiquitination.16055/post-170478>
 
 Is 'coupled cycles' a sort of biological equivalent of 'equilibrium'?. So couple cycles are a kind of equilibrium 'far from equilibrium'? So some kind of equilibrium or homeo-stastis is good................what we have now more and more is uncoupled cycles that is lacking negative feed back loops.................so a build up of CO2 caused the atmosphere to heat, which liberates more CO2 from the permafrost and the stores in the bottom of the oceans which causes more warming which liberates even more CO2 in fires etc etc. Isn't that what they mean by a 'tipping point' a point at which all systems fail and nothing can be done. The uncoupled cycle just has to play itself out and eventually after it is played out a new and different 'equilibrium' re-asserts itself......................but we may be gone by then.
@@ -13592,7 +13592,7 @@ CO2 in the oceans => acidification (dominance of proton flows)
 
 We need to define the context in which CO2 is acting in to determine how it behaves.
 
-> [patgrif@hotmail.com said:](/goto/post?id=170478)
+> [[email redacted] said:](/goto/post?id=170478)
 >
 > Is 'coupled cycles' a sort of biological equivalent of 'equilibrium'?. So couple cycles are a kind of equilibrium 'far from equilibrium'? So some kind of equilibrium or homeo-stastis is good................what we have now more and more is uncoupled cycles that is lacking negative feed back loops.................so a build up of CO2 caused the atmosphere to heat, which liberates more CO2 from the permafrost and the stores in the bottom of the oceans which causes more warming which liberates even more CO2 in fires etc etc. Isn't that what they mean by a 'tipping point' a point at which all systems fail and nothing can be done. The uncoupled cycle just has to play itself out and eventually after it is played out a new and different 'equilibrium' re-asserts itself......................but we may be gone by then.
 
@@ -13612,7 +13612,7 @@ With CO2 levels, there is no such thing as a fixed level of equilibrium. **You a
 ### Jack Kruse — 2015-07-03T15:21:25+0300
 **Source:** <https://forum.jackkruse.com/threads/how-does-factor-x-tie-to-ubiquitination.16055/post-170507>
 
-> [patgrif@hotmail.com said:](/goto/post?id=170476)
+> [[email redacted] said:](/goto/post?id=170476)
 >
 > One thing though........................the message I take also is thought our zip code may be more important than our genetic code just about ANY zip code can be hazardous now. If a wind born toxin/spore/fungus whatever can get us we are not safe ANYWHERE really. But of course not to use that as an excuse some places are for sure safer or better than others.
 >
@@ -13634,7 +13634,7 @@ In cold O2 rises in blood and water.............This is why the polar seas are f
 
 I said 5 years ago that Factor X is the most critical aspect to understand in optimal.........now you are beginning to really understand why.............
 
-### patgrif@hotmail.com — 2015-07-03T16:13:07+0300
+### [email redacted] — 2015-07-03T16:13:07+0300
 **Source:** <https://forum.jackkruse.com/threads/how-does-factor-x-tie-to-ubiquitination.16055/post-170520>
 
 > [yewwei.tan said:](/goto/post?id=170501)
@@ -13718,7 +13718,7 @@ Do you know AM UV light also increases O2 in venous blood.............
 
 breadcrumb.
 
-### patgrif@hotmail.com — 2015-07-03T20:04:33+0300
+### [email redacted] — 2015-07-03T20:04:33+0300
 **Source:** <https://forum.jackkruse.com/threads/how-does-factor-x-tie-to-ubiquitination.16055/post-170569>
 
 > [Jack Kruse said:](/goto/post?id=170524)
@@ -13759,7 +13759,7 @@ Pat read this nuclear bomb:what happens to photosynthesis when this all happens?
 
 Ubi 18 explains why the lightening storm we had on monday was one of the most sever in the DMV and explains while we'll continue to get more [https://images.washingtonpost.com/?.../2015/07/DCLMA\_lightning\_20150701.gif&op=noop](https://images.washingtonpost.com/?url=https://img.washingtonpost.com/blogs/capital-weather-gang/files/2015/07/DCLMA_lightning_20150701.gif&op=noop)
 
-### patgrif@hotmail.com — 2015-07-04T05:34:03+0300
+### [email redacted] — 2015-07-04T05:34:03+0300
 **Source:** <https://forum.jackkruse.com/threads/how-does-factor-x-tie-to-ubiquitination.16055/post-170644>
 
 > [Jack Kruse said:](/goto/post?id=170574)
@@ -14098,7 +14098,7 @@ Martin
 
 Max is in the middle........of his two brothers
 
-### info@sorrentinodental.com — 2015-07-02T20:14:45+0300
+### [email redacted] — 2015-07-02T20:14:45+0300
 **Source:** <https://forum.jackkruse.com/threads/my-new-perspective.16056/post-170392>
 
 Max you Rock. You already know more than most adults
@@ -15976,7 +15976,7 @@ Jill
 
 site got hacked again........they are working on it.
 
-### patgrif@hotmail.com — 2015-07-04T05:31:29+0300
+### [email redacted] — 2015-07-04T05:31:29+0300
 **Source:** <https://forum.jackkruse.com/threads/bad-links-on-the-website.16128/post-170643>
 
 > [Jack Kruse said:](/goto/post?id=170625)
@@ -21258,7 +21258,7 @@ POTS: sign of a bad elevated environment. Astronauts get this when they return t
 
 shingles = herpes out break = all astronauts have been shown to viral shed. Your environment is speaking to you, are you listening?
 
-### patgrif@hotmail.com — 2015-07-30T04:38:52+0300
+### [email redacted] — 2015-07-30T04:38:52+0300
 **Source:** <https://forum.jackkruse.com/threads/and-now-i-cant-stay-vertical-for-long.16421/post-173492>
 
 > [Jack Kruse said:](/goto/post?id=173480)
@@ -21823,7 +21823,7 @@ The yellow color of the human [macula lutea](https://en.wikipedia.org/wiki/Macul
 
 This makes me very interested in the therapeutic use of both astaxanthin and methylene blue, though "homeopathic" doses of methylene blue, as opposed to the doses typically taken by people seeking "nootropic effects".
 
-### thomasdoud@gmail.com — 2015-07-16T02:11:24+0300
+### [email redacted] — 2015-07-16T02:11:24+0300
 **Source:** <https://forum.jackkruse.com/threads/carotenoids-they-are-hugely-important-in-quantum-biology.16441/post-172077>
 
 We use Pigment density testing to determine the amount of carotenoids in the macula. Low pigment density is associated with poor outcomes and light sensitivity. Testing uses haidinger brushes. Easy test to run and supplements work if natural and high concentration. Thanks Jack for explaining the the mechanisms underlying this process.
@@ -22158,7 +22158,7 @@ October 5th to 11th, 2015
 
 **Contact Information**
 
--   [info@wsim2015.com](mailto:info@wsim2015.com)
+-   [[email redacted]](mailto:[email redacted])
 -   877-888-8970
 -   Honolulu, Hawaii, USA
 
@@ -22485,7 +22485,7 @@ In those days most Americans would have come from North-West Europe and often ha
 
 Why modern humans are in deep.......and the reason behind my Voice and Exit talk. [http://99percentinvisible.org/episode/future-screens-are-mostly-blue/](http://99percentinvisible.org/episode/future-screens-are-mostly-blue/)
 
-### patgrif@hotmail.com — 2015-07-18T04:36:23+0300
+### [email redacted] — 2015-07-18T04:36:23+0300
 **Source:** <https://forum.jackkruse.com/threads/apaches-and-the-colour-blue.16462/post-172221>
 
 Apropos of nothing much...................but as a child one of my earliest memories is my brother 14 months older that me had a small beautiful green car..................I had the same car but in blue! And blue was 'my' colour we used to even debate about the ocean where we lived. We agreed it was 'more' blue than green but sadly it was more green in those days than it is now. Dr K explained one time a green ocean means life in it blue not.
@@ -22524,7 +22524,7 @@ Still, it's so curious calling blue-eyed people "The White Eyes". I have to thin
 ### Gagnrad — 2015-07-18T11:12:45+0300
 **Source:** <https://forum.jackkruse.com/threads/apaches-and-the-colour-blue.16462/post-172235>
 
-> [patgrif@hotmail.com said:](/goto/post?id=172221)
+> [[email redacted] said:](/goto/post?id=172221)
 >
 > The other thing of course is 'the blues' I have the blues I feel sad etc. Or the Blues in music a similar idea.
 >
@@ -22547,7 +22547,7 @@ Funny I always struggled to understand the Japanese concept of aoi (the long tra
 ### Jack Kruse — 2015-07-19T01:49:07+0300
 **Source:** <https://forum.jackkruse.com/threads/apaches-and-the-colour-blue.16462/post-172319>
 
-> [patgrif@hotmail.com said:](/goto/post?id=172221)
+> [[email redacted] said:](/goto/post?id=172221)
 >
 > Apropos of nothing much...................but as a child one of my earliest memories is my brother 14 months older that me had a small beautiful green car..................I had the same car but in blue! And blue was 'my' colour we used to even debate about the ocean where we lived. We agreed it was 'more' blue than green but sadly it was more green in those days than it is now. Dr K explained one time a green ocean means life in it blue not.
 >
@@ -23385,7 +23385,7 @@ One of the areas I really want to focus on is water. In Los Angeles, what is my 
 
 The world around you as a minefield of electromagnetic, chemical, and blue light smog and an assault on your senses, and you still can't observe it but your mitochondria do. **I'm sure that it literally steals joy as it shreds DHA, cellular hydration, and circadian timing.** No wonder so many people in that city are so bad tempered.
 
-### patgrif@hotmail.com — 2015-07-21T16:55:37+0300
+### [email redacted] — 2015-07-21T16:55:37+0300
 **Source:** <https://forum.jackkruse.com/threads/back-on-the-forum.16476/post-172521>
 
 > [Jack Kruse said:](/goto/post?id=172517)
@@ -23455,7 +23455,7 @@ Congratulations!
 
 Plenty of wilds in the mountains of CA and to the North. You don't have to go too far. Not to mention all the fresh water up there in those beautiful mountains.
 
-### patgrif@hotmail.com — 2015-07-22T21:19:59+0300
+### [email redacted] — 2015-07-22T21:19:59+0300
 **Source:** <https://forum.jackkruse.com/threads/back-on-the-forum.16476/post-172673>
 
 > [Celeste said:](/goto/post?id=172523)
@@ -23465,7 +23465,7 @@ Plenty of wilds in the mountains of CA and to the North. You don't have to go to
 
 Yes Celeste we are arnt we? About grounding shoes I found a guy who makes sandals for me with only leather soles. I like them very much would hardly wear anything else. I usually wear them until there are actual holes in them then I get 'real' grounding lol. When Jack was in LA he was saying he was the only one with leather soles...........I told him I could do one better with actual holes! Always 'competitive' that's me (un-fortunately )
 
-### patgrif@hotmail.com — 2015-07-22T21:24:56+0300
+### [email redacted] — 2015-07-22T21:24:56+0300
 **Source:** <https://forum.jackkruse.com/threads/back-on-the-forum.16476/post-172674>
 
 Speaking of a 'fallen city' reminds me of this song called "Fallen Angel" and ironically it's about young girl going TO Los Angeles. That was in the '80's when lots of people flocked here now it's time to leave it seems.............before it is too late............
@@ -23478,7 +23478,7 @@ I wear huaraches everywhere except work!
 ### Celeste — 2015-07-23T17:56:21+0300
 **Source:** <https://forum.jackkruse.com/threads/back-on-the-forum.16476/post-172773>
 
-> [patgrif@hotmail.com said:](/goto/post?id=172674)
+> [[email redacted] said:](/goto/post?id=172674)
 >
 > Speaking of a 'fallen city' reminds me of this song called "Fallen Angel" and ironically it's about young girl going TO Los Angeles. That was in the '80's when lots of people flocked here now it's time to leave it seems.............before it is too late............
 
@@ -23505,7 +23505,7 @@ thanks.
 ### Celeste — 2015-07-23T18:10:47+0300
 **Source:** <https://forum.jackkruse.com/threads/back-on-the-forum.16476/post-172777>
 
-> [patgrif@hotmail.com said:](/goto/post?id=172673)
+> [[email redacted] said:](/goto/post?id=172673)
 >
 > About grounding shoes I found a guy who makes sandals for me with only leather soles. I like them very much would hardly wear anything else. I usually wear them until there are actual holes in them then I get 'real' grounding lol. When Jack was in LA he was saying he was the only one with leather soles...........I told him I could do one better with actual holes! Always 'competitive' that's me (un-fortunately )
 
@@ -23521,7 +23521,7 @@ I wear jogging shoes when running on concrete. If just walking, huaraches still.
 ### nicld — 2015-07-26T19:59:10+0300
 **Source:** <https://forum.jackkruse.com/threads/back-on-the-forum.16476/post-173097>
 
-> [patgrif@hotmail.com said:](/goto/post?id=172674)
+> [[email redacted] said:](/goto/post?id=172674)
 >
 > Speaking of a 'fallen city' reminds me of this song called "Fallen Angel" and ironically it's about young girl going TO Los Angeles. That was in the '80's when lots of people flocked here now it's time to leave it seems.............before it is too late............
 >
@@ -24173,7 +24173,7 @@ Rosacea is also in that mix somewhere,is it not.A permanently brewing "sunburn" 
 
 yep.........many things are. But we got to get past the basic biophysics to explode the quantum biology of disease management. I just did that for atherosclerosis here.
 
-### patgrif@hotmail.com — 2015-07-19T02:55:17+0300
+### [email redacted] — 2015-07-19T02:55:17+0300
 **Source:** <https://forum.jackkruse.com/threads/atherosclerosis-and-the-tensegrity-7-blog.16491/post-172326>
 
 > [Jack Kruse said:](/goto/post?id=172291)
@@ -24197,7 +24197,7 @@ what is your fasting insulin?
 
 /
 
-### patgrif@hotmail.com — 2015-07-19T17:28:26+0300
+### [email redacted] — 2015-07-19T17:28:26+0300
 **Source:** <https://forum.jackkruse.com/threads/atherosclerosis-and-the-tensegrity-7-blog.16491/post-172354>
 
 > [JanSz said:](/goto/post?id=172352)
@@ -24214,7 +24214,7 @@ JanSz, I havn't done any other tests. To be honest I don't even check my fasting
 ### JanSz — 2015-07-19T17:47:58+0300
 **Source:** <https://forum.jackkruse.com/threads/atherosclerosis-and-the-tensegrity-7-blog.16491/post-172355>
 
-> [patgrif@hotmail.com said:](/goto/post?id=172354)
+> [[email redacted] said:](/goto/post?id=172354)
 >
 > JanSz, I havn't done any other tests. To be honest I don't even check my fasting blood sugar.............I am missing a 'part' for the meter etc. But I really should do that, in fact thanks JanSz this will spur me to at least do that................
 
@@ -24284,7 +24284,7 @@ Consider where K2 works.......gut, bone, and vessels. Becker showed us bone uses
 
 An obvious difference between certain compounds is their color. Thus, quinones are yellow; chlorophyll is green; the 2,4-dinitrophenylhydrazone derivatives (K and K2) of aldehydes and ketones range in color from bright yellow to deep red (similar to carotenoids), depending on double bond conjugation; and aspirin is colorless. In this respect the human eye/skin/gut is functioning as a spectrometer analyzing the light reflected from the surface of a solid or passing through a liquid. Although we see sunlight (or white light) as uniform or homogeneous in color, it is actually composed of a broad range of radiation wavelengths in the ultraviolet (UV), visible and infrared (IR) portions of the spectrum. This is why most of our surface tissues are lined with things that absorbs light in yellows/reds. Plants focus in on the green lights...........both wind up with a DC electric current.
 
-### patgrif@hotmail.com — 2015-08-05T05:04:14+0300
+### [email redacted] — 2015-08-05T05:04:14+0300
 **Source:** <https://forum.jackkruse.com/threads/atherosclerosis-and-the-tensegrity-7-blog.16491/post-173985>
 
 A question: Since in photo-synthesis absorbs light in the red range but not the green it makes sense that plants 'appear' green to us the green is not absorbed so is reflected back to the person looking at it. But then what happens to the blue range which is not also not absorbed......................why don't plants appear 'blue' (or at least as much blue as green). Where does the blue light go or how come we can't see it?
@@ -24818,7 +24818,7 @@ Does the narwhal's metabolism direct vitamin C to their skin at a particular tim
 
 Wow..I have to let that sink in for a while..
 
-### patgrif@hotmail.com — 2015-07-20T17:00:31+0300
+### [email redacted] — 2015-07-20T17:00:31+0300
 **Source:** <https://forum.jackkruse.com/threads/the-vitamin-c-thread.16507/post-172424>
 
 Capt: I just yesterday happened to be reading Nick Lane's book "Oxygen" and Chapter 9 is all about Vit C it's called "A portrait of a Paradox " Vitamin C and the many faces of an anti-oxidant" I was amazed at how 'complicated' it all is. There is some pretty deep science in that but it pointed out to me or the lesson I would take from it is supplementing is mostly problematic more than likely. But it IS complicated and I could imagine it might well be useful maybe as a needed boost maybe in the relatively short term It sort of for me underlies Dr K's dictum "If we make it we are not designed to take it" though to be strict about this we DON'T make it but our bodies are intricately set up to be able to take it in a 'normal' diet and use it to good effect
@@ -24839,7 +24839,7 @@ Interesting piece on effects of different levels of vitamin c on UV radiation in
 ### Cpt.Tired — 2015-07-21T03:23:39+0300
 **Source:** <https://forum.jackkruse.com/threads/the-vitamin-c-thread.16507/post-172458>
 
-> [patgrif@hotmail.com said:](/goto/post?id=172424)
+> [[email redacted] said:](/goto/post?id=172424)
 >
 > Capt: I just yesterday happened to be reading Nick Lane's book "Oxygen" and Chapter 9 is all about Vit C it's called "A portrait of a Paradox " Vitamin C and the many faces of an anti-oxidant" I was amazed at how 'complicated' it all is. There is some pretty deep science in that but it pointed out to me or the lesson I would take from it is supplementing is mostly problematic more than likely. But it IS complicated and I could imagine it might well be useful maybe as a needed boost maybe in the relatively short term It sort of for me underlies Dr K's dictum "If we make it we are not designed to take it" though to be strict about this we DON'T make it but our bodies are intricately set up to be able to take it in a 'normal' diet and use it to good effect
 >

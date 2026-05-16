@@ -9602,7 +9602,7 @@ Side note: we are currently working with a manufacturer on several new IP design
 
 If you can shoot me a link or photo of the frames I will have our team source some for you next week
 
-Please feel free to reach out to me directly anytime [dh@luciaeyes.com](mailto:dh@luciaeyes.com)
+Please feel free to reach out to me directly anytime [[email redacted]](mailto:[email redacted])
 
 Warmest Regards,
 
@@ -9643,7 +9643,7 @@ Also, separately, would you ever consider making glasses with quartz lens to let
 Hey thanks for this information. I've already chatted with our manufacturer and they are sending me some samples of frames they have right now AND looking at a "New" design features to help with this issue. I looked into the quartz lenses a few years ago and it was too cost prohibitive for a small company like ours and it was not popular yet. Let me check into it again.
 If you shoot me an email I will ping you as soon as I get the frame samples for you to try out...
 
-[dh@luciaeyes.com](mailto:dh@luciaeyes.com)
+[[email redacted]](mailto:[email redacted])
 
 Thank you!
 

@@ -17136,14 +17136,14 @@ Great bill me and I will order. If I do it through site it will automatically ad
 >
 > Great bill me and I will order. If I do it through site it will automatically add postage
 
-email me your details inc phone number. [josh@mitogenhealth.com](mailto:josh@mitogenhealth.com)
+email me your details inc phone number. [[email redacted]](mailto:[email redacted])
 
 ### Michael CULLEN — 2019-10-27T16:04:33+0200
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-longevity-red-light-panels-pbm-from-josh.23224/post-281335>
 
 > [Josh (Paleo Osteo) said:](/goto/post?id=280940)
 >
-> email me your details inc phone number. [josh@mitogenhealth.com](mailto:josh@mitogenhealth.com)
+> email me your details inc phone number. [[email redacted]](mailto:[email redacted])
 
 Did this days ago,cheers.
 
@@ -18000,7 +18000,7 @@ It is a great panel - just not strong enuf to help eyes.
 ### Johan Lindøm — 2022-01-31T09:25:13+0200
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-longevity-red-light-panels-pbm-from-josh.23224/post-309367>
 
-> [gene@kalmens.org said:](/goto/post?id=309363)
+> [[email redacted] said:](/goto/post?id=309363)
 >
 > I am trying to get a red light device for my wife to treat her macular problems (dry AMD.) Will mitogen or EMR-TEK help? If EMR-TEK, which of the three devices available there?
 > [@Josh (Paleo Osteo)](https://forum.jackkruse.com/members/9815/) - is shipping to the US currently possible?
@@ -18207,7 +18207,7 @@ nonsense. studies show eyes can be helped with less than 17mw/cm2
 ### Josh (Paleo Osteo) — 2022-02-03T05:19:32+0200
 **Source:** <https://forum.jackkruse.com/threads/the-kruse-longevity-red-light-panels-pbm-from-josh.23224/post-309497>
 
-> [gene@kalmens.org said:](/goto/post?id=309363)
+> [[email redacted] said:](/goto/post?id=309363)
 >
 > I am trying to get a red light device for my wife to treat her macular problems (dry AMD.) Will mitogen or EMR-TEK help? If EMR-TEK, which of the three devices available there?
 > [@Josh (Paleo Osteo)](https://forum.jackkruse.com/members/9815/) - is shipping to the US currently possible?
@@ -19026,7 +19026,7 @@ Corey Nelson, that was what I was thinking. ADH needs to adjust. I don't expect 
 >
 > I have been trying to order for a couple weeks I get no reply back from online sources, thank you
 
-Loretta, I order my water direct from Qlarivia and deal with Loana, who is great. I just ordered more this morning. Email her here: [office@qlarivia.com](mailto:office@qlarivia.com)
+Loretta, I order my water direct from Qlarivia and deal with Loana, who is great. I just ordered more this morning. Email her here: [[email redacted]](mailto:[email redacted])
 
 ### Sun Disciple — 2019-03-27T01:45:34+0200
 **Source:** <https://forum.jackkruse.com/threads/is-drinking-large-qualities-of-water-still-recommended-in-light-of-deuterium-considerations.23227/post-266539>
@@ -40280,7 +40280,7 @@ VieLights: 655nm & 810nm
 
 Sperti-D: The UV Vitamin-D Lamp. Comes complete in mint condition with every bulb and part intact.
 
-What You Need To Do Next If You Are Interested: Send me your offer by e-mail at [adamf@adamfiddler.net](mailto:adamf@adamfiddler.net)
+What You Need To Do Next If You Are Interested: Send me your offer by e-mail at [[email redacted]](mailto:[email redacted])
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -41211,13 +41211,13 @@ Perhaps nobody knows the answer to this question but: if you could somehow separ
 Is there a reason I send messages from the Forum in the link at the bottom left and get no response? I send emails to support@ and get this:
 
 **Message blocked**
-Your message to **[support@jackkruse.com](mailto:support@jackkruse.com)** has been blocked. See technical details below for more information.
+Your message to **[[email redacted]](mailto:[email redacted])** has been blocked. See technical details below for more information.
 
 and this:
 
 h8sor6750278wmc.5 - gsmtp
 
-Final-Recipient: rfc822; [support@jackkruse.com](mailto:support@jackkruse.com)
+Final-Recipient: rfc822; [[email redacted]](mailto:[email redacted])
 Action: failed
 Status: 5.0.0
 Diagnostic-Code: smtp; Unauthenticated email from [aol.com](http://aol.com/) is not accepted due to domain's DMARC policy. Please contact the administrator of [aol.com](http://aol.com/) domain if this was a legitimate mail. Please visit [https://support.google.com/mail/answer/2451690](https://support.google.com/mail/answer/2451690) to learn about the DMARC initiative. h8sor6750278wmc.5 - gsmtp
@@ -41231,7 +41231,7 @@ You have reached a page that is not accessible to you. If you need to upgrade yo
 
 If you are looking to purchase a bootcamp, click on the bootcamp link below:
 
-If you are seeing this page and feel it’s an error, please contact us at [support@jackkruse.com](mailto:support@jackkruse.com).
+If you are seeing this page and feel it’s an error, please contact us at [[email redacted]](mailto:[email redacted]).
 
 Auto pay to my credit card works fine. Account in good standing.
 

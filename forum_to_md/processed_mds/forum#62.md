@@ -33015,7 +33015,7 @@ Lethal levels of microwaves are filling our living space as a corrupt FCC facili
 Wifi, wireless home phone, smart meters, WLAN, and now 5th Generation 5G will flood our environment even more: Lethal Levels!
 Cell phones are known to increase the rate of breast cancer when stored in bras and shirt pockets, testicular cancer when carried in pants pockets and the FCC lets it go on because they're former hirelings of the industries they're supposed to regulate in the public interest. They have not addressed the dangers here revealed, that other countries have already appropriately dealt with.
 "People are currently getting very sick and dying with neurological disease and cancer near cell towers. There are testimonials which we have from almost every state. With the recent findings of 'Clear Evidence of Carcinogenicity' in the $25 Million US NIH funded National Toxicology Program Study and others like it, we have enough scientific evidence to re-classify wireless radiation as a Class 1 Human Carcinogen like Asbestos and Cigarette smoke. Thus we should be a warning and minimizing exposure, not maximizing exposure as we are doing with 5G which will require the installation of 800,000 new cell tower antennas."
-Contact Kevin via [5gisharmful@gmail.com](mailto:5gisharmful@gmail.com)
+Contact Kevin via [[email redacted]](mailto:[email redacted])
 
 ### Jack Kruse — 2019-02-19T15:31:00+0200
 **Source:** <https://forum.jackkruse.com/threads/does-sunlight-sculpt-the-microbiome-via-sulfur-and-nitrogen.23156/post-263540>
