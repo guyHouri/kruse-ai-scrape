@@ -4,10 +4,12 @@
 
 # --- Credentials (NEVER commit) ---
 **/cookies.txt
+**/credentials.txt
 **/.env
 **/.env.*
 !**/.env.example
 !**/cookies.txt.example
+!**/credentials.txt.example
 
 # --- Node ---
 **/node_modules/
@@ -21,6 +23,14 @@
 **/processed_mds/articles/
 **/processed_mds/blog/
 **/processed_mds/blog_series/
+**/processed_mds/blogs/
+
+# --- Source PDFs (big, regenerable from upstream) ---
+free_blogs_md/*.pdf
+
+# --- kemono_to_md: lives in a SEPARATE PRIVATE repo (Patreon mirror — copyright sensitive) ---
+# See PRIVATE_MODULES.md for the submodule add procedure.
+kemono_to_md/
 
 # --- Scraper state (regenerable from source) ---
 **/threads.json

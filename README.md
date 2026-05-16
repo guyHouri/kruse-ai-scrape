@@ -7,12 +7,14 @@ Each source has its own self-contained Node.js scraper under this repo root. Mod
 ```
 kruse-ai-scrape/
 ├── forum_to_md/            forum.jackkruse.com (XenForo) — 19,800 threads, ~25M words
-├── kemono_to_md/           Kemono Patreon mirror + local PDFs (Jack's blogs)
+├── kemono_to_md/           [PRIVATE SUBMODULE] Kemono Patreon mirror — see PRIVATE_MODULES.md
 ├── threadreader_to_md/     Thread Reader App / X tweet-thread archive
-├── linkedin_to_md/         LinkedIn post archive (xlsx-driven)
+├── linkedin_to_md/         LinkedIn Pulse archive (xlsx + Playwright scrape)
+├── free_blogs_md/          Jack's free blog posts compiled from PDF
 ├── website_to_md/          LEGACY general-purpose scraper — other modules built from its patterns
 ├── docs/sources.md         knowledge-source index (priority + difficulty per source)
 ├── AGENTS.md               AI-assistant-facing project context (also linked as CLAUDE.md)
+├── FUTURE_IMPROVEMENTS.md  roadmap: weekly auto-update + Q&A RAG + smaller wins
 ├── README.md               this file
 └── LICENSE                 MIT
 ```
@@ -68,12 +70,17 @@ Full instructions in [`forum_to_md/README.md`](forum_to_md/README.md) and [`foru
 | Module | Source | State | Output |
 |---|---|---|---|
 | [`forum_to_md/`](forum_to_md/) | `forum.jackkruse.com` | **working** — 19,800 threads, 21+ M words | `forum#1.md`..`forum#N.md` + `jack-threads-*.md` + category bundles + per-thread MDs + xlsx |
-| [`kemono_to_md/`](kemono_to_md/) | Kemono Patreon mirror | **working** | `blogs-*.md` series + per-article MDs |
+| [`kemono_to_md/`](kemono_to_md/) | Kemono Patreon mirror | **private submodule** ([why](PRIVATE_MODULES.md)) | `blogs-*.md` series + per-article MDs |
 | [`threadreader_to_md/`](threadreader_to_md/) | Thread Reader App | **working** | `tweet-threads*.md` + per-thread MDs |
-| [`linkedin_to_md/`](linkedin_to_md/) | LinkedIn xlsx archive | 🚧 in progress | — |
+| [`linkedin_to_md/`](linkedin_to_md/) | LinkedIn Pulse | **working** — 217 articles, 244 K words | `linkedin#1.md` + per-article MDs + xlsx |
+| [`free_blogs_md/`](free_blogs_md/) | Jack's free blog (PDF dump) | **working** — 253 blogs, 1.44 M words | `free-blogs#1.md`..`free-blogs#3.md` + per-blog MDs + xlsx |
 | [`website_to_md/`](website_to_md/) | Generic web scraper | **legacy / reference** | One MD per site — kept for posterity |
 
 `website_to_md/` is the original general-purpose scraper that every other module was built from. It's not part of the kruse content set — keep it tracked for reference only. New sources should fork into a new sibling module, not extend this codebase.
+
+## Roadmap
+
+See [`FUTURE_IMPROVEMENTS.md`](FUTURE_IMPROVEMENTS.md) for upcoming work — weekly auto-update job (Patreon + forum delta), Q&A audio → text → vector DB → RAG, and smaller wins. Each item also tracked as a GitHub Issue.
 
 ## Authors
 
