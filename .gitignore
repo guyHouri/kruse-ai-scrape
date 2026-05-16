@@ -28,9 +28,9 @@
 # --- Source PDFs (big, regenerable from upstream) ---
 free_blogs_md/*.pdf
 
-# --- kemono_to_md: lives in a SEPARATE PRIVATE repo (Patreon mirror — copyright sensitive) ---
-# See PRIVATE_MODULES.md for the submodule add procedure.
-kemono_to_md/
+# --- private/ is a git submodule pointing at kruse-ai-scrape-private ---
+# Do NOT ignore it — submodules need their pointer tracked.
+# See PRIVATE_MODULES.md.
 
 # --- Scraper state (regenerable from source) ---
 **/threads.json

@@ -7,7 +7,7 @@ Each source has its own self-contained Node.js scraper under this repo root. Mod
 ```
 kruse-ai-scrape/
 ├── forum_to_md/            forum.jackkruse.com (XenForo) — 19,800 threads, ~25M words
-├── kemono_to_md/           [PRIVATE SUBMODULE] Kemono Patreon mirror — see PRIVATE_MODULES.md
+├── private/                [SUBMODULE] private modules (kemono, future Q&A RAG) — see PRIVATE_MODULES.md
 ├── threadreader_to_md/     Thread Reader App / X tweet-thread archive
 ├── linkedin_to_md/         LinkedIn Pulse archive (xlsx + Playwright scrape)
 ├── free_blogs_md/          Jack's free blog posts compiled from PDF
@@ -70,7 +70,7 @@ Full instructions in [`forum_to_md/README.md`](forum_to_md/README.md) and [`foru
 | Module | Source | State | Output |
 |---|---|---|---|
 | [`forum_to_md/`](forum_to_md/) | `forum.jackkruse.com` | **working** — 19,800 threads, 21+ M words | `forum#1.md`..`forum#N.md` + `jack-threads-*.md` + category bundles + per-thread MDs + xlsx |
-| [`kemono_to_md/`](kemono_to_md/) | Kemono Patreon mirror | **private submodule** ([why](PRIVATE_MODULES.md)) | `blogs-*.md` series + per-article MDs |
+| [`private/kemono_to_md/`](PRIVATE_MODULES.md) | Kemono Patreon mirror | **private submodule** ([why](PRIVATE_MODULES.md)) | `blogs-*.md` series + per-article MDs |
 | [`threadreader_to_md/`](threadreader_to_md/) | Thread Reader App | **working** | `tweet-threads*.md` + per-thread MDs |
 | [`linkedin_to_md/`](linkedin_to_md/) | LinkedIn Pulse | **working** — 217 articles, 244 K words | `linkedin#1.md` + per-article MDs + xlsx |
 | [`free_blogs_md/`](free_blogs_md/) | Jack's free blog (PDF dump) | **working** — 253 blogs, 1.44 M words | `free-blogs#1.md`..`free-blogs#3.md` + per-blog MDs + xlsx |

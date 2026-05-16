@@ -1,105 +1,91 @@
 # Private modules
 
-Some modules in this project consume content with sensitive copyright / ToS posture (Patreon mirrors, paid feeds, etc.) and live in **separate private repositories** rather than in this public repo. They are attached as **git submodules**, so the directory exists in the working tree on your machine, but the public repo only stores a pointer to the private commit hash.
+Some modules and data in this project have a sensitive copyright / ToS posture (Patreon mirrors, paid audio transcripts, etc.) and live in a **separate private repository** rather than in this public repo.
 
-A contributor without access to the private repo simply gets an empty `kemono_to_md/` directory after cloning — the public scrapers all still build and run fine without it.
-
----
-
-## Current private modules
-
-| Module | Why private | Private repo |
-|---|---|---|
-| [`kemono_to_md/`](kemono_to_md/) | Patreon mirror scraper. The Kemono service itself is a piracy aggregator; even though Jack Kruse is the original copyright holder of the content, redistributing a scraper preset that explicitly targets a piracy aggregator in a public repo is a poor look and a likely DMCA target. | `git@github.com:guyHouri/kruse-ai-scrape-kemono.git` *(create when first using)* |
+They're attached as **one git submodule at `private/`** mapped to `kruse-ai-scrape-private`. The public repo only stores a pointer to the private commit hash — anyone without access to the private repo gets an empty `private/` directory after cloning, and all public scrapers (forum, linkedin, free_blogs, etc.) build and run fine without it.
 
 ---
 
-## One-time setup — create the private repo (repo owner only)
+## Layout
 
-If the private repo doesn't exist yet:
+```
+kruse-ai-scrape/                          public repo
+├── forum_to_md/                          public
+├── linkedin_to_md/                       public
+├── free_blogs_md/                        public
+├── private/                              ← submodule → kruse-ai-scrape-private
+│   ├── README.md
+│   ├── .gitignore
+│   ├── kemono_to_md/                     Patreon mirror scraper
+│   ├── qa_rag/             (future)      Q&A audio → transcripts → RAG (see FUTURE_IMPROVEMENTS §2)
+│   └── weekly_updater/patreon/  (future) Weekly Patreon delta extracts
+└── …
+```
 
-1. On GitHub: **New repository** → name `kruse-ai-scrape-kemono` → **Private** → no README/license/gitignore (we already have one in the working tree).
-2. On your machine, push the existing `kemono_to_md/` directory as its own repo root:
-
-   ```sh
-   cd "D:/kruse/guy export/kemono_to_md"
-   git init
-   git add .
-   git commit -m "Initial import — kemono_to_md from kruse-ai-scrape"
-   git branch -M main
-   git remote add origin git@github.com:guyHouri/kruse-ai-scrape-kemono.git
-   git push -u origin main
-   ```
-
-3. From the public repo root, register it as a submodule:
-
-   ```sh
-   cd "D:/kruse/guy export"
-   # the directory already exists locally, so use --force
-   git submodule add --force git@github.com:guyHouri/kruse-ai-scrape-kemono.git kemono_to_md
-   git add .gitmodules
-   git commit -m "Add kemono_to_md as private submodule"
-   git push
-   ```
-
-4. **Remove `kemono_to_md/` from `.gitignore`** once it's a submodule — submodules need to be tracked at the pointer level. Replace the `kemono_to_md/` line with a comment noting it's a submodule.
+| Module | Why private |
+|---|---|
+| `private/kemono_to_md/` | Kemono is a piracy aggregator; even though Jack Kruse holds the original copyright, redistributing a scraper targeting that domain in a public repo is a DMCA target. |
+| `private/qa_rag/` *(future)* | Paid Patreon Q&A audio + transcripts. Pipeline code can stay public; raw audio + transcripts stay private. |
+| `private/weekly_updater/patreon/` *(future)* | Weekly Patreon delta extracts. Same reason. |
 
 ---
 
-## Contributor workflow — cloning the public repo
+## Contributor workflow
 
-Without access to the private repo (most contributors):
+### Without access to the private repo (most contributors)
 
 ```sh
 git clone https://github.com/guyHouri/kruse-ai-scrape.git
 cd kruse-ai-scrape
-# kemono_to_md/ stays empty — public scrapers (forum, linkedin, free_blogs, etc.) all work without it
+# private/ stays empty — submodule init will fail with 403, ignore.
+# public scrapers (forum_to_md, linkedin_to_md, free_blogs_md) all work without it.
 ```
 
-With access to the private repo (you / approved collaborators):
+### With access (project owner + approved collaborators)
 
 ```sh
-git clone --recurse-submodules git@github.com:guyHouri/kruse-ai-scrape.git
-# OR if already cloned without submodules:
+git clone --recurse-submodules https://github.com/guyHouri/kruse-ai-scrape.git
+# OR after a plain clone:
 git submodule update --init --recursive
 ```
 
 ---
 
-## Why submodule and not just a separate repo entirely?
+## Updating the private module
 
-We considered three options:
-
-1. **Two unrelated repos** — clean separation, but you lose the single-clone "all of Jack's content" story.
-2. **Monorepo with private folder** — impossible, GitHub privacy is per-repo not per-folder.
-3. **Public repo + private submodule** ← chosen. Single clone for users with access, clean public face for everyone else, separate access control via the private repo.
-
-The submodule pointer in the public repo only reveals the *existence* of the private module and its commit hash — not any of the code or content. Anyone without read access on the private repo can't resolve the pointer.
-
----
-
-## Rolling the private module forward
-
-When you update kemono_to_md:
+Edit files inside `private/`, then:
 
 ```sh
-cd kemono_to_md
-# ... make changes ...
+cd private
 git add . && git commit -m "..." && git push
 
 cd ..
-git add kemono_to_md         # this commits the new submodule pointer
-git commit -m "Bump kemono_to_md pointer"
+git add private              # bumps the submodule pointer in the public repo
+git commit -m "Bump private pointer"
 git push
 ```
 
+The public repo records *only the new commit hash*, not the actual changes — no private content leaks.
+
 ---
 
-## Future modules that might go private
+## Why one submodule (not one per private module)?
 
-Anticipated, not built yet:
+Considered: separate submodule per private module (`kemono_to_md` + `qa_rag` + …). Rejected because:
 
-- `qa_rag/audio/` and `qa_rag/transcripts/raw/` — see FUTURE_IMPROVEMENTS.md #2. Transcripts of paid Patreon Q&A specifically. The pipeline code can stay public; the actual audio/transcripts go in a private storage bucket OR private submodule.
-- `weekly_updater/processed_mds/patreon/` — same reason. Patreon delta extracts can live in a private submodule alongside kemono.
+- More moving parts → more places to forget to push / pull.
+- All private modules share the same access list anyway (project owner).
+- Single submodule = single private repo = single PAT/SSH key to rotate when secrets leak.
 
-Both are deferred — flag here so they're not forgotten when those modules ship.
+If a future module ever needs different access control, split then.
+
+---
+
+## What the public repo reveals
+
+The public repo's `.gitmodules` discloses:
+
+- The private repo's URL (`https://github.com/guyHouri/kruse-ai-scrape-private.git`).
+- The current commit hash the public repo is pinned to.
+
+It does **NOT** disclose any private file contents, structure, names, or sizes. A 403 on the private repo URL means nothing more than "this is a private repo, ask for access" — same surface area as referencing it in a README.
