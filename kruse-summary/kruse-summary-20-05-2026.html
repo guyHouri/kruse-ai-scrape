@@ -1,0 +1,341 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kruse Report 20/05/2026</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --bg-color: #0b0f19;
+        --card-bg: #151c2c;
+        --text-color: #f3f4f6;
+        --text-muted: #9ca3af;
+        --accent-color: #3b82f6;
+        --accent-hover: #60a5fa;
+        --locked-color: #4b5563;
+      }
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        font-family: "Assistant", sans-serif;
+      }
+
+      body {
+        background-color: var(--bg-color);
+        color: var(--text-color);
+        padding: 40px 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+      }
+
+      .container {
+        width: 100%;
+        max-width: 650px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+      }
+
+      header {
+        text-align: center;
+        margin-bottom: 10px;
+      }
+
+      h1 {
+        font-size: 2.3rem;
+        font-weight: 700;
+        letter-spacing: -0.5px;
+        background: linear-gradient(45deg, #3b82f6, #9333ea);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-bottom: 4px;
+      }
+
+      .subtitle {
+        font-size: 1rem;
+        color: var(--text-muted);
+        font-weight: 300;
+      }
+
+      .section-title {
+        font-size: 1.3rem;
+        font-weight: 700;
+        color: var(--accent-hover);
+        border-bottom: 1px solid #24314b;
+        padding-bottom: 6px;
+        margin-top: 10px;
+      }
+
+      .card {
+        background-color: var(--card-bg);
+        border: 1px solid #202b42;
+        border-radius: 12px;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        transition: border-color 0.2s ease;
+      }
+
+      .card:hover {
+        border-color: #2e3e5f;
+      }
+
+      .card-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .tag {
+        background-color: #1e293b;
+        color: #3b82f6;
+        padding: 2px 10px;
+        border-radius: 20px;
+        font-size: 0.8rem;
+        font-weight: 600;
+      }
+
+      .item-text {
+        font-size: 1.05rem;
+        line-height: 1.5;
+        color: #e5e7eb;
+      }
+
+      .bullet-list {
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+      }
+
+      .bullet-list li {
+        position: relative;
+        padding-right: 18px;
+        line-height: 1.5;
+        font-size: 1.05rem;
+      }
+
+      .bullet-list li::before {
+        content: "•";
+        color: var(--accent-color);
+        font-weight: bold;
+        position: absolute;
+        right: 0;
+        top: 0;
+      }
+
+      .expandable-concept {
+        color: #60a5fa;
+        border-bottom: 1px dashed #60a5fa;
+        cursor: pointer;
+        font-weight: 600;
+      }
+
+      .expanded-content {
+        max-height: 0;
+        overflow: hidden;
+        background-color: #0f1524;
+        border-radius: 6px;
+        padding: 0 12px;
+        transition:
+          max-height 0.25s ease,
+          padding 0.25s ease,
+          margin 0.25s ease;
+        font-size: 0.95rem;
+        color: #cbd5e1;
+      }
+
+      .expanded-content.open {
+        max-height: 250px;
+        padding: 10px 12px;
+        margin-top: 8px;
+        border-right: 3px solid #3b82f6;
+      }
+
+      .locked-section {
+        background: linear-gradient(180deg, var(--card-bg) 0%, #111622 100%);
+        border: 1px dashed #2d3748;
+        border-radius: 12px;
+        padding: 24px;
+        text-align: center;
+        opacity: 0.8;
+      }
+
+      .locked-title {
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: var(--locked-color);
+        margin-bottom: 4px;
+      }
+
+      .locked-badge {
+        font-size: 0.7rem;
+        background-color: #27272a;
+        color: #a1a1aa;
+        padding: 1px 6px;
+        border-radius: 4px;
+        font-weight: 700;
+        margin-right: 6px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <header>
+        <h1>Kruse Report 20/05/2026</h1>
+        <div class="subtitle">תובנות ומחקרים מזוקקים ללא בולשיט</div>
+      </header>
+
+      <!-- TWITTER SECTION -->
+      <div class="section-title">עדכוני טוויטר</div>
+
+      <!-- Alpha-Gal -->
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">בריאות ומחקר</span>
+        </div>
+        <div class="item-text">
+          <strong>אלרגיה לבשר (AGS):</strong> דיקור באוזן (שיטת SAAT) תופס תאוצה
+          כטיפול ב<span
+            class="expandable-concept"
+            onclick="toggleConcept('alpha-gal')"
+            >תסמונת אלפא גל</span
+          >. קרוז טוען שיש קיצור דרך קל וזול יותר: עיסוי/גירוי עצב הוואגוס באוזן
+          (Transauricular VNS) יעבוד טוב ומהיר יותר.
+        </div>
+        <div id="alpha-gal" class="expanded-content">
+          <strong>אלפא-גל (AGS):</strong> אלרגיה קשה לבשר מיונקים המתפתחת בעקבות
+          עקיצת קרצייה, המשבשת את התגובה החיסונית לסוכר מסוג אלפא-גל.
+        </div>
+      </div>
+
+      <!-- Orange Groves / Dielectric Collapse -->
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">ביופיזיקה וגיאולוגיה</span>
+        </div>
+        <div class="item-text">
+          <strong>קריסת מטעי התפוזים בפלורידה:</strong> המדע הממסדי מאשים חיידק,
+          אך קרוז מסביר שמדובר ב<span
+            class="expandable-concept"
+            onclick="toggleConcept('deuterium-groves')"
+            >קריסה דיאלקטרית של מי התהום</span
+          >
+          עקב עומס קרינת nnEMF וסלולר. המים מאבדים את המבנה המאורגן שלהם (EZ),
+          והעצים סופגים מים כבדים רוויי דאוטריום שתוקעים את המיטוכונדריה של
+          הצמח. החיידק הוא רק "צוות הניקיון" שמגיע לתאים מתים.
+        </div>
+        <div id="deuterium-groves" class="expanded-content">
+          קרינת ה-nnEMF שוברת את שכבות המים המובנים (EZ water) באקוויפר
+          התת-קרקעי, מה שמונע מהאדמה לסנן החוצה את הדאוטריום (האיזוטופ הכבד של
+          המימן). העצים סופגים את המים הכבדים הללו, וחלקיקי הדאוטריום הכפולים
+          במשקלם מרסקים מכנית את ננו-מנועי ה-ATP synthase של המטבח התאי.
+        </div>
+      </div>
+
+      <!-- Earth Core Dynamo / Hydrogen -->
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">גיאומגנטיקה ודינמו</span>
+        </div>
+        <div class="item-text">
+          <strong>הסכנה ששואבים מימן מהאדמה:</strong> מדענים גילו מאגרי ענק של
+          מימן טבעי בתת-הקרקע (טריליוני טונות). קרוז מתריע מפני פגיעה אנושית
+          בדינמו של כדור הארץ (Geomagnetic Dipole). מחקר מ-Science Advances
+          מוכיח קשר ישיר של 540 מיליון שנה בין רמות החמצן באטמוספירה ובין חוזק
+          השדה המגנטי של כדור הארץ – פגיעה או שאיבה של המימן התת-קרקעי תערער את
+          המערכת התרמודינמית הפתוחה של כדור הארץ.
+        </div>
+      </div>
+
+      <!-- Geometric Antennas -->
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">גיאומטריה קוונטית</span>
+        </div>
+        <div class="item-text">
+          <strong>ננו-אנטנות גיאומטריות (7, 12, 21 סיבובים):</strong> קרוז מסביר
+          שסליל נחושת שטוח שהופך לוורטקס תלת-מימדי משמש כאנטנה תרמודינמית. סליל
+          של 7 סיבובים משמש כמהדהד הרמוני המארגן את רשת המים התאית. סלילים של 12
+          או 21 סיבובים פועלים לפי חוקי פיבונאצ'י ומרכזים אנרגיה סביבתית המשתלבת
+          ישירות עם מבנה כרומוזום 2 האנושי.
+        </div>
+      </div>
+
+      <!-- NEW PODCAST NOTIFICATION -->
+      <div class="card" style="border-right: 4px solid #10b981">
+        <div class="card-header">
+          <span class="tag" style="background-color: #064e3b; color: #34d399"
+            >עדכון חם: פודקאסט חדש</span
+          >
+        </div>
+        <div class="item-text">
+          <strong>התראת סריקה אוטומטית:</strong> זוהה אזכור לפודקאסט/ראיון חדש
+          של ג'ק קרוז על ביופיזיקה קוונטית, ארכיטקטורה עתיקה (Nazca/Huaca
+          Yolanda) וקריסת מודל הרפואה הדו-ממדית של רוקפלר. קובץ השמע נכנס כעת
+          לתור התמלול האוטומטי.
+        </div>
+      </div>
+
+      <!-- FORUM SECTION -->
+      <div class="section-title">מהנעשה בפורום</div>
+
+      <div class="card">
+        <ul class="bullet-list">
+          <li>
+            <strong>פרוטוקול 40 הרץ:</strong> חברי הפורום דנים ביתרונות התדר
+            (עירור מוחי/מיטוכונדריה) ומחליפים מאמרים בנושא.
+          </li>
+          <li>
+            <strong>אלרגיה לשמש ודאוטריום:</strong> קרוז מקשר ישירות בין רמות
+            דאוטריום גבוהות בגוף לבין רגישות ואלרגיה לקרינת השמש.
+          </li>
+          <li>
+            <strong>קישור ויטיליגו לבלוג CPC 81:</strong> עלה קישור בין מחלת
+            ה<span
+              class="expandable-concept"
+              onclick="toggleConcept('vitiligo')"
+              >ויטיליגו</span
+            >
+            לבין תובנות מבלוג CPC 81 של קרוז (הקשר ביופיזי/רדוקס).
+            <div id="vitiligo" class="expanded-content">
+              <strong>ויטיליגו (בהרת):</strong> מחלה אוטואימונית שבה תאי מערכת
+              החיסון תוקפים את המלנוציטים (התאים האחראים על צבע העור), מה שגורם
+              להופעת כתמים לבנים על העור.
+            </div>
+          </li>
+          <li>
+            <strong>סכנת התקרקעות מרשת החשמל:</strong> אזהרה מפני התקרקעות
+            (Grounding) שמחוברת ישירות למערכת החשמל הביתית, בשל זיהום חשמלי
+            ("חשמל מלוכלך") שעלול לזרום הפוך אל הגוף.
+          </li>
+        </ul>
+      </div>
+
+      <!-- ASK AI LOCKED -->
+      <div class="locked-section">
+        <div class="locked-title">
+          <span>צ'אט עם הדו"ח (Ask AI)</span>
+          <span class="locked-badge">Soon</span>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      function toggleConcept(id) {
+        const content = document.getElementById(id);
+        content.classList.toggle("open");
+      }
+    </script>
+  </body>
+</html>

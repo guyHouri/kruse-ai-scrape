@@ -1,0 +1,26 @@
+{
+  "name": "twitter_to_md",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Scrape @DrJackKruse tweets (incl. reply-chain context) into per-day JSON files via twitterapi.io.",
+  "homepage": "https://github.com/guyhouri/kruse-ai-scrape",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guyhouri/kruse-ai-scrape.git",
+    "directory": "twitter_to_md"
+  },
+  "author": "Guy Houri <guyhouri.tech@gmail.com>",
+  "contributors": [
+    "Amit Streit"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js",
+    "today": "node main.js --today",
+    "test": "node main.js --test"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

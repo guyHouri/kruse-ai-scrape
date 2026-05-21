@@ -1,0 +1,150 @@
+{
+  "date": "2026-05-21",
+  "handle": "DrJackKruse",
+  "fetched_at": "2026-05-21T13:25:30.445Z",
+  "source": {
+    "backend": "x-api-v2",
+    "endpoint": "/2/users/:id/tweets"
+  },
+  "tweet_count": 3,
+  "tweets": [
+    {
+      "id": "2057449884777582600",
+      "url": "https://x.com/DrJackKruse/status/2057449884777582600",
+      "created_at": "2026-05-21T13:14:12.000Z",
+      "text": "8 years ago I did this with Scott.  Here is what has said a few days ago.  Scott said, \"Well, here's a little trip down memory lane, as some people have brought this video back to life that I recorded with Dr. Jack Kruse back in 2017. As many are aware, I've been a follower of",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2057449884777582600",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 11,
+        "retweets": 2,
+        "replies": 1,
+        "quotes": 0,
+        "views": 725
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2057271433777078547",
+      "url": "https://x.com/DrJackKruse/status/2057271433777078547",
+      "created_at": "2026-05-21T01:25:06.000Z",
+      "text": "Few understand the biophysics of de-fragging the water lattice https://t.co/LdMr2mgJPf",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2057271433777078547",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057166468647686551",
+        "url": "https://x.com/MidwesternDoc/status/2057166468647686551",
+        "created_at": "2026-05-20T18:28:01.000Z",
+        "text": "A lot of people have reported this to me https://t.co/3znFSIEgmc",
+        "lang": "en",
+        "author": {
+          "id": "1602472683421081600",
+          "username": "MidwesternDoc",
+          "name": "A Midwestern Doctor"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2057166468647686551",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 1772,
+          "retweets": 330,
+          "replies": 84,
+          "quotes": 7,
+          "views": 199175
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 144,
+        "retweets": 9,
+        "replies": 8,
+        "quotes": 0,
+        "views": 23033
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2057266558649401351",
+      "url": "https://x.com/DrJackKruse/status/2057266558649401351",
+      "created_at": "2026-05-21T01:05:44.000Z",
+      "text": "The dyanmo failing.  Magnetic flux  turing to entropy. https://t.co/vwyOp1eEis",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2057266558649401351",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057236318388731933",
+        "url": "https://x.com/EthicalSkeptic/status/2057236318388731933",
+        "created_at": "2026-05-20T23:05:34.000Z",
+        "text": "Week 13 after the 2026 SST heat pulse commenced, and yet \n\n1.  Still no Revenge of El Niño\n2. No Hunga-Tonga latitudinal water vapor banding\n3. No Sulfur dioxide clustering or banding\n4. No solar declination/seasonal effect\n\nInstead we see an upwelling convection difussion very https://t.co/Fvt8WSeqyx",
+        "lang": "en",
+        "author": {
+          "id": "2704681687",
+          "username": "EthicalSkeptic",
+          "name": "Ethical Skeptic ☀"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2057236318388731933",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 381,
+          "retweets": 61,
+          "replies": 18,
+          "quotes": 5,
+          "views": 26275
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 65,
+        "retweets": 11,
+        "replies": 0,
+        "quotes": 0,
+        "views": 9605
+      },
+      "thread_context": []
+    }
+  ]
+}

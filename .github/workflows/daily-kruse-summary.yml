@@ -1,0 +1,102 @@
+name: Daily Kruse Summary
+
+on:
+  schedule:
+    # Hourly during the pre-sunrise window for Jerusalem year-round.
+    # Sunrise varies ~03:30 UTC summer to ~04:40 UTC winter; 1h before = 02:30-03:40.
+    # Fire every 30 min from 02:00 to 04:30 UTC so the in-window check fires precisely.
+    - cron: '0,30 2-4 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Run mode'
+        required: false
+        default: 'normal'
+        type: choice
+        options:
+          - normal
+          - force
+          - v2-test
+          - build-only
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-kruse-summary
+  cancel-in-progress: false
+
+jobs:
+  scrape-and-send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Determine target date
+        id: target
+        run: |
+          if [ "${{ github.event.inputs.mode }}" = "v2-test" ]; then
+            echo "skip_scrape=true" >> $GITHUB_OUTPUT
+            echo "Skipping scrape — v2-test mode"
+          else
+            YESTERDAY=$(date -u -d 'yesterday' +%Y-%m-%d)
+            echo "date=$YESTERDAY" >> $GITHUB_OUTPUT
+            # Skip scrape if we already have a non-empty file for that date.
+            if [ -f "twitter_to_md/data/${YESTERDAY}.json" ]; then
+              COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('twitter_to_md/data/${YESTERDAY}.json','utf8')).tweet_count||0)")
+              if [ "$COUNT" -gt 0 ]; then
+                echo "skip_scrape=true" >> $GITHUB_OUTPUT
+                echo "Already have ${COUNT} tweets for ${YESTERDAY} — skipping scrape"
+              else
+                echo "skip_scrape=false" >> $GITHUB_OUTPUT
+              fi
+            else
+              echo "skip_scrape=false" >> $GITHUB_OUTPUT
+            fi
+          fi
+
+      - name: Install twitter_to_md
+        if: steps.target.outputs.skip_scrape != 'true'
+        working-directory: twitter_to_md
+        run: npm install
+
+      - name: Scrape target date
+        if: steps.target.outputs.skip_scrape != 'true'
+        working-directory: twitter_to_md
+        env:
+          XAPI_BEARER_TOKEN: ${{ secrets.XAPI_BEARER_TOKEN }}
+        run: node main.js --date=${{ steps.target.outputs.date }}
+
+      - name: Install kruse-summary
+        working-directory: kruse-summary
+        run: npm install
+
+      - name: Build + maybe send report
+        working-directory: kruse-summary
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          LOCATION_LAT: ${{ vars.LOCATION_LAT }}
+          LOCATION_LON: ${{ vars.LOCATION_LON }}
+        run: |
+          MODE="${{ github.event.inputs.mode }}"
+          case "$MODE" in
+            v2-test)    node main.js --send-v2-test ;;
+            force)      node main.js --force ;;
+            build-only) node main.js --build-only ;;
+            *)          node main.js ;;
+          esac
+
+      - name: Commit scraped data + state back
+        run: |
+          git config user.name "kruse-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add twitter_to_md/data kruse-summary/last-sent.json || true
+          git diff --cached --quiet || git commit -m "daily: scrape + send $(date -u +%Y-%m-%d)"
+          git push || true

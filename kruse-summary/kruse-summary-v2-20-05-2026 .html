@@ -1,0 +1,518 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kruse Report 20/05/2026</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --bg-color: #0b0f19;
+        --card-bg: #151c2c;
+        --text-color: #f3f4f6;
+        --text-muted: #9ca3af;
+        --accent-color: #3b82f6;
+        --accent-hover: #60a5fa;
+        --locked-color: #4b5563;
+      }
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        font-family: "Inter", sans-serif;
+      }
+
+      body {
+        background-color: var(--bg-color);
+        color: var(--text-color);
+        padding: 40px 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+      }
+
+      .container {
+        width: 100%;
+        max-width: 650px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+      }
+
+      header {
+        text-align: center;
+        margin-bottom: 10px;
+      }
+
+      h1 {
+        font-size: 2.3rem;
+        font-weight: 700;
+        letter-spacing: -0.5px;
+        background: linear-gradient(45deg, #3b82f6, #9333ea);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-bottom: 4px;
+      }
+
+      .subtitle {
+        font-size: 1rem;
+        color: var(--text-muted);
+        font-weight: 300;
+      }
+
+      .section-title {
+        font-size: 1.3rem;
+        font-weight: 700;
+        color: var(--accent-hover);
+        border-bottom: 1px solid #24314b;
+        padding-bottom: 6px;
+        margin-top: 10px;
+      }
+
+      .card {
+        background-color: var(--card-bg);
+        border: 1px solid #202b42;
+        border-radius: 12px;
+        padding: 16px 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        transition: border-color 0.2s ease;
+      }
+
+      .card:hover {
+        border-color: #2e3e5f;
+      }
+
+      .card-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .tag {
+        background-color: #1e293b;
+        color: #3b82f6;
+        padding: 2px 10px;
+        border-radius: 20px;
+        font-size: 0.8rem;
+        font-weight: 600;
+      }
+
+      .source-link {
+        font-size: 0.8rem;
+        color: var(--text-muted);
+        text-decoration: none;
+        border-bottom: 1px dashed var(--text-muted);
+        transition: all 0.2s ease;
+      }
+
+      .source-link:hover {
+        color: var(--accent-hover);
+        border-bottom-color: var(--accent-hover);
+      }
+
+      .item-text {
+        font-size: 1rem;
+        line-height: 1.45;
+        color: #e5e7eb;
+      }
+
+      .bullet-list {
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+      }
+
+      .bullet-list li {
+        position: relative;
+        padding-left: 18px;
+        line-height: 1.45;
+        font-size: 1rem;
+      }
+
+      .bullet-list li::before {
+        content: "•";
+        color: var(--accent-color);
+        font-weight: bold;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+
+      .forum-item {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+      }
+
+      .forum-meta {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+      }
+
+      .expandable-concept {
+        color: #60a5fa;
+        border-bottom: 1px dashed #60a5fa;
+        cursor: pointer;
+        font-weight: 600;
+      }
+
+      .expanded-content {
+        max-height: 0;
+        overflow: hidden;
+        background-color: #0f1524;
+        border-radius: 6px;
+        padding: 0 12px;
+        transition:
+          max-height 0.25s ease,
+          padding 0.25s ease,
+          margin 0.25s ease;
+        font-size: 0.9rem;
+        color: #cbd5e1;
+      }
+
+      .expanded-content.open {
+        max-height: 250px;
+        padding: 10px 12px;
+        margin-top: 6px;
+        border-left: 3px solid #3b82f6;
+      }
+
+      .locked-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 15px;
+      }
+
+      @media (max-width: 500px) {
+        .locked-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      .locked-section {
+        background: linear-gradient(180deg, var(--card-bg) 0%, #111622 100%);
+        border: 1px dashed #2d3748;
+        border-radius: 12px;
+        padding: 18px;
+        text-align: center;
+        opacity: 0.8;
+      }
+
+      .locked-title {
+        font-size: 1rem;
+        font-weight: 600;
+        color: #e5e7eb;
+        margin-bottom: 4px;
+      }
+
+      .locked-desc {
+        font-size: 0.8rem;
+        color: var(--text-muted);
+        margin-bottom: 8px;
+      }
+
+      .locked-badge {
+        font-size: 0.7rem;
+        background-color: #27272a;
+        color: #a1a1aa;
+        padding: 2px 6px;
+        border-radius: 4px;
+        font-weight: 700;
+        display: inline-block;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <header>
+        <h1>Kruse Report 20/05/2026</h1>
+        <div class="subtitle">
+          Cutting-edge biophysical vectors. No entry-level fluff.
+        </div>
+      </header>
+
+      <!-- TWITTER / SOURCE SECTION -->
+      <div class="section-title">Field Updates</div>
+
+      <!-- Alpha-Gal -->
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Neuromodulation Protocol</span>
+          <a
+            href="https://x.com/drjackkruse"
+            target="_blank"
+            class="source-link"
+            >Read full source →</a
+          >
+        </div>
+        <div class="item-text">
+          <strong>Alpha-Gal Remission Protocol:</strong> Bypassing complex
+          clinical auricular needling (SAAT), Kruse notes that targeted
+          <span class="expandable-concept" onclick="toggleConcept('alpha-gal')"
+            >Transauricular VNS</span
+          >
+          (Vagus Nerve Stimulation) accelerates autonomic recovery to clear
+          tick-induced mammalian meat allergies cheaper and faster.
+        </div>
+        <div id="alpha-gal" class="expanded-content">
+          <strong>Transauricular VNS:</strong> Utilizing non-invasive
+          microcurrent stimulation on the auricular branch of the vagus nerve to
+          rapidly scale parasympathetic baseline tolerance, overriding the
+          abnormal immune response to the alpha-gal carbohydrate.
+        </div>
+      </div>
+
+      <!-- Orange Groves / Dielectric Collapse -->
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Aquifer Biophysics</span>
+          <a
+            href="https://x.com/drjackkruse"
+            target="_blank"
+            class="source-link"
+            >Read full source →</a
+          >
+        </div>
+        <div class="item-text">
+          <strong>Systemic Dielectric Sub-Aquifer Collapse:</strong> The 95%
+          crash of Florida's citrus industry serves as an explicit case study of
+          localized
+          <span
+            class="expandable-concept"
+            onclick="toggleConcept('deuterium-groves')"
+            >water table permittivity collapse</span
+          >
+          under unshielded nnEMF grids. The soil's sorting matrix breaks down,
+          loading the vegetation with un-separated Deuterium that deforms plant
+          Fo/Fi nanomotors to zero RPM.
+        </div>
+        <div id="deuterium-groves" class="expanded-content">
+          <strong>Permittivity Collapse Mechanics:</strong> High-density
+          technosphere radiation forces aquifer structured water (k=160) down to
+          bulk, amorphous water (k=78). Deprived of the EZ structural sorting
+          matrix, the soil can no longer separate light protium from heavy
+          Deuterium, creating an isotopic centrifuge reversal.
+        </div>
+      </div>
+
+      <!-- Earth Core Dynamo / Hydrogen -->
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Geomagnetic Dynamo</span>
+          <a
+            href="https://x.com/drjackkruse"
+            target="_blank"
+            class="source-link"
+            >Read full source →</a
+          >
+        </div>
+        <div class="item-text">
+          <strong>Sub-Surface White Hydrogen Risks:</strong> Extracting newly
+          discovered underground native hydrogen reserves threatens Earth's core
+          dynamo. A recent <i>Science Advances</i> paper tracks a
+          540-million-year direct coupling between atmospheric/oceanic oxygen
+          shifts and geomagnetic dipole intensity—proving the planet's core is
+          an open thermodynamic engine vulnerable to human hydrogen depletion.
+        </div>
+      </div>
+
+      <!-- Geometric Antennas -->
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Quantum Geometry</span>
+          <a
+            href="https://x.com/drjackkruse"
+            target="_blank"
+            class="source-link"
+            >Read full source →</a
+          >
+        </div>
+        <div class="item-text">
+          <strong>Spintronic Vortex Resonators:</strong> Scaling laws alter
+          material physics. A 7-turn spiral copper cone acts as a standing wave
+          resonator for the intracellular water lattice (k=160). Left-handed 12
+          and 21-turn copper cones act as macroscopic vortex concentrators
+          following Fibonacci scaling (Phi) to interface with the human-specific
+          Chromosome 2 interstitial telomeric loop (ITL).
+        </div>
+      </div>
+
+      <!-- LATEST PODCAST SECTION -->
+      <div class="section-title">New Discoveries (Podcast A-14XhsMqDM)</div>
+      <div class="card" style="border-left: 4px solid #10b981">
+        <div class="card-header">
+          <span class="tag" style="background-color: #064e3b; color: #34d399"
+            >Advanced Mechanics</span
+          >
+          <a
+            href="https://www.youtube.com/watch?v=A-14XhsMqDM&t=5236s"
+            target="_blank"
+            class="source-link"
+            style="color: #34d399; border-bottom-color: #34d399"
+            >Watch full episode →</a
+          >
+        </div>
+        <div class="item-text" style="font-weight: 600; margin-bottom: 4px">
+          Archeological Waveguides & Field Transition Mitigation
+        </div>
+        <ul class="bullet-list" style="font-size: 0.95rem; color: #cbd5e1">
+          <li>
+            <strong>Ancient Paramagnetic Shielding:</strong> Pre-ceramic
+            structures like Huaca Yolanda and the spiral puquios of Nazca
+            functioned as macro-scale earth-coupled stone waveguides. They
+            leveraged the Ghyben-Herzberg lens to protect and isolate
+            low-deuterium water tables during historical zero-field magnetic
+            excursions.
+          </li>
+          <li>
+            <strong>Information vs. Noise:</strong> Restoring complex biological
+            information or structural cellular order requires generating massive
+            internal Redox Potential specifically to overcome local technosphere
+            thermodynamic noise according to
+            <span class="expandable-concept" onclick="toggleConcept('landauer')"
+              >Landauer’s Principle</span
+            >.
+          </li>
+          <div id="landauer" class="expanded-content">
+            <strong>Landauer's Principle:</strong> A physical law establishing
+            that any logically irreversible manipulation of information (such as
+            erasing a bit or correcting a corrupted cellular state) always
+            dissipates a minimum, unavoidable amount of heat to its
+            surroundings. In biophysics, you cannot reverse structural disorder
+            without injecting a massive thermodynamic cost via Redox Potential.
+          </div>
+          <li>
+            <strong>Magnetoculture Grid Setup:</strong> Navigating the rapid
+            global dipole collapse requires establishing localized
+            magnetoculture shielding grids utilizing quartz-dense stones to
+            stabilize local soil dielectric constants.
+          </li>
+        </ul>
+      </div>
+
+      <!-- FORUM SECTION -->
+      <div class="section-title">Forum Insights</div>
+
+      <div class="card">
+        <ul class="bullet-list">
+          <li>
+            <div class="forum-item">
+              <div class="forum-meta">
+                <strong>40 Hz Protocol:</strong>
+                <a
+                  href="https://forum.jackkruse.com"
+                  target="_blank"
+                  class="source-link"
+                  >See full thread →</a
+                >
+              </div>
+              <div class="item-text" style="color: #cbd5e1; font-size: 0.95rem">
+                Exchanging current papers on neural entrainment and direct
+                mitochondrial stimulation.
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="forum-item">
+              <div class="forum-meta">
+                <strong>Deuterium-Driven Photodermatitis:</strong>
+                <a
+                  href="https://forum.jackkruse.com"
+                  target="_blank"
+                  class="source-link"
+                  >See full thread →</a
+                >
+              </div>
+              <div class="item-text" style="color: #cbd5e1; font-size: 0.95rem">
+                Linking solar allergy/hypersensitivity directly to elevated
+                systemic Deuterium breaking surface redox mechanics.
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="forum-item">
+              <div class="forum-meta">
+                <strong>Vitiligo Pathomechanism (CPC Blog 81):</strong>
+                <a
+                  href="https://forum.jackkruse.com"
+                  target="_blank"
+                  class="source-link"
+                  >See full thread →</a
+                >
+              </div>
+              <div class="item-text" style="color: #cbd5e1; font-size: 0.95rem">
+                Mapping
+                <span
+                  class="expandable-concept"
+                  onclick="toggleConcept('vitiligo')"
+                  >Vitiligo</span
+                >
+                pathology to a localized loss of cell-surface redox potential
+                and electronic shielding fields.
+              </div>
+            </div>
+            <div id="vitiligo" class="expanded-content">
+              <strong>Vitiligo:</strong> Autoimmune degradation of melanocytes
+              (pigment cells). In this framework, it indicates an uncoupled
+              biophysical field failing to protect localized cellular tissue.
+            </div>
+          </li>
+          <li>
+            <div class="forum-item">
+              <div class="forum-meta">
+                <strong>Grid Grounding Hazard:</strong>
+                <a
+                  href="https://forum.jackkruse.com"
+                  target="_blank"
+                  class="source-link"
+                  >See full thread →</a
+                >
+              </div>
+              <div class="item-text" style="color: #cbd5e1; font-size: 0.95rem">
+                Deep-dive warning on how wall outlet grounding loops introduce
+                high-frequency dirty electricity directly back into the body.
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+
+      <!-- NEW APP FEATURES (UPCOMING) -->
+      <div class="section-title">App Roadmap</div>
+      <div class="locked-grid">
+        <div class="locked-section">
+          <div class="locked-title">Interact with Report</div>
+          <div class="locked-desc">
+            Ask AI specific context queries regarding this week's data.
+          </div>
+          <div class="locked-badge">Soon</div>
+        </div>
+        <div class="locked-section">
+          <div class="locked-title">Complexity Filter</div>
+          <div class="locked-desc">
+            Toggle the level of "dumbing things down" vs. raw uncoupled
+            biophysics.
+          </div>
+          <div class="locked-badge">Soon</div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      function toggleConcept(id) {
+        const content = document.getElementById(id);
+        content.classList.toggle("open");
+      }
+    </script>
+  </body>
+</html>

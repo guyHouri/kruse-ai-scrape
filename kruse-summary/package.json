@@ -1,0 +1,25 @@
+{
+  "name": "kruse-summary",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily Kruse Summary — reads scraped tweets, renders v2-styled HTML, mails to a list 1h before sunrise.",
+  "homepage": "https://github.com/guyhouri/kruse-ai-scrape",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guyhouri/kruse-ai-scrape.git",
+    "directory": "kruse-summary"
+  },
+  "author": "Guy Houri <guyhouri.tech@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js",
+    "build": "node main.js --build-only",
+    "force-send": "node main.js --force",
+    "v2-test": "node main.js --send-v2-test"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemailer": "^6.9.16"
+  }
+}
