@@ -21,8 +21,12 @@
         {
           "tag": "Tumor Metabolism",
           "lead": "Ketosis Does Not Starve Cancer:",
-          "body": "Direct rebuttal to the Seyfried-line claim that cancer cells can't process fats. Kruse argues tumor adaptation lets cells run on fats once glucose is cut 100% — the {{concept:18F-FDG}} PET imaging story is a measurement artifact, not a metabolic ceiling. Sharp warning that 'starve the tumor with keto' messaging is dangerous to advanced patients who skip real treatment.",
+          "body": "Direct rebuttal to the {{concept:Seyfried}}-line claim that cancer cells can't process fats. Kruse argues tumor adaptation lets cells run on fats once glucose is cut 100% — the {{concept:18F-FDG}} PET imaging story is a measurement artifact, not a metabolic ceiling. Sharp warning that 'starve the tumor with keto' messaging is dangerous to advanced patients who skip real treatment.",
           "concepts": {
+            "Seyfried": {
+              "level": "noob",
+              "text": "Thomas Seyfried — Boston College biologist, lead proponent of the 'cancer as a metabolic disease' framework. Best known for the ketogenic-diet-starves-tumor thesis built on Otto Warburg's glucose-dependence observation. Kruse argues this oversimplifies tumor metabolic plasticity."
+            },
             "18F-FDG": {
               "level": "pro",
               "text": "Radioactive glucose analogue used as PET imaging contrast. Lights up high-glucose-uptake tissue (most active tumors) — often misread as proof tumors only consume glucose. In reality it reflects what they preferentially consume under fed conditions, not what they're capable of metabolizing under glucose restriction."
@@ -54,19 +58,31 @@
   "forum": {
     "bullets": [
       {
-        "title": "Magnetico Latitude Math",
-        "summary": "tallweeds in the Magnetico thread: going 37N → 12N is a 25° south shift, almost triple the 8° (37N → 29N) move usually discussed. Concrete protocol takeaway — geomagnetic-flux remediation scales with the latitude delta you commit to.",
-        "thread_url": "https://forum.jackkruse.com/threads/magnetico-drawbacks.32805/unread"
+        "title": "Tooth Loss ↔ Glioma — Jack's New Hypothesis",
+        "summary": "Jack-authored thread proposes a direct link between dental mineralisation defects and glioma incidence — same embryonic ectoderm lineage forms both the dentin matrix and the CNS glia. Directly extends today's teeth-as-light-pipes tweet.",
+        "thread_url": "https://forum.jackkruse.com/threads/is-there-a-link-between-tooth-loss-and-glioma.32815/unread"
       },
       {
-        "title": "3 Melanins — Mitochondrial Science Pushback",
-        "summary": "Dr Rob (forum thread 'Bad Mitochondrial Science Inspired by Fiat') points to the Teghan Lucas / Maciej Henneberg cadaver-cohort work as the actual upstream source of the cranial-secular-trend literature — relevant for any redox-vs-craniometry takes.",
-        "thread_url": "https://forum.jackkruse.com/threads/bad-mitochrondrial-science-ideas-inspired-by-fiat-3-melanins.32789/unread"
+        "title": "De-Fragging the Water Table with LSD",
+        "summary": "Jack-authored thread proposing psychedelic-induced dopamine surge as a temporal-redox lever for {{concept:de-fragging}} the intracellular water lattice. Speculative but explicit — first time he ties an exogenous compound to the de-fragging protocol.",
+        "concepts": {
+          "de-fragging": {
+            "level": "noob",
+            "text": "Kruse-coined term for restoring structured (EZ) water lattice coherence in the cell, reversing the disordered state that sets in under deuterium load + nnEMF exposure. Analogous to defragmenting a fragmented hard disk, but for the intracellular water phase."
+          }
+        },
+        "thread_url": "https://forum.jackkruse.com/threads/de-fragging-the-water-table-with-lsd.32814/unread"
       },
       {
-        "title": "Practical nnEMF Survey Protocol",
-        "summary": "DLO in 'I Stay Away From nnEMF': walk perimeter, identify strongest side, scan for nearby cell towers — if absent, source is usually neighbour Wi-Fi. For single-story homes, wire-mesh fence shielding recommended.",
-        "thread_url": "https://forum.jackkruse.com/threads/i-stay-away-from-nnemf.32750/unread"
+        "title": "Brachistochrone of Decentralized Biology",
+        "summary": "Jack-authored thread mapping the {{concept:Brachistochrone}} curve onto the optimal path through a redox gradient — fastest route from low-coherence to high-coherence cellular state. Frames protocol stacking as a path-optimization problem, not a checklist.",
+        "concepts": {
+          "Brachistochrone": {
+            "level": "noob",
+            "text": "Classical mechanics problem (Johann Bernoulli, 1696): the curve along which a falling object reaches a destination point in the shortest time under gravity — turns out to be a cycloid, not a straight line. Kruse uses it as an analogy: the fastest path through a redox gradient is not a straight stack of habits but a specifically-shaped sequence."
+          }
+        },
+        "thread_url": "https://forum.jackkruse.com/threads/decentralized-biologys-brachistrochrone.32660/unread"
       }
     ]
   }

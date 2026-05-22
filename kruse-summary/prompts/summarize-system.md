@@ -16,8 +16,8 @@ tier is the HIGHEST that still needs the explanation:
 
 | Concept `level` | Shown to | Examples |
 |---|---|---|
-| `noob` | noob only | de-fragging, CPC, CT, redox, deuterium, EZ water, nnEMF, melanin, dipole, Schumann resonance, telluric currents — Kruse-specific shorthand a newcomer would Google. |
-| `pro` | noob + pro | Fo/Fi nanomotors, ITL, CISS, Landauer's Principle, Ghyben-Herzberg, paramagnetic shielding, magnetoculture, 18F-FDG, BCL11A, Chromosome 2 fusion — mid-tier terms a regular follower knows but a casual reader might not. |
+| `noob` | noob only | de-fragging, CPC, CT, redox, deuterium, EZ water, nnEMF, melanin, dipole, Schumann resonance, telluric currents — Kruse-specific shorthand a newcomer would Google. **Plus**: any cited researcher name (Teghan Lucas, Maciej Henneberg, Thomas Seyfried, Gerald Pollack, Robert Becker, etc.) — explain who they are and what work is being referenced. |
+| `pro` | noob + pro | Fo/Fi nanomotors, ITL, CISS, Landauer's Principle, Ghyben-Herzberg, paramagnetic shielding, magnetoculture, 18F-FDG, BCL11A, Chromosome 2 fusion — mid-tier terms a regular follower knows but a casual reader might not. Specialized lab techniques, named-after-people effects/principles. |
 | (omit) | none | Universally known terms (mitochondria, ATP, electron, photon, etc.). Don't add chips here. |
 
 When in doubt: tag the concept one tier MORE noob (i.e. show it to MORE
@@ -105,21 +105,55 @@ blockquote. Optional.
 reconstructs `https://x.com/<handle>/status/<id>`. For forum, use the
 real `thread_url`.
 
-## Forum bullets — concrete new VALUE only (no open questions)
+## Forum bullets — author + content gate
 
-A forum bullet must carry AT LEAST ONE of:
-- a specific new claim, mechanism, or finding
-- a new study / paper / citation with takeaway
-- a new protocol step, parameter range, or product/brand result
-- a new comparison with numeric or qualitative outcome
+### Tier 1 — Jack Kruse himself authored a new thread or new top-level post
 
-**Hard rejects:**
-- "Active thread on X" / "members exchanging about Y" / "long-running discussion of Z" — no new signal.
-- **Unanswered clinical questions.** A user asking "can X be reversed?" with no answer/data in the thread = NOT a bullet. We only surface threads where the answer/claim/protocol/data exists.
-- New member intros, journals, "looking for a place to live," personal status check-ins.
-- Pure cheerleading replies ("great post", "thanks Jack", "this is so true").
+**Always KEEP** if the post adds a new claim, mechanism, hypothesis, or
+clinical/biophysical link. Jack's own forum output is the headline forum
+signal. Cross-link in the bullet body if today's tweet thread covers an
+adjacent topic. The bullet `summary` should paraphrase Jack's actual
+claim — not just "Jack posted a new thread."
 
-If the day's forum activity has no concrete new bullet meeting this bar,
+### Tier 2 — Member-authored content (HIGH bar)
+
+KEEP a member bullet ONLY if it carries at least one of:
+- a **new protocol** with quantitative parameters (doses, ratios, timing,
+  comparison numbers)
+- a **new test, lab result, or measurement** with takeaway
+- a **new study / paper / citation** with named researcher + the work's claim
+- a **money or politics angle tied to biophysics** (regulatory action,
+  industry capture, deplatforming, funding shift — not generic punditry)
+
+### Hard rejects — never bullet:
+
+- **Members sharing personal n=1**: latitude moves, equipment swaps
+  (Magnetico relocation, DDW brand-shopping, sunrise-routine logs), home
+  EMF surveys of their own house, optimal-journal status check-ins, "I
+  just moved to X latitude," "I bought a Y device."
+- **Unanswered questions.** A user asking "can X be reversed?" with no
+  answer/data in the thread = NOT a bullet. Only surface threads with
+  answers / claims / data.
+- "Active thread on X" / "members exchanging about Y" / "long-running
+  discussion of Z" — no new signal.
+- New-member intros ("Hi I'm Alice, I've been lurking"), journals,
+  "looking for a place to live," personal status updates.
+- Cheerleading replies ("great post", "thanks Jack", "this is so true").
+- Conspiracy framing (see global skip list above).
+
+### Author identification
+
+The input JSON's `posts[].author` field tells you who posted. Treat
+`"Jack Kruse"` / `"DrJackKruse"` / `"Pleb Kruse"` as Jack himself
+(account name variants). Everyone else is a member.
+
+### Cross-linking with twitter
+
+When a forum thread directly extends a topic from the same day's Twitter
+Updates, mention the link in the bullet `summary` (e.g., "extends today's
+teeth-as-light-pipes tweet"). This is high-signal context.
+
+If the day's forum activity has no concrete bullet meeting these bars,
 output an empty `forum.bullets` array. Empty beats padding.
 
 ## How many cards / bullets
@@ -242,7 +276,21 @@ UV/IR coherence."
 Input forum post: "tallweeds in Magnetico thread: going from 37N to 12N
 is a 25° south latitude change, almost triple the 8° (37N → 29N) shift —
 expect proportionally stronger geomagnetic flux remediation."
-→ **KEEP.** Concrete new quantitative claim with takeaway.
+→ **SKIP.** Personal n=1 latitude move. No new protocol or test, just a
+member describing their own relocation math. Doesn't generalize.
+
+Input forum post (Jack Kruse, author): "New thread: IS THERE A LINK
+BETWEEN TOOTH LOSS AND GLIOMA? — proposing the same ectoderm-derived
+mineralisation defect underlies both."
+→ **KEEP.** Jack-authored, novel claim, directly extends today's
+teeth-as-light-pipes tweet.
+
+Input forum post (Dr Rob, member): "Jack, Teghan Lucas and Maciej
+Henneberg's cadaver-cohort work documents the cranial secular trend
+across industrialised populations in northern Europe — the actual
+upstream source of the data Rockefeller medicine misreads."
+→ **KEEP.** Cites named researchers + specific work. Tag both names as
+noob-level concepts in the bullet.
 
 When in doubt: **prefer cutting**. A 2-card digest of real news beats a
 6-card digest padded with restated views.

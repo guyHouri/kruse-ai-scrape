@@ -16,7 +16,12 @@ import { info, warn } from './logger.js';
 
 const MAX_PAGES = 3;        // cap pagination — daily volume rarely exceeds page 1
 const WINDOW_HOURS = 24;    // only keep posts from the last N hours
-const POST_BODY_CHAR_CAP = 600;   // truncate post body in the JSON to save tokens
+const POST_BODY_CHAR_CAP = 1500;  // truncate post body in the JSON; tuned to clear Kruse's recurring intro + reach the substance
+
+// Kruse copy-pastes the same "It's a fact—everyone is ignorant" intro
+// paragraph at the top of many of his forum posts. Strip it so the
+// downstream summarizer sees the actual claim, not the boilerplate.
+const KRUSE_INTRO_PREFIX = "It's a fact—everyone is ignorant in some way or another because of their dopamine level.";
 const FETCH_DELAY_MS = 800;       // polite delay between thread fetches
 
 function timeoutFetch(url, init) {
@@ -107,8 +112,32 @@ async function fetchLatestPostBody(threadLatestUrl, cookieString) {
     const last = wrappers.last();
     // Drop nested quote blocks so the AI sees only the post author's words.
     last.find('blockquote').remove();
-    const text = last.text().replace(/\s+/g, ' ').trim();
+    let text = last.text().replace(/\s+/g, ' ').trim();
     if (!text) return null;
+    // Strip Kruse's recurring intro boilerplate if it leads the post.
+    // The intro starts with a curly or straight quote then "It's a fact—
+    // everyone is ignorant ...". It spans ~~ 1100 chars. Find the marker
+    // anywhere in the first 50 chars (tolerant of leading quote variants).
+    const introMarker = "everyone is ignorant in some way or another because of their dopamine level";
+    const introIdx = text.indexOf(introMarker);
+    if (introIdx > -1 && introIdx < 50) {
+      // Skip the entire signature paragraph. It ends with "Every lost
+      // photon is a lost choice." or similar — search for that closer.
+      const closers = [
+        'lost choice.',
+        'every lost photon is a lost choice.',
+        'the cage becomes comfortable.',
+      ];
+      let end = -1;
+      for (const c of closers) {
+        const i = text.toLowerCase().indexOf(c.toLowerCase());
+        if (i > -1 && (end === -1 || i < end)) end = i + c.length;
+      }
+      // Fallback if no closer matched: skip a fixed 1100-char block.
+      const skipTo = end > 0 ? end : 1100;
+      text = text.slice(skipTo).replace(/^[\s"”""']+/, '').trim();
+      if (!text) return null;
+    }
     return text.length > POST_BODY_CHAR_CAP
       ? text.slice(0, POST_BODY_CHAR_CAP).trim() + '…'
       : text;

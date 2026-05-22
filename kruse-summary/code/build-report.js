@@ -38,11 +38,22 @@ function loadForumDay(date) {
 function renderForumSection(forumDay, summaryForum) {
   // Curated path (preferred): AI/hand summary supplied themed bullets.
   if (summaryForum?.bullets?.length) {
+    let conceptCursor = 1000; // separate id-namespace from twitter cards
     const items = summaryForum.bullets.map((b) => {
       const link = b.thread_url
         ? `<a href="${esc(b.thread_url)}" target="_blank" class="source-link">See full thread →</a>`
         : `<a href="https://forum.jackkruse.com" target="_blank" class="source-link">forum.jackkruse.com →</a>`;
-      return `<li><div class="forum-item"><div class="forum-meta"><strong>${esc(b.title)}:</strong> ${link}</div><div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">${esc(b.summary || '')}</div></div></li>`;
+      const { html: bodyHtml, expanded } = renderBodyWithConcepts(b.summary || '', b.concepts || {}, conceptCursor++);
+      return `<li>
+        <div class="forum-item">
+          <div class="forum-meta">
+            <strong>${esc(b.title)}:</strong>
+            ${link}
+          </div>
+          <div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">${bodyHtml}</div>
+          ${expanded}
+        </div>
+      </li>`;
     }).join('');
     return `      <div class="section-title">Forum Updates</div>
       <div class="card"><ul class="bullet-list">${items}</ul></div>`;
