@@ -59,11 +59,15 @@
     "bullets": [
       {
         "title": "Tooth Loss ↔ Glioma — Shared Ectoderm Lineage",
-        "summary": "New hypothesis: dental mineralisation defects and glioma incidence share the same embryonic {{concept:ectoderm}} origin — dentin matrix and CNS glia descend from one cell line, so a single field failure can explain both. Direct extension of today's teeth-as-light-pipes tweet.",
+        "summary": "New hypothesis: dental mineralisation defects and {{concept:glioma}} incidence share the same embryonic {{concept:ectoderm}} origin — dentin matrix and CNS glia descend from one cell line, so a single field failure can explain both. Direct extension of today's teeth-as-light-pipes tweet.",
         "concepts": {
           "ectoderm": {
             "level": "noob",
             "text": "The outermost of the three primary germ layers in early embryonic development. It gives rise to the nervous system, skin, hair, teeth enamel and the retina — meaning the brain and the teeth derive from the same starter cells."
+          },
+          "glioma": {
+            "level": "pro",
+            "text": "A primary brain tumor arising from glial cells (the non-neuronal CNS support cells). Includes astrocytomas, oligodendrogliomas and glioblastomas. Glia share embryonic ectodermal lineage with the dental papilla / enamel organ — the basis for the link Kruse proposes."
           }
         },
         "thread_url": "https://forum.jackkruse.com/threads/is-there-a-link-between-tooth-loss-and-glioma.32815/unread"
@@ -92,7 +96,7 @@
       },
       {
         "title": "3 Melanins — Upstream Cadaver-Cohort Citations",
-        "summary": "Dr Rob surfaces the {{concept:Teghan Lucas}} / {{concept:Maciej Henneberg}} cadaver-cohort work as the actual primary source for the cranial-secular-trend literature across industrialised northern-European populations — the data centralized takes typically misread.",
+        "summary": "Dr Rob surfaces the {{concept:Teghan Lucas}} / {{concept:Maciej Henneberg}} {{concept:cadaver cohort}} work as the actual primary source for the {{concept:cranial secular trend}} literature across industrialised northern-European populations — the data centralized takes typically misread.",
         "concepts": {
           "Teghan Lucas": {
             "level": "noob",
@@ -101,18 +105,42 @@
           "Maciej Henneberg": {
             "level": "noob",
             "text": "Polish-Australian biological anthropologist (University of Adelaide), long-time Lucas collaborator. Builds population-scale anatomical datasets that document microevolution and secular trends across industrialised societies."
+          },
+          "cadaver cohort": {
+            "level": "pro",
+            "text": "A research methodology where a defined population of donated bodies is measured and catalogued to study anatomical variation. Differs from imaging cohorts (CT/MRI of the living) by directly examining tissue, but trades scale and longitudinal coverage."
+          },
+          "cranial secular trend": {
+            "level": "pro",
+            "text": "Documented generation-over-generation changes in human skull shape — facial flattening, palate narrowing, occipital protuberance enlargement, etc. — observed across the last century. 'Secular' here means time-scale (decade/century), not religion."
           }
         },
         "thread_url": "https://forum.jackkruse.com/threads/bad-mitochrondrial-science-ideas-inspired-by-fiat-3-melanins.32197/unread"
       },
       {
         "title": "nnEMF Field-Survey Protocol",
-        "summary": "Concrete home-shielding workflow: walk the perimeter to identify the strongest-signal side, scan for nearby cell towers; if no tower is close, attribute to neighbour Wi-Fi. For single-story homes, wire-mesh fence shielding on the implicated side. Transferable, parameter-light.",
+        "summary": "Concrete home-shielding workflow for {{concept:nnEMF}}: walk the perimeter to identify the strongest-signal side, scan for nearby cell towers; if no tower is close, attribute to neighbour Wi-Fi. For single-story homes, wire-mesh fence shielding on the implicated side. Transferable, parameter-light.",
+        "concepts": {
+          "nnEMF": {
+            "level": "noob",
+            "text": "non-native ElectroMagnetic Field. Kruse shorthand for the artificial RF / microwave / low-frequency electromagnetic emissions humans engineered into the environment (cell, Wi-Fi, power-line, smart-meter, etc.) — as opposed to the geomagnetic / cosmic / solar fields the biology evolved under."
+          }
+        },
         "thread_url": "https://forum.jackkruse.com/threads/i-stay-away-from-nnemf.30545/unread"
       },
       {
         "title": "Hypermobility & Ehlers-Danlos as Field-Coupling Failure",
-        "summary": "Mapping connective-tissue laxity in Ehlers-Danlos Syndrome to localized loss of melanin-tied redox shielding — extends the coherence thesis to a defined clinical phenotype. Implies the protocol stack for hypermobile patients should center on redox restoration, not collagen support.",
+        "summary": "Mapping connective-tissue laxity in {{concept:Ehlers-Danlos}} to localized loss of melanin-tied redox shielding — extends the coherence thesis to a defined {{concept:clinical phenotype}}. Implies the protocol stack for hypermobile patients should center on redox restoration, not collagen support.",
+        "concepts": {
+          "Ehlers-Danlos": {
+            "level": "pro",
+            "text": "Ehlers-Danlos Syndrome (EDS): a group of inherited connective-tissue disorders affecting collagen synthesis or processing. Hallmarks: joint hypermobility, skin hyperextensibility, tissue fragility. The hypermobile subtype (hEDS) is the most common and the one usually meant in this context."
+          },
+          "clinical phenotype": {
+            "level": "pro",
+            "text": "The observable set of clinical features (signs, symptoms, course) that define a patient population — as distinct from the underlying genotype or mechanism. Used here to say: EDS is the symptom cluster Kruse maps to the biophysical field-coupling failure."
+          }
+        },
         "thread_url": "https://forum.jackkruse.com/threads/hypermobility-ehlers-danios-syndrome.29636/unread"
       }
     ]

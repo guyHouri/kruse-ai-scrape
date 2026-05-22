@@ -16,9 +16,13 @@ tier is the HIGHEST that still needs the explanation:
 
 | Concept `level` | Shown to | Examples |
 |---|---|---|
-| `noob` | noob only | de-fragging, CPC, CT, redox, deuterium, EZ water, nnEMF, melanin, dipole, Schumann resonance, telluric currents — Kruse-specific shorthand a newcomer would Google. **Plus**: any cited researcher name (Teghan Lucas, Maciej Henneberg, Thomas Seyfried, Gerald Pollack, Robert Becker, etc.) — explain who they are and what work is being referenced. |
-| `pro` | noob + pro | Fo/Fi nanomotors, ITL, CISS, Landauer's Principle, Ghyben-Herzberg, paramagnetic shielding, magnetoculture, 18F-FDG, BCL11A, Chromosome 2 fusion — mid-tier terms a regular follower knows but a casual reader might not. Specialized lab techniques, named-after-people effects/principles. |
-| (omit) | none | Universally known terms (mitochondria, ATP, electron, photon, etc.). Don't add chips here. |
+| `noob` | noob only | Kruse-specific shorthand and intro vocabulary the regular Kruse follower already owns. Examples: de-fragging, CPC, CT, redox, deuterium, EZ water, nnEMF, melanin, dipole, Schumann resonance, telluric currents. Plus cited researcher names (Lucas, Henneberg, Seyfried, Pollack, Becker, Warburg) — explain who they are and what work is referenced. |
+| `pro` | noob + pro | **Specialized clinical / research / physics jargon that even a regular Kruse follower would Google** — anything outside the lay-medical vocabulary. Examples: cranial secular trend, cadaver cohort, Ehlers-Danlos, hypermobility, glioma (edge), Fo/Fi nanomotors, ITL, CISS, Landauer's Principle, Ghyben-Herzberg, paramagnetic shielding, magnetoculture, 18F-FDG, BCL11A, Chromosome 2 fusion, parametric, pecten oculi. Specialized lab techniques, named-after-people effects/principles, anatomical/pathological terms. |
+| (omit) | none | Universally known terms (mitochondria, ATP, electron, photon, brain, retina, cancer). Don't add chips here. |
+
+**Heuristic for tagging:** if a non-specialist reader would open a new
+tab to look up the term, tag it. If you'd still tag it after rephrasing
+to plainer language, leave the chip in. Better redundant than opaque.
 
 When in doubt: tag the concept one tier MORE noob (i.e. show it to MORE
 readers). Better redundant than opaque.
