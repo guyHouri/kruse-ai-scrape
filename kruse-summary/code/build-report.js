@@ -84,14 +84,20 @@ function formatDdMmYyyy(date) {
   return `${d}/${m}/${y}`;
 }
 
+// Concept entry can be either a plain string explainer (legacy) or an
+// object { level, text }. Legacy defaults to level: pro.
+function conceptInfo(entry) {
+  if (entry == null) return null;
+  if (typeof entry === 'string') return { level: 'pro', text: entry };
+  return { level: entry.level || 'pro', text: entry.text || '' };
+}
+
 // Renders `body` text. Any token "{{concept:Some Term}}" becomes an
-// inline `<span class="expandable-concept" onclick="toggleConcept('id')">Some Term</span>`.
-// The matching expanded block is rendered separately right after the body.
+// inline `<span class="expandable-concept" data-concept-level="...">`.
+// Reader-level CSS may visually downgrade the chip to plain text.
 function renderBodyWithConcepts(body, concepts, cardIdx) {
   const usedConceptIds = [];
   const safeBody = String(body || '');
-  // First escape the body, then re-insert markup for concept tokens.
-  // We escape on the literal-text parts and inject HTML for the markers.
   let out = '';
   const re = /\{\{concept:([^}]+?)\}\}/g;
   let last = 0;
@@ -101,18 +107,18 @@ function renderBodyWithConcepts(body, concepts, cardIdx) {
     out += esc(safeBody.slice(last, m.index));
     const term = m[1].trim();
     const id = `c-${cardIdx}-${n++}`;
-    usedConceptIds.push({ id, term });
-    out += `<span class="expandable-concept" onclick="toggleConcept('${id}')">${esc(term)}</span>`;
+    const info = conceptInfo(concepts?.[term]);
+    const level = info?.level || 'pro';
+    usedConceptIds.push({ id, term, level, info });
+    out += `<span class="expandable-concept" data-concept-level="${esc(level)}" onclick="toggleConcept('${id}')">${esc(term)}</span>`;
     last = m.index + m[0].length;
   }
   out += esc(safeBody.slice(last));
 
-  // Expanded blocks come right after the body, in insertion order.
-  const expanded = usedConceptIds.map(({ id, term }) => {
-    const explainer = concepts?.[term];
-    if (!explainer) return '';
-    return `<div id="${id}" class="expanded-content">
-      <strong>${esc(term)}:</strong> ${esc(explainer)}
+  const expanded = usedConceptIds.map(({ id, term, level, info }) => {
+    if (!info?.text) return '';
+    return `<div id="${id}" class="expanded-content" data-concept-level="${esc(level)}">
+      <strong>${esc(term)}:</strong> ${esc(info.text)}
     </div>`;
   }).join('\n');
   return { html: out, expanded };
@@ -262,11 +268,22 @@ export function buildReportHtml(date, summary = null) {
     * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', sans-serif; }
     body { background-color: var(--bg-color); color: var(--text-color); padding: 40px 20px; display: flex; justify-content: center; align-items: flex-start; min-height: 100vh; transition: background-color 0.2s ease, color 0.2s ease; }
     .container { width: 100%; max-width: 650px; display: flex; flex-direction: column; gap: 20px; }
-    header { text-align: center; margin-bottom: 10px; position: relative; }
+    header { text-align: center; margin-bottom: 10px; position: relative; padding-top: 48px; }
     h1 { font-size: 2.3rem; font-weight: 700; letter-spacing: -0.5px; background: linear-gradient(45deg, #3b82f6, #9333ea); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; margin-bottom: 4px; }
     .subtitle { font-size: 1rem; color: var(--text-muted); font-weight: 300; }
     .theme-toggle { position: absolute; top: 0; right: 0; background: var(--toggle-bg); border: 1px solid var(--toggle-border); color: var(--text-color); cursor: pointer; padding: 6px 10px; border-radius: 20px; font-size: 0.85rem; line-height: 1; transition: background 0.2s ease; }
     .theme-toggle:hover { background: var(--card-border); }
+    .level-toggle { position: absolute; top: 0; left: 0; display: flex; gap: 4px; background: var(--toggle-bg); border: 1px solid var(--toggle-border); border-radius: 20px; padding: 3px; }
+    .level-toggle button { background: transparent; color: var(--text-muted); border: none; cursor: pointer; padding: 4px 10px; border-radius: 16px; font-size: 0.8rem; font-weight: 600; transition: background 0.15s ease, color 0.15s ease; }
+    .level-toggle button.active { background: var(--accent-color); color: #fff; }
+    .level-toggle button:hover:not(.active) { color: var(--text-color); }
+    /* Concept-level gating: pro reader hides noob-only chips; hacker hides all. */
+    body.level-pro .expandable-concept[data-concept-level="noob"],
+    body.level-hacker .expandable-concept[data-concept-level] {
+      color: inherit; border-bottom: none; cursor: default; font-weight: inherit; pointer-events: none;
+    }
+    body.level-pro .expanded-content[data-concept-level="noob"],
+    body.level-hacker .expanded-content { display: none !important; }
     .section-title { font-size: 1.3rem; font-weight: 700; color: var(--accent-hover); border-bottom: 1px solid var(--section-rule); padding-bottom: 6px; margin-top: 10px; }
     .card { background-color: var(--card-bg); border: 1px solid var(--card-border); border-radius: 12px; padding: 16px 20px; display: flex; flex-direction: column; gap: 10px; transition: border-color 0.2s ease, background-color 0.2s ease; }
     .card:hover { border-color: var(--card-border-hover); }
@@ -294,6 +311,11 @@ export function buildReportHtml(date, summary = null) {
 <body>
   <div class="container">
     <header>
+      <div class="level-toggle" role="tablist" aria-label="Reader knowledge level">
+        <button type="button" data-level="noob"   aria-pressed="false">Noob</button>
+        <button type="button" data-level="pro"    aria-pressed="true">Pro</button>
+        <button type="button" data-level="hacker" aria-pressed="false">Hacker</button>
+      </div>
       <button type="button" class="theme-toggle" id="themeToggle" aria-label="Toggle dark/light mode">🌙 Dark</button>
       <h1>Kruse Report ${dateDisplay}</h1>
       <div class="subtitle">${esc(subtitle)}</div>
@@ -330,6 +352,29 @@ ${sectionsHtml}
         try { localStorage.setItem('kruse-theme', document.body.classList.contains('light') ? 'light' : 'dark'); } catch (e) {}
         syncLabel();
       });
+    })();
+    (function () {
+      var savedLevel = null;
+      try { savedLevel = localStorage.getItem('kruse-level'); } catch (e) {}
+      var initial = (savedLevel === 'noob' || savedLevel === 'pro' || savedLevel === 'hacker') ? savedLevel : 'pro';
+      function apply(level) {
+        document.body.classList.remove('level-noob', 'level-pro', 'level-hacker');
+        document.body.classList.add('level-' + level);
+        var btns = document.querySelectorAll('.level-toggle button');
+        for (var i = 0; i < btns.length; i++) {
+          var on = btns[i].getAttribute('data-level') === level;
+          btns[i].classList.toggle('active', on);
+          btns[i].setAttribute('aria-pressed', on ? 'true' : 'false');
+        }
+        try { localStorage.setItem('kruse-level', level); } catch (e) {}
+      }
+      apply(initial);
+      var btns = document.querySelectorAll('.level-toggle button');
+      for (var i = 0; i < btns.length; i++) {
+        (function (b) {
+          b.addEventListener('click', function () { apply(b.getAttribute('data-level')); });
+        })(btns[i]);
+      }
     })();
   </script>
 </body>
