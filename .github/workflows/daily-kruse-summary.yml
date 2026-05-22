@@ -4,7 +4,6 @@ on:
   schedule:
     # Hourly during the pre-sunrise window for Jerusalem year-round.
     # Sunrise varies ~03:30 UTC summer to ~04:40 UTC winter; 1h before = 02:30-03:40.
-    # Fire every 30 min from 02:00 to 04:30 UTC so the in-window check fires precisely.
     - cron: '0,30 2-4 * * *'
   workflow_dispatch:
     inputs:
@@ -47,7 +46,6 @@ jobs:
           else
             YESTERDAY=$(date -u -d 'yesterday' +%Y-%m-%d)
             echo "date=$YESTERDAY" >> $GITHUB_OUTPUT
-            # Skip scrape if we already have a non-empty file for that date.
             if [ -f "twitter_to_md/data/${YESTERDAY}.json" ]; then
               COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('twitter_to_md/data/${YESTERDAY}.json','utf8')).tweet_count||0)")
               if [ "$COUNT" -gt 0 ]; then
@@ -66,12 +64,25 @@ jobs:
         working-directory: twitter_to_md
         run: npm install
 
-      - name: Scrape target date
+      - name: Scrape target date (X API)
         if: steps.target.outputs.skip_scrape != 'true'
         working-directory: twitter_to_md
         env:
           XAPI_BEARER_TOKEN: ${{ secrets.XAPI_BEARER_TOKEN }}
         run: node main.js --date=${{ steps.target.outputs.date }}
+
+      - name: Install forum_to_md
+        if: github.event.inputs.mode != 'v2-test'
+        working-directory: forum_to_md
+        run: npm install
+
+      - name: Scrape forum new posts (last 24h)
+        if: github.event.inputs.mode != 'v2-test'
+        working-directory: forum_to_md
+        env:
+          FORUM_USERNAME: ${{ secrets.FORUM_USERNAME }}
+          FORUM_PASSWORD: ${{ secrets.FORUM_PASSWORD }}
+        run: node main-daily.js --date=${{ steps.target.outputs.date }}
 
       - name: Install kruse-summary
         working-directory: kruse-summary
@@ -97,6 +108,6 @@ jobs:
         run: |
           git config user.name "kruse-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add twitter_to_md/data kruse-summary/last-sent.json || true
+          git add twitter_to_md/data forum_to_md/daily kruse-summary/last-sent.json || true
           git diff --cached --quiet || git commit -m "daily: scrape + send $(date -u +%Y-%m-%d)"
           git push || true

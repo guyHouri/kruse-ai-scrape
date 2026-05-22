@@ -14,6 +14,7 @@
 //                      (skips scrape, build, sunrise gate, idempotency).
 
 import { mkdirSync, existsSync, writeFileSync, readFileSync, readdirSync } from 'node:fs';
+import * as fs from 'node:fs';
 import * as path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -42,6 +43,7 @@ function parseArgs() {
     force: args.includes('--force'),
     sendV2Test: args.includes('--send-v2-test'),
     date: get('date'),
+    summary: get('summary'),
   };
 }
 
@@ -95,7 +97,13 @@ async function main() {
     return;
   }
 
-  const html = buildReportHtml(reportDate);
+  let summary = null;
+  if (args.summary) {
+    const summaryPath = path.isAbsolute(args.summary) ? args.summary : path.join(ROOT, args.summary);
+    summary = JSON.parse(fs.readFileSync(summaryPath, 'utf8'));
+    info(`loaded summary from ${summaryPath}`);
+  }
+  const html = buildReportHtml(reportDate, summary);
   const outDir = path.join(ROOT, 'out');
   if (!existsSync(outDir)) mkdirSync(outDir, { recursive: true });
   const outPath = path.join(outDir, `${reportDate}.html`);

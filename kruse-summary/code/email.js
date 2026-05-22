@@ -1,19 +1,18 @@
-// Gmail SMTP via nodemailer. Free. Requires a Google App Password.
+// Gmail SMTP via nodemailer. Free. Uses a Google App Password.
 //
 // Setup:
-//   1. Enable 2FA on guyhouri.tech@gmail.com (already done if signed up post-2024).
-//   2. Generate App Password at https://myaccount.google.com/apppasswords.
+//   1. Enable 2FA on the sending Gmail account.
+//   2. Generate App Password at https://myaccount.google.com/apppasswords
 //   3. Put it in GMAIL_APP_PASSWORD (or repo secret).
 //
-// Sending limits: Gmail allows ~500 outbound/day per account. Fine for a
-// daily newsletter to a small list. Bigger lists → use a real ESP (Resend, etc).
+// Gmail sending cap: ~500 outbound/day per account. Fine for a small list.
 
 import nodemailer from 'nodemailer';
 import { existsSync, readFileSync } from 'node:fs';
 import * as path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { SETTINGS } from '../settings.js';
-import { info, error } from './logger.js';
+import { info } from './logger.js';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -35,26 +34,54 @@ function buildTransport() {
     service: 'gmail',
     auth: {
       user: SETTINGS.gmailUser,
-      pass: SETTINGS.gmailAppPassword.replace(/\s+/g, ''), // tolerate "xxxx xxxx ..." paste
+      pass: SETTINGS.gmailAppPassword.replace(/\s+/g, ''),
     },
   });
 }
 
-// Send the report HTML to every recipient. We BCC them so addresses are not
-// disclosed across the list. From/To are the same Gmail account.
-export async function sendReportEmail({ subject, html, dateDisplay }) {
+// Build a short plain-text + minimal HTML body for the email itself, with
+// the full report attached as an HTML file. Gmail strips inline <script>
+// so attachment lets the user open the full interactive report in a
+// browser tab and click the expandable concepts.
+//
+// Args:
+//   subject       : email subject
+//   html          : full report HTML (used for attachment AND inline preview)
+//   dateDisplay   : e.g. "22/05/2026", used in subject + attachment name
+//   attachmentName: optional override for attachment filename
+export async function sendReportEmail({ subject, html, dateDisplay, attachmentName }) {
   const recipients = loadMailingList();
   const transport = buildTransport();
-
   const bcc = recipients.map((r) => r.email).join(', ');
   info(`sending "${subject}" to ${recipients.length} recipient(s) via BCC`);
 
+  const filename = attachmentName || `kruse-report-${(dateDisplay || 'today').replace(/\//g, '-')}.html`;
+
+  const textBody = [
+    `Kruse Daily Summary — ${dateDisplay || ''}`,
+    '',
+    'The full interactive report is attached as an HTML file.',
+    'Open the attachment in any browser for click-to-expand concepts.',
+    '',
+    'An inline preview follows below (some interactivity may be stripped by your mail client).',
+  ].join('\n');
+
+  // Inline preview = the report HTML itself. Mail clients render most of it;
+  // JS-driven expanders won't fire inside Gmail's sandbox, hence attachment.
   const info_ = await transport.sendMail({
     from: `"${SETTINGS.fromName}" <${SETTINGS.gmailUser}>`,
     to: SETTINGS.gmailUser,
     bcc,
     subject,
+    text: textBody,
     html,
+    attachments: [
+      {
+        filename,
+        content: html,
+        contentType: 'text/html; charset=utf-8',
+      },
+    ],
     headers: {
       'X-Kruse-Summary-Date': dateDisplay || '',
     },

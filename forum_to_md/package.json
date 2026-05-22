@@ -23,10 +23,12 @@
     "recover": "node main.js --recover-only",
     "extract": "node main.js --extract-only",
     "split": "node main.js --split-only",
-    "status": "node main.js --status"
+    "status": "node main.js --status",
+    "daily": "node main-daily.js"
   },
   "dependencies": {
     "cheerio": "^1.0.0",
+    "dotenv": "^16.6.1",
     "p-limit": "^6.1.0",
     "playwright": "^1.59.1",
     "turndown": "^7.2.0",

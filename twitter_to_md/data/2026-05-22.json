@@ -1,0 +1,783 @@
+{
+  "date": "2026-05-22",
+  "handle": "DrJackKruse",
+  "fetched_at": "2026-05-22T04:43:27.838Z",
+  "source": {
+    "backend": "x-api-v2",
+    "endpoint": "/2/users/:id/tweets"
+  },
+  "tweet_count": 14,
+  "tweets": [
+    {
+      "id": "2057660191395475575",
+      "url": "https://x.com/DrJackKruse/status/2057660191395475575",
+      "created_at": "2026-05-22T03:09:53.000Z",
+      "text": "Search my mithack #722 on Melatonin. https://t.co/djo20yy4k5",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2057660191395475575",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057649222367748449",
+        "url": "https://x.com/LightOverPrism/status/2057649222367748449",
+        "created_at": "2026-05-22T02:26:18.000Z",
+        "text": "@stephanieseneff Thank you for your important work. \n\nRecently you were quoted saying \"I don't take any supplements. None of these organic molecules. None.”\n\nWhat should we do in the case of Melatonin? Avoid it?  @DrJackKruse \nOr take it + get morning sun to improve sleep and more?",
+        "lang": "en",
+        "author": {
+          "id": "1717007779766923264",
+          "username": "LightOverPrism",
+          "name": "LightOverPrism"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2057613629307138468",
+        "in_reply_to": {
+          "tweet_id": "2057613629307138468",
+          "user_id": "235324130",
+          "url": "https://x.com/i/status/2057613629307138468"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 1,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 1,
+          "views": 3653
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 20,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": 3388
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2057651116972646824",
+      "url": "https://x.com/DrJackKruse/status/2057651116972646824",
+      "created_at": "2026-05-22T02:33:50.000Z",
+      "text": "Teeth are not passive chewing stones; they are highly specialized, solid-state crystalline light-pipes and mineral-dielectric capacitors derived directly from the embryonic ectoderm; the identical cellular lineage that wraps and forms the brain, the neural crest, and the retina. https://t.co/FSrPCbKfen",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2057651116972646824",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HI4-iC_XQAAUwdt.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 100,
+        "retweets": 14,
+        "replies": 7,
+        "quotes": 0,
+        "views": 4283
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2057648334878175340",
+      "url": "https://x.com/DrJackKruse/status/2057648334878175340",
+      "created_at": "2026-05-22T02:22:46.000Z",
+      "text": "IYKYK https://t.co/tmdg0PGamd",
+      "lang": "fi",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2057648334878175340",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057282573936849222",
+        "url": "https://x.com/toobaffled/status/2057282573936849222",
+        "created_at": "2026-05-21T02:09:22.000Z",
+        "text": "We can’t continue to keep ignoring these tragedies. Only someone who has something to hide would not want to get to the bottom of these sudden deaths and Turbo Cancers.\n\nUS DOCTOR DIES SUDDENLY weeks after her 15 year old daughter dies of Cancer: \n\n41 year old New York Breast https://t.co/la8nV2qcJn",
+        "lang": "en",
+        "author": {
+          "id": "1560155798046511105",
+          "username": "toobaffled",
+          "name": "“Sudden And Unexpected”"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2057282573936849222",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 177,
+          "retweets": 70,
+          "replies": 14,
+          "quotes": 7,
+          "views": 10980
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 24,
+        "retweets": 2,
+        "replies": 2,
+        "quotes": 0,
+        "views": 4546
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2057648009895153897",
+      "url": "https://x.com/DrJackKruse/status/2057648009895153897",
+      "created_at": "2026-05-22T02:21:29.000Z",
+      "text": "RT @AmmousMD: Most medications are given to treat side effects of other medications.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2057648009895153897",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2057505363289645472",
+        "url": "https://x.com/AmmousMD/status/2057505363289645472",
+        "created_at": "2026-05-21T16:54:39.000Z",
+        "text": "Most medications are given to treat side effects of other medications. https://t.co/iIi3iZaBFr",
+        "lang": "en",
+        "author": {
+          "id": "2875568086",
+          "username": "AmmousMD",
+          "name": "Dr. Ammous"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2057505363289645472",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 191,
+          "retweets": 25,
+          "replies": 11,
+          "quotes": 1,
+          "views": 6142
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 25,
+        "replies": 0,
+        "quotes": 0,
+        "views": 0
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2057644835939488029",
+      "url": "https://x.com/DrJackKruse/status/2057644835939488029",
+      "created_at": "2026-05-22T02:08:52.000Z",
+      "text": "RT @MartyBent: You absolutely love to see it.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2057644835939488029",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2057492744889610250",
+        "url": "https://x.com/MartyBent/status/2057492744889610250",
+        "created_at": "2026-05-21T16:04:31.000Z",
+        "text": "You absolutely love to see it. https://t.co/k9XkAY1zYe",
+        "lang": "en",
+        "author": {
+          "id": "375707743",
+          "username": "MartyBent",
+          "name": "Marty Bent"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2057492744889610250",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 3102,
+          "retweets": 75,
+          "replies": 19,
+          "quotes": 5,
+          "views": 113781
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 75,
+        "replies": 0,
+        "quotes": 0,
+        "views": 0
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2057643892581790054",
+      "url": "https://x.com/DrJackKruse/status/2057643892581790054",
+      "created_at": "2026-05-22T02:05:07.000Z",
+      "text": "RT @Kevin_McKernan: @AlexBerenson Alex,\n\nBreath..\n\nYou’re not following any evidence.\nYou’re posting studies you don’t read for clicks.\n\nI’…",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2057643892581790054",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2057596075930738867",
+        "url": "https://x.com/Kevin_McKernan/status/2057596075930738867",
+        "created_at": "2026-05-21T22:55:07.000Z",
+        "text": "@AlexBerenson Alex,\n\nBreath..\n\nYou’re not following any evidence.\nYou’re posting studies you don’t read for clicks.\n\nI’ve engaged with the data and have offered multiples times to debate you with @Ravarora1 and you run away every time.\n\nWhy not engage now?\n\nIf you’re so dedicated to",
+        "lang": "en",
+        "author": {
+          "id": "33177553",
+          "username": "Kevin_McKernan",
+          "name": "Kevin McKernan"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2057594805543157880",
+        "in_reply_to": {
+          "tweet_id": "2057594805543157880",
+          "user_id": "87679233",
+          "url": "https://x.com/i/status/2057594805543157880"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 134,
+          "retweets": 19,
+          "replies": 6,
+          "quotes": 0,
+          "views": 3043
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 19,
+        "replies": 0,
+        "quotes": 0,
+        "views": 2
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2057642189216158059",
+      "url": "https://x.com/DrJackKruse/status/2057642189216158059",
+      "created_at": "2026-05-22T01:58:21.000Z",
+      "text": "RT @AmmousMD: Women have been giving birth forever. Literally.\n\nDon’t let your doctor turn pregnancy into a disease.\n\nThe less testing, the…",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2057642189216158059",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2057087947762024922",
+        "url": "https://x.com/AmmousMD/status/2057087947762024922",
+        "created_at": "2026-05-20T13:16:00.000Z",
+        "text": "Women have been giving birth forever. Literally.\n\nDon’t let your doctor turn pregnancy into a disease.\n\nThe less testing, the better. https://t.co/3CZmWJpyhq",
+        "lang": "en",
+        "author": {
+          "id": "2875568086",
+          "username": "AmmousMD",
+          "name": "Dr. Ammous"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2057087947762024922",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 325,
+          "retweets": 35,
+          "replies": 19,
+          "quotes": 1,
+          "views": 5560
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 35,
+        "replies": 0,
+        "quotes": 0,
+        "views": 3
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2057638832028197305",
+      "url": "https://x.com/DrJackKruse/status/2057638832028197305",
+      "created_at": "2026-05-22T01:45:01.000Z",
+      "text": "RT @AmmousMD: Blue light and EMF.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2057638832028197305",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2057121440873230376",
+        "url": "https://x.com/AmmousMD/status/2057121440873230376",
+        "created_at": "2026-05-20T15:29:05.000Z",
+        "text": "Blue light and EMF. https://t.co/qgTVtgmQAT",
+        "lang": "en",
+        "author": {
+          "id": "2875568086",
+          "username": "AmmousMD",
+          "name": "Dr. Ammous"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2057121440873230376",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 312,
+          "retweets": 36,
+          "replies": 21,
+          "quotes": 0,
+          "views": 17825
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 36,
+        "replies": 0,
+        "quotes": 0,
+        "views": 2
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2057638312173617423",
+      "url": "https://x.com/DrJackKruse/status/2057638312173617423",
+      "created_at": "2026-05-22T01:42:57.000Z",
+      "text": "Compliance cost is steep https://t.co/ZmKoNyRi5t",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2057638312173617423",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057577869057126464",
+        "url": "https://x.com/toobaffled/status/2057577869057126464",
+        "created_at": "2026-05-21T21:42:46.000Z",
+        "text": "California.  38 years old.  Professor at Clovis Community College dies from a heart attack.  Board covering Clovis mandated covid shots:  Clovis Community College District's Board of Trustees approved a vaccine mandate for students, employees, contractors, and visitors in August https://t.co/2xMXwxR3Ym",
+        "lang": "en",
+        "author": {
+          "id": "1560155798046511105",
+          "username": "toobaffled",
+          "name": "“Sudden And Unexpected”"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2057577869057126464",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 120,
+          "retweets": 70,
+          "replies": 12,
+          "quotes": 8,
+          "views": 6771
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 49,
+        "retweets": 7,
+        "replies": 2,
+        "quotes": 0,
+        "views": 4217
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2057636625362923680",
+      "url": "https://x.com/DrJackKruse/status/2057636625362923680",
+      "created_at": "2026-05-22T01:36:15.000Z",
+      "text": "I see at least 5 things wrong here. https://t.co/x8n0DID31P",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2057636625362923680",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057578208535703675",
+        "url": "https://x.com/toobaffled/status/2057578208535703675",
+        "created_at": "2026-05-21T21:44:07.000Z",
+        "text": "Poland.  41 years old.  Bodybuilder, personal trainer, and model, died suddenly and unexpectedly.  His agent said he had no idea he was in ill health and looked great prior to his death.  \n\n'His agent Ewa Rączy said: “We’d only seen each other recently through work. He was https://t.co/nNYX1Z9CHl",
+        "lang": "en",
+        "author": {
+          "id": "1560155798046511105",
+          "username": "toobaffled",
+          "name": "“Sudden And Unexpected”"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2057578208535703675",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 49,
+          "retweets": 8,
+          "replies": 9,
+          "quotes": 4,
+          "views": 17897
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 32,
+        "retweets": 1,
+        "replies": 13,
+        "quotes": 0,
+        "views": 13156
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2057630638396649929",
+      "url": "https://x.com/DrJackKruse/status/2057630638396649929",
+      "created_at": "2026-05-22T01:12:27.000Z",
+      "text": "Expect more of that. https://t.co/Ri0DWeiinj",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2057630638396649929",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057627109875687812",
+        "url": "https://x.com/Promptmethus/status/2057627109875687812",
+        "created_at": "2026-05-22T00:58:26.000Z",
+        "text": "@DrJackKruse I'm not sure what the linked post is claiming, but I can report it up here from just below the Northwest Territory border in Alberta that the weather is absolutely bonkers for this season and we are nearing the end of the month. And we still have the same temperatures that we've",
+        "lang": "en",
+        "author": {
+          "id": "1675849051525480448",
+          "username": "Promptmethus",
+          "name": "Promptmetheus (COG/ACC)"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2057266558649401351",
+        "in_reply_to": {
+          "tweet_id": "2057266558649401351",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2057266558649401351"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 10,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 1,
+          "views": 4164
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 15,
+        "retweets": 2,
+        "replies": 2,
+        "quotes": 0,
+        "views": 3728
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2057621031708164144",
+      "url": "https://x.com/DrJackKruse/status/2057621031708164144",
+      "created_at": "2026-05-22T00:34:17.000Z",
+      "text": "This tweet is so retarded it is not funny because its dangerous.  It is fueled by guys like Thomas Seyfried.  \n\nThe assertion that cancer cells cannot process fats is flatly disproven by the physics of tumor adaptation. When a patient cuts 100% of their glucose to force a state https://t.co/96NDGXVsMM https://t.co/eSm7aepRUc",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2057621031708164144",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057422100042744083",
+        "url": "https://x.com/gemoscatelli/status/2057422100042744083",
+        "created_at": "2026-05-21T11:23:48.000Z",
+        "text": "If you or one of your family members have been diagnosed with cancer and the oncologist recommends to continue with a \"Mediterranean diet\" consisting in 3 meals per day full of glucose ask the following question:  \nWhy is radioactive glucose (18F-FDG) used as contrast in Positron https://t.co/LIg7VzTnfE",
+        "lang": "en",
+        "author": {
+          "id": "1264899552869527552",
+          "username": "gemoscatelli",
+          "name": "Gerardo Moscatelli"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2057422100042744083",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 7,
+          "retweets": 1,
+          "replies": 1,
+          "quotes": 0,
+          "views": 7202
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HI4hxTJWYAAb6Hx.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 72,
+        "retweets": 11,
+        "replies": 6,
+        "quotes": 2,
+        "views": 6612
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2057614115086929973",
+      "url": "https://x.com/DrJackKruse/status/2057614115086929973",
+      "created_at": "2026-05-22T00:06:48.000Z",
+      "text": "Given the Telluric currents and the state of Kansas magnetic field and the recent changes to the Schumann resonance,   Makes decentralized sense. https://t.co/7YO6ehVCe3",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2057614115086929973",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057203572924936352",
+        "url": "https://x.com/cynthia_hert/status/2057203572924936352",
+        "created_at": "2026-05-20T20:55:27.000Z",
+        "text": "People across the Midwest reported A RARE “FALLING HOLE”.\nAs sunrise painted the skies above Kansas, Nebraska, Iowa, and parts of the Dakotas, stunned residents watched clouds suddenly open into a massive glowing circle — creating what looked like a giant gateway.\nMay 19, 2026 https://t.co/ZzLdHlMZgs",
+        "lang": "en",
+        "author": {
+          "id": "1394424180217573380",
+          "username": "cynthia_hert",
+          "name": "MT4th"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2057203572924936352",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 1411,
+          "retweets": 393,
+          "replies": 64,
+          "quotes": 57,
+          "views": 44547
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 32,
+        "retweets": 3,
+        "replies": 1,
+        "quotes": 0,
+        "views": 3489
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2057614000922165638",
+      "url": "https://x.com/DrJackKruse/status/2057614000922165638",
+      "created_at": "2026-05-22T00:06:21.000Z",
+      "text": "good. https://t.co/6kvZy7fDfK",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2057614000922165638",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057611067292066125",
+        "url": "https://x.com/Tom_Idaho/status/2057611067292066125",
+        "created_at": "2026-05-21T23:54:41.000Z",
+        "text": "@DrJackKruse I don't think @SunWeatherMan agrees",
+        "lang": "en",
+        "author": {
+          "id": "1599429410033049602",
+          "username": "Tom_Idaho",
+          "name": "Tom-Idaho"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2057610278552977903",
+        "in_reply_to": {
+          "tweet_id": "2057610278552977903",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2057610278552977903"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 1,
+          "views": 2893
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 7,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": 2711
+      },
+      "thread_context": []
+    }
+  ]
+}

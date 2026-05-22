@@ -8,6 +8,10 @@ export const SETTINGS = {
   // Default points at the sibling twitter_to_md/data dir.
   scrapedDataDir: process.env.SCRAPED_DATA_DIR || '../twitter_to_md/data',
 
+  // Where the daily forum scrape JSONs live. Optional — if the file for the
+  // report date is absent, the Forum Insights section is skipped.
+  forumDailyDir: process.env.FORUM_DAILY_DIR || '../forum_to_md/daily',
+
   // Gmail credentials. Use a Google App Password, NOT your account password.
   // Create one: https://myaccount.google.com/apppasswords
   gmailUser: process.env.GMAIL_USER || '',
