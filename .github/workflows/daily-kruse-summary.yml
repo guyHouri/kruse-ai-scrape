@@ -17,6 +17,10 @@ on:
           - force
           - v2-test
           - build-only
+      date:
+        description: 'Report date (YYYY-MM-DD). Empty = yesterday UTC.'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -44,13 +48,18 @@ jobs:
             echo "skip_scrape=true" >> $GITHUB_OUTPUT
             echo "Skipping scrape — v2-test mode"
           else
-            YESTERDAY=$(date -u -d 'yesterday' +%Y-%m-%d)
-            echo "date=$YESTERDAY" >> $GITHUB_OUTPUT
-            if [ -f "twitter_to_md/data/${YESTERDAY}.json" ]; then
-              COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('twitter_to_md/data/${YESTERDAY}.json','utf8')).tweet_count||0)")
+            INPUT_DATE="${{ github.event.inputs.date }}"
+            if [ -n "$INPUT_DATE" ]; then
+              TARGET="$INPUT_DATE"
+            else
+              TARGET=$(date -u -d 'yesterday' +%Y-%m-%d)
+            fi
+            echo "date=$TARGET" >> $GITHUB_OUTPUT
+            if [ -f "twitter_to_md/data/${TARGET}.json" ]; then
+              COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('twitter_to_md/data/${TARGET}.json','utf8')).tweet_count||0)")
               if [ "$COUNT" -gt 0 ]; then
                 echo "skip_scrape=true" >> $GITHUB_OUTPUT
-                echo "Already have ${COUNT} tweets for ${YESTERDAY} — skipping scrape"
+                echo "Already have ${COUNT} tweets for ${TARGET} — skipping scrape"
               else
                 echo "skip_scrape=false" >> $GITHUB_OUTPUT
               fi
@@ -99,13 +108,17 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           LOCATION_LAT: ${{ vars.LOCATION_LAT }}
           LOCATION_LON: ${{ vars.LOCATION_LON }}
+          INCLUDE_FORUM: 'true'
         run: |
           MODE="${{ github.event.inputs.mode }}"
+          DATE="${{ steps.target.outputs.date }}"
+          DATE_FLAG=""
+          if [ -n "$DATE" ]; then DATE_FLAG="--date=$DATE"; fi
           case "$MODE" in
             v2-test)    node main.js --send-v2-test ;;
-            force)      node main.js --force ;;
-            build-only) node main.js --build-only ;;
-            *)          node main.js ;;
+            force)      node main.js --force $DATE_FLAG ;;
+            build-only) node main.js --build-only $DATE_FLAG ;;
+            *)          node main.js $DATE_FLAG ;;
           esac
 
       - name: Commit scraped data + state back

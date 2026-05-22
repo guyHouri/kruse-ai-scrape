@@ -1,0 +1,65 @@
+{
+  "headline_subtitle": "Solid-state biology, tumor physics, geomagnetic noise. No fluff.",
+  "sections": [
+    {
+      "title": "Field Updates",
+      "cards": [
+        {
+          "tag": "Embryonic Biophysics",
+          "lead": "Teeth as Solid-State Light Pipes:",
+          "body": "Kruse reframes teeth as crystalline {{concept:Light-Pipes}} and mineral-dielectric capacitors derived from the same embryonic ectoderm that forms the brain, neural crest, and retina. The implication: dental mineralization status is a direct readout of the same field that runs CNS coherence — not a downstream cosmetic concern.",
+          "concepts": {
+            "Light-Pipes": "Solid-state crystalline structures that conduct photons through their mineral lattice with low scattering. Kruse's framing treats enamel and dentin as a coupled optical waveguide tied to the retinal-pineal axis via shared ectodermal origin — meaning oral mineral state reflects systemic photonic coupling."
+          },
+          "source_quote": "Teeth are not passive chewing stones; they are highly specialized, solid-state crystalline light-pipes and mineral-dielectric capacitors derived directly from the embryonic ectoderm; the identical cellular lineage that wraps and forms the brain, the neural crest, and the retina.",
+          "source_ids": ["2057651116972646824"]
+        },
+        {
+          "tag": "Tumor Metabolism",
+          "lead": "Ketosis Does Not Starve Cancer:",
+          "body": "Direct rebuttal to the Seyfried-line claim that cancer cells can't process fats. Kruse argues tumor adaptation lets cells run on fats once glucose is cut 100% — the {{concept:18F-FDG}} PET imaging story is a measurement artifact, not a metabolic ceiling. Sharp warning that 'starve the tumor with keto' messaging is dangerous to advanced patients who skip real treatment.",
+          "concepts": {
+            "18F-FDG": "Radioactive glucose analogue used as PET imaging contrast. It lights up high-glucose-uptake tissue (most active tumors), which is often misread as proof tumors only consume glucose. In reality it reflects what they preferentially consume under standard fed conditions, not what they're capable of metabolizing when starved of glucose."
+          },
+          "source_quote": "The assertion that cancer cells cannot process fats is flatly disproven by the physics of tumor adaptation.",
+          "source_ids": ["2057621031708164144"]
+        },
+        {
+          "tag": "Geomagnetic Anomaly",
+          "lead": "Kansas Falling Hole + Schumann Shift:",
+          "body": "A rare ring-cloud 'falling hole' opened over Kansas, Nebraska, Iowa and the Dakotas at sunrise on 19 May. Kruse links the event to {{concept:Telluric Currents}}, the local geomagnetic field state, and recent shifts in the {{concept:Schumann Resonance}} — another data point in the dipole-decline narrative.",
+          "concepts": {
+            "Telluric Currents": "Slow-moving electric currents that flow through Earth's crust and oceans, driven by the geomagnetic field and solar-wind interactions. Anomalies correlate with dipole instability and surface electromagnetic disturbances.",
+            "Schumann Resonance": "The ~7.83 Hz electromagnetic standing wave in the cavity between Earth's surface and the ionosphere. Shifts in its frequency or amplitude track changes in the planet's electromagnetic envelope and are used as a biospheric coupling indicator."
+          },
+          "source_quote": "Given the Telluric currents and the state of Kansas magnetic field and the recent changes to the Schumann resonance, Makes decentralized sense.",
+          "source_ids": ["2057614115086929973"]
+        }
+      ]
+    }
+  ],
+  "forum": {
+    "bullets": [
+      {
+        "title": "CPC 83 — Doxy Doping vs Enamel Hypoplasia",
+        "summary": "Members debating doxycycline's role in enamel mineralisation defects. Pairs directly with today's teeth-as-light-pipes thread on X — same ectoderm-derived mineral matrix.",
+        "thread_url": "https://forum.jackkruse.com/threads/cpc-83-doxy-doping-vs-enamel-hypoplasia-vs-hypo-mineralisation.32805/unread"
+      },
+      {
+        "title": "Telluric Communications",
+        "summary": "Pete Collins asks Kruse to categorise the cranial morphology of Rothschild family and Prince William within the telluric-current biology thesis. Pairs with today's Kansas falling-hole / Schumann tweet.",
+        "thread_url": "https://forum.jackkruse.com/threads/telluric-communications.32804/unread"
+      },
+      {
+        "title": "Glucose, Insulin & Deuterium → Cardiac Calcification",
+        "summary": "Practical question on the table: once aortic and heart-valve calcification has formed, can it be reversed via deuterium-depletion protocols, or only prevented? Active thread, no consensus yet.",
+        "thread_url": "https://forum.jackkruse.com/threads/blood-glucose-and-insulin-rise-because-of-deuterium.32796/unread"
+      },
+      {
+        "title": "The Magnetic Excursion Thread",
+        "summary": "Long-running tracking thread on geomagnetic excursion timing; today's note ties dopamine flatlining to the inability to perceive UV/IR coherence — a recurring theme reinforced by today's Kansas anomaly.",
+        "thread_url": "https://forum.jackkruse.com/threads/the-magnetic-excursion-thread.31935/unread"
+      }
+    ]
+  }
+}

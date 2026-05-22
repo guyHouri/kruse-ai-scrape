@@ -97,11 +97,24 @@ async function main() {
     return;
   }
 
+  // Resolve summary JSON in this order:
+  //   1. --summary=<path> flag (explicit override)
+  //   2. kruse-summary/curated/<date>.json (hand-curated, committed to repo)
+  //   3. (future) AI-generated at run time
+  //   4. null → renderer falls back to raw cards
   let summary = null;
+  let summaryPath = null;
   if (args.summary) {
-    const summaryPath = path.isAbsolute(args.summary) ? args.summary : path.join(ROOT, args.summary);
+    summaryPath = path.isAbsolute(args.summary) ? args.summary : path.join(ROOT, args.summary);
+  } else {
+    const auto = path.join(ROOT, 'curated', `${reportDate}.json`);
+    if (fs.existsSync(auto)) summaryPath = auto;
+  }
+  if (summaryPath) {
     summary = JSON.parse(fs.readFileSync(summaryPath, 'utf8'));
     info(`loaded summary from ${summaryPath}`);
+  } else {
+    info('no curated summary found; using raw-card fallback');
   }
   const html = buildReportHtml(reportDate, summary);
   const outDir = path.join(ROOT, 'out');

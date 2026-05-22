@@ -16,6 +16,8 @@ import { info, warn } from './logger.js';
 
 const MAX_PAGES = 3;        // cap pagination — daily volume rarely exceeds page 1
 const WINDOW_HOURS = 24;    // only keep posts from the last N hours
+const POST_BODY_CHAR_CAP = 600;   // truncate post body in the JSON to save tokens
+const FETCH_DELAY_MS = 800;       // polite delay between thread fetches
 
 function timeoutFetch(url, init) {
   const ctl = new AbortController();
@@ -91,6 +93,33 @@ function parseNextPageLink($) {
   return next.startsWith('http') ? next : FORUM_BASE_URL + next;
 }
 
+// Fetch a single thread's "latest" URL and extract the latest post body.
+// XenForo redirects /threads/<slug>.<id>/latest to the thread page anchored
+// on the newest post. We pull all `.message--post .bbWrapper` blocks on that
+// page and pick the last one (newest visible on the page).
+async function fetchLatestPostBody(threadLatestUrl, cookieString) {
+  try {
+    const html = await fetchPage(threadLatestUrl, cookieString);
+    const $ = cheerio.load(html);
+    const wrappers = $('article.message--post .bbWrapper');
+    if (!wrappers.length) return null;
+    // Last wrapper on page = latest post (XenForo ascending order by default).
+    const last = wrappers.last();
+    // Drop nested quote blocks so the AI sees only the post author's words.
+    last.find('blockquote').remove();
+    const text = last.text().replace(/\s+/g, ' ').trim();
+    if (!text) return null;
+    return text.length > POST_BODY_CHAR_CAP
+      ? text.slice(0, POST_BODY_CHAR_CAP).trim() + '…'
+      : text;
+  } catch (e) {
+    warn(`fetchLatestPostBody failed ${threadLatestUrl}: ${e.message}`);
+    return null;
+  }
+}
+
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
 // Fetch up to MAX_PAGES of /find-new/posts, filter to last WINDOW_HOURS,
 // dedup by post_url. Returns sorted-newest-first array.
 export async function fetchRecentPosts(cookieString, { maxPages = MAX_PAGES, windowHours = WINDOW_HOURS } = {}) {
@@ -123,6 +152,17 @@ export async function fetchRecentPosts(cookieString, { maxPages = MAX_PAGES, win
     url = parseNextPageLink($);
   }
   all.sort((a, b) => new Date(b.posted_at) - new Date(a.posted_at));
-  info(`forum-daily: ${all.length} post(s) in last ${windowHours}h`);
+  info(`forum-daily: ${all.length} post(s) in last ${windowHours}h — fetching bodies...`);
+
+  // Hydrate each entry with the latest post body so the AI summarizer has
+  // actual content to work with (the listing page only carries metadata).
+  for (let i = 0; i < all.length; i++) {
+    const p = all[i];
+    const url = p.thread_url || p.post_url;
+    p.content = await fetchLatestPostBody(url, cookieString);
+    info(`forum-daily: [${i + 1}/${all.length}] ${p.content ? `+${p.content.length} chars` : 'no body'} — ${p.thread_title.slice(0, 60)}`);
+    if (i < all.length - 1) await sleep(FETCH_DELAY_MS);
+  }
+
   return all;
 }
