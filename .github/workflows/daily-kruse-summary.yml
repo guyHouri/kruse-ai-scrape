@@ -2,15 +2,14 @@ name: Daily Kruse Summary
 
 on:
   schedule:
-    # Hourly during the pre-sunrise window for Jerusalem year-round.
-    # Sunrise varies ~03:30 UTC summer to ~04:40 UTC winter; 1h before = 02:30-03:40.
+    # Pre-sunrise window for Jerusalem year-round (~02:00-04:30 UTC).
     - cron: '0,30 2-4 * * *'
   workflow_dispatch:
     inputs:
       mode:
         description: 'Run mode'
         required: false
-        default: 'normal'
+        default: 'force'
         type: choice
         options:
           - normal
@@ -18,7 +17,7 @@ on:
           - v2-test
           - build-only
       date:
-        description: 'Report date (YYYY-MM-DD). Empty = yesterday UTC.'
+        description: 'Report date (YYYY-MM-DD). Empty → today UTC for manual runs, yesterday UTC for cron.'
         required: false
         default: ''
 
@@ -30,78 +29,58 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  scrape-and-send:
+  build-and-send:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
+        with: { fetch-depth: 1 }
 
       - uses: actions/setup-node@v4
-        with:
-          node-version: '20'
+        with: { node-version: '20' }
 
-      - name: Determine target date
+      - name: Pick target date
         id: target
         run: |
-          if [ "${{ github.event.inputs.mode }}" = "v2-test" ]; then
-            echo "skip_scrape=true" >> $GITHUB_OUTPUT
-            echo "Skipping scrape — v2-test mode"
+          INPUT_DATE="${{ github.event.inputs.date }}"
+          if [ -n "$INPUT_DATE" ]; then
+            TARGET="$INPUT_DATE"
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            # Manual run with no date → today UTC. Users testing want current content.
+            TARGET=$(date -u +%Y-%m-%d)
           else
-            INPUT_DATE="${{ github.event.inputs.date }}"
-            if [ -n "$INPUT_DATE" ]; then
-              TARGET="$INPUT_DATE"
-            else
-              TARGET=$(date -u -d 'yesterday' +%Y-%m-%d)
-            fi
-            echo "date=$TARGET" >> $GITHUB_OUTPUT
-            if [ -f "twitter_to_md/data/${TARGET}.json" ]; then
-              COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('twitter_to_md/data/${TARGET}.json','utf8')).tweet_count||0)")
-              if [ "$COUNT" -gt 0 ]; then
-                echo "skip_scrape=true" >> $GITHUB_OUTPUT
-                echo "Already have ${COUNT} tweets for ${TARGET} — skipping scrape"
-              else
-                echo "skip_scrape=false" >> $GITHUB_OUTPUT
-              fi
-            else
-              echo "skip_scrape=false" >> $GITHUB_OUTPUT
-            fi
+            # Scheduled cron → yesterday UTC (the day that just ended).
+            TARGET=$(date -u -d 'yesterday' +%Y-%m-%d)
           fi
+          echo "date=$TARGET" >> $GITHUB_OUTPUT
+          echo "Target date: $TARGET"
 
-      - name: Install twitter_to_md
-        if: steps.target.outputs.skip_scrape != 'true'
-        working-directory: twitter_to_md
-        run: npm install
-
-      - name: Scrape target date (X API)
-        if: steps.target.outputs.skip_scrape != 'true'
+      - name: Scrape X tweets (skip if already cached)
+        if: github.event.inputs.mode != 'v2-test'
         working-directory: twitter_to_md
         env:
           XAPI_BEARER_TOKEN: ${{ secrets.XAPI_BEARER_TOKEN }}
-        run: node main.js --date=${{ steps.target.outputs.date }}
+        run: |
+          TARGET="${{ steps.target.outputs.date }}"
+          if [ -f "data/${TARGET}.json" ] && \
+             [ "$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/${TARGET}.json','utf8')).tweet_count||0)")" -gt 0 ]; then
+            echo "Already have tweets for $TARGET — skipping X API call."
+            exit 0
+          fi
+          npm install
+          node main.js --date=$TARGET
 
-      - name: Install forum_to_md
-        if: github.event.inputs.mode != 'v2-test'
-        working-directory: forum_to_md
-        run: npm install
-
-      - name: Scrape forum new posts (last 24h)
+      - name: Scrape forum (last 24h)
         if: github.event.inputs.mode != 'v2-test'
         working-directory: forum_to_md
         env:
           FORUM_USERNAME: ${{ secrets.FORUM_USERNAME }}
           FORUM_PASSWORD: ${{ secrets.FORUM_PASSWORD }}
-        # No --date → defaults to today UTC. /find-new/posts is "newest first
-        # back from now", so the snapshot semantically belongs to today.
-        # main-daily.js self-skips if the day's file is fresh (<4h) — protects
-        # against the multiple morning-cron fires re-logging in.
-        run: node main-daily.js
+        # main-daily.js self-skips if the day's file is <4h old.
+        run: |
+          npm install
+          node main-daily.js
 
-      - name: Install kruse-summary
-        working-directory: kruse-summary
-        run: npm install
-
-      - name: Build + maybe send report
+      - name: Build report + send email
         working-directory: kruse-summary
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
@@ -110,6 +89,7 @@ jobs:
           LOCATION_LON: ${{ vars.LOCATION_LON }}
           INCLUDE_FORUM: 'true'
         run: |
+          npm install
           MODE="${{ github.event.inputs.mode }}"
           DATE="${{ steps.target.outputs.date }}"
           DATE_FLAG=""
@@ -121,10 +101,10 @@ jobs:
             *)          node main.js $DATE_FLAG ;;
           esac
 
-      - name: Commit scraped data + state back
+      - name: Commit data + state back to repo
         run: |
           git config user.name "kruse-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add twitter_to_md/data forum_to_md/daily kruse-summary/last-sent.json || true
-          git diff --cached --quiet || git commit -m "daily: scrape + send $(date -u +%Y-%m-%d)"
+          git add twitter_to_md/data forum_to_md/daily kruse-summary/last-sent.json kruse-summary/out 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "daily: ${{ steps.target.outputs.date }}"
           git push || true
