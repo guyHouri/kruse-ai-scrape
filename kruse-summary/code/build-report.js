@@ -189,7 +189,11 @@ export function buildReportHtml(date, summary = null) {
   const twitterHtml = summary?.sections?.length
     ? renderSections(summary)
     : renderFallbackSections(day);
-  const forumHtml = renderForumSection(forumDay, summary?.forum);
+  // Forum section gated: only render when the env flag is on AND we have
+  // forum data. User wants to validate forum data quality before letting it
+  // into the daily mail. Scrape still runs daily so we accumulate state.
+  const includeForum = process.env.INCLUDE_FORUM === 'true';
+  const forumHtml = includeForum ? renderForumSection(forumDay, summary?.forum) : '';
   const sectionsHtml = [twitterHtml, forumHtml].filter(Boolean).join('\n');
   info(`built report for ${date}: ${summary ? `${summary.sections.length} section(s) curated` : `${day.tweets?.length || 0} raw tweets`}${forumDay ? ` + ${forumDay.posts?.length || 0} forum posts` : ''}`);
 

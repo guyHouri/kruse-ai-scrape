@@ -82,7 +82,11 @@ jobs:
         env:
           FORUM_USERNAME: ${{ secrets.FORUM_USERNAME }}
           FORUM_PASSWORD: ${{ secrets.FORUM_PASSWORD }}
-        run: node main-daily.js --date=${{ steps.target.outputs.date }}
+        # No --date → defaults to today UTC. /find-new/posts is "newest first
+        # back from now", so the snapshot semantically belongs to today.
+        # main-daily.js self-skips if the day's file is fresh (<4h) — protects
+        # against the multiple morning-cron fires re-logging in.
+        run: node main-daily.js
 
       - name: Install kruse-summary
         working-directory: kruse-summary

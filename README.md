@@ -7,17 +7,26 @@ Each source has its own self-contained Node.js scraper under this repo root. Mod
 ```
 kruse-ai-scrape/
 ├── forum_to_md/            forum.jackkruse.com (XenForo) — 19,800 threads, ~25M words
+│                           (also: daily new-posts scraper — see DAILY_PIPELINE.md)
+├── twitter_to_md/          @DrJackKruse via official X API v2 (daily JSON per UTC day)
+├── kruse-summary/          Daily HTML digest + Gmail mailer (GitHub Actions cron)
 ├── private/                [SUBMODULE] private modules (kemono, future Q&A RAG) — see PRIVATE_MODULES.md
 ├── threadreader_to_md/     Thread Reader App / X tweet-thread archive
 ├── linkedin_to_md/         LinkedIn Pulse archive (xlsx + Playwright scrape)
 ├── free_blogs_md/          Jack's free blog posts compiled from PDF
 ├── website_to_md/          LEGACY general-purpose scraper — other modules built from its patterns
+├── .github/workflows/      Daily Kruse Summary cron job
 ├── docs/sources.md         knowledge-source index (priority + difficulty per source)
 ├── AGENTS.md               AI-assistant-facing project context (also linked as CLAUDE.md)
+├── DAILY_PIPELINE.md       end-to-end docs for the automated daily digest
 ├── FUTURE_IMPROVEMENTS.md  roadmap: weekly auto-update + Q&A RAG + smaller wins
 ├── README.md               this file
 └── LICENSE                 MIT
 ```
+
+> Two distinct things in this repo:
+> 1. **Static bundle scrapers** (the original purpose) — produce NotebookLM-ready archives. Documented below.
+> 2. **Daily digest pipeline** — `twitter_to_md` + `forum_to_md/main-daily.js` + `kruse-summary` + GitHub Actions cron. Sends a curated email every morning. See [`DAILY_PIPELINE.md`](DAILY_PIPELINE.md) for that.
 
 ## Data sources
 
