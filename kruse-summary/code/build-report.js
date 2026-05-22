@@ -36,15 +36,15 @@ function loadForumDay(date) {
 }
 
 function renderForumSection(forumDay, summaryForum) {
-  // If the AI summary supplied a curated forum section, prefer it.
+  // Curated path (preferred): AI/hand summary supplied themed bullets.
   if (summaryForum?.bullets?.length) {
     const items = summaryForum.bullets.map((b) => {
       const link = b.thread_url
         ? `<a href="${esc(b.thread_url)}" target="_blank" class="source-link">See full thread →</a>`
         : `<a href="https://forum.jackkruse.com" target="_blank" class="source-link">forum.jackkruse.com →</a>`;
-      return `<li><div class="forum-item"><div class="forum-meta"><strong>${esc(b.title)}:</strong> ${link}</div><div class="item-text" style="color:#cbd5e1;font-size:0.95rem;">${esc(b.summary || '')}</div></div></li>`;
+      return `<li><div class="forum-item"><div class="forum-meta"><strong>${esc(b.title)}:</strong> ${link}</div><div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">${esc(b.summary || '')}</div></div></li>`;
     }).join('');
-    return `      <div class="section-title">Forum Insights</div>
+    return `      <div class="section-title">Forum Updates</div>
       <div class="card"><ul class="bullet-list">${items}</ul></div>`;
   }
   // Fallback: raw scraped posts (no curation).
@@ -57,11 +57,11 @@ function renderForumSection(forumDay, summaryForum) {
           <strong>${esc(p.thread_title)}:</strong>
           <a href="${esc(p.thread_url)}" target="_blank" class="source-link">See full thread →</a>
         </div>
-        <div class="item-text" style="color:#9ca3af;font-size:0.85rem;">${esc(meta)}</div>
+        <div class="item-text" style="color:var(--text-muted);font-size:0.85rem;">${esc(meta)}</div>
       </div>
     </li>`;
   }).join('');
-  return `      <div class="section-title">Forum Insights (${forumDay.posts.length} new in last ${forumDay.window_hours || 24}h)</div>
+  return `      <div class="section-title">Forum Updates (${forumDay.posts.length} new in last ${forumDay.window_hours || 24}h)</div>
       <div class="card"><ul class="bullet-list">${items}</ul></div>`;
 }
 
@@ -175,7 +175,7 @@ ${cards}`;
 function renderFallbackSections(day) {
   const cards = (day.tweets || []).map((t, i) => renderFallbackTweetCard(t, i)).join('\n');
   const empty = `<div class="card"><div class="item-text" style="color:#9ca3af;text-align:center;">No tweets in this window.</div></div>`;
-  return `      <div class="section-title">Field Updates (${day.tweets?.length || 0} from @${esc(day.handle || 'DrJackKruse')})</div>
+  return `      <div class="section-title">Twitter Updates (${day.tweets?.length || 0} from @${esc(day.handle || 'DrJackKruse')})</div>
 ${day.tweets?.length ? cards : empty}`;
 }
 
@@ -205,48 +205,96 @@ export function buildReportHtml(date, summary = null) {
   <title>Kruse Report ${dateDisplay}</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
   <style>
+    /* Dark theme (default) */
     :root {
       --bg-color: #0b0f19;
       --card-bg: #151c2c;
+      --card-border: #202b42;
+      --card-border-hover: #2e3e5f;
+      --section-rule: #24314b;
       --text-color: #f3f4f6;
+      --text-soft: #cbd5e1;
+      --text-body: #e5e7eb;
       --text-muted: #9ca3af;
       --accent-color: #3b82f6;
       --accent-hover: #60a5fa;
       --locked-color: #4b5563;
+      --tag-bg: #1e293b;
+      --quote-bg: #0f1524;
+      --quote-rule: #4b5563;
+      --expanded-bg: #0f1524;
+      --locked-grad-start: #151c2c;
+      --locked-grad-end: #111622;
+      --locked-dash: #2d3748;
+      --locked-badge-bg: #27272a;
+      --locked-badge-fg: #a1a1aa;
+      --footer-color: #6b7280;
+      --toggle-bg: rgba(255,255,255,0.06);
+      --toggle-border: rgba(255,255,255,0.12);
+    }
+    /* Light theme — toggled by class on <body> */
+    body.light {
+      --bg-color: #f9fafb;
+      --card-bg: #ffffff;
+      --card-border: #e5e7eb;
+      --card-border-hover: #cbd5e1;
+      --section-rule: #e5e7eb;
+      --text-color: #0f172a;
+      --text-soft: #334155;
+      --text-body: #1f2937;
+      --text-muted: #6b7280;
+      --accent-color: #2563eb;
+      --accent-hover: #1d4ed8;
+      --locked-color: #94a3b8;
+      --tag-bg: #eff6ff;
+      --quote-bg: #f1f5f9;
+      --quote-rule: #cbd5e1;
+      --expanded-bg: #f1f5f9;
+      --locked-grad-start: #ffffff;
+      --locked-grad-end: #f3f4f6;
+      --locked-dash: #cbd5e1;
+      --locked-badge-bg: #e5e7eb;
+      --locked-badge-fg: #475569;
+      --footer-color: #94a3b8;
+      --toggle-bg: rgba(0,0,0,0.04);
+      --toggle-border: rgba(0,0,0,0.12);
     }
     * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', sans-serif; }
-    body { background-color: var(--bg-color); color: var(--text-color); padding: 40px 20px; display: flex; justify-content: center; align-items: flex-start; min-height: 100vh; }
+    body { background-color: var(--bg-color); color: var(--text-color); padding: 40px 20px; display: flex; justify-content: center; align-items: flex-start; min-height: 100vh; transition: background-color 0.2s ease, color 0.2s ease; }
     .container { width: 100%; max-width: 650px; display: flex; flex-direction: column; gap: 20px; }
-    header { text-align: center; margin-bottom: 10px; }
+    header { text-align: center; margin-bottom: 10px; position: relative; }
     h1 { font-size: 2.3rem; font-weight: 700; letter-spacing: -0.5px; background: linear-gradient(45deg, #3b82f6, #9333ea); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; margin-bottom: 4px; }
     .subtitle { font-size: 1rem; color: var(--text-muted); font-weight: 300; }
-    .section-title { font-size: 1.3rem; font-weight: 700; color: var(--accent-hover); border-bottom: 1px solid #24314b; padding-bottom: 6px; margin-top: 10px; }
-    .card { background-color: var(--card-bg); border: 1px solid #202b42; border-radius: 12px; padding: 16px 20px; display: flex; flex-direction: column; gap: 10px; transition: border-color 0.2s ease; }
-    .card:hover { border-color: #2e3e5f; }
-    .card-header { display: flex; justify-content: space-between; align-items: center; }
-    .tag { background-color: #1e293b; color: #3b82f6; padding: 2px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; }
+    .theme-toggle { position: absolute; top: 0; right: 0; background: var(--toggle-bg); border: 1px solid var(--toggle-border); color: var(--text-color); cursor: pointer; padding: 6px 10px; border-radius: 20px; font-size: 0.85rem; line-height: 1; transition: background 0.2s ease; }
+    .theme-toggle:hover { background: var(--card-border); }
+    .section-title { font-size: 1.3rem; font-weight: 700; color: var(--accent-hover); border-bottom: 1px solid var(--section-rule); padding-bottom: 6px; margin-top: 10px; }
+    .card { background-color: var(--card-bg); border: 1px solid var(--card-border); border-radius: 12px; padding: 16px 20px; display: flex; flex-direction: column; gap: 10px; transition: border-color 0.2s ease, background-color 0.2s ease; }
+    .card:hover { border-color: var(--card-border-hover); }
+    .card-header { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .tag { background-color: var(--tag-bg); color: var(--accent-color); padding: 2px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; }
     .source-link { font-size: 0.8rem; color: var(--text-muted); text-decoration: none; border-bottom: 1px dashed var(--text-muted); transition: all 0.2s ease; }
     .source-link:hover { color: var(--accent-hover); border-bottom-color: var(--accent-hover); }
-    .item-text { font-size: 1rem; line-height: 1.45; color: #e5e7eb; }
-    .source-quote { background: #0f1524; border-left: 3px solid #4b5563; border-radius: 4px 8px 8px 4px; padding: 10px 14px; font-style: italic; font-size: 0.92rem; color: #9ca3af; }
+    .item-text { font-size: 1rem; line-height: 1.45; color: var(--text-body); }
+    .source-quote { background: var(--quote-bg); border-left: 3px solid var(--quote-rule); border-radius: 4px 8px 8px 4px; padding: 10px 14px; font-style: italic; font-size: 0.92rem; color: var(--text-muted); }
     .bullet-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px; }
     .bullet-list li { position: relative; padding-left: 18px; line-height: 1.45; font-size: 1rem; }
     .bullet-list li::before { content: "•"; color: var(--accent-color); font-weight: bold; position: absolute; left: 0; top: 0; }
     .forum-item { display: flex; flex-direction: column; gap: 4px; }
     .forum-meta { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; flex-wrap: wrap; }
-    .expandable-concept { color: #60a5fa; border-bottom: 1px dashed #60a5fa; cursor: pointer; font-weight: 600; }
-    .expanded-content { max-height: 0; overflow: hidden; background-color: #0f1524; border-radius: 6px; padding: 0 12px; transition: max-height 0.25s ease, padding 0.25s ease, margin 0.25s ease; font-size: 0.9rem; color: #cbd5e1; }
-    .expanded-content.open { max-height: 400px; padding: 10px 12px; margin-top: 6px; border-left: 3px solid #3b82f6; }
-    .locked-section { background: linear-gradient(180deg, var(--card-bg) 0%, #111622 100%); border: 1px dashed #2d3748; border-radius: 12px; padding: 24px; text-align: center; opacity: 0.8; }
+    .expandable-concept { color: var(--accent-hover); border-bottom: 1px dashed var(--accent-hover); cursor: pointer; font-weight: 600; }
+    .expanded-content { max-height: 0; overflow: hidden; background-color: var(--expanded-bg); border-radius: 6px; padding: 0 12px; transition: max-height 0.25s ease, padding 0.25s ease, margin 0.25s ease; font-size: 0.9rem; color: var(--text-soft); }
+    .expanded-content.open { max-height: 400px; padding: 10px 12px; margin-top: 6px; border-left: 3px solid var(--accent-color); }
+    .locked-section { background: linear-gradient(180deg, var(--locked-grad-start) 0%, var(--locked-grad-end) 100%); border: 1px dashed var(--locked-dash); border-radius: 12px; padding: 24px; text-align: center; opacity: 0.85; }
     .locked-title { font-size: 1.1rem; font-weight: 600; color: var(--locked-color); margin-bottom: 4px; }
-    .locked-badge { font-size: 0.7rem; background-color: #27272a; color: #a1a1aa; padding: 1px 6px; border-radius: 4px; font-weight: 700; margin-left: 6px; }
-    footer { text-align: center; color: #6b7280; font-size: 0.75rem; margin-top: 12px; }
-    footer a { color: #6b7280; }
+    .locked-badge { font-size: 0.7rem; background-color: var(--locked-badge-bg); color: var(--locked-badge-fg); padding: 1px 6px; border-radius: 4px; font-weight: 700; margin-left: 6px; }
+    footer { text-align: center; color: var(--footer-color); font-size: 0.75rem; margin-top: 12px; }
+    footer a { color: var(--footer-color); }
   </style>
 </head>
 <body>
   <div class="container">
     <header>
+      <button type="button" class="theme-toggle" id="themeToggle" aria-label="Toggle dark/light mode">🌙 Dark</button>
       <h1>Kruse Report ${dateDisplay}</h1>
       <div class="subtitle">${esc(subtitle)}</div>
     </header>
@@ -267,6 +315,22 @@ ${sectionsHtml}
       var el = document.getElementById(id);
       if (el) el.classList.toggle('open');
     }
+    (function () {
+      var btn = document.getElementById('themeToggle');
+      var saved = null;
+      try { saved = localStorage.getItem('kruse-theme'); } catch (e) {}
+      if (saved === 'light') document.body.classList.add('light');
+      function syncLabel() {
+        if (!btn) return;
+        btn.textContent = document.body.classList.contains('light') ? '☀ Light' : '🌙 Dark';
+      }
+      syncLabel();
+      if (btn) btn.addEventListener('click', function () {
+        document.body.classList.toggle('light');
+        try { localStorage.setItem('kruse-theme', document.body.classList.contains('light') ? 'light' : 'dark'); } catch (e) {}
+        syncLabel();
+      });
+    })();
   </script>
 </body>
 </html>`;

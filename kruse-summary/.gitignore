@@ -1,6 +1,5 @@
 node_modules/
 .env
-out/
 
 # Private iteration notes / chat dumps — keep style refs local only.
 prompts/creat-json-conversation.txt

@@ -1,8 +1,9 @@
 {
   "headline_subtitle": "Solid-state biology, tumor physics, geomagnetic noise. No fluff.",
+  "reader_level": "intermediate",
   "sections": [
     {
-      "title": "Field Updates",
+      "title": "Twitter Updates",
       "cards": [
         {
           "tag": "Embryonic Biophysics",
@@ -30,7 +31,7 @@
           "body": "A rare ring-cloud 'falling hole' opened over Kansas, Nebraska, Iowa and the Dakotas at sunrise on 19 May. Kruse links the event to {{concept:Telluric Currents}}, the local geomagnetic field state, and recent shifts in the {{concept:Schumann Resonance}} — another data point in the dipole-decline narrative.",
           "concepts": {
             "Telluric Currents": "Slow-moving electric currents that flow through Earth's crust and oceans, driven by the geomagnetic field and solar-wind interactions. Anomalies correlate with dipole instability and surface electromagnetic disturbances.",
-            "Schumann Resonance": "The ~7.83 Hz electromagnetic standing wave in the cavity between Earth's surface and the ionosphere. Shifts in its frequency or amplitude track changes in the planet's electromagnetic envelope and are used as a biospheric coupling indicator."
+            "Schumann Resonance": "The ~7.83 Hz electromagnetic standing wave in the cavity between Earth's surface and the ionosphere. Shifts in its frequency or amplitude track changes in the planet's electromagnetic envelope."
           },
           "source_quote": "Given the Telluric currents and the state of Kansas magnetic field and the recent changes to the Schumann resonance, Makes decentralized sense.",
           "source_ids": ["2057614115086929973"]
@@ -41,24 +42,24 @@
   "forum": {
     "bullets": [
       {
-        "title": "CPC 83 — Doxy Doping vs Enamel Hypoplasia",
-        "summary": "Members debating doxycycline's role in enamel mineralisation defects. Pairs directly with today's teeth-as-light-pipes thread on X — same ectoderm-derived mineral matrix.",
-        "thread_url": "https://forum.jackkruse.com/threads/cpc-83-doxy-doping-vs-enamel-hypoplasia-vs-hypo-mineralisation.32805/unread"
-      },
-      {
-        "title": "Telluric Communications",
-        "summary": "Pete Collins asks Kruse to categorise the cranial morphology of Rothschild family and Prince William within the telluric-current biology thesis. Pairs with today's Kansas falling-hole / Schumann tweet.",
-        "thread_url": "https://forum.jackkruse.com/threads/telluric-communications.32804/unread"
-      },
-      {
-        "title": "Glucose, Insulin & Deuterium → Cardiac Calcification",
-        "summary": "Practical question on the table: once aortic and heart-valve calcification has formed, can it be reversed via deuterium-depletion protocols, or only prevented? Active thread, no consensus yet.",
+        "title": "Aortic Calcification Reversal — Clinical Q",
+        "summary": "AntonisK asks in the deuterium/insulin thread whether aortic and heart-valve calcification can be REVERSED once formed via deuterium-depletion + protocol, or only prevented. Specific clinical question; no member consensus yet.",
         "thread_url": "https://forum.jackkruse.com/threads/blood-glucose-and-insulin-rise-because-of-deuterium.32796/unread"
       },
       {
-        "title": "The Magnetic Excursion Thread",
-        "summary": "Long-running tracking thread on geomagnetic excursion timing; today's note ties dopamine flatlining to the inability to perceive UV/IR coherence — a recurring theme reinforced by today's Kansas anomaly.",
-        "thread_url": "https://forum.jackkruse.com/threads/the-magnetic-excursion-thread.31935/unread"
+        "title": "Tooth Loss ↔ Glioma — New Link Thread",
+        "summary": "New thread proposing a biophysical link between tooth loss and glioma incidence — direct extension of today's teeth-as-light-pipes tweet (shared ectodermal lineage between dentin matrix and CNS).",
+        "thread_url": "https://forum.jackkruse.com/threads/is-there-a-link-between-tooth-loss-and-glioma.32796/unread"
+      },
+      {
+        "title": "DDW vs 3% NaCl for De-Fragging Protocol",
+        "summary": "New comparison thread on the relative efficacy of deuterium-depleted water versus 3% NaCl for the water-lattice de-fragging protocol. Members publishing parameter ranges and personal results.",
+        "thread_url": "https://forum.jackkruse.com/threads/comparison-of-ddw-ppm-and-3-nacl-for-de-fragging-protocol.32750/unread"
+      },
+      {
+        "title": "Brachistochrone of Decentralized Biology",
+        "summary": "New thread mapping Kruse's framework onto the brachistochrone curve — fastest path through a redox gradient. Members extending the analogy with concrete habit/protocol orderings.",
+        "thread_url": "https://forum.jackkruse.com/threads/decentralized-biologys-brachistrochrone.32790/unread"
       }
     ]
   }

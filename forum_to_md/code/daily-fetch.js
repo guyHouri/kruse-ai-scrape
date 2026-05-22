@@ -126,7 +126,10 @@ export async function fetchRecentPosts(cookieString, { maxPages = MAX_PAGES, win
   const cutoff = Date.now() - windowHours * 60 * 60 * 1000;
   const seen = new Set();
   const all = [];
-  let url = `${FORUM_BASE_URL}/find-new/posts/`;
+  // /find-new/posts/ filters by "since YOUR last visit" — narrow on a daily
+  // cron logging in fresh. /whats-new/posts/ is the broader recent-activity
+  // listing across the whole forum (~20 entries/page, then paginated).
+  let url = `${FORUM_BASE_URL}/whats-new/posts/`;
   for (let page = 1; page <= maxPages && url; page++) {
     info(`forum-daily: fetching page ${page} ${url}`);
     const html = await fetchPage(url, cookieString);
