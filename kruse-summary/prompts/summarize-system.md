@@ -162,8 +162,17 @@ output an empty `forum.bullets` array. Empty beats padding.
   If the day truly only contains restated positions and skip-pile material,
   output a single card noting that explicitly ("Quiet day — no new
   discoveries surfaced; restated positions on X, Y").
-- Forum Updates: **0-5 bullets**. Zero is acceptable if nothing met the
-  signal bar.
+- Forum Updates: **0-8 bullets**. Surface every thread that clears the
+  signal bar — don't ration when there's real material. Zero is still
+  acceptable on a genuinely quiet day.
+
+## Bullet text — describe content, not authorship
+
+Author identity (Jack vs. member) is an INTERNAL filtering signal —
+NEVER leak it into the user-facing bullet title or summary. Do not write
+"Jack-authored thread proposes X" or "Member-surfaced Y". Write
+**"Proposes X"** or **"Y"** directly. The reader cares about the claim,
+not who typed it.
 
 ## Input shape
 

@@ -58,13 +58,19 @@
   "forum": {
     "bullets": [
       {
-        "title": "Tooth Loss ↔ Glioma — Jack's New Hypothesis",
-        "summary": "Jack-authored thread proposes a direct link between dental mineralisation defects and glioma incidence — same embryonic ectoderm lineage forms both the dentin matrix and the CNS glia. Directly extends today's teeth-as-light-pipes tweet.",
+        "title": "Tooth Loss ↔ Glioma — Shared Ectoderm Lineage",
+        "summary": "New hypothesis: dental mineralisation defects and glioma incidence share the same embryonic {{concept:ectoderm}} origin — dentin matrix and CNS glia descend from one cell line, so a single field failure can explain both. Direct extension of today's teeth-as-light-pipes tweet.",
+        "concepts": {
+          "ectoderm": {
+            "level": "noob",
+            "text": "The outermost of the three primary germ layers in early embryonic development. It gives rise to the nervous system, skin, hair, teeth enamel and the retina — meaning the brain and the teeth derive from the same starter cells."
+          }
+        },
         "thread_url": "https://forum.jackkruse.com/threads/is-there-a-link-between-tooth-loss-and-glioma.32815/unread"
       },
       {
         "title": "De-Fragging the Water Table with LSD",
-        "summary": "Jack-authored thread proposing psychedelic-induced dopamine surge as a temporal-redox lever for {{concept:de-fragging}} the intracellular water lattice. Speculative but explicit — first time he ties an exogenous compound to the de-fragging protocol.",
+        "summary": "Novel protocol angle: psychedelic-induced dopamine surge as a temporal-redox lever for {{concept:de-fragging}} the intracellular water lattice. First time an exogenous compound is explicitly tied to the de-fragging protocol — speculative, but a concrete mechanism.",
         "concepts": {
           "de-fragging": {
             "level": "noob",
@@ -75,7 +81,7 @@
       },
       {
         "title": "Brachistochrone of Decentralized Biology",
-        "summary": "Jack-authored thread mapping the {{concept:Brachistochrone}} curve onto the optimal path through a redox gradient — fastest route from low-coherence to high-coherence cellular state. Frames protocol stacking as a path-optimization problem, not a checklist.",
+        "summary": "Mapping the {{concept:Brachistochrone}} curve onto the optimal path through a redox gradient — fastest route from low- to high-coherence cellular state. Frames protocol stacking as a path-optimization problem, not a flat checklist.",
         "concepts": {
           "Brachistochrone": {
             "level": "noob",
@@ -83,6 +89,31 @@
           }
         },
         "thread_url": "https://forum.jackkruse.com/threads/decentralized-biologys-brachistrochrone.32660/unread"
+      },
+      {
+        "title": "3 Melanins — Upstream Cadaver-Cohort Citations",
+        "summary": "Dr Rob surfaces the {{concept:Teghan Lucas}} / {{concept:Maciej Henneberg}} cadaver-cohort work as the actual primary source for the cranial-secular-trend literature across industrialised northern-European populations — the data centralized takes typically misread.",
+        "concepts": {
+          "Teghan Lucas": {
+            "level": "noob",
+            "text": "Australian anatomist (Flinders University). Known for cadaver-based studies documenting modern secular trends in human skeletal anatomy — e.g., the rise of the external occipital protuberance ('phone horn') in younger populations."
+          },
+          "Maciej Henneberg": {
+            "level": "noob",
+            "text": "Polish-Australian biological anthropologist (University of Adelaide), long-time Lucas collaborator. Builds population-scale anatomical datasets that document microevolution and secular trends across industrialised societies."
+          }
+        },
+        "thread_url": "https://forum.jackkruse.com/threads/bad-mitochrondrial-science-ideas-inspired-by-fiat-3-melanins.32805/unread"
+      },
+      {
+        "title": "nnEMF Field-Survey Protocol",
+        "summary": "Concrete home-shielding workflow: walk the perimeter to identify the strongest-signal side, scan for nearby cell towers; if no tower is close, attribute to neighbour Wi-Fi. For single-story homes, wire-mesh fence shielding on the implicated side. Transferable, parameter-light.",
+        "thread_url": "https://forum.jackkruse.com/threads/i-stay-away-from-nnemf.32757/unread"
+      },
+      {
+        "title": "Hypermobility & Ehlers-Danlos as Field-Coupling Failure",
+        "summary": "Mapping connective-tissue laxity in Ehlers-Danlos Syndrome to localized loss of melanin-tied redox shielding — extends the coherence thesis to a defined clinical phenotype. Implies the protocol stack for hypermobile patients should center on redox restoration, not collagen support.",
+        "thread_url": "https://forum.jackkruse.com/threads/hypermobility-ehlers-danios-syndrome.29636/unread"
       }
     ]
   }
