@@ -161,13 +161,23 @@ The `body` keeps Kruse's vocabulary verbatim (Warburg shift, de-fragging,
 nnEMF, etc.) but wraps unfamiliar terms in `{{concept:Term}}` so the
 renderer can expand them per the reader-level toggle.
 
-### 3g. Source quote = the actual cited research, prominently
+### 3g. Source quote = only when the verbatim adds NEW value
 
-When Kruse is reacting to a research-source tweet (quoting a researcher,
-journalist, or paper author), put the **verbatim text of that source
-tweet** into `source_quote` — not Kruse's own line. The renderer displays
-it as an italic blockquote so the reader sees the actual claim being
-addressed. Kruse's response goes in the body.
+Use `source_quote` ONLY when the verbatim text gives the reader
+something they wouldn't get from the body alone — e.g.:
+
+- a numerical data point from a paper or lab
+- a researcher's own concise summary of their finding
+- a clinical observation in the original phrasing
+
+SKIP `source_quote` when:
+- It only restates what your `body` or `points` already explained.
+- It's snark, dismissive framing, or a meme quote without information.
+- It's marketing-style social-media phrasing without data.
+- It's the quoted tweet's general topic statement (you already explained the topic).
+
+Default is to omit. When in doubt, leave it out — the citations array
+(when present) already shows the reader where the data comes from.
 
 ### 3h. Order cards by evidence weight
 
@@ -232,6 +242,18 @@ brand discussions, Magnetico tuning threads).
 
 Apply lay-person voice (per §3f) to forum bullet `title` too.
 
+### 4e. Forum bullet must answer "what do I gain by reading this?"
+
+Before emitting a bullet, ask: if a reader clicks through, will they
+learn something concrete in the first 30 seconds? If the thread is just
+Jack's title + topic gesture with no specific claim/mechanism/protocol
+visible in the input's `content` field, **drop the bullet**. Don't
+bullet "Jack started a thread on X" — bullet "Jack proposes X
+mechanism" with the actual mechanism in the summary.
+
+A forum bullet you can't summarise concretely is filler. Filler erodes
+the digest's signal-to-noise. Drop it.
+
 ---
 
 ## 5. Concept tagging rules
@@ -271,6 +293,16 @@ name — wrap it as `{{concept:Term}}` with an explainer. Don't assume
 "the reader will figure it out from context." Don't tag the same term
 twice in the same card (the first marker is enough) — but DO tag it
 again in a different card.
+
+**Reasoning step for every term you write**: before you commit a word
+to the output, ask: "would a smart-but-non-biology-trained reader know
+this immediately?" If no → wrap it. This includes things like:
+nicotinic acid, nicotinamide, pyruvate, acetyl-CoA, protium, ATP
+synthase, monocyte, hepatocyte, melanocyte, dielectric collapse, EZ
+water, autophagy, apoptosis, ribosome, mRNA, telomere, kinase,
+phosphorylation, transcription factor, endoplasmic reticulum, Golgi,
+chaperone protein, exclusion zone. Tag them. The clutter of many chips
+is the price of not leaving the reader behind.
 
 Researcher names get explainers naming the institution and the
 specific work being referenced (one or two sentences).
