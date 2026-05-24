@@ -85,6 +85,7 @@ jobs:
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           LOCATION_LAT: ${{ vars.LOCATION_LAT }}
           LOCATION_LON: ${{ vars.LOCATION_LON }}
           INCLUDE_FORUM: 'true'
@@ -94,11 +95,15 @@ jobs:
           DATE="${{ steps.target.outputs.date }}"
           DATE_FLAG=""
           if [ -n "$DATE" ]; then DATE_FLAG="--date=$DATE"; fi
+          # Step 1: regenerate combined input JSON (tweets + forum) for the target date.
+          node code/build-input.js $DATE
+          # Step 2: build + maybe send. Default mode auto-calls Anthropic via --use-ai
+          # unless an explicit override flag is set (v2-test, build-only).
           case "$MODE" in
             v2-test)    node main.js --send-v2-test ;;
-            force)      node main.js --force $DATE_FLAG ;;
-            build-only) node main.js --build-only $DATE_FLAG ;;
-            *)          node main.js $DATE_FLAG ;;
+            build-only) node main.js --build-only --use-ai $DATE_FLAG ;;
+            force)      node main.js --force --use-ai $DATE_FLAG ;;
+            *)          node main.js --use-ai $DATE_FLAG ;;
           esac
 
       - name: Commit data + state back to repo
