@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kruse Report 24/05/2026</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    /* Dark theme (default) */
+    :root {
+      --bg-color: #0b0f19;
+      --card-bg: #151c2c;
+      --card-border: #202b42;
+      --card-border-hover: #2e3e5f;
+      --section-rule: #24314b;
+      --text-color: #f3f4f6;
+      --text-soft: #cbd5e1;
+      --text-body: #e5e7eb;
+      --text-muted: #9ca3af;
+      --accent-color: #3b82f6;
+      --accent-hover: #60a5fa;
+      --locked-color: #4b5563;
+      --tag-bg: #1e293b;
+      --quote-bg: #0f1524;
+      --quote-rule: #4b5563;
+      --expanded-bg: #0f1524;
+      --locked-grad-start: #151c2c;
+      --locked-grad-end: #111622;
+      --locked-dash: #2d3748;
+      --locked-badge-bg: #27272a;
+      --locked-badge-fg: #a1a1aa;
+      --footer-color: #6b7280;
+      --toggle-bg: rgba(255,255,255,0.06);
+      --toggle-border: rgba(255,255,255,0.12);
+    }
+    /* Light theme — toggled by class on <body> */
+    body.light {
+      --bg-color: #f9fafb;
+      --card-bg: #ffffff;
+      --card-border: #e5e7eb;
+      --card-border-hover: #cbd5e1;
+      --section-rule: #e5e7eb;
+      --text-color: #0f172a;
+      --text-soft: #334155;
+      --text-body: #1f2937;
+      --text-muted: #6b7280;
+      --accent-color: #2563eb;
+      --accent-hover: #1d4ed8;
+      --locked-color: #94a3b8;
+      --tag-bg: #eff6ff;
+      --quote-bg: #f1f5f9;
+      --quote-rule: #cbd5e1;
+      --expanded-bg: #f1f5f9;
+      --locked-grad-start: #ffffff;
+      --locked-grad-end: #f3f4f6;
+      --locked-dash: #cbd5e1;
+      --locked-badge-bg: #e5e7eb;
+      --locked-badge-fg: #475569;
+      --footer-color: #94a3b8;
+      --toggle-bg: rgba(0,0,0,0.04);
+      --toggle-border: rgba(0,0,0,0.12);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', sans-serif; }
+    body { background-color: var(--bg-color); color: var(--text-color); padding: 40px 20px; display: flex; justify-content: center; align-items: flex-start; min-height: 100vh; transition: background-color 0.2s ease, color 0.2s ease; }
+    .container { width: 100%; max-width: 650px; display: flex; flex-direction: column; gap: 20px; }
+    header { text-align: center; margin-bottom: 10px; position: relative; padding-top: 48px; }
+    h1 { font-size: 2.3rem; font-weight: 700; letter-spacing: -0.5px; background: linear-gradient(45deg, #3b82f6, #9333ea); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; margin-bottom: 4px; }
+    .subtitle { font-size: 1rem; color: var(--text-muted); font-weight: 300; }
+    .theme-toggle { position: absolute; top: 0; right: 0; background: var(--toggle-bg); border: 1px solid var(--toggle-border); color: var(--text-color); cursor: pointer; padding: 6px 10px; border-radius: 20px; font-size: 0.85rem; line-height: 1; transition: background 0.2s ease; }
+    .theme-toggle:hover { background: var(--card-border); }
+    .level-toggle { position: absolute; top: 0; left: 0; display: flex; gap: 4px; background: var(--toggle-bg); border: 1px solid var(--toggle-border); border-radius: 20px; padding: 3px; }
+    .level-toggle button { background: transparent; color: var(--text-muted); border: none; cursor: pointer; padding: 4px 10px; border-radius: 16px; font-size: 0.8rem; font-weight: 600; transition: background 0.15s ease, color 0.15s ease; }
+    .level-toggle button.active { background: var(--accent-color); color: #fff; }
+    .level-toggle button:hover:not(.active) { color: var(--text-color); }
+    /* Concept-level gating: pro reader hides noob-only chips; hacker hides all. */
+    body.level-pro .expandable-concept[data-concept-level="noob"],
+    body.level-hacker .expandable-concept[data-concept-level] {
+      color: inherit; border-bottom: none; cursor: default; font-weight: inherit; pointer-events: none;
+    }
+    body.level-pro .expanded-content[data-concept-level="noob"],
+    body.level-hacker .expanded-content { display: none !important; }
+    .section-title { font-size: 1.3rem; font-weight: 700; color: var(--accent-hover); border-bottom: 1px solid var(--section-rule); padding-bottom: 6px; margin-top: 10px; }
+    .card { background-color: var(--card-bg); border: 1px solid var(--card-border); border-radius: 12px; padding: 16px 20px; display: flex; flex-direction: column; gap: 10px; transition: border-color 0.2s ease, background-color 0.2s ease; }
+    .card:hover { border-color: var(--card-border-hover); }
+    .card-header { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .tag { background-color: var(--tag-bg); color: var(--accent-color); padding: 2px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; }
+    .source-link { font-size: 0.8rem; color: var(--text-muted); text-decoration: none; border-bottom: 1px dashed var(--text-muted); transition: all 0.2s ease; }
+    .source-link:hover { color: var(--accent-hover); border-bottom-color: var(--accent-hover); }
+    .item-text { font-size: 1rem; line-height: 1.45; color: var(--text-body); }
+    .source-quote { background: var(--quote-bg); border-left: 3px solid var(--quote-rule); border-radius: 4px 8px 8px 4px; padding: 10px 14px; font-style: italic; font-size: 0.92rem; color: var(--text-muted); }
+    .bullet-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px; }
+    .bullet-list li { position: relative; padding-left: 18px; line-height: 1.45; font-size: 1rem; }
+    .bullet-list li::before { content: "•"; color: var(--accent-color); font-weight: bold; position: absolute; left: 0; top: 0; }
+    .forum-item { display: flex; flex-direction: column; gap: 4px; }
+    .forum-meta { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+    .expandable-concept { color: var(--accent-hover); border-bottom: 1px dashed var(--accent-hover); cursor: pointer; font-weight: 600; }
+    .expanded-content { max-height: 0; overflow: hidden; background-color: var(--expanded-bg); border-radius: 6px; padding: 0 12px; transition: max-height 0.25s ease, padding 0.25s ease, margin 0.25s ease; font-size: 0.9rem; color: var(--text-soft); }
+    .expanded-content.open { max-height: 400px; padding: 10px 12px; margin-top: 6px; border-left: 3px solid var(--accent-color); }
+    .locked-section { background: linear-gradient(180deg, var(--locked-grad-start) 0%, var(--locked-grad-end) 100%); border: 1px dashed var(--locked-dash); border-radius: 12px; padding: 24px; text-align: center; opacity: 0.85; }
+    .locked-title { font-size: 1.1rem; font-weight: 600; color: var(--locked-color); margin-bottom: 4px; }
+    .locked-badge { font-size: 0.7rem; background-color: var(--locked-badge-bg); color: var(--locked-badge-fg); padding: 1px 6px; border-radius: 4px; font-weight: 700; margin-left: 6px; }
+    footer { text-align: center; color: var(--footer-color); font-size: 0.75rem; margin-top: 12px; }
+    footer a { color: var(--footer-color); }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="level-toggle" role="tablist" aria-label="Reader knowledge level">
+        <button type="button" data-level="noob"   aria-pressed="false">Noob</button>
+        <button type="button" data-level="pro"    aria-pressed="true">Pro</button>
+        <button type="button" data-level="hacker" aria-pressed="false">Hacker</button>
+      </div>
+      <button type="button" class="theme-toggle" id="themeToggle" aria-label="Toggle dark/light mode">🌙 Dark</button>
+      <h1>Kruse Report 24/05/2026</h1>
+      <div class="subtitle">Warburg, NAD, fat &amp; deuterium — mitochondria as the central case.</div>
+    </header>
+      <div class="section-title">Twitter Updates</div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Tumor Metabolism</span>
+          <a href="https://x.com/i/status/2058366576244428885" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text"><strong>Warburg Shift = Cytoplasmic De-Fragging:</strong> Direct mechanistic claim: the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-0')">Warburg shift</span> happens because the cancer cell is trying to <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-0-1')">de-fragging</span> its own cytoplasm of deuterium load — not a defect, an adaptation. Frames the canonical &#39;cancer prefers glucose&#39; narrative as a downstream symptom, not the primary cause.</div>
+        <div id="c-0-0" class="expanded-content" data-concept-level="pro">
+      <strong>Warburg shift:</strong> Otto Warburg&#39;s 1924 observation: cancer cells preferentially use aerobic glycolysis (fermenting glucose to lactate even in the presence of oxygen) instead of oxidative phosphorylation. The mainstream reading is a mitochondrial defect; Kruse reads it as a deliberate metabolic reroute the cell uses to manage internal deuterium.
+    </div>
+<div id="c-0-1" class="expanded-content" data-concept-level="noob">
+      <strong>de-fragging:</strong> Kruse-coined term for restoring structured (EZ) water lattice coherence inside the cell, reversing the disordered state that sets in under deuterium load. Analogous to defragmenting a fragmented disk, but for the intracellular water phase.
+    </div>
+        <div class="source-quote">WHY THE WARBURG SHIFT HAPPENS IN CANCER? The cell is trying to de-frag its own cytoplasm of deuterium ya&#39; big Dummy.</div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Tumor Metabolism</span>
+          <a href="https://x.com/i/status/2058342358391873799" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text"><strong>Cancer Cells DO Oxidize Fatty Acids:</strong> Rebuttal to the recurring &#39;cancer cells can&#39;t efficiently oxidize fatty acids and rely almost exclusively on fermentation&#39; claim. Kruse argues the underlying mitochondrial physics permit lipid oxidation under glucose restriction — the fermentation lock-in is a fed-state artefact, not a metabolic ceiling. Direct attack on the <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-0')">Seyfried</span>-lineage &#39;starve the tumor with keto&#39; narrative.</div>
+        <div id="c-1-0" class="expanded-content" data-concept-level="noob">
+      <strong>Seyfried:</strong> Thomas Seyfried — Boston College biologist, lead proponent of the &#39;cancer as a metabolic disease&#39; framework and the ketogenic-diet-starves-tumor thesis built on Warburg&#39;s glucose observation. Kruse argues this oversimplifies tumor metabolic plasticity.
+    </div>
+        <div class="source-quote">The assertion from a trader who is beyond Seyfried ignorant that cancer cells cannot efficiently oxidize fatty acids and rely almost exclusively on fermentation…</div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Mitochondrial Bioenergetics</span>
+          <a href="https://x.com/i/status/2058357778779886073" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text"><strong>NAD+ Parsimony Refuted via Blood Dynamics:</strong> Pushback on the <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-2-0')">Brenner</span>-lab line that mitochondrial-disease patients only show low blood <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-2-1')">NAD+</span>. Kruse argues the blood compartment is a misread proxy — the actual biophysical refutation comes from cellular-scale dynamics the centralized framing ignores. Reads as a salvo in a longer-running NAD-metabolism dispute.</div>
+        <div id="c-2-0" class="expanded-content" data-concept-level="noob">
+      <strong>Brenner:</strong> Charles Brenner — biochemist (UC Irvine / City of Hope), developer of NAD quantitation technology, principal voice for the canonical NAD-precursor-supplementation hypothesis in aging and mitochondrial disease.
+    </div>
+<div id="c-2-1" class="expanded-content" data-concept-level="pro">
+      <strong>NAD+:</strong> Nicotinamide adenine dinucleotide — central electron-carrier coenzyme in mitochondrial energy metabolism. Cellular NAD+ levels gate oxidative phosphorylation throughput; the supplement industry has built around the assumption that raising blood NAD+ raises intracellular NAD+, a leap Kruse disputes.
+    </div>
+        
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Adipose Biophysics</span>
+          <a href="https://x.com/i/status/2058363350661165165" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text"><strong>Deuterium Destroys BAT → Drives NAFLD:</strong> Mechanistic chain claim: rising systemic deuterium load destroys <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-3-0')">BAT</span> mitochondrial efficiency, converting brown adipocytes into <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-3-1')">WAT</span>. Higher deuterium → more WAT → progression to <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-3-2')">NAFLD</span>. Reads as a unified physical explanation for the parallel decline of thermogenic capacity and liver health in modern populations.</div>
+        <div id="c-3-0" class="expanded-content" data-concept-level="pro">
+      <strong>BAT:</strong> Brown Adipose Tissue — fat tissue rich in mitochondria that burns calories directly as heat (thermogenesis) via UCP1-mediated uncoupling. Highest in infants; declines through adulthood.
+    </div>
+<div id="c-3-1" class="expanded-content" data-concept-level="pro">
+      <strong>WAT:</strong> White Adipose Tissue — the storage-form fat that accumulates with positive energy balance. Mitochondrially poor compared to BAT; metabolically inert by comparison.
+    </div>
+<div id="c-3-2" class="expanded-content" data-concept-level="pro">
+      <strong>NAFLD:</strong> Non-Alcoholic Fatty Liver Disease — abnormal lipid accumulation in hepatocytes absent significant alcohol intake. Now the most common chronic liver condition in industrialised populations.
+    </div>
+        <div class="source-quote">Deuterium destroys BAT and turns it into WAT. More D+ creates more WAT adipocytes. More D+ = NAFLD.</div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Aquifer Geophysics</span>
+          <a href="https://x.com/i/status/2058372629745091050" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text"><strong>Kentucky Karst + AMOC Coupling:</strong> Surfacing the Mississippian limestone <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-4-0')">karst</span> aquifer system under Kentucky as a regional biophysical case study, and pairing the observation with a one-line <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-4-1')">AMOC</span> flag. Reads as another node in the dipole-decline narrative — where the aquifer&#39;s dielectric properties are coupled to ocean-current state.</div>
+        <div id="c-4-0" class="expanded-content" data-concept-level="pro">
+      <strong>karst:</strong> Landscape formed by the dissolution of soluble bedrock (typically limestone, dolomite, or gypsum), producing caves, sinkholes, and large interconnected groundwater systems. Kentucky sits on one of Earth&#39;s most extensive karst aquifers.
+    </div>
+<div id="c-4-1" class="expanded-content" data-concept-level="pro">
+      <strong>AMOC:</strong> Atlantic Meridional Overturning Circulation — the system of ocean currents that moves warm surface water poleward and cold deep water back south. Its weakening is a flagship indicator of climate-system reorganization.
+    </div>
+        <div class="source-quote">Many do not know Kentucky sits on top of one of the most expansive, interconnected Mississippian limestone karst systems on Earth.</div>
+      </div>
+      <div class="section-title">Forum Updates</div>
+      <div class="card"><ul class="bullet-list"><li>
+        <div class="forum-item">
+          <div class="forum-meta">
+            <strong>What Is NAD+ in Biophysical Terms?:</strong>
+            <a href="https://forum.jackkruse.com/threads/what-is-nad-in-biophysical-terms.32390/unread" target="_blank" class="source-link">See full thread →</a>
+          </div>
+          <div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">New thread reframing <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1000-0')">NAD+</span> away from the supplementation/aging narrative toward a structural-biophysics reading: NAD+ as a state variable of mitochondrial coupling, not a consumable molecule to top up via pills. Direct extension of today&#39;s blood-NAD parsimony refutation tweet.</div>
+          <div id="c-1000-0" class="expanded-content" data-concept-level="pro">
+      <strong>NAD+:</strong> Nicotinamide adenine dinucleotide — central electron-carrier coenzyme in mitochondrial energy metabolism. Kruse&#39;s reframing treats its concentration as a downstream readout of cellular field state, not an independent lever.
+    </div>
+        </div>
+      </li><li>
+        <div class="forum-item">
+          <div class="forum-meta">
+            <strong>Understanding Vortices:</strong>
+            <a href="https://forum.jackkruse.com/threads/understanding-vortices.32685/unread" target="_blank" class="source-link">See full thread →</a>
+          </div>
+          <div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">New thread on the geometric-vortex thesis — 7/12/21-turn spiral resonators, water-lattice coherence, Chromosome 2 ITL coupling. Continuation of the longer-running &#39;geometry alters material physics&#39; line; pairs with today&#39;s broader biophysics-vs-chemistry frame.</div>
+          
+        </div>
+      </li><li>
+        <div class="forum-item">
+          <div class="forum-meta">
+            <strong>Fascia, Joints and Deuterium:</strong>
+            <a href="https://forum.jackkruse.com/threads/fascia-joints-and-deuterium.32557/unread" target="_blank" class="source-link">See full thread →</a>
+          </div>
+          <div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">New thread connecting connective-tissue health (fascia + joint integrity) to systemic deuterium load. Reads as the structural-tissue counterpart to today&#39;s deuterium→BAT→NAFLD chain — same mechanism, different tissue.</div>
+          
+        </div>
+      </li><li>
+        <div class="forum-item">
+          <div class="forum-meta">
+            <strong>nnEMF Field-Survey Protocol:</strong>
+            <a href="https://forum.jackkruse.com/threads/i-stay-away-from-nnemf.30545/unread" target="_blank" class="source-link">See full thread →</a>
+          </div>
+          <div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">Concrete home-shielding workflow for <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1003-0')">nnEMF</span>: walk the perimeter to identify the strongest-signal side, scan for nearby cell towers; if no tower is close, attribute to neighbour Wi-Fi. For single-story homes, wire-mesh fence shielding on the implicated side. Transferable, parameter-light.</div>
+          <div id="c-1003-0" class="expanded-content" data-concept-level="noob">
+      <strong>nnEMF:</strong> non-native ElectroMagnetic Field. Kruse shorthand for the artificial RF / microwave / low-frequency electromagnetic emissions humans engineered into the environment (cell, Wi-Fi, power-line, smart-meter), as opposed to the geomagnetic / cosmic / solar fields biology evolved under.
+    </div>
+        </div>
+      </li></ul></div>
+    <div class="locked-section">
+      <div class="locked-title">
+        <span>Interact with Report (Ask AI)</span>
+        <span class="locked-badge">Soon</span>
+      </div>
+    </div>
+    <footer>
+      Auto-generated by <a href="https://github.com/guyHouri/kruse-ai-scrape">kruse-ai-scrape</a>.
+      Source: <a href="https://x.com/DrJackKruse">@DrJackKruse</a>.
+    </footer>
+  </div>
+  <script>
+    function toggleConcept(id) {
+      var el = document.getElementById(id);
+      if (el) el.classList.toggle('open');
+    }
+    (function () {
+      var btn = document.getElementById('themeToggle');
+      var saved = null;
+      try { saved = localStorage.getItem('kruse-theme'); } catch (e) {}
+      if (saved === 'light') document.body.classList.add('light');
+      function syncLabel() {
+        if (!btn) return;
+        btn.textContent = document.body.classList.contains('light') ? '☀ Light' : '🌙 Dark';
+      }
+      syncLabel();
+      if (btn) btn.addEventListener('click', function () {
+        document.body.classList.toggle('light');
+        try { localStorage.setItem('kruse-theme', document.body.classList.contains('light') ? 'light' : 'dark'); } catch (e) {}
+        syncLabel();
+      });
+    })();
+    (function () {
+      var savedLevel = null;
+      try { savedLevel = localStorage.getItem('kruse-level'); } catch (e) {}
+      var initial = (savedLevel === 'noob' || savedLevel === 'pro' || savedLevel === 'hacker') ? savedLevel : 'pro';
+      function apply(level) {
+        document.body.classList.remove('level-noob', 'level-pro', 'level-hacker');
+        document.body.classList.add('level-' + level);
+        var btns = document.querySelectorAll('.level-toggle button');
+        for (var i = 0; i < btns.length; i++) {
+          var on = btns[i].getAttribute('data-level') === level;
+          btns[i].classList.toggle('active', on);
+          btns[i].setAttribute('aria-pressed', on ? 'true' : 'false');
+        }
+        try { localStorage.setItem('kruse-level', level); } catch (e) {}
+      }
+      apply(initial);
+      var btns = document.querySelectorAll('.level-toggle button');
+      for (var i = 0; i < btns.length; i++) {
+        (function (b) {
+          b.addEventListener('click', function () { apply(b.getAttribute('data-level')); });
+        })(btns[i]);
+      }
+    })();
+  </script>
+</body>
+</html>

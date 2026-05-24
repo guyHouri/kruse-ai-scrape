@@ -1,0 +1,1072 @@
+{
+  "date": "2026-05-24",
+  "handle": "DrJackKruse",
+  "fetched_at": "2026-05-24T10:47:07.144Z",
+  "source": {
+    "backend": "x-api-v2",
+    "endpoint": "/2/users/:id/tweets"
+  },
+  "tweet_count": 17,
+  "tweets": [
+    {
+      "id": "2058373487090176254",
+      "url": "https://x.com/DrJackKruse/status/2058373487090176254",
+      "created_at": "2026-05-24T02:24:16.000Z",
+      "text": "And all broke running it on debt. https://t.co/F5n3YFofyv",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058373487090176254",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058275143483347303",
+        "url": "https://x.com/BlackLabelAdvsr/status/2058275143483347303",
+        "created_at": "2026-05-23T19:53:29.000Z",
+        "text": "Just spent two weeks at Florida beaches. \n\nHere’s what I observed: \n\n- Tons of kids\n- Economy is in full bloom. Lots of yachts in the water\n- Most people are obese\n- Restaurants packed and it’s not even June \n- People drive slower than people in Seattle…\n- Tons of Christians \n-",
+        "lang": "en",
+        "author": {
+          "id": "1343212349344395264",
+          "username": "BlackLabelAdvsr",
+          "name": "Jon Elder"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2058275143483347303",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 1372,
+          "retweets": 77,
+          "replies": 391,
+          "quotes": 10,
+          "views": 180286
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 57,
+        "retweets": 3,
+        "replies": 7,
+        "quotes": 1,
+        "views": 14208
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058372629745091050",
+      "url": "https://x.com/DrJackKruse/status/2058372629745091050",
+      "created_at": "2026-05-24T02:20:52.000Z",
+      "text": "Many do not know Kentucky sits on top of one of the most expansive, interconnected Mississippian limestone karst systems on Earth. Limestone is a sedimentary rock dominantly composed of calcium carbonate (CaCO3) crystals.\n\nUnder a healthy, high-flux planetary dipole baseline, the https://t.co/XCJdKW4Bb2",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058372629745091050",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 26,
+        "retweets": 3,
+        "replies": 5,
+        "quotes": 1,
+        "views": 2107
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058369152453099921",
+      "url": "https://x.com/DrJackKruse/status/2058369152453099921",
+      "created_at": "2026-05-24T02:07:03.000Z",
+      "text": "Answered this with about 10 things in here:  https://t.co/tsF3mBMzko https://t.co/6VwV0QXHFH",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058369152453099921",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058364025273000327",
+        "url": "https://x.com/MrCigarTruth/status/2058364025273000327",
+        "created_at": "2026-05-24T01:46:40.000Z",
+        "text": "@DrJackKruse How would someone be able to know they were getting a D+ increase in day to day living.",
+        "lang": "en",
+        "author": {
+          "id": "851418708841033728",
+          "username": "MrCigarTruth",
+          "name": "WNR"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2058363350661165165",
+        "in_reply_to": {
+          "tweet_id": "2058363350661165165",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2058363350661165165"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 3,
+          "retweets": 0,
+          "replies": 2,
+          "quotes": 2,
+          "views": 10549
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 46,
+        "retweets": 4,
+        "replies": 1,
+        "quotes": 0,
+        "views": 10282
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058366576244428885",
+      "url": "https://x.com/DrJackKruse/status/2058366576244428885",
+      "created_at": "2026-05-24T01:56:49.000Z",
+      "text": "Nonsense.  \n\nWHY THE WARBURG SHIFT HAPPENS IN CANCER? \n\nThe cell is trying to de-frag its own cytoplasm of deuterium ya' big Dummy. \n\nThe \"unfolded protein response\" in modern pathology actually the sound of the quantum computer's \"error log\" filling up because the K+ dielectric https://t.co/837VkG3BQY",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058366576244428885",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058305538224525561",
+        "url": "https://x.com/leadlagreport/status/2058305538224525561",
+        "created_at": "2026-05-23T21:54:16.000Z",
+        "text": "All these GLP studies showing that they help reduce instance of cancer are missing the point.\n\nGLP peptides are doing that because they force people to eat less SUGAR.\n\nSugar feeds cancer - literally.\n\nFasting through autophagy feeds ON cancer.\n\nFew.",
+        "lang": "en",
+        "author": {
+          "id": "227755413",
+          "username": "leadlagreport",
+          "name": "Michael A. Gayed, CFA"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2058305538224525561",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 335,
+          "retweets": 13,
+          "replies": 23,
+          "quotes": 3,
+          "views": 24726
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 71,
+        "retweets": 13,
+        "replies": 2,
+        "quotes": 3,
+        "views": 6566
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058365254300467671",
+      "url": "https://x.com/DrJackKruse/status/2058365254300467671",
+      "created_at": "2026-05-24T01:51:33.000Z",
+      "text": "Makes sense to me.  Covered it here----&gt; https://t.co/tsF3mBMzko https://t.co/Ug3Xz5Dj2Z https://t.co/etB4klOwNM",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058365254300467671",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058355350823190752",
+        "url": "https://x.com/Benaskren/status/2058355350823190752",
+        "created_at": "2026-05-24T01:12:12.000Z",
+        "text": "This is literally what happened to me.  I had zero breathing issues until the morning I was admitted to the hospital.  Only symptoms days before was back pain.   I went to the hospital the day before I was admitted and all vitals tested normal, besides back pain I felt fine and https://t.co/OqaIRM7Xrx",
+        "lang": "en",
+        "author": {
+          "id": "39257839",
+          "username": "Benaskren",
+          "name": "Funky 🇺🇸🇺🇸🇺🇸"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2058355350823190752",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 3816,
+          "retweets": 159,
+          "replies": 156,
+          "quotes": 14,
+          "views": 1181649
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJDH8tiWMAAfpQ8.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 78,
+        "retweets": 14,
+        "replies": 3,
+        "quotes": 0,
+        "views": 7547
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058364433156469158",
+      "url": "https://x.com/DrJackKruse/status/2058364433156469158",
+      "created_at": "2026-05-24T01:48:18.000Z",
+      "text": "AMOC.  IYKYK https://t.co/MUt27Pc5uc",
+      "lang": "cs",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058364433156469158",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058297990431821923",
+        "url": "https://x.com/ChrisMartzWX/status/2058297990431821923",
+        "created_at": "2026-05-23T21:24:16.000Z",
+        "text": "The Mid-Atlantic could use a little more carbon dioxide in the air today.\n\nIt’s May 23rd and temperatures are in the 40s and 50s. Yuck!\n\nNear-record or even record-breaking low maximum temperatures. https://t.co/cLQYqICv55",
+        "lang": "en",
+        "author": {
+          "id": "1060632416434434049",
+          "username": "ChrisMartzWX",
+          "name": "Chris Martz"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2058297990431821923",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 273,
+          "retweets": 19,
+          "replies": 30,
+          "quotes": 3,
+          "views": 10951
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 32,
+        "retweets": 4,
+        "replies": 2,
+        "quotes": 0,
+        "views": 4357
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058364258186871289",
+      "url": "https://x.com/DrJackKruse/status/2058364258186871289",
+      "created_at": "2026-05-24T01:47:36.000Z",
+      "text": "Brain drain is real. https://t.co/F2xzFOm9GL",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058364258186871289",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058304127482896778",
+        "url": "https://x.com/JethroToro/status/2058304127482896778",
+        "created_at": "2026-05-23T21:48:40.000Z",
+        "text": "This has changed.\n\nEl Salvador has ZERO tax for many tech workers and for remote income abroad.\n\nIt’s also just a 5 hr 30 min flight away from San Francisco (and ~3 hours from Miami)\n\nSeveral tech giants have already made deals in El Salvador. More talent is moving as well 🇸🇻🚀 https://t.co/kcsMqkOlWc",
+        "lang": "en",
+        "author": {
+          "id": "1488949564379906048",
+          "username": "JethroToro",
+          "name": "Jethro Toro🔸∞/21m 🌎"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2058304127482896778",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 23,
+          "retweets": 3,
+          "replies": 1,
+          "quotes": 1,
+          "views": 9132
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 33,
+        "retweets": 3,
+        "replies": 1,
+        "quotes": 0,
+        "views": 6871
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058363350661165165",
+      "url": "https://x.com/DrJackKruse/status/2058363350661165165",
+      "created_at": "2026-05-24T01:43:59.000Z",
+      "text": "Deuterium destroys BAT and turns it into WAT.  More D+ creates more WAT adipocytes.  More D+ = NAFLD. https://t.co/oLQlnfvyry",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058363350661165165",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058186332703535264",
+        "url": "https://x.com/dantawfik/status/2058186332703535264",
+        "created_at": "2026-05-23T14:00:35.000Z",
+        "text": "Brown adipose tissue activity peaks in infancy and declines progressively through adulthood. By the fourth decade, thermogenic capacity has dropped substantially—often before clinical metabolic dysfunction appears.\n\nInfants possess abundant brown fat across the neck, shoulders,",
+        "lang": "en",
+        "author": {
+          "id": "1691778919",
+          "username": "dantawfik",
+          "name": "Daniel Tawfik"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2058186332703535264",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 14,
+          "retweets": 3,
+          "replies": 1,
+          "quotes": 1,
+          "views": 4830
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 38,
+        "retweets": 1,
+        "replies": 3,
+        "quotes": 0,
+        "views": 4310
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058361643445215236",
+      "url": "https://x.com/DrJackKruse/status/2058361643445215236",
+      "created_at": "2026-05-24T01:37:12.000Z",
+      "text": "The Godwit laughs at Hyman.  I bet Hyman does not even know the Godwit is the king of insulin resistance. https://t.co/Qcd5YMV2QO",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058361643445215236",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058220158242414706",
+        "url": "https://x.com/drmarkhyman/status/2058220158242414706",
+        "created_at": "2026-05-23T16:15:00.000Z",
+        "text": "The biggest epidemic in America has no ribbon, no awareness month, and no pharmaceutical solution. It's insulin resistance.\n\nMost people who have it don't know they have it. No obvious symptom. No alarm that goes off.\n\nJust a slow, quiet process where your cells stop responding",
+        "lang": "en",
+        "author": {
+          "id": "18027434",
+          "username": "drmarkhyman",
+          "name": "Mark Hyman, M.D."
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2058220158242414706",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 155,
+          "retweets": 19,
+          "replies": 15,
+          "quotes": 1,
+          "views": 14563
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 22,
+        "retweets": 3,
+        "replies": 1,
+        "quotes": 0,
+        "views": 4678
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058361230041977140",
+      "url": "https://x.com/DrJackKruse/status/2058361230041977140",
+      "created_at": "2026-05-24T01:35:34.000Z",
+      "text": "100% https://t.co/i4S15ZIi4c",
+      "lang": "qst",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058361230041977140",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058144102646972546",
+        "url": "https://x.com/Kevin_McKernan/status/2058144102646972546",
+        "created_at": "2026-05-23T11:12:47.000Z",
+        "text": "The only thing I take from this post is that his family must be held captive or under threat for him to do something he so vehemently detests. https://t.co/Q4n7L7zDmZ",
+        "lang": "en",
+        "author": {
+          "id": "33177553",
+          "username": "Kevin_McKernan",
+          "name": "Kevin McKernan"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2058144102646972546",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 634,
+          "retweets": 114,
+          "replies": 63,
+          "quotes": 12,
+          "views": 32234
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 27,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": 6082
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058360902663979302",
+      "url": "https://x.com/DrJackKruse/status/2058360902663979302",
+      "created_at": "2026-05-24T01:34:16.000Z",
+      "text": "It think they are the most ignorant of all centralized specialties. https://t.co/4rSs9IJb13",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058360902663979302",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058201032216457233",
+        "url": "https://x.com/StatisticUrban/status/2058201032216457233",
+        "created_at": "2026-05-23T14:59:00.000Z",
+        "text": "The average starting salary for a new dermatologist attending graduating from residency in the US is $525k per yr, working an average of 37.4 hrs/wk.\n\nConsequently, a huge number of quite literally the smartest people in the country are dermatologists. It's insanely competitive.",
+        "lang": "en",
+        "author": {
+          "id": "1225449881982177280",
+          "username": "StatisticUrban",
+          "name": "Hunter📈🌈📊"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2058201032216457233",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 6406,
+          "retweets": 192,
+          "replies": 188,
+          "quotes": 58,
+          "views": 952574
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 19,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": 4309
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058357778779886073",
+      "url": "https://x.com/DrJackKruse/status/2058357778779886073",
+      "created_at": "2026-05-24T01:21:51.000Z",
+      "text": "The Direct Biophysical Refutation: Why Blood Dynamics Reject Parsimony\n\nThe stark cellular realities outlined in this lab data present the ultimate mathematical collapse of the commercial, centralized supplement industry. Mainstream biohackers, corporate \"bro-scientists,\" and https://t.co/gJAxevuXSL",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058357778779886073",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058337334245142720",
+        "url": "https://x.com/CharlesMBrenner/status/2058337334245142720",
+        "created_at": "2026-05-24T00:00:37.000Z",
+        "text": "my lab developed NAD quantitation tech and showed, with @ASW_lab, that people with mito disease have low blood NAD\n\nbut we've never said that blood NAD declines in aging or thought that blood is the key target tissue for NR\n\nblood NAD is largely unrelated to the use cases for NR",
+        "lang": "en",
+        "author": {
+          "id": "992198453898948609",
+          "username": "CharlesMBrenner",
+          "name": "Charles Brenner, PhD"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2058337319749607846",
+        "in_reply_to": {
+          "tweet_id": "2058337332768768440",
+          "user_id": "992198453898948609",
+          "url": "https://x.com/i/status/2058337332768768440"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 13,
+          "retweets": 1,
+          "replies": 1,
+          "quotes": 1,
+          "views": 5201
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 20,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": 3969
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058345119233761364",
+      "url": "https://x.com/DrJackKruse/status/2058345119233761364",
+      "created_at": "2026-05-24T00:31:33.000Z",
+      "text": "Mine does.  But it the first generation pad. https://t.co/O0bIMCEae7",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058345119233761364",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058308699647533533",
+        "url": "https://x.com/NancyBuono/status/2058308699647533533",
+        "created_at": "2026-05-23T22:06:50.000Z",
+        "text": "@DrJackKruse Just watched the video. Great info! But...Magnetico does not use neodymium magnets, they use ceramic. (I own an old 1980s Nikken and wanted to compare.) https://t.co/almeWIUL9G",
+        "lang": "en",
+        "author": {
+          "id": "111441486",
+          "username": "NancyBuono",
+          "name": "Nancy Buono, The Inner Gardener"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2058154854447513828",
+        "in_reply_to": {
+          "tweet_id": "2058154854447513828",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2058154854447513828"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 3,
+          "retweets": 0,
+          "replies": 2,
+          "quotes": 1,
+          "views": 6531
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 25,
+        "retweets": 3,
+        "replies": 3,
+        "quotes": 0,
+        "views": 6170
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058344539753001010",
+      "url": "https://x.com/DrJackKruse/status/2058344539753001010",
+      "created_at": "2026-05-24T00:29:15.000Z",
+      "text": "3.  The Direct Kinetic Refutation: Why Biology Rejects Parsimony in Carbon Cleavage\n\nThe two \"Uncommon Questions in Biochemistry\" displayed in my slide above reveal the absolute, terminal failure of classical, macroscopic nutrition. Centralized biochemistry looks at glycolysis https://t.co/6fQsxUbaF6",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": true,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2058342358391873799",
+      "in_reply_to": {
+        "tweet_id": "2058342566907805872",
+        "user_id": "250833376",
+        "url": "https://x.com/i/status/2058342566907805872"
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJC1cjwXEAAZZYb.jpg",
+          "preview_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJC1cj2XwAAPg5t.jpg",
+          "preview_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJC1cj6XkAELO31.jpg",
+          "preview_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJC1cj6XoAAF03w.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 12,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": 1790
+      },
+      "thread_context": [
+        {
+          "id": "2058342358391873799",
+          "url": "https://x.com/DrJackKruse/status/2058342358391873799",
+          "created_at": "2026-05-24T00:20:35.000Z",
+          "text": "The assertion from a trader who is beyond Seyfried ignorant that cancer cells cannot efficiently oxidize fatty acids and rely almost exclusively on fermentation is a outdated chemical oversimplification that violates modern tumor energetics.\n\n1. Refuting the FAO Myth: Cancers https://t.co/dVBR9ykB4K https://t.co/zgpBZuUlmS",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": false,
+          "is_quote": true,
+          "is_retweet": false,
+          "conversation_id": "2058342358391873799",
+          "in_reply_to": null,
+          "quoted_tweet": {
+            "id": "2058274322095960244",
+            "url": "https://x.com/gemoscatelli/status/2058274322095960244",
+            "created_at": "2026-05-23T19:50:13.000Z",
+            "text": "Cancer cells can't oxidize fatty acids efficiently due to their defective mitochondria.\nMore than 80% of their ATPs come from glucose and glutamine fermentation.\nIf you drink mango smoothies like uncle Jack you will end up with non alcoholic fatty liver. https://t.co/zYg7FqmIuL https://t.co/L8hgr6ZM1V",
+            "lang": "en",
+            "author": {
+              "id": "1264899552869527552",
+              "username": "gemoscatelli",
+              "name": "Gerardo Moscatelli"
+            },
+            "is_reply": false,
+            "is_quote": true,
+            "is_retweet": false,
+            "conversation_id": "2058274322095960244",
+            "in_reply_to": null,
+            "quoted_tweet": null,
+            "retweeted_tweet": null,
+            "media": [],
+            "metrics": {
+              "likes": 4,
+              "retweets": 0,
+              "replies": 2,
+              "quotes": 1,
+              "views": 8024
+            },
+            "thread_context": []
+          },
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJCy-vBWsAA1v-0.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 59,
+            "retweets": 8,
+            "replies": 4,
+            "quotes": 2,
+            "views": 7995
+          }
+        },
+        {
+          "id": "2058342566907805872",
+          "url": "https://x.com/DrJackKruse/status/2058342566907805872",
+          "created_at": "2026-05-24T00:21:24.000Z",
+          "text": "2.  FROM THIS BLOG----&gt;  https://t.co/Mgw8nnqPhA\n\nDO YOU REALLY UNDERSTAND WHAT I JUST SAID ABOUT FOOD?\n\nIt means a banana eaten in Boston on December 31st is a MITOCHONDRIAL TOXIN, not a medicine as your doctor or bro scientist tells you. This is especially true if you are",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2058342358391873799",
+          "in_reply_to": {
+            "tweet_id": "2058342358391873799",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2058342358391873799"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [],
+          "metrics": {
+            "likes": 38,
+            "retweets": 5,
+            "replies": 1,
+            "quotes": 0,
+            "views": 3323
+          }
+        }
+      ]
+    },
+    {
+      "id": "2058342566907805872",
+      "url": "https://x.com/DrJackKruse/status/2058342566907805872",
+      "created_at": "2026-05-24T00:21:24.000Z",
+      "text": "2.  FROM THIS BLOG----&gt;  https://t.co/Mgw8nnqPhA\n\nDO YOU REALLY UNDERSTAND WHAT I JUST SAID ABOUT FOOD?\n\nIt means a banana eaten in Boston on December 31st is a MITOCHONDRIAL TOXIN, not a medicine as your doctor or bro scientist tells you. This is especially true if you are",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": true,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2058342358391873799",
+      "in_reply_to": {
+        "tweet_id": "2058342358391873799",
+        "user_id": "250833376",
+        "url": "https://x.com/i/status/2058342358391873799"
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 38,
+        "retweets": 5,
+        "replies": 1,
+        "quotes": 0,
+        "views": 3323
+      },
+      "thread_context": [
+        {
+          "id": "2058342358391873799",
+          "url": "https://x.com/DrJackKruse/status/2058342358391873799",
+          "created_at": "2026-05-24T00:20:35.000Z",
+          "text": "The assertion from a trader who is beyond Seyfried ignorant that cancer cells cannot efficiently oxidize fatty acids and rely almost exclusively on fermentation is a outdated chemical oversimplification that violates modern tumor energetics.\n\n1. Refuting the FAO Myth: Cancers https://t.co/dVBR9ykB4K https://t.co/zgpBZuUlmS",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": false,
+          "is_quote": true,
+          "is_retweet": false,
+          "conversation_id": "2058342358391873799",
+          "in_reply_to": null,
+          "quoted_tweet": {
+            "id": "2058274322095960244",
+            "url": "https://x.com/gemoscatelli/status/2058274322095960244",
+            "created_at": "2026-05-23T19:50:13.000Z",
+            "text": "Cancer cells can't oxidize fatty acids efficiently due to their defective mitochondria.\nMore than 80% of their ATPs come from glucose and glutamine fermentation.\nIf you drink mango smoothies like uncle Jack you will end up with non alcoholic fatty liver. https://t.co/zYg7FqmIuL https://t.co/L8hgr6ZM1V",
+            "lang": "en",
+            "author": {
+              "id": "1264899552869527552",
+              "username": "gemoscatelli",
+              "name": "Gerardo Moscatelli"
+            },
+            "is_reply": false,
+            "is_quote": true,
+            "is_retweet": false,
+            "conversation_id": "2058274322095960244",
+            "in_reply_to": null,
+            "quoted_tweet": null,
+            "retweeted_tweet": null,
+            "media": [],
+            "metrics": {
+              "likes": 4,
+              "retweets": 0,
+              "replies": 2,
+              "quotes": 1,
+              "views": 8024
+            },
+            "thread_context": []
+          },
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJCy-vBWsAA1v-0.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 59,
+            "retweets": 8,
+            "replies": 4,
+            "quotes": 2,
+            "views": 7995
+          }
+        }
+      ]
+    },
+    {
+      "id": "2058342358391873799",
+      "url": "https://x.com/DrJackKruse/status/2058342358391873799",
+      "created_at": "2026-05-24T00:20:35.000Z",
+      "text": "The assertion from a trader who is beyond Seyfried ignorant that cancer cells cannot efficiently oxidize fatty acids and rely almost exclusively on fermentation is a outdated chemical oversimplification that violates modern tumor energetics.\n\n1. Refuting the FAO Myth: Cancers https://t.co/dVBR9ykB4K https://t.co/zgpBZuUlmS",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058342358391873799",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058274322095960244",
+        "url": "https://x.com/gemoscatelli/status/2058274322095960244",
+        "created_at": "2026-05-23T19:50:13.000Z",
+        "text": "Cancer cells can't oxidize fatty acids efficiently due to their defective mitochondria.\nMore than 80% of their ATPs come from glucose and glutamine fermentation.\nIf you drink mango smoothies like uncle Jack you will end up with non alcoholic fatty liver. https://t.co/zYg7FqmIuL https://t.co/L8hgr6ZM1V",
+        "lang": "en",
+        "author": {
+          "id": "1264899552869527552",
+          "username": "gemoscatelli",
+          "name": "Gerardo Moscatelli"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2058274322095960244",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 4,
+          "retweets": 0,
+          "replies": 2,
+          "quotes": 1,
+          "views": 8024
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJCy-vBWsAA1v-0.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 59,
+        "retweets": 8,
+        "replies": 4,
+        "quotes": 2,
+        "views": 7995
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058339694518128658",
+      "url": "https://x.com/DrJackKruse/status/2058339694518128658",
+      "created_at": "2026-05-24T00:09:59.000Z",
+      "text": "RT @AmmousMD: William Osler:",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2058339694518128658",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2058200032361193494",
+        "url": "https://x.com/AmmousMD/status/2058200032361193494",
+        "created_at": "2026-05-23T14:55:01.000Z",
+        "text": "William Osler: https://t.co/UHInJIbKjS",
+        "lang": "en",
+        "author": {
+          "id": "2875568086",
+          "username": "AmmousMD",
+          "name": "Dr. Ammous"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2058200032361193494",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 182,
+          "retweets": 32,
+          "replies": 3,
+          "quotes": 1,
+          "views": 7173
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 32,
+        "replies": 0,
+        "quotes": 0,
+        "views": 1
+      },
+      "thread_context": []
+    }
+  ]
+}
