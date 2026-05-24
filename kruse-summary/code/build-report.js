@@ -147,19 +147,23 @@ function renderCuratedCard(card, idx) {
     || (card.source_ids && card.source_ids[0] && `https://x.com/i/status/${card.source_ids[0]}`)
     || 'https://x.com/DrJackKruse';
   const lead = card.lead ? `<strong>${esc(card.lead)}</strong> ` : '';
-  // Points: array of strings → bullet list under body. Each point can itself
-  // contain {{concept:Term}} markers — wire them through the same expander.
-  let pointsHtml = '';
-  let pointsExpanded = '';
+
+  // Points: array of strings → bullet list. Each point can itself contain
+  // {{concept:Term}} markers — wire through same expander. We keep the
+  // expanded chips inside the points container so they don't add flex-gap
+  // at the card level when collapsed.
+  let pointsBlock = '';
   if (Array.isArray(card.points) && card.points.length) {
+    let pointsExpanded = '';
     const items = card.points.map((p, i) => {
       const { html, expanded: ex } = renderBodyWithConcepts(p, card.concepts, idx * 100 + i);
       pointsExpanded += ex;
       return `<li>${html}</li>`;
     }).join('');
-    pointsHtml = `<ul class="bullet-list">${items}</ul>`;
+    pointsBlock = `<div class="card-points"><ul class="bullet-list">${items}</ul>${pointsExpanded}</div>`;
   }
-  // Citations: list of { paper, claim } → styled footer block. Optional.
+
+  // Citations footer.
   let citationsHtml = '';
   if (Array.isArray(card.citations) && card.citations.length) {
     const items = card.citations.map((c) => {
@@ -168,21 +172,23 @@ function renderCuratedCard(card, idx) {
     }).join('');
     citationsHtml = `<div class="citations"><div class="citations-label">Citations</div><ul>${items}</ul></div>`;
   }
+
   const quote = card.source_quote
     ? `<div class="source-quote">${esc(card.source_quote)}</div>`
     : '';
-  return `      <div class="card">
-        <div class="card-header">
-          <span class="tag">${esc(card.tag || 'Update')}</span>
-          <a href="${esc(sourceLink)}" target="_blank" class="source-link">Read full source →</a>
-        </div>
-        <div class="item-text">${lead}${bodyHtml}</div>
-        ${pointsHtml}
-        ${expanded}
-        ${pointsExpanded}
-        ${citationsHtml}
-        ${quote}
-      </div>`;
+
+  // Build the card by joining only the present sections. Empty strings get
+  // filtered out so flex `gap` doesn't apply between phantom items.
+  const bodyBlock = `<div class="card-body"><div class="item-text">${lead}${bodyHtml}</div>${expanded}</div>`;
+  const sections = [
+    `<div class="card-header"><span class="tag">${esc(card.tag || 'Update')}</span><a href="${esc(sourceLink)}" target="_blank" class="source-link">Read full source →</a></div>`,
+    bodyBlock,
+    pointsBlock,
+    citationsHtml,
+    quote,
+  ].filter(Boolean).join('');
+
+  return `      <div class="card">${sections}</div>`;
 }
 
 function renderFallbackTweetCard(t, idx) {
@@ -326,7 +332,9 @@ export function buildReportHtml(date, summary = null) {
     body.level-pro .expanded-content[data-concept-level="noob"],
     body.level-hacker .expanded-content { display: none !important; }
     .section-title { font-size: 1.3rem; font-weight: 700; color: var(--accent-hover); border-bottom: 1px solid var(--section-rule); padding-bottom: 6px; margin-top: 10px; }
-    .card { background-color: var(--card-bg); border: 1px solid var(--card-border); border-radius: 12px; padding: 16px 20px; display: flex; flex-direction: column; gap: 10px; transition: border-color 0.2s ease, background-color 0.2s ease; }
+    .card { background-color: var(--card-bg); border: 1px solid var(--card-border); border-radius: 12px; padding: 14px 18px; display: flex; flex-direction: column; gap: 8px; transition: border-color 0.2s ease, background-color 0.2s ease; }
+    .card-body, .card-points { display: flex; flex-direction: column; gap: 4px; }
+    .card-points ul { margin: 0; }
     .card:hover { border-color: var(--card-border-hover); }
     .card-header { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
     .tag { background-color: var(--tag-bg); color: var(--accent-color); padding: 2px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; }
@@ -334,7 +342,7 @@ export function buildReportHtml(date, summary = null) {
     .source-link:hover { color: var(--accent-hover); border-bottom-color: var(--accent-hover); }
     .item-text { font-size: 1rem; line-height: 1.45; color: var(--text-body); }
     .source-quote { background: var(--quote-bg); border-left: 3px solid var(--quote-rule); border-radius: 4px 8px 8px 4px; padding: 10px 14px; font-style: italic; font-size: 0.92rem; color: var(--text-muted); }
-    .citations { margin-top: 6px; padding: 10px 14px; background: var(--quote-bg); border-radius: 8px; }
+    .citations { padding: 8px 12px; background: var(--quote-bg); border-radius: 8px; }
     .citations-label { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--accent-hover); letter-spacing: 0.04em; margin-bottom: 6px; }
     .citations ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }
     .citation-paper { font-size: 0.85rem; color: var(--text-body); font-weight: 600; }
@@ -345,8 +353,8 @@ export function buildReportHtml(date, summary = null) {
     .forum-item { display: flex; flex-direction: column; gap: 4px; }
     .forum-meta { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; flex-wrap: wrap; }
     .expandable-concept { color: var(--accent-hover); border-bottom: 1px dashed var(--accent-hover); cursor: pointer; font-weight: 600; }
-    .expanded-content { max-height: 0; overflow: hidden; background-color: var(--expanded-bg); border-radius: 6px; padding: 0 12px; transition: max-height 0.25s ease, padding 0.25s ease, margin 0.25s ease; font-size: 0.9rem; color: var(--text-soft); }
-    .expanded-content.open { max-height: 400px; padding: 10px 12px; margin-top: 6px; border-left: 3px solid var(--accent-color); }
+    .expanded-content { max-height: 0; overflow: hidden; background-color: var(--expanded-bg); border-radius: 6px; padding: 0 12px; margin: 0; transition: max-height 0.25s ease, padding 0.25s ease, margin 0.25s ease; font-size: 0.9rem; color: var(--text-soft); }
+    .expanded-content.open { max-height: 500px; padding: 10px 12px; margin-top: 4px; margin-bottom: 4px; border-left: 3px solid var(--accent-color); }
     .locked-section { background: linear-gradient(180deg, var(--locked-grad-start) 0%, var(--locked-grad-end) 100%); border: 1px dashed var(--locked-dash); border-radius: 12px; padding: 24px; text-align: center; opacity: 0.85; }
     .locked-title { font-size: 1.1rem; font-weight: 600; color: var(--locked-color); margin-bottom: 4px; }
     .locked-badge { font-size: 0.7rem; background-color: var(--locked-badge-bg); color: var(--locked-badge-fg); padding: 1px 6px; border-radius: 4px; font-weight: 700; margin-left: 6px; }
