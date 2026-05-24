@@ -23,6 +23,7 @@ import { buildReportHtml } from './code/build-report.js';
 import { checkSendWindow } from './code/sunrise.js';
 import { sendReportEmail } from './code/email.js';
 import { alreadySent, markSent } from './code/state.js';
+import { summarizeDay } from './code/summarize.js';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)));
 
@@ -42,6 +43,8 @@ function parseArgs() {
     buildOnly: args.includes('--build-only'),
     force: args.includes('--force'),
     sendV2Test: args.includes('--send-v2-test'),
+    useAi: args.includes('--use-ai'),
+    aiDryRun: args.includes('--ai-dry-run'),
     date: get('date'),
     summary: get('summary'),
   };
@@ -98,23 +101,28 @@ async function main() {
   }
 
   // Resolve summary JSON in this order:
-  //   1. --summary=<path> flag (explicit override)
-  //   2. kruse-summary/curated/<date>.json (hand-curated, committed to repo)
-  //   3. (future) AI-generated at run time
+  //   1. --use-ai → call Anthropic API, overwrite curated/<date>.json
+  //   2. --summary=<path> flag (explicit override)
+  //   3. kruse-summary/curated/<date>.json (hand-curated or prior AI output)
   //   4. null → renderer falls back to raw cards
   let summary = null;
-  let summaryPath = null;
-  if (args.summary) {
-    summaryPath = path.isAbsolute(args.summary) ? args.summary : path.join(ROOT, args.summary);
+  if (args.useAi) {
+    info('--use-ai: calling Anthropic API to generate summary');
+    summary = await summarizeDay(reportDate, { dryRun: args.aiDryRun });
   } else {
-    const auto = path.join(ROOT, 'curated', `${reportDate}.json`);
-    if (fs.existsSync(auto)) summaryPath = auto;
-  }
-  if (summaryPath) {
-    summary = JSON.parse(fs.readFileSync(summaryPath, 'utf8'));
-    info(`loaded summary from ${summaryPath}`);
-  } else {
-    info('no curated summary found; using raw-card fallback');
+    let summaryPath = null;
+    if (args.summary) {
+      summaryPath = path.isAbsolute(args.summary) ? args.summary : path.join(ROOT, args.summary);
+    } else {
+      const auto = path.join(ROOT, 'curated', `${reportDate}.json`);
+      if (fs.existsSync(auto)) summaryPath = auto;
+    }
+    if (summaryPath) {
+      summary = JSON.parse(fs.readFileSync(summaryPath, 'utf8'));
+      info(`loaded summary from ${summaryPath}`);
+    } else {
+      info('no curated summary found; using raw-card fallback');
+    }
   }
   const html = buildReportHtml(reportDate, summary);
   const outDir = path.join(ROOT, 'out');

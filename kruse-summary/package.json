@@ -19,6 +19,7 @@
     "v2-test": "node main.js --send-v2-test"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
     "dotenv": "^16.4.5",
     "nodemailer": "^7.0.7"
   }

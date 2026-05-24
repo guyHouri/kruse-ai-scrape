@@ -1,0 +1,377 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kruse Report 24/05/2026</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    /* Dark theme (default) */
+    :root {
+      --bg-color: #0b0f19;
+      --card-bg: #151c2c;
+      --card-border: #202b42;
+      --card-border-hover: #2e3e5f;
+      --section-rule: #24314b;
+      --text-color: #f3f4f6;
+      --text-soft: #cbd5e1;
+      --text-body: #e5e7eb;
+      --text-muted: #9ca3af;
+      --accent-color: #3b82f6;
+      --accent-hover: #60a5fa;
+      --locked-color: #4b5563;
+      --tag-bg: #1e293b;
+      --quote-bg: #0f1524;
+      --quote-rule: #4b5563;
+      --expanded-bg: #0f1524;
+      --locked-grad-start: #151c2c;
+      --locked-grad-end: #111622;
+      --locked-dash: #2d3748;
+      --locked-badge-bg: #27272a;
+      --locked-badge-fg: #a1a1aa;
+      --footer-color: #6b7280;
+      --toggle-bg: rgba(255,255,255,0.06);
+      --toggle-border: rgba(255,255,255,0.12);
+    }
+    /* Light theme — toggled by class on <body> */
+    body.light {
+      --bg-color: #f9fafb;
+      --card-bg: #ffffff;
+      --card-border: #e5e7eb;
+      --card-border-hover: #cbd5e1;
+      --section-rule: #e5e7eb;
+      --text-color: #0f172a;
+      --text-soft: #334155;
+      --text-body: #1f2937;
+      --text-muted: #6b7280;
+      --accent-color: #2563eb;
+      --accent-hover: #1d4ed8;
+      --locked-color: #94a3b8;
+      --tag-bg: #eff6ff;
+      --quote-bg: #f1f5f9;
+      --quote-rule: #cbd5e1;
+      --expanded-bg: #f1f5f9;
+      --locked-grad-start: #ffffff;
+      --locked-grad-end: #f3f4f6;
+      --locked-dash: #cbd5e1;
+      --locked-badge-bg: #e5e7eb;
+      --locked-badge-fg: #475569;
+      --footer-color: #94a3b8;
+      --toggle-bg: rgba(0,0,0,0.04);
+      --toggle-border: rgba(0,0,0,0.12);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', sans-serif; }
+    body { background-color: var(--bg-color); color: var(--text-color); padding: 40px 20px; display: flex; justify-content: center; align-items: flex-start; min-height: 100vh; transition: background-color 0.2s ease, color 0.2s ease; }
+    .container { width: 100%; max-width: 650px; display: flex; flex-direction: column; gap: 20px; }
+    header { text-align: center; margin-bottom: 10px; position: relative; padding-top: 48px; }
+    h1 { font-size: 2.3rem; font-weight: 700; letter-spacing: -0.5px; background: linear-gradient(45deg, #3b82f6, #9333ea); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; margin-bottom: 4px; }
+    .subtitle { font-size: 1rem; color: var(--text-muted); font-weight: 300; }
+    .theme-toggle { position: absolute; top: 0; right: 0; background: var(--toggle-bg); border: 1px solid var(--toggle-border); color: var(--text-color); cursor: pointer; padding: 6px 10px; border-radius: 20px; font-size: 0.85rem; line-height: 1; transition: background 0.2s ease; }
+    .theme-toggle:hover { background: var(--card-border); }
+    .level-toggle { position: absolute; top: 0; left: 0; display: flex; gap: 4px; background: var(--toggle-bg); border: 1px solid var(--toggle-border); border-radius: 20px; padding: 3px; }
+    .level-toggle button { background: transparent; color: var(--text-muted); border: none; cursor: pointer; padding: 4px 10px; border-radius: 16px; font-size: 0.8rem; font-weight: 600; transition: background 0.15s ease, color 0.15s ease; }
+    .level-toggle button.active { background: var(--accent-color); color: #fff; }
+    .level-toggle button:hover:not(.active) { color: var(--text-color); }
+    /* Concept-level gating: pro reader hides noob-only chips; hacker hides all. */
+    body.level-pro .expandable-concept[data-concept-level="noob"],
+    body.level-hacker .expandable-concept[data-concept-level] {
+      color: inherit; border-bottom: none; cursor: default; font-weight: inherit; pointer-events: none;
+    }
+    body.level-pro .expanded-content[data-concept-level="noob"],
+    body.level-hacker .expanded-content { display: none !important; }
+    .section-title { font-size: 1.3rem; font-weight: 700; color: var(--accent-hover); border-bottom: 1px solid var(--section-rule); padding-bottom: 6px; margin-top: 10px; }
+    .card { background-color: var(--card-bg); border: 1px solid var(--card-border); border-radius: 12px; padding: 14px 18px; display: flex; flex-direction: column; gap: 8px; transition: border-color 0.2s ease, background-color 0.2s ease; }
+    .card-body, .card-points { display: flex; flex-direction: column; gap: 4px; }
+    .card-points ul { margin: 0; }
+    .card:hover { border-color: var(--card-border-hover); }
+    .card-header { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .tag { background-color: var(--tag-bg); color: var(--accent-color); padding: 2px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; }
+    .source-link { font-size: 0.8rem; color: var(--text-muted); text-decoration: none; border-bottom: 1px dashed var(--text-muted); transition: all 0.2s ease; }
+    .source-link:hover { color: var(--accent-hover); border-bottom-color: var(--accent-hover); }
+    .item-text { font-size: 1rem; line-height: 1.45; color: var(--text-body); }
+    .source-quote { background: var(--quote-bg); border-left: 3px solid var(--quote-rule); border-radius: 4px 8px 8px 4px; padding: 10px 14px; font-style: italic; font-size: 0.92rem; color: var(--text-muted); }
+    .citations { padding: 8px 12px; background: var(--quote-bg); border-radius: 8px; }
+    .citations-label { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--accent-hover); letter-spacing: 0.04em; margin-bottom: 6px; }
+    .citations ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }
+    .citation-paper { font-size: 0.85rem; color: var(--text-body); font-weight: 600; }
+    .citation-claim { font-size: 0.82rem; color: var(--text-muted); line-height: 1.4; margin-top: 2px; }
+    .bullet-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px; }
+    .bullet-list li { position: relative; padding-left: 18px; line-height: 1.45; font-size: 1rem; }
+    .bullet-list li::before { content: "•"; color: var(--accent-color); font-weight: bold; position: absolute; left: 0; top: 0; }
+    .forum-item { display: flex; flex-direction: column; gap: 4px; }
+    .forum-meta { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+    .expandable-concept { color: var(--accent-hover); border-bottom: 1px dashed var(--accent-hover); cursor: pointer; font-weight: 600; }
+    .expanded-content { max-height: 0; overflow: hidden; background-color: var(--expanded-bg); border-radius: 6px; padding: 0 12px; margin: 0; transition: max-height 0.25s ease, padding 0.25s ease, margin 0.25s ease; font-size: 0.9rem; color: var(--text-soft); }
+    .expanded-content.open { max-height: 500px; padding: 10px 12px; margin-top: 4px; margin-bottom: 4px; border-left: 3px solid var(--accent-color); }
+    .locked-section { background: linear-gradient(180deg, var(--locked-grad-start) 0%, var(--locked-grad-end) 100%); border: 1px dashed var(--locked-dash); border-radius: 12px; padding: 24px; text-align: center; opacity: 0.85; }
+    .locked-title { font-size: 1.1rem; font-weight: 600; color: var(--locked-color); margin-bottom: 4px; }
+    .locked-badge { font-size: 0.7rem; background-color: var(--locked-badge-bg); color: var(--locked-badge-fg); padding: 1px 6px; border-radius: 4px; font-weight: 700; margin-left: 6px; }
+    footer { text-align: center; color: var(--footer-color); font-size: 0.75rem; margin-top: 12px; }
+    footer a { color: var(--footer-color); }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="level-toggle" role="tablist" aria-label="Reader knowledge level">
+        <button type="button" data-level="noob"   aria-pressed="false">Noob</button>
+        <button type="button" data-level="pro"    aria-pressed="true">Pro</button>
+        <button type="button" data-level="hacker" aria-pressed="false">Hacker</button>
+      </div>
+      <button type="button" class="theme-toggle" id="themeToggle" aria-label="Toggle dark/light mode">🌙 Dark</button>
+      <h1>Kruse Report 24/05/2026</h1>
+      <div class="subtitle">Cancer fat-burning, NAD blood myth, glycolysis as isotope filter.</div>
+    </header>
+      <div class="section-title">Twitter Updates</div>
+      <div class="card"><div class="card-header"><span class="tag">Tumor Metabolism</span><a href="https://x.com/i/status/2058342358391873799" target="_blank" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Cancer Cells DO Burn Fat — Three Studies the Keto-Crowd Skips</strong> Direct rebuttal to the recurring &#39;80% of cancer ATP is glucose/glutamine fermentation&#39; claim from the <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-0-0')">Seyfried</span> school. Kruse argues tumor mitochondria are functional and metabolically plastic — many aggressive cancers actively weaponize <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-1')">FAO</span>. &#39;Starve the tumor with keto&#39; is an oversimplification that can be clinically dangerous.</div><div id="c-0-0" class="expanded-content" data-concept-level="noob">
+      <strong>Seyfried:</strong> Thomas Seyfried — Boston College biologist, lead proponent of the &#39;cancer as a metabolic disease&#39; framework and the ketogenic-diet-starves-tumor thesis built on Otto Warburg&#39;s glucose-dependence observation.
+    </div>
+<div id="c-0-1" class="expanded-content" data-concept-level="pro">
+      <strong>FAO:</strong> Fatty Acid Oxidation — the mitochondrial pathway that breaks long-chain fatty acids down into acetyl-CoA via β-oxidation, fueling ATP production. The &#39;aggressive cancer weaponizes FAO&#39; claim is the heart of today&#39;s rebuttal.
+    </div></div><div class="card-points"><ul class="bullet-list"><li><strong>CPT1A Overdrive.</strong> Aggressive malignancies — prostate cancer, <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-0')">glioblastoma</span>, leukemia, triple-negative breast — upregulate <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-1')">CPT1A</span>, the rate-limiting enzyme that shuttles fatty acids into mitochondria for <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-2')">β-oxidation</span>.</li><li><strong>Lipid-Rich Microenvironments.</strong> Tumors in the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-0')">omentum</span> or bone marrow completely reprogram to feed almost exclusively on free fatty acids — the keto narrative collapses for these tumor types.</li><li><strong>OXPHOS Still Dominant.</strong> Quantitative energetic mapping shows mitochondrial <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-2-0')">OXPHOS</span> remains the dominant ATP source in most human cancers, operating alongside upregulated aerobic glycolysis.</li></ul><div id="c-0-0" class="expanded-content" data-concept-level="pro">
+      <strong>glioblastoma:</strong> The most aggressive primary brain tumor, arising from glial cells. Notoriously treatment-resistant; median survival ~15 months even with surgery + radiation + chemo.
+    </div>
+<div id="c-0-1" class="expanded-content" data-concept-level="pro">
+      <strong>CPT1A:</strong> Carnitine Palmitoyltransferase 1A — the gatekeeper enzyme on the outer mitochondrial membrane that controls how much long-chain fatty acid enters the mitochondrion. Upregulating CPT1A = the cell is choosing to burn fat.
+    </div>
+<div id="c-0-2" class="expanded-content" data-concept-level="pro">
+      <strong>β-oxidation:</strong> The stepwise mitochondrial process that breaks fatty acid chains down by two carbons at a time, feeding acetyl-CoA into the TCA cycle for ATP generation.
+    </div><div id="c-1-0" class="expanded-content" data-concept-level="pro">
+      <strong>omentum:</strong> Large fold of fatty tissue that hangs from the stomach and drapes over the intestines. A common metastasis site for ovarian and gastrointestinal cancers because of its high fatty-acid availability.
+    </div><div id="c-2-0" class="expanded-content" data-concept-level="pro">
+      <strong>OXPHOS:</strong> Oxidative Phosphorylation — the mitochondrial electron-transport-chain process that uses oxygen as the final electron acceptor and produces the majority of cellular ATP. Cancer cells supposedly abandon OXPHOS for fermentation; data shows they often don&#39;t.
+    </div></div><div class="citations"><div class="citations-label">Citations</div><ul><li class="citation"><div class="citation-paper">Pascual, G., et al. (2017). &quot;Targeting metastasis-initiating cells through the fatty acid receptor CD36.&quot; Nature, 541(7635), 41-45.</div><div class="citation-claim">Aggressive cancer cells rely on free-fatty-acid uptake via CD36 to drive metastasis; blocking CD36 halts tumor progression.</div></li><li class="citation"><div class="citation-paper">Nieman, K. M., et al. (2011). &quot;Adipocytes promote ovarian cancer metastasis and provide energy for rapid tumor growth.&quot; Nature Medicine, 17(11), 1498-1503.</div><div class="citation-claim">Ovarian cancer cells hijack fatty acids from local adipocytes and use accelerated β-oxidation for explosive replication.</div></li><li class="citation"><div class="citation-paper">Schlaepfer, I. R., et al. (2014). &quot;Inhibition of Carnitine Palmitoyltransferase 1A (CPT1A) Impairs Fatty Acid Oxidation and Tumor Growth in Prostate Cancer.&quot; Molecular Cancer Therapeutics, 13(3), 561-571.</div><div class="citation-claim">Prostate cancer cells actively upregulate CPT1A to pump fatty acids across the inner mitochondrial membrane — FAO is a key energetic pillar.</div></li></ul></div></div>
+      <div class="card"><div class="card-header"><span class="tag">Mitochondrial Bioenergetics</span><a href="https://x.com/i/status/2058357778779886073" target="_blank" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Why Blood NAD Tests Miss What&#39;s Happening Inside the Cell</strong> <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-0')">Charles Brenner</span>&#39;s lab admits whole-blood <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-1')">NAD+</span> is largely unrelated to where <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-2')">NR</span> and <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-3')">NMN</span> therapeutically act. Kruse extends: the supplement industry has been monitoring the wrong compartment — blood is engineered to be a clean transit highway, not a tissue that takes up these molecules.</div><div id="c-1-0" class="expanded-content" data-concept-level="noob">
+      <strong>Charles Brenner:</strong> Biochemist (UC Irvine / City of Hope), developer of NAD quantitation technology. Principal academic voice for the canonical NAD-precursor-supplementation hypothesis.
+    </div>
+<div id="c-1-1" class="expanded-content" data-concept-level="pro">
+      <strong>NAD+:</strong> Nicotinamide adenine dinucleotide — central electron-carrier coenzyme in mitochondrial energy metabolism. Cellular NAD+ levels gate oxidative phosphorylation throughput.
+    </div>
+<div id="c-1-2" class="expanded-content" data-concept-level="pro">
+      <strong>NR:</strong> Nicotinamide Riboside — an oral NAD+ precursor sold as an anti-aging supplement. Marketed as a way to raise systemic NAD+ levels.
+    </div>
+<div id="c-1-3" class="expanded-content" data-concept-level="pro">
+      <strong>NMN:</strong> Nicotinamide Mononucleotide — another oral NAD+ precursor, structurally one step closer to NAD+ than NR. Heavily promoted by the longevity-supplement industry.
+    </div></div><div class="card-points"><ul class="bullet-list"><li><strong>Red Blood Cells block the pathway.</strong> <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-100-0')">Erythrocytes</span> lack a nucleus, synthesize NAD only from <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-100-1')">nicotinic acid</span>, and have a hard genetic block on internalizing NMN/NR. They make up 99.97% of blood cellular volume.</li><li><strong>White Blood Cells block it too.</strong> <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-101-0')">Neutrophils</span> and <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-101-1')">monocytes</span> make NAD solely from <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-101-2')">nicotinamide</span>; they lack expression of the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-101-3')">NMRK1</span> / <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-101-4')">NMRK2</span> genes that would let them use NR.</li><li><strong>Solid tissues are where it acts.</strong> Skeletal muscle, heart, and damaged peripheral nerves aggressively spike NMRK2 expression — that&#39;s the actual NR uptake site in the body.</li><li><strong>Trigger is damage, not aging.</strong> NMRK2 activates when the tissue&#39;s internal water lattice undergoes <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-103-0')">dielectric collapse</span> under <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-103-1')">nnEMF</span> + blue-light stress, jamming the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-103-2')">F0-F1 ATP synthase</span> rotors — an emergency-repair pathway, not a longevity supplement target.</li></ul><div id="c-100-0" class="expanded-content" data-concept-level="pro">
+      <strong>Erythrocytes:</strong> Red blood cells — the dominant cell type in blood by count (~99% of cellular volume). Unique in having no nucleus and no mitochondria; their only job is to carry oxygen via hemoglobin.
+    </div>
+<div id="c-100-1" class="expanded-content" data-concept-level="pro">
+      <strong>nicotinic acid:</strong> Niacin (vitamin B3 in its acid form). One of the dietary precursors cells can use to build NAD+ via the Preiss-Handler pathway. Red blood cells rely on it exclusively because they lack the machinery to use NR or NMN.
+    </div><div id="c-101-0" class="expanded-content" data-concept-level="pro">
+      <strong>Neutrophils:</strong> The most abundant white blood cells; first responders in the innate immune system. Short-lived (hours to days).
+    </div>
+<div id="c-101-1" class="expanded-content" data-concept-level="pro">
+      <strong>monocytes:</strong> Another class of white blood cells (5-10% of total) that circulate briefly before migrating into tissues and differentiating into macrophages or dendritic cells. Like neutrophils, they synthesize NAD without using NR/NMN.
+    </div>
+<div id="c-101-2" class="expanded-content" data-concept-level="pro">
+      <strong>nicotinamide:</strong> The amide form of vitamin B3 — another dietary precursor cells use to build NAD+ via the salvage pathway. Distinct from NR and NMN structurally; uses a different uptake/synthesis route.
+    </div>
+<div id="c-101-3" class="expanded-content" data-concept-level="pro">
+      <strong>NMRK1:</strong> Nicotinamide Riboside Kinase 1 — the enzyme that phosphorylates NR into NMN as the first step of converting it to NAD+. Expressed in solid tissues but absent in red and white blood cells.
+    </div>
+<div id="c-101-4" class="expanded-content" data-concept-level="pro">
+      <strong>NMRK2:</strong> Nicotinamide Riboside Kinase 2 — tissue-restricted isoform of NMRK1, upregulated in damaged or stressed solid tissue (heart, skeletal muscle, peripheral nerves). The actual therapeutic target site for NR.
+    </div><div id="c-103-0" class="expanded-content" data-concept-level="pro">
+      <strong>dielectric collapse:</strong> Kruse&#39;s term for when the cell&#39;s internal structured (EZ) water loses its high dielectric constant (drops from k ≈ 160 to k ≈ 78, the value of bulk water) — typically under nnEMF or deuterium stress. The structured-water layer is what lets mitochondrial nanomotors run; without it, they jam.
+    </div>
+<div id="c-103-1" class="expanded-content" data-concept-level="noob">
+      <strong>nnEMF:</strong> non-native ElectroMagnetic Field. Kruse shorthand for the artificial RF / microwave / low-frequency emissions humans engineered into the environment (cell, Wi-Fi, power-line, smart-meter), as opposed to the geomagnetic / cosmic / solar fields biology evolved under.
+    </div>
+<div id="c-103-2" class="expanded-content" data-concept-level="pro">
+      <strong>F0-F1 ATP synthase:</strong> The rotary molecular motor embedded in the inner mitochondrial membrane that makes ATP — F0 is the membrane rotor, F1 the catalytic head. Kruse&#39;s central claim: heavy deuterium ions jam its sub-nanometer channels and slow the rotor to zero RPM.
+    </div></div></div>
+      <div class="card"><div class="card-header"><span class="tag">Biochemistry</span><a href="https://x.com/i/status/2058344539753001010" target="_blank" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Why Glycolysis Has 10 Steps, Not 1</strong> Classical biochemistry frames <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-2-0')">glycolysis</span> (10 steps) and the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-2-1')">TCA cycle</span> (9 steps) as a convoluted way to extract ATP. Kruse reads them as a precision isotopic filtration grid — the multi-step length is the point, not a flaw.</div><div id="c-2-0" class="expanded-content" data-concept-level="pro">
+      <strong>glycolysis:</strong> The 10-enzyme cytoplasmic pathway that breaks one glucose molecule into two pyruvate molecules, producing a net 2 ATP. The first stage of cellular respiration; classically taught as &#39;just ATP extraction&#39;.
+    </div>
+<div id="c-2-1" class="expanded-content" data-concept-level="pro">
+      <strong>TCA cycle:</strong> Tricarboxylic Acid cycle (Krebs cycle, citric acid cycle) — the 9-enzyme mitochondrial loop that finishes breaking down acetyl-CoA, producing reduced electron carriers (NADH, FADH2) that feed the electron transport chain.
+    </div></div><div class="card-points"><ul class="bullet-list"><li><strong>No incoherent flash.</strong> A single-step cleavage of glucose would release a destructive burst of incoherent <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-200-0')">UPE</span>s — literal &#39;matrix fire&#39;. Stepwise breakdown keeps the energy release coherent.</li><li><strong>Fractional isotope centrifuge.</strong> The 10 + 9 step machinery progressively isolates light <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-201-0')">protium</span> (¹H) for the respiratory chain while trapping and exhausting heavy <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-201-1')">deuterium</span> before it reaches the inner mitochondrial matrix.</li><li><strong>Boston banana failure.</strong> Tropical, high-deuterium carbs eaten at high winter latitudes overwhelm the filter. Without local solar IR/UV to drive the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-202-0')">cortisol awakening response</span>, the cellular water lattice collapses → the 10-step filter can&#39;t keep up.</li></ul><div id="c-200-0" class="expanded-content" data-concept-level="pro">
+      <strong>UPE:</strong> Ultra-weak Photon Emission — extremely faint biophoton light (single photons per cell per second) released by living tissue during oxidative metabolism. Kruse treats coherent UPEs as the cell&#39;s internal signaling channel and chaotic UPEs as damage signatures.
+    </div><div id="c-201-0" class="expanded-content" data-concept-level="pro">
+      <strong>protium:</strong> The light isotope of hydrogen (¹H) — one proton, no neutrons. About 99.985% of all natural hydrogen. Mitochondria preferentially handle protium and try to exclude its heavy cousin deuterium.
+    </div>
+<div id="c-201-1" class="expanded-content" data-concept-level="noob">
+      <strong>deuterium:</strong> Heavy isotope of hydrogen (one extra neutron). Chemically like hydrogen but twice as massive — when it ends up inside mitochondrial ATP-synthase machinery it jams the rotor.
+    </div><div id="c-202-0" class="expanded-content" data-concept-level="pro">
+      <strong>cortisol awakening response:</strong> The natural ~50% surge in blood cortisol within the first 30-45 minutes after waking, normally driven by morning sunlight on the retina. A signature circadian marker; blunted by indoor light and late screen exposure.
+    </div></div></div>
+      <div class="card"><div class="card-header"><span class="tag">Tumor Metabolism</span><a href="https://x.com/i/status/2058366576244428885" target="_blank" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Why Cancer Cells Prefer Sugar — A Different Story</strong> The <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-3-0')">Warburg shift</span> (cancer cells fermenting glucose even with oxygen available) is usually read as a mitochondrial defect. Kruse&#39;s reframe: it&#39;s the cell actively trying to <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-3-1')">de-fragging</span> its own internal water lattice of deuterium load — the sugar-burning is the cleanup tool, not the disease.</div><div id="c-3-0" class="expanded-content" data-concept-level="pro">
+      <strong>Warburg shift:</strong> Otto Warburg&#39;s 1924 observation: cancer cells preferentially use aerobic glycolysis (fermenting glucose to lactate even with oxygen present) instead of full oxidative phosphorylation. Mainstream reading: mitochondrial defect. Kruse: deliberate metabolic reroute.
+    </div>
+<div id="c-3-1" class="expanded-content" data-concept-level="noob">
+      <strong>de-fragging:</strong> Kruse-coined term for restoring the structured (EZ) water lattice coherence inside the cell, reversing the disordered state that sets in under deuterium load. Analogous to defragmenting a fragmented disk, but for the intracellular water phase.
+    </div></div><div class="card-points"><ul class="bullet-list"><li><strong>Ubiquitin = mobile isotopic scrubber.</strong> Recent finding that <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-300-0')">ubiquitin</span> houses glucose. Kruse reads it as the cell shuttling fuel directly to misfolded-protein sites for localized &#39;patching&#39; when the bulk water lattice has gone deuterated.</li><li><strong>G3P shuttle = the fix.</strong> The glucose lands on the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-301-0')">G3P shuttle</span> (<span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-301-1')">FADH2</span>-driven), generating localized deuterium-depleted electrons that let protein refolding happen even when the surrounding water is contaminated.</li><li><strong>UPR = the error log.</strong> The <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-302-0')">UPR</span> is the alarm signal that the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-302-1')">K+ dielectric buffer</span> has been depleted. Three transmembrane sensors (<span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-302-2')">PERK</span>, <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-302-3')">ATF6</span>, <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-302-4')">IRE1</span>) act as dielectric antennas in the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-302-5')">endoplasmic reticulum</span>; when the water &#39;thickens&#39; (k drops 160 → 50) they trigger emergency repair.</li><li><strong>Cancer = repair system gives up.</strong> When the ubiquitin-G3P de-fragging finally fails and the cell falls back to a classical &#39;survival script&#39; in a high-deuterium environment — that&#39;s the Warburg phenotype.</li></ul><div id="c-300-0" class="expanded-content" data-concept-level="pro">
+      <strong>ubiquitin:</strong> Small regulatory protein (76 amino acids) that, when attached to other proteins, typically tags them for degradation by the proteasome. Recently shown to also bind and shuttle glucose — the basis of Kruse&#39;s &#39;mobile isotopic scrubber&#39; framing.
+    </div><div id="c-301-0" class="expanded-content" data-concept-level="pro">
+      <strong>G3P shuttle:</strong> Glycerol-3-Phosphate shuttle — a mitochondrial system that transfers reducing equivalents from cytoplasmic NADH into the electron transport chain via FADH2, bypassing the main malate-aspartate shuttle.
+    </div>
+<div id="c-301-1" class="expanded-content" data-concept-level="pro">
+      <strong>FADH2:</strong> Flavin Adenine Dinucleotide (reduced form) — an electron-carrier coenzyme that delivers electrons to Complex II of the electron transport chain. The G3P shuttle&#39;s primary output.
+    </div><div id="c-302-0" class="expanded-content" data-concept-level="pro">
+      <strong>UPR:</strong> Unfolded Protein Response — a cellular stress pathway triggered when too many misfolded proteins accumulate in the endoplasmic reticulum. Classically a damage-control signal; Kruse reads it as a dielectric-water-state alarm.
+    </div>
+<div id="c-302-1" class="expanded-content" data-concept-level="pro">
+      <strong>K+ dielectric buffer:</strong> Kruse&#39;s term for the structured potassium-rich water layer inside the cell that holds the cell&#39;s high dielectric constant (k ≈ 160). &#39;Buffer depletion&#39; = the water phase has lost its order under deuterium / nnEMF stress.
+    </div>
+<div id="c-302-2" class="expanded-content" data-concept-level="pro">
+      <strong>PERK:</strong> Protein kinase R-like ER Kinase — one of three transmembrane UPR sensors. Halts global protein translation when activated, slowing the load on the misfolding crisis.
+    </div>
+<div id="c-302-3" class="expanded-content" data-concept-level="pro">
+      <strong>ATF6:</strong> Activating Transcription Factor 6 — UPR sensor that, when activated, migrates to the Golgi, gets cleaved, and travels to the nucleus to switch on chaperone and quality-control genes.
+    </div>
+<div id="c-302-4" class="expanded-content" data-concept-level="pro">
+      <strong>IRE1:</strong> Inositol-Requiring Enzyme 1 — UPR sensor with kinase and endoribonuclease domains. Splices XBP1 mRNA to produce a transcription factor that boosts the cell&#39;s misfolding-recovery machinery.
+    </div>
+<div id="c-302-5" class="expanded-content" data-concept-level="pro">
+      <strong>endoplasmic reticulum:</strong> Membrane network inside the cell where most proteins fold and where calcium is stored. The site where misfolded-protein stress is detected and the UPR is launched.
+    </div></div></div>
+      <div class="card"><div class="card-header"><span class="tag">Adipose Biophysics</span><a href="https://x.com/i/status/2058363350661165165" target="_blank" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Heavy Water Turns Brown Fat Into Storage Fat</strong> A research thread documented <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-4-0')">BAT</span> (calorie-burning brown fat) peaks in infancy and declines through adulthood — usually attributed to &#39;aging metabolism.&#39; Kruse&#39;s mechanism: rising <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-4-1')">deuterium</span> body load destroys BAT mitochondria and converts the cells into <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-4-2')">WAT</span> (storage fat). Downstream consequence: more <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-4-3')">NAFLD</span> / <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-4-4')">MASLD</span>.</div><div id="c-4-0" class="expanded-content" data-concept-level="pro">
+      <strong>BAT:</strong> Brown Adipose Tissue — fat tissue rich in mitochondria that burns calories directly as heat (thermogenesis via the UCP1 protein). Highest in infants; declines through adulthood.
+    </div>
+<div id="c-4-1" class="expanded-content" data-concept-level="noob">
+      <strong>deuterium:</strong> Heavy isotope of hydrogen (one extra neutron). Behaves chemically like hydrogen but is twice as massive — jams mitochondrial ATP-synthase rotors.
+    </div>
+<div id="c-4-2" class="expanded-content" data-concept-level="pro">
+      <strong>WAT:</strong> White Adipose Tissue — the storage form of fat that accumulates with positive energy balance. Mitochondrially poor compared to BAT; metabolically inert by comparison.
+    </div>
+<div id="c-4-3" class="expanded-content" data-concept-level="pro">
+      <strong>NAFLD:</strong> Non-Alcoholic Fatty Liver Disease — abnormal lipid accumulation in liver cells absent significant alcohol intake. Now the most common chronic liver condition in industrialised populations.
+    </div>
+<div id="c-4-4" class="expanded-content" data-concept-level="pro">
+      <strong>MASLD:</strong> Metabolic dysfunction-Associated Steatotic Liver Disease — the 2023 consensus rename of NAFLD, reframing the condition as primarily metabolic rather than just non-alcoholic. Same disease, sharper diagnostic criteria.
+    </div></div><div class="source-quote">Brown adipose tissue activity peaks in infancy and declines progressively through adulthood. By the fourth decade, thermogenic capacity is largely lost.</div></div>
+      <div class="card"><div class="card-header"><span class="tag">Aquifer Geophysics</span><a href="https://x.com/i/status/2058372629745091050" target="_blank" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Kentucky&#39;s Hidden Limestone Caves + Atlantic Currents</strong> Kentucky sits on one of Earth&#39;s most extensive Mississippian limestone <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-5-0')">karst</span> aquifer systems — surfaced as a regional biophysical case study, paired with a one-line <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-5-1')">AMOC</span> flag. Reads as another node in the dipole-decline story: aquifer dielectric properties coupled to ocean-current state.</div><div id="c-5-0" class="expanded-content" data-concept-level="pro">
+      <strong>karst:</strong> Landscape formed by the dissolution of soluble bedrock (limestone, dolomite, gypsum) — produces caves, sinkholes, large interconnected groundwater systems. Kentucky sits on one of Earth&#39;s most extensive karst aquifers.
+    </div>
+<div id="c-5-1" class="expanded-content" data-concept-level="pro">
+      <strong>AMOC:</strong> Atlantic Meridional Overturning Circulation — the system of ocean currents that moves warm surface water poleward and cold deep water back south. Its weakening is a flagship indicator of climate-system reorganisation.
+    </div></div></div>
+      <div class="section-title">Forum Updates</div>
+      <div class="card"><ul class="bullet-list"><li>
+        <div class="forum-item">
+          <div class="forum-meta">
+            <strong>Vagal Nerve Stimulation Without the Machine — Use Your Belly Button:</strong>
+            <a href="https://forum.jackkruse.com/threads/vagal-nerve-stimulation-tips.32826/" target="_blank" class="source-link">See full thread →</a>
+          </div>
+          <div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">Concrete protocol: if you can&#39;t afford a <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1000-0')">VNS</span> device, apply high-quality castor oil to the umbilicus. The belly button is the embryonic scar node where <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1000-1')">ectoderm</span>-derived nervous tissue and <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1000-2')">mesoderm</span>-derived vascular tissue permanently cross-couple — the lipid liquefies the local <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1000-3')">EZ water</span> lattice (k=160), dropping electrical resistance to zero so the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1000-4')">vagus</span> input can pass freely.</div>
+          <div id="c-1000-0" class="expanded-content" data-concept-level="pro">
+      <strong>VNS:</strong> Vagal Nerve Stimulation — electrical or mechanical stimulation of the vagus nerve to upregulate parasympathetic tone. Clinical VNS devices (implanted or transauricular) are expensive; the umbilicus protocol is Kruse&#39;s improvised substitute.
+    </div>
+<div id="c-1000-1" class="expanded-content" data-concept-level="noob">
+      <strong>ectoderm:</strong> Outermost embryonic germ layer — gives rise to the nervous system, skin, hair, tooth enamel, and retina.
+    </div>
+<div id="c-1000-2" class="expanded-content" data-concept-level="noob">
+      <strong>mesoderm:</strong> Middle embryonic germ layer — gives rise to muscle, bone, connective tissue, blood vessels, and the cardiovascular system.
+    </div>
+<div id="c-1000-3" class="expanded-content" data-concept-level="noob">
+      <strong>EZ water:</strong> Exclusion Zone water — Gerald Pollack&#39;s term for the structured, gel-like fourth phase of water that lines living surfaces (cells, vessels, fascia). Carries a net negative charge and has a much higher dielectric constant (~160) than bulk water (~78).
+    </div>
+<div id="c-1000-4" class="expanded-content" data-concept-level="pro">
+      <strong>vagus:</strong> The vagus nerve (cranial nerve X) — the longest cranial nerve, running from the brainstem through the neck and chest down to most abdominal organs. Master regulator of parasympathetic &#39;rest and digest&#39; tone.
+    </div>
+        </div>
+      </li><li>
+        <div class="forum-item">
+          <div class="forum-meta">
+            <strong>NAD+ as Wireless Quantum Parabiosis — The Kuramoto Model:</strong>
+            <a href="https://forum.jackkruse.com/threads/what-is-nad-in-biophysical-terms.32390/unread" target="_blank" class="source-link">See full thread →</a>
+          </div>
+          <div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">Reframes <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1001-0')">NAD+</span> not as a chemical pool but as the output of biological <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1001-1')">Resonant Oscillator Locking</span> (<span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1001-2')">Kuramoto model</span>) between coupled biological systems. Cites the <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1001-3')">Kyrie and Brielle Jackson</span> &#39;Rescuing Hug&#39; case — the coherent twin pulled the dying twin into stable rhythm via <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1001-4')">UPE</span> entanglement. Macroscopic proof that humans are coupled oscillators, not isolated chemical bags.</div>
+          <div id="c-1001-0" class="expanded-content" data-concept-level="pro">
+      <strong>NAD+:</strong> Nicotinamide adenine dinucleotide — central electron-carrier coenzyme in mitochondrial energy metabolism.
+    </div>
+<div id="c-1001-1" class="expanded-content" data-concept-level="pro">
+      <strong>Resonant Oscillator Locking:</strong> The phenomenon where two or more oscillators with similar natural frequencies synchronise when coupled, even weakly. Common in physics (pendulum clocks on a shared wall) and biology (menstrual cycle synchrony, neural firing patterns).
+    </div>
+<div id="c-1001-2" class="expanded-content" data-concept-level="pro">
+      <strong>Kuramoto model:</strong> Mathematical model (Yoshiki Kuramoto, 1975) describing how large populations of coupled oscillators synchronise. Used to model everything from firefly flashing patterns to brain network coherence.
+    </div>
+<div id="c-1001-3" class="expanded-content" data-concept-level="noob">
+      <strong>Kyrie and Brielle Jackson:</strong> Famous 1995 NICU case: twin sisters born premature; Brielle was failing. A nurse against protocol placed both in one incubator. The stable twin (Kyrie) put her arm around Brielle, whose vitals immediately stabilised. Known as &#39;the Rescuing Hug.&#39;
+    </div>
+<div id="c-1001-4" class="expanded-content" data-concept-level="pro">
+      <strong>UPE:</strong> Ultra-weak Photon Emission — extremely faint biophoton light released by living tissue during oxidative metabolism. Proposed by Kruse as the signal channel for the coherent inter-cell coupling that drives the parabiosis effect.
+    </div>
+        </div>
+      </li><li>
+        <div class="forum-item">
+          <div class="forum-meta">
+            <strong>Sun Allergy Is Really a Deuterium Flash-Evaporation Event:</strong>
+            <a href="https://forum.jackkruse.com/threads/sun-allergy-is-it-really.32491/" target="_blank" class="source-link">See full thread →</a>
+          </div>
+          <div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">Reframes <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1002-0')">PMLE</span> (polymorphous light eruption) and cutaneous <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1002-1')">lupus</span> as a cutaneous deuterium flash-evaporation — the skin behaves like an overloaded electrical transformer blowing its pressure-relief valve. Links chronic <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1002-2')">tetracycline</span> / <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1002-3')">doxycycline</span> exposure to the same <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1002-4')">MITF</span>-AMPAR / vagus pathway breakdown.</div>
+          <div id="c-1002-0" class="expanded-content" data-concept-level="pro">
+      <strong>PMLE:</strong> Polymorphous Light Eruption — the most common &#39;sun allergy&#39; rash. Itchy red bumps, blisters, or plaques appearing hours to days after sun exposure, typically on body areas usually covered.
+    </div>
+<div id="c-1002-1" class="expanded-content" data-concept-level="pro">
+      <strong>lupus:</strong> Cutaneous lupus erythematosus — the skin-only or skin-predominant form of the lupus autoimmune family. Highly photosensitive; UV light triggers characteristic disc-shaped lesions.
+    </div>
+<div id="c-1002-2" class="expanded-content" data-concept-level="pro">
+      <strong>tetracycline:</strong> A broad-spectrum antibiotic class (tetracycline, minocycline, doxycycline). Beyond bacterial use, prescribed for acne and rosacea long-term. Famously photosensitising — wearers burn easier under sunlight.
+    </div>
+<div id="c-1002-3" class="expanded-content" data-concept-level="pro">
+      <strong>doxycycline:</strong> Most-prescribed tetracycline derivative. Long-term doses are used for acne, malaria prophylaxis, and rosacea. Builds up in skin and teeth (the latter is why kids are not given it).
+    </div>
+<div id="c-1002-4" class="expanded-content" data-concept-level="pro">
+      <strong>MITF:</strong> Microphthalmia-associated Transcription Factor — master regulator of melanocyte (pigment cell) development and function. Controls how cells respond to UV by making melanin.
+    </div>
+        </div>
+      </li></ul></div>
+    <div class="locked-section">
+      <div class="locked-title">
+        <span>Interact with Report (Ask AI)</span>
+        <span class="locked-badge">Soon</span>
+      </div>
+    </div>
+    <footer>
+      Auto-generated by <a href="https://github.com/guyHouri/kruse-ai-scrape">kruse-ai-scrape</a>.
+      Source: <a href="https://x.com/DrJackKruse">@DrJackKruse</a>.
+    </footer>
+  </div>
+  <script>
+    function toggleConcept(id) {
+      var el = document.getElementById(id);
+      if (el) el.classList.toggle('open');
+    }
+    (function () {
+      var btn = document.getElementById('themeToggle');
+      var saved = null;
+      try { saved = localStorage.getItem('kruse-theme'); } catch (e) {}
+      if (saved === 'light') document.body.classList.add('light');
+      function syncLabel() {
+        if (!btn) return;
+        btn.textContent = document.body.classList.contains('light') ? '☀ Light' : '🌙 Dark';
+      }
+      syncLabel();
+      if (btn) btn.addEventListener('click', function () {
+        document.body.classList.toggle('light');
+        try { localStorage.setItem('kruse-theme', document.body.classList.contains('light') ? 'light' : 'dark'); } catch (e) {}
+        syncLabel();
+      });
+    })();
+    (function () {
+      var savedLevel = null;
+      try { savedLevel = localStorage.getItem('kruse-level'); } catch (e) {}
+      var initial = (savedLevel === 'noob' || savedLevel === 'pro' || savedLevel === 'hacker') ? savedLevel : 'pro';
+      function apply(level) {
+        document.body.classList.remove('level-noob', 'level-pro', 'level-hacker');
+        document.body.classList.add('level-' + level);
+        var btns = document.querySelectorAll('.level-toggle button');
+        for (var i = 0; i < btns.length; i++) {
+          var on = btns[i].getAttribute('data-level') === level;
+          btns[i].classList.toggle('active', on);
+          btns[i].setAttribute('aria-pressed', on ? 'true' : 'false');
+        }
+        try { localStorage.setItem('kruse-level', level); } catch (e) {}
+      }
+      apply(initial);
+      var btns = document.querySelectorAll('.level-toggle button');
+      for (var i = 0; i < btns.length; i++) {
+        (function (b) {
+          b.addEventListener('click', function () { apply(b.getAttribute('data-level')); });
+        })(btns[i]);
+      }
+    })();
+  </script>
+</body>
+</html>

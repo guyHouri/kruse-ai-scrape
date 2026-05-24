@@ -1,0 +1,360 @@
+{
+  "headline_subtitle": "Cancer fat-burning, NAD blood myth, glycolysis as isotope filter.",
+  "sections": [
+    {
+      "title": "Twitter Updates",
+      "cards": [
+        {
+          "tag": "Tumor Metabolism",
+          "lead": "Cancer Cells DO Burn Fat — Three Studies the Keto-Crowd Skips",
+          "body": "Direct rebuttal to the recurring '80% of cancer ATP is glucose/glutamine fermentation' claim from the {{concept:Seyfried}} school. Kruse argues tumor mitochondria are functional and metabolically plastic — many aggressive cancers actively weaponize {{concept:FAO}}. 'Starve the tumor with keto' is an oversimplification that can be clinically dangerous.",
+          "points": [
+            "**CPT1A Overdrive.** Aggressive malignancies — prostate cancer, {{concept:glioblastoma}}, leukemia, triple-negative breast — upregulate {{concept:CPT1A}}, the rate-limiting enzyme that shuttles fatty acids into mitochondria for {{concept:β-oxidation}}.",
+            "**Lipid-Rich Microenvironments.** Tumors in the {{concept:omentum}} or bone marrow completely reprogram to feed almost exclusively on free fatty acids — the keto narrative collapses for these tumor types.",
+            "**OXPHOS Still Dominant.** Quantitative energetic mapping shows mitochondrial {{concept:OXPHOS}} remains the dominant ATP source in most human cancers, operating alongside upregulated aerobic glycolysis."
+          ],
+          "concepts": {
+            "Seyfried": {
+              "level": "noob",
+              "text": "Thomas Seyfried — Boston College biologist, lead proponent of the 'cancer as a metabolic disease' framework and the ketogenic-diet-starves-tumor thesis built on Otto Warburg's glucose-dependence observation."
+            },
+            "FAO": {
+              "level": "pro",
+              "text": "Fatty Acid Oxidation — the mitochondrial pathway that breaks long-chain fatty acids down into acetyl-CoA via β-oxidation, fueling ATP production. The 'aggressive cancer weaponizes FAO' claim is the heart of today's rebuttal."
+            },
+            "CPT1A": {
+              "level": "pro",
+              "text": "Carnitine Palmitoyltransferase 1A — the gatekeeper enzyme on the outer mitochondrial membrane that controls how much long-chain fatty acid enters the mitochondrion. Upregulating CPT1A = the cell is choosing to burn fat."
+            },
+            "β-oxidation": {
+              "level": "pro",
+              "text": "The stepwise mitochondrial process that breaks fatty acid chains down by two carbons at a time, feeding acetyl-CoA into the TCA cycle for ATP generation."
+            },
+            "glioblastoma": {
+              "level": "pro",
+              "text": "The most aggressive primary brain tumor, arising from glial cells. Notoriously treatment-resistant; median survival ~15 months even with surgery + radiation + chemo."
+            },
+            "omentum": {
+              "level": "pro",
+              "text": "Large fold of fatty tissue that hangs from the stomach and drapes over the intestines. A common metastasis site for ovarian and gastrointestinal cancers because of its high fatty-acid availability."
+            },
+            "OXPHOS": {
+              "level": "pro",
+              "text": "Oxidative Phosphorylation — the mitochondrial electron-transport-chain process that uses oxygen as the final electron acceptor and produces the majority of cellular ATP. Cancer cells supposedly abandon OXPHOS for fermentation; data shows they often don't."
+            }
+          },
+          "citations": [
+            {
+              "paper": "Pascual, G., et al. (2017). \"Targeting metastasis-initiating cells through the fatty acid receptor CD36.\" Nature, 541(7635), 41-45.",
+              "claim": "Aggressive cancer cells rely on free-fatty-acid uptake via CD36 to drive metastasis; blocking CD36 halts tumor progression."
+            },
+            {
+              "paper": "Nieman, K. M., et al. (2011). \"Adipocytes promote ovarian cancer metastasis and provide energy for rapid tumor growth.\" Nature Medicine, 17(11), 1498-1503.",
+              "claim": "Ovarian cancer cells hijack fatty acids from local adipocytes and use accelerated β-oxidation for explosive replication."
+            },
+            {
+              "paper": "Schlaepfer, I. R., et al. (2014). \"Inhibition of Carnitine Palmitoyltransferase 1A (CPT1A) Impairs Fatty Acid Oxidation and Tumor Growth in Prostate Cancer.\" Molecular Cancer Therapeutics, 13(3), 561-571.",
+              "claim": "Prostate cancer cells actively upregulate CPT1A to pump fatty acids across the inner mitochondrial membrane — FAO is a key energetic pillar."
+            }
+          ],
+          "source_ids": ["2058342358391873799"]
+        },
+        {
+          "tag": "Mitochondrial Bioenergetics",
+          "lead": "Why Blood NAD Tests Miss What's Happening Inside the Cell",
+          "body": "{{concept:Charles Brenner}}'s lab admits whole-blood {{concept:NAD+}} is largely unrelated to where {{concept:NR}} and {{concept:NMN}} therapeutically act. Kruse extends: the supplement industry has been monitoring the wrong compartment — blood is engineered to be a clean transit highway, not a tissue that takes up these molecules.",
+          "points": [
+            "**Red Blood Cells block the pathway.** {{concept:Erythrocytes}} lack a nucleus, synthesize NAD only from {{concept:nicotinic acid}}, and have a hard genetic block on internalizing NMN/NR. They make up 99.97% of blood cellular volume.",
+            "**White Blood Cells block it too.** {{concept:Neutrophils}} and {{concept:monocytes}} make NAD solely from {{concept:nicotinamide}}; they lack expression of the {{concept:NMRK1}} / {{concept:NMRK2}} genes that would let them use NR.",
+            "**Solid tissues are where it acts.** Skeletal muscle, heart, and damaged peripheral nerves aggressively spike NMRK2 expression — that's the actual NR uptake site in the body.",
+            "**Trigger is damage, not aging.** NMRK2 activates when the tissue's internal water lattice undergoes {{concept:dielectric collapse}} under {{concept:nnEMF}} + blue-light stress, jamming the {{concept:F0-F1 ATP synthase}} rotors — an emergency-repair pathway, not a longevity supplement target."
+          ],
+          "concepts": {
+            "Charles Brenner": {
+              "level": "noob",
+              "text": "Biochemist (UC Irvine / City of Hope), developer of NAD quantitation technology. Principal academic voice for the canonical NAD-precursor-supplementation hypothesis."
+            },
+            "NAD+": {
+              "level": "pro",
+              "text": "Nicotinamide adenine dinucleotide — central electron-carrier coenzyme in mitochondrial energy metabolism. Cellular NAD+ levels gate oxidative phosphorylation throughput."
+            },
+            "NR": {
+              "level": "pro",
+              "text": "Nicotinamide Riboside — an oral NAD+ precursor sold as an anti-aging supplement. Marketed as a way to raise systemic NAD+ levels."
+            },
+            "NMN": {
+              "level": "pro",
+              "text": "Nicotinamide Mononucleotide — another oral NAD+ precursor, structurally one step closer to NAD+ than NR. Heavily promoted by the longevity-supplement industry."
+            },
+            "Erythrocytes": {
+              "level": "pro",
+              "text": "Red blood cells — the dominant cell type in blood by count (~99% of cellular volume). Unique in having no nucleus and no mitochondria; their only job is to carry oxygen via hemoglobin."
+            },
+            "nicotinic acid": {
+              "level": "pro",
+              "text": "Niacin (vitamin B3 in its acid form). One of the dietary precursors cells can use to build NAD+ via the Preiss-Handler pathway. Red blood cells rely on it exclusively because they lack the machinery to use NR or NMN."
+            },
+            "Neutrophils": {
+              "level": "pro",
+              "text": "The most abundant white blood cells; first responders in the innate immune system. Short-lived (hours to days)."
+            },
+            "monocytes": {
+              "level": "pro",
+              "text": "Another class of white blood cells (5-10% of total) that circulate briefly before migrating into tissues and differentiating into macrophages or dendritic cells. Like neutrophils, they synthesize NAD without using NR/NMN."
+            },
+            "nicotinamide": {
+              "level": "pro",
+              "text": "The amide form of vitamin B3 — another dietary precursor cells use to build NAD+ via the salvage pathway. Distinct from NR and NMN structurally; uses a different uptake/synthesis route."
+            },
+            "NMRK1": {
+              "level": "pro",
+              "text": "Nicotinamide Riboside Kinase 1 — the enzyme that phosphorylates NR into NMN as the first step of converting it to NAD+. Expressed in solid tissues but absent in red and white blood cells."
+            },
+            "NMRK2": {
+              "level": "pro",
+              "text": "Nicotinamide Riboside Kinase 2 — tissue-restricted isoform of NMRK1, upregulated in damaged or stressed solid tissue (heart, skeletal muscle, peripheral nerves). The actual therapeutic target site for NR."
+            },
+            "dielectric collapse": {
+              "level": "pro",
+              "text": "Kruse's term for when the cell's internal structured (EZ) water loses its high dielectric constant (drops from k ≈ 160 to k ≈ 78, the value of bulk water) — typically under nnEMF or deuterium stress. The structured-water layer is what lets mitochondrial nanomotors run; without it, they jam."
+            },
+            "nnEMF": {
+              "level": "noob",
+              "text": "non-native ElectroMagnetic Field. Kruse shorthand for the artificial RF / microwave / low-frequency emissions humans engineered into the environment (cell, Wi-Fi, power-line, smart-meter), as opposed to the geomagnetic / cosmic / solar fields biology evolved under."
+            },
+            "F0-F1 ATP synthase": {
+              "level": "pro",
+              "text": "The rotary molecular motor embedded in the inner mitochondrial membrane that makes ATP — F0 is the membrane rotor, F1 the catalytic head. Kruse's central claim: heavy deuterium ions jam its sub-nanometer channels and slow the rotor to zero RPM."
+            }
+          },
+          "source_ids": ["2058357778779886073"]
+        },
+        {
+          "tag": "Biochemistry",
+          "lead": "Why Glycolysis Has 10 Steps, Not 1",
+          "body": "Classical biochemistry frames {{concept:glycolysis}} (10 steps) and the {{concept:TCA cycle}} (9 steps) as a convoluted way to extract ATP. Kruse reads them as a precision isotopic filtration grid — the multi-step length is the point, not a flaw.",
+          "points": [
+            "**No incoherent flash.** A single-step cleavage of glucose would release a destructive burst of incoherent {{concept:UPE}}s — literal 'matrix fire'. Stepwise breakdown keeps the energy release coherent.",
+            "**Fractional isotope centrifuge.** The 10 + 9 step machinery progressively isolates light {{concept:protium}} (¹H) for the respiratory chain while trapping and exhausting heavy {{concept:deuterium}} before it reaches the inner mitochondrial matrix.",
+            "**Boston banana failure.** Tropical, high-deuterium carbs eaten at high winter latitudes overwhelm the filter. Without local solar IR/UV to drive the {{concept:cortisol awakening response}}, the cellular water lattice collapses → the 10-step filter can't keep up."
+          ],
+          "concepts": {
+            "glycolysis": {
+              "level": "pro",
+              "text": "The 10-enzyme cytoplasmic pathway that breaks one glucose molecule into two pyruvate molecules, producing a net 2 ATP. The first stage of cellular respiration; classically taught as 'just ATP extraction'."
+            },
+            "TCA cycle": {
+              "level": "pro",
+              "text": "Tricarboxylic Acid cycle (Krebs cycle, citric acid cycle) — the 9-enzyme mitochondrial loop that finishes breaking down acetyl-CoA, producing reduced electron carriers (NADH, FADH2) that feed the electron transport chain."
+            },
+            "UPE": {
+              "level": "pro",
+              "text": "Ultra-weak Photon Emission — extremely faint biophoton light (single photons per cell per second) released by living tissue during oxidative metabolism. Kruse treats coherent UPEs as the cell's internal signaling channel and chaotic UPEs as damage signatures."
+            },
+            "protium": {
+              "level": "pro",
+              "text": "The light isotope of hydrogen (¹H) — one proton, no neutrons. About 99.985% of all natural hydrogen. Mitochondria preferentially handle protium and try to exclude its heavy cousin deuterium."
+            },
+            "deuterium": {
+              "level": "noob",
+              "text": "Heavy isotope of hydrogen (one extra neutron). Chemically like hydrogen but twice as massive — when it ends up inside mitochondrial ATP-synthase machinery it jams the rotor."
+            },
+            "cortisol awakening response": {
+              "level": "pro",
+              "text": "The natural ~50% surge in blood cortisol within the first 30-45 minutes after waking, normally driven by morning sunlight on the retina. A signature circadian marker; blunted by indoor light and late screen exposure."
+            }
+          },
+          "source_ids": ["2058344539753001010"]
+        },
+        {
+          "tag": "Tumor Metabolism",
+          "lead": "Why Cancer Cells Prefer Sugar — A Different Story",
+          "body": "The {{concept:Warburg shift}} (cancer cells fermenting glucose even with oxygen available) is usually read as a mitochondrial defect. Kruse's reframe: it's the cell actively trying to {{concept:de-fragging}} its own internal water lattice of deuterium load — the sugar-burning is the cleanup tool, not the disease.",
+          "points": [
+            "**Ubiquitin = mobile isotopic scrubber.** Recent finding that {{concept:ubiquitin}} houses glucose. Kruse reads it as the cell shuttling fuel directly to misfolded-protein sites for localized 'patching' when the bulk water lattice has gone deuterated.",
+            "**G3P shuttle = the fix.** The glucose lands on the {{concept:G3P shuttle}} ({{concept:FADH2}}-driven), generating localized deuterium-depleted electrons that let protein refolding happen even when the surrounding water is contaminated.",
+            "**UPR = the error log.** The {{concept:UPR}} is the alarm signal that the {{concept:K+ dielectric buffer}} has been depleted. Three transmembrane sensors ({{concept:PERK}}, {{concept:ATF6}}, {{concept:IRE1}}) act as dielectric antennas in the {{concept:endoplasmic reticulum}}; when the water 'thickens' (k drops 160 → 50) they trigger emergency repair.",
+            "**Cancer = repair system gives up.** When the ubiquitin-G3P de-fragging finally fails and the cell falls back to a classical 'survival script' in a high-deuterium environment — that's the Warburg phenotype."
+          ],
+          "concepts": {
+            "Warburg shift": {
+              "level": "pro",
+              "text": "Otto Warburg's 1924 observation: cancer cells preferentially use aerobic glycolysis (fermenting glucose to lactate even with oxygen present) instead of full oxidative phosphorylation. Mainstream reading: mitochondrial defect. Kruse: deliberate metabolic reroute."
+            },
+            "de-fragging": {
+              "level": "noob",
+              "text": "Kruse-coined term for restoring the structured (EZ) water lattice coherence inside the cell, reversing the disordered state that sets in under deuterium load. Analogous to defragmenting a fragmented disk, but for the intracellular water phase."
+            },
+            "ubiquitin": {
+              "level": "pro",
+              "text": "Small regulatory protein (76 amino acids) that, when attached to other proteins, typically tags them for degradation by the proteasome. Recently shown to also bind and shuttle glucose — the basis of Kruse's 'mobile isotopic scrubber' framing."
+            },
+            "G3P shuttle": {
+              "level": "pro",
+              "text": "Glycerol-3-Phosphate shuttle — a mitochondrial system that transfers reducing equivalents from cytoplasmic NADH into the electron transport chain via FADH2, bypassing the main malate-aspartate shuttle."
+            },
+            "FADH2": {
+              "level": "pro",
+              "text": "Flavin Adenine Dinucleotide (reduced form) — an electron-carrier coenzyme that delivers electrons to Complex II of the electron transport chain. The G3P shuttle's primary output."
+            },
+            "UPR": {
+              "level": "pro",
+              "text": "Unfolded Protein Response — a cellular stress pathway triggered when too many misfolded proteins accumulate in the endoplasmic reticulum. Classically a damage-control signal; Kruse reads it as a dielectric-water-state alarm."
+            },
+            "K+ dielectric buffer": {
+              "level": "pro",
+              "text": "Kruse's term for the structured potassium-rich water layer inside the cell that holds the cell's high dielectric constant (k ≈ 160). 'Buffer depletion' = the water phase has lost its order under deuterium / nnEMF stress."
+            },
+            "endoplasmic reticulum": {
+              "level": "pro",
+              "text": "Membrane network inside the cell where most proteins fold and where calcium is stored. The site where misfolded-protein stress is detected and the UPR is launched."
+            },
+            "PERK": {
+              "level": "pro",
+              "text": "Protein kinase R-like ER Kinase — one of three transmembrane UPR sensors. Halts global protein translation when activated, slowing the load on the misfolding crisis."
+            },
+            "ATF6": {
+              "level": "pro",
+              "text": "Activating Transcription Factor 6 — UPR sensor that, when activated, migrates to the Golgi, gets cleaved, and travels to the nucleus to switch on chaperone and quality-control genes."
+            },
+            "IRE1": {
+              "level": "pro",
+              "text": "Inositol-Requiring Enzyme 1 — UPR sensor with kinase and endoribonuclease domains. Splices XBP1 mRNA to produce a transcription factor that boosts the cell's misfolding-recovery machinery."
+            }
+          },
+          "source_ids": ["2058366576244428885"]
+        },
+        {
+          "tag": "Adipose Biophysics",
+          "lead": "Heavy Water Turns Brown Fat Into Storage Fat",
+          "body": "A research thread documented {{concept:BAT}} (calorie-burning brown fat) peaks in infancy and declines through adulthood — usually attributed to 'aging metabolism.' Kruse's mechanism: rising {{concept:deuterium}} body load destroys BAT mitochondria and converts the cells into {{concept:WAT}} (storage fat). Downstream consequence: more {{concept:NAFLD}} / {{concept:MASLD}}.",
+          "concepts": {
+            "BAT": {
+              "level": "pro",
+              "text": "Brown Adipose Tissue — fat tissue rich in mitochondria that burns calories directly as heat (thermogenesis via the UCP1 protein). Highest in infants; declines through adulthood."
+            },
+            "WAT": {
+              "level": "pro",
+              "text": "White Adipose Tissue — the storage form of fat that accumulates with positive energy balance. Mitochondrially poor compared to BAT; metabolically inert by comparison."
+            },
+            "deuterium": {
+              "level": "noob",
+              "text": "Heavy isotope of hydrogen (one extra neutron). Behaves chemically like hydrogen but is twice as massive — jams mitochondrial ATP-synthase rotors."
+            },
+            "NAFLD": {
+              "level": "pro",
+              "text": "Non-Alcoholic Fatty Liver Disease — abnormal lipid accumulation in liver cells absent significant alcohol intake. Now the most common chronic liver condition in industrialised populations."
+            },
+            "MASLD": {
+              "level": "pro",
+              "text": "Metabolic dysfunction-Associated Steatotic Liver Disease — the 2023 consensus rename of NAFLD, reframing the condition as primarily metabolic rather than just non-alcoholic. Same disease, sharper diagnostic criteria."
+            }
+          },
+          "source_quote": "Brown adipose tissue activity peaks in infancy and declines progressively through adulthood. By the fourth decade, thermogenic capacity is largely lost.",
+          "source_ids": ["2058363350661165165"]
+        },
+        {
+          "tag": "Aquifer Geophysics",
+          "lead": "Kentucky's Hidden Limestone Caves + Atlantic Currents",
+          "body": "Kentucky sits on one of Earth's most extensive Mississippian limestone {{concept:karst}} aquifer systems — surfaced as a regional biophysical case study, paired with a one-line {{concept:AMOC}} flag. Reads as another node in the dipole-decline story: aquifer dielectric properties coupled to ocean-current state.",
+          "concepts": {
+            "karst": {
+              "level": "pro",
+              "text": "Landscape formed by the dissolution of soluble bedrock (limestone, dolomite, gypsum) — produces caves, sinkholes, large interconnected groundwater systems. Kentucky sits on one of Earth's most extensive karst aquifers."
+            },
+            "AMOC": {
+              "level": "pro",
+              "text": "Atlantic Meridional Overturning Circulation — the system of ocean currents that moves warm surface water poleward and cold deep water back south. Its weakening is a flagship indicator of climate-system reorganisation."
+            }
+          },
+          "source_ids": ["2058372629745091050"]
+        }
+      ]
+    }
+  ],
+  "forum": {
+    "bullets": [
+      {
+        "title": "Vagal Nerve Stimulation Without the Machine — Use Your Belly Button",
+        "summary": "Concrete protocol: if you can't afford a {{concept:VNS}} device, apply high-quality castor oil to the umbilicus. The belly button is the embryonic scar node where {{concept:ectoderm}}-derived nervous tissue and {{concept:mesoderm}}-derived vascular tissue permanently cross-couple — the lipid liquefies the local {{concept:EZ water}} lattice (k=160), dropping electrical resistance to zero so the {{concept:vagus}} input can pass freely.",
+        "concepts": {
+          "VNS": {
+            "level": "pro",
+            "text": "Vagal Nerve Stimulation — electrical or mechanical stimulation of the vagus nerve to upregulate parasympathetic tone. Clinical VNS devices (implanted or transauricular) are expensive; the umbilicus protocol is Kruse's improvised substitute."
+          },
+          "ectoderm": {
+            "level": "noob",
+            "text": "Outermost embryonic germ layer — gives rise to the nervous system, skin, hair, tooth enamel, and retina."
+          },
+          "mesoderm": {
+            "level": "noob",
+            "text": "Middle embryonic germ layer — gives rise to muscle, bone, connective tissue, blood vessels, and the cardiovascular system."
+          },
+          "EZ water": {
+            "level": "noob",
+            "text": "Exclusion Zone water — Gerald Pollack's term for the structured, gel-like fourth phase of water that lines living surfaces (cells, vessels, fascia). Carries a net negative charge and has a much higher dielectric constant (~160) than bulk water (~78)."
+          },
+          "vagus": {
+            "level": "pro",
+            "text": "The vagus nerve (cranial nerve X) — the longest cranial nerve, running from the brainstem through the neck and chest down to most abdominal organs. Master regulator of parasympathetic 'rest and digest' tone."
+          }
+        },
+        "thread_url": "https://forum.jackkruse.com/threads/vagal-nerve-stimulation-tips.32826/"
+      },
+      {
+        "title": "NAD+ as Wireless Quantum Parabiosis — The Kuramoto Model",
+        "summary": "Reframes {{concept:NAD+}} not as a chemical pool but as the output of biological {{concept:Resonant Oscillator Locking}} ({{concept:Kuramoto model}}) between coupled biological systems. Cites the {{concept:Kyrie and Brielle Jackson}} 'Rescuing Hug' case — the coherent twin pulled the dying twin into stable rhythm via {{concept:UPE}} entanglement. Macroscopic proof that humans are coupled oscillators, not isolated chemical bags.",
+        "concepts": {
+          "NAD+": {
+            "level": "pro",
+            "text": "Nicotinamide adenine dinucleotide — central electron-carrier coenzyme in mitochondrial energy metabolism."
+          },
+          "Resonant Oscillator Locking": {
+            "level": "pro",
+            "text": "The phenomenon where two or more oscillators with similar natural frequencies synchronise when coupled, even weakly. Common in physics (pendulum clocks on a shared wall) and biology (menstrual cycle synchrony, neural firing patterns)."
+          },
+          "Kuramoto model": {
+            "level": "pro",
+            "text": "Mathematical model (Yoshiki Kuramoto, 1975) describing how large populations of coupled oscillators synchronise. Used to model everything from firefly flashing patterns to brain network coherence."
+          },
+          "Kyrie and Brielle Jackson": {
+            "level": "noob",
+            "text": "Famous 1995 NICU case: twin sisters born premature; Brielle was failing. A nurse against protocol placed both in one incubator. The stable twin (Kyrie) put her arm around Brielle, whose vitals immediately stabilised. Known as 'the Rescuing Hug.'"
+          },
+          "UPE": {
+            "level": "pro",
+            "text": "Ultra-weak Photon Emission — extremely faint biophoton light released by living tissue during oxidative metabolism. Proposed by Kruse as the signal channel for the coherent inter-cell coupling that drives the parabiosis effect."
+          }
+        },
+        "thread_url": "https://forum.jackkruse.com/threads/what-is-nad-in-biophysical-terms.32390/unread"
+      },
+      {
+        "title": "Sun Allergy Is Really a Deuterium Flash-Evaporation Event",
+        "summary": "Reframes {{concept:PMLE}} (polymorphous light eruption) and cutaneous {{concept:lupus}} as a cutaneous deuterium flash-evaporation — the skin behaves like an overloaded electrical transformer blowing its pressure-relief valve. Links chronic {{concept:tetracycline}} / {{concept:doxycycline}} exposure to the same {{concept:MITF}}-AMPAR / vagus pathway breakdown.",
+        "concepts": {
+          "PMLE": {
+            "level": "pro",
+            "text": "Polymorphous Light Eruption — the most common 'sun allergy' rash. Itchy red bumps, blisters, or plaques appearing hours to days after sun exposure, typically on body areas usually covered."
+          },
+          "lupus": {
+            "level": "pro",
+            "text": "Cutaneous lupus erythematosus — the skin-only or skin-predominant form of the lupus autoimmune family. Highly photosensitive; UV light triggers characteristic disc-shaped lesions."
+          },
+          "tetracycline": {
+            "level": "pro",
+            "text": "A broad-spectrum antibiotic class (tetracycline, minocycline, doxycycline). Beyond bacterial use, prescribed for acne and rosacea long-term. Famously photosensitising — wearers burn easier under sunlight."
+          },
+          "doxycycline": {
+            "level": "pro",
+            "text": "Most-prescribed tetracycline derivative. Long-term doses are used for acne, malaria prophylaxis, and rosacea. Builds up in skin and teeth (the latter is why kids are not given it)."
+          },
+          "MITF": {
+            "level": "pro",
+            "text": "Microphthalmia-associated Transcription Factor — master regulator of melanocyte (pigment cell) development and function. Controls how cells respond to UV by making melanin."
+          }
+        },
+        "thread_url": "https://forum.jackkruse.com/threads/sun-allergy-is-it-really.32491/"
+      }
+    ]
+  }
+}

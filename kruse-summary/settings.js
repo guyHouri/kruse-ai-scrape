@@ -37,4 +37,17 @@ export const SETTINGS = {
   // Local files.
   mailingListPath: 'mailing_list.json',
   lastSentPath: 'last-sent.json',
+
+  // Anthropic API for AI summarization.
+  // Get a key at https://console.anthropic.com/settings/keys.
+  anthropicApiKey: process.env.ANTHROPIC_API_KEY || '',
+
+  // Model. Haiku 4.5 = best price/quality for this content as of 2026.
+  // Override via env if Anthropic publishes a newer alias or you want
+  // higher reasoning (e.g. claude-sonnet-4-5).
+  anthropicModel: process.env.ANTHROPIC_MODEL || 'claude-haiku-4-5',
+
+  // Max output tokens. Full curated JSON for a normal day runs 4-6 K
+  // tokens; cap at 8 K to give thinking-heavy outputs headroom.
+  anthropicMaxTokens: parseInt(process.env.ANTHROPIC_MAX_TOKENS || '8192', 10),
 };
