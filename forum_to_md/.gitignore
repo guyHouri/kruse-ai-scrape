@@ -2,3 +2,10 @@ node_modules/
 cookies.txt
 .env
 logs/
+
+# Private analysis / clinical work-products — never commit
+analysis_work/
+clinical_patient_data.xlsx
+clinical_*.xlsx
+*patient*.xlsx
+processing_log.json
