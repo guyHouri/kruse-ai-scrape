@@ -275,26 +275,85 @@
   "forum": {
     "bullets": [
       {
-        "title": "What NAD+ Actually Is — A Biophysics Reframe",
-        "summary": "New long-form thread reframing {{concept:NAD+}} away from the supplementation/aging narrative toward a structural-biophysics reading: NAD+ as a state variable of mitochondrial coupling, not a consumable molecule to top up via pills. Direct extension of today's blood-NAD tweet.",
+        "title": "Vagal Nerve Stimulation Without the Machine — Use Your Belly Button",
+        "summary": "Concrete protocol: if you can't afford a {{concept:VNS}} device, apply high-quality castor oil to the umbilicus. The belly button is the embryonic scar node where {{concept:ectoderm}}-derived nervous tissue and {{concept:mesoderm}}-derived vascular tissue permanently cross-couple — the lipid liquefies the local {{concept:EZ water}} lattice (k=160), dropping electrical resistance to zero so the {{concept:vagus}} input can pass freely.",
+        "concepts": {
+          "VNS": {
+            "level": "pro",
+            "text": "Vagal Nerve Stimulation — electrical or mechanical stimulation of the vagus nerve to upregulate parasympathetic tone. Clinical VNS devices (implanted or transauricular) are expensive; the umbilicus protocol is Kruse's improvised substitute."
+          },
+          "ectoderm": {
+            "level": "noob",
+            "text": "Outermost embryonic germ layer — gives rise to the nervous system, skin, hair, tooth enamel, and retina."
+          },
+          "mesoderm": {
+            "level": "noob",
+            "text": "Middle embryonic germ layer — gives rise to muscle, bone, connective tissue, blood vessels, and the cardiovascular system."
+          },
+          "EZ water": {
+            "level": "noob",
+            "text": "Exclusion Zone water — Gerald Pollack's term for the structured, gel-like fourth phase of water that lines living surfaces (cells, vessels, fascia). Carries a net negative charge and has a much higher dielectric constant (~160) than bulk water (~78)."
+          },
+          "vagus": {
+            "level": "pro",
+            "text": "The vagus nerve (cranial nerve X) — the longest cranial nerve, running from the brainstem through the neck and chest down to most abdominal organs. Master regulator of parasympathetic 'rest and digest' tone."
+          }
+        },
+        "thread_url": "https://forum.jackkruse.com/threads/vagal-nerve-stimulation-tips.32826/"
+      },
+      {
+        "title": "NAD+ as Wireless Quantum Parabiosis — The Kuramoto Model",
+        "summary": "Reframes {{concept:NAD+}} not as a chemical pool but as the output of biological {{concept:Resonant Oscillator Locking}} ({{concept:Kuramoto model}}) between coupled biological systems. Cites the {{concept:Kyrie and Brielle Jackson}} 'Rescuing Hug' case — the coherent twin pulled the dying twin into stable rhythm via {{concept:UPE}} entanglement. Macroscopic proof that humans are coupled oscillators, not isolated chemical bags.",
         "concepts": {
           "NAD+": {
             "level": "pro",
-            "text": "Nicotinamide adenine dinucleotide — central electron-carrier coenzyme in mitochondrial energy metabolism. Kruse's reframe treats its concentration as a downstream readout of cellular field state, not an independent lever."
+            "text": "Nicotinamide adenine dinucleotide — central electron-carrier coenzyme in mitochondrial energy metabolism."
+          },
+          "Resonant Oscillator Locking": {
+            "level": "pro",
+            "text": "The phenomenon where two or more oscillators with similar natural frequencies synchronise when coupled, even weakly. Common in physics (pendulum clocks on a shared wall) and biology (menstrual cycle synchrony, neural firing patterns)."
+          },
+          "Kuramoto model": {
+            "level": "pro",
+            "text": "Mathematical model (Yoshiki Kuramoto, 1975) describing how large populations of coupled oscillators synchronise. Used to model everything from firefly flashing patterns to brain network coherence."
+          },
+          "Kyrie and Brielle Jackson": {
+            "level": "noob",
+            "text": "Famous 1995 NICU case: twin sisters born premature; Brielle was failing. A nurse against protocol placed both in one incubator. The stable twin (Kyrie) put her arm around Brielle, whose vitals immediately stabilised. Known as 'the Rescuing Hug.'"
+          },
+          "UPE": {
+            "level": "pro",
+            "text": "Ultra-weak Photon Emission — extremely faint biophoton light released by living tissue during oxidative metabolism. Proposed by Kruse as the signal channel for the coherent inter-cell coupling that drives the parabiosis effect."
           }
         },
         "thread_url": "https://forum.jackkruse.com/threads/what-is-nad-in-biophysical-terms.32390/unread"
       },
       {
-        "title": "Connective Tissue, Joint Pain, and Heavy Water",
-        "summary": "New thread linking fascia and joint integrity to systemic {{concept:deuterium}} load. Structural-tissue counterpart to today's deuterium → brown-fat → liver chain — same underlying mechanism (heavy water jams mitochondria), different tissue.",
+        "title": "Sun Allergy Is Really a Deuterium Flash-Evaporation Event",
+        "summary": "Reframes {{concept:PMLE}} (polymorphous light eruption) and cutaneous {{concept:lupus}} as a cutaneous deuterium flash-evaporation — the skin behaves like an overloaded electrical transformer blowing its pressure-relief valve. Links chronic {{concept:tetracycline}} / {{concept:doxycycline}} exposure to the same {{concept:MITF}}-AMPAR / vagus pathway breakdown.",
         "concepts": {
-          "deuterium": {
-            "level": "noob",
-            "text": "Heavy isotope of hydrogen (one extra neutron). When it ends up inside mitochondrial ATP-synthase machinery it jams the rotor."
+          "PMLE": {
+            "level": "pro",
+            "text": "Polymorphous Light Eruption — the most common 'sun allergy' rash. Itchy red bumps, blisters, or plaques appearing hours to days after sun exposure, typically on body areas usually covered."
+          },
+          "lupus": {
+            "level": "pro",
+            "text": "Cutaneous lupus erythematosus — the skin-only or skin-predominant form of the lupus autoimmune family. Highly photosensitive; UV light triggers characteristic disc-shaped lesions."
+          },
+          "tetracycline": {
+            "level": "pro",
+            "text": "A broad-spectrum antibiotic class (tetracycline, minocycline, doxycycline). Beyond bacterial use, prescribed for acne and rosacea long-term. Famously photosensitising — wearers burn easier under sunlight."
+          },
+          "doxycycline": {
+            "level": "pro",
+            "text": "Most-prescribed tetracycline derivative. Long-term doses are used for acne, malaria prophylaxis, and rosacea. Builds up in skin and teeth (the latter is why kids are not given it)."
+          },
+          "MITF": {
+            "level": "pro",
+            "text": "Microphthalmia-associated Transcription Factor — master regulator of melanocyte (pigment cell) development and function. Controls how cells respond to UV by making melanin."
           }
         },
-        "thread_url": "https://forum.jackkruse.com/threads/fascia-joints-and-deuterium.32557/unread"
+        "thread_url": "https://forum.jackkruse.com/threads/sun-allergy-is-it-really.32491/"
       }
     ]
   }

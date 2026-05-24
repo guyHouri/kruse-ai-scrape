@@ -14,9 +14,10 @@ import * as cheerio from 'cheerio';
 import { FORUM_BASE_URL, USER_AGENT, REQUEST_TIMEOUT_MS } from '../settings.js';
 import { info, warn } from './logger.js';
 
-const MAX_PAGES = 3;        // cap pagination — daily volume rarely exceeds page 1
+const MAX_PAGES = 15;       // walk deeper — /whats-new shows ~20/page, 15 pages = 300 entries
 const WINDOW_HOURS = 24;    // only keep posts from the last N hours
 const POST_BODY_CHAR_CAP = 1500;  // truncate post body in the JSON; tuned to clear Kruse's recurring intro + reach the substance
+const SUBFORUM_FETCH_DELAY_MS = 500; // polite delay between subforum index fetches
 
 // Kruse copy-pastes the same "It's a fact—everyone is ignorant" intro
 // paragraph at the top of many of his forum posts. Strip it so the
@@ -106,9 +107,12 @@ async function fetchLatestPostBody(threadLatestUrl, cookieString) {
   try {
     const html = await fetchPage(threadLatestUrl, cookieString);
     const $ = cheerio.load(html);
-    const wrappers = $('article.message--post .bbWrapper');
+    // Select ONLY post-body wrappers, not signature blocks. XenForo wraps
+    // the user-typed post body in `.message-userContent .bbWrapper` and
+    // signatures in `.message-signature .bbWrapper` — we want the former.
+    const wrappers = $('article.message--post .message-userContent .bbWrapper');
     if (!wrappers.length) return null;
-    // Last wrapper on page = latest post (XenForo ascending order by default).
+    // Last body wrapper on page = latest post (XenForo ascending order).
     const last = wrappers.last();
     // Drop nested quote blocks so the AI sees only the post author's words.
     last.find('blockquote').remove();
@@ -183,11 +187,21 @@ export async function fetchRecentPosts(cookieString, { maxPages = MAX_PAGES, win
     }
     url = parseNextPageLink($);
   }
-  all.sort((a, b) => new Date(b.posted_at) - new Date(a.posted_at));
-  info(`forum-daily: ${all.length} post(s) in last ${windowHours}h — fetching bodies...`);
+  // Now ALSO walk every visible subforum directly. /whats-new/posts/ has
+  // XenForo's user-preference filters that silently drop some forums even
+  // when the user has read access — per-subforum walk is the bulletproof
+  // fallback to ensure we don't miss high-signal threads (e.g. Educating
+  // Doctors posts by Jack).
+  const subforumPosts = await fetchRecentBySubforumWalk(cookieString, cutoff);
+  for (const p of subforumPosts) {
+    if (seen.has(p.post_url)) continue;
+    seen.add(p.post_url);
+    all.push(p);
+  }
 
-  // Hydrate each entry with the latest post body so the AI summarizer has
-  // actual content to work with (the listing page only carries metadata).
+  all.sort((a, b) => new Date(b.posted_at) - new Date(a.posted_at));
+  info(`forum-daily: ${all.length} unique post(s) in last ${windowHours}h after subforum-walk merge — fetching bodies...`);
+
   for (let i = 0; i < all.length; i++) {
     const p = all[i];
     const url = p.thread_url || p.post_url;
@@ -197,4 +211,50 @@ export async function fetchRecentPosts(cookieString, { maxPages = MAX_PAGES, win
   }
 
   return all;
+}
+
+// Per-subforum walk: fetch /forums/ index, extract each subforum URL, then
+// fetch that subforum's first page sorted by latest-post-date and pick
+// threads with a latest post after `cutoff`.
+async function fetchRecentBySubforumWalk(cookieString, cutoff) {
+  info('forum-daily: fetching /forums/ index for subforum URLs');
+  const indexHtml = await fetchPage(`${FORUM_BASE_URL}/forums/`, cookieString);
+  const $idx = cheerio.load(indexHtml);
+  const subforumUrls = new Set();
+  $idx('a[href*="/forums/"]').each((_, el) => {
+    const href = $idx(el).attr('href') || '';
+    // Match /forums/<slug>.<id>/ — node id pattern. Skip top-level /forums/.
+    const m = href.match(/^\/forums\/[^/?#]+\.\d+\/?$/);
+    if (m) subforumUrls.add(FORUM_BASE_URL + m[0].replace(/\/$/, '') + '/');
+  });
+  info(`forum-daily: found ${subforumUrls.size} subforums to walk`);
+
+  const out = [];
+  let walked = 0;
+  for (const url of subforumUrls) {
+    walked += 1;
+    // Sort by latest post desc so recent activity is on the first page.
+    const sortedUrl = `${url}?direction=desc&order=last_post_date`;
+    try {
+      const html = await fetchPage(sortedUrl, cookieString);
+      if (/data-template="login"/.test(html) && /data-logged-in="false"/.test(html)) continue;
+      const posts = parsePostsPage(html);
+      let kept = 0;
+      let oldestKept = 0;
+      for (const p of posts) {
+        if (!p.posted_at) continue;
+        const ts = new Date(p.posted_at).getTime();
+        if (ts < cutoff) continue;
+        out.push(p);
+        kept += 1;
+        oldestKept = ts;
+      }
+      if (kept > 0) info(`forum-daily: subforum-walk [${walked}/${subforumUrls.size}] ${url.split('/').slice(-2, -1)[0]} → +${kept} recent`);
+    } catch (e) {
+      warn(`forum-daily: subforum-walk failed ${url}: ${e.message}`);
+    }
+    await sleep(SUBFORUM_FETCH_DELAY_MS);
+  }
+  info(`forum-daily: subforum-walk collected ${out.length} posts (before dedup)`);
+  return out;
 }
