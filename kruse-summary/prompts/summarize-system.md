@@ -113,10 +113,43 @@ sources via `source_ids`.
 `tag` is a precise concept chip ("Neuromodulation Protocol",
 "Geomagnetic Dynamo"), not a broad category ("Health", "Science").
 
-### 3f. Source quote when bite warrants
+### 3f. Voice — lay-person friendly TITLES and LEADS, technical BODY
 
-If a Kruse line or quoted-tweet text has punch worth preserving, put it
-in `source_quote`. Renderer displays it as italic blockquote.
+Title (`lead`) is the door the reader walks through. It must be readable
+by someone who's never heard "NAD parsimony" or "cytoplasmic de-fragging."
+Translate jargon into plain English in the lead. Examples of good titles:
+
+- "Why Blood NAD Tests Miss What's Happening Inside the Cell"
+- "Heavy Water Turns Calorie-Burning Brown Fat Into Storage Fat"
+- "Cancer Cells CAN Burn Fat — The Ketogenic Story Is Incomplete"
+
+Bad: "NAD+ Parsimony Refuted via Blood Dynamics", "Cytoplasmic
+De-Fragging Explains Warburg." Those belong in the body, behind the lay
+title.
+
+The `body` keeps Kruse's vocabulary verbatim (Warburg shift, de-fragging,
+nnEMF, etc.) but wraps unfamiliar terms in `{{concept:Term}}` so the
+renderer can expand them per the reader-level toggle.
+
+### 3g. Source quote = the actual cited research, prominently
+
+When Kruse is reacting to a research-source tweet (quoting a researcher,
+journalist, or paper author), put the **verbatim text of that source
+tweet** into `source_quote` — not Kruse's own line. The renderer displays
+it as an italic blockquote so the reader sees the actual claim being
+addressed. Kruse's response goes in the body.
+
+### 3h. Order cards by evidence weight
+
+Within the Twitter Updates section, order cards roughly:
+
+1. Cards anchored to a **real external research source / paper / lab data**
+   (Brenner-NAD, Warburg observations, named-study citations) → first.
+2. Cards anchored to a **new explicit mechanism claim** from Kruse → next.
+3. Geophysical / environmental observations → last.
+
+Reader scans top-to-bottom; weight what they meet first toward
+"there's an actual paper behind this."
 
 ---
 
@@ -157,6 +190,17 @@ one of:
 When a forum thread directly extends a topic from the same day's Twitter
 Updates, mention the link in the summary ("extends today's
 teeth-as-light-pipes thread"). High-signal context.
+
+### 4d. Don't repeat what you already bulleted recently
+
+A thread that surfaced in the last 7 days' digest (same thread_url, or
+same exact protocol/claim) gets dropped unless it carries genuinely new
+material today (a new post in the thread with a new claim). Tracking-only
+re-appearance = no bullet. This applies especially to long-running
+member protocol threads (e.g., the recurring nnEMF home-survey, DDW
+brand discussions, Magnetico tuning threads).
+
+Apply lay-person voice (per §3f) to forum bullet `title` too.
 
 ---
 

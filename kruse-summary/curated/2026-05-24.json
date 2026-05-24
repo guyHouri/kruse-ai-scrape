@@ -1,88 +1,93 @@
 {
-  "headline_subtitle": "Warburg, NAD, fat & deuterium — mitochondria as the central case.",
+  "headline_subtitle": "Cancer, NAD, fat — and why most of what you've read is half the story.",
   "sections": [
     {
       "title": "Twitter Updates",
       "cards": [
         {
+          "tag": "Mitochondrial Bioenergetics",
+          "lead": "Why Blood NAD Tests Miss What's Happening Inside the Cell:",
+          "body": "{{concept:Charles Brenner}}'s lab published data showing that people with mitochondrial disease have low blood {{concept:NAD+}} — and used it as evidence for the standard 'top up NAD with supplements' framing. Kruse pushes back: blood NAD is the wrong compartment to measure. The biophysical claim is that NAD concentration is a downstream readout of cellular field state — fix the field, the NAD follows. Topping up the blood doesn't move the cellular number.",
+          "concepts": {
+            "Charles Brenner": {
+              "level": "noob",
+              "text": "Biochemist (UC Irvine / City of Hope), developer of NAD quantitation technology. Principal voice for the canonical NAD-precursor-supplementation hypothesis in aging and mitochondrial disease."
+            },
+            "NAD+": {
+              "level": "pro",
+              "text": "Nicotinamide adenine dinucleotide — central electron-carrier coenzyme in mitochondrial energy metabolism. Cellular NAD+ levels gate oxidative phosphorylation throughput; the supplement industry assumes raising blood NAD+ raises intracellular NAD+, a leap Kruse disputes."
+            }
+          },
+          "source_quote": "my lab developed NAD quantitation tech and showed, with @ASW_lab, that people with mito disease have low blood NAD…",
+          "source_ids": ["2058357778779886073", "2058344539753001010"]
+        },
+        {
+          "tag": "Adipose Biophysics",
+          "lead": "Heavy Water Turns Calorie-Burning Brown Fat Into Storage Fat:",
+          "body": "A research thread documented that {{concept:BAT}} (the kind of fat that burns calories as heat) is highest in infants and declines through adulthood — the standard reading is just 'aging metabolism.' Kruse adds a mechanism: rising body {{concept:deuterium}} load is what destroys BAT mitochondria and converts the cells into {{concept:WAT}} (storage fat). The downstream consequence: more {{concept:NAFLD}}. One coherent mechanistic chain for two parallel modern trends.",
+          "concepts": {
+            "BAT": {
+              "level": "pro",
+              "text": "Brown Adipose Tissue — fat tissue rich in mitochondria that burns calories directly as heat (thermogenesis). Highest in infants; declines through adulthood."
+            },
+            "WAT": {
+              "level": "pro",
+              "text": "White Adipose Tissue — the storage form of fat that accumulates with positive energy balance. Mitochondrially poor compared to BAT."
+            },
+            "deuterium": {
+              "level": "noob",
+              "text": "Heavy isotope of hydrogen (one extra neutron). Behaves like regular hydrogen chemically but is twice as massive — when it ends up inside mitochondrial machinery it jams the rotation of ATP synthase. Kruse's central environmental-toxin claim."
+            },
+            "NAFLD": {
+              "level": "pro",
+              "text": "Non-Alcoholic Fatty Liver Disease — abnormal lipid accumulation in liver cells absent significant alcohol intake. Now the most common chronic liver condition in industrialised populations."
+            }
+          },
+          "source_quote": "Brown adipose tissue activity peaks in infancy and declines progressively through adulthood. By the fourth decade, thermogenic capacity is largely lost.",
+          "source_ids": ["2058363350661165165"]
+        },
+        {
           "tag": "Tumor Metabolism",
-          "lead": "Warburg Shift = Cytoplasmic De-Fragging:",
-          "body": "Direct mechanistic claim: the {{concept:Warburg shift}} happens because the cancer cell is trying to {{concept:de-fragging}} its own cytoplasm of deuterium load — not a defect, an adaptation. Frames the canonical 'cancer prefers glucose' narrative as a downstream symptom, not the primary cause.",
+          "lead": "Cancer Cells CAN Burn Fat — The Ketogenic Story Is Incomplete:",
+          "body": "Common claim circulating in cancer-nutrition discourse, attributed to the {{concept:Seyfried}}-lineage: 'cancer cells can't efficiently oxidize fatty acids because of defective mitochondria, so >80% of their ATP comes from fermentation.' Kruse calls this flatly wrong — tumor metabolism is plastic enough to run on fats once glucose is cut. The implication: 'starve the tumor with keto' is an oversimplification that can dangerously delay real treatment in advanced patients.",
+          "concepts": {
+            "Seyfried": {
+              "level": "noob",
+              "text": "Thomas Seyfried — Boston College biologist, lead proponent of the 'cancer as a metabolic disease' framework. Best known for the ketogenic-diet-starves-tumor thesis built on Otto Warburg's glucose-dependence observation."
+            }
+          },
+          "source_quote": "Cancer cells can't oxidize fatty acids efficiently due to their defective mitochondria. More than 80% of their ATPs come from fermentation…",
+          "source_ids": ["2058342358391873799"]
+        },
+        {
+          "tag": "Tumor Metabolism",
+          "lead": "Why Cancer Cells Prefer Sugar — A Different Explanation:",
+          "body": "The famous {{concept:Warburg shift}} (cancer cells fermenting glucose even with oxygen available) is usually read as a mitochondrial defect. Kruse's reframe: the cell is actively trying to {{concept:de-fragging}} its own internal water lattice of accumulated deuterium. The sugar-burning is the cleanup tool, not the disease. Same observation, opposite causal story.",
           "concepts": {
             "Warburg shift": {
               "level": "pro",
-              "text": "Otto Warburg's 1924 observation: cancer cells preferentially use aerobic glycolysis (fermenting glucose to lactate even in the presence of oxygen) instead of oxidative phosphorylation. The mainstream reading is a mitochondrial defect; Kruse reads it as a deliberate metabolic reroute the cell uses to manage internal deuterium."
+              "text": "Otto Warburg's 1924 observation: cancer cells preferentially use aerobic glycolysis (fermenting glucose to lactate even with oxygen present) instead of full oxidative phosphorylation. Mainstream reading: mitochondrial defect. Kruse: deliberate metabolic reroute to manage internal deuterium."
             },
             "de-fragging": {
               "level": "noob",
-              "text": "Kruse-coined term for restoring structured (EZ) water lattice coherence inside the cell, reversing the disordered state that sets in under deuterium load. Analogous to defragmenting a fragmented disk, but for the intracellular water phase."
+              "text": "Kruse-coined term for restoring the structured (EZ) water lattice coherence inside the cell, reversing the disordered state that sets in under deuterium + nnEMF load. Analogous to defragmenting a fragmented disk, but for the intracellular water phase."
             }
           },
           "source_quote": "WHY THE WARBURG SHIFT HAPPENS IN CANCER? The cell is trying to de-frag its own cytoplasm of deuterium ya' big Dummy.",
           "source_ids": ["2058366576244428885"]
         },
         {
-          "tag": "Tumor Metabolism",
-          "lead": "Cancer Cells DO Oxidize Fatty Acids:",
-          "body": "Rebuttal to the recurring 'cancer cells can't efficiently oxidize fatty acids and rely almost exclusively on fermentation' claim. Kruse argues the underlying mitochondrial physics permit lipid oxidation under glucose restriction — the fermentation lock-in is a fed-state artefact, not a metabolic ceiling. Direct attack on the {{concept:Seyfried}}-lineage 'starve the tumor with keto' narrative.",
-          "concepts": {
-            "Seyfried": {
-              "level": "noob",
-              "text": "Thomas Seyfried — Boston College biologist, lead proponent of the 'cancer as a metabolic disease' framework and the ketogenic-diet-starves-tumor thesis built on Warburg's glucose observation. Kruse argues this oversimplifies tumor metabolic plasticity."
-            }
-          },
-          "source_quote": "The assertion from a trader who is beyond Seyfried ignorant that cancer cells cannot efficiently oxidize fatty acids and rely almost exclusively on fermentation…",
-          "source_ids": ["2058342358391873799"]
-        },
-        {
-          "tag": "Mitochondrial Bioenergetics",
-          "lead": "NAD+ Parsimony Refuted via Blood Dynamics:",
-          "body": "Pushback on the {{concept:Brenner}}-lab line that mitochondrial-disease patients only show low blood {{concept:NAD+}}. Kruse argues the blood compartment is a misread proxy — the actual biophysical refutation comes from cellular-scale dynamics the centralized framing ignores. Reads as a salvo in a longer-running NAD-metabolism dispute.",
-          "concepts": {
-            "Brenner": {
-              "level": "noob",
-              "text": "Charles Brenner — biochemist (UC Irvine / City of Hope), developer of NAD quantitation technology, principal voice for the canonical NAD-precursor-supplementation hypothesis in aging and mitochondrial disease."
-            },
-            "NAD+": {
-              "level": "pro",
-              "text": "Nicotinamide adenine dinucleotide — central electron-carrier coenzyme in mitochondrial energy metabolism. Cellular NAD+ levels gate oxidative phosphorylation throughput; the supplement industry has built around the assumption that raising blood NAD+ raises intracellular NAD+, a leap Kruse disputes."
-            }
-          },
-          "source_ids": ["2058357778779886073", "2058344539753001010"]
-        },
-        {
-          "tag": "Adipose Biophysics",
-          "lead": "Deuterium Destroys BAT → Drives NAFLD:",
-          "body": "Mechanistic chain claim: rising systemic deuterium load destroys {{concept:BAT}} mitochondrial efficiency, converting brown adipocytes into {{concept:WAT}}. Higher deuterium → more WAT → progression to {{concept:NAFLD}}. Reads as a unified physical explanation for the parallel decline of thermogenic capacity and liver health in modern populations.",
-          "concepts": {
-            "BAT": {
-              "level": "pro",
-              "text": "Brown Adipose Tissue — fat tissue rich in mitochondria that burns calories directly as heat (thermogenesis) via UCP1-mediated uncoupling. Highest in infants; declines through adulthood."
-            },
-            "WAT": {
-              "level": "pro",
-              "text": "White Adipose Tissue — the storage-form fat that accumulates with positive energy balance. Mitochondrially poor compared to BAT; metabolically inert by comparison."
-            },
-            "NAFLD": {
-              "level": "pro",
-              "text": "Non-Alcoholic Fatty Liver Disease — abnormal lipid accumulation in hepatocytes absent significant alcohol intake. Now the most common chronic liver condition in industrialised populations."
-            }
-          },
-          "source_quote": "Deuterium destroys BAT and turns it into WAT. More D+ creates more WAT adipocytes. More D+ = NAFLD.",
-          "source_ids": ["2058363350661165165"]
-        },
-        {
           "tag": "Aquifer Geophysics",
-          "lead": "Kentucky Karst + AMOC Coupling:",
-          "body": "Surfacing the Mississippian limestone {{concept:karst}} aquifer system under Kentucky as a regional biophysical case study, and pairing the observation with a one-line {{concept:AMOC}} flag. Reads as another node in the dipole-decline narrative — where the aquifer's dielectric properties are coupled to ocean-current state.",
+          "lead": "Kentucky's Hidden Limestone Caves + Atlantic Currents:",
+          "body": "Surfacing the Mississippian limestone {{concept:karst}} aquifer system under Kentucky as a regional biophysical case study — one of the most extensive interconnected groundwater networks on Earth. Paired with a one-line {{concept:AMOC}} flag. Reads as another node in the dipole-decline story: aquifer dielectric properties are coupled to ocean-current state.",
           "concepts": {
             "karst": {
               "level": "pro",
-              "text": "Landscape formed by the dissolution of soluble bedrock (typically limestone, dolomite, or gypsum), producing caves, sinkholes, and large interconnected groundwater systems. Kentucky sits on one of Earth's most extensive karst aquifers."
+              "text": "Landscape formed by the dissolution of soluble bedrock (limestone, dolomite, gypsum) — produces caves, sinkholes, and large interconnected groundwater systems. Kentucky sits on one of Earth's most extensive karst aquifers."
             },
             "AMOC": {
               "level": "pro",
-              "text": "Atlantic Meridional Overturning Circulation — the system of ocean currents that moves warm surface water poleward and cold deep water back south. Its weakening is a flagship indicator of climate-system reorganization."
+              "text": "Atlantic Meridional Overturning Circulation — the system of ocean currents that moves warm surface water poleward and cold deep water back south. Its weakening is a flagship indicator of climate-system reorganisation."
             }
           },
           "source_quote": "Many do not know Kentucky sits on top of one of the most expansive, interconnected Mississippian limestone karst systems on Earth.",
@@ -94,36 +99,31 @@
   "forum": {
     "bullets": [
       {
-        "title": "What Is NAD+ in Biophysical Terms?",
-        "summary": "New thread reframing {{concept:NAD+}} away from the supplementation/aging narrative toward a structural-biophysics reading: NAD+ as a state variable of mitochondrial coupling, not a consumable molecule to top up via pills. Direct extension of today's blood-NAD parsimony refutation tweet.",
+        "title": "What NAD+ Actually Is — A Biophysics Reframe",
+        "summary": "New thread reframing {{concept:NAD+}} away from the supplementation/aging narrative and toward a structural-biophysics reading: NAD+ as a state variable of mitochondrial coupling, not a consumable molecule to top up via pills. Direct extension of today's blood-NAD tweet — same critique, longer form.",
         "concepts": {
           "NAD+": {
             "level": "pro",
-            "text": "Nicotinamide adenine dinucleotide — central electron-carrier coenzyme in mitochondrial energy metabolism. Kruse's reframing treats its concentration as a downstream readout of cellular field state, not an independent lever."
+            "text": "Nicotinamide adenine dinucleotide — central electron-carrier coenzyme in mitochondrial energy metabolism. Kruse's reframe treats its concentration as a downstream readout of cellular field state, not an independent lever."
           }
         },
         "thread_url": "https://forum.jackkruse.com/threads/what-is-nad-in-biophysical-terms.32390/unread"
       },
       {
-        "title": "Understanding Vortices",
-        "summary": "New thread on the geometric-vortex thesis — 7/12/21-turn spiral resonators, water-lattice coherence, Chromosome 2 ITL coupling. Continuation of the longer-running 'geometry alters material physics' line; pairs with today's broader biophysics-vs-chemistry frame.",
+        "title": "How Spiral Vortices Affect Living Tissue",
+        "summary": "New thread on the geometric-vortex framework — 7/12/21-turn copper spiral resonators, water-lattice coherence, and the Chromosome 2 interstitial telomeric loop coupling. Continuation of the 'geometry alters material physics' line; pairs with today's broader biophysics-vs-chemistry frame.",
         "thread_url": "https://forum.jackkruse.com/threads/understanding-vortices.32685/unread"
       },
       {
-        "title": "Fascia, Joints and Deuterium",
-        "summary": "New thread connecting connective-tissue health (fascia + joint integrity) to systemic deuterium load. Reads as the structural-tissue counterpart to today's deuterium→BAT→NAFLD chain — same mechanism, different tissue.",
-        "thread_url": "https://forum.jackkruse.com/threads/fascia-joints-and-deuterium.32557/unread"
-      },
-      {
-        "title": "nnEMF Field-Survey Protocol",
-        "summary": "Concrete home-shielding workflow for {{concept:nnEMF}}: walk the perimeter to identify the strongest-signal side, scan for nearby cell towers; if no tower is close, attribute to neighbour Wi-Fi. For single-story homes, wire-mesh fence shielding on the implicated side. Transferable, parameter-light.",
+        "title": "Connective Tissue, Joint Pain, and Heavy Water",
+        "summary": "New thread linking fascia and joint integrity to systemic {{concept:deuterium}} load. Reads as the structural-tissue counterpart to today's deuterium → brown-fat → liver chain — same mechanism (mitochondria poisoned by heavy water), different tissue (connective vs. adipose).",
         "concepts": {
-          "nnEMF": {
+          "deuterium": {
             "level": "noob",
-            "text": "non-native ElectroMagnetic Field. Kruse shorthand for the artificial RF / microwave / low-frequency electromagnetic emissions humans engineered into the environment (cell, Wi-Fi, power-line, smart-meter), as opposed to the geomagnetic / cosmic / solar fields biology evolved under."
+            "text": "Heavy isotope of hydrogen (one extra neutron). Chemically like hydrogen but twice as massive. When it ends up inside mitochondrial ATP-synthase machinery it jams the rotor. Kruse's central environmental-toxin claim."
           }
         },
-        "thread_url": "https://forum.jackkruse.com/threads/i-stay-away-from-nnemf.30545/unread"
+        "thread_url": "https://forum.jackkruse.com/threads/fascia-joints-and-deuterium.32557/unread"
       }
     ]
   }
