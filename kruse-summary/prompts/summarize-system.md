@@ -23,16 +23,24 @@ Return **only** valid JSON. No markdown fences. No commentary.
       "cards": [
         {
           "tag": "<2-3 word topic chip, e.g. 'Aquifer Biophysics'>",
-          "lead": "<bold opener, 3-8 words, names the discovery>",
-          "body": "<2-4 sentences. Lead with the takeaway. Inline expandable terms as {{concept:Exact Term}}.>",
+          "lead": "<lay-person friendly title, 4-12 words, names the discovery>",
+          "body": "<1-3 sentence intro. Lead with the takeaway. Inline expandable terms as {{concept:Exact Term}}.>",
+          "points": [
+            "<sub-claim 1 — the tweet's first numbered/bulleted argument, paraphrased>",
+            "<sub-claim 2>",
+            "<sub-claim 3>"
+          ],
           "concepts": {
             "Exact Term": {
               "level": "noob" | "pro",
               "text": "<2-3 sentence explainer>"
             }
           },
-          "source_quote": "<optional verbatim snippet from the tweet or its quoted tweet>",
-          "source_ids": ["<tweet_id_from_input>", "..."]
+          "source_quote": "<verbatim text of the cited research-source the tweet is responding to — see §3g>",
+          "citations": [
+            { "paper": "<Author et al. YEAR. \"Title.\" Journal vol(iss):pp.>", "claim": "<one-line what this paper shows>" }
+          ],
+          "source_ids": ["<tweet_id_from_input>"]
         }
       ]
     }
@@ -51,12 +59,20 @@ Return **only** valid JSON. No markdown fences. No commentary.
 ```
 
 Section title MUST be exactly `"Twitter Updates"`. The renderer hard-codes
-the forum section title as `"Forum Updates"`; you control only the
-`forum.bullets` array.
+the forum section title as `"Forum Updates"`.
 
-`concepts`, `source_quote` are optional. `source_ids` is required on each
-card and must reference real tweet ids from input. `thread_url` is required
-on each forum bullet.
+`concepts`, `source_quote`, `points`, `citations` are optional. `source_ids`
+is required on each card. `thread_url` is required on each forum bullet.
+
+### One tweet → one card
+
+Each meaningful tweet maps to AT MOST ONE card. Do not split a tweet
+across two cards. Do not merge two tweets into one card. If a tweet
+covers several distinct sub-claims (numbered list, multi-part argument),
+keep it as ONE card and put each sub-claim as an entry in `points`. If
+Kruse cites specific papers/studies inside the tweet, surface them in
+the `citations` array — they are the highest-value signal we can show
+the reader.
 
 ---
 

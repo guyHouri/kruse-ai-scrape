@@ -60,7 +60,9 @@ function normalizeOne(raw, maps, seen = new Set()) {
     id: raw.id || null,
     url: tweetUrl,
     created_at: raw.created_at || null,
-    text: raw.text || '',
+    // Prefer the long-form body when present — Kruse uses X Premium long
+    // tweets and `text` gets truncated at 280 chars with a t.co continuation.
+    text: (raw.note_tweet && raw.note_tweet.text) || raw.text || '',
     lang: raw.lang || null,
     author,
     is_reply: !!repliedTo,

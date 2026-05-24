@@ -1,0 +1,12 @@
+{
+  "completed": true,
+  "markdown_files_scanned": 19966,
+  "log_entries": 19966,
+  "skipped_files_reviewed": 3665,
+  "skipped_files_recovered": 67,
+  "practitioner_rows": 5471,
+  "cancer_patient_rows": 3526,
+  "output": "analysis_work/clinical_extraction.json",
+  "processing_log": "processing_log.json",
+  "updated_at": "2026-05-22T04:36:16.016Z"
+}

@@ -16,6 +16,9 @@ const TWEET_FIELDS = [
   'id', 'text', 'created_at', 'author_id', 'conversation_id',
   'in_reply_to_user_id', 'referenced_tweets', 'public_metrics',
   'lang', 'entities', 'attachments',
+  // X premium long-form tweets return the full body in note_tweet.text
+  // (the regular `text` field is truncated at 280 chars in that case).
+  'note_tweet',
 ].join(',');
 
 const USER_FIELDS = ['id', 'username', 'name'].join(',');

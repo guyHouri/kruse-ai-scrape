@@ -141,6 +141,27 @@ function renderCuratedCard(card, idx) {
     || (card.source_ids && card.source_ids[0] && `https://x.com/i/status/${card.source_ids[0]}`)
     || 'https://x.com/DrJackKruse';
   const lead = card.lead ? `<strong>${esc(card.lead)}</strong> ` : '';
+  // Points: array of strings → bullet list under body. Each point can itself
+  // contain {{concept:Term}} markers — wire them through the same expander.
+  let pointsHtml = '';
+  let pointsExpanded = '';
+  if (Array.isArray(card.points) && card.points.length) {
+    const items = card.points.map((p, i) => {
+      const { html, expanded: ex } = renderBodyWithConcepts(p, card.concepts, idx * 100 + i);
+      pointsExpanded += ex;
+      return `<li>${html}</li>`;
+    }).join('');
+    pointsHtml = `<ul class="bullet-list">${items}</ul>`;
+  }
+  // Citations: list of { paper, claim } → styled footer block. Optional.
+  let citationsHtml = '';
+  if (Array.isArray(card.citations) && card.citations.length) {
+    const items = card.citations.map((c) => {
+      const claim = c.claim ? `<div class="citation-claim">${esc(c.claim)}</div>` : '';
+      return `<li class="citation"><div class="citation-paper">${esc(c.paper || '')}</div>${claim}</li>`;
+    }).join('');
+    citationsHtml = `<div class="citations"><div class="citations-label">Citations</div><ul>${items}</ul></div>`;
+  }
   const quote = card.source_quote
     ? `<div class="source-quote">${esc(card.source_quote)}</div>`
     : '';
@@ -149,9 +170,12 @@ function renderCuratedCard(card, idx) {
           <span class="tag">${esc(card.tag || 'Update')}</span>
           <a href="${esc(sourceLink)}" target="_blank" class="source-link">Read full source →</a>
         </div>
-        <div class="item-text">${lead}${bodyHtml}</div>
-        ${expanded}
         ${quote}
+        <div class="item-text">${lead}${bodyHtml}</div>
+        ${pointsHtml}
+        ${expanded}
+        ${pointsExpanded}
+        ${citationsHtml}
       </div>`;
 }
 
@@ -303,7 +327,13 @@ export function buildReportHtml(date, summary = null) {
     .source-link { font-size: 0.8rem; color: var(--text-muted); text-decoration: none; border-bottom: 1px dashed var(--text-muted); transition: all 0.2s ease; }
     .source-link:hover { color: var(--accent-hover); border-bottom-color: var(--accent-hover); }
     .item-text { font-size: 1rem; line-height: 1.45; color: var(--text-body); }
-    .source-quote { background: var(--quote-bg); border-left: 3px solid var(--quote-rule); border-radius: 4px 8px 8px 4px; padding: 10px 14px; font-style: italic; font-size: 0.92rem; color: var(--text-muted); }
+    .source-quote { background: var(--quote-bg); border-left: 3px solid var(--accent-color); border-radius: 4px 8px 8px 4px; padding: 10px 14px; font-style: italic; font-size: 0.92rem; color: var(--text-soft); }
+    .source-quote::before { content: "Source: "; font-style: normal; font-weight: 600; color: var(--accent-hover); }
+    .citations { margin-top: 6px; padding: 10px 14px; background: var(--quote-bg); border-radius: 8px; }
+    .citations-label { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--accent-hover); letter-spacing: 0.04em; margin-bottom: 6px; }
+    .citations ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }
+    .citation-paper { font-size: 0.85rem; color: var(--text-body); font-weight: 600; }
+    .citation-claim { font-size: 0.82rem; color: var(--text-muted); line-height: 1.4; margin-top: 2px; }
     .bullet-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px; }
     .bullet-list li { position: relative; padding-left: 18px; line-height: 1.45; font-size: 1rem; }
     .bullet-list li::before { content: "•"; color: var(--accent-color); font-weight: bold; position: absolute; left: 0; top: 0; }
