@@ -74,6 +74,20 @@ Kruse cites specific papers/studies inside the tweet, surface them in
 the `citations` array — they are the highest-value signal we can show
 the reader.
 
+### Markdown bold inside body / points
+
+Wrap a phrase in `**double asterisks**` to render it bold (renderer
+converts to `<strong>`). Use sparingly — only to label the start of a
+`points[]` entry with its sub-claim name (e.g.
+`"**CPT1A Overdrive.** Aggressive malignancies upregulate..."`).
+
+### Drop redundant points
+
+Each `points[]` entry must add new information. If two points say the
+same thing in different words, merge them or drop one. If a point only
+restates what the body already said, drop it. Lay reader value = density,
+not bullet count.
+
 ---
 
 ## 2. Voice & tone
@@ -241,12 +255,22 @@ explanation:
   paramagnetic shielding, magnetoculture, 18F-FDG, BCL11A, Chromosome 2
   fusion, pecten oculi, etc.). Anatomical / pathological terms;
   named-after-people effects/principles; specialized lab techniques.
+  **Also tag**: every molecule abbreviation (NMN, NR, NMRK1, NMRK2,
+  OXPHOS, CPT1A, CD36, FAO, ATP synthase, β-oxidation, G3P, FADH2,
+  TCA cycle, etc.); every disease abbreviation (MASLD, NAFLD, EDS); every
+  cell-type technical name (erythrocyte, neutrophil, hepatocyte,
+  adipocyte, melanocyte) — these all need explainers for a lay reader.
 
 - **Omit chips entirely** for universally known terms (mitochondria,
-  ATP, electron, photon, brain, retina, cancer).
+  ATP, electron, photon, brain, retina, cancer, hydrogen).
 
-Heuristic: if a non-specialist reader would open a new tab to look up
-the term, tag it. When in doubt, prefer to tag.
+**Exhaustive tagging is the goal.** This newsletter is read by lay
+people, not scientists. Every time a specialized term appears — molecule
+abbreviation, anatomical word, lab technique, named effect, researcher
+name — wrap it as `{{concept:Term}}` with an explainer. Don't assume
+"the reader will figure it out from context." Don't tag the same term
+twice in the same card (the first marker is enough) — but DO tag it
+again in a different card.
 
 Researcher names get explainers naming the institution and the
 specific work being referenced (one or two sentences).

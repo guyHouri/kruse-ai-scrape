@@ -87,8 +87,7 @@
     .source-link { font-size: 0.8rem; color: var(--text-muted); text-decoration: none; border-bottom: 1px dashed var(--text-muted); transition: all 0.2s ease; }
     .source-link:hover { color: var(--accent-hover); border-bottom-color: var(--accent-hover); }
     .item-text { font-size: 1rem; line-height: 1.45; color: var(--text-body); }
-    .source-quote { background: var(--quote-bg); border-left: 3px solid var(--accent-color); border-radius: 4px 8px 8px 4px; padding: 10px 14px; font-style: italic; font-size: 0.92rem; color: var(--text-soft); }
-    .source-quote::before { content: "Source: "; font-style: normal; font-weight: 600; color: var(--accent-hover); }
+    .source-quote { background: var(--quote-bg); border-left: 3px solid var(--quote-rule); border-radius: 4px 8px 8px 4px; padding: 10px 14px; font-style: italic; font-size: 0.92rem; color: var(--text-muted); }
     .citations { margin-top: 6px; padding: 10px 14px; background: var(--quote-bg); border-radius: 8px; }
     .citations-label { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--accent-hover); letter-spacing: 0.04em; margin-bottom: 6px; }
     .citations ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }
@@ -127,48 +126,82 @@
           <span class="tag">Tumor Metabolism</span>
           <a href="https://x.com/i/status/2058342358391873799" target="_blank" class="source-link">Read full source →</a>
         </div>
-        <div class="source-quote">Cancer cells can&#39;t oxidize fatty acids efficiently due to their defective mitochondria. More than 80% of their ATPs come from glucose and glutamine fermentation. If you drink mango smoothies like uncle Jack you will end up with non alcoholic fatty liver.</div>
-        <div class="item-text"><strong>Cancer Cells DO Burn Fat — Three Studies the Keto-Crowd Skips</strong> Direct rebuttal to the recurring &#39;80% of cancer ATP is glucose/glutamine fermentation&#39; claim from the <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-0-0')">Seyfried</span>-lineage. Kruse argues tumor mitochondria are functional and metabolically plastic — many aggressive cancers actively weaponize Fatty Acid Oxidation (FAO). &#39;Starve the tumor with keto&#39; is an oversimplification that can be clinically dangerous.</div>
-        <ul class="bullet-list"><li>**CPT1A Overdrive.** Aggressive malignancies — prostate cancer, glioblastoma, leukemia, triple-negative breast — upregulate <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-0')">CPT1A</span>, the rate-limiting enzyme that shuttles fatty acids into mitochondria for β-oxidation.</li><li>**Lipid-Rich Microenvironments.** Tumors in the omentum or bone marrow completely reprogram to feed almost exclusively on free fatty acids — keto narrative collapses for these tumor types.</li><li>**OXPHOS Still Dominant.** Quantitative energetic mapping shows mitochondrial OXPHOS remains the dominant ATP source in most human cancers, operating alongside upregulated aerobic glycolysis.</li><li>**Real Biophysical Cause.** Non-alcoholic fatty liver disease (now MASLD) isn&#39;t caused by a mango smoothie per se — it&#39;s the latitude/circadian mismatch between high-<span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-3-0')">deuterium</span> tropical fruit and low-light winter solar input that jams the cell&#39;s isotopic filter.</li></ul>
+        <div class="item-text"><strong>Cancer Cells DO Burn Fat — Three Studies the Keto-Crowd Skips</strong> Direct rebuttal to the recurring &#39;80% of cancer ATP is glucose/glutamine fermentation&#39; claim from the <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-0-0')">Seyfried</span> school. Kruse argues tumor mitochondria are functional and metabolically plastic — many aggressive cancers actively weaponize <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-1')">FAO</span>. &#39;Starve the tumor with keto&#39; is an oversimplification that can be clinically dangerous.</div>
+        <ul class="bullet-list"><li><strong>CPT1A Overdrive.</strong> Aggressive malignancies — prostate cancer, <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-0')">glioblastoma</span>, leukemia, triple-negative breast — upregulate <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-1')">CPT1A</span>, the rate-limiting enzyme that shuttles fatty acids into mitochondria for <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-2')">β-oxidation</span>.</li><li><strong>Lipid-Rich Microenvironments.</strong> Tumors in the omentum or bone marrow completely reprogram to feed almost exclusively on free fatty acids — the keto narrative collapses for these tumor types.</li><li><strong>OXPHOS Still Dominant.</strong> Quantitative energetic mapping shows mitochondrial <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-2-0')">OXPHOS</span> remains the dominant ATP source in most human cancers, operating alongside upregulated aerobic glycolysis.</li></ul>
         <div id="c-0-0" class="expanded-content" data-concept-level="noob">
       <strong>Seyfried:</strong> Thomas Seyfried — Boston College biologist, lead proponent of the &#39;cancer as a metabolic disease&#39; framework and the ketogenic-diet-starves-tumor thesis built on Otto Warburg&#39;s glucose-dependence observation.
     </div>
-        <div id="c-0-0" class="expanded-content" data-concept-level="pro">
-      <strong>CPT1A:</strong> Carnitine Palmitoyltransferase 1A — the gatekeeper enzyme on the outer mitochondrial membrane that controls how much long-chain fatty acid enters the mitochondrion for β-oxidation. Upregulating CPT1A = the cell is choosing to burn fat.
-    </div><div id="c-3-0" class="expanded-content" data-concept-level="noob">
-      <strong>deuterium:</strong> Heavy isotope of hydrogen (one extra neutron). Chemically like hydrogen but twice as massive. When it ends up inside mitochondrial ATP-synthase machinery it jams the rotor. Kruse&#39;s central environmental-toxin claim.
+<div id="c-0-1" class="expanded-content" data-concept-level="pro">
+      <strong>FAO:</strong> Fatty Acid Oxidation — the mitochondrial pathway that breaks long-chain fatty acids down into acetyl-CoA via β-oxidation, fueling ATP production. The &#39;aggressive cancer weaponizes FAO&#39; claim is the heart of today&#39;s rebuttal.
     </div>
-        <div class="citations"><div class="citations-label">Citations</div><ul><li class="citation"><div class="citation-paper">Pascual, G., et al. (2017). &quot;Targeting metastasis-initiating cells through the fatty acid receptor CD36.&quot; Nature, 541(7635), 41-45.</div><div class="citation-claim">Aggressive cancer cells rely on free-fatty-acid uptake via CD36 to drive metastasis; blocking it halts tumor progression.</div></li><li class="citation"><div class="citation-paper">Nieman, K. M., et al. (2011). &quot;Adipocytes promote ovarian cancer metastasis and provide energy for rapid tumor growth.&quot; Nature Medicine, 17(11), 1498-1503.</div><div class="citation-claim">Ovarian cancer cells hijack fatty acids from local adipocytes and use accelerated β-oxidation for explosive replication.</div></li><li class="citation"><div class="citation-paper">Schlaepfer, I. R., et al. (2014). &quot;Inhibition of Carnitine Palmitoyltransferase 1A (CPT1A) Impairs Fatty Acid Oxidation and Tumor Growth in Prostate Cancer.&quot; Molecular Cancer Therapeutics, 13(3), 561-571.</div><div class="citation-claim">Prostate cancer cells actively upregulate CPT1A to pump fatty acids across the inner mitochondrial membrane — FAO is a key energetic pillar.</div></li></ul></div>
+        <div id="c-0-0" class="expanded-content" data-concept-level="pro">
+      <strong>glioblastoma:</strong> The most aggressive primary brain tumor, arising from glial cells. Notoriously treatment-resistant; median survival ~15 months even with surgery + radiation + chemo.
+    </div>
+<div id="c-0-1" class="expanded-content" data-concept-level="pro">
+      <strong>CPT1A:</strong> Carnitine Palmitoyltransferase 1A — the gatekeeper enzyme on the outer mitochondrial membrane that controls how much long-chain fatty acid enters the mitochondrion. Upregulating CPT1A = the cell is choosing to burn fat.
+    </div>
+<div id="c-0-2" class="expanded-content" data-concept-level="pro">
+      <strong>β-oxidation:</strong> The stepwise mitochondrial process that breaks fatty acid chains down by two carbons at a time, feeding acetyl-CoA into the TCA cycle for ATP generation.
+    </div><div id="c-2-0" class="expanded-content" data-concept-level="pro">
+      <strong>OXPHOS:</strong> Oxidative Phosphorylation — the mitochondrial electron-transport-chain process that uses oxygen as the final electron acceptor and produces the majority of cellular ATP. Cancer cells supposedly abandon OXPHOS for fermentation; data shows they often don&#39;t.
+    </div>
+        <div class="citations"><div class="citations-label">Citations</div><ul><li class="citation"><div class="citation-paper">Pascual, G., et al. (2017). &quot;Targeting metastasis-initiating cells through the fatty acid receptor CD36.&quot; Nature, 541(7635), 41-45.</div><div class="citation-claim">Aggressive cancer cells rely on free-fatty-acid uptake via CD36 to drive metastasis; blocking CD36 halts tumor progression.</div></li><li class="citation"><div class="citation-paper">Nieman, K. M., et al. (2011). &quot;Adipocytes promote ovarian cancer metastasis and provide energy for rapid tumor growth.&quot; Nature Medicine, 17(11), 1498-1503.</div><div class="citation-claim">Ovarian cancer cells hijack fatty acids from local adipocytes and use accelerated β-oxidation for explosive replication.</div></li><li class="citation"><div class="citation-paper">Schlaepfer, I. R., et al. (2014). &quot;Inhibition of Carnitine Palmitoyltransferase 1A (CPT1A) Impairs Fatty Acid Oxidation and Tumor Growth in Prostate Cancer.&quot; Molecular Cancer Therapeutics, 13(3), 561-571.</div><div class="citation-claim">Prostate cancer cells actively upregulate CPT1A to pump fatty acids across the inner mitochondrial membrane — FAO is a key energetic pillar.</div></li></ul></div>
+        <div class="source-quote">Cancer cells can&#39;t oxidize fatty acids efficiently due to their defective mitochondria. More than 80% of their ATPs come from glucose and glutamine fermentation. If you drink mango smoothies like uncle Jack you will end up with non alcoholic fatty liver.</div>
       </div>
       <div class="card">
         <div class="card-header">
           <span class="tag">Mitochondrial Bioenergetics</span>
           <a href="https://x.com/i/status/2058357778779886073" target="_blank" class="source-link">Read full source →</a>
         </div>
-        <div class="source-quote">my lab developed NAD quantitation tech and showed, with @ASW_lab, that people with mito disease have low blood NAD — but we&#39;ve never said that blood NAD declines in aging or thought that blood is the key target tissue for NR. blood NAD is largely unrelated to the use cases for NR.</div>
-        <div class="item-text"><strong>Why Blood NAD Tests Miss What&#39;s Happening Inside the Cell</strong> <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-0')">Charles Brenner</span>&#39;s lab admits whole-blood <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-1')">NAD+</span> is largely unrelated to where Nicotinamide Riboside (NR) and NMN therapeutically act. Kruse runs the next step: the supplement industry has been monitoring the wrong compartment because blood is engineered to be a clean, low-deuterium transit highway — not a tissue that takes up NR/NMN.</div>
-        <ul class="bullet-list"><li>**Red Blood Cells block the pathway.** Erythrocytes lack a nucleus, synthesize NAD only from nicotinic acid, and have a hard genetic block on internalizing NMN/NR. 99.97% of blood cellular volume.</li><li>**White Blood Cells block it too.** Neutrophils and monocytes make NAD solely from nicotinamide; lack expression of NMRK1/NMRK2 genes. They can&#39;t use NR either.</li><li>**Solid tissues are where it acts.** Skeletal muscle, heart, and damaged peripheral nerves aggressively spike NMRK2 expression — that&#39;s the actual NR uptake site.</li><li>**Trigger = damage, not aging.** NMRK2 activates when the tissue&#39;s internal water lattice undergoes dielectric collapse under nnEMF / blue-light stress, locking down ATP-synthase rotors via deuterium load — an emergency-repair pathway, not a longevity supplement target.</li></ul>
+        <div class="item-text"><strong>Why Blood NAD Tests Miss What&#39;s Happening Inside the Cell</strong> <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-0')">Charles Brenner</span>&#39;s lab admits whole-blood <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-1')">NAD+</span> is largely unrelated to where <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-2')">NR</span> and <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-3')">NMN</span> therapeutically act. Kruse extends: the supplement industry has been monitoring the wrong compartment — blood is engineered to be a clean transit highway, not a tissue that takes up these molecules.</div>
+        <ul class="bullet-list"><li><strong>Red Blood Cells block the pathway.</strong> <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-100-0')">Erythrocytes</span> lack a nucleus, synthesize NAD only from nicotinic acid, and have a hard genetic block on internalizing NMN/NR. They make up 99.97% of blood cellular volume.</li><li><strong>White Blood Cells block it too.</strong> <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-101-0')">Neutrophils</span> and monocytes make NAD solely from nicotinamide; they lack expression of the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-101-1')">NMRK1</span> / <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-101-2')">NMRK2</span> genes that would let them use NR.</li><li><strong>Solid tissues are where it acts.</strong> Skeletal muscle, heart, and damaged peripheral nerves aggressively spike NMRK2 expression — that&#39;s the actual NR uptake site in the body.</li><li><strong>Trigger is damage, not aging.</strong> NMRK2 activates when the tissue&#39;s internal water lattice undergoes dielectric collapse under nnEMF + blue-light stress, jamming the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-103-0')">F0-F1 ATP synthase</span> rotors — an emergency-repair pathway, not a longevity supplement target.</li></ul>
         <div id="c-1-0" class="expanded-content" data-concept-level="noob">
       <strong>Charles Brenner:</strong> Biochemist (UC Irvine / City of Hope), developer of NAD quantitation technology. Principal academic voice for the canonical NAD-precursor-supplementation hypothesis.
     </div>
 <div id="c-1-1" class="expanded-content" data-concept-level="pro">
       <strong>NAD+:</strong> Nicotinamide adenine dinucleotide — central electron-carrier coenzyme in mitochondrial energy metabolism. Cellular NAD+ levels gate oxidative phosphorylation throughput.
     </div>
+<div id="c-1-2" class="expanded-content" data-concept-level="pro">
+      <strong>NR:</strong> Nicotinamide Riboside — an oral NAD+ precursor sold as an anti-aging supplement. Marketed as a way to raise systemic NAD+ levels.
+    </div>
+<div id="c-1-3" class="expanded-content" data-concept-level="pro">
+      <strong>NMN:</strong> Nicotinamide Mononucleotide — another oral NAD+ precursor, structurally one step closer to NAD+ than NR. Heavily promoted by the longevity-supplement industry.
+    </div>
+        <div id="c-100-0" class="expanded-content" data-concept-level="pro">
+      <strong>Erythrocytes:</strong> Red blood cells — the dominant cell type in blood by count (~99% of cellular volume). Unique in having no nucleus and no mitochondria; their only job is to carry oxygen via hemoglobin.
+    </div><div id="c-101-0" class="expanded-content" data-concept-level="pro">
+      <strong>Neutrophils:</strong> The most abundant white blood cells; first responders in the innate immune system. Short-lived (hours to days).
+    </div>
+<div id="c-101-1" class="expanded-content" data-concept-level="pro">
+      <strong>NMRK1:</strong> Nicotinamide Riboside Kinase 1 — the enzyme that phosphorylates NR into NMN as the first step of converting it to NAD+. Expressed in solid tissues but absent in red and white blood cells.
+    </div>
+<div id="c-101-2" class="expanded-content" data-concept-level="pro">
+      <strong>NMRK2:</strong> Nicotinamide Riboside Kinase 2 — tissue-restricted isoform of NMRK1, upregulated in damaged or stressed solid tissue (heart, skeletal muscle, peripheral nerves). The actual therapeutic target site for NR.
+    </div><div id="c-103-0" class="expanded-content" data-concept-level="pro">
+      <strong>F0-F1 ATP synthase:</strong> The rotary molecular motor embedded in the inner mitochondrial membrane that makes ATP — F0 is the membrane rotor, F1 the catalytic head. Kruse&#39;s central claim: heavy deuterium ions jam its sub-nanometer channels and slow the rotor to zero RPM.
+    </div>
         
-        
+        <div class="source-quote">my lab developed NAD quantitation tech and showed, with @ASW_lab, that people with mito disease have low blood NAD — but we&#39;ve never said that blood NAD declines in aging or thought that blood is the key target tissue for NR. blood NAD is largely unrelated to the use cases for NR.</div>
       </div>
       <div class="card">
         <div class="card-header">
           <span class="tag">Biochemistry</span>
           <a href="https://x.com/i/status/2058344539753001010" target="_blank" class="source-link">Read full source →</a>
         </div>
-        
-        <div class="item-text"><strong>Why Glycolysis Has 10 Steps, Not 1</strong> Classical biochemistry frames glycolysis (10 steps) and the TCA cycle (9 steps) as a convoluted way to extract ATP. Kruse reads them as a precision isotopic filtration grid — the multi-step length is the point, not a flaw.</div>
-        <ul class="bullet-list"><li>**No incoherent flash.** A single-step cleavage of glucose would release a destructive burst of incoherent Ultra-weak Photon Emissions (UPEs) — literal matrix fire. Stepwise breakdown keeps the energy release coherent.</li><li>**Fractional isotope centrifuge.** The 10 + 9 step machinery progressively isolates light protium (¹H) for the respiratory chain while trapping and exhausting heavy <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-201-0')">deuterium</span> before it reaches the inner mitochondrial matrix.</li><li>**Boston banana failure.** Tropical, high-deuterium carbs eaten at high winter latitudes overwhelm the filter. The local solar IR/UV needed to drive the cortisol awakening response is absent → cellular water lattice collapses → 10-step filter can&#39;t keep up.</li></ul>
-        
-        <div id="c-201-0" class="expanded-content" data-concept-level="noob">
-      <strong>deuterium:</strong> Heavy isotope of hydrogen (one extra neutron). Chemically like hydrogen but twice as massive. When it ends up inside mitochondrial ATP-synthase machinery it jams the rotor.
+        <div class="item-text"><strong>Why Glycolysis Has 10 Steps, Not 1</strong> Classical biochemistry frames <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-2-0')">glycolysis</span> (10 steps) and the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-2-1')">TCA cycle</span> (9 steps) as a convoluted way to extract ATP. Kruse reads them as a precision isotopic filtration grid — the multi-step length is the point, not a flaw.</div>
+        <ul class="bullet-list"><li><strong>No incoherent flash.</strong> A single-step cleavage of glucose would release a destructive burst of incoherent <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-200-0')">UPE</span>s — literal &#39;matrix fire&#39;. Stepwise breakdown keeps the energy release coherent.</li><li><strong>Fractional isotope centrifuge.</strong> The 10 + 9 step machinery progressively isolates light protium (¹H) for the respiratory chain while trapping and exhausting heavy <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-201-0')">deuterium</span> before it reaches the inner mitochondrial matrix.</li><li><strong>Boston banana failure.</strong> Tropical, high-deuterium carbs eaten at high winter latitudes overwhelm the filter. The local solar IR/UV needed to drive the cortisol awakening response is absent → cellular water lattice collapses → the 10-step filter can&#39;t keep up.</li></ul>
+        <div id="c-2-0" class="expanded-content" data-concept-level="pro">
+      <strong>glycolysis:</strong> The 10-enzyme cytoplasmic pathway that breaks one glucose molecule down into two pyruvate molecules, producing a net 2 ATP. The first stage of cellular respiration; classically taught as &#39;just ATP extraction&#39;.
     </div>
+<div id="c-2-1" class="expanded-content" data-concept-level="pro">
+      <strong>TCA cycle:</strong> Tricarboxylic Acid cycle (Krebs cycle, citric acid cycle) — the 9-enzyme mitochondrial loop that finishes breaking down pyruvate-derived acetyl-CoA, producing reduced electron carriers (NADH, FADH2) that feed the electron transport chain.
+    </div>
+        <div id="c-200-0" class="expanded-content" data-concept-level="pro">
+      <strong>UPE:</strong> Ultra-weak Photon Emission — extremely faint biophoton light (single photons per cell per second) released by living tissue during oxidative metabolism. Kruse treats coherent UPEs as the cell&#39;s internal signaling channel and chaotic UPEs as damage signatures.
+    </div><div id="c-201-0" class="expanded-content" data-concept-level="noob">
+      <strong>deuterium:</strong> Heavy isotope of hydrogen (one extra neutron). Chemically like hydrogen but twice as massive — when it ends up inside mitochondrial ATP-synthase machinery it jams the rotor.
+    </div>
+        
         
       </div>
       <div class="card">
@@ -176,47 +209,67 @@
           <span class="tag">Tumor Metabolism</span>
           <a href="https://x.com/i/status/2058366576244428885" target="_blank" class="source-link">Read full source →</a>
         </div>
-        <div class="source-quote">All these GLP studies showing that they help reduce instance of cancer are missing the point. GLP peptides are doing that because they force people to eat less SUGAR. Sugar feeds cancer - literally. Fasting through autophagy feeds ON cancer.</div>
         <div class="item-text"><strong>Why Cancer Cells Prefer Sugar — A Different Story</strong> The <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-3-0')">Warburg shift</span> (cancer cells fermenting glucose even with oxygen available) is usually read as a mitochondrial defect. Kruse&#39;s reframe: it&#39;s the cell actively trying to <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-3-1')">de-fragging</span> its own internal water lattice of deuterium load — the sugar-burning is the cleanup tool, not the disease.</div>
-        <ul class="bullet-list"><li>**Ubiquitin = mobile isotopic scrubber.** Recent finding that ubiquitin houses glucose — Kruse reads as the cell shuttling fuel directly to misfolded-protein sites for localized &#39;patching&#39; when the bulk water lattice has gone deuterated.</li><li>**G3P shuttle = the fix.** The glucose lands on the G3P shuttle (FADH2-driven), generating localized deuterium-depleted electrons that allow protein refolding even when the surrounding water is contaminated.</li><li>**UPR = the error log.** The Unfolded Protein Response is the alarm signal that the K+ dielectric buffer has been depleted. PERK, ATF6, IRE1 are dielectric antennas; when the water &#39;thickens&#39; (k drops 160 → 50) they trigger emergency repair.</li><li>**Cancer = repair system gives up.** When the ubiquitin-G3P de-fragging finally fails and the cell falls back to a classical &#39;survival script&#39; in a high-deuterium environment — that&#39;s the Warburg phenotype.</li></ul>
+        <ul class="bullet-list"><li><strong>Ubiquitin = mobile isotopic scrubber.</strong> Recent finding that <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-300-0')">ubiquitin</span> houses glucose. Kruse reads it as the cell shuttling fuel directly to misfolded-protein sites for localized &#39;patching&#39; when the bulk water lattice has gone deuterated.</li><li><strong>G3P shuttle = the fix.</strong> The glucose lands on the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-301-0')">G3P shuttle</span> (<span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-301-1')">FADH2</span>-driven), generating localized deuterium-depleted electrons that let protein refolding happen even when the surrounding water is contaminated.</li><li><strong>UPR = the error log.</strong> The <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-302-0')">UPR</span> is the alarm signal that the K+ dielectric buffer has been depleted. Three transmembrane sensors (<span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-302-1')">PERK</span>, <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-302-2')">ATF6</span>, <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-302-3')">IRE1</span>) act as dielectric antennas; when the water &#39;thickens&#39; (k drops 160 → 50) they trigger emergency repair.</li><li><strong>Cancer = repair system gives up.</strong> When the ubiquitin-G3P de-fragging finally fails and the cell falls back to a classical &#39;survival script&#39; in a high-deuterium environment — that&#39;s the Warburg phenotype.</li></ul>
         <div id="c-3-0" class="expanded-content" data-concept-level="pro">
       <strong>Warburg shift:</strong> Otto Warburg&#39;s 1924 observation: cancer cells preferentially use aerobic glycolysis (fermenting glucose to lactate even with oxygen present) instead of full oxidative phosphorylation. Mainstream reading: mitochondrial defect. Kruse: deliberate metabolic reroute.
     </div>
 <div id="c-3-1" class="expanded-content" data-concept-level="noob">
       <strong>de-fragging:</strong> Kruse-coined term for restoring the structured (EZ) water lattice coherence inside the cell, reversing the disordered state that sets in under deuterium load. Analogous to defragmenting a fragmented disk, but for the intracellular water phase.
     </div>
+        <div id="c-300-0" class="expanded-content" data-concept-level="pro">
+      <strong>ubiquitin:</strong> Small regulatory protein (76 amino acids) that, when attached to other proteins, typically tags them for degradation by the proteasome. Recently shown to also bind and shuttle glucose — the basis of Kruse&#39;s &#39;mobile isotopic scrubber&#39; framing.
+    </div><div id="c-301-0" class="expanded-content" data-concept-level="pro">
+      <strong>G3P shuttle:</strong> Glycerol-3-Phosphate shuttle — a mitochondrial system that transfers reducing equivalents from cytoplasmic NADH into the electron transport chain via FADH2, bypassing the main malate-aspartate shuttle.
+    </div>
+<div id="c-301-1" class="expanded-content" data-concept-level="pro">
+      <strong>FADH2:</strong> Flavin Adenine Dinucleotide (reduced form) — an electron-carrier coenzyme that delivers electrons to Complex II of the electron transport chain. The G3P shuttle&#39;s primary output.
+    </div><div id="c-302-0" class="expanded-content" data-concept-level="pro">
+      <strong>UPR:</strong> Unfolded Protein Response — a cellular stress pathway triggered when too many misfolded proteins accumulate in the endoplasmic reticulum. Classically a damage-control signal; Kruse reads it as a dielectric-water-state alarm.
+    </div>
+<div id="c-302-1" class="expanded-content" data-concept-level="pro">
+      <strong>PERK:</strong> Protein kinase R-like ER Kinase — one of three transmembrane UPR sensors. Halts global protein translation when activated, slowing the load on the misfolding crisis.
+    </div>
+<div id="c-302-2" class="expanded-content" data-concept-level="pro">
+      <strong>ATF6:</strong> Activating Transcription Factor 6 — UPR sensor that, when activated, migrates to the Golgi, gets cleaved, and travels to the nucleus to switch on chaperone and quality-control genes.
+    </div>
+<div id="c-302-3" class="expanded-content" data-concept-level="pro">
+      <strong>IRE1:</strong> Inositol-Requiring Enzyme 1 — UPR sensor with kinase and endoribonuclease domains. Splices XBP1 mRNA to produce a transcription factor that boosts the cell&#39;s misfolding-recovery machinery.
+    </div>
         
-        
+        <div class="source-quote">All these GLP studies showing that they help reduce instance of cancer are missing the point. GLP peptides are doing that because they force people to eat less SUGAR. Sugar feeds cancer - literally. Fasting through autophagy feeds ON cancer.</div>
       </div>
       <div class="card">
         <div class="card-header">
           <span class="tag">Adipose Biophysics</span>
           <a href="https://x.com/i/status/2058363350661165165" target="_blank" class="source-link">Read full source →</a>
         </div>
-        <div class="source-quote">Brown adipose tissue activity peaks in infancy and declines progressively through adulthood. By the fourth decade, thermogenic capacity is largely lost.</div>
-        <div class="item-text"><strong>Heavy Water Turns Brown Fat Into Storage Fat</strong> A research thread documented <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-4-0')">BAT</span> (calorie-burning brown fat) peaks in infancy and declines through adulthood — usually attributed to &#39;aging metabolism.&#39; Kruse&#39;s mechanism: rising <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-4-1')">deuterium</span> body load is what destroys BAT mitochondria and converts cells into <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-4-2')">WAT</span> (storage fat). Downstream consequence: more <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-4-3')">NAFLD</span>.</div>
+        <div class="item-text"><strong>Heavy Water Turns Brown Fat Into Storage Fat</strong> A research thread documented <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-4-0')">BAT</span> (calorie-burning brown fat) peaks in infancy and declines through adulthood — usually attributed to &#39;aging metabolism.&#39; Kruse&#39;s mechanism: rising <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-4-1')">deuterium</span> body load destroys BAT mitochondria and converts the cells into <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-4-2')">WAT</span> (storage fat). Downstream consequence: more <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-4-3')">NAFLD</span> / <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-4-4')">MASLD</span>.</div>
         
         <div id="c-4-0" class="expanded-content" data-concept-level="pro">
-      <strong>BAT:</strong> Brown Adipose Tissue — fat tissue rich in mitochondria that burns calories directly as heat (thermogenesis via UCP1). Highest in infants; declines through adulthood.
+      <strong>BAT:</strong> Brown Adipose Tissue — fat tissue rich in mitochondria that burns calories directly as heat (thermogenesis via the UCP1 protein). Highest in infants; declines through adulthood.
     </div>
 <div id="c-4-1" class="expanded-content" data-concept-level="noob">
       <strong>deuterium:</strong> Heavy isotope of hydrogen (one extra neutron). Behaves chemically like hydrogen but is twice as massive — jams mitochondrial ATP-synthase rotors.
     </div>
 <div id="c-4-2" class="expanded-content" data-concept-level="pro">
-      <strong>WAT:</strong> White Adipose Tissue — the storage form of fat that accumulates with positive energy balance. Mitochondrially poor compared to BAT.
+      <strong>WAT:</strong> White Adipose Tissue — the storage form of fat that accumulates with positive energy balance. Mitochondrially poor compared to BAT; metabolically inert by comparison.
     </div>
 <div id="c-4-3" class="expanded-content" data-concept-level="pro">
       <strong>NAFLD:</strong> Non-Alcoholic Fatty Liver Disease — abnormal lipid accumulation in liver cells absent significant alcohol intake. Now the most common chronic liver condition in industrialised populations.
     </div>
+<div id="c-4-4" class="expanded-content" data-concept-level="pro">
+      <strong>MASLD:</strong> Metabolic dysfunction-Associated Steatotic Liver Disease — the 2023 consensus rename of NAFLD, reframing the condition as primarily metabolic rather than just non-alcoholic. Same disease, sharper diagnostic criteria.
+    </div>
         
         
+        <div class="source-quote">Brown adipose tissue activity peaks in infancy and declines progressively through adulthood. By the fourth decade, thermogenic capacity is largely lost.</div>
       </div>
       <div class="card">
         <div class="card-header">
           <span class="tag">Aquifer Geophysics</span>
           <a href="https://x.com/i/status/2058372629745091050" target="_blank" class="source-link">Read full source →</a>
         </div>
-        <div class="source-quote">Many do not know Kentucky sits on top of one of the most expansive, interconnected Mississippian limestone karst systems on Earth. Limestone is a sedimentary aquifer matrix that dramatically affects local dielectric and telluric properties.</div>
         <div class="item-text"><strong>Kentucky&#39;s Hidden Limestone Caves + Atlantic Currents</strong> Kentucky sits on one of Earth&#39;s most extensive Mississippian limestone <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-5-0')">karst</span> aquifer systems — surfaced as a regional biophysical case study, paired with a one-line <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-5-1')">AMOC</span> flag. Reads as another node in the dipole-decline story: aquifer dielectric properties coupled to ocean-current state.</div>
         
         <div id="c-5-0" class="expanded-content" data-concept-level="pro">
@@ -227,6 +280,7 @@
     </div>
         
         
+        <div class="source-quote">Many do not know Kentucky sits on top of one of the most expansive, interconnected Mississippian limestone karst systems on Earth. Limestone is a sedimentary aquifer matrix that dramatically affects local dielectric and telluric properties.</div>
       </div>
       <div class="section-title">Forum Updates</div>
       <div class="card"><ul class="bullet-list"><li>

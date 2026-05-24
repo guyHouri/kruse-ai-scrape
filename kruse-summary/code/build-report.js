@@ -86,6 +86,12 @@ function esc(s) {
     .replace(/'/g, '&#39;');
 }
 
+// Inline markdown bold: `**text**` → `<strong>text</strong>`. Applied AFTER esc()
+// so the <strong> tags stay live but the inner text remains escaped.
+function escBold(s) {
+  return esc(s).replace(/\*\*([^*]+?)\*\*/g, '<strong>$1</strong>');
+}
+
 function cleanText(text) {
   return String(text || '').replace(/\s*https?:\/\/t\.co\/\S+\s*$/g, '').trim();
 }
@@ -115,7 +121,7 @@ function renderBodyWithConcepts(body, concepts, cardIdx) {
   let m;
   let n = 0;
   while ((m = re.exec(safeBody))) {
-    out += esc(safeBody.slice(last, m.index));
+    out += escBold(safeBody.slice(last, m.index));
     const term = m[1].trim();
     const id = `c-${cardIdx}-${n++}`;
     const info = conceptInfo(concepts?.[term]);
@@ -124,7 +130,7 @@ function renderBodyWithConcepts(body, concepts, cardIdx) {
     out += `<span class="expandable-concept" data-concept-level="${esc(level)}" onclick="toggleConcept('${id}')">${esc(term)}</span>`;
     last = m.index + m[0].length;
   }
-  out += esc(safeBody.slice(last));
+  out += escBold(safeBody.slice(last));
 
   const expanded = usedConceptIds.map(({ id, term, level, info }) => {
     if (!info?.text) return '';
@@ -170,12 +176,12 @@ function renderCuratedCard(card, idx) {
           <span class="tag">${esc(card.tag || 'Update')}</span>
           <a href="${esc(sourceLink)}" target="_blank" class="source-link">Read full source →</a>
         </div>
-        ${quote}
         <div class="item-text">${lead}${bodyHtml}</div>
         ${pointsHtml}
         ${expanded}
         ${pointsExpanded}
         ${citationsHtml}
+        ${quote}
       </div>`;
 }
 
@@ -327,8 +333,7 @@ export function buildReportHtml(date, summary = null) {
     .source-link { font-size: 0.8rem; color: var(--text-muted); text-decoration: none; border-bottom: 1px dashed var(--text-muted); transition: all 0.2s ease; }
     .source-link:hover { color: var(--accent-hover); border-bottom-color: var(--accent-hover); }
     .item-text { font-size: 1rem; line-height: 1.45; color: var(--text-body); }
-    .source-quote { background: var(--quote-bg); border-left: 3px solid var(--accent-color); border-radius: 4px 8px 8px 4px; padding: 10px 14px; font-style: italic; font-size: 0.92rem; color: var(--text-soft); }
-    .source-quote::before { content: "Source: "; font-style: normal; font-weight: 600; color: var(--accent-hover); }
+    .source-quote { background: var(--quote-bg); border-left: 3px solid var(--quote-rule); border-radius: 4px 8px 8px 4px; padding: 10px 14px; font-style: italic; font-size: 0.92rem; color: var(--text-muted); }
     .citations { margin-top: 6px; padding: 10px 14px; background: var(--quote-bg); border-radius: 8px; }
     .citations-label { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--accent-hover); letter-spacing: 0.04em; margin-bottom: 6px; }
     .citations ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }
