@@ -1,0 +1,354 @@
+{
+  "date": "2026-05-23",
+  "selected_items": [
+    {
+      "source_type": "tweet",
+      "source_id": "2058179732944908568",
+      "source_url": "https://twitter.com/DrJackKruse/status/2058179732944908568",
+      "title": "ORB tensor principal-axis geometry and 2,900km fluid friction",
+      "category": "geo",
+      "priority": 3,
+      "novelty": "Claims ORB (Outer Rotating Body) tensor principal-axis geometry is mathematical proof that nature solves energetic blockades through precise, non-linear geometric corrections at the 2,900km boundary (core-mantle boundary)",
+      "mechanism": "Immense fluid friction at core-mantle boundary drives geometric corrections in Earth's rotation; tensor mathematics describes the macro-scale energetic solution",
+      "evidence": "Reference to ORB tensor calculations and 2,900km depth (core-mantle boundary); quoted tweet from zachariaspro with images",
+      "practical_value": "Geophysical framework for understanding pole shift mechanics and energetic transitions; connects to broader decentralized medicine thesis about environmental electromagnetic changes",
+      "writer_brief": "Explain what ORB tensor geometry means in plain language, what happens at 2,900km depth, and why this matters for understanding geomagnetic transitions. Avoid jargon unless you can translate it.",
+      "must_explain": [
+        "ORB tensor",
+        "principal-axis geometry",
+        "energetic blockades",
+        "2,900km boundary significance"
+      ],
+      "risk_notes": "Do not overclaim predictive power. The source gives a framework claim but not a specific timeline or outcome. Stay descriptive."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2058170080811217086",
+      "source_url": "https://twitter.com/DrJackKruse/status/2058170080811217086",
+      "title": "Flip versus excursion distinction in pole shift",
+      "category": "geo",
+      "priority": 3,
+      "novelty": "Distinguishes between a full pole flip and a pole excursion; implies different outcomes for State 2 pole location calculations",
+      "mechanism": "A flip is a complete reversal of magnetic poles; an excursion is a temporary large deviation without full reversal. The distinction affects predicted post-transition pole geometry.",
+      "evidence": "Response to zachariaspro's State 2 pole location map and Paper 5 calculations",
+      "practical_value": "Clarifies that pole shift predictions depend on whether the event is a flip or excursion; affects geographic risk assessment and relocation strategy",
+      "writer_brief": "Explain flip versus excursion in plain terms, why the distinction matters for pole location predictions, and what it means for someone trying to assess geographic risk.",
+      "must_explain": [
+        "pole flip",
+        "pole excursion",
+        "State 2 pole locations"
+      ],
+      "risk_notes": "Do not claim certainty about which type of event will occur. The source only notes the assumption underlying the calculation."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2058164146147872779",
+      "source_url": "https://twitter.com/DrJackKruse/status/2058164146147872779",
+      "title": "Cancer cells can use fatty acid oxidation, not just glucose fermentation",
+      "category": "mechanism",
+      "priority": 5,
+      "novelty": "Directly challenges the Warburg/Seyfried glucose-fermentation-only model by stating that cancer cells with defective mitochondria can still generate energy from fatty acids, contradicting the 'cut glucose, eat saturated fat, kill cancer' protocol",
+      "mechanism": "Cancer cells are not limited to glucose and glutamine fermentation; some tumors retain or adapt fatty acid oxidation pathways despite mitochondrial dysfunction",
+      "evidence": "Kruse calls the quoted claim 'pure nonsense' and labels the source a 'trader scammer,' implying the Warburg-only model is incomplete or wrong",
+      "practical_value": "Warns against oversimplified ketogenic cancer protocols that assume all cancers are glucose-dependent; some cancers may thrive on fat metabolism",
+      "writer_brief": "Explain why the 'cancer only ferments glucose' model is incomplete, what it means for tumors to use fatty acid oxidation, and why this changes the risk profile of high-fat cancer protocols. Cite the Warburg/Seyfried framing and the rebuttal.",
+      "must_explain": [
+        "Warburg effect",
+        "fatty acid oxidation in cancer",
+        "mitochondrial dysfunction"
+      ],
+      "risk_notes": "Do not claim all cancers use fat or all cancers ferment glucose. The point is heterogeneity and the danger of one-size-fits-all metabolic cancer protocols."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2058174219972722789",
+      "source_url": "https://twitter.com/DrJackKruse/status/2058174219972722789",
+      "title": "Triplet oxygen and Type 1 collagen in skull deformation",
+      "category": "mechanism",
+      "priority": 4,
+      "novelty": "Links lack of triplet oxygen to Type 1 collagen defects, explaining skull deformations (sagittal suture absence, cranial capacity changes) through oxygen chemistry rather than head-binding",
+      "mechanism": "Triplet oxygen (ground-state molecular oxygen) is required for proper Type 1 collagen synthesis and cross-linking; deficiency leads to structural collagen defects visible in skull geometry",
+      "evidence": "Reference to recent podcast (linked); response to skull deformation observation",
+      "practical_value": "Reframes ancient skull anomalies as oxygen/collagen biology rather than cultural practice; connects to modern collagen health and oxygen availability",
+      "writer_brief": "Explain what triplet oxygen is, how it affects Type 1 collagen, and why this matters for skull structure. Connect to the podcast and the broader collagen/oxygen thesis.",
+      "must_explain": [
+        "triplet oxygen",
+        "Type 1 collagen",
+        "sagittal suture"
+      ],
+      "risk_notes": "Do not overclaim about ancient skulls or head-binding. The source gives a mechanism but not a full case study."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2058154854447513828",
+      "source_url": "https://twitter.com/DrJackKruse/status/2058154854447513828",
+      "title": "New podcast on biophysics of modern patients",
+      "category": "protocol",
+      "priority": 4,
+      "novelty": "Kruse describes this as his most enjoyable 2026 podcast, focused on high-level decentralized medicine between two clinicians",
+      "mechanism": "Biophysics of modern patients in the context of decentralized medicine; clinical application of light, magnetism, water, and redox principles",
+      "evidence": "Podcast link provided; Kruse endorsement as 'high level decentralized medicine at its finest'",
+      "practical_value": "Likely contains clinical case discussion, protocol refinement, and mechanism clarification; high signal for practitioners and advanced members",
+      "writer_brief": "Announce the podcast, note Kruse's endorsement, and flag it as a high-value clinical resource. Do not summarize content unless you have access to the full podcast.",
+      "must_explain": [
+        "decentralized medicine",
+        "biophysics of patients"
+      ],
+      "risk_notes": "Do not invent podcast content. Only note that it exists and is endorsed."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/sun-allergy-is-it-really.32491/",
+      "source_url": "https://forum.jackkruse.com/threads/sun-allergy-is-it-really.32491/",
+      "title": "PMLE and doxycycline as deuterium flash-evaporation accelerator",
+      "category": "mechanism",
+      "priority": 5,
+      "novelty": "Reframes Polymorphous Light Eruption (PMLE) and cutaneous lupus as a deuterium flash-evaporation event, not a sun allergy; explains doxycycline photosensitivity as a molecular antenna that accelerates the evaporation event and forces activation of the POMC-melanin shield",
+      "mechanism": "Winter low-light/low-grounding allows deuterium to accumulate in skin extracellular fluid; vagus and ventricular drainage systems are lattice-locked by heavy isotope load; skin becomes backup exhaust manifold; doxycycline's four-ring hydronaphthacene nucleus intercalates into deuterium-sludgified skin lattice, hyper-accelerating flash-evaporation and forcing a choice between systemic Matrix Fire or Chromosome 2 POMC-melanin spintronic shield activation",
+      "evidence": "Kruse forum post with detailed mechanism; references MITF-AMPAR, vagus drain pipe, 70-degree ventricular Venturi pump, and doxycycline molecular structure",
+      "practical_value": "Explains why PMLE flares in spring, why doxycycline triggers photosensitivity, and why the reaction is not an allergy but a biophysical evaporation event; suggests grounding and deuterium management as interventions",
+      "writer_brief": "Explain PMLE as a deuterium flash-evaporation event, how doxycycline acts as a light-harvesting antenna, and why this reframes 'sun allergy' as a drainage/isotope problem. Translate the mechanism into plain language.",
+      "must_explain": [
+        "PMLE",
+        "deuterium flash-evaporation",
+        "doxycycline hydronaphthacene nucleus",
+        "POMC-melanin shield",
+        "vagus drain pipe",
+        "lattice lock"
+      ],
+      "risk_notes": "Do not claim this replaces medical diagnosis or treatment. This is a mechanistic reframe, not a protocol override."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/searching-for-help-with-addisons-disease.30214/",
+      "source_url": "https://forum.jackkruse.com/threads/searching-for-help-with-addisons-disease.30214/",
+      "title": "Addison's disease and magnetic pinning",
+      "category": "protocol",
+      "priority": 3,
+      "novelty": "Kruse recommends getting a job where you can 'magnetically pin yourself daily' for Addison's disease",
+      "mechanism": "Magnetic pinning (grounding/earthing in a strong magnetic field) may support adrenal function or mitochondrial redox in Addison's disease",
+      "evidence": "Kruse forum reply to Addison's disease thread",
+      "practical_value": "Suggests magnetic grounding as a daily intervention for adrenal insufficiency; implies job/location choice matters for chronic endocrine conditions",
+      "writer_brief": "Explain what 'magnetically pin yourself' likely means (grounding in a strong magnetic field), why it might help Addison's disease, and what kind of job or location would allow this. Keep it practical.",
+      "must_explain": [
+        "magnetic pinning",
+        "Addison's disease"
+      ],
+      "risk_notes": "Do not claim this replaces hormone replacement therapy. This is an adjunct environmental strategy."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/understanding-vortices.32685/unread",
+      "source_url": "https://forum.jackkruse.com/threads/understanding-vortices.32685/unread",
+      "title": "Acute lattice lock subtracts consciousness",
+      "category": "mechanism",
+      "priority": 4,
+      "novelty": "Claims that acute lattice lock (sudden heavy deuterium or electromagnetic load) subtracts consciousness",
+      "mechanism": "Lattice lock (deuterium or nnEMF-induced rigidity in water lattice) disrupts mitochondrial redox and neural signaling, reducing consciousness",
+      "evidence": "Kruse forum post with link to tweet thread",
+      "practical_value": "Explains acute cognitive decline, brain fog, or loss of awareness as a lattice lock event; suggests rapid environmental change (nnEMF, deuterium, grounding loss) as a trigger",
+      "writer_brief": "Explain what lattice lock is, how it can happen acutely, and why it subtracts consciousness. Connect to practical triggers like nnEMF exposure, deuterium load, or grounding loss.",
+      "must_explain": [
+        "lattice lock",
+        "consciousness subtraction"
+      ],
+      "risk_notes": "Do not claim this explains all cognitive decline or neurological events. This is a biophysical mechanism, not a diagnosis."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/hypermobility-ehlers-danios-syndrome.29636/",
+      "source_url": "https://forum.jackkruse.com/threads/hypermobility-ehlers-danios-syndrome.29636/",
+      "title": "EDS and internal water table collapse",
+      "category": "mechanism",
+      "priority": 3,
+      "novelty": "Links Ehlers-Danlos Syndrome (EDS) hypermobility to internal water table collapse (160 to ~78), causing uninsulated/ungrounded state and positive charge accumulation",
+      "mechanism": "Internal water table collapse reduces capacitance and grounding; patient accumulates positive charge and lacks the internal battery capacity to absorb and ground it; manifests as hypermobility and connective tissue dysfunction",
+      "evidence": "Forum post by Wild Side Blue in EDS thread",
+      "practical_value": "Reframes EDS as a water/charge/grounding problem rather than purely genetic collagen defect; suggests grounding and water management as interventions",
+      "writer_brief": "Explain what internal water table collapse means, how it relates to EDS hypermobility, and why grounding and charge management matter. Keep it accessible.",
+      "must_explain": [
+        "internal water table",
+        "capacitance",
+        "grounding",
+        "EDS"
+      ],
+      "risk_notes": "Do not claim this replaces genetic diagnosis or standard EDS management. This is a biophysical layer, not a replacement framework."
+    }
+  ],
+  "dropped_items": [
+    {
+      "source_type": "tweet",
+      "source_id": "2058229385182712070",
+      "reason_category": "old_basic",
+      "reason": "Sunrise and Leptin Rx are baseline knowledge; no new parameter, mechanism, or case detail."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2058174784911843656",
+      "reason_category": "chatter",
+      "reason": "100% agreement with sun importance; no new content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2058174669044265294",
+      "reason_category": "too_vague",
+      "reason": "Mastic gum for acid reflux; no dose, mechanism, evidence, or case result in source."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2058172981730275719",
+      "reason_category": "chatter",
+      "reason": "LOL response to child freedom statistics; no protocol or mechanism."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2058172884636295531",
+      "reason_category": "chatter",
+      "reason": "Anyone surprised? response to news story; no Kruse-specific content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2058171977483919817",
+      "reason_category": "duplicate",
+      "reason": "Retweet of zachariaspro paper already covered in selected ORB tensor item."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2058169656054042656",
+      "reason_category": "old_basic",
+      "reason": "Sun gives same result as sleep in a few minutes; baseline sun importance, no new mechanism."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2058169404207038952",
+      "reason_category": "insufficient_context",
+      "reason": "Refers to podcast for brain death recovery case; no mechanism or case detail in tweet itself."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2058169057514291657",
+      "reason_category": "no_value",
+      "reason": "Claude Shannon folded into decentralized thesis; name-drop without mechanism or practical implication."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2058168935812366448",
+      "reason_category": "chatter",
+      "reason": "Alo is a Rockefeller clown; insult without content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2058168679112605990",
+      "reason_category": "chatter",
+      "reason": "100% agreement with abiogenic oil hypothesis; no new mechanism or evidence."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2058163882078646322",
+      "reason_category": "old_basic",
+      "reason": "Human eye detects single photon; known quantum biology, no new protocol or mechanism."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/philosophy-is-calibrating-knowledge-wisdom-is-applying-it-holistically.32648/",
+      "reason_category": "chatter",
+      "reason": "Philosophical quote about perception; no protocol, mechanism, or case."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/xyz-axis-of-sphenoid-notochord-and-heart-diagrams-for-reference.32824/",
+      "reason_category": "chatter",
+      "reason": "Member posting diagrams for reference; no new mechanism or protocol."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/modeling-through-time-johans-notes-on-life.22865/unread",
+      "reason_category": "chatter",
+      "reason": "Member journal update about wifi and sun exposure; no new protocol or case pattern."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/whats-wrong-with-florida.32823/",
+      "reason_category": "insufficient_context",
+      "reason": "Kruse says 'I think this covers it' with no visible content; cannot assess."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/moving-to-costa-del-sol-next-month-%E2%80%94-looking-for-advice.32821/",
+      "reason_category": "chatter",
+      "reason": "Thank you response; no content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/making-ddw.32818/",
+      "reason_category": "chatter",
+      "reason": "Discussion about DDW test quality; no new protocol or mechanism."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/and-yet%E2%80%A6.32822/",
+      "reason_category": "insufficient_context",
+      "reason": "Thread title only, no content visible."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/tap-zap-block-blue-light-stop-pwm-flicker-on-mac-windows.32809/unread",
+      "reason_category": "chatter",
+      "reason": "Tech support question about software installation; no protocol or mechanism."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/jack-kruse-podcast-curriculum-youtube-edition-v1.23331/unread",
+      "reason_category": "chatter",
+      "reason": "Thank you for podcast list; no content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/mdrn-life-deuterium-depleted-water-scam-warning.31710/unread",
+      "reason_category": "chatter",
+      "reason": "Member introduction and personal story; no protocol or case pattern."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/all-things-el-salvador.26387/unread",
+      "reason_category": "chatter",
+      "reason": "Thank you and question about El Salvador guide; no protocol or mechanism."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/emmanuela%E2%80%99s-journal.28948/unread",
+      "reason_category": "chatter",
+      "reason": "Member journal header with stats; no new protocol or case detail."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/fascia-joints-and-deuterium.32557/unread",
+      "reason_category": "chatter",
+      "reason": "Compliment on writing; no content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/kathleen%E2%80%99s-optimal-journal.31612/unread",
+      "reason_category": "chatter",
+      "reason": "Member thanks for podcast; no new protocol or mechanism."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/alpha-stim.17939/unread",
+      "reason_category": "chatter",
+      "reason": "Question about keeping fridge on overnight; no protocol or mechanism."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/sunlight-and-babies.32817/unread",
+      "reason_category": "chatter",
+      "reason": "Member confirmation of sunrise protocol for baby; no new protocol detail."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/my-teeth-are-dying-2026.32819/unread",
+      "reason_category": "chatter",
+      "reason": "Member relocation discussion and personal history; no protocol or case pattern."
+    }
+  ]
+}

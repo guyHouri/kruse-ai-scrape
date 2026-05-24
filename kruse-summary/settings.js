@@ -45,6 +45,14 @@ export const SETTINGS = {
   // Get a key at https://console.anthropic.com/settings/keys.
   anthropicApiKey: process.env.ANTHROPIC_API_KEY || '',
 
+  // AI summary pipeline. "chain" runs selection -> evidence -> write -> editor.
+  // "single" preserves the old one-shot summarizer for comparison/debugging.
+  aiPipeline: process.env.KRUSE_AI_PIPELINE || 'chain',
+
+  // Chained selector gate. Items below this priority stay in the audit but do
+  // not proceed to evidence/writing, which keeps low-value filler out cheaply.
+  aiSelectionMinPriority: parseInt(process.env.KRUSE_AI_SELECTION_MIN_PRIORITY || '4', 10),
+
   // Model. Haiku 4.5 = best price/quality for this content as of 2026.
   // Override via env if Anthropic publishes a newer alias or you want
   // higher reasoning (e.g. claude-sonnet-4-5).

@@ -1,41 +1,37 @@
 # Prompts
 
-Files loaded at runtime by `code/build-report.js` (TODO wiring) when calling
-the Anthropic API to summarize a day's tweets.
+Files loaded at runtime by `code/summarize.js` when calling the Anthropic API
+to summarize a day's tweets and forum updates.
 
 ## Files
 
 | File | Role |
 |---|---|
-| `summarize-system.md` | System prompt — model instructions, input/output schema |
-| `output-schema.json` | JSON Schema validating the model's returned summary |
+| `select-system.md` | Pass 1: keep/drop every source item before writing |
+| `evidence-system.md` | Pass 2: convert kept items into claim/mechanism/evidence notes |
+| `write-system.md` | Pass 3: write renderer-facing summary JSON draft |
+| `editor-system.md` | Pass 4: final quality referee; removes vague/generic cards |
+| `examples/golden-deconstruction.md` | Contrastive few-shot examples: why good cards work and bad cards fail |
+| `summarize-system.md` | Legacy one-shot prompt, used only with `KRUSE_AI_PIPELINE=single` |
+| `output-schema.json` | Renderer-facing summary contract |
 
-## How they get used (planned)
+## How They Get Used
 
-```js
-// pseudocode inside code/build-report.js
-import { loadAndCompact } from './compact.js';
-const compact = loadAndCompact(date);
-const system = readFileSync('prompts/summarize-system.md', 'utf8');
-const resp = await anthropic.messages.create({
-  model: 'claude-haiku-4-5-20251001',
-  system,
-  messages: [{ role: 'user', content: JSON.stringify(compact) }],
-  max_tokens: 4000,
-});
-const summary = JSON.parse(resp.content[0].text);
-validate(summary, outputSchema);   // ajv or similar
-const html = renderSummaryHtml(summary, compact);
-```
+Default `KRUSE_AI_PIPELINE=chain`:
+
+1. `select-system.md` reads the full 24-hour input and writes
+   `curated/<date>-selection-audit.json`.
+2. `evidence-system.md` reads the original input plus selected items and writes
+   `curated/<date>-evidence-notes.json`.
+3. `write-system.md` writes `curated/<date>-draft.json`.
+4. `editor-system.md` returns final `curated/<date>.json`.
+
+Set `KRUSE_AI_PIPELINE=single` to use `summarize-system.md` directly.
 
 ## Editing
 
-Iterate the system prompt freely. The schema is the contract — keep
-`build-report.js` renderer in sync if you change `sections[].cards[]` shape.
+Iterate prompts freely. The final renderer schema is the contract, so keep
+`build-report.js` in sync if you change `sections[].cards[]` shape.
 
-## NOT a Claude Code skill
-
-These are plain prompt files for an SDK call. If you also want a Claude Code
-slash-command skill for interactive prompt iteration, place it at
-`.claude/skills/kruse-summarize/SKILL.md` instead — that's a separate concept
-and not required for the production cron.
+The golden examples should stay compact. They are there to teach the quality
+boundary, not to act as source material for new reports.

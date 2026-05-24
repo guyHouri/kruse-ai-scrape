@@ -1,34 +1,25 @@
 {
-  "headline_subtitle": "Cranial Geometry, Deuterium Flash-Evaporation, Cancer's Fat Paradox",
+  "headline_subtitle": "Cancer fat metabolism rebuttal, PMLE as deuterium flash-evaporation, and triplet oxygen collagen defects",
   "sections": [
     {
-      "title": "Twitter Updates",
+      "title": "Research & Mechanisms",
       "cards": [
         {
-          "tag": "Tumor Metabolism",
-          "lead": "Cancer Cells CAN Burn Fat - The Ketogenic Story Is Incomplete",
-          "body": "A trader-scammer claims cancer cells can't use fatty acids because their mitochondria are broken. **This is experimentally false.** Multiple studies show tumor cells ferment glucose and glutamine, but aggressive malignancies also upregulate {{concept:CPT1A}} and {{concept:CD36}} to drive {{concept:FAO}} when needed. The \"cancer can't burn fat\" narrative ignores {{concept:OXPHOS}}-competent tumor subpopulations and the Warburg shift's metabolic flexibility.",
-          "points": [
-            "**CPT1A Overdrive.** Aggressive tumors upregulate CPT1A (the rate-limiting enzyme for mitochondrial fatty acid import) to sustain proliferation when glucose is scarce.",
-            "**CD36 Fatty Acid Transporter.** Malignancies overexpress CD36 to pull circulating fats into the cell, feeding residual OXPHOS capacity.",
-            "**Warburg Is Not Absolute.** The Warburg effect (preferential glycolysis) coexists with functional mitochondrial beta-oxidation in many tumor types, especially under nutrient stress."
-          ],
+          "tag": "Cancer Fat Oxidation",
+          "lead": "Kruse rejects the Warburg-only model: some cancers weaponize fatty acid oxidation, not just glucose fermentation",
+          "body": "The Warburg effect describes cancer cells fermenting glucose even when oxygen is available. Seyfried extended this to glutamine fermentation. A widely circulated claim assumes all cancer mitochondria are uniformly defective and cannot perform {{concept:fatty acid oxidation}}. Kruse rejects that shortcut. The rebuttal: tumor metabolism is heterogeneous. Some cancers retain or adapt {{concept:beta-oxidation}} pathways, {{concept:CPT1A}} transport into mitochondria, and OXPHOS coupling despite mitochondrial dysfunction. This means some tumors thrive on glucose, some on glutamine, and some weaponize fat metabolism. The practical risk: 'cut glucose, eat saturated fat, kill cancer' protocols can be dangerously overbroad. If a tumor uses fatty acid oxidation, a high-fat diet may fuel it rather than starve it. Tumor metabolic profiling becomes critical, not just glucose and glutamine tracking.",
           "concepts": {
+            "fatty acid oxidation": {
+              "level": "noob",
+              "text": "The process of breaking down fats into acetyl-CoA inside mitochondria to generate ATP through the electron transport chain."
+            },
+            "beta-oxidation": {
+              "level": "pro",
+              "text": "The mitochondrial pathway that breaks down fatty acids into two-carbon acetyl-CoA units for the Krebs cycle."
+            },
             "CPT1A": {
               "level": "pro",
-              "text": "Carnitine palmitoyltransferase 1A - the enzyme that shuttles long-chain fatty acids into mitochondria for beta-oxidation. Rate-limiting step in fat burning."
-            },
-            "CD36": {
-              "level": "pro",
-              "text": "A cell-surface fatty acid transporter. Malignancies overexpress CD36 to import circulating fats, supporting residual mitochondrial oxidative capacity."
-            },
-            "FAO": {
-              "level": "pro",
-              "text": "Fatty acid oxidation - the mitochondrial process that breaks down fats into acetyl-CoA for the TCA cycle, generating ATP via the electron transport chain."
-            },
-            "OXPHOS": {
-              "level": "pro",
-              "text": "Oxidative phosphorylation - ATP synthesis via the mitochondrial electron transport chain, using oxygen as the terminal electron acceptor."
+              "text": "Carnitine palmitoyltransferase 1A, the enzyme that transports long-chain fatty acids into mitochondria for beta-oxidation."
             }
           },
           "source_ids": [
@@ -36,132 +27,30 @@
           ]
         },
         {
-          "tag": "Cutaneous Immunology",
-          "lead": "Sun 'Allergy' Is Actually Deuterium Flash-Evaporation Through Skin",
-          "body": "Kruse proposes {{concept:PMLE}} and cutaneous lupus are not true sun allergies but a **Deuterium Flash-Evaporation event** - an un-grounded, overloaded biological transformer blowing its pressure-relief valve. Winter's low-light, low-grounding environment allows heavy deuterium mass to puddle in the extracellular fluid matrix of skin. The {{concept:vagus nerve}} exhaust line and the 70-degree ventricular Venturi pump are lattice-locked by the isotopic load. When spring sun hits, skin becomes the backup exhaust manifold. {{concept:Doxycycline}} is labeled 'photosensitizing' not because it causes allergy, but because its four-ring hydronaphthacene nucleus (dense π-electron clouds) intercalates into the deuterium-sludgified skin lattice and hyper-accelerates the flash-evaporation event - forcing an atavistic choice between systemic Matrix Fire or activation of the {{concept:Chromosome 2}} POMC-melanin spintronic shield.",
+          "tag": "Triplet Oxygen Collagen",
+          "lead": "Lack of triplet oxygen affects Type 1 collagen, explaining skull deformations without head-binding",
+          "body": "{{concept:Triplet oxygen}} is ground-state molecular oxygen with two unpaired electrons in parallel spin. {{concept:Type 1 collagen}} synthesis requires oxygen for {{concept:hydroxylation}} of proline and lysine residues by prolyl hydroxylase and lysyl hydroxylase enzymes. These hydroxylated residues are critical for collagen cross-linking and structural stability. Without sufficient triplet oxygen, collagen is under-hydroxylated, leading to weak, malformed connective tissue. In the skull, this manifests as abnormal suture fusion, absence of the {{concept:sagittal suture}}, and altered cranial geometry. Kruse reframes ancient skull anomalies as oxygen and collagen biology rather than cultural head-binding practices. Modern implication: collagen health in skin, joints, and bones depends on oxygen availability, which is affected by altitude, mitochondrial function, redox status, and environmental stress.",
           "concepts": {
-            "PMLE": {
+            "Triplet oxygen": {
               "level": "pro",
-              "text": "Polymorphous Light Eruption - a common 'sun allergy' rash triggered by UV exposure, typically in spring. Centralized dermatology treats it as immune hypersensitivity."
-            },
-            "vagus nerve": {
-              "level": "noob",
-              "text": "The tenth cranial nerve, Kruse's 'primary exhaust line' for metabolic waste and deuterium drainage from tissues to venous circulation."
-            },
-            "Doxycycline": {
-              "level": "noob",
-              "text": "A tetracycline antibiotic. Off-patent. Known to cause photosensitivity in centralized medicine; Kruse reframes it as a light-harvesting molecular antenna that accelerates deuterium evaporation events in skin."
-            },
-            "Chromosome 2": {
-              "level": "pro",
-              "text": "Human chromosome 2 is a fusion of two ancestral ape chromosomes. Kruse links its genomic architecture to the POMC gene and melanin's spintronic electromagnetic shielding capacity."
-            }
-          },
-          "source_ids": [
-            "2058168935812366448",
-            "2058174219972722789"
-          ]
-        },
-        {
-          "tag": "Quantum Vision",
-          "lead": "Human Rods Detect Single Photons - Built for Firelight and Stars",
-          "body": "Experimental evidence (Tinsley 2016) shows the human eye can consciously perceive a single photon. **Your rods are quantum detectors running at the absolute floor of what physics permits.** This system evolved for firelight, moonlight, and starlight - ultra-low-photon environments where every packet of energy counts. Modern indoor blue-rich LED environments flood this exquisitely sensitive system with orders of magnitude more photons than it was designed to handle.",
-          "citations": [
-            {
-              "paper": "Tinsley et al. 2016. \"Direct detection of a single photon by humans.\" Nature Communications 7:12172.",
-              "claim": "Human subjects can reliably detect single photons entering the retina, proving the visual system operates at the quantum limit of light detection."
-            }
-          ],
-          "source_ids": [
-            "2058163882078646322"
-          ]
-        },
-        {
-          "tag": "Geomagnetic Dynamo",
-          "lead": "Outer Rotating Body Inertia Tensor Predicts Post-Flip Pole Geometry",
-          "body": "Zacharias' ORB (Outer Rotating Body) inertia tensor calculations offer a **macro-scale mathematical proof** that nature solves energetic blockades through precise, non-linear geometric corrections. The immense fluid friction at the 2,900 km core-mantle boundary drives the system toward a new rotational equilibrium axis post-transition. Kruse frames this as the ultimate proof that biology's local energy crises (deuterium sludge, lattice lock, redox collapse) mirror planetary-scale dissipative geometry.",
-          "concepts": {
-            "ORB tensor": {
-              "level": "pro",
-              "text": "Outer Rotating Body inertia tensor - a mathematical model describing the rotational dynamics of Earth's liquid outer core and solid mantle. Predicts the new spin axis geometry after a geomagnetic excursion or reversal."
-            }
-          },
-          "source_ids": [
-            "2058179732944908568",
-            "2058171977483919817",
-            "2058170080811217086"
-          ]
-        },
-        {
-          "tag": "Neuromodulation Protocol",
-          "lead": "Mastic Gum Resolves Acid Reflux - Mechanism Unknown in Input",
-          "body": "Kruse recommends {{concept:mastic gum}} for acid reflux in response to a follower's 40-year nurse cousin claiming fatty/spicy foods trigger a weakened esophageal sphincter. The input does not specify mechanism, dose, timing, or cite a study. This is a protocol mention without sufficient detail for the reader to act on or understand the biophysical claim.",
-          "concepts": {
-            "mastic gum": {
-              "level": "noob",
-              "text": "Resin from the mastic tree (Pistacia lentiscus), used traditionally for GI complaints. Kruse recommends it for acid reflux; mechanism not explained in this input."
-            }
-          },
-          "source_ids": [
-            "2058174669044265294"
-          ]
-        },
-        {
-          "tag": "Information Theory",
-          "lead": "Claude Shannon's Work Folded Into Decentralized Thesis",
-          "body": "{{concept:Claude Shannon}}'s 1948 creation of information theory - defining information entropy, channel capacity, and the mathematical limits of data compression and communication - is integrated into Kruse's decentralized framework. Shannon's insights on signal, noise, and entropy map onto biological information transfer via photons, electrons, and magnetic fields.",
-          "concepts": {
-            "Claude Shannon": {
-              "level": "noob",
-              "text": "American mathematician and electrical engineer (1916-2001). Founded information theory with his 1948 paper 'A Mathematical Theory of Communication.' His work underpins digital communication, cryptography, and data compression (ZIP, MP3)."
-            }
-          },
-          "source_ids": [
-            "2058169057514291657"
-          ]
-        },
-        {
-          "tag": "Collagen Biophysics",
-          "lead": "Cranial Secular Trend Explained by Type 1 Collagen and Triplet Oxygen Deficit",
-          "body": "Kruse links the {{concept:cranial secular trend}} (skulls without sagittal sutures, enlarged cranial capacity) to lack of {{concept:triplet oxygen}} affecting {{concept:Type 1 collagen}} synthesis. The podcast he cites explains why head-binding did not cause these deformations - the structural geometry is a biophysical consequence of disrupted collagen cross-linking under low-oxygen, high-deuterium, or nnEMF conditions.",
-          "concepts": {
-            "cranial secular trend": {
-              "level": "pro",
-              "text": "A global observation of changing skull geometry over the past century - narrower faces, smaller sinuses, dental crowding, and in extreme cases absence of cranial suture lines and enlarged cranial vaults. Attributed by Kruse to collagen and water-table collapse."
-            },
-            "triplet oxygen": {
-              "level": "pro",
-              "text": "Ground-state molecular oxygen (O2) in its triplet spin state - paramagnetic, required for collagen hydroxylation (proline, lysine) and proper cross-linking. Deficit leads to weak, disordered collagen."
+              "text": "Ground-state molecular oxygen with two unpaired electrons in parallel spin, the form of oxygen used in aerobic respiration and enzymatic reactions."
             },
             "Type 1 collagen": {
               "level": "noob",
-              "text": "The most abundant structural protein in the human body - bones, tendons, ligaments, skin, dentin. Requires triplet oxygen for proper synthesis and cross-linking."
+              "text": "The most abundant structural protein in the body, found in skin, bones, tendons, ligaments, and connective tissue."
+            },
+            "hydroxylation": {
+              "level": "pro",
+              "text": "The enzymatic addition of a hydroxyl group to proline or lysine in collagen, required for stable triple-helix formation and cross-linking."
+            },
+            "sagittal suture": {
+              "level": "noob",
+              "text": "The fibrous joint between the two parietal bones at the top of the skull, running front to back."
             }
           },
+          "source_quote": "Lack of triplet oxygen and it affects Type 1 collagen.",
           "source_ids": [
             "2058174219972722789"
-          ]
-        },
-        {
-          "tag": "Clinical Case",
-          "lead": "Jahi McMath - Documented Recovery from Properly Diagnosed Brain Death",
-          "body": "{{concept:Jahi McMath}} is the best-documented case of recovery from brain death. She was properly diagnosed brain dead per {{concept:AAN}} guidelines by three doctors (one the chief of child neurology at Stanford), with four flatline {{concept:EEGs}}. Kruse's podcast explains the biophysical mechanism behind her recovery - acute lattice lock subtracts consciousness, but the lock can be reversed if the magnetic/redox environment shifts.",
-          "concepts": {
-            "Jahi McMath": {
-              "level": "noob",
-              "text": "A 13-year-old girl declared brain dead in 2013 after tonsillectomy complications. She later showed signs of responsiveness and puberty while on life support, challenging the finality of brain death diagnosis."
-            },
-            "AAN": {
-              "level": "pro",
-              "text": "American Academy of Neurology - the organization that publishes the clinical guidelines for diagnosing brain death in the United States."
-            },
-            "EEG": {
-              "level": "noob",
-              "text": "Electroencephalogram - a test measuring electrical activity in the brain via scalp electrodes. Flatline EEG (no detectable brain waves) is one criterion for brain death."
-            }
-          },
-          "source_ids": [
-            "2058169404207038952"
           ]
         }
       ]
@@ -170,50 +59,39 @@
   "forum": {
     "bullets": [
       {
-        "title": "Sun 'Allergy' Is Deuterium Flash-Evaporation - Full Thesis on PMLE and Doxycycline",
-        "summary": "Jack posts his complete biophysical model of {{concept:PMLE}} and cutaneous lupus as a deuterium flash-evaporation event, not an immune allergy. Winter's low-light environment allows deuterium sludge to accumulate in skin's extracellular matrix, blocking the vagus exhaust line and ventricular Venturi pump. Spring sun triggers explosive evaporation through the skin (the backup exhaust manifold). {{concept:Doxycycline}} is 'photosensitizing' because its π-electron-rich hydronaphthacene nucleus intercalates into the deuterium lattice and hyper-accelerates the flash-evaporation event, forcing the system to choose between Matrix Fire or activating the {{concept:POMC}}-melanin spintronic shield. Extends today's Twitter thread on sun allergy.",
+        "title": "SUN ALLERGY........IS IT REALLY?",
+        "summary": "Kruse reframes {{concept:PMLE}} as a {{concept:deuterium flash-evaporation}} event, not a sun allergy. Winter's low-light, low-grounding environment allows heavy deuterium to accumulate in the skin's extracellular matrix. The {{concept:vagus drain pipe}} and ventricular drainage become {{concept:lattice lock}}ed by the isotopic load, forcing the skin to act as backup exhaust. When a patient takes doxycycline, the molecule's four-ring {{concept:hydronaphthacene nucleus}} packed with delocalized electron clouds intercalates into the skin's water-rich extracellular matrix and hyper-accelerates the flash-evaporation event. This forces a choice between systemic {{concept:Matrix Fire}} or activation of the {{concept:POMC-melanin shield}}. Doxycycline acts as a light-harvesting molecular antenna that forces the system to resolve the deuterium overload, not as a photosensitizing allergen.",
         "concepts": {
           "PMLE": {
-            "level": "pro",
-            "text": "Polymorphous Light Eruption - a common spring-onset UV-triggered rash. Centralized dermatology treats it as immune hypersensitivity; Kruse reframes it as a deuterium pressure-relief valve event."
-          },
-          "Doxycycline": {
             "level": "noob",
-            "text": "A tetracycline antibiotic, off-patent, known to cause photosensitivity. Kruse reframes it as a light-harvesting molecular antenna that accelerates deuterium evaporation in skin."
+            "text": "Polymorphous Light Eruption, a skin condition where red, itchy bumps or blisters appear after sun exposure, typically in spring or early summer."
           },
-          "POMC": {
+          "deuterium flash-evaporation": {
             "level": "pro",
-            "text": "Pro-opiomelanocortin - a precursor protein encoded near the Chromosome 2 fusion site. Cleaved into melanocyte-stimulating hormone (MSH) and other peptides. Central to melanin synthesis and electromagnetic shielding."
+            "text": "Rapid phase transition of heavy water from the skin's extracellular matrix when exposed to light and heat, releasing stored isotopic load."
+          },
+          "vagus drain pipe": {
+            "level": "pro",
+            "text": "The vagus nerve as a primary drainage pathway for metabolic waste, deuterium, and electromagnetic charge."
+          },
+          "lattice lock": {
+            "level": "pro",
+            "text": "Rigidity in the water structure of tissue caused by heavy deuterium or electromagnetic interference, blocking normal drainage and signaling."
+          },
+          "hydronaphthacene nucleus": {
+            "level": "pro",
+            "text": "The four-ring aromatic structure of tetracycline antibiotics like doxycycline, containing delocalized electrons that absorb and transfer light energy."
+          },
+          "Matrix Fire": {
+            "level": "pro",
+            "text": "Systemic inflammation and oxidative stress caused by unresolved deuterium or electromagnetic overload in the extracellular matrix."
+          },
+          "POMC-melanin shield": {
+            "level": "pro",
+            "text": "Pro-opiomelanocortin is a precursor system tied to melanin biology; in this framing, melanin absorbs and dissipates light energy to protect tissue."
           }
         },
         "thread_url": "https://forum.jackkruse.com/threads/sun-allergy-is-it-really.32491/"
-      },
-      {
-        "title": "Acute Lattice Lock Subtracts Consciousness - Jahi McMath Mechanism",
-        "summary": "Jack links to his X post explaining how acute lattice lock (deuterium sludge, collapsed water table, nnEMF exposure) subtracts consciousness. This is the biophysical mechanism behind the Jahi McMath case - properly diagnosed brain death that reversed when the magnetic/redox environment shifted. The thread ties lattice-lock vortex dynamics to the observable loss and restoration of neural coherence.",
-        "concepts": {
-          "lattice lock": {
-            "level": "noob",
-            "text": "Kruse's term for when deuterium, nnEMF, or lack of grounding collapses the ordered water lattice around proteins and cell membranes, freezing information flow and energy transfer."
-          }
-        },
-        "thread_url": "https://forum.jackkruse.com/threads/understanding-vortices.32685/unread"
-      },
-      {
-        "title": "Ehlers-Danlos and Hypermobility - Internal Water Table Collapse",
-        "summary": "Member Wild Side Blue explains {{concept:Ehlers-Danlos syndrome}} hypermobility as internal water table collapse (160 to ~78 ppm deuterium). The patient is uninsulated/ungrounded, accumulates positive charge, and the internal battery lacks capacitance to absorb and ground the charge. This ties the connective tissue disorder to biophysical water structure and charge dissipation failure.",
-        "concepts": {
-          "Ehlers-Danlos syndrome": {
-            "level": "pro",
-            "text": "A group of genetic connective tissue disorders characterized by joint hypermobility, skin hyperextensibility, and tissue fragility. Caused by defects in collagen synthesis or structure."
-          }
-        },
-        "thread_url": "https://forum.jackkruse.com/threads/hypermobility-ehlers-danios-syndrome.29636/"
-      },
-      {
-        "title": "Addison's Disease Protocol - Magnetically Pin Yourself Daily",
-        "summary": "Jack recommends a job where you can magnetically pin yourself daily for Addison's disease (adrenal insufficiency). No specifics on field strength, exposure duration, or mechanism are provided in the input. The protocol is mentioned but not expanded.",
-        "thread_url": "https://forum.jackkruse.com/threads/searching-for-help-with-addisons-disease.30214/"
       }
     ]
   }

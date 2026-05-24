@@ -12,8 +12,8 @@ Hosted on GitHub Actions: no local cron, no server.
 1. GitHub Actions cron fires every 30 minutes from 02:00-04:30 UTC.
 2. `main.js` chooses the report date, defaulting to the current UTC day.
 3. If `--use-ai` is set, the module builds `curated/<date>-input.json` from a
-   rolling 24-hour tweet/forum window, calls Anthropic, validates the returned
-   summary shape, and writes
+   rolling 24-hour tweet/forum window, runs the default chained Anthropic
+   editorial pipeline, validates the returned summary shape, and writes
    `curated/<date>.json`.
 4. Otherwise it loads `curated/<date>.json` when present, or falls back to raw
    tweet cards.
@@ -38,15 +38,21 @@ kruse-summary/
   code/
     build-input.js        # tweet/forum JSON -> curated/<date>-input.json
     compact.js            # compact tweet JSON for LLM input
-    summarize.js          # Anthropic call + defensive JSON parsing
+    summarize.js          # Anthropic prompt chain + defensive JSON parsing
     build-report.js       # summary/raw JSON -> standalone HTML
     sunrise.js            # sunrise API + send-window check
     email.js              # nodemailer Gmail SMTP
     state.js              # last-sent persistence
     logger.js
   prompts/
-    summarize-system.md   # Claude instructions
+    select-system.md      # pass 1: keep/drop source items
+    evidence-system.md    # pass 2: extract usable evidence notes
+    write-system.md       # pass 3: write renderer JSON draft
+    editor-system.md      # pass 4: final editorial referee
+    summarize-system.md   # legacy one-shot Claude instructions
     output-schema.json    # renderer-facing summary contract
+    examples/
+      golden-deconstruction.md
   curated/                # hand/AI summaries and AI input JSON
   out/                    # generated HTML and failed AI raw dumps
 ```
@@ -80,8 +86,27 @@ kruse-summary/
 
 Optional knobs include `SCRAPED_DATA_DIR`, `FORUM_DAILY_DIR`,
 `INCLUDE_FORUM=true`, `LOCATION_LAT`, `LOCATION_LON`,
-`PRE_SUNRISE_MINUTES`, `TOLERANCE_MINUTES`, `ANTHROPIC_MODEL`, and
-`ANTHROPIC_MAX_TOKENS`, and `SUMMARY_WINDOW_HOURS`.
+`PRE_SUNRISE_MINUTES`, `TOLERANCE_MINUTES`, `ANTHROPIC_MODEL`,
+`ANTHROPIC_MAX_TOKENS`, `SUMMARY_WINDOW_HOURS`, `KRUSE_AI_PIPELINE`, and
+`KRUSE_AI_SELECTION_MIN_PRIORITY`.
+
+`KRUSE_AI_PIPELINE=chain` is the default. It runs selection -> evidence ->
+writer -> editor and writes inspectable intermediate files:
+
+```text
+curated/<date>-selection-audit.json
+curated/<date>-selection-gated.json
+curated/<date>-evidence-notes.json
+curated/<date>-draft.json
+curated/<date>.json
+```
+
+Set `KRUSE_AI_PIPELINE=single` only when you want to compare against the older
+one-shot prompt in `prompts/summarize-system.md`.
+
+`KRUSE_AI_SELECTION_MIN_PRIORITY=4` means low-priority selector items stay in
+the audit but do not proceed into evidence/writing. This keeps thin one-liners
+and clever-but-useless cards from wasting later tokens.
 
 ## Commands
 
@@ -100,6 +125,9 @@ npm run build-input -- 2026-05-24
 
 # Build HTML using AI. This auto-builds curated/<date>-input.json first.
 npm run build-ai -- --date=2026-05-24
+
+# Compare with the old one-shot AI prompt in PowerShell.
+$env:KRUSE_AI_PIPELINE='single'; npm.cmd run build-ai -- --date=2026-05-24
 
 # Normal scheduled behavior: build, check sunrise window, send only if allowed.
 npm start
