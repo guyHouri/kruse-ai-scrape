@@ -15,11 +15,13 @@
   "scripts": {
     "start": "node main.js",
     "build": "node main.js --build-only",
+    "build-ai": "node main.js --build-only --use-ai",
+    "build-input": "node code/build-input.js",
     "force-send": "node main.js --force",
     "v2-test": "node main.js --send-v2-test"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.39.0",
+    "@anthropic-ai/sdk": "^0.98.0",
     "dotenv": "^16.4.5",
     "nodemailer": "^7.0.7"
   }

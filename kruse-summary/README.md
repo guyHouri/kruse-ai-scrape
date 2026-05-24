@@ -1,105 +1,133 @@
 # kruse-summary
 
-Daily email newsletter pipeline. Reads scraped tweets from
-[`twitter_to_md`](../twitter_to_md/), renders a v2-styled HTML report, and
-mails it to a list ~1 hour before local sunrise.
+Daily email newsletter pipeline. It reads scraped daily tweets from
+`../twitter_to_md/data`, optionally reads forum daily activity from
+`../forum_to_md/daily`, renders a v2-styled HTML report, and can mail it to
+the list about one hour before local sunrise.
 
-Hosted on **GitHub Actions** — no local cron, no server.
+Hosted on GitHub Actions: no local cron, no server.
 
-## How it works
+## Flow
 
-1. GH Actions cron fires every 30 min from 02:00–04:30 UTC.
-2. Each run:
-   - Scrapes yesterday's tweets via `twitter_to_md/main.js --date=YYYY-MM-DD`.
-   - Hits [api.sunrise-sunset.org](https://sunrise-sunset.org/api) for today's
-     sunrise at the configured location (default Jerusalem).
-   - If "now" is within ±30 min of `sunrise - 1 hour` **and** we haven't
-     already sent for yesterday's report → builds HTML + sends via Gmail SMTP.
-   - Marks `last-sent.json` to prevent duplicate sends; commits it back to
-     the repo.
-3. Otherwise exits silently and waits for the next cron fire.
+1. GitHub Actions cron fires every 30 minutes from 02:00-04:30 UTC.
+2. `main.js` chooses the report date, defaulting to the current UTC day.
+3. If `--use-ai` is set, the module builds `curated/<date>-input.json` from a
+   rolling 24-hour tweet/forum window, calls Anthropic, validates the returned
+   summary shape, and writes
+   `curated/<date>.json`.
+4. Otherwise it loads `curated/<date>.json` when present, or falls back to raw
+   tweet cards.
+5. `code/build-report.js` writes `out/<date>.html`.
+6. Unless this is build-only or force mode, `code/sunrise.js` checks the send
+   window. If the sunrise API is unavailable, the run skips sending and lets the
+   next cron attempt try again.
+7. `code/email.js` sends via Gmail SMTP and `code/state.js` marks
+   `last-sent.json`.
+
+Forum updates render by default when the curated summary has `forum.bullets`.
+Set `INCLUDE_FORUM=false` only when you want to hide them.
 
 ## Files
 
-```
+```text
 kruse-summary/
   main.js                 # orchestrator
   settings.js             # env-driven knobs
-  mailing_list.json       # recipient list (committed)
-  last-sent.json          # state file, written by workflow
+  mailing_list.json       # BCC recipients
+  last-sent.json          # idempotency state
   code/
-    build-report.js       # tweet JSON → HTML
-    sunrise.js            # sunrise API + window check
+    build-input.js        # tweet/forum JSON -> curated/<date>-input.json
+    compact.js            # compact tweet JSON for LLM input
+    summarize.js          # Anthropic call + defensive JSON parsing
+    build-report.js       # summary/raw JSON -> standalone HTML
+    sunrise.js            # sunrise API + send-window check
     email.js              # nodemailer Gmail SMTP
     state.js              # last-sent persistence
     logger.js
-  out/                    # built HTML lands here locally (gitignored)
+  prompts/
+    summarize-system.md   # Claude instructions
+    output-schema.json    # renderer-facing summary contract
+  curated/                # hand/AI summaries and AI input JSON
+  out/                    # generated HTML and failed AI raw dumps
 ```
 
-## Setup (one-time)
+## Setup
 
-### 1. Gmail App Password
+1. Install dependencies:
 
-- Account: `guyhouri.tech@gmail.com` (or override via `GMAIL_USER`).
-- Enable 2-step verification on that account.
-- Generate App Password: https://myaccount.google.com/apppasswords
-- Save it; you'll paste it as a GH Actions secret next.
+   ```bash
+   npm install
+   ```
 
-### 2. GitHub repo secrets
+2. Copy `.env.example` to `.env` and fill credentials as needed:
 
-In repo → Settings → Secrets and variables → Actions, add:
+   ```bash
+   cp .env.example .env
+   ```
 
-| Secret | Value |
-|---|---|
-| `XAPI_BEARER_TOKEN` | X API Bearer Token (already needed by `twitter_to_md`) |
-| `GMAIL_USER` | `guyhouri.tech@gmail.com` |
-| `GMAIL_APP_PASSWORD` | the App Password from step 1 |
+3. Required only for sending:
 
-Optional **Variables** (not secrets) — override default Jerusalem location:
+   ```text
+   GMAIL_USER
+   GMAIL_APP_PASSWORD
+   ```
 
-| Variable | Default |
-|---|---|
-| `LOCATION_LAT` | `31.7683` |
-| `LOCATION_LON` | `35.2137` |
+4. Required only for `--use-ai`:
 
-### 3. Mailing list
+   ```text
+   ANTHROPIC_API_KEY
+   ```
 
-Edit `mailing_list.json`:
+Optional knobs include `SCRAPED_DATA_DIR`, `FORUM_DAILY_DIR`,
+`INCLUDE_FORUM=true`, `LOCATION_LAT`, `LOCATION_LON`,
+`PRE_SUNRISE_MINUTES`, `TOLERANCE_MINUTES`, `ANTHROPIC_MODEL`, and
+`ANTHROPIC_MAX_TOKENS`, and `SUMMARY_WINDOW_HOURS`.
 
-```json
-{
-  "recipients": [
-    { "email": "guy.houri2024@gmail.com", "name": "Guy Houri" }
-  ]
-}
-```
+## Commands
 
-Commit. Recipients are BCC'd so addresses don't leak across the list.
-
-## Local testing
+From PowerShell on Windows, use `npm.cmd ...` if `npm ...` is blocked by the
+script execution policy.
 
 ```bash
-cd kruse-summary
-npm install
-cp .env.example .env   # fill in GMAIL_USER, GMAIL_APP_PASSWORD
-
-# Build HTML only (no send):
+# Build HTML only. No sunrise check, no email.
 npm run build
-# Output → out/<yesterday>.html
 
-# Force-send now (bypasses sunrise window + last-sent gate):
+# Same as above, Windows PowerShell-safe.
+npm.cmd run build
+
+# Build the AI input JSON manually.
+npm run build-input -- 2026-05-24
+
+# Build HTML using AI. This auto-builds curated/<date>-input.json first.
+npm run build-ai -- --date=2026-05-24
+
+# Normal scheduled behavior: build, check sunrise window, send only if allowed.
+npm start
+
+# Bypass sunrise and last-sent gates, then send.
 npm run force-send
+
+# Send the newest hand-authored v2 HTML as a pipeline smoke test.
+npm run v2-test
 ```
 
-## Manual trigger from GitHub
+## GitHub Actions Secrets
 
-Repo → Actions → "Daily Kruse Summary" → "Run workflow" → set `force=true` to
-bypass the sunrise gate.
+| Secret | Purpose |
+|---|---|
+| `XAPI_BEARER_TOKEN` | Used by the sibling Twitter scraper. |
+| `GMAIL_USER` | Sending Gmail address. |
+| `GMAIL_APP_PASSWORD` | Gmail app password, not the account password. |
+| `ANTHROPIC_API_KEY` | Required only when the workflow uses `--use-ai`. |
 
-## TODO
+## Notes
 
-- AI-summarized cards w/ themed tags + expandable concepts (currently raw 1
-  card per tweet). Hook a Claude/OpenAI call in `code/build-report.js` →
-  return structured `cards[]`, render those instead of raw tweets.
-- Forum / podcast sections (require ingest from `forum_to_md` and a separate
-  podcast pipeline).
+- `curated/<date>.json` is the renderer contract. The schema lives at
+  `prompts/output-schema.json`.
+- `curated/2026-05-24.json` is the current quality reference: it was manually
+  curated after prompt feedback and should be treated as the target style for
+  API-generated summaries.
+- Failed AI parse/validation attempts save the raw model text to
+  `out/<date>-ai-raw.txt`.
+- If a model response is truncated, increase `ANTHROPIC_MAX_TOKENS` or tighten
+  `prompts/summarize-system.md`.

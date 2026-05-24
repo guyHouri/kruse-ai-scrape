@@ -1,5 +1,5 @@
 // Orchestrator. Default flow:
-//   1. Decide which date the report covers (yesterday UTC).
+//   1. Decide which date the report covers (current UTC day by default).
 //   2. Check if today's send already happened — exit if so.
 //   3. Hit sunrise API; check we're inside the [target - tolerance, target + tolerance] window.
 //   4. Build HTML.
@@ -9,7 +9,7 @@
 // Flags:
 //   --build-only       build HTML, write to out/<date>.html, do NOT send
 //   --force            skip sunrise window check AND last-sent check
-//   --date=YYYY-MM-DD  override which date to report on (default = yesterday UTC)
+//   --date=YYYY-MM-DD  override which date to report on (default = current UTC day)
 //   --send-v2-test     pipeline smoke test: email the static kruse-summary-v2 HTML
 //                      (skips scrape, build, sunrise gate, idempotency).
 
@@ -27,10 +27,8 @@ import { summarizeDay } from './code/summarize.js';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)));
 
-function yesterdayUtc() {
-  const d = new Date();
-  d.setUTCDate(d.getUTCDate() - 1);
-  return d.toISOString().slice(0, 10);
+function todayUtc() {
+  return new Date().toISOString().slice(0, 10);
 }
 
 function parseArgs() {
@@ -91,9 +89,9 @@ async function main() {
     return;
   }
 
-  const reportDate = args.date || yesterdayUtc();
+  const reportDate = args.date || todayUtc();
   const dateDisplay = formatDdMmYyyy(reportDate);
-  info(`reportDate=${reportDate} (yesterday UTC by default)`);
+  info(`reportDate=${reportDate} (current UTC day by default)`);
 
   if (!args.force && !args.buildOnly && alreadySent(reportDate)) {
     info(`already sent for ${reportDate} — exiting (use --force to override).`);
@@ -134,7 +132,14 @@ async function main() {
   if (args.buildOnly) { info('build-only mode, skipping send.'); return; }
 
   if (!args.force) {
-    const { inWindow, target } = await checkSendWindow();
+    let windowResult;
+    try {
+      windowResult = await checkSendWindow();
+    } catch (e) {
+      warn(`could not check sunrise send window (${e.message}); skipping send until next run.`);
+      return;
+    }
+    const { inWindow, target } = windowResult;
     if (!inWindow) {
       info(`not in send window (target=${target.toISOString()}). Exiting.`);
       return;

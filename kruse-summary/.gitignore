@@ -4,4 +4,6 @@ node_modules/
 # Private iteration notes / chat dumps — keep style refs local only.
 prompts/creat-json-conversation.txt
 prompts/*-conversation.txt
+out/*-ai-raw.txt
+out/guy-claude.txt
 .vscode/

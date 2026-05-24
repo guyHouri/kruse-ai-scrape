@@ -18,6 +18,7 @@ import * as path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { SETTINGS } from '../settings.js';
 import { info, warn, error } from './logger.js';
+import { buildInputFile } from './build-input.js';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -39,7 +40,8 @@ function loadSystemPrompt() {
 function loadInput(date) {
   const p = path.join(ROOT, 'curated', `${date}-input.json`);
   if (!existsSync(p)) {
-    throw new Error(`input JSON not found at ${p}. Run code/build-input.js first.`);
+    warn(`input JSON not found at ${p}; building it now`);
+    buildInputFile(date);
   }
   return JSON.parse(readFileSync(p, 'utf8'));
 }
@@ -57,6 +59,10 @@ function parseSummaryJson(text) {
   const end = cand.lastIndexOf('}');
   if (start >= 0 && end > start) {
     try { return JSON.parse(cand.slice(start, end + 1)); } catch { /* fall through */ }
+  }
+  const looksTruncated = start >= 0 && (end < start || !cand.trim().endsWith('}'));
+  if (looksTruncated) {
+    throw new Error('AI returned truncated JSON; increase ANTHROPIC_MAX_TOKENS or tighten prompts/summarize-system.md');
   }
   throw new Error('AI returned text that did not parse as JSON');
 }

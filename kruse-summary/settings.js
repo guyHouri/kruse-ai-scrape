@@ -12,6 +12,9 @@ export const SETTINGS = {
   // report date is absent, the Forum Insights section is skipped.
   forumDailyDir: process.env.FORUM_DAILY_DIR || '../forum_to_md/daily',
 
+  // Rolling input window ending at the end of the report date (UTC).
+  summaryWindowHours: parseInt(process.env.SUMMARY_WINDOW_HOURS || '24', 10),
+
   // Gmail credentials. Use a Google App Password, NOT your account password.
   // Create one: https://myaccount.google.com/apppasswords
   gmailUser: process.env.GMAIL_USER || '',
@@ -47,7 +50,9 @@ export const SETTINGS = {
   // higher reasoning (e.g. claude-sonnet-4-5).
   anthropicModel: process.env.ANTHROPIC_MODEL || 'claude-haiku-4-5',
 
-  // Max output tokens. Full curated JSON for a normal day runs 4-6 K
-  // tokens; cap at 8 K to give thinking-heavy outputs headroom.
-  anthropicMaxTokens: parseInt(process.env.ANTHROPIC_MAX_TOKENS || '8192', 10),
+  // Max output tokens. Dense days with cards, concepts, citations, and forum
+  // bullets can exceed 8 K output tokens, so default high enough to avoid
+  // truncated JSON while still allowing env override.
+  anthropicMaxTokens: parseInt(process.env.ANTHROPIC_MAX_TOKENS || '20000', 10),
+
 };

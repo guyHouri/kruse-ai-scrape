@@ -53,6 +53,11 @@ function hhmm(iso) {
   return iso.slice(11, 16);
 }
 
+function ymd(iso) {
+  if (!iso) return null;
+  return iso.slice(0, 10);
+}
+
 function typeOf(t) {
   if (t.is_retweet) return 'retweet';
   if (t.is_quote) return 'quote';
@@ -68,10 +73,11 @@ function compactNested(t) {
   };
 }
 
-function compactTweet(t) {
+export function compactTweet(t) {
   const out = {
     id: t.id,
     text: stripTcoTail(t.text),
+    date_utc: ymd(t.created_at),
     time_utc: hhmm(t.created_at),
     type: typeOf(t),
   };

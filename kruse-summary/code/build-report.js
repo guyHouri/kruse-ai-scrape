@@ -88,8 +88,8 @@ function esc(s) {
 
 // Inline markdown bold: `**text**` → `<strong>text</strong>`. Applied AFTER esc()
 // so the <strong> tags stay live but the inner text remains escaped.
-function escBold(s) {
-  return esc(s).replace(/\*\*([^*]+?)\*\*/g, '<strong>$1</strong>');
+function applyBoldHtml(s) {
+  return String(s).replace(/\*\*([\s\S]+?)\*\*/g, '<strong>$1</strong>');
 }
 
 function cleanText(text) {
@@ -121,7 +121,7 @@ function renderBodyWithConcepts(body, concepts, cardIdx) {
   let m;
   let n = 0;
   while ((m = re.exec(safeBody))) {
-    out += escBold(safeBody.slice(last, m.index));
+    out += esc(safeBody.slice(last, m.index));
     const term = m[1].trim();
     const id = `c-${cardIdx}-${n++}`;
     const info = conceptInfo(concepts?.[term]);
@@ -130,7 +130,8 @@ function renderBodyWithConcepts(body, concepts, cardIdx) {
     out += `<span class="expandable-concept" data-concept-level="${esc(level)}" onclick="toggleConcept('${id}')">${esc(term)}</span>`;
     last = m.index + m[0].length;
   }
-  out += escBold(safeBody.slice(last));
+  out += esc(safeBody.slice(last));
+  out = applyBoldHtml(out);
 
   const expanded = usedConceptIds.map(({ id, term, level, info }) => {
     if (!info?.text) return '';
@@ -242,10 +243,8 @@ export function buildReportHtml(date, summary = null) {
   const twitterHtml = summary?.sections?.length
     ? renderSections(summary)
     : renderFallbackSections(day);
-  // Forum section gated: only render when the env flag is on AND we have
-  // forum data. User wants to validate forum data quality before letting it
-  // into the daily mail. Scrape still runs daily so we accumulate state.
-  const includeForum = process.env.INCLUDE_FORUM === 'true';
+  // Forum is included by default; set INCLUDE_FORUM=false to hide it.
+  const includeForum = process.env.INCLUDE_FORUM !== 'false';
   const forumHtml = includeForum ? renderForumSection(forumDay, summary?.forum) : '';
   const sectionsHtml = [twitterHtml, forumHtml].filter(Boolean).join('\n');
   info(`built report for ${date}: ${summary ? `${summary.sections.length} section(s) curated` : `${day.tweets?.length || 0} raw tweets`}${forumDay ? ` + ${forumDay.posts?.length || 0} forum posts` : ''}`);

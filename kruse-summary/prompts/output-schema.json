@@ -18,8 +18,8 @@
           "title": { "type": "string" },
           "cards": {
             "type": "array",
-            "minItems": 1,
-            "maxItems": 5,
+            "minItems": 0,
+            "maxItems": 8,
             "items": {
               "type": "object",
               "required": ["tag", "lead", "body", "source_ids"],
@@ -28,17 +28,89 @@
                 "tag": { "type": "string" },
                 "lead": { "type": "string" },
                 "body": { "type": "string" },
+                "points": {
+                  "type": "array",
+                  "maxItems": 3,
+                  "items": { "type": "string" }
+                },
                 "concepts": {
                   "type": "object",
-                  "additionalProperties": { "type": "string" }
+                  "additionalProperties": {
+                    "oneOf": [
+                      { "type": "string" },
+                      {
+                        "type": "object",
+                        "required": ["level", "text"],
+                        "additionalProperties": false,
+                        "properties": {
+                          "level": { "type": "string", "enum": ["noob", "pro"] },
+                          "text": { "type": "string" }
+                        }
+                      }
+                    ]
+                  }
                 },
                 "source_quote": { "type": "string" },
+                "citations": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "required": ["paper", "claim"],
+                    "additionalProperties": false,
+                    "properties": {
+                      "paper": { "type": "string" },
+                      "claim": { "type": "string" }
+                    }
+                  }
+                },
                 "source_ids": {
                   "type": "array",
                   "minItems": 1,
                   "items": { "type": "string" }
+                },
+                "source_urls": {
+                  "type": "array",
+                  "items": { "type": "string" }
                 }
               }
+            }
+          }
+        }
+      }
+    },
+    "forum": {
+      "type": "object",
+      "required": ["bullets"],
+      "additionalProperties": false,
+      "properties": {
+        "bullets": {
+          "type": "array",
+          "maxItems": 5,
+          "items": {
+            "type": "object",
+            "required": ["title", "summary", "thread_url"],
+            "additionalProperties": false,
+            "properties": {
+              "title": { "type": "string" },
+              "summary": { "type": "string" },
+              "concepts": {
+                "type": "object",
+                "additionalProperties": {
+                  "oneOf": [
+                    { "type": "string" },
+                    {
+                      "type": "object",
+                      "required": ["level", "text"],
+                      "additionalProperties": false,
+                      "properties": {
+                        "level": { "type": "string", "enum": ["noob", "pro"] },
+                        "text": { "type": "string" }
+                      }
+                    }
+                  ]
+                }
+              },
+              "thread_url": { "type": "string" }
             }
           }
         }
