@@ -1,0 +1,978 @@
+{
+  "date": "2026-05-23",
+  "handle": "DrJackKruse",
+  "fetched_at": "2026-05-24T06:08:34.470Z",
+  "source": {
+    "backend": "x-api-v2",
+    "endpoint": "/2/users/:id/tweets"
+  },
+  "tweet_count": 17,
+  "tweets": [
+    {
+      "id": "2058229385182712070",
+      "url": "https://x.com/DrJackKruse/status/2058229385182712070",
+      "created_at": "2026-05-23T16:51:40.000Z",
+      "text": "Sunrise.  Read the Leptin Rx----&gt; https://t.co/CZD5vLf6ZN https://t.co/CMycqLXVci",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058229385182712070",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058173278129184780",
+        "url": "https://x.com/realIvanPlease/status/2058173278129184780",
+        "created_at": "2026-05-23T13:08:43.000Z",
+        "text": "@DrJackKruse Question: DJK, you said - eat within 30 min…  referring to within 30 min. of waking up?",
+        "lang": "en",
+        "author": {
+          "id": "1488282601689436161",
+          "username": "realIvanPlease",
+          "name": "Ivan Please"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2058154854447513828",
+        "in_reply_to": {
+          "tweet_id": "2058154854447513828",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2058154854447513828"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 1,
+          "retweets": 0,
+          "replies": 3,
+          "quotes": 3,
+          "views": 13405
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 103,
+        "retweets": 11,
+        "replies": 2,
+        "quotes": 1,
+        "views": 12775
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058179732944908568",
+      "url": "https://x.com/DrJackKruse/status/2058179732944908568",
+      "created_at": "2026-05-23T13:34:22.000Z",
+      "text": "What this implies for the tribe of savages:  The ORB tensor principal-axis geometry is the ultimate macro-scale mathematical proof that nature solves its energetic blockades through precise, non-linear geometric corrections.  \n\nThis immense fluid friction at the 2,900km https://t.co/rStFhUACvC https://t.co/zDJ2QvYDhL",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058179732944908568",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057894207621046558",
+        "url": "https://x.com/zachariaspro/status/2057894207621046558",
+        "created_at": "2026-05-22T18:39:47.000Z",
+        "text": "https://t.co/0Puw5xJ5Lx",
+        "lang": "zxx",
+        "author": {
+          "id": "1403943731158470656",
+          "username": "zachariaspro",
+          "name": "Zacharias"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2057894207621046558",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 284,
+          "retweets": 42,
+          "replies": 16,
+          "quotes": 7,
+          "views": 18710
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJAfau1WMAAmMIP.jpg",
+          "preview_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJAfauzWoAAaZiv.png",
+          "preview_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJAfau4WYAAJtWD.jpg",
+          "preview_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJAfau0W0AA-nMa.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 145,
+        "retweets": 26,
+        "replies": 2,
+        "quotes": 1,
+        "views": 9699
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058174784911843656",
+      "url": "https://x.com/DrJackKruse/status/2058174784911843656",
+      "created_at": "2026-05-23T13:14:42.000Z",
+      "text": "100% and in my pinned tweet. https://t.co/6813MfVP5q",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058174784911843656",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058103640217555159",
+        "url": "https://x.com/calotonterias/status/2058103640217555159",
+        "created_at": "2026-05-23T08:32:00.000Z",
+        "text": "Las personas que evitan el sol tienen el mismo riesgo de mortalidad que las personas que fuman.\n\nNecesitas sol. No es opcional. https://t.co/YvxpC53cIS",
+        "lang": "es",
+        "author": {
+          "id": "962152558574829568",
+          "username": "calotonterias",
+          "name": "Sergio Ferrero"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2058103640217555159",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 1493,
+          "retweets": 261,
+          "replies": 17,
+          "quotes": 17,
+          "views": 42759
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 204,
+        "retweets": 28,
+        "replies": 2,
+        "quotes": 0,
+        "views": 9398
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058174669044265294",
+      "url": "https://x.com/DrJackKruse/status/2058174669044265294",
+      "created_at": "2026-05-23T13:14:14.000Z",
+      "text": "Mastic gum solves it. https://t.co/coXVSnUyiP",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058174669044265294",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058148484297928716",
+        "url": "https://x.com/CaryKelly11/status/2058148484297928716",
+        "created_at": "2026-05-23T11:30:11.000Z",
+        "text": "A cousin who had been a nurse for almost 40 years assured me that my acid reflux was because I had a weakened esophageal sphincter and that fatty and spicy foods were triggering my episodes.\n\nI believed her.\n\nOne of my favorite dishes was a spicy shrimp diavolo and I was almost https://t.co/RMzd4SZtMq",
+        "lang": "en",
+        "author": {
+          "id": "1128430399376502784",
+          "username": "CaryKelly11",
+          "name": "Cary Kelly"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2058148484297928716",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 882,
+          "retweets": 110,
+          "replies": 80,
+          "quotes": 12,
+          "views": 148704
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 962,
+        "retweets": 79,
+        "replies": 26,
+        "quotes": 0,
+        "views": 111475
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058174219972722789",
+      "url": "https://x.com/DrJackKruse/status/2058174219972722789",
+      "created_at": "2026-05-23T13:12:27.000Z",
+      "text": "If you listened to this pod you'd know why this happens.  \n\nLack of triplet oxygen and it affects Type 1 collagen. \n\nhttps://t.co/tsF3mBMzko https://t.co/opTi6JSxxv",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058174219972722789",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057838372450689283",
+        "url": "https://x.com/DGr8Awakening/status/2057838372450689283",
+        "created_at": "2026-05-22T14:57:55.000Z",
+        "text": "It's the skulls without a sagittal suture that tend to also have a larger (than \"normal\") cranial capacity.  Leads one to believe that head-binding did not cause the deformation of the skull. https://t.co/vC8XxfrwbG",
+        "lang": "en",
+        "author": {
+          "id": "1673143435073671168",
+          "username": "DGr8Awakening",
+          "name": "TheGreatAwakening"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2057838372450689283",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 40,
+          "retweets": 4,
+          "replies": 1,
+          "quotes": 3,
+          "views": 11662
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 33,
+        "retweets": 4,
+        "replies": 1,
+        "quotes": 0,
+        "views": 8452
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058172981730275719",
+      "url": "https://x.com/DrJackKruse/status/2058172981730275719",
+      "created_at": "2026-05-23T13:07:32.000Z",
+      "text": "Home of the Free.  \n\nLOL https://t.co/PSTknm8xIo",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058172981730275719",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057830902890115186",
+        "url": "https://x.com/stevemagness/status/2057830902890115186",
+        "created_at": "2026-05-22T14:28:14.000Z",
+        "text": "84% of 11-year-olds aren't allowed to leave their street.\n\n53% can't leave their front yard.\n\n92% of 14-year-olds can't leave their neighborhood.\n\nWe built a culture obsessed with safety. The result? A generation that's measurably more anxious: https://t.co/oygf4qk5yW https://t.co/4xCSotWcfm",
+        "lang": "en",
+        "author": {
+          "id": "97904497",
+          "username": "stevemagness",
+          "name": "Steve Magness"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2057830902890115186",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 1175,
+          "retweets": 236,
+          "replies": 249,
+          "quotes": 61,
+          "views": 208959
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 47,
+        "retweets": 7,
+        "replies": 4,
+        "quotes": 0,
+        "views": 5575
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058172884636295531",
+      "url": "https://x.com/DrJackKruse/status/2058172884636295531",
+      "created_at": "2026-05-23T13:07:09.000Z",
+      "text": "Anyone surprised? https://t.co/rGbePzlMTG",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058172884636295531",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057931757878472767",
+        "url": "https://x.com/MarioNawfal/status/2057931757878472767",
+        "created_at": "2026-05-22T21:09:00.000Z",
+        "text": "🇮🇱🇨🇾 Security at a Cyprus airport stopped a 24-year-old Israeli man and found 4 human embryos in his luggage, stored in a cryogenic container labeled \"Life Pack,\" bound for Mexico via Istanbul.\n\nThe embryos came from an IVF clinic in northern Nicosia operating without proper https://t.co/a83DvyK8To",
+        "lang": "en",
+        "author": {
+          "id": "1319287761048723458",
+          "username": "MarioNawfal",
+          "name": "Mario Nawfal"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2057931757878472767",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 23432,
+          "retweets": 7451,
+          "replies": 684,
+          "quotes": 499,
+          "views": 1242101
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 120,
+        "retweets": 13,
+        "replies": 9,
+        "quotes": 0,
+        "views": 17875
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058171977483919817",
+      "url": "https://x.com/DrJackKruse/status/2058171977483919817",
+      "created_at": "2026-05-23T13:03:33.000Z",
+      "text": "RT @zachariaspro: Derivation of the Post-Transition Rotational Equilibrium Axis from the Outer Rotating Body Inertia Tensor and the State I…",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2058171977483919817",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2057887008467439824",
+        "url": "https://x.com/zachariaspro/status/2057887008467439824",
+        "created_at": "2026-05-22T18:11:11.000Z",
+        "text": "Derivation of the Post-Transition Rotational Equilibrium Axis from the Outer Rotating Body Inertia Tensor and the State II Forcing Direction (1962–2026)\n\n🔗Paper V: https://t.co/XbKVYN9oMt https://t.co/85ODqx8IXb https://t.co/quUTehgD4A",
+        "lang": "en",
+        "author": {
+          "id": "1403943731158470656",
+          "username": "zachariaspro",
+          "name": "Zacharias"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2057887008467439824",
+        "in_reply_to": null,
+        "quoted_tweet": {
+          "id": "2057881163113337031",
+          "url": "https://x.com/zachariaspro/status/2057881163113337031",
+          "created_at": "2026-05-22T17:47:57.000Z",
+          "text": "State 2 pole locations &amp; climate zones, per the calculations in Paper 5. Will be posting my research shortly.\n\nCurrently writing a non-technical version so everyone can hopefully understand it https://t.co/I8qaG3a7mK",
+          "lang": "en",
+          "author": {
+            "id": "1403943731158470656",
+            "username": "zachariaspro",
+            "name": "Zacharias"
+          },
+          "is_reply": false,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2057881163113337031",
+          "in_reply_to": null,
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [],
+          "metrics": {
+            "likes": 292,
+            "retweets": 22,
+            "replies": 16,
+            "quotes": 8,
+            "views": 25594
+          },
+          "thread_context": []
+        },
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 86,
+          "retweets": 16,
+          "replies": 2,
+          "quotes": 1,
+          "views": 6309
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 16,
+        "replies": 0,
+        "quotes": 0,
+        "views": 0
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058170080811217086",
+      "url": "https://x.com/DrJackKruse/status/2058170080811217086",
+      "created_at": "2026-05-23T12:56:00.000Z",
+      "text": "This assumes a flip over an excursion. https://t.co/p1Z9jNqIhk",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058170080811217086",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057881163113337031",
+        "url": "https://x.com/zachariaspro/status/2057881163113337031",
+        "created_at": "2026-05-22T17:47:57.000Z",
+        "text": "State 2 pole locations &amp; climate zones, per the calculations in Paper 5. Will be posting my research shortly.\n\nCurrently writing a non-technical version so everyone can hopefully understand it https://t.co/I8qaG3a7mK",
+        "lang": "en",
+        "author": {
+          "id": "1403943731158470656",
+          "username": "zachariaspro",
+          "name": "Zacharias"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2057881163113337031",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 292,
+          "retweets": 22,
+          "replies": 16,
+          "quotes": 8,
+          "views": 25594
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 44,
+        "retweets": 5,
+        "replies": 7,
+        "quotes": 0,
+        "views": 10535
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058169656054042656",
+      "url": "https://x.com/DrJackKruse/status/2058169656054042656",
+      "created_at": "2026-05-23T12:54:19.000Z",
+      "text": "Going in the sun give you the same result in a few minutes. https://t.co/pjgqDf4C5w https://t.co/ggwMYM6zZt",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058169656054042656",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057958809578963262",
+        "url": "https://x.com/askgodswill/status/2057958809578963262",
+        "created_at": "2026-05-22T22:56:29.000Z",
+        "text": "After 6 nights of sleeping 6 hours, insulin sensitivity drops by 25%.\n\nNot 6 months. 6 NIGHTS.\n\nYour pancreas sees this as a metabolic emergency — cortisol rises, fasting glucose climbs, and adiponectin signaling collapses.\n\nMost people are walking around with sleep-induced",
+        "lang": "en",
+        "author": {
+          "id": "1218162178013966336",
+          "username": "askgodswill",
+          "name": "Dr. Gee"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2057958809578963262",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 19,
+          "retweets": 2,
+          "replies": 3,
+          "quotes": 2,
+          "views": 16691
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJAWY1CXwAAPGpE.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 210,
+        "retweets": 24,
+        "replies": 3,
+        "quotes": 1,
+        "views": 15556
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058169404207038952",
+      "url": "https://x.com/DrJackKruse/status/2058169404207038952",
+      "created_at": "2026-05-23T12:53:19.000Z",
+      "text": "To understand why this happened the answer is in thei podcast.  In fact, I call HK in it.  Have a listen Savages.  \n\nhttps://t.co/tsF3mBMzko https://t.co/1Owtxz5hVa",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058169404207038952",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057865388403081250",
+        "url": "https://x.com/heidiklessigmd/status/2057865388403081250",
+        "created_at": "2026-05-22T16:45:16.000Z",
+        "text": "Jahi McMath is the best documented case of recovery from brain death. She was properly diagnosed as being brain dead according to the AAN brain death diagnostic guideline. One of the 3 doctors who diagnosed her was the chief of child neurology at Stanford. She had 4 flatline EEGs https://t.co/QK337AOq5p",
+        "lang": "en",
+        "author": {
+          "id": "1716872311192891397",
+          "username": "heidiklessigmd",
+          "name": "Dr. Heidi Klessig"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2057865388403081250",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 92,
+          "retweets": 31,
+          "replies": 2,
+          "quotes": 4,
+          "views": 16955
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 48,
+        "retweets": 8,
+        "replies": 4,
+        "quotes": 1,
+        "views": 14095
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058169057514291657",
+      "url": "https://x.com/DrJackKruse/status/2058169057514291657",
+      "created_at": "2026-05-23T12:51:56.000Z",
+      "text": "Hiw work is folded into my decentralized thesis. https://t.co/fC6LJiXKgp",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058169057514291657",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057818512438317359",
+        "url": "https://x.com/PhysInHistory/status/2057818512438317359",
+        "created_at": "2026-05-22T13:39:00.000Z",
+        "text": "Thank this man for digital communication, data compression (ZIP, MP3), coding theory, and cryptography.\n\nClaude Shannon’s biggest scientific contribution was the creation of information theory in his 1948 paper “A Mathematical Theory of Communication.”\n\nHe defined “information” https://t.co/zBmsiYQ1Ty",
+        "lang": "en",
+        "author": {
+          "id": "1288841746898534401",
+          "username": "PhysInHistory",
+          "name": "Physics In History"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2057818512438317359",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 851,
+          "retweets": 199,
+          "replies": 34,
+          "quotes": 24,
+          "views": 36781
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 45,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": 4215
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058168935812366448",
+      "url": "https://x.com/DrJackKruse/status/2058168935812366448",
+      "created_at": "2026-05-23T12:51:27.000Z",
+      "text": "Alo is a Rockefeller clown. https://t.co/HNQOlufy5f",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058168935812366448",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2057955378025865485",
+        "url": "https://x.com/AmmousMD/status/2057955378025865485",
+        "created_at": "2026-05-22T22:42:51.000Z",
+        "text": "Never mention diet or light.\n\nIt's all about the pills. https://t.co/t5Ej7CEIAc",
+        "lang": "en",
+        "author": {
+          "id": "2875568086",
+          "username": "AmmousMD",
+          "name": "Dr. Ammous"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2057955378025865485",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 204,
+          "retweets": 23,
+          "replies": 17,
+          "quotes": 2,
+          "views": 16249
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 52,
+        "retweets": 5,
+        "replies": 2,
+        "quotes": 0,
+        "views": 6719
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058168679112605990",
+      "url": "https://x.com/DrJackKruse/status/2058168679112605990",
+      "created_at": "2026-05-23T12:50:26.000Z",
+      "text": "100% https://t.co/tFyPeTLMWW",
+      "lang": "qst",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058168679112605990",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058115968430186508",
+        "url": "https://x.com/Rainmaker1973/status/2058115968430186508",
+        "created_at": "2026-05-23T09:20:59.000Z",
+        "text": "Fun fact.\n\nOil and gas may not be 'fossil fuels', but renewable energy source created by a geothermal reaction between the solid mantle and liquid core.\n\nThis is according to the abiogenic petroleum origin hypothesis, that posits that petroleum and natural gas are formed from https://t.co/5jHKYbInBZ",
+        "lang": "en",
+        "author": {
+          "id": "177101260",
+          "username": "Rainmaker1973",
+          "name": "Massimo"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2058115968430186508",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 728,
+          "retweets": 193,
+          "replies": 82,
+          "quotes": 20,
+          "views": 53831
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 179,
+        "retweets": 23,
+        "replies": 10,
+        "quotes": 0,
+        "views": 11650
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058164146147872779",
+      "url": "https://x.com/DrJackKruse/status/2058164146147872779",
+      "created_at": "2026-05-23T12:32:25.000Z",
+      "text": "This trader scammer believes pure nonsense. https://t.co/hOK2jgQV6g",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058164146147872779",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058085244985594252",
+        "url": "https://x.com/gemoscatelli/status/2058085244985594252",
+        "created_at": "2026-05-23T07:18:54.000Z",
+        "text": "Good morning: cancer cells ferment glucose and glutamine, their defective mitochondria can't generate energy from fatty acids.\nThis has been proven multiple times experimentally.\nCut glucose, ingest saturated fats, kill cancer cells. https://t.co/6hi2t4GFht",
+        "lang": "en",
+        "author": {
+          "id": "1264899552869527552",
+          "username": "gemoscatelli",
+          "name": "Gerardo Moscatelli"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2058085244985594252",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 31,
+          "retweets": 3,
+          "replies": 5,
+          "quotes": 3,
+          "views": 11585
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 20,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 1,
+        "views": 8412
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058163882078646322",
+      "url": "https://x.com/DrJackKruse/status/2058163882078646322",
+      "created_at": "2026-05-23T12:31:22.000Z",
+      "text": "Savages, pay attention https://t.co/UMwyYDxWzJ",
+      "lang": "fr",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2058163882078646322",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2058122262986064345",
+        "url": "https://x.com/ze_rusty/status/2058122262986064345",
+        "created_at": "2026-05-23T09:46:00.000Z",
+        "text": "The human eye can detect a single photon (Tinsley, 2016)\n\nOne particle of light. Consciously perceived.\n\nYour rods are quantum detectors running at the absolute floor of what physics permits.\n\nBuilt for firelight, moonlight and stars. https://t.co/wfV8tmEl4e",
+        "lang": "en",
+        "author": {
+          "id": "606123788",
+          "username": "ze_rusty",
+          "name": "Rusty ⚡️: Solar Powered ☀️"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2058122262986064345",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 122,
+          "retweets": 17,
+          "replies": 1,
+          "quotes": 5,
+          "views": 12540
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 215,
+        "retweets": 23,
+        "replies": 3,
+        "quotes": 0,
+        "views": 9864
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2058154854447513828",
+      "url": "https://x.com/DrJackKruse/status/2058154854447513828",
+      "created_at": "2026-05-23T11:55:30.000Z",
+      "text": "New podcast between two clinicians about the biophysics of our patients in this modern world.  This was probably my most enjoyable podcast of 2026 because it was high level decentralized medicine at its finest.  \n\nhttps://t.co/tsF3mBMzko\n\nI'm greatful Nick asked me to to do this.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2058154854447513828",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 409,
+        "retweets": 91,
+        "replies": 16,
+        "quotes": 7,
+        "views": 22718
+      },
+      "thread_context": []
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kruse Report 23/05/2026</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    /* Dark theme (default) */
+    :root {
+      --bg-color: #0b0f19;
+      --card-bg: #151c2c;
+      --card-border: #202b42;
+      --card-border-hover: #2e3e5f;
+      --section-rule: #24314b;
+      --text-color: #f3f4f6;
+      --text-soft: #cbd5e1;
+      --text-body: #e5e7eb;
+      --text-muted: #9ca3af;
+      --accent-color: #3b82f6;
+      --accent-hover: #60a5fa;
+      --locked-color: #4b5563;
+      --tag-bg: #1e293b;
+      --quote-bg: #0f1524;
+      --quote-rule: #4b5563;
+      --expanded-bg: #0f1524;
+      --locked-grad-start: #151c2c;
+      --locked-grad-end: #111622;
+      --locked-dash: #2d3748;
+      --locked-badge-bg: #27272a;
+      --locked-badge-fg: #a1a1aa;
+      --footer-color: #6b7280;
+      --toggle-bg: rgba(255,255,255,0.06);
+      --toggle-border: rgba(255,255,255,0.12);
+    }
+    /* Light theme — toggled by class on <body> */
+    body.light {
+      --bg-color: #f9fafb;
+      --card-bg: #ffffff;
+      --card-border: #e5e7eb;
+      --card-border-hover: #cbd5e1;
+      --section-rule: #e5e7eb;
+      --text-color: #0f172a;
+      --text-soft: #334155;
+      --text-body: #1f2937;
+      --text-muted: #6b7280;
+      --accent-color: #2563eb;
+      --accent-hover: #1d4ed8;
+      --locked-color: #94a3b8;
+      --tag-bg: #eff6ff;
+      --quote-bg: #f1f5f9;
+      --quote-rule: #cbd5e1;
+      --expanded-bg: #f1f5f9;
+      --locked-grad-start: #ffffff;
+      --locked-grad-end: #f3f4f6;
+      --locked-dash: #cbd5e1;
+      --locked-badge-bg: #e5e7eb;
+      --locked-badge-fg: #475569;
+      --footer-color: #94a3b8;
+      --toggle-bg: rgba(0,0,0,0.04);
+      --toggle-border: rgba(0,0,0,0.12);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', sans-serif; }
+    body { background-color: var(--bg-color); color: var(--text-color); padding: 40px 20px; display: flex; justify-content: center; align-items: flex-start; min-height: 100vh; transition: background-color 0.2s ease, color 0.2s ease; }
+    .container { width: 100%; max-width: 650px; display: flex; flex-direction: column; gap: 20px; }
+    header { text-align: center; margin-bottom: 10px; position: relative; padding-top: 48px; }
+    h1 { font-size: 2.3rem; font-weight: 700; letter-spacing: -0.5px; background: linear-gradient(45deg, #3b82f6, #9333ea); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; margin-bottom: 4px; }
+    .subtitle { font-size: 1rem; color: var(--text-muted); font-weight: 300; }
+    .theme-toggle { position: absolute; top: 0; right: 0; background: var(--toggle-bg); border: 1px solid var(--toggle-border); color: var(--text-color); cursor: pointer; padding: 6px 10px; border-radius: 20px; font-size: 0.85rem; line-height: 1; transition: background 0.2s ease; }
+    .theme-toggle:hover { background: var(--card-border); }
+    .level-toggle { position: absolute; top: 0; left: 0; display: flex; gap: 4px; background: var(--toggle-bg); border: 1px solid var(--toggle-border); border-radius: 20px; padding: 3px; }
+    .level-toggle button { background: transparent; color: var(--text-muted); border: none; cursor: pointer; padding: 4px 10px; border-radius: 16px; font-size: 0.8rem; font-weight: 600; transition: background 0.15s ease, color 0.15s ease; }
+    .level-toggle button.active { background: var(--accent-color); color: #fff; }
+    .level-toggle button:hover:not(.active) { color: var(--text-color); }
+    /* Concept-level gating: pro reader hides noob-only chips; hacker hides all. */
+    body.level-pro .expandable-concept[data-concept-level="noob"],
+    body.level-hacker .expandable-concept[data-concept-level] {
+      color: inherit; border-bottom: none; cursor: default; font-weight: inherit; pointer-events: none;
+    }
+    body.level-pro .expanded-content[data-concept-level="noob"],
+    body.level-hacker .expanded-content { display: none !important; }
+    .section-title { font-size: 1.3rem; font-weight: 700; color: var(--accent-hover); border-bottom: 1px solid var(--section-rule); padding-bottom: 6px; margin-top: 10px; }
+    .card { background-color: var(--card-bg); border: 1px solid var(--card-border); border-radius: 12px; padding: 16px 20px; display: flex; flex-direction: column; gap: 10px; transition: border-color 0.2s ease, background-color 0.2s ease; }
+    .card:hover { border-color: var(--card-border-hover); }
+    .card-header { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .tag { background-color: var(--tag-bg); color: var(--accent-color); padding: 2px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; }
+    .source-link { font-size: 0.8rem; color: var(--text-muted); text-decoration: none; border-bottom: 1px dashed var(--text-muted); transition: all 0.2s ease; }
+    .source-link:hover { color: var(--accent-hover); border-bottom-color: var(--accent-hover); }
+    .item-text { font-size: 1rem; line-height: 1.45; color: var(--text-body); }
+    .source-quote { background: var(--quote-bg); border-left: 3px solid var(--quote-rule); border-radius: 4px 8px 8px 4px; padding: 10px 14px; font-style: italic; font-size: 0.92rem; color: var(--text-muted); }
+    .bullet-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px; }
+    .bullet-list li { position: relative; padding-left: 18px; line-height: 1.45; font-size: 1rem; }
+    .bullet-list li::before { content: "•"; color: var(--accent-color); font-weight: bold; position: absolute; left: 0; top: 0; }
+    .forum-item { display: flex; flex-direction: column; gap: 4px; }
+    .forum-meta { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+    .expandable-concept { color: var(--accent-hover); border-bottom: 1px dashed var(--accent-hover); cursor: pointer; font-weight: 600; }
+    .expanded-content { max-height: 0; overflow: hidden; background-color: var(--expanded-bg); border-radius: 6px; padding: 0 12px; transition: max-height 0.25s ease, padding 0.25s ease, margin 0.25s ease; font-size: 0.9rem; color: var(--text-soft); }
+    .expanded-content.open { max-height: 400px; padding: 10px 12px; margin-top: 6px; border-left: 3px solid var(--accent-color); }
+    .locked-section { background: linear-gradient(180deg, var(--locked-grad-start) 0%, var(--locked-grad-end) 100%); border: 1px dashed var(--locked-dash); border-radius: 12px; padding: 24px; text-align: center; opacity: 0.85; }
+    .locked-title { font-size: 1.1rem; font-weight: 600; color: var(--locked-color); margin-bottom: 4px; }
+    .locked-badge { font-size: 0.7rem; background-color: var(--locked-badge-bg); color: var(--locked-badge-fg); padding: 1px 6px; border-radius: 4px; font-weight: 700; margin-left: 6px; }
+    footer { text-align: center; color: var(--footer-color); font-size: 0.75rem; margin-top: 12px; }
+    footer a { color: var(--footer-color); }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="level-toggle" role="tablist" aria-label="Reader knowledge level">
+        <button type="button" data-level="noob"   aria-pressed="false">Noob</button>
+        <button type="button" data-level="pro"    aria-pressed="true">Pro</button>
+        <button type="button" data-level="hacker" aria-pressed="false">Hacker</button>
+      </div>
+      <button type="button" class="theme-toggle" id="themeToggle" aria-label="Toggle dark/light mode">🌙 Dark</button>
+      <h1>Kruse Report 23/05/2026</h1>
+      <div class="subtitle">Cutting-edge biophysical vectors. No entry-level fluff.</div>
+    </header>
+      <div class="section-title">Twitter Updates (17 from @DrJackKruse)</div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Quote</span>
+          <a href="https://x.com/DrJackKruse/status/2058229385182712070" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text">Sunrise.  Read the Leptin Rx----&amp;gt; https://t.co/CZD5vLf6ZN</div>
+        <div class="source-quote">
+      <strong>@realIvanPlease:</strong> @DrJackKruse Question: DJK, you said - eat within 30 min…  referring to within 30 min. of waking up?
+    </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Quote</span>
+          <a href="https://x.com/DrJackKruse/status/2058179732944908568" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text">What this implies for the tribe of savages:  The ORB tensor principal-axis geometry is the ultimate macro-scale mathematical proof that nature solves its energetic blockades through precise, non-linear geometric corrections.  
+
+This immense fluid friction at the 2,900km https://t.co/rStFhUACvC</div>
+        <div class="source-quote">
+      <strong>@zachariaspro:</strong> 
+    </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Quote</span>
+          <a href="https://x.com/DrJackKruse/status/2058174784911843656" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text">100% and in my pinned tweet.</div>
+        <div class="source-quote">
+      <strong>@calotonterias:</strong> Las personas que evitan el sol tienen el mismo riesgo de mortalidad que las personas que fuman.
+
+Necesitas sol. No es opcional.
+    </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Quote</span>
+          <a href="https://x.com/DrJackKruse/status/2058174669044265294" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text">Mastic gum solves it.</div>
+        <div class="source-quote">
+      <strong>@CaryKelly11:</strong> A cousin who had been a nurse for almost 40 years assured me that my acid reflux was because I had a weakened esophageal sphincter and that fatty and spicy foods were triggering my episodes.
+
+I believed her.
+
+One of my favorite dishes was a spicy shrimp diavolo and I was almost
+    </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Quote</span>
+          <a href="https://x.com/DrJackKruse/status/2058174219972722789" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text">If you listened to this pod you&#39;d know why this happens.  
+
+Lack of triplet oxygen and it affects Type 1 collagen. 
+
+https://t.co/tsF3mBMzko</div>
+        <div class="source-quote">
+      <strong>@DGr8Awakening:</strong> It&#39;s the skulls without a sagittal suture that tend to also have a larger (than &quot;normal&quot;) cranial capacity.  Leads one to believe that head-binding did not cause the deformation of the skull.
+    </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Quote</span>
+          <a href="https://x.com/DrJackKruse/status/2058172981730275719" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text">Home of the Free.  
+
+LOL</div>
+        <div class="source-quote">
+      <strong>@stevemagness:</strong> 84% of 11-year-olds aren&#39;t allowed to leave their street.
+
+53% can&#39;t leave their front yard.
+
+92% of 14-year-olds can&#39;t leave their neighborhood.
+
+We built a culture obsessed with safety. The result? A generation that&#39;s measurably more anxious: https://t.co/oygf4qk5yW
+    </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Quote</span>
+          <a href="https://x.com/DrJackKruse/status/2058172884636295531" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text">Anyone surprised?</div>
+        <div class="source-quote">
+      <strong>@MarioNawfal:</strong> 🇮🇱🇨🇾 Security at a Cyprus airport stopped a 24-year-old Israeli man and found 4 human embryos in his luggage, stored in a cryogenic container labeled &quot;Life Pack,&quot; bound for Mexico via Istanbul.
+
+The embryos came from an IVF clinic in northern Nicosia operating without proper
+    </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Retweet</span>
+          <a href="https://x.com/DrJackKruse/status/2058171977483919817" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text">RT @zachariaspro: Derivation of the Post-Transition Rotational Equilibrium Axis from the Outer Rotating Body Inertia Tensor and the State I…</div>
+        
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Quote</span>
+          <a href="https://x.com/DrJackKruse/status/2058170080811217086" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text">This assumes a flip over an excursion.</div>
+        <div class="source-quote">
+      <strong>@zachariaspro:</strong> State 2 pole locations &amp;amp; climate zones, per the calculations in Paper 5. Will be posting my research shortly.
+
+Currently writing a non-technical version so everyone can hopefully understand it
+    </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Quote</span>
+          <a href="https://x.com/DrJackKruse/status/2058169656054042656" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text">Going in the sun give you the same result in a few minutes. https://t.co/pjgqDf4C5w</div>
+        <div class="source-quote">
+      <strong>@askgodswill:</strong> After 6 nights of sleeping 6 hours, insulin sensitivity drops by 25%.
+
+Not 6 months. 6 NIGHTS.
+
+Your pancreas sees this as a metabolic emergency — cortisol rises, fasting glucose climbs, and adiponectin signaling collapses.
+
+Most people are walking around with sleep-induced
+    </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Quote</span>
+          <a href="https://x.com/DrJackKruse/status/2058169404207038952" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text">To understand why this happened the answer is in thei podcast.  In fact, I call HK in it.  Have a listen Savages.  
+
+https://t.co/tsF3mBMzko</div>
+        <div class="source-quote">
+      <strong>@heidiklessigmd:</strong> Jahi McMath is the best documented case of recovery from brain death. She was properly diagnosed as being brain dead according to the AAN brain death diagnostic guideline. One of the 3 doctors who diagnosed her was the chief of child neurology at Stanford. She had 4 flatline EEGs
+    </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Quote</span>
+          <a href="https://x.com/DrJackKruse/status/2058169057514291657" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text">Hiw work is folded into my decentralized thesis.</div>
+        <div class="source-quote">
+      <strong>@PhysInHistory:</strong> Thank this man for digital communication, data compression (ZIP, MP3), coding theory, and cryptography.
+
+Claude Shannon’s biggest scientific contribution was the creation of information theory in his 1948 paper “A Mathematical Theory of Communication.”
+
+He defined “information”
+    </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Quote</span>
+          <a href="https://x.com/DrJackKruse/status/2058168935812366448" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text">Alo is a Rockefeller clown.</div>
+        <div class="source-quote">
+      <strong>@AmmousMD:</strong> Never mention diet or light.
+
+It&#39;s all about the pills.
+    </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Quote</span>
+          <a href="https://x.com/DrJackKruse/status/2058168679112605990" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text">100%</div>
+        <div class="source-quote">
+      <strong>@Rainmaker1973:</strong> Fun fact.
+
+Oil and gas may not be &#39;fossil fuels&#39;, but renewable energy source created by a geothermal reaction between the solid mantle and liquid core.
+
+This is according to the abiogenic petroleum origin hypothesis, that posits that petroleum and natural gas are formed from
+    </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Quote</span>
+          <a href="https://x.com/DrJackKruse/status/2058164146147872779" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text">This trader scammer believes pure nonsense.</div>
+        <div class="source-quote">
+      <strong>@gemoscatelli:</strong> Good morning: cancer cells ferment glucose and glutamine, their defective mitochondria can&#39;t generate energy from fatty acids.
+This has been proven multiple times experimentally.
+Cut glucose, ingest saturated fats, kill cancer cells.
+    </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Quote</span>
+          <a href="https://x.com/DrJackKruse/status/2058163882078646322" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text">Savages, pay attention</div>
+        <div class="source-quote">
+      <strong>@ze_rusty:</strong> The human eye can detect a single photon (Tinsley, 2016)
+
+One particle of light. Consciously perceived.
+
+Your rods are quantum detectors running at the absolute floor of what physics permits.
+
+Built for firelight, moonlight and stars.
+    </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Post</span>
+          <a href="https://x.com/DrJackKruse/status/2058154854447513828" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text">New podcast between two clinicians about the biophysics of our patients in this modern world.  This was probably my most enjoyable podcast of 2026 because it was high level decentralized medicine at its finest.  
+
+https://t.co/tsF3mBMzko
+
+I&#39;m greatful Nick asked me to to do this.</div>
+        
+      </div>
+      <div class="section-title">Forum Updates (32 new in last 24h)</div>
+      <div class="card"><ul class="bullet-list"><li>
+      <div class="forum-item">
+        <div class="forum-meta">
+          <strong>TAP ZAP : Block Blue light &amp; Stop PWM flicker on Mac/Windows:</strong>
+          <a href="https://forum.jackkruse.com/threads/tap-zap-block-blue-light-stop-pwm-flicker-on-mac-windows.32809/unread" target="_blank" class="source-link">See full thread →</a>
+        </div>
+        <div class="item-text" style="color:var(--text-muted);font-size:0.85rem;">@Natalie G · Rusty</div>
+      </div>
+    </li><li>
+      <div class="forum-item">
+        <div class="forum-meta">
+          <strong>Jack Kruse Podcast Curriculum - Youtube Edition V1:</strong>
+          <a href="https://forum.jackkruse.com/threads/jack-kruse-podcast-curriculum-youtube-edition-v1.23331/unread" target="_blank" class="source-link">See full thread →</a>
+        </div>
+        <div class="item-text" style="color:var(--text-muted);font-size:0.85rem;">@SaigonTwin · OliverGruener2</div>
+      </div>
+    </li><li>
+      <div class="forum-item">
+        <div class="forum-meta">
+          <strong>MDRN-Life Deuterium-Depleted Water Scam Warning:</strong>
+          <a href="https://forum.jackkruse.com/threads/mdrn-life-deuterium-depleted-water-scam-warning.31710/unread" target="_blank" class="source-link">See full thread →</a>
+        </div>
+        <div class="item-text" style="color:var(--text-muted);font-size:0.85rem;">@rchu · Patrick S.</div>
+      </div>
+    </li><li>
+      <div class="forum-item">
+        <div class="forum-meta">
+          <strong>ALL THINGS EL SALVADOR:</strong>
+          <a href="https://forum.jackkruse.com/threads/all-things-el-salvador.26387/unread" target="_blank" class="source-link">See full thread →</a>
+        </div>
+        <div class="item-text" style="color:var(--text-muted);font-size:0.85rem;">@Jaime C · Jack Kruse</div>
+      </div>
+    </li><li>
+      <div class="forum-item">
+        <div class="forum-meta">
+          <strong>Emmanuela’s journal:</strong>
+          <a href="https://forum.jackkruse.com/threads/emmanuela%E2%80%99s-journal.28948/unread" target="_blank" class="source-link">See full thread →</a>
+        </div>
+        <div class="item-text" style="color:var(--text-muted);font-size:0.85rem;">@Emmanuela · Emmanuela</div>
+      </div>
+    </li><li>
+      <div class="forum-item">
+        <div class="forum-meta">
+          <strong>Fascia, Joints and Deuterium:</strong>
+          <a href="https://forum.jackkruse.com/threads/fascia-joints-and-deuterium.32557/unread" target="_blank" class="source-link">See full thread →</a>
+        </div>
+        <div class="item-text" style="color:var(--text-muted);font-size:0.85rem;">@Carly18 · Kathleenharris</div>
+      </div>
+    </li><li>
+      <div class="forum-item">
+        <div class="forum-meta">
+          <strong>Kathleen’s optimal journal:</strong>
+          <a href="https://forum.jackkruse.com/threads/kathleen%E2%80%99s-optimal-journal.31612/unread" target="_blank" class="source-link">See full thread →</a>
+        </div>
+        <div class="item-text" style="color:var(--text-muted);font-size:0.85rem;">@Kathleenharris · Kathleenharris</div>
+      </div>
+    </li><li>
+      <div class="forum-item">
+        <div class="forum-meta">
+          <strong>Alpha-Stim:</strong>
+          <a href="https://forum.jackkruse.com/threads/alpha-stim.17939/unread" target="_blank" class="source-link">See full thread →</a>
+        </div>
+        <div class="item-text" style="color:var(--text-muted);font-size:0.85rem;">@Redfish3 · colt</div>
+      </div>
+    </li></ul></div>
+    <div class="locked-section">
+      <div class="locked-title">
+        <span>Interact with Report (Ask AI)</span>
+        <span class="locked-badge">Soon</span>
+      </div>
+    </div>
+    <footer>
+      Auto-generated by <a href="https://github.com/guyHouri/kruse-ai-scrape">kruse-ai-scrape</a>.
+      Source: <a href="https://x.com/DrJackKruse">@DrJackKruse</a>.
+    </footer>
+  </div>
+  <script>
+    function toggleConcept(id) {
+      var el = document.getElementById(id);
+      if (el) el.classList.toggle('open');
+    }
+    (function () {
+      var btn = document.getElementById('themeToggle');
+      var saved = null;
+      try { saved = localStorage.getItem('kruse-theme'); } catch (e) {}
+      if (saved === 'light') document.body.classList.add('light');
+      function syncLabel() {
+        if (!btn) return;
+        btn.textContent = document.body.classList.contains('light') ? '☀ Light' : '🌙 Dark';
+      }
+      syncLabel();
+      if (btn) btn.addEventListener('click', function () {
+        document.body.classList.toggle('light');
+        try { localStorage.setItem('kruse-theme', document.body.classList.contains('light') ? 'light' : 'dark'); } catch (e) {}
+        syncLabel();
+      });
+    })();
+    (function () {
+      var savedLevel = null;
+      try { savedLevel = localStorage.getItem('kruse-level'); } catch (e) {}
+      var initial = (savedLevel === 'noob' || savedLevel === 'pro' || savedLevel === 'hacker') ? savedLevel : 'pro';
+      function apply(level) {
+        document.body.classList.remove('level-noob', 'level-pro', 'level-hacker');
+        document.body.classList.add('level-' + level);
+        var btns = document.querySelectorAll('.level-toggle button');
+        for (var i = 0; i < btns.length; i++) {
+          var on = btns[i].getAttribute('data-level') === level;
+          btns[i].classList.toggle('active', on);
+          btns[i].setAttribute('aria-pressed', on ? 'true' : 'false');
+        }
+        try { localStorage.setItem('kruse-level', level); } catch (e) {}
+      }
+      apply(initial);
+      var btns = document.querySelectorAll('.level-toggle button');
+      for (var i = 0; i < btns.length; i++) {
+        (function (b) {
+          b.addEventListener('click', function () { apply(b.getAttribute('data-level')); });
+        })(btns[i]);
+      }
+    })();
+  </script>
+</body>
+</html>
