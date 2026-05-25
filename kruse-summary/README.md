@@ -1,161 +1,242 @@
 # kruse-summary
 
-Daily email newsletter pipeline. It reads scraped daily tweets from
-`../twitter_to_md/data`, optionally reads forum daily activity from
-`../forum_to_md/daily`, renders a v2-styled HTML report, and can mail it to
-the list about one hour before local sunrise.
-
-Hosted on GitHub Actions: no local cron, no server.
+Daily report pipeline. It reads scraped tweets from `../twitter_to_md/data`,
+optionally reads forum activity from `../forum_to_md/daily`, creates a curated
+summary JSON, renders HTML, and can email the report before local sunrise.
 
 ## Flow
 
-1. GitHub Actions cron fires every 30 minutes from 02:00-04:30 UTC.
-2. `main.js` chooses the report date, defaulting to the current UTC day.
-3. If `--use-ai` is set, the module builds `curated/<date>-input.json` from a
-   rolling 24-hour tweet/forum window, runs the default chained Anthropic
-   editorial pipeline, validates the returned summary shape, and writes
-   `curated/<date>.json`.
-4. Otherwise it loads `curated/<date>.json` when present, or falls back to raw
-   tweet cards.
-5. `code/build-report.js` writes `out/<date>.html`.
-6. Unless this is build-only or force mode, `code/sunrise.js` checks the send
-   window. If the sunrise API is unavailable, the run skips sending and lets the
-   next cron attempt try again.
-7. `code/email.js` sends via Gmail SMTP and `code/state.js` marks
-   `last-sent.json`.
+1. `main.js` chooses the report date, defaulting to current `REPORT_TIME_ZONE`.
+2. With `--use-ai`, `code/build-input.js` creates
+   `curated/<date>-input.json` from a 24-hour tweet/forum window.
+3. `code/summarize.js` saves podcast URLs to
+   `curated/<date>-podcasts.json`.
+4. `prompts/select-system.md` classifies every tweet/forum item and selects
+   useful source-bound signal packets.
+5. Code gates out podcast-deferred and low-priority items.
+6. `prompts/write-system.md` writes source-grouped `Twitter Updates` and
+   `Forum Updates` cards to `curated/<date>-draft.json`.
+7. `prompts/explain-system.md` detects scientific/medical/technical terms
+   dynamically and adds concept explanations.
+8. Code verifies selection coverage, source IDs, forum URLs, source quotes,
+   citations, podcast leakage, and required scientific explanations.
+9. `code/build-report.js` renders `out/<date>.html`.
+10. In send mode, `code/sunrise.js`, `code/email.js`, and `code/state.js`
+   handle sunrise window, Gmail, and idempotency.
 
-Forum updates render by default when the curated summary has `forum.bullets`.
-Set `INCLUDE_FORUM=false` only when you want to hide them.
+## Important Docs
+
+- [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) - short current architecture:
+  what, how, and why.
+- [`docs/REQUEST_TRACE.md`](docs/REQUEST_TRACE.md) - detailed requirement map.
 
 ## Files
 
 ```text
 kruse-summary/
-  main.js                 # orchestrator
-  settings.js             # env-driven knobs
-  mailing_list.json       # BCC recipients
-  last-sent.json          # idempotency state
+  main.js
+  settings.js
   code/
-    build-input.js        # tweet/forum JSON -> curated/<date>-input.json
-    compact.js            # compact tweet JSON for LLM input
-    summarize.js          # Anthropic prompt chain + defensive JSON parsing
-    build-report.js       # summary/raw JSON -> standalone HTML
-    sunrise.js            # sunrise API + send-window check
-    email.js              # nodemailer Gmail SMTP
-    state.js              # last-sent persistence
+    build-input.js
+    compact.js
+    summarize.js
+    build-report.js
+    sunrise.js
+    email.js
+    state.js
     logger.js
   prompts/
-    select-system.md      # pass 1: keep/drop source items
-    evidence-system.md    # pass 2: extract usable evidence notes
-    write-system.md       # pass 3: write renderer JSON draft
-    editor-system.md      # pass 4: final editorial referee
-    summarize-system.md   # legacy one-shot Claude instructions
-    output-schema.json    # renderer-facing summary contract
-    examples/
-      golden-deconstruction.md
-  curated/                # hand/AI summaries and AI input JSON
-  out/                    # generated HTML and failed AI raw dumps
+    select-system.md
+    write-system.md
+    explain-system.md
+    output-schema.json
+  docs/
+    ARCHITECTURE.md
+    REQUEST_TRACE.md
+  curated/
+  out/
 ```
 
 ## Setup
 
-1. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-2. Copy `.env.example` to `.env` and fill credentials as needed:
-
-   ```bash
-   cp .env.example .env
-   ```
-
-3. Required only for sending:
-
-   ```text
-   GMAIL_USER
-   GMAIL_APP_PASSWORD
-   ```
-
-4. Required only for `--use-ai`:
-
-   ```text
-   ANTHROPIC_API_KEY
-   ```
-
-Optional knobs include `SCRAPED_DATA_DIR`, `FORUM_DAILY_DIR`,
-`INCLUDE_FORUM=true`, `LOCATION_LAT`, `LOCATION_LON`,
-`PRE_SUNRISE_MINUTES`, `TOLERANCE_MINUTES`, `ANTHROPIC_MODEL`,
-`ANTHROPIC_MAX_TOKENS`, `SUMMARY_WINDOW_HOURS`, `KRUSE_AI_PIPELINE`, and
-`KRUSE_AI_SELECTION_MIN_PRIORITY`.
-
-`KRUSE_AI_PIPELINE=chain` is the default. It runs selection -> evidence ->
-writer -> editor and writes inspectable intermediate files:
-
-```text
-curated/<date>-selection-audit.json
-curated/<date>-selection-gated.json
-curated/<date>-evidence-notes.json
-curated/<date>-draft.json
-curated/<date>.json
+```bash
+npm install
+cp .env.example .env
 ```
 
-Set `KRUSE_AI_PIPELINE=single` only when you want to compare against the older
-one-shot prompt in `prompts/summarize-system.md`.
+Required only for email:
 
-`KRUSE_AI_SELECTION_MIN_PRIORITY=4` means low-priority selector items stay in
-the audit but do not proceed into evidence/writing. This keeps thin one-liners
-and clever-but-useless cards from wasting later tokens.
+```text
+GMAIL_USER
+GMAIL_APP_PASSWORD
+```
+
+Required only for AI summaries:
+
+```text
+ANTHROPIC_API_KEY
+```
+
+Useful optional env vars:
+
+```text
+SCRAPED_DATA_DIR=../twitter_to_md/data
+FORUM_DAILY_DIR=../forum_to_md/daily
+KRUSE_BLOG_SERIES_DIR=../private/kemono_to_md/processed_mds/blog_series
+KRUSE_BLOG_ARTICLES_PATH=../private/kemono_to_md/articles.json
+SUMMARY_WINDOW_HOURS=24
+REPORT_TIME_ZONE=Asia/Jerusalem
+KRUSE_AI_SELECTION_MIN_PRIORITY=3
+ANTHROPIC_MODEL=claude-haiku-4-5
+ANTHROPIC_MAX_TOKENS=20000
+KRUSE_SITE_PUBLIC_BASE_URL=https://guyhouri.github.io/kruse-ai-scrape
+KRUSE_SITE_FORM_ENDPOINT=https://formsubmit.co/guyhouri.tech@gmail.com
+```
 
 ## Commands
 
-From PowerShell on Windows, use `npm.cmd ...` if `npm ...` is blocked by the
-script execution policy.
-
 ```bash
-# Build HTML only. No sunrise check, no email.
+# Build HTML from existing curated JSON or raw fallback.
 npm run build
 
-# Same as above, Windows PowerShell-safe.
-npm.cmd run build
-
-# Build the AI input JSON manually.
+# Build daily AI input JSON only.
 npm run build-input -- 2026-05-24
 
-# Build HTML using AI. This auto-builds curated/<date>-input.json first.
+# Build HTML using Anthropic. This writes curated/<date>.json after validation.
 npm run build-ai -- --date=2026-05-24
 
-# Compare with the old one-shot AI prompt in PowerShell.
-$env:KRUSE_AI_PIPELINE='single'; npm.cmd run build-ai -- --date=2026-05-24
+# Build the static public report archive website.
+npm run build-site
+
+# Build and publish the static site to GitHub Pages.
+npm run deploy-site
 
 # Normal scheduled behavior: build, check sunrise window, send only if allowed.
 npm start
 
 # Bypass sunrise and last-sent gates, then send.
 npm run force-send
-
-# Send the newest hand-authored v2 HTML as a pipeline smoke test.
-npm run v2-test
 ```
 
-## GitHub Actions Secrets
+PowerShell may block `npm`; use `npm.cmd` in that case.
 
-| Secret | Purpose |
-|---|---|
-| `XAPI_BEARER_TOKEN` | Used by the sibling Twitter scraper. |
-| `GMAIL_USER` | Sending Gmail address. |
-| `GMAIL_APP_PASSWORD` | Gmail app password, not the account password. |
-| `ANTHROPIC_API_KEY` | Required only when the workflow uses `--use-ai`. |
+## Public Report Site
 
-## Notes
+`npm run build-site` writes a static website to `site/`.
 
-- `curated/<date>.json` is the renderer contract. The schema lives at
-  `prompts/output-schema.json`.
-- `curated/2026-05-24.json` is the current quality reference: it was manually
-  curated after prompt feedback and should be treated as the target style for
-  API-generated summaries.
-- Failed AI parse/validation attempts save the raw model text to
-  `out/<date>-ai-raw.txt`.
-- If a model response is truncated, increase `ANTHROPIC_MAX_TOKENS` or tighten
-  `prompts/summarize-system.md`.
+Free public hosting path:
+
+- Build with `npm run build-site`.
+- Publish `site/` to GitHub Pages from the `gh-pages` branch.
+- Public URL: `https://guyhouri.github.io/kruse-ai-scrape/`.
+
+The signup and feedback forms post to `KRUSE_SITE_FORM_ENDPOINT`. The default
+uses FormSubmit. Signups are automatically synced into `mailing_list.json` when
+`FORMSUBMIT_API_KEY` is configured; the daily GitHub Action runs that sync before
+sending.
+
+Current default:
+
+```text
+KRUSE_SITE_FORM_ENDPOINT=https://formsubmit.co/guyhouri.tech@gmail.com
+```
+
+FormSubmit emails a copy of every submission to `guyhouri.tech@gmail.com`.
+Search Gmail for these subjects when debugging:
+
+```text
+Kruse report mailing-list request
+Kruse report request - YYYY-MM-DD
+Kruse report feedback - YYYY-MM-DD
+```
+
+The per-report forms also send hidden fields:
+
+```text
+form-name=kruse-report-interest | kruse-report-feedback
+report_date=YYYY-MM-DD
+report_url=https://guyhouri.github.io/kruse-ai-scrape/reports/YYYY-MM-DD.html
+```
+
+FormSubmit may send a one-time activation email the first time the public form
+is submitted. Confirm it from Gmail; after that submissions should arrive as
+regular emails and appear in the archive API.
+
+To turn automatic signup sync on, request a FormSubmit API key to Gmail:
+
+```bash
+curl -X GET https://formsubmit.co/api/get-apikey/guyhouri.tech@gmail.com
+```
+
+Then use the emailed key:
+
+```bash
+curl -X GET https://formsubmit.co/api/get-submissions/<apikey>
+```
+
+Treat that API key like a password.
+
+Then add it as a GitHub repo secret:
+
+```text
+Settings -> Secrets and variables -> Actions -> New repository secret
+Name: FORMSUBMIT_API_KEY
+Value: <the key FormSubmit emailed>
+```
+
+The scheduled workflow runs:
+
+```bash
+npm run sync-mailing-list
+```
+
+That command fetches FormSubmit submissions, keeps only
+`kruse-report-interest`, merges new emails into `mailing_list.json`, and the
+workflow commits that file back to the repo. From that point, the next email
+send uses the updated list automatically.
+
+Run the sync locally:
+
+```bash
+cd kruse-summary
+FORMSUBMIT_API_KEY=<apikey> npm run sync-mailing-list
+```
+
+PowerShell:
+
+```powershell
+cd "D:\kruse\guy export\kruse-summary"
+$env:FORMSUBMIT_API_KEY="<apikey>"
+npm.cmd run sync-mailing-list
+```
+
+To publish manually:
+
+```bash
+cd kruse-summary
+npm run build-site
+npm run deploy-site
+```
+
+`npm run deploy-site` rebuilds `site/` and pushes that folder to the repository's
+`gh-pages` branch. GitHub Pages serves that branch at:
+
+```text
+https://guyhouri.github.io/kruse-ai-scrape/
+```
+
+## Output Contract
+
+`curated/<date>.json` is the renderer contract. The schema is
+`prompts/output-schema.json`.
+
+Every AI-generated card must have:
+
+- source IDs or forum URLs from the same-day input;
+- a `source_quote` found in the same-day source text;
+- citations only from same-day `source_citations`;
+- concept explanations for medical/scientific terms detected by the
+  science-explainer pass.
+
+Curated reports do not append raw forum posts. Forum signal must pass the same
+selection and card-writing process as tweets.

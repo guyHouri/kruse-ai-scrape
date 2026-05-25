@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Daily Kruse Summary — reads scraped tweets, renders v2-styled HTML, mails to a list 1h before sunrise.",
+  "description": "Daily Kruse Summary — reads scraped tweets, renders HTML, mails to a list 1h before sunrise.",
   "homepage": "https://github.com/guyhouri/kruse-ai-scrape",
   "repository": {
     "type": "git",
@@ -17,8 +17,10 @@
     "build": "node main.js --build-only",
     "build-ai": "node main.js --build-only --use-ai",
     "build-input": "node code/build-input.js",
-    "force-send": "node main.js --force",
-    "v2-test": "node main.js --send-v2-test"
+    "build-site": "node code/build-site.js",
+    "sync-mailing-list": "node code/sync-mailing-list.js",
+    "deploy-site": "npm run build-site && npx --yes gh-pages@latest -d site -b gh-pages -r https://github.com/guyHouri/kruse-ai-scrape.git --dotfiles -m \"Deploy Kruse report site\"",
+    "force-send": "node main.js --force"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.98.0",

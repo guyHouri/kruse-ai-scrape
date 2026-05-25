@@ -86,11 +86,13 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FORMSUBMIT_API_KEY: ${{ secrets.FORMSUBMIT_API_KEY }}
           LOCATION_LAT: ${{ vars.LOCATION_LAT }}
           LOCATION_LON: ${{ vars.LOCATION_LON }}
           INCLUDE_FORUM: 'true'
         run: |
           npm install
+          npm run sync-mailing-list
           MODE="${{ github.event.inputs.mode }}"
           DATE="${{ steps.target.outputs.date }}"
           DATE_FLAG=""
@@ -110,6 +112,6 @@ jobs:
         run: |
           git config user.name "kruse-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add twitter_to_md/data forum_to_md/daily kruse-summary/last-sent.json kruse-summary/out 2>/dev/null || true
+          git add twitter_to_md/data forum_to_md/daily kruse-summary/mailing_list.json kruse-summary/last-sent.json kruse-summary/out 2>/dev/null || true
           git diff --cached --quiet || git commit -m "daily: ${{ steps.target.outputs.date }}"
           git push || true

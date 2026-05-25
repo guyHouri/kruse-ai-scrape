@@ -1,0 +1,617 @@
+// Build a small static archive website from generated daily report HTML files.
+//
+// Output:
+//   site/index.html
+//   site/thanks.html
+//   site/reports/YYYY-MM-DD.html
+//   site/_redirects
+//   site/_headers
+//
+// Forms post to a configurable hosted form endpoint. The default uses the
+// public email in package metadata, which keeps the site free and static.
+
+import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
+import * as path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const OUT_DIR = path.join(ROOT, 'out');
+const CURATED_DIR = path.join(ROOT, 'curated');
+const SITE_DIR = path.join(ROOT, 'site');
+const SITE_REPORTS_DIR = path.join(SITE_DIR, 'reports');
+const SITE_LATEST_DIR = path.join(SITE_DIR, 'latest');
+const PUBLIC_BASE_URL = process.env.KRUSE_SITE_PUBLIC_BASE_URL || 'https://guyhouri.github.io/kruse-ai-scrape';
+const FORM_ENDPOINT = process.env.KRUSE_SITE_FORM_ENDPOINT || 'https://formsubmit.co/guyhouri.tech@gmail.com';
+
+function esc(value) {
+  return String(value ?? '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+function formatDate(date) {
+  return new Intl.DateTimeFormat('en-US', {
+    month: 'short',
+    day: 'numeric',
+    year: 'numeric',
+    timeZone: 'UTC',
+  }).format(new Date(`${date}T00:00:00Z`));
+}
+
+function publicUrl(relativePath) {
+  return new URL(relativePath.replace(/^\/+/, ''), `${PUBLIC_BASE_URL.replace(/\/+$/, '')}/`).toString();
+}
+
+function readSummary(date) {
+  const file = path.join(CURATED_DIR, `${date}.json`);
+  if (!existsSync(file)) return null;
+  try {
+    return JSON.parse(readFileSync(file, 'utf8'));
+  } catch {
+    return null;
+  }
+}
+
+function reportFiles() {
+  if (!existsSync(OUT_DIR)) return [];
+  return readdirSync(OUT_DIR)
+    .filter((name) => /^\d{4}-\d{2}-\d{2}\.html$/.test(name))
+    .sort()
+    .map((name) => {
+      const date = name.replace(/\.html$/, '');
+      const summary = readSummary(date);
+      return {
+        date,
+        name,
+        href: `reports/${name}`,
+        sourcePath: path.join(OUT_DIR, name),
+        headline: summary?.headline_subtitle || 'Daily Kruse report',
+      };
+    });
+}
+
+function renderReportCards(reports) {
+  return reports
+    .slice()
+    .reverse()
+    .map((report, index) => `
+      <a class="report-card${index === 0 ? ' latest' : ''}" href="${esc(report.href)}">
+        <span class="report-date">${esc(formatDate(report.date))}</span>
+        <strong>Kruse Report</strong>
+        <span class="report-summary">${esc(report.headline)}</span>
+        <span class="report-open">Open report</span>
+      </a>`)
+    .join('\n');
+}
+
+function renderIndex(reports) {
+  const latest = reports[reports.length - 1];
+  const latestHref = latest ? latest.href : '#';
+  const latestDate = latest ? formatDate(latest.date) : 'No reports yet';
+  const cards = reports.length
+    ? renderReportCards(reports)
+    : '<div class="empty">No reports have been generated yet.</div>';
+
+  return `<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kruse Daily Reports</title>
+  <meta name="description" content="Daily archive of Kruse report summaries." />
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #0b0f19;
+      --panel: #121a2a;
+      --panel-2: #172033;
+      --border: #26334d;
+      --text: #f4f7fb;
+      --soft: #c6d2e1;
+      --muted: #8fa0b5;
+      --accent: #4ea1ff;
+      --accent-2: #7bdcb5;
+      --danger: #ffbd7a;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background:
+        linear-gradient(180deg, rgba(78,161,255,0.14), transparent 260px),
+        radial-gradient(circle at top right, rgba(123,220,181,0.16), transparent 360px),
+        var(--bg);
+      color: var(--text);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    a { color: inherit; }
+    .shell { width: min(1120px, calc(100% - 32px)); margin: 0 auto; padding: 32px 0 56px; }
+    header {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      align-items: end;
+      gap: 24px;
+      padding: 24px 0 28px;
+      border-bottom: 1px solid var(--border);
+    }
+    h1 { margin: 0; font-size: clamp(2rem, 5vw, 4rem); line-height: 0.95; letter-spacing: 0; }
+    .subtitle { margin: 14px 0 0; max-width: 720px; color: var(--soft); font-size: 1.02rem; line-height: 1.55; }
+    .latest-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 44px;
+      padding: 0 16px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: var(--panel);
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+    main { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 28px; padding-top: 28px; align-items: start; }
+    .section-label { color: var(--muted); text-transform: uppercase; font-size: 0.78rem; letter-spacing: 0.08em; margin-bottom: 12px; font-weight: 800; }
+    .report-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 14px; }
+    .report-card {
+      min-height: 190px;
+      display: grid;
+      grid-template-rows: auto auto 1fr auto;
+      gap: 10px;
+      padding: 18px;
+      background: linear-gradient(180deg, var(--panel), var(--panel-2));
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      text-decoration: none;
+      transition: transform 0.16s ease, border-color 0.16s ease;
+    }
+    .report-card:hover { transform: translateY(-2px); border-color: var(--accent); }
+    .report-card.latest { border-color: rgba(123,220,181,0.58); }
+    .report-date { color: var(--accent-2); font-weight: 800; font-size: 0.9rem; }
+    .report-card strong { font-size: 1.35rem; line-height: 1.1; }
+    .report-summary { color: var(--soft); line-height: 1.45; }
+    .report-open { color: var(--accent); font-size: 0.92rem; font-weight: 800; }
+    .signup {
+      position: sticky;
+      top: 20px;
+      padding: 18px;
+      background: #101827;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+    }
+    .signup h2 { margin: 0 0 8px; font-size: 1.35rem; }
+    .signup p { margin: 0 0 16px; color: var(--soft); line-height: 1.45; }
+    label { display: block; margin: 12px 0 6px; color: var(--muted); font-size: 0.82rem; font-weight: 800; }
+    input, select {
+      width: 100%;
+      min-height: 42px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: #0d1422;
+      color: var(--text);
+      padding: 0 12px;
+      font: inherit;
+    }
+    button {
+      width: 100%;
+      margin-top: 16px;
+      min-height: 44px;
+      border: 0;
+      border-radius: 6px;
+      background: var(--accent);
+      color: #06101d;
+      font-weight: 900;
+      cursor: pointer;
+    }
+    .fine-print { margin-top: 12px; color: var(--muted); font-size: 0.8rem; line-height: 1.4; }
+    .empty {
+      padding: 20px;
+      border: 1px dashed var(--border);
+      border-radius: 8px;
+      color: var(--muted);
+    }
+    footer { margin-top: 44px; color: var(--muted); font-size: 0.85rem; }
+    @media (max-width: 820px) {
+      header { grid-template-columns: 1fr; align-items: start; }
+      main { grid-template-columns: 1fr; }
+      .signup { position: static; }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <header>
+      <div>
+        <h1>Kruse Daily Reports</h1>
+        <p class="subtitle">Daily source-bound summaries from Jack Kruse tweets and forum activity. Latest report: ${esc(latestDate)}.</p>
+      </div>
+      <a class="latest-link" href="${esc(latestHref)}">Open latest</a>
+    </header>
+    <main>
+      <section aria-labelledby="reports-title">
+        <div class="section-label" id="reports-title">Report archive</div>
+        <div class="report-grid">
+${cards}
+        </div>
+      </section>
+      <aside class="signup" aria-labelledby="signup-title">
+        <h2 id="signup-title">Get the report</h2>
+        <p>Leave an email and we will add you when daily delivery opens.</p>
+        <form name="kruse-report-interest" method="POST" action="${esc(FORM_ENDPOINT)}">
+          <input type="hidden" name="form-name" value="kruse-report-interest" />
+          <input type="hidden" name="_subject" value="Kruse report mailing-list request" />
+          <input type="hidden" name="_next" value="${esc(publicUrl('thanks.html'))}" />
+          <input type="hidden" name="_captcha" value="false" />
+          <input type="hidden" name="source_page" value="${esc(publicUrl('index.html'))}" />
+          <p style="display:none"><label>Company <input name="company" /></label></p>
+          <label for="name">Name</label>
+          <input id="name" name="name" autocomplete="name" />
+          <label for="email">Email</label>
+          <input id="email" name="email" type="email" autocomplete="email" required />
+          <label for="frequency">Delivery</label>
+          <select id="frequency" name="frequency">
+            <option>Daily</option>
+            <option>Only strong signal days</option>
+            <option>Weekly digest</option>
+          </select>
+          <button type="submit">Join list</button>
+        </form>
+        <div class="fine-print">Submissions are delivered by email for now, so no database is needed for this first version.</div>
+      </aside>
+    </main>
+    <footer>Built from ${reports.length} report${reports.length === 1 ? '' : 's'}.</footer>
+  </div>
+</body>
+</html>`;
+}
+
+function renderThanks() {
+  return `<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Thanks - Kruse Daily Reports</title>
+  <style>
+    body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: #0b0f19; color: #f4f7fb; font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
+    main { width: min(560px, calc(100% - 32px)); padding: 28px; border: 1px solid #26334d; border-radius: 8px; background: #121a2a; }
+    h1 { margin: 0 0 10px; font-size: 2rem; letter-spacing: 0; }
+    p { color: #c6d2e1; line-height: 1.55; }
+    a { color: #4ea1ff; font-weight: 800; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>You are on the list.</h1>
+    <p>Thanks. Your request was saved.</p>
+    <p><a href="/">Back to reports</a></p>
+  </main>
+</body>
+</html>`;
+}
+
+function renderLatestRedirect(latest) {
+  const target = latest ? `../reports/${latest.name}` : '../index.html';
+  return `<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Latest Kruse Report</title>
+  <meta http-equiv="refresh" content="0; url=${esc(target)}" />
+  <link rel="canonical" href="${esc(target)}" />
+  <style>
+    body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: #0b0f19; color: #f4f7fb; font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
+    a { color: #4ea1ff; font-weight: 800; }
+  </style>
+</head>
+<body>
+  <main>
+    <p>Opening the latest report. <a href="${esc(target)}">Open it manually</a>.</p>
+  </main>
+</body>
+</html>`;
+}
+
+function reportSiteChrome(report) {
+  const dateLabel = formatDate(report.date);
+  return {
+    style: `<style>
+    html { scroll-behavior: smooth; }
+    body {
+      padding: 32px 16px 48px !important;
+      flex-direction: column !important;
+      justify-content: flex-start !important;
+      align-items: flex-start !important;
+    }
+    body.site-drawer-open { overflow: hidden; }
+    .container {
+      max-width: 690px !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+    .site-menu-button {
+      position: fixed;
+      top: 16px;
+      left: 16px;
+      z-index: 80;
+      width: 44px;
+      height: 44px;
+      border: 1px solid #26334d;
+      border-radius: 8px;
+      background: rgba(18,26,42,0.96);
+      color: #f4f7fb;
+      font-size: 1.45rem;
+      line-height: 1;
+      cursor: pointer;
+      box-shadow: 0 12px 30px rgba(0,0,0,0.28);
+    }
+    .site-report-backdrop {
+      position: fixed;
+      inset: 0;
+      z-index: 88;
+      background: rgba(3,7,18,0.58);
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.18s ease;
+    }
+    .site-report-drawer {
+      position: fixed;
+      inset: 0 auto 0 0;
+      z-index: 90;
+      width: min(320px, calc(100vw - 48px));
+      padding: 18px;
+      background: #0b0f19;
+      border-right: 1px solid #26334d;
+      transform: translateX(-105%);
+      transition: transform 0.2s ease;
+      box-shadow: 24px 0 60px rgba(0,0,0,0.38);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    body.site-drawer-open .site-report-backdrop {
+      opacity: 1;
+      pointer-events: auto;
+    }
+    body.site-drawer-open .site-report-drawer { transform: translateX(0); }
+    .site-drawer-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 16px;
+      padding-bottom: 16px;
+      margin-bottom: 12px;
+      border-bottom: 1px solid #26334d;
+    }
+    .site-drawer-kicker {
+      margin-bottom: 4px;
+      color: #8fa0b5;
+      font-size: 0.78rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .site-drawer-title { color: #f4f7fb; font-size: 1rem; font-weight: 850; line-height: 1.25; }
+    .site-drawer-close {
+      width: 34px;
+      height: 34px;
+      flex: 0 0 auto;
+      border: 1px solid #26334d;
+      border-radius: 8px;
+      background: #121a2a;
+      color: #f4f7fb;
+      font-size: 1.3rem;
+      line-height: 1;
+      cursor: pointer;
+    }
+    .site-drawer-link {
+      display: block;
+      padding: 12px;
+      margin-bottom: 8px;
+      border: 1px solid #26334d;
+      border-radius: 8px;
+      background: #121a2a;
+      color: #f4f7fb;
+      text-decoration: none;
+    }
+    .site-drawer-link strong { display: block; font-size: 0.95rem; }
+    .site-drawer-link span { display: block; margin-top: 3px; color: #8fa0b5; font-size: 0.82rem; line-height: 1.35; }
+    .site-report-footer {
+      width: min(690px, calc(100% - 32px));
+      margin: 34px auto 48px;
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 16px;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .site-report-panel {
+      padding: 18px;
+      background: #121a2a;
+      border: 1px solid #26334d;
+      border-radius: 8px;
+      color: #f4f7fb;
+    }
+    .site-report-panel h2 {
+      margin: 0 0 8px;
+      color: #f4f7fb;
+      font-size: 1.2rem;
+      letter-spacing: 0;
+    }
+    .site-report-panel p { margin: 0 0 14px; color: #c6d2e1; line-height: 1.45; }
+    .site-report-panel label { display: block; margin: 10px 0 6px; color: #8fa0b5; font-size: 0.82rem; font-weight: 800; }
+    .site-report-panel input,
+    .site-report-panel textarea,
+    .site-report-panel select {
+      width: 100%;
+      min-height: 40px;
+      border: 1px solid #26334d;
+      border-radius: 6px;
+      background: #0d1422;
+      color: #f4f7fb;
+      padding: 0 10px;
+      font: inherit;
+    }
+    .site-report-panel textarea { min-height: 118px; padding: 10px; resize: vertical; }
+    .site-report-panel button {
+      width: 100%;
+      margin-top: 14px;
+      min-height: 42px;
+      border: 0;
+      border-radius: 6px;
+      background: #4ea1ff;
+      color: #06101d;
+      font-weight: 900;
+      cursor: pointer;
+    }
+    @media (max-width: 760px) {
+      body { padding: 24px 12px 40px !important; }
+      .site-menu-button { top: 12px; left: 12px; }
+      .site-report-footer { width: calc(100% - 24px); }
+    }
+  </style>`,
+    menu: `<button type="button" class="site-menu-button" id="siteMenuButton" aria-label="Open report menu" aria-controls="siteReportDrawer" aria-expanded="false">&#9776;</button>
+  <div class="site-report-backdrop" data-site-menu-close></div>
+  <nav class="site-report-drawer" id="siteReportDrawer" aria-label="Report menu">
+    <div class="site-drawer-header">
+      <div>
+        <div class="site-drawer-kicker">Kruse Report</div>
+        <div class="site-drawer-title">${esc(dateLabel)}</div>
+      </div>
+      <button type="button" class="site-drawer-close" data-site-menu-close aria-label="Close report menu">&times;</button>
+    </div>
+    <a class="site-drawer-link" href="../index.html"><strong>All reports</strong><span>Back to the archive.</span></a>
+    <a class="site-drawer-link" href="../latest/"><strong>Latest report</strong><span>Jump to the newest daily report.</span></a>
+    <a class="site-drawer-link" href="#get-report"><strong>Get this report</strong><span>Email signup lives at the end of this report.</span></a>
+    <a class="site-drawer-link" href="#report-feedback"><strong>Improve this report</strong><span>Leave feedback we can use later for prompt tuning.</span></a>
+  </nav>`,
+    footer: `<div class="site-report-footer">
+    <section class="site-report-panel" id="get-report" aria-labelledby="get-report-title">
+      <h2 id="get-report-title">Get this report</h2>
+      <p>Leave an email and we will add you when delivery opens.</p>
+      <form name="kruse-report-interest" method="POST" action="${esc(FORM_ENDPOINT)}">
+        <input type="hidden" name="form-name" value="kruse-report-interest" />
+        <input type="hidden" name="_subject" value="Kruse report request - ${esc(report.date)}" />
+        <input type="hidden" name="_next" value="${esc(publicUrl('thanks.html'))}" />
+        <input type="hidden" name="_captcha" value="false" />
+        <input type="hidden" name="report_date" value="${esc(report.date)}" />
+        <input type="hidden" name="report_url" value="${esc(publicUrl(`reports/${report.name}`))}" />
+        <p style="display:none"><label>Company <input name="company" /></label></p>
+        <label for="report-email-${esc(report.date)}">Email</label>
+        <input id="report-email-${esc(report.date)}" name="email" type="email" autocomplete="email" required />
+        <label for="report-frequency-${esc(report.date)}">Delivery</label>
+        <select id="report-frequency-${esc(report.date)}" name="frequency">
+          <option>Daily</option>
+          <option>Only strong signal days</option>
+          <option>Weekly digest</option>
+        </select>
+        <button type="submit">Join list</button>
+      </form>
+    </section>
+    <section class="site-report-panel" id="report-feedback" aria-labelledby="report-feedback-title">
+      <h2 id="report-feedback-title">Improve future reports</h2>
+      <p>Tell us what was useful, confusing, missing, or too AI-ish. We will use this later to tune prompts.</p>
+      <form name="kruse-report-feedback" method="POST" action="${esc(FORM_ENDPOINT)}">
+        <input type="hidden" name="form-name" value="kruse-report-feedback" />
+        <input type="hidden" name="_subject" value="Kruse report feedback - ${esc(report.date)}" />
+        <input type="hidden" name="_next" value="${esc(publicUrl('thanks.html'))}" />
+        <input type="hidden" name="_captcha" value="false" />
+        <input type="hidden" name="report_date" value="${esc(report.date)}" />
+        <input type="hidden" name="report_url" value="${esc(publicUrl(`reports/${report.name}`))}" />
+        <p style="display:none"><label>Website <input name="website" /></label></p>
+        <label for="feedback-rating-${esc(report.date)}">Overall</label>
+        <select id="feedback-rating-${esc(report.date)}" name="rating">
+          <option>Useful</option>
+          <option>Mixed</option>
+          <option>Bad</option>
+        </select>
+        <label for="feedback-text-${esc(report.date)}">Feedback</label>
+        <textarea id="feedback-text-${esc(report.date)}" name="feedback" required></textarea>
+        <label for="feedback-email-${esc(report.date)}">Email (optional)</label>
+        <input id="feedback-email-${esc(report.date)}" name="email" type="email" autocomplete="email" />
+        <button type="submit">Send feedback</button>
+      </form>
+    </section>
+  </div>`,
+    script: `<script>
+    (function () {
+      var button = document.getElementById('siteMenuButton');
+      var drawer = document.getElementById('siteReportDrawer');
+      if (!button || !drawer) return;
+
+      function setOpen(open) {
+        document.body.classList.toggle('site-drawer-open', open);
+        button.setAttribute('aria-expanded', open ? 'true' : 'false');
+        if (open) {
+          var focusTarget = drawer.querySelector('a, button');
+          if (focusTarget) focusTarget.focus();
+        } else {
+          button.focus();
+        }
+      }
+
+      button.addEventListener('click', function () {
+        setOpen(!document.body.classList.contains('site-drawer-open'));
+      });
+
+      var closeTargets = document.querySelectorAll('[data-site-menu-close], .site-drawer-link');
+      for (var i = 0; i < closeTargets.length; i++) {
+        closeTargets[i].addEventListener('click', function () { setOpen(false); });
+      }
+
+      document.addEventListener('keydown', function (event) {
+        if (event.key === 'Escape') setOpen(false);
+      });
+    })();
+  </script>`,
+  };
+}
+
+function decorateReportHtml(html, report) {
+  const chrome = reportSiteChrome(report);
+  let out = html;
+  if (out.includes('</head>')) out = out.replace('</head>', `${chrome.style}\n</head>`);
+  const headEnd = out.toLowerCase().indexOf('</head>');
+  const bodySearchStart = headEnd >= 0 ? headEnd : 0;
+  const bodyMatch = out.slice(bodySearchStart).match(/<body([^>]*)>/i);
+  if (bodyMatch) {
+    const bodyStart = bodySearchStart + bodyMatch.index;
+    const bodyEnd = bodyStart + bodyMatch[0].length;
+    out = `${out.slice(0, bodyStart)}<body${bodyMatch[1]}>\n${chrome.menu}${out.slice(bodyEnd)}`;
+  }
+  return out.includes('</body>')
+    ? out.replace('</body>', `${chrome.footer}\n${chrome.script}\n</body>`)
+    : `${out}\n${chrome.footer}\n${chrome.script}`;
+}
+
+function copyReports(reports) {
+  for (const report of reports) {
+    const html = readFileSync(report.sourcePath, 'utf8');
+    writeFileSync(path.join(SITE_REPORTS_DIR, report.name), decorateReportHtml(html, report), 'utf8');
+  }
+}
+
+function buildSite() {
+  const reports = reportFiles();
+  rmSync(SITE_DIR, { recursive: true, force: true });
+  mkdirSync(SITE_REPORTS_DIR, { recursive: true });
+  mkdirSync(SITE_LATEST_DIR, { recursive: true });
+  copyReports(reports);
+  writeFileSync(path.join(SITE_DIR, 'index.html'), renderIndex(reports), 'utf8');
+  writeFileSync(path.join(SITE_DIR, 'thanks.html'), renderThanks(), 'utf8');
+  writeFileSync(path.join(SITE_LATEST_DIR, 'index.html'), renderLatestRedirect(reports[reports.length - 1]), 'utf8');
+  writeFileSync(path.join(SITE_DIR, '.nojekyll'), '', 'utf8');
+  if (reports.length) {
+    const latest = reports[reports.length - 1];
+    writeFileSync(path.join(SITE_DIR, '_redirects'), `/latest /reports/${latest.name} 302\n/latest/ /reports/${latest.name} 302\n`, 'utf8');
+  }
+  writeFileSync(path.join(SITE_DIR, '_headers'), `/*
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+`, 'utf8');
+  console.log(`built site with ${reports.length} reports at ${path.relative(ROOT, SITE_DIR)}`);
+}
+
+buildSite();
