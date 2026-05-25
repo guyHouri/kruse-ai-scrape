@@ -90,7 +90,9 @@ KRUSE_AI_SELECTION_MIN_PRIORITY=3
 ANTHROPIC_MODEL=claude-haiku-4-5
 ANTHROPIC_MAX_TOKENS=20000
 KRUSE_SITE_PUBLIC_BASE_URL=https://guyhouri.github.io/kruse-ai-scrape
-KRUSE_SITE_FORM_ENDPOINT=https://formsubmit.co/guyhouri.tech@gmail.com
+GOOGLE_FORM_RESPONSES_CSV_URL=https://docs.google.com/spreadsheets/d/e/.../pub?output=csv
+KRUSE_GOOGLE_FORM_ACTION=https://docs.google.com/forms/d/e/<form-id>/formResponse
+KRUSE_GOOGLE_FORM_ENTRY_EMAIL=entry.333333333
 ```
 
 ## Commands
@@ -130,58 +132,64 @@ Free public hosting path:
 - Publish `site/` to GitHub Pages from the `gh-pages` branch.
 - Public URL: `https://guyhouri.github.io/kruse-ai-scrape/`.
 
-The signup and feedback forms post to `KRUSE_SITE_FORM_ENDPOINT`. The default
-uses FormSubmit. Signups are automatically synced into `mailing_list.json` when
-`FORMSUBMIT_API_KEY` is configured; the daily GitHub Action runs that sync before
-sending.
+The signup and feedback forms can post directly to Google Forms. A linked Google
+Sheet then becomes the source for automatic mailing-list sync.
 
-Current default:
+Create one Google Form with these fields:
 
 ```text
-KRUSE_SITE_FORM_ENDPOINT=https://formsubmit.co/guyhouri.tech@gmail.com
+Form name
+Name
+Email
+Delivery
+Report date
+Report URL
+Rating
+Feedback
 ```
 
-FormSubmit emails a copy of every submission to `guyhouri.tech@gmail.com`.
-Search Gmail for these subjects when debugging:
+Recommended choices:
 
 ```text
-Kruse report mailing-list request
-Kruse report request - YYYY-MM-DD
-Kruse report feedback - YYYY-MM-DD
+Form name: short answer
+Name: short answer
+Email: short answer
+Delivery: multiple choice with Daily, Only strong signal days, Weekly digest
+Report date: short answer
+Report URL: short answer
+Rating: multiple choice with Useful, Mixed, Bad
+Feedback: paragraph
 ```
 
-The per-report forms also send hidden fields:
+Use the Google Forms `formResponse` URL plus the field entry IDs as GitHub
+Actions variables:
 
 ```text
-form-name=kruse-report-interest | kruse-report-feedback
-report_date=YYYY-MM-DD
-report_url=https://guyhouri.github.io/kruse-ai-scrape/reports/YYYY-MM-DD.html
+KRUSE_GOOGLE_FORM_ACTION=https://docs.google.com/forms/d/e/<form-id>/formResponse
+KRUSE_GOOGLE_FORM_ENTRY_TYPE=entry.111111111
+KRUSE_GOOGLE_FORM_ENTRY_NAME=entry.222222222
+KRUSE_GOOGLE_FORM_ENTRY_EMAIL=entry.333333333
+KRUSE_GOOGLE_FORM_ENTRY_FREQUENCY=entry.444444444
+KRUSE_GOOGLE_FORM_ENTRY_REPORT_DATE=entry.555555555
+KRUSE_GOOGLE_FORM_ENTRY_REPORT_URL=entry.666666666
+KRUSE_GOOGLE_FORM_ENTRY_RATING=entry.777777777
+KRUSE_GOOGLE_FORM_ENTRY_FEEDBACK=entry.888888888
 ```
 
-FormSubmit may send a one-time activation email the first time the public form
-is submitted. Confirm it from Gmail; after that submissions should arrive as
-regular emails and appear in the archive API.
-
-To turn automatic signup sync on, request a FormSubmit API key to Gmail:
-
-```bash
-curl -X GET https://formsubmit.co/api/get-apikey/guyhouri.tech@gmail.com
-```
-
-Then use the emailed key:
-
-```bash
-curl -X GET https://formsubmit.co/api/get-submissions/<apikey>
-```
-
-Treat that API key like a password.
-
-Then add it as a GitHub repo secret:
+Then link the form to a Google Sheet and publish the responses sheet as CSV.
+Save that CSV URL as a GitHub Actions secret:
 
 ```text
-Settings -> Secrets and variables -> Actions -> New repository secret
-Name: FORMSUBMIT_API_KEY
-Value: <the key FormSubmit emailed>
+Name: GOOGLE_FORM_RESPONSES_CSV_URL
+Value: https://docs.google.com/spreadsheets/d/e/.../pub?output=csv
+```
+
+The public forms send these values:
+
+```text
+Form name=kruse-report-interest | kruse-report-feedback
+Report date=YYYY-MM-DD
+Report URL=https://guyhouri.github.io/kruse-ai-scrape/reports/YYYY-MM-DD.html
 ```
 
 The scheduled workflow runs:
@@ -190,23 +198,23 @@ The scheduled workflow runs:
 npm run sync-mailing-list
 ```
 
-That command fetches FormSubmit submissions, keeps only
-`kruse-report-interest`, merges new emails into `mailing_list.json`, and the
-workflow commits that file back to the repo. From that point, the next email
-send uses the updated list automatically.
+That command fetches the Google Sheet CSV, keeps only `kruse-report-interest`,
+merges new emails into `mailing_list.json`, and the workflow commits that file
+back to the repo. From that point, the next email send uses the updated list
+automatically.
 
 Run the sync locally:
 
 ```bash
 cd kruse-summary
-FORMSUBMIT_API_KEY=<apikey> npm run sync-mailing-list
+GOOGLE_FORM_RESPONSES_CSV_URL=<csv-url> npm run sync-mailing-list
 ```
 
 PowerShell:
 
 ```powershell
 cd "D:\kruse\guy export\kruse-summary"
-$env:FORMSUBMIT_API_KEY="<apikey>"
+$env:GOOGLE_FORM_RESPONSES_CSV_URL="<csv-url>"
 npm.cmd run sync-mailing-list
 ```
 

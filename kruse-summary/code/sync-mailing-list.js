@@ -1,12 +1,15 @@
-// Pull public signup submissions from FormSubmit and merge them into the
-// sender's canonical mailing_list.json.
+// Pull public signup submissions from Google Forms/Sheets or FormSubmit and
+// merge them into the sender's canonical mailing_list.json.
 
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import * as path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const MAILING_LIST_PATH = path.join(ROOT, process.env.MAILING_LIST_PATH || 'mailing_list.json');
+const MAILING_LIST_PATH = path.isAbsolute(process.env.MAILING_LIST_PATH || '')
+  ? process.env.MAILING_LIST_PATH
+  : path.join(ROOT, process.env.MAILING_LIST_PATH || 'mailing_list.json');
+const GOOGLE_SHEET_CSV_URL = process.env.GOOGLE_FORM_RESPONSES_CSV_URL || '';
 const API_KEY = process.env.FORMSUBMIT_API_KEY || '';
 const API_URL = process.env.FORMSUBMIT_SUBMISSIONS_URL || (
   API_KEY ? `https://formsubmit.co/api/get-submissions/${encodeURIComponent(API_KEY)}` : ''
@@ -21,9 +24,13 @@ function clean(value) {
   return String(value || '').trim();
 }
 
+function normalizeKey(value) {
+  return clean(value).toLowerCase().replace(/[^a-z0-9]+/g, '');
+}
+
 function loadMailingList() {
   if (!existsSync(MAILING_LIST_PATH)) return { recipients: [] };
-  const parsed = JSON.parse(readFileSync(MAILING_LIST_PATH, 'utf8'));
+  const parsed = JSON.parse(readFileSync(MAILING_LIST_PATH, 'utf8').replace(/^\uFEFF/, ''));
   if (!Array.isArray(parsed.recipients)) parsed.recipients = [];
   return parsed;
 }
@@ -64,6 +71,86 @@ function submissionToRecipient(submission) {
     reportUrl: clean(data.report_url || data.source_page),
     subscribedAt: submittedAtValue(submission),
   };
+}
+
+function parseCsv(text) {
+  const rows = [];
+  let row = [];
+  let field = '';
+  let inQuotes = false;
+
+  for (let i = 0; i < text.length; i += 1) {
+    const char = text[i];
+    const next = text[i + 1];
+    if (char === '"') {
+      if (inQuotes && next === '"') {
+        field += '"';
+        i += 1;
+      } else {
+        inQuotes = !inQuotes;
+      }
+    } else if (char === ',' && !inQuotes) {
+      row.push(field);
+      field = '';
+    } else if ((char === '\n' || char === '\r') && !inQuotes) {
+      if (char === '\r' && next === '\n') i += 1;
+      row.push(field);
+      if (row.some((cell) => clean(cell))) rows.push(row);
+      row = [];
+      field = '';
+    } else {
+      field += char;
+    }
+  }
+
+  row.push(field);
+  if (row.some((cell) => clean(cell))) rows.push(row);
+  return rows;
+}
+
+function rowValue(row, aliases) {
+  for (const alias of aliases) {
+    const value = row[normalizeKey(alias)];
+    if (value !== undefined && value !== null && clean(value)) return clean(value);
+  }
+  return '';
+}
+
+function googleRowToRecipient(row) {
+  const formName = rowValue(row, ['form-name', 'form name', 'type', 'submission type']).toLowerCase();
+  const feedback = rowValue(row, ['feedback', 'comment', 'comments']);
+  if (formName && formName !== 'kruse-report-interest') return null;
+  if (!formName && feedback) return null;
+
+  const email = normalizeEmail(rowValue(row, ['email', 'email address']));
+  if (!email) return null;
+
+  return {
+    email,
+    name: rowValue(row, ['name', 'full name']),
+    frequency: rowValue(row, ['delivery', 'frequency']) || 'Daily',
+    source: 'google-forms',
+    reportDate: rowValue(row, ['report date', 'report_date', 'date']),
+    reportUrl: rowValue(row, ['report url', 'report_url', 'source page']),
+    subscribedAt: rowValue(row, ['timestamp', 'submitted at', 'submitted_at']) || new Date().toISOString(),
+  };
+}
+
+async function fetchGoogleSheetRecipients() {
+  if (!GOOGLE_SHEET_CSV_URL) return null;
+  const response = await fetch(GOOGLE_SHEET_CSV_URL, { headers: { accept: 'text/csv' } });
+  if (!response.ok) {
+    throw new Error(`Google Sheet CSV returned ${response.status}: ${await response.text()}`);
+  }
+  const rows = parseCsv(await response.text());
+  if (!rows.length) return [];
+
+  const headers = rows[0].map(normalizeKey);
+  return rows.slice(1).map((cells) => {
+    const row = {};
+    for (let i = 0; i < headers.length; i += 1) row[headers[i]] = cells[i] || '';
+    return googleRowToRecipient(row);
+  }).filter(Boolean);
 }
 
 function mergeRecipients(current, incoming) {
@@ -110,8 +197,14 @@ function mergeRecipients(current, incoming) {
 }
 
 async function fetchSubmissions() {
+  const googleRecipients = await fetchGoogleSheetRecipients();
+  if (googleRecipients) {
+    console.log(`loaded ${googleRecipients.length} signup(s) from Google Sheet CSV.`);
+    return googleRecipients;
+  }
+
   if (!API_URL) {
-    console.log('FORMSUBMIT_API_KEY is not set; skipping mailing-list sync.');
+    console.log('GOOGLE_FORM_RESPONSES_CSV_URL/FORMSUBMIT_API_KEY are not set; skipping mailing-list sync.');
     return [];
   }
   const response = await fetch(API_URL, { headers: { accept: 'application/json' } });
@@ -127,7 +220,9 @@ async function fetchSubmissions() {
 
 async function main() {
   const submissions = await fetchSubmissions();
-  const incoming = submissions.map(submissionToRecipient).filter(Boolean);
+  const incoming = submissions.every((item) => item?.email)
+    ? submissions
+    : submissions.map(submissionToRecipient).filter(Boolean);
   const current = loadMailingList();
   const before = current.recipients.length;
   const { mailingList, added, updated } = mergeRecipients(current, incoming);

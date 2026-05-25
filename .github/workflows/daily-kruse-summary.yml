@@ -86,7 +86,8 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          FORMSUBMIT_API_KEY: ${{ secrets.FORMSUBMIT_API_KEY }}
+          GOOGLE_FORM_RESPONSES_CSV_URL: ${{ secrets.GOOGLE_FORM_RESPONSES_CSV_URL }}
+          KRUSE_SITE_PUBLIC_BASE_URL: https://guyhouri.github.io/kruse-ai-scrape
           LOCATION_LAT: ${{ vars.LOCATION_LAT }}
           LOCATION_LON: ${{ vars.LOCATION_LON }}
           INCLUDE_FORUM: 'true'
@@ -107,6 +108,29 @@ jobs:
             force)      node main.js --force --use-ai $DATE_FLAG ;;
             *)          node main.js --use-ai $DATE_FLAG ;;
           esac
+
+      - name: Build public report site
+        working-directory: kruse-summary
+        env:
+          KRUSE_SITE_PUBLIC_BASE_URL: https://guyhouri.github.io/kruse-ai-scrape
+          KRUSE_GOOGLE_FORM_ACTION: ${{ vars.KRUSE_GOOGLE_FORM_ACTION }}
+          KRUSE_GOOGLE_FORM_ENTRY_TYPE: ${{ vars.KRUSE_GOOGLE_FORM_ENTRY_TYPE }}
+          KRUSE_GOOGLE_FORM_ENTRY_NAME: ${{ vars.KRUSE_GOOGLE_FORM_ENTRY_NAME }}
+          KRUSE_GOOGLE_FORM_ENTRY_EMAIL: ${{ vars.KRUSE_GOOGLE_FORM_ENTRY_EMAIL }}
+          KRUSE_GOOGLE_FORM_ENTRY_FREQUENCY: ${{ vars.KRUSE_GOOGLE_FORM_ENTRY_FREQUENCY }}
+          KRUSE_GOOGLE_FORM_ENTRY_REPORT_DATE: ${{ vars.KRUSE_GOOGLE_FORM_ENTRY_REPORT_DATE }}
+          KRUSE_GOOGLE_FORM_ENTRY_REPORT_URL: ${{ vars.KRUSE_GOOGLE_FORM_ENTRY_REPORT_URL }}
+          KRUSE_GOOGLE_FORM_ENTRY_RATING: ${{ vars.KRUSE_GOOGLE_FORM_ENTRY_RATING }}
+          KRUSE_GOOGLE_FORM_ENTRY_FEEDBACK: ${{ vars.KRUSE_GOOGLE_FORM_ENTRY_FEEDBACK }}
+        run: npm run build-site
+
+      - name: Deploy public report site
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./kruse-summary/site
+          publish_branch: gh-pages
+          force_orphan: true
 
       - name: Commit data + state back to repo
         run: |
