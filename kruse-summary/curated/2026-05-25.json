@@ -1,0 +1,96 @@
+{
+  "headline_subtitle": "Optical switch dysfunction, deuterium tolerance, and skin cancer treatment preference",
+  "sections": [
+    {
+      "title": "Twitter Updates",
+      "cards": []
+    },
+    {
+      "title": "Forum Updates",
+      "cards": [
+        {
+          "tag": "Optical switch, deuterium, CCO",
+          "lead": "Broken optical switch prevents deuterium handling; CCO-mediated endogenous DDW becomes essential",
+          "body": "A patient with {{concept:primary immunodeficiency disorder}} cannot tolerate dietary or environmental deuterium because her {{concept:optical switch}} is damaged. Without a functional optical switch, she depends entirely on {{concept:CCO}} ({{concept:cytochrome c oxidase}}) to continuously generate her own {{concept:DDW}} ({{concept:deuterium-depleted water}}) internally. This mechanism explains why optical switch integrity determines whether a person can safely handle deuterium exposure.",
+          "points": [
+            "**Mechanism.** Broken optical switch -> inability to process deuterium -> reliance on CCO-driven endogenous DDW synthesis.",
+            "**Clinical signal.** Patients with optical switch dysfunction require continuous CCO function to produce their own deuterium-depleted water.",
+            "**Practical meaning.** Optical switch status may predict deuterium tolerance; CCO support becomes a critical intervention for affected patients."
+          ],
+          "concepts": {
+            "primary immunodeficiency disorder": {
+              "level": "noob",
+              "text": "A group of genetic conditions in which the immune system is deficient or absent, making the body unable to fight infections effectively."
+            },
+            "optical switch": {
+              "level": "pro",
+              "text": "A molecular mechanism in cells that responds to light and regulates metabolic pathways; dysfunction impairs the ability to handle deuterium."
+            },
+            "CCO": {
+              "level": "pro",
+              "text": "Cytochrome c oxidase, the final enzyme in the electron transport chain; produces energy and can generate deuterium-depleted water."
+            },
+            "cytochrome c oxidase": {
+              "level": "pro",
+              "text": "The final enzyme in the electron transport chain that transfers electrons and pumps protons to generate cellular energy; can produce deuterium-depleted water."
+            },
+            "DDW": {
+              "level": "pro",
+              "text": "Deuterium-depleted water; water with reduced deuterium (heavy hydrogen) content; can be produced endogenously by CCO."
+            },
+            "deuterium-depleted water": {
+              "level": "pro",
+              "text": "Water with reduced deuterium (heavy hydrogen) content; can be produced endogenously by CCO function."
+            }
+          },
+          "source_quote": "She cannot handle deuterium at all because her optical switch is broken. She needs CCO to always be making DDW and that is why the hack I gave you about DDW was my big clue.",
+          "citations": [],
+          "source_ids": [],
+          "source_urls": [
+            "https://forum.jackkruse.com/threads/potential-gene-therapy-for-primary-immunodeficiency-disorder.30343/unread"
+          ]
+        },
+        {
+          "tag": "Skin cancer, topical treatment",
+          "lead": "5-FU is the preferred topical choice for skin cancer over ivermectin or fenbendazole",
+          "body": "For {{concept:topical}} skin cancer treatment, {{concept:5-FU}} ({{concept:5-fluorouracil}}) is Jack's preferred option compared to topical {{concept:ivermectin}} or {{concept:fenbendazole}}. This direct treatment preference guides selection when choosing a topical modality for skin lesions.",
+          "points": [
+            "**Treatment.** 5-FU is the wiser topical choice for skin cancer.",
+            "**Practical meaning.** When evaluating topical agents for skin cancer, prioritize 5-FU over ivermectin or fenbendazole."
+          ],
+          "concepts": {
+            "topical": {
+              "level": "noob",
+              "text": "Applied directly to the skin surface; a route of administration for medications that act locally on skin lesions."
+            },
+            "5-FU": {
+              "level": "noob",
+              "text": "5-fluorouracil; a topical chemotherapy agent commonly used to treat precancerous and cancerous skin lesions."
+            },
+            "5-fluorouracil": {
+              "level": "noob",
+              "text": "A chemotherapy drug applied to the skin to treat precancerous and cancerous lesions by disrupting cancer cell growth."
+            },
+            "ivermectin": {
+              "level": "noob",
+              "text": "An antiparasitic medication sometimes used topically; less preferred than 5-FU for skin cancer treatment."
+            },
+            "fenbendazole": {
+              "level": "noob",
+              "text": "An antiparasitic drug; less preferred than 5-FU for topical skin cancer treatment."
+            }
+          },
+          "source_quote": "5-FU would be a wiser choice for the skin.",
+          "citations": [],
+          "source_ids": [],
+          "source_urls": [
+            "https://forum.jackkruse.com/threads/topical-ivermectin-and-fenbendazole-for-skin-cancers.32830/"
+          ]
+        }
+      ]
+    }
+  ],
+  "forum": {
+    "bullets": []
+  }
+}

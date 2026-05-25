@@ -122,7 +122,7 @@ async function main() {
   }
 
   await sendReportEmail({
-    subject: `Kruse pipeline ${dateDisplay} - today's report`,
+    subject: `Daily Kruse Summary - ${dateDisplay}`,
     html,
     dateDisplay,
   });

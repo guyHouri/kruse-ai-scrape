@@ -1,4 +1,4 @@
-// Pull public signup submissions from Google Forms/Sheets or FormSubmit and
+// Pull public signup submissions from a Google Forms response Sheet CSV and
 // merge them into the sender's canonical mailing_list.json.
 
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
@@ -10,10 +10,6 @@ const MAILING_LIST_PATH = path.isAbsolute(process.env.MAILING_LIST_PATH || '')
   ? process.env.MAILING_LIST_PATH
   : path.join(ROOT, process.env.MAILING_LIST_PATH || 'mailing_list.json');
 const GOOGLE_SHEET_CSV_URL = process.env.GOOGLE_FORM_RESPONSES_CSV_URL || '';
-const API_KEY = process.env.FORMSUBMIT_API_KEY || '';
-const API_URL = process.env.FORMSUBMIT_SUBMISSIONS_URL || (
-  API_KEY ? `https://formsubmit.co/api/get-submissions/${encodeURIComponent(API_KEY)}` : ''
-);
 
 function normalizeEmail(value) {
   const email = String(value || '').trim().toLowerCase();
@@ -203,26 +199,13 @@ async function fetchSubmissions() {
     return googleRecipients;
   }
 
-  if (!API_URL) {
-    console.log('GOOGLE_FORM_RESPONSES_CSV_URL/FORMSUBMIT_API_KEY are not set; skipping mailing-list sync.');
-    return [];
-  }
-  const response = await fetch(API_URL, { headers: { accept: 'application/json' } });
-  if (!response.ok) {
-    throw new Error(`FormSubmit API returned ${response.status}: ${await response.text()}`);
-  }
-  const payload = await response.json();
-  if (payload.success === false) {
-    throw new Error(`FormSubmit API error: ${payload.message || 'unknown error'}`);
-  }
-  return Array.isArray(payload.submissions) ? payload.submissions : [];
+  console.log('GOOGLE_FORM_RESPONSES_CSV_URL is not set; skipping mailing-list sync.');
+  return [];
 }
 
 async function main() {
   const submissions = await fetchSubmissions();
-  const incoming = submissions.every((item) => item?.email)
-    ? submissions
-    : submissions.map(submissionToRecipient).filter(Boolean);
+  const incoming = submissions;
   const current = loadMailingList();
   const before = current.recipients.length;
   const { mailingList, added, updated } = mergeRecipients(current, incoming);

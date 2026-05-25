@@ -109,6 +109,7 @@ jobs:
         working-directory: kruse-summary
         env:
           KRUSE_SITE_PUBLIC_BASE_URL: https://guyhouri.github.io/kruse-ai-scrape
+          KRUSE_GOOGLE_FORM_PUBLIC_URL: ${{ vars.KRUSE_GOOGLE_FORM_PUBLIC_URL }}
           KRUSE_GOOGLE_FORM_ACTION: ${{ vars.KRUSE_GOOGLE_FORM_ACTION }}
           KRUSE_GOOGLE_FORM_ENTRY_TYPE: ${{ vars.KRUSE_GOOGLE_FORM_ENTRY_TYPE }}
           KRUSE_GOOGLE_FORM_ENTRY_NAME: ${{ vars.KRUSE_GOOGLE_FORM_ENTRY_NAME }}

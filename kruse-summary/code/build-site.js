@@ -21,6 +21,7 @@ const SITE_DIR = path.join(ROOT, 'site');
 const SITE_REPORTS_DIR = path.join(SITE_DIR, 'reports');
 const SITE_LATEST_DIR = path.join(SITE_DIR, 'latest');
 const PUBLIC_BASE_URL = process.env.KRUSE_SITE_PUBLIC_BASE_URL || 'https://guyhouri.github.io/kruse-ai-scrape';
+const GOOGLE_FORM_PUBLIC_URL = process.env.KRUSE_GOOGLE_FORM_PUBLIC_URL || '';
 const GOOGLE_FORM_ACTION = process.env.KRUSE_GOOGLE_FORM_ACTION || '';
 const GOOGLE_FORM_ENTRIES = {
   type: process.env.KRUSE_GOOGLE_FORM_ENTRY_TYPE || '',
@@ -94,6 +95,14 @@ function disabledAttr(ready) {
 
 function submitLabel(ready, label) {
   return ready ? label : 'Signup backend pending';
+}
+
+function submitControl(ready, label, fallbackLabel) {
+  if (ready) return `<button type="submit">${esc(label)}</button>`;
+  if (GOOGLE_FORM_PUBLIC_URL) {
+    return `<a class="form-link" href="${esc(GOOGLE_FORM_PUBLIC_URL)}" target="_blank" rel="noopener">${esc(fallbackLabel)}</a>`;
+  }
+  return `<button type="submit" disabled>${esc(submitLabel(false, label))}</button>`;
 }
 
 function googleFormIframe() {
@@ -283,6 +292,19 @@ function renderIndex(reports) {
       cursor: pointer;
     }
     button:disabled { opacity: 0.55; cursor: not-allowed; }
+    .form-link {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      margin-top: 16px;
+      min-height: 44px;
+      border-radius: 6px;
+      background: var(--accent);
+      color: #06101d;
+      font-weight: 900;
+      text-decoration: none;
+    }
     .form-success { margin-top: 12px; color: var(--accent-2); font-size: 0.88rem; font-weight: 800; }
     .fine-print { margin-top: 12px; color: var(--muted); font-size: 0.8rem; line-height: 1.4; }
     .empty {
@@ -332,10 +354,10 @@ ${cards}
             <option>Only strong signal days</option>
             <option>Weekly digest</option>
           </select>
-          <button type="submit"${disabledAttr(signupReady)}>${esc(submitLabel(signupReady, 'Join list'))}</button>
+          ${submitControl(signupReady, 'Join list', 'Open signup form')}
           <div class="form-success" data-form-success hidden>Saved. You are on the list.</div>
         </form>
-        <div class="fine-print">${signupReady ? 'Submissions are saved to Google Forms and synced automatically into the mailing list.' : 'Google Forms signup backend is not configured yet.'}</div>
+        <div class="fine-print">${signupReady || GOOGLE_FORM_PUBLIC_URL ? 'Submissions are saved to Google Forms and synced automatically into the mailing list.' : 'Google Forms signup backend is not configured yet.'}</div>
       </aside>
     </main>
     <footer>Built from ${reports.length} report${reports.length === 1 ? '' : 's'}.</footer>
@@ -546,6 +568,19 @@ function reportSiteChrome(report) {
       cursor: pointer;
     }
     .site-report-panel button:disabled { opacity: 0.55; cursor: not-allowed; }
+    .site-report-panel .form-link {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      margin-top: 14px;
+      min-height: 42px;
+      border-radius: 6px;
+      background: #4ea1ff;
+      color: #06101d;
+      font-weight: 900;
+      text-decoration: none;
+    }
     .site-report-form-note { margin-top: 12px; color: #8fa0b5; font-size: 0.82rem; line-height: 1.4; }
     .site-report-form-success { margin-top: 12px; color: #7bdcb5; font-size: 0.88rem; font-weight: 800; }
     @media (max-width: 760px) {
@@ -586,10 +621,10 @@ function reportSiteChrome(report) {
           <option>Only strong signal days</option>
           <option>Weekly digest</option>
         </select>
-        <button type="submit"${disabledAttr(signupReady)}>${esc(submitLabel(signupReady, 'Join list'))}</button>
+        ${submitControl(signupReady, 'Join list', 'Open signup form')}
         <div class="site-report-form-success" data-form-success hidden>Saved. You are on the list.</div>
       </form>
-      <div class="site-report-form-note">${signupReady ? 'Saved to Google Forms and synced into the mailing list automatically.' : 'Google Forms signup backend is not configured yet.'}</div>
+      <div class="site-report-form-note">${signupReady || GOOGLE_FORM_PUBLIC_URL ? 'Saved to Google Forms and synced into the mailing list automatically.' : 'Google Forms signup backend is not configured yet.'}</div>
     </section>
     <section class="site-report-panel" id="report-feedback" aria-labelledby="report-feedback-title">
       <h2 id="report-feedback-title">Improve future reports</h2>
@@ -609,10 +644,10 @@ function reportSiteChrome(report) {
         <textarea id="feedback-text-${esc(report.date)}" name="${esc(inputName(GOOGLE_FORM_ENTRIES.feedback, 'feedback'))}" required${disabledAttr(feedbackReady)}></textarea>
         <label for="feedback-email-${esc(report.date)}">Email (optional)</label>
         <input id="feedback-email-${esc(report.date)}" name="${esc(inputName(GOOGLE_FORM_ENTRIES.email, 'email'))}" type="email" autocomplete="email"${disabledAttr(feedbackReady)} />
-        <button type="submit"${disabledAttr(feedbackReady)}>${esc(submitLabel(feedbackReady, 'Send feedback'))}</button>
+        ${submitControl(feedbackReady, 'Send feedback', 'Open feedback form')}
         <div class="site-report-form-success" data-form-success hidden>Saved. Thank you.</div>
       </form>
-      <div class="site-report-form-note">${feedbackReady ? 'Saved to Google Forms for later prompt tuning.' : 'Google Forms feedback backend is not configured yet.'}</div>
+      <div class="site-report-form-note">${feedbackReady || GOOGLE_FORM_PUBLIC_URL ? 'Saved to Google Forms for later prompt tuning.' : 'Google Forms feedback backend is not configured yet.'}</div>
     </section>
   </div>`,
     script: `<script>

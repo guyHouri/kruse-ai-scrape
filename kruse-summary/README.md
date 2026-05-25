@@ -176,6 +176,13 @@ KRUSE_GOOGLE_FORM_ENTRY_RATING=entry.777777777
 KRUSE_GOOGLE_FORM_ENTRY_FEEDBACK=entry.888888888
 ```
 
+Simpler first version: set only this variable and the website will link people
+to the hosted Google Form instead of using the custom in-page form:
+
+```text
+KRUSE_GOOGLE_FORM_PUBLIC_URL=https://docs.google.com/forms/d/e/<form-id>/viewform
+```
+
 Then link the form to a Google Sheet and publish the responses sheet as CSV.
 Save that CSV URL as a GitHub Actions secret:
 

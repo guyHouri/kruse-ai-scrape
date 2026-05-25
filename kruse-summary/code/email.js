@@ -52,57 +52,50 @@ function reportUrlForDateDisplay(dateDisplay) {
   return new URL(`reports/${date}.html`, `${PUBLIC_BASE_URL.replace(/\/+$/, '')}/`).toString();
 }
 
-// Build a short plain-text + minimal HTML body for the email itself, with
-// the full report attached as an HTML file. Gmail strips inline <script>
-// so attachment lets the user open the full interactive report in a browser.
-export async function sendReportEmail({ subject, html, dateDisplay, attachmentName, reportUrl }) {
+function displayName(recipient) {
+  return String(recipient?.name || '').trim() || 'there';
+}
+
+// Send a tiny link-only email. The public website is the source of truth; the
+// inbox should not receive the whole HTML report or an attachment.
+export async function sendReportEmail({ subject, dateDisplay, reportUrl }) {
   const recipients = loadMailingList();
   const transport = buildTransport();
-  const bcc = recipients.map((r) => r.email).join(', ');
-  info(`sending "${subject}" to ${recipients.length} recipient(s) via BCC`);
-
-  const filename = attachmentName || `kruse-report-${(dateDisplay || 'today').replace(/\//g, '-')}.html`;
   const websiteUrl = reportUrl || reportUrlForDateDisplay(dateDisplay);
+  info(`sending "${subject}" to ${recipients.length} recipient(s) individually`);
 
-  const textBody = [
-    `Kruse pipeline ${dateDisplay || ''}`,
-    '',
-    `Website report: ${websiteUrl}`,
-    '',
-    'The full interactive report is attached as an HTML file.',
-    'Open the attachment in any browser for click-to-expand concepts.',
-    '',
-    'An inline preview follows below.',
-  ].join('\n');
+  const results = [];
+  for (const recipient of recipients) {
+    const name = displayName(recipient);
+    const textBody = [
+      `Hi ${name},`,
+      '',
+      '"Does Nature Make Mistakes?"',
+      '',
+      `Daily Kruse Summary ${dateDisplay || ''}:`,
+      websiteUrl,
+    ].join('\n');
 
-  const htmlWithLink = [
-    '<div style="margin:0 0 18px;padding:14px 16px;border:1px solid #26334d;border-radius:8px;background:#0b0f19;color:#f4f7fb;font-family:Inter,Arial,sans-serif">',
-    `<strong>Kruse pipeline ${dateDisplay || ''}</strong><br />`,
-    `<a href="${websiteUrl}" style="color:#4ea1ff;font-weight:700">Open today's website report</a>`,
-    '</div>',
-    html,
-  ].join('');
+    const htmlBody = [
+      `<p>Hi ${name},</p>`,
+      '<p><strong>"Does Nature Make Mistakes?"</strong></p>',
+      `<p><a href="${websiteUrl}">Daily Kruse Summary ${dateDisplay || ''}</a></p>`,
+    ].join('\n');
 
-  const info_ = await transport.sendMail({
-    from: `"${SETTINGS.fromName}" <${SETTINGS.gmailUser}>`,
-    to: SETTINGS.gmailUser,
-    bcc,
-    subject,
-    text: textBody,
-    html: htmlWithLink,
-    attachments: [
-      {
-        filename,
-        content: html,
-        contentType: 'text/html; charset=utf-8',
+    const info_ = await transport.sendMail({
+      from: `"${SETTINGS.fromName}" <${SETTINGS.gmailUser}>`,
+      to: recipient.email,
+      subject,
+      text: textBody,
+      html: htmlBody,
+      headers: {
+        'X-Kruse-Summary-Date': dateDisplay || '',
+        'X-Kruse-Report-Url': websiteUrl,
       },
-    ],
-    headers: {
-      'X-Kruse-Summary-Date': dateDisplay || '',
-      'X-Kruse-Report-Url': websiteUrl,
-    },
-  });
+    });
+    results.push(info_);
+    info(`sent to ${recipient.email}: messageId=${info_.messageId}, response=${info_.response}`);
+  }
 
-  info(`sent: messageId=${info_.messageId}, response=${info_.response}`);
-  return info_;
+  return results;
 }
