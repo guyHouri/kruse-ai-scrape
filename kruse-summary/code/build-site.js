@@ -7,8 +7,8 @@
 //   site/_redirects
 //   site/_headers
 //
-// Forms can post directly to Google Forms. Configure the Google Form action
-// and entry IDs via env vars; responses can then sync from the linked Sheet.
+// Forms can post directly to Supabase with a publishable key and insert-only
+// RLS policies. Google Forms remains as a fallback while migrating.
 
 import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import * as path from 'node:path';
@@ -21,6 +21,17 @@ const SITE_DIR = path.join(ROOT, 'site');
 const SITE_REPORTS_DIR = path.join(SITE_DIR, 'reports');
 const SITE_LATEST_DIR = path.join(SITE_DIR, 'latest');
 const PUBLIC_BASE_URL = process.env.KRUSE_SITE_PUBLIC_BASE_URL || 'https://guyhouri.github.io/kruse-ai-scrape';
+const DEFAULT_SUPABASE_URL = 'https://zpxhovwsswnjdjibcvsh.supabase.co';
+const DEFAULT_SUPABASE_PUBLISHABLE_KEY = 'sb_publishable_afhmZKXzerLWNYENUqsaFg_XfVWjODD';
+const SUPABASE_URL = process.env.NEXT_PUBLIC_SUPABASE_URL || process.env.SUPABASE_URL || DEFAULT_SUPABASE_URL;
+const SUPABASE_PUBLISHABLE_KEY =
+  process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY ||
+  process.env.SUPABASE_PUBLISHABLE_KEY ||
+  DEFAULT_SUPABASE_PUBLISHABLE_KEY;
+const SUPABASE_TABLES = {
+  mailingList: process.env.SUPABASE_MAILING_LIST_TABLE || 'kruse_mailing_list',
+  feedback: process.env.SUPABASE_FEEDBACK_TABLE || 'kruse_report_feedback',
+};
 const GOOGLE_FORM_PUBLIC_URL = process.env.KRUSE_GOOGLE_FORM_PUBLIC_URL || '';
 const GOOGLE_FORM_ACTION = process.env.KRUSE_GOOGLE_FORM_ACTION || '';
 const GOOGLE_FORM_ENTRIES = {
@@ -56,7 +67,11 @@ function publicUrl(relativePath) {
   return new URL(relativePath.replace(/^\/+/, ''), `${PUBLIC_BASE_URL.replace(/\/+$/, '')}/`).toString();
 }
 
-function isSignupFormReady() {
+function isSupabaseReady() {
+  return Boolean(SUPABASE_URL && SUPABASE_PUBLISHABLE_KEY);
+}
+
+function isGoogleSignupFormReady() {
   return Boolean(
     GOOGLE_FORM_ACTION &&
     GOOGLE_FORM_ENTRIES.type &&
@@ -65,7 +80,7 @@ function isSignupFormReady() {
   );
 }
 
-function isFeedbackFormReady() {
+function isGoogleFeedbackFormReady() {
   return Boolean(
     GOOGLE_FORM_ACTION &&
     GOOGLE_FORM_ENTRIES.type &&
@@ -75,18 +90,33 @@ function isFeedbackFormReady() {
   );
 }
 
+function isSignupFormReady() {
+  return isSupabaseReady() || isGoogleSignupFormReady();
+}
+
+function isFeedbackFormReady() {
+  return isSupabaseReady() || isGoogleFeedbackFormReady();
+}
+
 function googleHidden(entry, value) {
   return entry ? `<input type="hidden" name="${esc(entry)}" value="${esc(value)}" />` : '';
 }
 
-function formAttrs(ready) {
-  return ready
-    ? `method="POST" action="${esc(GOOGLE_FORM_ACTION)}" target="google-form-target" data-google-form="true"`
-    : 'onsubmit="return false" data-form-disabled="true"';
+function hiddenInput(field, value, googleEntry = '') {
+  return isSupabaseReady()
+    ? `<input type="hidden" name="${esc(field)}" value="${esc(value)}" />`
+    : googleHidden(googleEntry, value);
 }
 
-function inputName(entry, fallback) {
-  return entry || fallback;
+function fieldName(field, googleEntry = '') {
+  return isSupabaseReady() ? field : (googleEntry || field);
+}
+
+function formAttrs(kind, googleReady) {
+  if (isSupabaseReady()) return `method="POST" data-supabase-form="${esc(kind)}"`;
+  return googleReady
+    ? `method="POST" action="${esc(GOOGLE_FORM_ACTION)}" target="google-form-target" data-google-form="true"`
+    : 'onsubmit="return false" data-form-disabled="true"';
 }
 
 function disabledAttr(ready) {
@@ -106,13 +136,13 @@ function submitControl(ready, label, fallbackLabel) {
 }
 
 function googleFormIframe() {
-  return GOOGLE_FORM_ACTION
+  return !isSupabaseReady() && GOOGLE_FORM_ACTION
     ? '<iframe name="google-form-target" title="Google Forms submission target" style="display:none"></iframe>'
     : '';
 }
 
 function googleFormScript() {
-  return GOOGLE_FORM_ACTION
+  return !isSupabaseReady() && GOOGLE_FORM_ACTION
     ? `<script>
     (function () {
       document.addEventListener('submit', function (event) {
@@ -127,6 +157,128 @@ function googleFormScript() {
     })();
   </script>`
     : '';
+}
+
+function supabaseFormScript() {
+  if (!isSupabaseReady()) return '';
+  return `<script>
+    window.__KRUSE_SUPABASE = ${JSON.stringify({
+      url: SUPABASE_URL.replace(/\/+$/, ''),
+      key: SUPABASE_PUBLISHABLE_KEY,
+      tables: SUPABASE_TABLES,
+    })};
+    (function () {
+      var config = window.__KRUSE_SUPABASE;
+      if (!config || !config.url || !config.key) return;
+
+      function value(form, name) {
+        var field = form.querySelector('[name="' + name + '"]');
+        return field ? String(field.value || '').trim() : '';
+      }
+
+      function nullable(value) {
+        return value ? value : null;
+      }
+
+      function show(form, selector, text) {
+        var node = form.querySelector(selector);
+        if (!node) return;
+        if (text) node.textContent = text;
+        node.hidden = false;
+      }
+
+      function hide(form, selector) {
+        var node = form.querySelector(selector);
+        if (node) node.hidden = true;
+      }
+
+      function payloadFor(form, kind) {
+        var common = {
+          first_name: value(form, 'first_name'),
+          last_name: value(form, 'last_name'),
+          email: value(form, 'email').toLowerCase(),
+          comments: value(form, 'comments'),
+          report_date: nullable(value(form, 'report_date')),
+          report_url: nullable(value(form, 'report_url')),
+          page_url: window.location.href,
+          source: 'public-site'
+        };
+        if (kind === 'mailing-list') {
+          common.frequency = value(form, 'frequency') || 'Daily';
+          return common;
+        }
+        return {
+          first_name: common.first_name,
+          last_name: common.last_name,
+          email: nullable(common.email),
+          rating: value(form, 'rating') || 'Useful',
+          comments: common.comments,
+          report_date: common.report_date,
+          report_url: common.report_url,
+          page_url: common.page_url,
+          source: common.source
+        };
+      }
+
+      async function submitToSupabase(form, kind) {
+        var table = kind === 'feedback' ? config.tables.feedback : config.tables.mailingList;
+        var payload = payloadFor(form, kind);
+        var response = await fetch(config.url + '/rest/v1/' + encodeURIComponent(table), {
+          method: 'POST',
+          headers: {
+            apikey: config.key,
+            authorization: 'Bearer ' + config.key,
+            'content-type': 'application/json',
+            prefer: 'return=minimal'
+          },
+          body: JSON.stringify(payload)
+        });
+        if (!response.ok) {
+          var text = await response.text();
+          throw new Error(text || ('Supabase returned ' + response.status));
+        }
+      }
+
+      document.addEventListener('submit', async function (event) {
+        var form = event.target;
+        if (!form || !form.hasAttribute('data-supabase-form')) return;
+        event.preventDefault();
+
+        hide(form, '[data-form-success]');
+        hide(form, '[data-form-error]');
+
+        var trap = form.querySelector('input[name="company"], input[name="website"]');
+        if (trap && trap.value) {
+          form.reset();
+          show(form, '[data-form-success]');
+          return;
+        }
+
+        var button = form.querySelector('button[type="submit"]');
+        if (button) button.disabled = true;
+        try {
+          await submitToSupabase(form, form.getAttribute('data-supabase-form'));
+          form.reset();
+          show(form, '[data-form-success]');
+        } catch (err) {
+          console.error(err);
+          show(form, '[data-form-error]', 'Could not save. Please try again.');
+        } finally {
+          if (button) button.disabled = false;
+        }
+      });
+    })();
+  </script>`;
+}
+
+function formStorageNote(kind, ready) {
+  if (isSupabaseReady()) {
+    return kind === 'feedback'
+      ? 'Saved privately for prompt tuning.'
+      : 'Saved privately to the mailing list.';
+  }
+  if (ready || GOOGLE_FORM_PUBLIC_URL) return 'Saved to Google Forms and synced automatically.';
+  return 'Signup backend is not configured yet.';
 }
 
 function readSummary(date) {
@@ -270,7 +422,7 @@ function renderIndex(reports) {
     .signup h2 { margin: 0 0 8px; font-size: 1.35rem; }
     .signup p { margin: 0 0 16px; color: var(--soft); line-height: 1.45; }
     label { display: block; margin: 12px 0 6px; color: var(--muted); font-size: 0.82rem; font-weight: 800; }
-    input, select {
+    input, select, textarea {
       width: 100%;
       min-height: 42px;
       border: 1px solid var(--border);
@@ -280,6 +432,7 @@ function renderIndex(reports) {
       padding: 0 12px;
       font: inherit;
     }
+    textarea { min-height: 96px; padding: 10px 12px; resize: vertical; }
     button {
       width: 100%;
       margin-top: 16px;
@@ -306,6 +459,7 @@ function renderIndex(reports) {
       text-decoration: none;
     }
     .form-success { margin-top: 12px; color: var(--accent-2); font-size: 0.88rem; font-weight: 800; }
+    .form-error { margin-top: 12px; color: var(--danger); font-size: 0.88rem; font-weight: 800; }
     .fine-print { margin-top: 12px; color: var(--muted); font-size: 0.8rem; line-height: 1.4; }
     .empty {
       padding: 20px;
@@ -340,29 +494,35 @@ ${cards}
       <aside class="signup" aria-labelledby="signup-title">
         <h2 id="signup-title">Get the report</h2>
         <p>Leave an email and we will add you when daily delivery opens.</p>
-        <form name="kruse-report-interest" ${formAttrs(signupReady)}>
-          ${googleHidden(GOOGLE_FORM_ENTRIES.type, 'kruse-report-interest')}
-          ${googleHidden(GOOGLE_FORM_ENTRIES.reportUrl, publicUrl('index.html'))}
+        <form name="kruse-report-interest" ${formAttrs('mailing-list', isGoogleSignupFormReady())}>
+          ${hiddenInput('form_type', 'kruse-report-interest', GOOGLE_FORM_ENTRIES.type)}
+          ${hiddenInput('report_url', publicUrl('index.html'), GOOGLE_FORM_ENTRIES.reportUrl)}
           <p style="display:none"><label>Company <input name="company" /></label></p>
-          <label for="name">Name</label>
-          <input id="name" name="${esc(inputName(GOOGLE_FORM_ENTRIES.name, 'name'))}" autocomplete="name"${disabledAttr(signupReady)} />
+          <label for="first-name">First name</label>
+          <input id="first-name" name="${esc(fieldName('first_name', GOOGLE_FORM_ENTRIES.name))}" autocomplete="given-name"${disabledAttr(signupReady)} />
+          <label for="last-name">Last name</label>
+          <input id="last-name" name="${esc(fieldName('last_name'))}" autocomplete="family-name"${disabledAttr(signupReady)} />
           <label for="email">Email</label>
-          <input id="email" name="${esc(inputName(GOOGLE_FORM_ENTRIES.email, 'email'))}" type="email" autocomplete="email" required${disabledAttr(signupReady)} />
+          <input id="email" name="${esc(fieldName('email', GOOGLE_FORM_ENTRIES.email))}" type="email" autocomplete="email" required${disabledAttr(signupReady)} />
           <label for="frequency">Delivery</label>
-          <select id="frequency" name="${esc(inputName(GOOGLE_FORM_ENTRIES.frequency, 'frequency'))}"${disabledAttr(signupReady)}>
+          <select id="frequency" name="${esc(fieldName('frequency', GOOGLE_FORM_ENTRIES.frequency))}"${disabledAttr(signupReady)}>
             <option>Daily</option>
             <option>Only strong signal days</option>
             <option>Weekly digest</option>
           </select>
+          <label for="comments">Comments</label>
+          <textarea id="comments" name="${esc(fieldName('comments'))}"${disabledAttr(signupReady)}></textarea>
           ${submitControl(signupReady, 'Join list', 'Open signup form')}
           <div class="form-success" data-form-success hidden>Saved. You are on the list.</div>
+          <div class="form-error" data-form-error hidden>Could not save. Please try again.</div>
         </form>
-        <div class="fine-print">${signupReady || GOOGLE_FORM_PUBLIC_URL ? 'Submissions are saved to Google Forms and synced automatically into the mailing list.' : 'Google Forms signup backend is not configured yet.'}</div>
+        <div class="fine-print">${formStorageNote('mailing-list', signupReady)}</div>
       </aside>
     </main>
     <footer>Built from ${reports.length} report${reports.length === 1 ? '' : 's'}.</footer>
     ${googleFormIframe()}
   </div>
+  ${supabaseFormScript()}
   ${googleFormScript()}
 </body>
 </html>`;
@@ -583,6 +743,7 @@ function reportSiteChrome(report) {
     }
     .site-report-form-note { margin-top: 12px; color: #8fa0b5; font-size: 0.82rem; line-height: 1.4; }
     .site-report-form-success { margin-top: 12px; color: #7bdcb5; font-size: 0.88rem; font-weight: 800; }
+    .site-report-form-error { margin-top: 12px; color: #ffbd7a; font-size: 0.88rem; font-weight: 800; }
     @media (max-width: 760px) {
       body { padding: 24px 12px 40px !important; }
       .site-menu-button { top: 12px; left: 12px; }
@@ -608,46 +769,58 @@ function reportSiteChrome(report) {
     <section class="site-report-panel" id="get-report" aria-labelledby="get-report-title">
       <h2 id="get-report-title">Get this report</h2>
       <p>Leave an email and we will add you when delivery opens.</p>
-      <form name="kruse-report-interest" ${formAttrs(signupReady)}>
-        ${googleHidden(GOOGLE_FORM_ENTRIES.type, 'kruse-report-interest')}
-        ${googleHidden(GOOGLE_FORM_ENTRIES.reportDate, report.date)}
-        ${googleHidden(GOOGLE_FORM_ENTRIES.reportUrl, publicUrl(`reports/${report.name}`))}
+      <form name="kruse-report-interest" ${formAttrs('mailing-list', isGoogleSignupFormReady())}>
+        ${hiddenInput('form_type', 'kruse-report-interest', GOOGLE_FORM_ENTRIES.type)}
+        ${hiddenInput('report_date', report.date, GOOGLE_FORM_ENTRIES.reportDate)}
+        ${hiddenInput('report_url', publicUrl(`reports/${report.name}`), GOOGLE_FORM_ENTRIES.reportUrl)}
         <p style="display:none"><label>Company <input name="company" /></label></p>
+        <label for="report-first-name-${esc(report.date)}">First name</label>
+        <input id="report-first-name-${esc(report.date)}" name="${esc(fieldName('first_name', GOOGLE_FORM_ENTRIES.name))}" autocomplete="given-name"${disabledAttr(signupReady)} />
+        <label for="report-last-name-${esc(report.date)}">Last name</label>
+        <input id="report-last-name-${esc(report.date)}" name="${esc(fieldName('last_name'))}" autocomplete="family-name"${disabledAttr(signupReady)} />
         <label for="report-email-${esc(report.date)}">Email</label>
-        <input id="report-email-${esc(report.date)}" name="${esc(inputName(GOOGLE_FORM_ENTRIES.email, 'email'))}" type="email" autocomplete="email" required${disabledAttr(signupReady)} />
+        <input id="report-email-${esc(report.date)}" name="${esc(fieldName('email', GOOGLE_FORM_ENTRIES.email))}" type="email" autocomplete="email" required${disabledAttr(signupReady)} />
         <label for="report-frequency-${esc(report.date)}">Delivery</label>
-        <select id="report-frequency-${esc(report.date)}" name="${esc(inputName(GOOGLE_FORM_ENTRIES.frequency, 'frequency'))}"${disabledAttr(signupReady)}>
+        <select id="report-frequency-${esc(report.date)}" name="${esc(fieldName('frequency', GOOGLE_FORM_ENTRIES.frequency))}"${disabledAttr(signupReady)}>
           <option>Daily</option>
           <option>Only strong signal days</option>
           <option>Weekly digest</option>
         </select>
+        <label for="report-comments-${esc(report.date)}">Comments</label>
+        <textarea id="report-comments-${esc(report.date)}" name="${esc(fieldName('comments'))}"${disabledAttr(signupReady)}></textarea>
         ${submitControl(signupReady, 'Join list', 'Open signup form')}
         <div class="site-report-form-success" data-form-success hidden>Saved. You are on the list.</div>
+        <div class="site-report-form-error" data-form-error hidden>Could not save. Please try again.</div>
       </form>
-      <div class="site-report-form-note">${signupReady || GOOGLE_FORM_PUBLIC_URL ? 'Saved to Google Forms and synced into the mailing list automatically.' : 'Google Forms signup backend is not configured yet.'}</div>
+      <div class="site-report-form-note">${formStorageNote('mailing-list', signupReady)}</div>
     </section>
     <section class="site-report-panel" id="report-feedback" aria-labelledby="report-feedback-title">
       <h2 id="report-feedback-title">Improve future reports</h2>
       <p>Tell us what was useful, confusing, missing, or too AI-ish. We will use this later to tune prompts.</p>
-      <form name="kruse-report-feedback" ${formAttrs(feedbackReady)}>
-        ${googleHidden(GOOGLE_FORM_ENTRIES.type, 'kruse-report-feedback')}
-        ${googleHidden(GOOGLE_FORM_ENTRIES.reportDate, report.date)}
-        ${googleHidden(GOOGLE_FORM_ENTRIES.reportUrl, publicUrl(`reports/${report.name}`))}
+      <form name="kruse-report-feedback" ${formAttrs('feedback', isGoogleFeedbackFormReady())}>
+        ${hiddenInput('form_type', 'kruse-report-feedback', GOOGLE_FORM_ENTRIES.type)}
+        ${hiddenInput('report_date', report.date, GOOGLE_FORM_ENTRIES.reportDate)}
+        ${hiddenInput('report_url', publicUrl(`reports/${report.name}`), GOOGLE_FORM_ENTRIES.reportUrl)}
         <p style="display:none"><label>Website <input name="website" /></label></p>
+        <label for="feedback-first-name-${esc(report.date)}">First name</label>
+        <input id="feedback-first-name-${esc(report.date)}" name="${esc(fieldName('first_name', GOOGLE_FORM_ENTRIES.name))}" autocomplete="given-name"${disabledAttr(feedbackReady)} />
+        <label for="feedback-last-name-${esc(report.date)}">Last name</label>
+        <input id="feedback-last-name-${esc(report.date)}" name="${esc(fieldName('last_name'))}" autocomplete="family-name"${disabledAttr(feedbackReady)} />
         <label for="feedback-rating-${esc(report.date)}">Overall</label>
-        <select id="feedback-rating-${esc(report.date)}" name="${esc(inputName(GOOGLE_FORM_ENTRIES.rating, 'rating'))}"${disabledAttr(feedbackReady)}>
+        <select id="feedback-rating-${esc(report.date)}" name="${esc(fieldName('rating', GOOGLE_FORM_ENTRIES.rating))}"${disabledAttr(feedbackReady)}>
           <option>Useful</option>
           <option>Mixed</option>
           <option>Bad</option>
         </select>
         <label for="feedback-text-${esc(report.date)}">Feedback</label>
-        <textarea id="feedback-text-${esc(report.date)}" name="${esc(inputName(GOOGLE_FORM_ENTRIES.feedback, 'feedback'))}" required${disabledAttr(feedbackReady)}></textarea>
+        <textarea id="feedback-text-${esc(report.date)}" name="${esc(fieldName('comments', GOOGLE_FORM_ENTRIES.feedback))}" required${disabledAttr(feedbackReady)}></textarea>
         <label for="feedback-email-${esc(report.date)}">Email (optional)</label>
-        <input id="feedback-email-${esc(report.date)}" name="${esc(inputName(GOOGLE_FORM_ENTRIES.email, 'email'))}" type="email" autocomplete="email"${disabledAttr(feedbackReady)} />
+        <input id="feedback-email-${esc(report.date)}" name="${esc(fieldName('email', GOOGLE_FORM_ENTRIES.email))}" type="email" autocomplete="email"${disabledAttr(feedbackReady)} />
         ${submitControl(feedbackReady, 'Send feedback', 'Open feedback form')}
         <div class="site-report-form-success" data-form-success hidden>Saved. Thank you.</div>
+        <div class="site-report-form-error" data-form-error hidden>Could not save. Please try again.</div>
       </form>
-      <div class="site-report-form-note">${feedbackReady || GOOGLE_FORM_PUBLIC_URL ? 'Saved to Google Forms for later prompt tuning.' : 'Google Forms feedback backend is not configured yet.'}</div>
+      <div class="site-report-form-note">${formStorageNote('feedback', feedbackReady)}</div>
     </section>
   </div>`,
     script: `<script>
@@ -697,8 +870,8 @@ function decorateReportHtml(html, report) {
     out = `${out.slice(0, bodyStart)}<body${bodyMatch[1]}>\n${chrome.menu}\n${googleFormIframe()}${out.slice(bodyEnd)}`;
   }
   return out.includes('</body>')
-    ? out.replace('</body>', `${chrome.footer}\n${chrome.script}\n${googleFormScript()}\n</body>`)
-    : `${out}\n${chrome.footer}\n${chrome.script}\n${googleFormScript()}`;
+    ? out.replace('</body>', `${chrome.footer}\n${chrome.script}\n${supabaseFormScript()}\n${googleFormScript()}\n</body>`)
+    : `${out}\n${chrome.footer}\n${chrome.script}\n${supabaseFormScript()}\n${googleFormScript()}`;
 }
 
 function copyReports(reports) {

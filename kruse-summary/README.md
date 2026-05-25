@@ -90,11 +90,9 @@ KRUSE_AI_SELECTION_MIN_PRIORITY=3
 ANTHROPIC_MODEL=claude-haiku-4-5
 ANTHROPIC_MAX_TOKENS=20000
 KRUSE_SITE_PUBLIC_BASE_URL=https://guyhouri.github.io/kruse-ai-scrape
-GOOGLE_SHEET_ID=<private-form-response-sheet-id>
-GOOGLE_SHEET_RANGE=Form Responses 1!A:Z
-GOOGLE_SERVICE_ACCOUNT_JSON_BASE64=<base64-json-key>
-KRUSE_GOOGLE_FORM_ACTION=https://docs.google.com/forms/d/e/<form-id>/formResponse
-KRUSE_GOOGLE_FORM_ENTRY_EMAIL=entry.333333333
+NEXT_PUBLIC_SUPABASE_URL=https://<project-ref>.supabase.co
+NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=sb_publishable_...
+SUPABASE_SERVICE_ROLE_KEY=<service-role-key>
 ```
 
 ## Commands
@@ -134,100 +132,37 @@ Free public hosting path:
 - Publish `site/` to GitHub Pages from the `gh-pages` branch.
 - Public URL: `https://guyhouri.github.io/kruse-ai-scrape/`.
 
-The signup and feedback forms can post directly to Google Forms. A linked Google
-Sheet then becomes the source for automatic mailing-list sync.
+The signup and feedback forms post directly to Supabase from the static GitHub
+Pages site. This does not need a backend service as long as the tables are
+protected by RLS:
 
-Create one Google Form with these fields:
+- `kruse_mailing_list`: first name, last name, email, comments, delivery, report
+  date, report URL, page URL, and created timestamp.
+- `kruse_report_feedback`: first name, last name, optional email, rating,
+  comments, report date, report URL, page URL, and created timestamp.
 
-```text
-Form name
-Name
-Email
-Delivery
-Report date
-Report URL
-Rating
-Feedback
-```
+The browser receives only `NEXT_PUBLIC_SUPABASE_URL` and
+`NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY`. Public users have `INSERT` permission
+only. They cannot read, update, or delete either table.
 
-Recommended choices:
+For deployed builds, set these GitHub Actions variables:
 
 ```text
-Form name: short answer
-Name: short answer
-Email: short answer
-Delivery: multiple choice with Daily, Only strong signal days, Weekly digest
-Report date: short answer
-Report URL: short answer
-Rating: multiple choice with Useful, Mixed, Bad
-Feedback: paragraph
+NEXT_PUBLIC_SUPABASE_URL=https://<project-ref>.supabase.co
+NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=sb_publishable_...
+SUPABASE_MAILING_LIST_TABLE=kruse_mailing_list
+SUPABASE_FEEDBACK_TABLE=kruse_report_feedback
 ```
 
-Use the Google Forms `formResponse` URL plus the field entry IDs as GitHub
-Actions variables:
+For email delivery, the scheduled workflow can sync Supabase signups back into
+`mailing_list.json`. Set this GitHub Actions secret:
 
 ```text
-KRUSE_GOOGLE_FORM_ACTION=https://docs.google.com/forms/d/e/<form-id>/formResponse
-KRUSE_GOOGLE_FORM_ENTRY_TYPE=entry.111111111
-KRUSE_GOOGLE_FORM_ENTRY_NAME=entry.222222222
-KRUSE_GOOGLE_FORM_ENTRY_EMAIL=entry.333333333
-KRUSE_GOOGLE_FORM_ENTRY_FREQUENCY=entry.444444444
-KRUSE_GOOGLE_FORM_ENTRY_REPORT_DATE=entry.555555555
-KRUSE_GOOGLE_FORM_ENTRY_REPORT_URL=entry.666666666
-KRUSE_GOOGLE_FORM_ENTRY_RATING=entry.777777777
-KRUSE_GOOGLE_FORM_ENTRY_FEEDBACK=entry.888888888
+SUPABASE_SERVICE_ROLE_KEY=<service-role-key>
 ```
 
-Simpler first version: set only this variable and the website will link people
-to the hosted Google Form instead of using the custom in-page form:
-
-```text
-KRUSE_GOOGLE_FORM_PUBLIC_URL=https://docs.google.com/forms/d/e/<form-id>/viewform
-```
-
-Then link the form to a Google Sheet. The Sheet can stay private. Create a
-Google Cloud service account, enable Google Sheets API, download a JSON key, and
-share the private response Sheet with the service account's `client_email` as a
-Viewer.
-
-Save these as GitHub Actions secrets:
-
-```text
-Name: GOOGLE_SHEET_ID
-Value: the spreadsheet id from the response Sheet URL
-
-Name: GOOGLE_SERVICE_ACCOUNT_JSON_BASE64
-Value: base64 of the service account JSON key
-```
-
-Optional GitHub Actions variable:
-
-```text
-Name: GOOGLE_SHEET_RANGE
-Value: Form Responses 1!A:Z
-```
-
-PowerShell helper for the base64 secret:
-
-```powershell
-[Convert]::ToBase64String([IO.File]::ReadAllBytes("service-account.json"))
-```
-
-Fallback only: if you are comfortable publishing the response sheet as CSV, save
-that CSV URL as a GitHub Actions secret:
-
-```text
-Name: GOOGLE_FORM_RESPONSES_CSV_URL
-Value: https://docs.google.com/spreadsheets/d/e/.../pub?output=csv
-```
-
-The public forms send these values:
-
-```text
-Form name=kruse-report-interest | kruse-report-feedback
-Report date=YYYY-MM-DD
-Report URL=https://guyhouri.github.io/kruse-ai-scrape/reports/YYYY-MM-DD.html
-```
+The service-role key is server-only. Never put it in `NEXT_PUBLIC_*` variables
+or static HTML.
 
 The scheduled workflow runs:
 
@@ -235,25 +170,24 @@ The scheduled workflow runs:
 npm run sync-mailing-list
 ```
 
-That command first tries the private Google Sheet service-account path. If that
-is not configured, it falls back to the published CSV URL. It keeps only
-`kruse-report-interest`, merges new emails into `mailing_list.json`, and the
-workflow commits that file back to the repo. From that point, the next email
-send uses the updated list automatically.
+That command first tries Supabase with `SUPABASE_SERVICE_ROLE_KEY`. If that is
+not configured, it falls back to the older Google Sheet paths. It merges new
+emails into `mailing_list.json`, and the workflow commits that file back to the
+repo. From that point, the next email send uses the updated list automatically.
 
 Run the sync locally:
 
 ```bash
 cd kruse-summary
-GOOGLE_SHEET_ID=<sheet-id> GOOGLE_SERVICE_ACCOUNT_JSON_BASE64=<base64-json-key> npm run sync-mailing-list
+SUPABASE_URL=https://<project-ref>.supabase.co SUPABASE_SERVICE_ROLE_KEY=<service-role-key> npm run sync-mailing-list
 ```
 
 PowerShell:
 
 ```powershell
 cd "D:\kruse\guy export\kruse-summary"
-$env:GOOGLE_SHEET_ID="<sheet-id>"
-$env:GOOGLE_SERVICE_ACCOUNT_JSON_BASE64="<base64-json-key>"
+$env:SUPABASE_URL="https://<project-ref>.supabase.co"
+$env:SUPABASE_SERVICE_ROLE_KEY="<service-role-key>"
 npm.cmd run sync-mailing-list
 ```
 

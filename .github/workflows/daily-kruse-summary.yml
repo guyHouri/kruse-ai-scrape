@@ -88,6 +88,9 @@ jobs:
           GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
           GOOGLE_FORM_RESPONSES_CSV_URL: ${{ secrets.GOOGLE_FORM_RESPONSES_CSV_URL }}
           GOOGLE_SHEET_RANGE: ${{ vars.GOOGLE_SHEET_RANGE }}
+          SUPABASE_URL: https://zpxhovwsswnjdjibcvsh.supabase.co
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SUPABASE_MAILING_LIST_TABLE: kruse_mailing_list
           KRUSE_SITE_PUBLIC_BASE_URL: https://guyhouri.github.io/kruse-ai-scrape
           LOCATION_LAT: ${{ vars.LOCATION_LAT }}
           LOCATION_LON: ${{ vars.LOCATION_LON }}
@@ -123,6 +126,10 @@ jobs:
           KRUSE_GOOGLE_FORM_ENTRY_REPORT_URL: ${{ vars.KRUSE_GOOGLE_FORM_ENTRY_REPORT_URL }}
           KRUSE_GOOGLE_FORM_ENTRY_RATING: ${{ vars.KRUSE_GOOGLE_FORM_ENTRY_RATING }}
           KRUSE_GOOGLE_FORM_ENTRY_FEEDBACK: ${{ vars.KRUSE_GOOGLE_FORM_ENTRY_FEEDBACK }}
+          NEXT_PUBLIC_SUPABASE_URL: https://zpxhovwsswnjdjibcvsh.supabase.co
+          NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY: sb_publishable_afhmZKXzerLWNYENUqsaFg_XfVWjODD
+          SUPABASE_MAILING_LIST_TABLE: kruse_mailing_list
+          SUPABASE_FEEDBACK_TABLE: kruse_report_feedback
         run: npm run build-site
 
       - name: Deploy public report site

@@ -1,6 +1,6 @@
-// Pull signup submissions from a Google Forms response Sheet and merge them
-// into the sender's canonical mailing_list.json. Preferred path is a private
-// Google Sheet read by service account; a published CSV URL remains as fallback.
+// Pull signup submissions into the sender's canonical mailing_list.json.
+// Preferred path is Supabase with a service-role key. Google Forms / Sheets
+// remains as a fallback while migrating.
 
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { createSign } from 'node:crypto';
@@ -17,6 +17,9 @@ const GOOGLE_SERVICE_ACCOUNT_JSON_BASE64 = process.env.GOOGLE_SERVICE_ACCOUNT_JS
 const GOOGLE_SHEET_ID = process.env.GOOGLE_SHEET_ID || '';
 const GOOGLE_SHEET_RANGE = process.env.GOOGLE_SHEET_RANGE || 'Form Responses 1!A:Z';
 const SHEETS_READONLY_SCOPE = 'https://www.googleapis.com/auth/spreadsheets.readonly';
+const SUPABASE_URL = process.env.SUPABASE_URL || process.env.NEXT_PUBLIC_SUPABASE_URL || '';
+const SUPABASE_SERVICE_ROLE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY || '';
+const SUPABASE_MAILING_LIST_TABLE = process.env.SUPABASE_MAILING_LIST_TABLE || 'kruse_mailing_list';
 
 function normalizeEmail(value) {
   const email = String(value || '').trim().toLowerCase();
@@ -137,6 +140,62 @@ function googleRowToRecipient(row) {
     reportUrl: rowValue(row, ['report url', 'report_url', 'source page']),
     subscribedAt: rowValue(row, ['timestamp', 'submitted at', 'submitted_at']) || new Date().toISOString(),
   };
+}
+
+function nameFromParts(firstName, lastName) {
+  return [clean(firstName), clean(lastName)].filter(Boolean).join(' ');
+}
+
+function supabaseRowToRecipient(row) {
+  const email = normalizeEmail(row.email);
+  if (!email) return null;
+  return {
+    email,
+    name: nameFromParts(row.first_name, row.last_name),
+    comments: clean(row.comments),
+    frequency: clean(row.frequency) || 'Daily',
+    source: 'supabase',
+    reportDate: clean(row.report_date),
+    reportUrl: clean(row.report_url),
+    subscribedAt: clean(row.created_at) || new Date().toISOString(),
+  };
+}
+
+async function fetchSupabaseRecipients() {
+  if (!SUPABASE_URL && !SUPABASE_SERVICE_ROLE_KEY) return null;
+  if (!SUPABASE_SERVICE_ROLE_KEY) {
+    console.log('SUPABASE_SERVICE_ROLE_KEY is not set; skipping Supabase mailing-list sync.');
+    return null;
+  }
+  if (!SUPABASE_URL) {
+    throw new Error('Supabase sync needs SUPABASE_URL when SUPABASE_SERVICE_ROLE_KEY is set.');
+  }
+
+  const url = new URL(`/rest/v1/${SUPABASE_MAILING_LIST_TABLE}`, SUPABASE_URL.replace(/\/+$/, ''));
+  url.searchParams.set(
+    'select',
+    'email,first_name,last_name,comments,frequency,report_date,report_url,created_at'
+  );
+  url.searchParams.set('order', 'created_at.desc');
+
+  const response = await fetch(url, {
+    headers: {
+      apikey: SUPABASE_SERVICE_ROLE_KEY,
+      authorization: `Bearer ${SUPABASE_SERVICE_ROLE_KEY}`,
+    },
+  });
+  const bodyText = await response.text();
+  if (!response.ok) {
+    throw new Error(`Supabase mailing-list fetch returned ${response.status}: ${bodyText}`);
+  }
+
+  const rows = JSON.parse(bodyText);
+  const byEmail = new Map();
+  for (const row of rows) {
+    const recipient = supabaseRowToRecipient(row);
+    if (recipient && !byEmail.has(recipient.email)) byEmail.set(recipient.email, recipient);
+  }
+  return Array.from(byEmail.values());
 }
 
 function base64Url(value) {
@@ -265,6 +324,7 @@ function mergeRecipients(current, incoming) {
       name: recipient.name || existing.name,
       frequency: recipient.frequency || existing.frequency || 'Daily',
       source: existing.source || recipient.source,
+      comments: recipient.comments || existing.comments,
       reportDate: recipient.reportDate || existing.reportDate,
       reportUrl: recipient.reportUrl || existing.reportUrl,
       subscribedAt: existing.subscribedAt || recipient.subscribedAt,
@@ -286,6 +346,12 @@ function mergeRecipients(current, incoming) {
 }
 
 async function fetchSubmissions() {
+  const supabaseRecipients = await fetchSupabaseRecipients();
+  if (supabaseRecipients) {
+    console.log(`loaded ${supabaseRecipients.length} signup(s) from Supabase.`);
+    return supabaseRecipients;
+  }
+
   const privateGoogleRecipients = await fetchPrivateGoogleSheetRecipients();
   if (privateGoogleRecipients) {
     console.log(`loaded ${privateGoogleRecipients.length} signup(s) from private Google Sheet.`);
