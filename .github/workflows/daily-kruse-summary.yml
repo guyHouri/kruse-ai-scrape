@@ -14,7 +14,6 @@ on:
         options:
           - normal
           - force
-          - v2-test
           - build-only
       date:
         description: 'Report date (YYYY-MM-DD). Empty → today UTC for manual runs, yesterday UTC for cron.'
@@ -55,7 +54,6 @@ jobs:
           echo "Target date: $TARGET"
 
       - name: Scrape X tweets (skip if already cached)
-        if: github.event.inputs.mode != 'v2-test'
         working-directory: twitter_to_md
         env:
           XAPI_BEARER_TOKEN: ${{ secrets.XAPI_BEARER_TOKEN }}
@@ -70,7 +68,6 @@ jobs:
           node main.js --date=$TARGET
 
       - name: Scrape forum (last 24h)
-        if: github.event.inputs.mode != 'v2-test'
         working-directory: forum_to_md
         env:
           FORUM_USERNAME: ${{ secrets.FORUM_USERNAME }}
@@ -101,9 +98,8 @@ jobs:
           # Step 1: regenerate combined input JSON (tweets + forum) for the target date.
           node code/build-input.js $DATE
           # Step 2: build + maybe send. Default mode auto-calls Anthropic via --use-ai
-          # unless an explicit override flag is set (v2-test, build-only).
+          # unless build-only mode is selected.
           case "$MODE" in
-            v2-test)    node main.js --send-v2-test ;;
             build-only) node main.js --build-only --use-ai $DATE_FLAG ;;
             force)      node main.js --force --use-ai $DATE_FLAG ;;
             *)          node main.js --use-ai $DATE_FLAG ;;
