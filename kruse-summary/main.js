@@ -1,5 +1,5 @@
 // Orchestrator. Default flow:
-//   1. Decide which date the report covers (current UTC day by default).
+//   1. Decide which date the report covers (current REPORT_TIME_ZONE day by default).
 //   2. Check if today's send already happened — exit if so.
 //   3. Hit sunrise API; check we're inside the [target - tolerance, target + tolerance] window.
 //   4. Build HTML.
@@ -9,11 +9,9 @@
 // Flags:
 //   --build-only       build HTML, write to out/<date>.html, do NOT send
 //   --force            skip sunrise window check AND last-sent check
-//   --date=YYYY-MM-DD  override which date to report on (default = current UTC day)
-//   --send-v2-test     pipeline smoke test: email the static kruse-summary-v2 HTML
-//                      (skips scrape, build, sunrise gate, idempotency).
+//   --date=YYYY-MM-DD  override which date to report on
 
-import { mkdirSync, existsSync, writeFileSync, readFileSync, readdirSync } from 'node:fs';
+import { mkdirSync, existsSync, writeFileSync } from 'node:fs';
 import * as fs from 'node:fs';
 import * as path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -24,11 +22,19 @@ import { checkSendWindow } from './code/sunrise.js';
 import { sendReportEmail } from './code/email.js';
 import { alreadySent, markSent } from './code/state.js';
 import { summarizeDay } from './code/summarize.js';
+import { SETTINGS } from './settings.js';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)));
 
-function todayUtc() {
-  return new Date().toISOString().slice(0, 10);
+function todayInReportTimeZone() {
+  const parts = new Intl.DateTimeFormat('en-CA', {
+    timeZone: SETTINGS.reportTimeZone,
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  }).formatToParts(new Date());
+  const value = Object.fromEntries(parts.map((part) => [part.type, part.value]));
+  return `${value.year}-${value.month}-${value.day}`;
 }
 
 function parseArgs() {
@@ -40,7 +46,6 @@ function parseArgs() {
   return {
     buildOnly: args.includes('--build-only'),
     force: args.includes('--force'),
-    sendV2Test: args.includes('--send-v2-test'),
     useAi: args.includes('--use-ai'),
     aiDryRun: args.includes('--ai-dry-run'),
     date: get('date'),
@@ -53,45 +58,13 @@ function formatDdMmYyyy(date) {
   return `${d}/${m}/${y}`;
 }
 
-// Find the most recent kruse-summary-v2-*.html file in the package root.
-// User keeps these as hand-authored reference reports. We use the newest one
-// as the pipeline smoke-test payload until the AI summarizer is wired in.
-function findLatestV2Html() {
-  const files = readdirSync(ROOT)
-    .filter((f) => /^kruse-summary-v2.*\.html$/i.test(f))
-    .map((f) => path.join(ROOT, f));
-  if (!files.length) throw new Error('No kruse-summary-v2*.html file found in package root');
-  files.sort();
-  return files[files.length - 1];
-}
-
-async function runSendV2Test() {
-  const file = findLatestV2Html();
-  const html = readFileSync(file, 'utf8');
-  info(`pipeline smoke test: emailing ${path.basename(file)} (${html.length} bytes)`);
-  // Try to pull a DD/MM/YYYY out of the filename for the subject.
-  const m = path.basename(file).match(/(\d{2}-\d{2}-\d{4})/);
-  const dateDisplay = m ? m[1].replace(/-/g, '/') : new Date().toISOString().slice(0, 10);
-  await sendReportEmail({
-    subject: `[PIPELINE TEST] Daily Kruse Summary — ${dateDisplay}`,
-    html,
-    dateDisplay,
-  });
-  info('pipeline smoke test done.');
-}
-
 async function main() {
   initLogger({ slug: 'daily' });
   const args = parseArgs();
 
-  if (args.sendV2Test) {
-    await runSendV2Test();
-    return;
-  }
-
-  const reportDate = args.date || todayUtc();
+  const reportDate = args.date || todayInReportTimeZone();
   const dateDisplay = formatDdMmYyyy(reportDate);
-  info(`reportDate=${reportDate} (current UTC day by default)`);
+  info(`reportDate=${reportDate} (current ${SETTINGS.reportTimeZone} day by default)`);
 
   if (!args.force && !args.buildOnly && alreadySent(reportDate)) {
     info(`already sent for ${reportDate} — exiting (use --force to override).`);
@@ -149,7 +122,7 @@ async function main() {
   }
 
   await sendReportEmail({
-    subject: `Daily Kruse Summary — ${dateDisplay}`,
+    subject: `Kruse pipeline ${dateDisplay} - today's report`,
     html,
     dateDisplay,
   });
