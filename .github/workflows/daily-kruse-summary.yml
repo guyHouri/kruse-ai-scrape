@@ -83,7 +83,11 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          GOOGLE_SERVICE_ACCOUNT_JSON_BASE64: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON_BASE64 }}
+          GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
           GOOGLE_FORM_RESPONSES_CSV_URL: ${{ secrets.GOOGLE_FORM_RESPONSES_CSV_URL }}
+          GOOGLE_SHEET_RANGE: ${{ vars.GOOGLE_SHEET_RANGE }}
           KRUSE_SITE_PUBLIC_BASE_URL: https://guyhouri.github.io/kruse-ai-scrape
           LOCATION_LAT: ${{ vars.LOCATION_LAT }}
           LOCATION_LON: ${{ vars.LOCATION_LON }}

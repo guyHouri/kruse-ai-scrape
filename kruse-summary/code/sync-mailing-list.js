@@ -1,7 +1,9 @@
-// Pull public signup submissions from a Google Forms response Sheet CSV and
-// merge them into the sender's canonical mailing_list.json.
+// Pull signup submissions from a Google Forms response Sheet and merge them
+// into the sender's canonical mailing_list.json. Preferred path is a private
+// Google Sheet read by service account; a published CSV URL remains as fallback.
 
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
+import { createSign } from 'node:crypto';
 import * as path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -10,6 +12,11 @@ const MAILING_LIST_PATH = path.isAbsolute(process.env.MAILING_LIST_PATH || '')
   ? process.env.MAILING_LIST_PATH
   : path.join(ROOT, process.env.MAILING_LIST_PATH || 'mailing_list.json');
 const GOOGLE_SHEET_CSV_URL = process.env.GOOGLE_FORM_RESPONSES_CSV_URL || '';
+const GOOGLE_SERVICE_ACCOUNT_JSON = process.env.GOOGLE_SERVICE_ACCOUNT_JSON || '';
+const GOOGLE_SERVICE_ACCOUNT_JSON_BASE64 = process.env.GOOGLE_SERVICE_ACCOUNT_JSON_BASE64 || '';
+const GOOGLE_SHEET_ID = process.env.GOOGLE_SHEET_ID || '';
+const GOOGLE_SHEET_RANGE = process.env.GOOGLE_SHEET_RANGE || 'Form Responses 1!A:Z';
+const SHEETS_READONLY_SCOPE = 'https://www.googleapis.com/auth/spreadsheets.readonly';
 
 function normalizeEmail(value) {
   const email = String(value || '').trim().toLowerCase();
@@ -132,13 +139,67 @@ function googleRowToRecipient(row) {
   };
 }
 
-async function fetchGoogleSheetRecipients() {
-  if (!GOOGLE_SHEET_CSV_URL) return null;
-  const response = await fetch(GOOGLE_SHEET_CSV_URL, { headers: { accept: 'text/csv' } });
-  if (!response.ok) {
-    throw new Error(`Google Sheet CSV returned ${response.status}: ${await response.text()}`);
+function base64Url(value) {
+  return Buffer.from(value)
+    .toString('base64')
+    .replace(/=/g, '')
+    .replace(/\+/g, '-')
+    .replace(/\//g, '_');
+}
+
+function parseServiceAccountCredentials() {
+  const raw = GOOGLE_SERVICE_ACCOUNT_JSON_BASE64
+    ? Buffer.from(GOOGLE_SERVICE_ACCOUNT_JSON_BASE64, 'base64').toString('utf8')
+    : GOOGLE_SERVICE_ACCOUNT_JSON;
+  if (!raw) return null;
+
+  const parsed = JSON.parse(raw);
+  const credentials = {
+    clientEmail: parsed.client_email,
+    privateKey: String(parsed.private_key || '').replace(/\\n/g, '\n'),
+  };
+  if (!credentials.clientEmail || !credentials.privateKey) {
+    throw new Error('Google service account credentials must include client_email and private_key.');
   }
-  const rows = parseCsv(await response.text());
+  return credentials;
+}
+
+function createServiceAccountJwt(credentials) {
+  const now = Math.floor(Date.now() / 1000);
+  const header = { alg: 'RS256', typ: 'JWT' };
+  const claim = {
+    iss: credentials.clientEmail,
+    scope: SHEETS_READONLY_SCOPE,
+    aud: 'https://oauth2.googleapis.com/token',
+    iat: now,
+    exp: now + 3600,
+  };
+  const unsigned = `${base64Url(JSON.stringify(header))}.${base64Url(JSON.stringify(claim))}`;
+  const signature = createSign('RSA-SHA256').update(unsigned).sign(credentials.privateKey);
+  return `${unsigned}.${base64Url(signature)}`;
+}
+
+async function getServiceAccountAccessToken(credentials) {
+  const response = await fetch('https://oauth2.googleapis.com/token', {
+    method: 'POST',
+    headers: { 'content-type': 'application/x-www-form-urlencoded' },
+    body: new URLSearchParams({
+      grant_type: 'urn:ietf:params:oauth:grant-type:jwt-bearer',
+      assertion: createServiceAccountJwt(credentials),
+    }),
+  });
+
+  const bodyText = await response.text();
+  if (!response.ok) {
+    throw new Error(`Google OAuth token request returned ${response.status}: ${bodyText}`);
+  }
+
+  const body = JSON.parse(bodyText);
+  if (!body.access_token) throw new Error('Google OAuth token response did not include access_token.');
+  return body.access_token;
+}
+
+function rowsToRecipients(rows) {
   if (!rows.length) return [];
 
   const headers = rows[0].map(normalizeKey);
@@ -147,6 +208,38 @@ async function fetchGoogleSheetRecipients() {
     for (let i = 0; i < headers.length; i += 1) row[headers[i]] = cells[i] || '';
     return googleRowToRecipient(row);
   }).filter(Boolean);
+}
+
+async function fetchPrivateGoogleSheetRecipients() {
+  const credentials = parseServiceAccountCredentials();
+  if (!credentials && !GOOGLE_SHEET_ID) return null;
+  if (!credentials || !GOOGLE_SHEET_ID) {
+    throw new Error('Private Google Sheet sync needs GOOGLE_SHEET_ID and GOOGLE_SERVICE_ACCOUNT_JSON or GOOGLE_SERVICE_ACCOUNT_JSON_BASE64.');
+  }
+
+  const accessToken = await getServiceAccountAccessToken(credentials);
+  const encodedRange = encodeURIComponent(GOOGLE_SHEET_RANGE);
+  const url = `https://sheets.googleapis.com/v4/spreadsheets/${encodeURIComponent(GOOGLE_SHEET_ID)}/values/${encodedRange}?majorDimension=ROWS`;
+  const response = await fetch(url, {
+    headers: { authorization: `Bearer ${accessToken}` },
+  });
+  const bodyText = await response.text();
+  if (!response.ok) {
+    throw new Error(`Google Sheets API returned ${response.status}: ${bodyText}`);
+  }
+
+  const body = JSON.parse(bodyText);
+  return rowsToRecipients(body.values || []);
+}
+
+async function fetchGoogleSheetRecipients() {
+  if (!GOOGLE_SHEET_CSV_URL) return null;
+  const response = await fetch(GOOGLE_SHEET_CSV_URL, { headers: { accept: 'text/csv' } });
+  if (!response.ok) {
+    throw new Error(`Google Sheet CSV returned ${response.status}: ${await response.text()}`);
+  }
+  const rows = parseCsv(await response.text());
+  return rowsToRecipients(rows);
 }
 
 function mergeRecipients(current, incoming) {
@@ -193,6 +286,12 @@ function mergeRecipients(current, incoming) {
 }
 
 async function fetchSubmissions() {
+  const privateGoogleRecipients = await fetchPrivateGoogleSheetRecipients();
+  if (privateGoogleRecipients) {
+    console.log(`loaded ${privateGoogleRecipients.length} signup(s) from private Google Sheet.`);
+    return privateGoogleRecipients;
+  }
+
   const googleRecipients = await fetchGoogleSheetRecipients();
   if (googleRecipients) {
     console.log(`loaded ${googleRecipients.length} signup(s) from Google Sheet CSV.`);

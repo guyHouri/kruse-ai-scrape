@@ -90,7 +90,9 @@ KRUSE_AI_SELECTION_MIN_PRIORITY=3
 ANTHROPIC_MODEL=claude-haiku-4-5
 ANTHROPIC_MAX_TOKENS=20000
 KRUSE_SITE_PUBLIC_BASE_URL=https://guyhouri.github.io/kruse-ai-scrape
-GOOGLE_FORM_RESPONSES_CSV_URL=https://docs.google.com/spreadsheets/d/e/.../pub?output=csv
+GOOGLE_SHEET_ID=<private-form-response-sheet-id>
+GOOGLE_SHEET_RANGE=Form Responses 1!A:Z
+GOOGLE_SERVICE_ACCOUNT_JSON_BASE64=<base64-json-key>
 KRUSE_GOOGLE_FORM_ACTION=https://docs.google.com/forms/d/e/<form-id>/formResponse
 KRUSE_GOOGLE_FORM_ENTRY_EMAIL=entry.333333333
 ```
@@ -183,8 +185,36 @@ to the hosted Google Form instead of using the custom in-page form:
 KRUSE_GOOGLE_FORM_PUBLIC_URL=https://docs.google.com/forms/d/e/<form-id>/viewform
 ```
 
-Then link the form to a Google Sheet and publish the responses sheet as CSV.
-Save that CSV URL as a GitHub Actions secret:
+Then link the form to a Google Sheet. The Sheet can stay private. Create a
+Google Cloud service account, enable Google Sheets API, download a JSON key, and
+share the private response Sheet with the service account's `client_email` as a
+Viewer.
+
+Save these as GitHub Actions secrets:
+
+```text
+Name: GOOGLE_SHEET_ID
+Value: the spreadsheet id from the response Sheet URL
+
+Name: GOOGLE_SERVICE_ACCOUNT_JSON_BASE64
+Value: base64 of the service account JSON key
+```
+
+Optional GitHub Actions variable:
+
+```text
+Name: GOOGLE_SHEET_RANGE
+Value: Form Responses 1!A:Z
+```
+
+PowerShell helper for the base64 secret:
+
+```powershell
+[Convert]::ToBase64String([IO.File]::ReadAllBytes("service-account.json"))
+```
+
+Fallback only: if you are comfortable publishing the response sheet as CSV, save
+that CSV URL as a GitHub Actions secret:
 
 ```text
 Name: GOOGLE_FORM_RESPONSES_CSV_URL
@@ -205,23 +235,25 @@ The scheduled workflow runs:
 npm run sync-mailing-list
 ```
 
-That command fetches the Google Sheet CSV, keeps only `kruse-report-interest`,
-merges new emails into `mailing_list.json`, and the workflow commits that file
-back to the repo. From that point, the next email send uses the updated list
-automatically.
+That command first tries the private Google Sheet service-account path. If that
+is not configured, it falls back to the published CSV URL. It keeps only
+`kruse-report-interest`, merges new emails into `mailing_list.json`, and the
+workflow commits that file back to the repo. From that point, the next email
+send uses the updated list automatically.
 
 Run the sync locally:
 
 ```bash
 cd kruse-summary
-GOOGLE_FORM_RESPONSES_CSV_URL=<csv-url> npm run sync-mailing-list
+GOOGLE_SHEET_ID=<sheet-id> GOOGLE_SERVICE_ACCOUNT_JSON_BASE64=<base64-json-key> npm run sync-mailing-list
 ```
 
 PowerShell:
 
 ```powershell
 cd "D:\kruse\guy export\kruse-summary"
-$env:GOOGLE_FORM_RESPONSES_CSV_URL="<csv-url>"
+$env:GOOGLE_SHEET_ID="<sheet-id>"
+$env:GOOGLE_SERVICE_ACCOUNT_JSON_BASE64="<base64-json-key>"
 npm.cmd run sync-mailing-list
 ```
 
