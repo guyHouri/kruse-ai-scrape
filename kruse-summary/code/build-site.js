@@ -323,6 +323,41 @@ function renderReportCards(reports) {
     .join('\n');
 }
 
+function themeToggleButton(className = 'theme-toggle') {
+  return `<button type="button" class="${esc(className)}" data-theme-toggle>Light mode</button>`;
+}
+
+function themeScript() {
+  return `<script>
+    (function () {
+      function savedTheme() {
+        try { return localStorage.getItem('kruse-theme'); } catch (e) { return null; }
+      }
+      function storeTheme(theme) {
+        try { localStorage.setItem('kruse-theme', theme); } catch (e) {}
+      }
+      function applyTheme(theme) {
+        var light = theme === 'light';
+        document.body.classList.toggle('light', light);
+        var buttons = document.querySelectorAll('[data-theme-toggle]');
+        for (var i = 0; i < buttons.length; i++) {
+          buttons[i].textContent = light ? 'Dark mode' : 'Light mode';
+          buttons[i].setAttribute('aria-pressed', light ? 'true' : 'false');
+        }
+      }
+      var initial = savedTheme() || 'dark';
+      applyTheme(initial);
+      document.addEventListener('click', function (event) {
+        var button = event.target.closest && event.target.closest('[data-theme-toggle]');
+        if (!button) return;
+        var next = document.body.classList.contains('light') ? 'dark' : 'light';
+        storeTheme(next);
+        applyTheme(next);
+      });
+    })();
+  </script>`;
+}
+
 function renderIndex(reports) {
   const latest = reports[reports.length - 1];
   const latestHref = latest ? latest.href : '#';
@@ -331,6 +366,7 @@ function renderIndex(reports) {
   const cards = reports.length
     ? renderReportCards(reports)
     : '<div class="empty">No reports have been generated yet.</div>';
+  const themeButton = themeToggleButton();
 
   return `<!doctype html>
 <html lang="en">
@@ -352,14 +388,35 @@ function renderIndex(reports) {
       --accent: #4ea1ff;
       --accent-2: #7bdcb5;
       --danger: #ffbd7a;
+      --field: #0d1422;
+      --button-text: #06101d;
+      --page-glow-1: rgba(78,161,255,0.14);
+      --page-glow-2: rgba(123,220,181,0.16);
+    }
+    body.light {
+      color-scheme: light;
+      --bg: #f7f9fc;
+      --panel: #ffffff;
+      --panel-2: #eef3f8;
+      --border: #d8e0ea;
+      --text: #111827;
+      --soft: #334155;
+      --muted: #64748b;
+      --accent: #2563eb;
+      --accent-2: #047857;
+      --danger: #b45309;
+      --field: #ffffff;
+      --button-text: #ffffff;
+      --page-glow-1: rgba(37,99,235,0.10);
+      --page-glow-2: rgba(4,120,87,0.10);
     }
     * { box-sizing: border-box; }
     body {
       margin: 0;
       min-height: 100vh;
       background:
-        linear-gradient(180deg, rgba(78,161,255,0.14), transparent 260px),
-        radial-gradient(circle at top right, rgba(123,220,181,0.16), transparent 360px),
+        linear-gradient(180deg, var(--page-glow-1), transparent 260px),
+        radial-gradient(circle at top right, var(--page-glow-2), transparent 360px),
         var(--bg);
       color: var(--text);
       font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -374,6 +431,7 @@ function renderIndex(reports) {
       padding: 24px 0 28px;
       border-bottom: 1px solid var(--border);
     }
+    .header-actions { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; justify-content: flex-end; }
     h1 { margin: 0; font-size: clamp(2rem, 5vw, 4rem); line-height: 0.95; letter-spacing: 0; }
     .subtitle { margin: 14px 0 0; max-width: 720px; color: var(--soft); font-size: 1.02rem; line-height: 1.55; }
     .latest-link {
@@ -388,6 +446,16 @@ function renderIndex(reports) {
       color: var(--text);
       text-decoration: none;
       font-weight: 700;
+      white-space: nowrap;
+    }
+    .theme-toggle {
+      width: auto;
+      margin: 0;
+      min-height: 44px;
+      padding: 0 14px;
+      border: 1px solid var(--border);
+      background: var(--panel);
+      color: var(--text);
       white-space: nowrap;
     }
     main { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 28px; padding-top: 28px; align-items: start; }
@@ -415,7 +483,7 @@ function renderIndex(reports) {
       position: sticky;
       top: 20px;
       padding: 18px;
-      background: #101827;
+      background: var(--panel);
       border: 1px solid var(--border);
       border-radius: 8px;
     }
@@ -427,7 +495,7 @@ function renderIndex(reports) {
       min-height: 42px;
       border: 1px solid var(--border);
       border-radius: 6px;
-      background: #0d1422;
+      background: var(--field);
       color: var(--text);
       padding: 0 12px;
       font: inherit;
@@ -440,7 +508,7 @@ function renderIndex(reports) {
       border: 0;
       border-radius: 6px;
       background: var(--accent);
-      color: #06101d;
+      color: var(--button-text);
       font-weight: 900;
       cursor: pointer;
     }
@@ -454,7 +522,7 @@ function renderIndex(reports) {
       min-height: 44px;
       border-radius: 6px;
       background: var(--accent);
-      color: #06101d;
+      color: var(--button-text);
       font-weight: 900;
       text-decoration: none;
     }
@@ -482,7 +550,10 @@ function renderIndex(reports) {
         <h1>Kruse Daily Reports</h1>
         <p class="subtitle">Daily source-bound summaries from Jack Kruse tweets and forum activity. Latest report: ${esc(latestDate)}.</p>
       </div>
-      <a class="latest-link" href="${esc(latestHref)}">Open latest</a>
+      <div class="header-actions">
+        ${themeButton}
+        <a class="latest-link" href="${esc(latestHref)}">Open latest</a>
+      </div>
     </header>
     <main>
       <section aria-labelledby="reports-title">
@@ -524,11 +595,13 @@ ${cards}
   </div>
   ${supabaseFormScript()}
   ${googleFormScript()}
+  ${themeScript()}
 </body>
 </html>`;
 }
 
 function renderThanks() {
+  const themeButton = themeToggleButton();
   return `<!doctype html>
 <html lang="en">
 <head>
@@ -536,25 +609,31 @@ function renderThanks() {
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Thanks - Kruse Daily Reports</title>
   <style>
-    body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: #0b0f19; color: #f4f7fb; font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
-    main { width: min(560px, calc(100% - 32px)); padding: 28px; border: 1px solid #26334d; border-radius: 8px; background: #121a2a; }
+    :root { color-scheme: dark; --bg: #0b0f19; --panel: #121a2a; --border: #26334d; --text: #f4f7fb; --soft: #c6d2e1; --accent: #4ea1ff; }
+    body.light { color-scheme: light; --bg: #f7f9fc; --panel: #ffffff; --border: #d8e0ea; --text: #111827; --soft: #334155; --accent: #2563eb; }
+    body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: var(--bg); color: var(--text); font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
+    main { width: min(560px, calc(100% - 32px)); padding: 28px; border: 1px solid var(--border); border-radius: 8px; background: var(--panel); }
     h1 { margin: 0 0 10px; font-size: 2rem; letter-spacing: 0; }
-    p { color: #c6d2e1; line-height: 1.55; }
-    a { color: #4ea1ff; font-weight: 800; }
+    p { color: var(--soft); line-height: 1.55; }
+    a { color: var(--accent); font-weight: 800; }
+    .theme-toggle { position: fixed; top: 16px; right: 16px; min-height: 40px; padding: 0 12px; border: 1px solid var(--border); border-radius: 6px; background: var(--panel); color: var(--text); font: inherit; font-weight: 800; cursor: pointer; }
   </style>
 </head>
 <body>
+  ${themeButton}
   <main>
     <h1>You are on the list.</h1>
     <p>Thanks. Your request was saved.</p>
     <p><a href="/">Back to reports</a></p>
   </main>
+  ${themeScript()}
 </body>
 </html>`;
 }
 
 function renderLatestRedirect(latest) {
   const target = latest ? `../reports/${latest.name}` : '../index.html';
+  const themeButton = themeToggleButton();
   return `<!doctype html>
 <html lang="en">
 <head>
@@ -564,14 +643,20 @@ function renderLatestRedirect(latest) {
   <meta http-equiv="refresh" content="0; url=${esc(target)}" />
   <link rel="canonical" href="${esc(target)}" />
   <style>
-    body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: #0b0f19; color: #f4f7fb; font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
-    a { color: #4ea1ff; font-weight: 800; }
+    :root { color-scheme: dark; --bg: #0b0f19; --panel: #121a2a; --border: #26334d; --text: #f4f7fb; --soft: #c6d2e1; --accent: #4ea1ff; }
+    body.light { color-scheme: light; --bg: #f7f9fc; --panel: #ffffff; --border: #d8e0ea; --text: #111827; --soft: #334155; --accent: #2563eb; }
+    body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: var(--bg); color: var(--text); font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
+    main { padding: 20px; border: 1px solid var(--border); border-radius: 8px; background: var(--panel); }
+    a { color: var(--accent); font-weight: 800; }
+    .theme-toggle { position: fixed; top: 16px; right: 16px; min-height: 40px; padding: 0 12px; border: 1px solid var(--border); border-radius: 6px; background: var(--panel); color: var(--text); font: inherit; font-weight: 800; cursor: pointer; }
   </style>
 </head>
 <body>
+  ${themeButton}
   <main>
     <p>Opening the latest report. <a href="${esc(target)}">Open it manually</a>.</p>
   </main>
+  ${themeScript()}
 </body>
 </html>`;
 }
@@ -584,10 +669,34 @@ function reportSiteChrome(report) {
     style: `<style>
     html { scroll-behavior: smooth; }
     body {
+      --site-bg: #0b0f19;
+      --site-panel: #121a2a;
+      --site-panel-2: #0d1422;
+      --site-border: #26334d;
+      --site-text: #f4f7fb;
+      --site-soft: #c6d2e1;
+      --site-muted: #8fa0b5;
+      --site-accent: #4ea1ff;
+      --site-success: #7bdcb5;
+      --site-danger: #ffbd7a;
+      --site-button-text: #06101d;
       padding: 32px 16px 48px !important;
       flex-direction: column !important;
       justify-content: flex-start !important;
       align-items: flex-start !important;
+    }
+    body.light {
+      --site-bg: #f7f9fc;
+      --site-panel: #ffffff;
+      --site-panel-2: #f8fafc;
+      --site-border: #d8e0ea;
+      --site-text: #111827;
+      --site-soft: #334155;
+      --site-muted: #64748b;
+      --site-accent: #2563eb;
+      --site-success: #047857;
+      --site-danger: #b45309;
+      --site-button-text: #ffffff;
     }
     body.site-drawer-open { overflow: hidden; }
     .container {
@@ -602,10 +711,10 @@ function reportSiteChrome(report) {
       z-index: 80;
       width: 44px;
       height: 44px;
-      border: 1px solid #26334d;
+      border: 1px solid var(--site-border);
       border-radius: 8px;
-      background: rgba(18,26,42,0.96);
-      color: #f4f7fb;
+      background: var(--site-panel);
+      color: var(--site-text);
       font-size: 1.45rem;
       line-height: 1;
       cursor: pointer;
@@ -626,8 +735,8 @@ function reportSiteChrome(report) {
       z-index: 90;
       width: min(320px, calc(100vw - 48px));
       padding: 18px;
-      background: #0b0f19;
-      border-right: 1px solid #26334d;
+      background: var(--site-bg);
+      border-right: 1px solid var(--site-border);
       transform: translateX(-105%);
       transition: transform 0.2s ease;
       box-shadow: 24px 0 60px rgba(0,0,0,0.38);
@@ -645,25 +754,25 @@ function reportSiteChrome(report) {
       gap: 16px;
       padding-bottom: 16px;
       margin-bottom: 12px;
-      border-bottom: 1px solid #26334d;
+      border-bottom: 1px solid var(--site-border);
     }
     .site-drawer-kicker {
       margin-bottom: 4px;
-      color: #8fa0b5;
+      color: var(--site-muted);
       font-size: 0.78rem;
       font-weight: 800;
       letter-spacing: 0.08em;
       text-transform: uppercase;
     }
-    .site-drawer-title { color: #f4f7fb; font-size: 1rem; font-weight: 850; line-height: 1.25; }
+    .site-drawer-title { color: var(--site-text); font-size: 1rem; font-weight: 850; line-height: 1.25; }
     .site-drawer-close {
       width: 34px;
       height: 34px;
       flex: 0 0 auto;
-      border: 1px solid #26334d;
+      border: 1px solid var(--site-border);
       border-radius: 8px;
-      background: #121a2a;
-      color: #f4f7fb;
+      background: var(--site-panel);
+      color: var(--site-text);
       font-size: 1.3rem;
       line-height: 1;
       cursor: pointer;
@@ -672,14 +781,14 @@ function reportSiteChrome(report) {
       display: block;
       padding: 12px;
       margin-bottom: 8px;
-      border: 1px solid #26334d;
+      border: 1px solid var(--site-border);
       border-radius: 8px;
-      background: #121a2a;
-      color: #f4f7fb;
+      background: var(--site-panel);
+      color: var(--site-text);
       text-decoration: none;
     }
     .site-drawer-link strong { display: block; font-size: 0.95rem; }
-    .site-drawer-link span { display: block; margin-top: 3px; color: #8fa0b5; font-size: 0.82rem; line-height: 1.35; }
+    .site-drawer-link span { display: block; margin-top: 3px; color: var(--site-muted); font-size: 0.82rem; line-height: 1.35; }
     .site-report-footer {
       width: min(690px, calc(100% - 32px));
       margin: 34px auto 48px;
@@ -690,28 +799,28 @@ function reportSiteChrome(report) {
     }
     .site-report-panel {
       padding: 18px;
-      background: #121a2a;
-      border: 1px solid #26334d;
+      background: var(--site-panel);
+      border: 1px solid var(--site-border);
       border-radius: 8px;
-      color: #f4f7fb;
+      color: var(--site-text);
     }
     .site-report-panel h2 {
       margin: 0 0 8px;
-      color: #f4f7fb;
+      color: var(--site-text);
       font-size: 1.2rem;
       letter-spacing: 0;
     }
-    .site-report-panel p { margin: 0 0 14px; color: #c6d2e1; line-height: 1.45; }
-    .site-report-panel label { display: block; margin: 10px 0 6px; color: #8fa0b5; font-size: 0.82rem; font-weight: 800; }
+    .site-report-panel p { margin: 0 0 14px; color: var(--site-soft); line-height: 1.45; }
+    .site-report-panel label { display: block; margin: 10px 0 6px; color: var(--site-muted); font-size: 0.82rem; font-weight: 800; }
     .site-report-panel input,
     .site-report-panel textarea,
     .site-report-panel select {
       width: 100%;
       min-height: 40px;
-      border: 1px solid #26334d;
+      border: 1px solid var(--site-border);
       border-radius: 6px;
-      background: #0d1422;
-      color: #f4f7fb;
+      background: var(--site-panel-2);
+      color: var(--site-text);
       padding: 0 10px;
       font: inherit;
     }
@@ -722,8 +831,8 @@ function reportSiteChrome(report) {
       min-height: 42px;
       border: 0;
       border-radius: 6px;
-      background: #4ea1ff;
-      color: #06101d;
+      background: var(--site-accent);
+      color: var(--site-button-text);
       font-weight: 900;
       cursor: pointer;
     }
@@ -736,14 +845,14 @@ function reportSiteChrome(report) {
       margin-top: 14px;
       min-height: 42px;
       border-radius: 6px;
-      background: #4ea1ff;
-      color: #06101d;
+      background: var(--site-accent);
+      color: var(--site-button-text);
       font-weight: 900;
       text-decoration: none;
     }
-    .site-report-form-note { margin-top: 12px; color: #8fa0b5; font-size: 0.82rem; line-height: 1.4; }
-    .site-report-form-success { margin-top: 12px; color: #7bdcb5; font-size: 0.88rem; font-weight: 800; }
-    .site-report-form-error { margin-top: 12px; color: #ffbd7a; font-size: 0.88rem; font-weight: 800; }
+    .site-report-form-note { margin-top: 12px; color: var(--site-muted); font-size: 0.82rem; line-height: 1.4; }
+    .site-report-form-success { margin-top: 12px; color: var(--site-success); font-size: 0.88rem; font-weight: 800; }
+    .site-report-form-error { margin-top: 12px; color: var(--site-danger); font-size: 0.88rem; font-weight: 800; }
     @media (max-width: 760px) {
       body { padding: 24px 12px 40px !important; }
       .site-menu-button { top: 12px; left: 12px; }

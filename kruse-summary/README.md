@@ -164,6 +164,37 @@ SUPABASE_SERVICE_ROLE_KEY=<service-role-key>
 The service-role key is server-only. Never put it in `NEXT_PUBLIC_*` variables
 or static HTML.
 
+### Reading Signups And Feedback
+
+The public browser key can only insert rows. To view the private data, use the
+Supabase dashboard or a server-side SQL connection.
+
+Dashboard links:
+
+```text
+Mailing list:
+https://supabase.com/dashboard/project/zpxhovwsswnjdjibcvsh/editor?schema=public&table=kruse_mailing_list
+
+Report feedback:
+https://supabase.com/dashboard/project/zpxhovwsswnjdjibcvsh/editor?schema=public&table=kruse_report_feedback
+```
+
+Useful SQL:
+
+```sql
+select created_at, first_name, last_name, email, frequency, comments, report_date, report_url
+from public.kruse_mailing_list
+order by created_at desc;
+
+select created_at, report_date, rating, first_name, last_name, email, comments, report_url
+from public.kruse_report_feedback
+order by created_at desc;
+```
+
+`mailing_list.json` is the local/email-sender copy. It is updated from Supabase
+by `npm run sync-mailing-list` only when `SUPABASE_SERVICE_ROLE_KEY` is set in
+the environment or as a GitHub Actions secret.
+
 The scheduled workflow runs:
 
 ```bash
