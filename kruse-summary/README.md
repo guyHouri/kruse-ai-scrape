@@ -101,6 +101,9 @@ SUPABASE_SERVICE_ROLE_KEY=<service-role-key>
 # Build HTML from existing curated JSON or raw fallback.
 npm run build
 
+# Run summary, mailing-list, renderer, and website tests.
+npm test
+
 # Build daily AI input JSON only.
 npm run build-input -- 2026-05-24
 
@@ -250,8 +253,18 @@ Manual GitHub run:
 gh workflow run "Daily Kruse Summary" --ref main -f mode=force -f date=2026-05-26
 ```
 
-If `gh` is not authenticated, use GitHub Actions in the browser: open the
-workflow, click `Run workflow`, set `mode=force`, and enter the date.
+If `gh` says it is not authenticated but normal `git push` works, Git
+Credential Manager may already have a GitHub token. PowerShell:
+
+```powershell
+$cred = "protocol=https`nhost=github.com`n`n" | git credential fill
+$env:GH_TOKEN = (($cred | Where-Object { $_ -like 'password=*' } | Select-Object -First 1).Substring('password='.Length))
+gh auth status
+gh workflow run "Daily Kruse Summary" --ref main -f mode=force -f date=2026-05-26
+```
+
+If that still fails, use GitHub Actions in the browser: open the workflow, click
+`Run workflow`, set `mode=force`, and enter the date.
 
 Local equivalent:
 
@@ -276,6 +289,14 @@ The workflow commits `twitter_to_md/data`, `forum_to_md/daily`,
 `kruse-summary/curated`, `kruse-summary/out`, `mailing_list.json`, and
 `last-sent.json`. That keeps the daily source JSON, AI intermediate files,
 final HTML, email state, and recipient list auditable in Git.
+
+The workflow also runs `npm test` in `twitter_to_md` and `kruse-summary` before
+calling paid/network stages. In `force` mode it re-fetches X and forum data even
+when the day's JSON already exists.
+
+`SUPABASE_SERVICE_ROLE_KEY` must be set as a GitHub Actions secret. Without it,
+GitHub Actions cannot read private Supabase signups because the browser key is
+insert-only by design.
 
 ## Output Contract
 

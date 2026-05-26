@@ -18,7 +18,8 @@
   "scripts": {
     "start": "node main.js",
     "today": "node main.js --today",
-    "test": "node main.js --test"
+    "test": "node --test tests/*.test.js",
+    "smoke": "node main.js --test"
   },
   "dependencies": {
     "dotenv": "^16.4.5"

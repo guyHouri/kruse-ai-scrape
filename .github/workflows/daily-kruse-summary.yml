@@ -16,7 +16,7 @@ on:
           - force
           - build-only
       date:
-        description: 'Report date (YYYY-MM-DD). Empty → current report-timezone day.'
+        description: 'Report date (YYYY-MM-DD). Empty -> current report-timezone day.'
         required: false
         default: ''
 
@@ -37,44 +37,81 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: '20' }
 
+      - name: Test X scraper
+        working-directory: twitter_to_md
+        run: |
+          set -euo pipefail
+          echo "::group::twitter_to_md npm install"
+          npm install
+          echo "::endgroup::"
+          echo "::group::twitter_to_md unit tests"
+          npm test
+          echo "::endgroup::"
+
+      - name: Test summary + website
+        working-directory: kruse-summary
+        run: |
+          set -euo pipefail
+          echo "::group::kruse-summary npm install"
+          npm install
+          echo "::endgroup::"
+          echo "::group::kruse-summary unit + website tests"
+          npm test
+          echo "::endgroup::"
+
       - name: Pick target date
         id: target
         env:
           REPORT_TIME_ZONE: ${{ vars.REPORT_TIME_ZONE || 'Asia/Jerusalem' }}
         run: |
+          set -euo pipefail
           INPUT_DATE="${{ github.event.inputs.date }}"
           if [ -n "$INPUT_DATE" ]; then
             TARGET="$INPUT_DATE"
           else
-            # Scheduled/manual default → current day in the report timezone.
+            # Scheduled/manual default -> current day in the report timezone.
             TARGET=$(TZ="$REPORT_TIME_ZONE" date +%Y-%m-%d)
           fi
           echo "date=$TARGET" >> $GITHUB_OUTPUT
           echo "Target date: $TARGET ($REPORT_TIME_ZONE)"
 
-      - name: Scrape X tweets (skip if already cached)
+      - name: Scrape X tweets
         working-directory: twitter_to_md
         env:
           XAPI_BEARER_TOKEN: ${{ secrets.XAPI_BEARER_TOKEN }}
         run: |
+          set -euo pipefail
           TARGET="${{ steps.target.outputs.date }}"
-          if [ -f "data/${TARGET}.json" ] && \
+          MODE="${{ github.event.inputs.mode }}"
+          if [ -z "$MODE" ]; then MODE="normal"; fi
+          if [ "$MODE" != "force" ] && [ -f "data/${TARGET}.json" ] && \
              [ "$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/${TARGET}.json','utf8')).tweet_count||0)")" -gt 0 ]; then
-            echo "Already have tweets for $TARGET — skipping X API call."
+            echo "Already have tweets for $TARGET - skipping X API call."
             exit 0
           fi
+          echo "::group::Fetch X tweets for $TARGET"
           npm install
           node main.js --date=$TARGET
+          echo "::endgroup::"
 
-      - name: Scrape forum (last 24h)
+      - name: Scrape forum
         working-directory: forum_to_md
         env:
           FORUM_USERNAME: ${{ secrets.FORUM_USERNAME }}
           FORUM_PASSWORD: ${{ secrets.FORUM_PASSWORD }}
-        # main-daily.js self-skips if the day's file is <4h old.
         run: |
+          set -euo pipefail
+          TARGET="${{ steps.target.outputs.date }}"
+          MODE="${{ github.event.inputs.mode }}"
+          if [ -z "$MODE" ]; then MODE="normal"; fi
+          echo "::group::Fetch forum posts for $TARGET"
           npm install
-          node main-daily.js
+          if [ "$MODE" = "force" ]; then
+            node main-daily.js --date=$TARGET --force
+          else
+            node main-daily.js --date=$TARGET
+          fi
+          echo "::endgroup::"
 
       - name: Build report + send email
         working-directory: kruse-summary
@@ -96,21 +133,32 @@ jobs:
           LOCATION_LON: ${{ vars.LOCATION_LON }}
           INCLUDE_FORUM: 'true'
         run: |
+          set -euo pipefail
+          if [ -z "${SUPABASE_SERVICE_ROLE_KEY:-}" ]; then
+            echo "::error::SUPABASE_SERVICE_ROLE_KEY is missing. Add it as a GitHub Actions secret so the workflow can fetch private Supabase signups."
+            exit 1
+          fi
+          echo "::group::Install kruse-summary dependencies"
           npm install
+          echo "::endgroup::"
+          echo "::group::Fetch mailing list from Supabase"
           npm run sync-mailing-list
+          echo "::endgroup::"
           MODE="${{ github.event.inputs.mode }}"
+          if [ -z "$MODE" ]; then MODE="normal"; fi
           DATE="${{ steps.target.outputs.date }}"
           DATE_FLAG=""
           if [ -n "$DATE" ]; then DATE_FLAG="--date=$DATE"; fi
-          # Step 1: regenerate combined input JSON (tweets + forum) for the target date.
+          echo "::group::Build combined daily input"
           node code/build-input.js $DATE
-          # Step 2: build + maybe send. Default mode auto-calls Anthropic via --use-ai
-          # unless build-only mode is selected.
+          echo "::endgroup::"
+          echo "::group::Summarize with Anthropic and send email"
           case "$MODE" in
             build-only) node main.js --build-only --use-ai $DATE_FLAG ;;
             force)      node main.js --force --use-ai $DATE_FLAG ;;
             *)          node main.js --use-ai $DATE_FLAG ;;
           esac
+          echo "::endgroup::"
 
       - name: Build public report site
         working-directory: kruse-summary
@@ -130,7 +178,11 @@ jobs:
           NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY: sb_publishable_afhmZKXzerLWNYENUqsaFg_XfVWjODD
           SUPABASE_MAILING_LIST_TABLE: kruse_mailing_list
           SUPABASE_FEEDBACK_TABLE: kruse_report_feedback
-        run: npm run build-site
+        run: |
+          set -euo pipefail
+          echo "::group::Build static report site"
+          npm run build-site
+          echo "::endgroup::"
 
       - name: Deploy public report site
         uses: peaceiris/actions-gh-pages@v4
@@ -142,6 +194,7 @@ jobs:
 
       - name: Commit data + state back to repo
         run: |
+          set -euo pipefail
           git config user.name "kruse-bot"
           git config user.email "bot@users.noreply.github.com"
           git add twitter_to_md/data forum_to_md/daily kruse-summary/mailing_list.json kruse-summary/last-sent.json kruse-summary/curated kruse-summary/out 2>/dev/null || true

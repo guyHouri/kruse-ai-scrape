@@ -15,6 +15,9 @@ export const SETTINGS = {
   // Rolling input window ending at the end of the report date (UTC).
   summaryWindowHours: parseInt(process.env.SUMMARY_WINDOW_HOURS || '24', 10),
 
+  // Calendar day used when no --date is supplied.
+  reportTimeZone: process.env.REPORT_TIME_ZONE || 'Asia/Jerusalem',
+
   // Gmail credentials. Use a Google App Password, NOT your account password.
   // Create one: https://myaccount.google.com/apppasswords
   gmailUser: process.env.GMAIL_USER || '',

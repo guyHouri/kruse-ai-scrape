@@ -66,7 +66,7 @@ export async function scrapeDay(date, opts = {}) {
   return payload;
 }
 
-function capFutureEndTime(iso) {
+export function capFutureEndTime(iso) {
   const requested = new Date(iso);
   const latestSafeEnd = new Date(Date.now() - 15_000);
   if (requested <= latestSafeEnd) return requested.toISOString();

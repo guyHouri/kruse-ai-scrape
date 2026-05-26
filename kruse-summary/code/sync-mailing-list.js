@@ -5,7 +5,7 @@
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { createSign } from 'node:crypto';
 import * as path from 'node:path';
-import { fileURLToPath } from 'node:url';
+import { fileURLToPath, pathToFileURL } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const MAILING_LIST_PATH = path.isAbsolute(process.env.MAILING_LIST_PATH || '')
@@ -384,7 +384,20 @@ async function main() {
   console.log(`mailing list synced: ${added} added, ${updated} updated, ${mailingList.recipients.length} total.`);
 }
 
-main().catch((err) => {
-  console.error(err.stack || err.message);
-  process.exit(1);
-});
+export {
+  fetchSubmissions,
+  fetchSupabaseRecipients,
+  googleRowToRecipient,
+  mergeRecipients,
+  normalizeEmail,
+  parseCsv,
+  submissionToRecipient,
+  supabaseRowToRecipient,
+};
+
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  main().catch((err) => {
+    console.error(err.stack || err.message);
+    process.exit(1);
+  });
+}

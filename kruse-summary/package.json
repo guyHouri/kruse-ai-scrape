@@ -18,6 +18,7 @@
     "build-ai": "node main.js --build-only --use-ai",
     "build-input": "node code/build-input.js",
     "build-site": "node code/build-site.js",
+    "test": "node --test tests/*.test.js",
     "sync-mailing-list": "node code/sync-mailing-list.js",
     "deploy-site": "npm run build-site && npx --yes gh-pages@latest -d site -b gh-pages -r https://github.com/guyHouri/kruse-ai-scrape.git --dotfiles -m \"Deploy Kruse report site\"",
     "force-send": "node main.js --force"
