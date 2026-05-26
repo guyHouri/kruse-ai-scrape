@@ -19,7 +19,15 @@ jobs:
           - twitter_to_md
           - kruse-summary
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        shell: bash
+        run: |
+          set -euo pipefail
+          git init .
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          git fetch --depth=1 origin "${GITHUB_REF}"
+          git checkout --force FETCH_HEAD
+
       - uses: actions/setup-node@v4
         with: { node-version: '20' }
       - name: Install

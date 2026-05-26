@@ -24,6 +24,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: daily-kruse-summary
@@ -32,9 +34,18 @@ concurrency:
 jobs:
   build-and-send:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
-        with: { fetch-depth: 1 }
+      - name: Checkout
+        shell: bash
+        run: |
+          set -euo pipefail
+          git init .
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          git fetch --depth=1 origin "${GITHUB_REF}"
+          git checkout --force FETCH_HEAD
 
       - uses: actions/setup-node@v4
         with: { node-version: '20' }
@@ -200,10 +211,22 @@ jobs:
           cp -R kruse-summary/site/unsubscribe docs/unsubscribe
 
       - name: Commit data + state back to repo
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
           git config user.name "kruse-bot"
           git config user.email "bot@users.noreply.github.com"
           git add twitter_to_md/data forum_to_md/daily kruse-summary/mailing_list.json kruse-summary/last-sent.json kruse-summary/curated kruse-summary/out docs 2>/dev/null || true
           git diff --cached --quiet || git commit -m "daily: ${{ steps.target.outputs.date }}"
-          git push || true
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push origin HEAD:main || true
+
+      - name: Upload public report site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: kruse-summary/site
+
+      - name: Deploy public report site
+        id: deployment
+        uses: actions/deploy-pages@v5
