@@ -166,39 +166,16 @@ function isUnsubscribeRow(row) {
     || clean(row.frequency).toLowerCase() === 'unsubscribe';
 }
 
-async function fetchSupabaseRecipients() {
-  if (!SUPABASE_URL && !SUPABASE_SERVICE_ROLE_KEY) return null;
-  if (!SUPABASE_SERVICE_ROLE_KEY) {
-    console.log('SUPABASE_SERVICE_ROLE_KEY is not set; skipping Supabase mailing-list sync.');
-    return null;
-  }
-  if (!SUPABASE_URL) {
-    throw new Error('Supabase sync needs SUPABASE_URL when SUPABASE_SERVICE_ROLE_KEY is set.');
-  }
-
-  const url = new URL(`/rest/v1/${SUPABASE_MAILING_LIST_TABLE}`, SUPABASE_URL.replace(/\/+$/, ''));
-  url.searchParams.set(
-    'select',
-    'email,first_name,last_name,comments,frequency,report_date,report_url,source,created_at'
-  );
-  url.searchParams.set('order', 'created_at.desc');
-
-  const response = await fetch(url, {
-    headers: {
-      apikey: SUPABASE_SERVICE_ROLE_KEY,
-      authorization: `Bearer ${SUPABASE_SERVICE_ROLE_KEY}`,
-    },
-  });
-  const bodyText = await response.text();
-  if (!response.ok) {
-    throw new Error(`Supabase mailing-list fetch returned ${response.status}: ${bodyText}`);
-  }
-
-  const rows = JSON.parse(bodyText);
+function supabaseRowsToSyncState(rows) {
+  const sorted = [...rows].sort((a, b) => (
+    Date.parse(clean(b.created_at)) || 0
+  ) - (
+    Date.parse(clean(a.created_at)) || 0
+  ));
   const byEmail = new Map();
   const unsubscribedEmails = new Set();
   const seen = new Set();
-  for (const row of rows) {
+  for (const row of sorted) {
     const email = normalizeEmail(row.email);
     if (!email || seen.has(email)) continue;
     seen.add(email);
@@ -213,6 +190,50 @@ async function fetchSupabaseRecipients() {
     recipients: Array.from(byEmail.values()),
     unsubscribedEmails: Array.from(unsubscribedEmails),
   };
+}
+
+async function fetchSupabaseRecipientsFrom({
+  supabaseUrl,
+  serviceRoleKey,
+  table = SUPABASE_MAILING_LIST_TABLE,
+  fetchImpl = fetch,
+}) {
+  const url = new URL(`/rest/v1/${table}`, supabaseUrl.replace(/\/+$/, ''));
+  url.searchParams.set(
+    'select',
+    'email,first_name,last_name,comments,frequency,report_date,report_url,source,created_at'
+  );
+  url.searchParams.set('order', 'created_at.desc');
+
+  const response = await fetchImpl(url, {
+    headers: {
+      apikey: serviceRoleKey,
+      authorization: `Bearer ${serviceRoleKey}`,
+    },
+  });
+  const bodyText = await response.text();
+  if (!response.ok) {
+    throw new Error(`Supabase mailing-list fetch returned ${response.status}: ${bodyText}`);
+  }
+
+  return supabaseRowsToSyncState(JSON.parse(bodyText));
+}
+
+async function fetchSupabaseRecipients() {
+  if (!SUPABASE_URL && !SUPABASE_SERVICE_ROLE_KEY) return null;
+  if (!SUPABASE_SERVICE_ROLE_KEY) {
+    console.log('SUPABASE_SERVICE_ROLE_KEY is not set; skipping Supabase mailing-list sync.');
+    return null;
+  }
+  if (!SUPABASE_URL) {
+    throw new Error('Supabase sync needs SUPABASE_URL when SUPABASE_SERVICE_ROLE_KEY is set.');
+  }
+
+  return fetchSupabaseRecipientsFrom({
+    supabaseUrl: SUPABASE_URL,
+    serviceRoleKey: SUPABASE_SERVICE_ROLE_KEY,
+    table: SUPABASE_MAILING_LIST_TABLE,
+  });
 }
 
 function base64Url(value) {
@@ -412,12 +433,14 @@ async function main() {
 export {
   fetchSubmissions,
   fetchSupabaseRecipients,
+  fetchSupabaseRecipientsFrom,
   googleRowToRecipient,
   mergeRecipients,
   normalizeEmail,
   parseCsv,
   submissionToRecipient,
   supabaseRowToRecipient,
+  supabaseRowsToSyncState,
   isUnsubscribeRow,
 };
 

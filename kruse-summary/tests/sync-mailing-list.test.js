@@ -2,12 +2,14 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 
 import {
+  fetchSupabaseRecipientsFrom,
   googleRowToRecipient,
   isUnsubscribeRow,
   mergeRecipients,
   normalizeEmail,
   parseCsv,
   supabaseRowToRecipient,
+  supabaseRowsToSyncState,
 } from '../code/sync-mailing-list.js';
 
 test('normalizes emails and parses quoted CSV fields', () => {
@@ -100,4 +102,87 @@ test('mergeRecipients removes unsubscribe requests from the sender list', () => 
   assert.equal(updated, 0);
   assert.equal(removed, 1);
   assert.deepEqual(mailingList.recipients.map((r) => r.email), ['new@example.com', 'other@example.com']);
+});
+
+test('Supabase sync treats the newest database row as signup or unsubscribe state', () => {
+  const unsubscribeLatest = supabaseRowsToSyncState([
+    {
+      email: 'reader@example.com',
+      first_name: 'Reader',
+      last_name: 'One',
+      frequency: 'Daily',
+      source: 'public-site',
+      created_at: '2026-05-26T08:00:00Z',
+    },
+    {
+      email: 'reader@example.com',
+      frequency: 'Unsubscribe',
+      source: 'unsubscribe',
+      created_at: '2026-05-26T09:00:00Z',
+    },
+  ]);
+  assert.deepEqual(unsubscribeLatest.recipients, []);
+  assert.deepEqual(unsubscribeLatest.unsubscribedEmails, ['reader@example.com']);
+
+  const signupLatest = supabaseRowsToSyncState([
+    {
+      email: 'reader@example.com',
+      frequency: 'Unsubscribe',
+      source: 'unsubscribe',
+      created_at: '2026-05-26T08:00:00Z',
+    },
+    {
+      email: 'reader@example.com',
+      first_name: 'Reader',
+      last_name: 'Return',
+      frequency: 'Daily',
+      source: 'public-site',
+      created_at: '2026-05-26T09:00:00Z',
+    },
+  ]);
+  assert.equal(signupLatest.recipients.length, 1);
+  assert.equal(signupLatest.recipients[0].email, 'reader@example.com');
+  assert.equal(signupLatest.recipients[0].name, 'Reader Return');
+  assert.deepEqual(signupLatest.unsubscribedEmails, []);
+});
+
+test('fetchSupabaseRecipientsFrom reads DB rows and sends service-role headers', async () => {
+  let requestedUrl = null;
+  let requestedHeaders = null;
+  const result = await fetchSupabaseRecipientsFrom({
+    supabaseUrl: 'https://example.supabase.co/',
+    serviceRoleKey: 'test-service-role-key',
+    table: 'kruse_mailing_list',
+    fetchImpl: async (url, options) => {
+      requestedUrl = url;
+      requestedHeaders = options.headers;
+      return {
+        ok: true,
+        text: async () => JSON.stringify([
+          {
+            email: 'new@example.com',
+            first_name: 'New',
+            last_name: 'Reader',
+            frequency: 'Daily',
+            source: 'public-site',
+            created_at: '2026-05-26T10:00:00Z',
+          },
+          {
+            email: 'gone@example.com',
+            frequency: 'Unsubscribe',
+            source: 'unsubscribe',
+            created_at: '2026-05-26T11:00:00Z',
+          },
+        ]),
+      };
+    },
+  });
+
+  assert.equal(requestedUrl.origin, 'https://example.supabase.co');
+  assert.equal(requestedUrl.pathname, '/rest/v1/kruse_mailing_list');
+  assert.equal(requestedUrl.searchParams.get('order'), 'created_at.desc');
+  assert.equal(requestedHeaders.apikey, 'test-service-role-key');
+  assert.equal(requestedHeaders.authorization, 'Bearer test-service-role-key');
+  assert.deepEqual(result.recipients.map((r) => r.email), ['new@example.com']);
+  assert.deepEqual(result.unsubscribedEmails, ['gone@example.com']);
 });
