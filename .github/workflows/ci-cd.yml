@@ -1,0 +1,80 @@
+name: CI/CD
+
+on:
+  workflow_dispatch: {}
+  repository_dispatch:
+    types: [deploy-report-site]
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: ci-cd-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        module:
+          - twitter_to_md
+          - kruse-summary
+    steps:
+      - name: Checkout
+        shell: bash
+        env:
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          set -euo pipefail
+          git init .
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          if [ "${GITHUB_EVENT_NAME}" = "pull_request" ]; then
+            git fetch --depth=1 origin "refs/pull/${PR_NUMBER}/merge"
+          else
+            git fetch --depth=1 origin "${GITHUB_REF}"
+          fi
+          git checkout --force FETCH_HEAD
+
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+
+      - name: Install
+        working-directory: ${{ matrix.module }}
+        run: npm install
+
+      - name: Test
+        working-directory: ${{ matrix.module }}
+        run: npm test
+
+  deploy-report-site:
+    needs: tests
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        shell: bash
+        run: |
+          set -euo pipefail
+          git init .
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          git fetch --depth=1 origin "${GITHUB_REF}"
+          git checkout --force FETCH_HEAD
+
+      - name: Upload report site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy report site
+        id: deployment
+        uses: actions/deploy-pages@v5

@@ -15,7 +15,7 @@ kruse-ai-scrape/
 ├── linkedin_to_md/         LinkedIn Pulse archive (xlsx + Playwright scrape)
 ├── free_blogs_md/          Jack's free blog posts compiled from PDF
 ├── website_to_md/          LEGACY general-purpose scraper — other modules built from its patterns
-├── .github/workflows/      Daily Kruse Summary cron job
+├── .github/workflows/      Daily Kruse Summary cron + main-branch CI/CD
 ├── docs/sources.md         knowledge-source index (priority + difficulty per source)
 ├── AGENTS.md               AI-assistant-facing project context (also linked as CLAUDE.md)
 ├── DAILY_PIPELINE.md       end-to-end docs for the automated daily digest

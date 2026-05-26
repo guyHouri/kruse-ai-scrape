@@ -113,7 +113,7 @@ npm run build-ai -- --date=2026-05-24
 # Build the static public report archive website.
 npm run build-site
 
-# Build and publish the static site to GitHub Pages.
+# Legacy fallback: build and publish through the old gh-pages path.
 npm run deploy-site
 
 # Normal scheduled behavior: build, check sunrise window, send only if allowed.
@@ -132,7 +132,9 @@ PowerShell may block `npm`; use `npm.cmd` in that case.
 Free public hosting path:
 
 - Build with `npm run build-site`.
-- Publish `site/` to GitHub Pages from the `gh-pages` branch.
+- Mirror `site/` into the repository `docs/` folder.
+- Push/commit `docs/` to `main`.
+- `.github/workflows/ci-cd.yml` runs tests and deploys `docs/` to GitHub Pages.
 - Public URL: `https://guyhouri.github.io/kruse-ai-scrape/`.
 
 The signup and feedback forms post directly to Supabase from the static GitHub
@@ -239,7 +241,8 @@ npm.cmd run sync-mailing-list
 
 The public GitHub Pages site is served from `main:/docs`. The daily workflow
 builds `kruse-summary/site`, mirrors it into `docs/`, commits the generated
-site with the daily artifacts, and GitHub Pages publishes that folder.
+site with the daily artifacts, and then triggers `.github/workflows/ci-cd.yml`.
+That CI/CD workflow runs tests first and deploys `docs/` only after tests pass.
 
 Public URL:
 
@@ -256,14 +259,19 @@ npm run build-site
 
 Then mirror `kruse-summary/site` into the repository `docs/` folder and commit
 the result. `npm run deploy-site` still exists as a legacy `gh-pages` fallback,
-but `main:/docs` is the active Pages source.
+but `main:/docs` plus `.github/workflows/ci-cd.yml` is the active Pages path.
 
 ### Running The Full Daily Pipeline
 
-The GitHub workflow is `.github/workflows/daily-kruse-summary.yml`. It runs on
-the current `REPORT_TIME_ZONE` day, scrapes X, scrapes the forum, builds the AI
-report, sends email, deploys GitHub Pages, and commits the generated daily
-state back to `main`.
+The scheduled data workflow is `.github/workflows/daily-kruse-summary.yml`. It
+runs on the current `REPORT_TIME_ZONE` day, scrapes X, scrapes the forum,
+builds the AI report, sends email, mirrors the generated site into `docs/`,
+commits the generated daily state back to `main`, and triggers the CI/CD deploy.
+
+The main-branch CI/CD workflow is `.github/workflows/ci-cd.yml`. It runs on
+pushes to `main`, manual dispatch, and the daily workflow's
+`deploy-report-site` repository dispatch. It runs `twitter_to_md` and
+`kruse-summary` tests first, then deploys the public website from `docs/`.
 
 Manual GitHub run:
 
@@ -310,17 +318,19 @@ npm.cmd install
 npm.cmd run sync-mailing-list
 node code/build-input.js 2026-05-26
 node main.js --force --use-ai --date=2026-05-26
-npm.cmd run deploy-site
+npm.cmd run build-site
 ```
 
-The workflow commits `twitter_to_md/data`, `forum_to_md/daily`,
+The daily workflow commits `twitter_to_md/data`, `forum_to_md/daily`,
 `kruse-summary/curated`, `kruse-summary/out`, `mailing_list.json`, and
-`last-sent.json`. That keeps the daily source JSON, AI intermediate files,
-final HTML, email state, and recipient list auditable in Git.
+`last-sent.json`, plus the mirrored public site under `docs/`. That keeps the
+daily source JSON, AI intermediate files, final HTML, email state, recipient
+list, and deployed website source auditable in Git.
 
-The workflow also runs `npm test` in `twitter_to_md` and `kruse-summary` before
-calling paid/network stages. In `force` mode it re-fetches X and forum data even
-when the day's JSON already exists.
+The daily workflow also runs `npm test` in `twitter_to_md` and `kruse-summary`
+before calling paid/network stages. The CI/CD workflow runs the same tests
+again before deploying from `main`. In `force` mode the daily workflow
+re-fetches X and forum data even when the day's JSON already exists.
 
 `SUPABASE_SERVICE_ROLE_KEY` must be set as a GitHub Actions secret. Without it,
 GitHub Actions cannot read private Supabase signups because the browser key is
