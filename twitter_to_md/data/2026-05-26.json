@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-26",
+  "handle": "DrJackKruse",
+  "fetched_at": "2026-05-26T10:19:49.204Z",
+  "source": {
+    "backend": "x-api-v2",
+    "endpoint": "/2/users/:id/tweets"
+  },
+  "tweet_count": 4,
+  "tweets": [
+    {
+      "id": "2059102359872016427",
+      "url": "https://x.com/DrJackKruse/status/2059102359872016427",
+      "created_at": "2026-05-26T02:40:33.000Z",
+      "text": "He suffered a broken hymen.  They are doing microsurgery now to fix it. https://t.co/9f65KUunDL",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059102359872016427",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059069560716722474",
+        "url": "https://x.com/RyanRozbiani/status/2059069560716722474",
+        "created_at": "2026-05-26T00:30:13.000Z",
+        "text": "Netanyahu RUSHED to Jerusalem HOSPITAL\n\nHis office only confirmed the transfer AFTER Hebrew-language media broke the story and forced their hand.\n\nNetanyahu was taken to Hadassah Ein Kerem Medical Center on Monday evening. The nature of the treatment was not disclosed, with aides offering only a vague reference to dental work.\n\nThis is the same hospital where he secretly underwent radiation for a malignant prostate tumor last month without informing the public, a fact he only admitted after it leaked.\n\nThe pattern is clear: this government lies about his health until it can't.",
+        "lang": "en",
+        "author": {
+          "id": "2530835306",
+          "username": "RyanRozbiani",
+          "name": "Ryan Rozbiani"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059069560716722474",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 3981,
+          "retweets": 1564,
+          "replies": 911,
+          "quotes": 269,
+          "views": 425201
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 133,
+        "retweets": 11,
+        "replies": 17,
+        "quotes": 0,
+        "views": 11451
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059098493625475311",
+      "url": "https://x.com/DrJackKruse/status/2059098493625475311",
+      "created_at": "2026-05-26T02:25:11.000Z",
+      "text": "The machine was a scam https://t.co/KTPiDERARe",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059098493625475311",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059088532300530147",
+        "url": "https://x.com/goldee_girl/status/2059088532300530147",
+        "created_at": "2026-05-26T01:45:36.000Z",
+        "text": "@DrJackKruse Most people drink loads of deuterium as well - John Ellis created a machine that depletes it.",
+        "lang": "en",
+        "author": {
+          "id": "4636295473",
+          "username": "goldee_girl",
+          "name": "Goldee"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2058952791654105351",
+        "in_reply_to": {
+          "tweet_id": "2058952791654105351",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2058952791654105351"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 1,
+          "views": 6656
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 34,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": 6219
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059075381831799110",
+      "url": "https://x.com/DrJackKruse/status/2059075381831799110",
+      "created_at": "2026-05-26T00:53:21.000Z",
+      "text": "2.  How we do CT with light. https://t.co/gU6o4KYax4",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": true,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2059070385799217173",
+      "in_reply_to": {
+        "tweet_id": "2059070385799217173",
+        "user_id": "250833376",
+        "url": "https://x.com/i/status/2059070385799217173"
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 16,
+        "retweets": 5,
+        "replies": 2,
+        "quotes": 0,
+        "views": 3848
+      },
+      "thread_context": [
+        {
+          "id": "2059070385799217173",
+          "url": "https://x.com/DrJackKruse/status/2059070385799217173",
+          "created_at": "2026-05-26T00:33:30.000Z",
+          "text": "https://t.co/AK8qMKSfza",
+          "lang": "zxx",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": false,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059070385799217173",
+          "in_reply_to": null,
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [],
+          "metrics": {
+            "likes": 68,
+            "retweets": 10,
+            "replies": 8,
+            "quotes": 0,
+            "views": 5107
+          }
+        }
+      ]
+    },
+    {
+      "id": "2059070385799217173",
+      "url": "https://x.com/DrJackKruse/status/2059070385799217173",
+      "created_at": "2026-05-26T00:33:30.000Z",
+      "text": "https://t.co/AK8qMKSfza",
+      "lang": "zxx",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2059070385799217173",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 68,
+        "retweets": 10,
+        "replies": 8,
+        "quotes": 0,
+        "views": 5107
+      },
+      "thread_context": []
+    }
+  ]
+}

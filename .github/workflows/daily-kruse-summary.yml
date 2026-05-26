@@ -144,6 +144,6 @@ jobs:
         run: |
           git config user.name "kruse-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add twitter_to_md/data forum_to_md/daily kruse-summary/mailing_list.json kruse-summary/last-sent.json kruse-summary/out 2>/dev/null || true
+          git add twitter_to_md/data forum_to_md/daily kruse-summary/mailing_list.json kruse-summary/last-sent.json kruse-summary/curated kruse-summary/out 2>/dev/null || true
           git diff --cached --quiet || git commit -m "daily: ${{ steps.target.outputs.date }}"
           git push || true

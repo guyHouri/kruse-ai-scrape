@@ -1,0 +1,212 @@
+{
+  "date": "2026-05-26",
+  "selected_items": [],
+  "unselected_items": [
+    {
+      "source_type": "tweet",
+      "source_id": "2059102359872016427",
+      "reason_category": "chatter",
+      "reason": "Political gossip about Netanyahu's health; no biological signal, no Kruse mechanism, no treatment or protocol content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059098493625475311",
+      "reason_category": "thin",
+      "reason": "Terse dismissal ('The machine was a scam') of John Ellis deuterium machine without mechanism, evidence, or actionable detail. Does not meet acceptance test: no explanation of what signal is new, what to do, or why."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059075381831799110",
+      "reason_category": "unclear",
+      "reason": "Fragment 'How we do CT with light' appears to be incomplete tweet or thread stub. No mechanism, protocol, or actionable content. Does not meet acceptance test."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059070385799217173",
+      "reason_category": "unclear",
+      "reason": "Empty tweet text; no content to evaluate."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/tool-and-metallica-tracks-for-deuterium-depletion.32760/unread",
+      "reason_category": "unsupported",
+      "reason": "Member claim that specific music tracks trigger piezoelectric charge and deuterium sorting lacks mechanism detail, citation, or evidence. Speculative without source support."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/when-you-begin-with-a-silver-gold-or-platinum-membership.19027/unread",
+      "reason_category": "baseline",
+      "reason": "Member reports doing sunrises, blue blockers, and skin coverage—all known Kruse baseline practices. No new signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/vagal-nerve-stimulation-tips.32826/unread",
+      "reason_category": "unanswered_question",
+      "reason": "Member asks Jack's opinion on castor oil packs for eyes; no answer or Kruse response provided in source."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/new-gold-member-question-for-dr-kruse.32554/unread",
+      "reason_category": "chatter",
+      "reason": "Single-word response 'Makes sense' with no content or context."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/how-long-does-it-take-for-vitamin-d-levels-to-go-up-naturally.28177/unread",
+      "reason_category": "unanswered_question",
+      "reason": "Member asks about vitamin D rise rate and Van Allen belt; no concrete answer, protocol, or measurement provided."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/any-pensioners-looking-into-decreto-531-revision-to-special-law-on-immigration-and-foreigners.32836/",
+      "reason_category": "chatter",
+      "reason": "Immigration visa policy discussion; no biological, medical, or Kruse-relevant signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/loris-optimal-journal-story-time.32776/",
+      "reason_category": "thin",
+      "reason": "Member paraphrases vague podcast memory about end-stage ALS/Parkinson's patients and unspecified 'hail-mary' treatment. No concrete protocol, mechanism, or actionable detail. Hearsay without source support."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/telluric-communications.32804/",
+      "reason_category": "chatter",
+      "reason": "Member speculation about appearance and electro-magneto-hydraulic rearrangement; no mechanism, case detail, protocol, or actionable signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/i-stay-away-from-nnemf.30545/unread",
+      "reason_category": "baseline",
+      "reason": "Member offers practical nnEMF detection and shielding tips (finding towers, wire mesh fence). Known baseline practice without new mechanism or protocol."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/jack-kruse-podcast-curriculum-youtube-edition-v1.23331/unread",
+      "reason_category": "chatter",
+      "reason": "Social praise for podcast curriculum compilation; no biological or medical signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/single-mitos-looking-to-meet-others-in-this-group.32734/",
+      "reason_category": "chatter",
+      "reason": "Community organizing discussion; no biological or medical signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/kathleen%E2%80%99s-optimal-journal.31612/",
+      "reason_category": "chatter",
+      "reason": "Brief encouragement about vitamin D production in Bend; no mechanism, protocol, or new signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/pleasantly-weird.31052/unread",
+      "reason_category": "thin",
+      "reason": "Member suggests soft collar to unload axis and prevent vertebral basilar insufficiency in EDS. No mechanism detail, citation, or protocol. Unsupported claim."
+    }
+  ],
+  "dropped_items": [
+    {
+      "source_type": "tweet",
+      "source_id": "2059102359872016427",
+      "reason_category": "chatter",
+      "reason": "Political gossip about Netanyahu's health; no biological signal, no Kruse mechanism, no treatment or protocol content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059098493625475311",
+      "reason_category": "thin",
+      "reason": "Terse dismissal ('The machine was a scam') of John Ellis deuterium machine without mechanism, evidence, or actionable detail. Does not meet acceptance test: no explanation of what signal is new, what to do, or why."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059075381831799110",
+      "reason_category": "unclear",
+      "reason": "Fragment 'How we do CT with light' appears to be incomplete tweet or thread stub. No mechanism, protocol, or actionable content. Does not meet acceptance test."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059070385799217173",
+      "reason_category": "unclear",
+      "reason": "Empty tweet text; no content to evaluate."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/tool-and-metallica-tracks-for-deuterium-depletion.32760/unread",
+      "reason_category": "unsupported",
+      "reason": "Member claim that specific music tracks trigger piezoelectric charge and deuterium sorting lacks mechanism detail, citation, or evidence. Speculative without source support."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/when-you-begin-with-a-silver-gold-or-platinum-membership.19027/unread",
+      "reason_category": "baseline",
+      "reason": "Member reports doing sunrises, blue blockers, and skin coverage—all known Kruse baseline practices. No new signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/vagal-nerve-stimulation-tips.32826/unread",
+      "reason_category": "unanswered_question",
+      "reason": "Member asks Jack's opinion on castor oil packs for eyes; no answer or Kruse response provided in source."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/new-gold-member-question-for-dr-kruse.32554/unread",
+      "reason_category": "chatter",
+      "reason": "Single-word response 'Makes sense' with no content or context."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/how-long-does-it-take-for-vitamin-d-levels-to-go-up-naturally.28177/unread",
+      "reason_category": "unanswered_question",
+      "reason": "Member asks about vitamin D rise rate and Van Allen belt; no concrete answer, protocol, or measurement provided."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/any-pensioners-looking-into-decreto-531-revision-to-special-law-on-immigration-and-foreigners.32836/",
+      "reason_category": "chatter",
+      "reason": "Immigration visa policy discussion; no biological, medical, or Kruse-relevant signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/loris-optimal-journal-story-time.32776/",
+      "reason_category": "thin",
+      "reason": "Member paraphrases vague podcast memory about end-stage ALS/Parkinson's patients and unspecified 'hail-mary' treatment. No concrete protocol, mechanism, or actionable detail. Hearsay without source support."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/telluric-communications.32804/",
+      "reason_category": "chatter",
+      "reason": "Member speculation about appearance and electro-magneto-hydraulic rearrangement; no mechanism, case detail, protocol, or actionable signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/i-stay-away-from-nnemf.30545/unread",
+      "reason_category": "baseline",
+      "reason": "Member offers practical nnEMF detection and shielding tips (finding towers, wire mesh fence). Known baseline practice without new mechanism or protocol."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/jack-kruse-podcast-curriculum-youtube-edition-v1.23331/unread",
+      "reason_category": "chatter",
+      "reason": "Social praise for podcast curriculum compilation; no biological or medical signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/single-mitos-looking-to-meet-others-in-this-group.32734/",
+      "reason_category": "chatter",
+      "reason": "Community organizing discussion; no biological or medical signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/kathleen%E2%80%99s-optimal-journal.31612/",
+      "reason_category": "chatter",
+      "reason": "Brief encouragement about vitamin D production in Bend; no mechanism, protocol, or new signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/pleasantly-weird.31052/unread",
+      "reason_category": "thin",
+      "reason": "Member suggests soft collar to unload axis and prevent vertebral basilar insufficiency in EDS. No mechanism detail, citation, or protocol. Unsupported claim."
+    }
+  ]
+}

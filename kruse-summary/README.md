@@ -237,6 +237,46 @@ npm run deploy-site
 https://guyhouri.github.io/kruse-ai-scrape/
 ```
 
+### Running The Full Daily Pipeline
+
+The GitHub workflow is `.github/workflows/daily-kruse-summary.yml`. It runs on
+the current `REPORT_TIME_ZONE` day, scrapes X, scrapes the forum, builds the AI
+report, sends email, deploys GitHub Pages, and commits the generated daily
+state back to `main`.
+
+Manual GitHub run:
+
+```bash
+gh workflow run "Daily Kruse Summary" --ref main -f mode=force -f date=2026-05-26
+```
+
+If `gh` is not authenticated, use GitHub Actions in the browser: open the
+workflow, click `Run workflow`, set `mode=force`, and enter the date.
+
+Local equivalent:
+
+```bash
+cd twitter_to_md
+npm.cmd install
+node main.js --date=2026-05-26
+
+cd ../forum_to_md
+npm.cmd install
+node main-daily.js
+
+cd ../kruse-summary
+npm.cmd install
+npm.cmd run sync-mailing-list
+node code/build-input.js 2026-05-26
+node main.js --force --use-ai --date=2026-05-26
+npm.cmd run deploy-site
+```
+
+The workflow commits `twitter_to_md/data`, `forum_to_md/daily`,
+`kruse-summary/curated`, `kruse-summary/out`, `mailing_list.json`, and
+`last-sent.json`. That keeps the daily source JSON, AI intermediate files,
+final HTML, email state, and recipient list auditable in Git.
+
 ## Output Contract
 
 `curated/<date>.json` is the renderer contract. The schema is
