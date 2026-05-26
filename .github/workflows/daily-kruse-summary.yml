@@ -16,7 +16,7 @@ on:
           - force
           - build-only
       date:
-        description: 'Report date (YYYY-MM-DD). Empty → today UTC for manual runs, yesterday UTC for cron.'
+        description: 'Report date (YYYY-MM-DD). Empty → current report-timezone day.'
         required: false
         default: ''
 
@@ -39,19 +39,18 @@ jobs:
 
       - name: Pick target date
         id: target
+        env:
+          REPORT_TIME_ZONE: ${{ vars.REPORT_TIME_ZONE || 'Asia/Jerusalem' }}
         run: |
           INPUT_DATE="${{ github.event.inputs.date }}"
           if [ -n "$INPUT_DATE" ]; then
             TARGET="$INPUT_DATE"
-          elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            # Manual run with no date → today UTC. Users testing want current content.
-            TARGET=$(date -u +%Y-%m-%d)
           else
-            # Scheduled cron → yesterday UTC (the day that just ended).
-            TARGET=$(date -u -d 'yesterday' +%Y-%m-%d)
+            # Scheduled/manual default → current day in the report timezone.
+            TARGET=$(TZ="$REPORT_TIME_ZONE" date +%Y-%m-%d)
           fi
           echo "date=$TARGET" >> $GITHUB_OUTPUT
-          echo "Target date: $TARGET"
+          echo "Target date: $TARGET ($REPORT_TIME_ZONE)"
 
       - name: Scrape X tweets (skip if already cached)
         working-directory: twitter_to_md
@@ -92,6 +91,7 @@ jobs:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           SUPABASE_MAILING_LIST_TABLE: kruse_mailing_list
           KRUSE_SITE_PUBLIC_BASE_URL: https://guyhouri.github.io/kruse-ai-scrape
+          REPORT_TIME_ZONE: ${{ vars.REPORT_TIME_ZONE || 'Asia/Jerusalem' }}
           LOCATION_LAT: ${{ vars.LOCATION_LAT }}
           LOCATION_LON: ${{ vars.LOCATION_LON }}
           INCLUDE_FORUM: 'true'

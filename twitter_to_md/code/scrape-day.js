@@ -12,7 +12,8 @@ import { info, warn } from './logger.js';
 // `opts.depthOverride` overrides thread-resolve depth (--test → 0).
 export async function scrapeDay(date, opts = {}) {
   const start = `${date}T00:00:00Z`;
-  const end = `${nextUtcDate(date)}T00:00:00Z`;
+  const requestedEnd = `${nextUtcDate(date)}T00:00:00Z`;
+  const end = capFutureEndTime(requestedEnd);
   const maxItems = opts.maxItems ?? SETTINGS.maxItemsPerDay;
 
   // Cost projection — bail if it could blow the configured ceiling.
@@ -63,6 +64,14 @@ export async function scrapeDay(date, opts = {}) {
   const parentCount = deduped.reduce((n, t) => n + (t.thread_context?.length || 0), 0);
   info(`done ${date}: ${deduped.length} tweets, ${parentCount} parent contexts attached`);
   return payload;
+}
+
+function capFutureEndTime(iso) {
+  const requested = new Date(iso);
+  const latestSafeEnd = new Date(Date.now() - 15_000);
+  if (requested <= latestSafeEnd) return requested.toISOString();
+  warn(`requested end_time ${requested.toISOString()} is in the future; capping to ${latestSafeEnd.toISOString()}`);
+  return latestSafeEnd.toISOString();
 }
 
 function nextUtcDate(d) {
