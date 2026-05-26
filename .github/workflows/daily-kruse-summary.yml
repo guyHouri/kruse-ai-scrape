@@ -24,6 +24,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: daily-kruse-summary
@@ -32,6 +34,9 @@ concurrency:
 jobs:
   build-and-send:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with: { fetch-depth: 1 }
@@ -186,13 +191,16 @@ jobs:
           npm run build-site
           echo "::endgroup::"
 
-      - name: Deploy public report site
-        uses: peaceiris/actions-gh-pages@v4
+      - uses: actions/configure-pages@v5
+
+      - name: Upload public report site
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./kruse-summary/site
-          publish_branch: gh-pages
-          force_orphan: true
+          path: kruse-summary/site
+
+      - name: Deploy public report site
+        id: deployment
+        uses: actions/deploy-pages@v4
 
       - name: Commit data + state back to repo
         run: |

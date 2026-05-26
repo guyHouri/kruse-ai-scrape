@@ -237,7 +237,20 @@ $env:SUPABASE_SERVICE_ROLE_KEY="<service-role-key>"
 npm.cmd run sync-mailing-list
 ```
 
-To publish manually:
+To publish manually through GitHub Pages:
+
+```bash
+gh workflow run "Deploy Kruse Report Site" --ref main
+```
+
+The deploy workflow builds `kruse-summary/site` and publishes it with GitHub
+Pages Actions. Public URL:
+
+```text
+https://guyhouri.github.io/kruse-ai-scrape/
+```
+
+Local legacy fallback:
 
 ```bash
 cd kruse-summary
@@ -246,11 +259,8 @@ npm run deploy-site
 ```
 
 `npm run deploy-site` rebuilds `site/` and pushes that folder to the repository's
-`gh-pages` branch. GitHub Pages serves that branch at:
-
-```text
-https://guyhouri.github.io/kruse-ai-scrape/
-```
+`gh-pages` branch. The Actions deploy is preferred because it exposes build
+logs and avoids silent legacy Pages build failures.
 
 ### Running The Full Daily Pipeline
 
