@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Unsubscribe - Kruse Daily Reports</title>
+  <style>
+    :root { color-scheme: dark; --bg: #0b0f19; --panel: #121a2a; --border: #26334d; --text: #f4f7fb; --soft: #c6d2e1; --accent: #4ea1ff; --field: #0d1422; --button-text: #06101d; --danger: #ffbd7a; --success: #7bdcb5; }
+    body.light { color-scheme: light; --bg: #f7f9fc; --panel: #ffffff; --border: #d8e0ea; --text: #111827; --soft: #334155; --accent: #2563eb; --field: #ffffff; --button-text: #ffffff; --danger: #b45309; --success: #047857; }
+    body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: var(--bg); color: var(--text); font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
+    main { width: min(560px, calc(100% - 32px)); padding: 28px; border: 1px solid var(--border); border-radius: 8px; background: var(--panel); }
+    h1 { margin: 0 0 10px; font-size: 2rem; letter-spacing: 0; }
+    p { color: var(--soft); line-height: 1.55; }
+    label { display: block; margin: 16px 0 6px; color: var(--soft); font-size: 0.88rem; font-weight: 800; }
+    input { width: 100%; min-height: 44px; border: 1px solid var(--border); border-radius: 6px; background: var(--field); color: var(--text); padding: 0 12px; font: inherit; box-sizing: border-box; }
+    button { width: 100%; margin-top: 16px; min-height: 44px; border: 0; border-radius: 6px; background: var(--accent); color: var(--button-text); font-weight: 900; cursor: pointer; }
+    button:disabled { opacity: 0.55; cursor: not-allowed; }
+    a { color: var(--accent); font-weight: 800; }
+    .form-success { margin-top: 12px; color: var(--success); font-weight: 800; }
+    .form-error { margin-top: 12px; color: var(--danger); font-weight: 800; }
+    .theme-toggle { position: fixed; top: 16px; right: 16px; min-height: 40px; padding: 0 12px; border: 1px solid var(--border); border-radius: 6px; background: var(--panel); color: var(--text); font: inherit; font-weight: 800; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <button type="button" class="theme-toggle" data-theme-toggle>Light mode</button>
+  <main>
+    <h1>Unsubscribe</h1>
+    <p>Enter your email and we will remove it from future Daily Kruse Summary sends.</p>
+    <form name="kruse-report-unsubscribe" method="POST" data-supabase-form="unsubscribe">
+      <p style="display:none"><label>Company <input name="company" /></label></p>
+      <label for="unsubscribe-email">Email</label>
+      <input id="unsubscribe-email" name="email" type="email" autocomplete="email" required />
+      <button type="submit">Unsubscribe</button>
+      <div class="form-success" data-form-success hidden>Saved. You are unsubscribed.</div>
+      <div class="form-error" data-form-error hidden>Could not save. Please try again.</div>
+    </form>
+    <p style="margin-top:18px"><a href="../">Back to reports</a></p>
+  </main>
+  <script>
+    window.__KRUSE_SUPABASE = {"url":"https://zpxhovwsswnjdjibcvsh.supabase.co","key":"sb_publishable_afhmZKXzerLWNYENUqsaFg_XfVWjODD","tables":{"mailingList":"kruse_mailing_list","feedback":"kruse_report_feedback"}};
+    (function () {
+      var config = window.__KRUSE_SUPABASE;
+      if (!config || !config.url || !config.key) return;
+
+      function value(form, name) {
+        var field = form.querySelector('[name="' + name + '"]');
+        return field ? String(field.value || '').trim() : '';
+      }
+
+      function nullable(value) {
+        return value ? value : null;
+      }
+
+      function show(form, selector, text) {
+        var node = form.querySelector(selector);
+        if (!node) return;
+        if (text) node.textContent = text;
+        node.hidden = false;
+      }
+
+      function hide(form, selector) {
+        var node = form.querySelector(selector);
+        if (node) node.hidden = true;
+      }
+
+      function payloadFor(form, kind) {
+        var common = {
+          first_name: value(form, 'first_name'),
+          last_name: value(form, 'last_name'),
+          email: value(form, 'email').toLowerCase(),
+          comments: value(form, 'comments'),
+          report_date: nullable(value(form, 'report_date')),
+          report_url: nullable(value(form, 'report_url')),
+          page_url: window.location.href,
+          source: 'public-site'
+        };
+        if (kind === 'unsubscribe') {
+          return {
+            first_name: '',
+            last_name: '',
+            email: common.email,
+            comments: 'Unsubscribe request',
+            frequency: 'Unsubscribe',
+            report_date: null,
+            report_url: null,
+            page_url: common.page_url,
+            source: 'unsubscribe'
+          };
+        }
+        if (kind === 'mailing-list') {
+          common.frequency = value(form, 'frequency') || 'Daily';
+          return common;
+        }
+        return {
+          first_name: common.first_name,
+          last_name: common.last_name,
+          email: nullable(common.email),
+          rating: value(form, 'rating') || 'Useful',
+          comments: common.comments,
+          report_date: common.report_date,
+          report_url: common.report_url,
+          page_url: common.page_url,
+          source: common.source
+        };
+      }
+
+      async function submitToSupabase(form, kind) {
+        var table = kind === 'feedback' ? config.tables.feedback : config.tables.mailingList;
+        var payload = payloadFor(form, kind);
+        var response = await fetch(config.url + '/rest/v1/' + encodeURIComponent(table), {
+          method: 'POST',
+          headers: {
+            apikey: config.key,
+            authorization: 'Bearer ' + config.key,
+            'content-type': 'application/json',
+            prefer: 'return=minimal'
+          },
+          body: JSON.stringify(payload)
+        });
+        if (!response.ok) {
+          var text = await response.text();
+          throw new Error(text || ('Supabase returned ' + response.status));
+        }
+      }
+
+      document.addEventListener('submit', async function (event) {
+        var form = event.target;
+        if (!form || !form.hasAttribute('data-supabase-form')) return;
+        event.preventDefault();
+
+        hide(form, '[data-form-success]');
+        hide(form, '[data-form-error]');
+
+        var trap = form.querySelector('input[name="company"], input[name="website"]');
+        if (trap && trap.value) {
+          form.reset();
+          show(form, '[data-form-success]');
+          return;
+        }
+
+        var button = form.querySelector('button[type="submit"]');
+        if (button) button.disabled = true;
+        try {
+          await submitToSupabase(form, form.getAttribute('data-supabase-form'));
+          form.reset();
+          show(form, '[data-form-success]');
+        } catch (err) {
+          console.error(err);
+          show(form, '[data-form-error]', 'Could not save. Please try again.');
+        } finally {
+          if (button) button.disabled = false;
+        }
+      });
+    })();
+  </script>
+  <script>
+    (function () {
+      function savedTheme() {
+        try { return localStorage.getItem('kruse-theme'); } catch (e) { return null; }
+      }
+      function storeTheme(theme) {
+        try { localStorage.setItem('kruse-theme', theme); } catch (e) {}
+      }
+      function applyTheme(theme) {
+        var light = theme === 'light';
+        document.body.classList.toggle('light', light);
+        var buttons = document.querySelectorAll('[data-theme-toggle]');
+        for (var i = 0; i < buttons.length; i++) {
+          buttons[i].textContent = light ? 'Dark mode' : 'Light mode';
+          buttons[i].setAttribute('aria-pressed', light ? 'true' : 'false');
+        }
+      }
+      var initial = savedTheme() || 'dark';
+      applyTheme(initial);
+      document.addEventListener('click', function (event) {
+        var button = event.target.closest && event.target.closest('[data-theme-toggle]');
+        if (!button) return;
+        var next = document.body.classList.contains('light') ? 'dark' : 'light';
+        storeTheme(next);
+        applyTheme(next);
+      });
+    })();
+  </script>
+</body>
+</html>

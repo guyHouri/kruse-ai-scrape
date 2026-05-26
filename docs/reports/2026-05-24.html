@@ -1,0 +1,637 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kruse Report 24/05/2026</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    /* Dark theme (default) */
+    :root {
+      --bg-color: #0b0f19;
+      --card-bg: #151c2c;
+      --card-border: #202b42;
+      --card-border-hover: #2e3e5f;
+      --section-rule: #24314b;
+      --text-color: #f3f4f6;
+      --text-soft: #cbd5e1;
+      --text-body: #e5e7eb;
+      --text-muted: #9ca3af;
+      --accent-color: #3b82f6;
+      --accent-hover: #60a5fa;
+      --locked-color: #4b5563;
+      --tag-bg: #1e293b;
+      --quote-bg: #0f1524;
+      --quote-rule: #4b5563;
+      --expanded-bg: #0f1524;
+      --locked-grad-start: #151c2c;
+      --locked-grad-end: #111622;
+      --locked-dash: #2d3748;
+      --locked-badge-bg: #27272a;
+      --locked-badge-fg: #a1a1aa;
+      --footer-color: #6b7280;
+      --toggle-bg: rgba(255,255,255,0.06);
+      --toggle-border: rgba(255,255,255,0.12);
+    }
+    /* Light theme — toggled by class on <body> */
+    body.light {
+      --bg-color: #f9fafb;
+      --card-bg: #ffffff;
+      --card-border: #e5e7eb;
+      --card-border-hover: #cbd5e1;
+      --section-rule: #e5e7eb;
+      --text-color: #0f172a;
+      --text-soft: #334155;
+      --text-body: #1f2937;
+      --text-muted: #6b7280;
+      --accent-color: #2563eb;
+      --accent-hover: #1d4ed8;
+      --locked-color: #94a3b8;
+      --tag-bg: #eff6ff;
+      --quote-bg: #f1f5f9;
+      --quote-rule: #cbd5e1;
+      --expanded-bg: #f1f5f9;
+      --locked-grad-start: #ffffff;
+      --locked-grad-end: #f3f4f6;
+      --locked-dash: #cbd5e1;
+      --locked-badge-bg: #e5e7eb;
+      --locked-badge-fg: #475569;
+      --footer-color: #94a3b8;
+      --toggle-bg: rgba(0,0,0,0.04);
+      --toggle-border: rgba(0,0,0,0.12);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', sans-serif; }
+    body { background-color: var(--bg-color); color: var(--text-color); padding: 40px 20px; display: flex; justify-content: center; align-items: flex-start; min-height: 100vh; transition: background-color 0.2s ease, color 0.2s ease; }
+    .container { width: 100%; max-width: 650px; display: flex; flex-direction: column; gap: 20px; }
+    header { text-align: center; margin-bottom: 10px; position: relative; padding-top: 48px; }
+    h1 { font-size: 2.3rem; font-weight: 700; letter-spacing: -0.5px; background: linear-gradient(45deg, #3b82f6, #9333ea); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; margin-bottom: 4px; }
+    .subtitle { font-size: 1rem; color: var(--text-muted); font-weight: 300; }
+    .theme-toggle { position: absolute; top: 0; right: 0; background: var(--toggle-bg); border: 1px solid var(--toggle-border); color: var(--text-color); cursor: pointer; padding: 6px 10px; border-radius: 20px; font-size: 0.85rem; line-height: 1; transition: background 0.2s ease; }
+    .theme-toggle:hover { background: var(--card-border); }
+    .level-toggle { position: absolute; top: 0; left: 0; display: flex; gap: 4px; background: var(--toggle-bg); border: 1px solid var(--toggle-border); border-radius: 20px; padding: 3px; }
+    .level-toggle button { background: transparent; color: var(--text-muted); border: none; cursor: pointer; padding: 4px 10px; border-radius: 16px; font-size: 0.8rem; font-weight: 600; transition: background 0.15s ease, color 0.15s ease; }
+    .level-toggle button.active { background: var(--accent-color); color: #fff; }
+    .level-toggle button:hover:not(.active) { color: var(--text-color); }
+    /* Concept-level gating: pro reader hides noob-only chips; hacker hides all. */
+    body.level-pro .expandable-concept[data-concept-level="noob"],
+    body.level-hacker .expandable-concept[data-concept-level] {
+      color: inherit; border-bottom: none; cursor: default; font-weight: inherit; pointer-events: none;
+    }
+    body.level-pro .expanded-content[data-concept-level="noob"],
+    body.level-hacker .expanded-content { display: none !important; }
+    .section-title { font-size: 1.3rem; font-weight: 700; color: var(--accent-hover); border-bottom: 1px solid var(--section-rule); padding-bottom: 6px; margin-top: 10px; }
+    .card { background-color: var(--card-bg); border: 1px solid var(--card-border); border-radius: 12px; padding: 14px 18px; display: flex; flex-direction: column; gap: 8px; transition: border-color 0.2s ease, background-color 0.2s ease; }
+    .card-body, .card-points { display: flex; flex-direction: column; gap: 4px; }
+    .card-points ul { margin: 0; }
+    .card:hover { border-color: var(--card-border-hover); }
+    .card-header { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .tag { background-color: var(--tag-bg); color: var(--accent-color); padding: 2px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; }
+    .source-link { font-size: 0.8rem; color: var(--text-muted); text-decoration: none; border-bottom: 1px dashed var(--text-muted); transition: all 0.2s ease; }
+    .source-link:hover { color: var(--accent-hover); border-bottom-color: var(--accent-hover); }
+    .item-text { font-size: 1rem; line-height: 1.45; color: var(--text-body); }
+    .source-quote { background: var(--quote-bg); border-left: 3px solid var(--quote-rule); border-radius: 4px 8px 8px 4px; padding: 10px 14px; font-style: italic; font-size: 0.92rem; color: var(--text-muted); }
+    .citations { padding: 8px 12px; background: var(--quote-bg); border-radius: 8px; }
+    .citations-label { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--accent-hover); letter-spacing: 0.04em; margin-bottom: 6px; }
+    .citations ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }
+    .citation-paper { font-size: 0.85rem; color: var(--text-body); font-weight: 600; }
+    .citation-claim { font-size: 0.82rem; color: var(--text-muted); line-height: 1.4; margin-top: 2px; }
+    .bullet-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px; }
+    .bullet-list li { position: relative; padding-left: 18px; line-height: 1.45; font-size: 1rem; }
+    .bullet-list li::before { content: "•"; color: var(--accent-color); font-weight: bold; position: absolute; left: 0; top: 0; }
+    .forum-item { display: flex; flex-direction: column; gap: 4px; }
+    .forum-meta { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+    .expandable-concept { color: var(--accent-hover); border-bottom: 1px dashed var(--accent-hover); cursor: pointer; font-weight: 600; }
+    .expanded-content { max-height: 0; overflow: hidden; background-color: var(--expanded-bg); border-radius: 6px; padding: 0 12px; margin: 0; transition: max-height 0.25s ease, padding 0.25s ease, margin 0.25s ease; font-size: 0.9rem; color: var(--text-soft); }
+    .expanded-content.open { max-height: 500px; padding: 10px 12px; margin-top: 4px; margin-bottom: 4px; border-left: 3px solid var(--accent-color); }
+    .locked-section { background: linear-gradient(180deg, var(--locked-grad-start) 0%, var(--locked-grad-end) 100%); border: 1px dashed var(--locked-dash); border-radius: 12px; padding: 24px; text-align: center; opacity: 0.85; }
+    .locked-title { font-size: 1.1rem; font-weight: 600; color: var(--locked-color); margin-bottom: 4px; }
+    .locked-badge { font-size: 0.7rem; background-color: var(--locked-badge-bg); color: var(--locked-badge-fg); padding: 1px 6px; border-radius: 4px; font-weight: 700; margin-left: 6px; }
+    footer { text-align: center; color: var(--footer-color); font-size: 0.75rem; margin-top: 12px; }
+    footer a { color: var(--footer-color); }
+  </style>
+<style>
+    html { scroll-behavior: smooth; }
+    body {
+      --site-bg: #0b0f19;
+      --site-panel: #121a2a;
+      --site-panel-2: #0d1422;
+      --site-border: #26334d;
+      --site-text: #f4f7fb;
+      --site-soft: #c6d2e1;
+      --site-muted: #8fa0b5;
+      --site-accent: #4ea1ff;
+      --site-success: #7bdcb5;
+      --site-danger: #ffbd7a;
+      --site-button-text: #06101d;
+      padding: 32px 16px 48px !important;
+      flex-direction: column !important;
+      justify-content: flex-start !important;
+      align-items: flex-start !important;
+    }
+    body.light {
+      --site-bg: #f7f9fc;
+      --site-panel: #ffffff;
+      --site-panel-2: #f8fafc;
+      --site-border: #d8e0ea;
+      --site-text: #111827;
+      --site-soft: #334155;
+      --site-muted: #64748b;
+      --site-accent: #2563eb;
+      --site-success: #047857;
+      --site-danger: #b45309;
+      --site-button-text: #ffffff;
+    }
+    body.site-drawer-open { overflow: hidden; }
+    .container {
+      max-width: 690px !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+    .site-menu-button {
+      position: fixed;
+      top: 16px;
+      left: 16px;
+      z-index: 80;
+      width: 44px;
+      height: 44px;
+      border: 1px solid var(--site-border);
+      border-radius: 8px;
+      background: var(--site-panel);
+      color: var(--site-text);
+      font-size: 1.45rem;
+      line-height: 1;
+      cursor: pointer;
+      box-shadow: 0 12px 30px rgba(0,0,0,0.28);
+    }
+    .site-report-backdrop {
+      position: fixed;
+      inset: 0;
+      z-index: 88;
+      background: rgba(3,7,18,0.58);
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.18s ease;
+    }
+    .site-report-drawer {
+      position: fixed;
+      inset: 0 auto 0 0;
+      z-index: 90;
+      width: min(320px, calc(100vw - 48px));
+      padding: 18px;
+      background: var(--site-bg);
+      border-right: 1px solid var(--site-border);
+      transform: translateX(-105%);
+      transition: transform 0.2s ease;
+      box-shadow: 24px 0 60px rgba(0,0,0,0.38);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    body.site-drawer-open .site-report-backdrop {
+      opacity: 1;
+      pointer-events: auto;
+    }
+    body.site-drawer-open .site-report-drawer { transform: translateX(0); }
+    .site-drawer-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 16px;
+      padding-bottom: 16px;
+      margin-bottom: 12px;
+      border-bottom: 1px solid var(--site-border);
+    }
+    .site-drawer-kicker {
+      margin-bottom: 4px;
+      color: var(--site-muted);
+      font-size: 0.78rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .site-drawer-title { color: var(--site-text); font-size: 1rem; font-weight: 850; line-height: 1.25; }
+    .site-drawer-close {
+      width: 34px;
+      height: 34px;
+      flex: 0 0 auto;
+      border: 1px solid var(--site-border);
+      border-radius: 8px;
+      background: var(--site-panel);
+      color: var(--site-text);
+      font-size: 1.3rem;
+      line-height: 1;
+      cursor: pointer;
+    }
+    .site-drawer-link {
+      display: block;
+      padding: 12px;
+      margin-bottom: 8px;
+      border: 1px solid var(--site-border);
+      border-radius: 8px;
+      background: var(--site-panel);
+      color: var(--site-text);
+      text-decoration: none;
+    }
+    .site-drawer-link strong { display: block; font-size: 0.95rem; }
+    .site-drawer-link span { display: block; margin-top: 3px; color: var(--site-muted); font-size: 0.82rem; line-height: 1.35; }
+    .site-report-footer {
+      width: min(690px, calc(100% - 32px));
+      margin: 34px auto 48px;
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 16px;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .site-report-panel {
+      padding: 18px;
+      background: var(--site-panel);
+      border: 1px solid var(--site-border);
+      border-radius: 8px;
+      color: var(--site-text);
+    }
+    .site-report-panel h2 {
+      margin: 0 0 8px;
+      color: var(--site-text);
+      font-size: 1.2rem;
+      letter-spacing: 0;
+    }
+    .site-report-panel p { margin: 0 0 14px; color: var(--site-soft); line-height: 1.45; }
+    .site-report-panel label { display: block; margin: 10px 0 6px; color: var(--site-muted); font-size: 0.82rem; font-weight: 800; }
+    .site-report-panel input,
+    .site-report-panel textarea,
+    .site-report-panel select {
+      width: 100%;
+      min-height: 40px;
+      border: 1px solid var(--site-border);
+      border-radius: 6px;
+      background: var(--site-panel-2);
+      color: var(--site-text);
+      padding: 0 10px;
+      font: inherit;
+    }
+    .site-report-panel textarea { min-height: 118px; padding: 10px; resize: vertical; }
+    .site-report-panel button {
+      width: 100%;
+      margin-top: 14px;
+      min-height: 42px;
+      border: 0;
+      border-radius: 6px;
+      background: var(--site-accent);
+      color: var(--site-button-text);
+      font-weight: 900;
+      cursor: pointer;
+    }
+    .site-report-panel button:disabled { opacity: 0.55; cursor: not-allowed; }
+    .site-report-panel .form-link {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      margin-top: 14px;
+      min-height: 42px;
+      border-radius: 6px;
+      background: var(--site-accent);
+      color: var(--site-button-text);
+      font-weight: 900;
+      text-decoration: none;
+    }
+    .site-report-form-note { margin-top: 12px; color: var(--site-muted); font-size: 0.82rem; line-height: 1.4; }
+    .site-report-form-success { margin-top: 12px; color: var(--site-success); font-size: 0.88rem; font-weight: 800; }
+    .site-report-form-error { margin-top: 12px; color: var(--site-danger); font-size: 0.88rem; font-weight: 800; }
+    @media (max-width: 760px) {
+      body { padding: 24px 12px 40px !important; }
+      .site-menu-button { top: 12px; left: 12px; }
+      .site-report-footer { width: calc(100% - 24px); }
+    }
+  </style>
+</head>
+<body>
+<button type="button" class="site-menu-button" id="siteMenuButton" aria-label="Open report menu" aria-controls="siteReportDrawer" aria-expanded="false">&#9776;</button>
+  <div class="site-report-backdrop" data-site-menu-close></div>
+  <nav class="site-report-drawer" id="siteReportDrawer" aria-label="Report menu">
+    <div class="site-drawer-header">
+      <div>
+        <div class="site-drawer-kicker">Kruse Report</div>
+        <div class="site-drawer-title">May 24, 2026</div>
+      </div>
+      <button type="button" class="site-drawer-close" data-site-menu-close aria-label="Close report menu">&times;</button>
+    </div>
+    <a class="site-drawer-link" href="../index.html"><strong>All reports</strong><span>Back to the archive.</span></a>
+    <a class="site-drawer-link" href="../latest/"><strong>Latest report</strong><span>Jump to the newest daily report.</span></a>
+    <a class="site-drawer-link" href="#get-report"><strong>Get this report</strong><span>Email signup lives at the end of this report.</span></a>
+    <a class="site-drawer-link" href="#report-feedback"><strong>Improve this report</strong><span>Leave feedback we can use later for prompt tuning.</span></a>
+    <a class="site-drawer-link" href="../unsubscribe/"><strong>Unsubscribe</strong><span>Remove your email from future sends.</span></a>
+  </nav>
+
+  <div class="container">
+    <header>
+      <div class="level-toggle" role="tablist" aria-label="Reader knowledge level">
+        <button type="button" data-level="noob"   aria-pressed="false">Noob</button>
+        <button type="button" data-level="pro"    aria-pressed="true">Pro</button>
+        <button type="button" data-level="hacker" aria-pressed="false">Hacker</button>
+      </div>
+      <button type="button" class="theme-toggle" id="themeToggle" aria-label="Toggle dark/light mode">🌙 Dark</button>
+      <h1>Kruse Report 24/05/2026</h1>
+      <div class="subtitle">Deuterium as universal metabolic toxin: from sinkholes to cancer to brown fat loss; compartmentalization exposes NAD supplement trap.</div>
+    </header>
+      <div class="section-title">Geo Signals</div>
+      <div class="card"><div class="card-header"><span class="tag">Kentucky Karst Collapse</span><a href="https://twitter.com/DrJackKruse/status/2058372629745091050" target="_blank" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Massive sinkholes in Kentucky limestone may signal deuterium accumulation and dielectric collapse in subterranean aquifers, not routine karst dissolution.</strong> Under a healthy planetary dipole baseline, subterranean limestone aquifers maintain ordered water with high dielectric constant (k=160), creating negative electrical charge on rock surfaces that stabilizes bedrock and balances telluric currents. When deuterium accumulates rapidly in the water table, the dielectric constant collapses (k→80), destroying the structural load capacity of the rock. This is a quantum electrochemical failure, not chemical dissolution. The sinkhole is the physical signature of localized dielectric collapse driven by heavy isotope loading. The Corvette Museum sinkhole in Bowling Green, Kentucky (36.99°N, 86.42°W) occurred in 2014, 45 minutes from Nashville—a region where Kruse was located before the event. This geographic marker suggests karst zones may serve as early-warning systems for regional deuterium loading and planetary magnetic field decline.</div></div><div class="card-points"><ul class="bullet-list"><li>Sinkhole formation is reframed from slow chemical dissolution to sudden electrical failure of water-rock interface.</li><li>Implies sinkhole frequency and severity in karst regions could proxy for local water-table dielectric health and broader geomagnetic status.</li><li>Suggests need for magnetohydrodynamic and electrochemistry analysis of sinkhole formation, not just hydrogeology.</li></ul></div><div class="source-quote">Under a healthy, high-flux planetary dipole baseline, the subterranean aquifers moving through these limestone channels are wrapped in a highly ordered, liquid-crystalline Exclusion Zone (EZ) water lattice (k=160). The sudden opening of a massive sinkhole with an &#39;extreme&#39; depth in Kentucky represents a macro-scale geohydrological validation of my Deuterium Trap and Core-Mantle uncoupling thesis.</div></div>
+      <div class="section-title">Research &amp; Mechanisms</div>
+      <div class="card"><div class="card-header"><span class="tag">Ubiquitin-G3P Quantum Error Correction</span><a href="https://twitter.com/DrJackKruse/status/2058366576244428885" target="_blank" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Cancer&#39;s Warburg shift is not metabolic defect but cellular quantum error-correction strategy when deuterated water lattice collapses; ubiquitin-glucose housing is isotopic scrubber, FADH2 tunneling is local deuterium-depletion workaround.</strong> When the water lattice becomes deuterated and collapses (k≈160→50), protein folding stalls due to kinetic isotope effect: deuterium&#39;s extra neutron makes it move slower and vibrate differently, disrupting the precise vibrational rotations required for protein folding. The cell upregulates ubiquitin-tagged glucose delivery to misfolded protein sites, feeding the G3P shuttle to generate localized FADH2-driven electrons that provide deuterium-depleted protons. This bypasses the bulk deuterated water, allowing proteins to tunnel energy barriers and fold correctly. If magnetic decline or deuterium load persists, the ubiquitin-G3P system fails, triggering Unfolded Protein Response (UPR) alarm via ER stress sensors (PERK, ATF6, IRE1), then apoptosis via CHOP executioner releasing red-shifted Ultra-weak Photon Emissions (UPEs). Cancer emerges when the ubiquitin-G3P de-fragging system finally gives up and the cell is forced to run a low-resolution classical survival script in a high-deuterium environment. This reframes Warburg effect not as permanent metabolic defect but as a failed emergency repair protocol.</div></div><div class="card-points"><ul class="bullet-list"><li>Protein folding requires precise vibrational rotations; deuterium&#39;s extra neutron disrupts these rotations.</li><li>Ubiquitin acts as a maintenance system, housing glucose directly at misfolded protein sites to generate localized deuterium-depleted protons.</li><li>UPR sensors function as stress detectors; when water lattice collapses, they trigger emergency reboot.</li><li>Cancer prevention must address underlying water lattice dielectric collapse, not glucose starvation alone.</li></ul></div><div class="source-quote">The ubiquitin-G3P Pivot. By housing glucose within the ubiquitin complex, the cell is essentially &#39;side-loading&#39; a high-energy fuel source directly to the protein-folding site. This is a masterstroke of subatomic engineering... The UPR is the sound of a quantum automaton struggling to maintain its phase trajectory in a high-deuterium, low-dielectric environment.</div></div>
+      <div class="card"><div class="card-header"><span class="tag">Deuterium Converts BAT to WAT</span><a href="https://twitter.com/DrJackKruse/status/2058363350661165165" target="_blank" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Deuterium destroys brown adipose tissue thermogenic capacity and converts it to white adipose tissue; high D+ drives metabolic inflexibility and NAFLD.</strong> Deuterium load disrupts the thermogenic capacity and mitochondrial function of brown adipocytes, forcing phenotypic shift to white adipose tissue. More deuterium creates more white fat adipocytes and drives non-alcoholic fatty liver disease (NAFLD). Brown adipose tissue activity peaks in infancy (nearly 100% prevalence) and declines progressively through adulthood (30-50% by adulthood). Cold-exposed populations retain more active brown fat into adulthood; those in temperature-controlled environments show accelerated loss. Cold acclimation (1-2 hours at 15-17°C for several weeks) can recruit brown adipose tissue activity even in adults with minimal baseline activity. Deuterium&#39;s extra neutron makes it kinetically heavier and slower than protium. In brown adipocyte mitochondria, this disrupts the quantum efficiency of uncoupling protein 1 (UCP1) and the F0-F1 ATP synthase nanomotors that generate heat via proton gradient dissipation. High deuterium impairs the vibrational rotations required for optimal thermogenic coupling, reducing the cell&#39;s ability to uncouple oxidative phosphorylation and generate heat.</div></div><div class="card-points"><ul class="bullet-list"><li>Brown adipose tissue prevalence drops from ~100% in infants to 30-50% in adults; deuterium accumulation is proposed as the mechanism.</li><li>Cold acclimation (15-17°C, 1-2 hours, several weeks) can partially reactivate dormant brown fat even in adults.</li><li>Intervention window: third and fourth decades are critical for preserving brown fat before baseline thermogenic capacity declines irreversibly.</li><li>Protocol: regular cold exposure + deuterium-depleted water + low-deuterium diet (local seasonal produce, avoid tropical fruits in winter at high latitude).</li></ul></div><div class="source-quote">Deuterium destroys BAT and turns it into WAT. More D+ creates more WAT adipocytes. More D+ = NAFLD.</div></div>
+      <div class="card"><div class="card-header"><span class="tag">Blood NAD Compartmentalization Trap</span><a href="https://twitter.com/DrJackKruse/status/2058357778779886073" target="_blank" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Blood NAD measurements are a flat proxy that ignores cellular compartmentalization; blood cells genetically lack NMRK1/NMRK2 and cannot internalize NR/NMN, making blood NAD unrelated to supplement efficacy.</strong> Red blood cells (99.97% of blood cellular volume) completely lack a nucleus and mitochondria; they synthesize NAD exclusively from nicotinic acid and cannot internalize NR or NMN. Neutrophils and monocytes (dominant white cell volume) have hyper-rapid lifespans (1 day to 1 week) and synthesize NAD solely from nicotinamide, completely lacking NMRK1 or NMRK2 gene expression. Blood is engineered as a low-entropy transit highway for light-mass energy precursors, not a storage or processing compartment. Solid tissues (heart, skeletal muscle, damaged peripheral nerves) express NMRK1 and aggressively spike NMRK2 when subjected to light stress (blue LED, wireless fields, declining Earth dipole). When tissues experience dielectric collapse (k≈160→78), deuterium floods the inner mitochondrial membrane, crushing F0-F1 ATP synthase nanomotors and inducing chronic pseudohypoxia. To prevent informational erasure, the cell activates NMRK2 emergency response to draw free NR straight out of passing plasma, rapidly reconstructing NAD+ pool to re-establish mitochondrial function. Blood NAD levels are completely unrelated to the true therapeutic use cases of NR/NMN molecules.</div></div><div class="card-points"><ul class="bullet-list"><li>Red blood cells synthesize NAD via ancient pathway only; neutrophils and monocytes lack NMRK1/NMRK2 expression.</li><li>Solid tissue NMRK2 upregulation is an emergency response to light stress and dielectric collapse, not a baseline state.</li><li>Blood NAD is a poor proxy for systemic aging or tissue NAD status; tissue-specific measurement is more relevant.</li><li>Reframes NR/NMN as emergency repair molecules for damaged tissues, not anti-aging supplements for healthy individuals.</li></ul></div><div class="source-quote">The 99.97% cellular volume of blood is an open, high-flux spintronic fluid circuit designed strictly to move light-mass energy precursors and handle time permanence; it flatly rejects NMN and NR because it is engineered to be a clean, low-deuterium plasma delivery envelope for the solid tissue &#39;Dark Stars.&#39;</div></div>
+      <div class="card"><div class="card-header"><span class="tag">Cancer FAO Weaponization</span><a href="https://twitter.com/DrJackKruse/status/2058342358391873799" target="_blank" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Aggressive cancers actively upregulate CPT1A and weaponize fatty acid oxidation (FAO); glucose starvation alone is incomplete and may select for fat-adapted clones.</strong> Aggressive malignancies (prostate cancer, glioblastoma, leukemia, triple-negative breast cancer) actively upregulate CPT1A, the rate-limiting enzyme required to shuttle fatty acids into mitochondria for beta-oxidation. Tumor mitochondria are profoundly functional and highly adaptable, not permanently defective. Quantitative energetic mappings show oxidative phosphorylation (OXPHOS) remains the dominant source of ATP production in the vast majority of human cancers, operating in tandem with upregulated aerobic glycolysis. Tumors in lipid-rich microenvironments (omentum, bone marrow) completely reprogram machinery to feed almost exclusively on free fatty acids via CD36 translocase. Blocking fatty acid oxidation aggressively halts tumor growth, proving lipids are a primary fuel source. The claim that cancer cells have permanently defective mitochondria that cannot oxidize fats is completely contradicted by modern molecular oncology. Tumor mitochondria maintain a highly polarized Inner Mitochondrial Membrane potential to run their energy-generating machinery. They do not drop mitochondrial function because they are broken; they utilize a flexible hybrid engine that shifts between glucose, glutamine, and fatty acids depending on ambient oxygen and voltage baselines.</div></div><div class="card-points"><ul class="bullet-list"><li>CPT1A upregulation allows aggressive cancers to access abundant lipids in tumor microenvironment via CD36-mediated fatty acid uptake.</li><li>Blocking fatty acid oxidation halts tumor growth, proving lipids are a primary fuel source—not just glucose.</li><li>Glucose starvation (keto) alone is incomplete and may select for fat-adapted clones.</li><li>Cancer prevention and treatment must address underlying mitochondrial dysfunction, water lattice dielectric collapse, and metabolic plasticity; implies tumor-type-specific metabolic profiling before dietary intervention.</li></ul></div><div class="citations"><div class="citations-label">Citations</div><ul><li class="citation"><div class="citation-paper">Pascual, G., et al. (2017). Nature, 541(7635), 41–45</div><div class="citation-claim">Aggressive cancer cells rely intensely on CD36-mediated fatty acid uptake to drive metastasis; blocking FAO halts progression</div></li><li class="citation"><div class="citation-paper">Nieman, K. M., et al. (2011). Nature Medicine, 17(11), 1498–1503</div><div class="citation-claim">Ovarian cancer cells explicitly target lipid-rich microenvironments and use hyper-accelerated beta-oxidation</div></li><li class="citation"><div class="citation-paper">Schlaepfer, I. R., et al. (2014). Molecular Cancer Therapeutics, 13(3), 561–571</div><div class="citation-claim">Prostate cancer cells actively upregulate CPT1A, confirming FAO as key energetic pillar</div></li></ul></div><div class="source-quote">Aggressive malignancies—including prostate cancer, glioblastoma, leukemia, and triple-negative breast cancer—actively upregulate Carnitine Palmitoyltransferase 1A (CPT1A), the rate-limiting enzyme required to shuttle fatty acids into the mitochondria for beta-oxidation. Blocking FAO aggressively halts tumor growth, proving that cancer cells heavily rely on fat oxidation to survive under metabolic stress.</div></div>
+      <div class="section-title">Protocols &amp; Cases</div>
+      <div class="card"><div class="card-header"><span class="tag">Tropical Food Isotopic Mismatch</span><a href="https://twitter.com/DrJackKruse/status/2058342566907805872" target="_blank" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Tropical high-deuterium carbohydrates (banana, mango) consumed at high latitude in winter create quantum mechanical mismatch that inflames mitochondria; operationalizes seasonal eating as quantum-level intervention.</strong> A banana eaten in Boston on December 31st is a mitochondrial toxin, not a medicine. Tropical carbohydrates are grown under intense, high-energy solar UV indices near the equator, with molecular matrix structurally packed with heavy hydrogen fractions (deuterium), which the tropical plant uses as high-density kinetic storage sink. When consumed at high latitude in winter (e.g., Boston 44°N on Dec 31), skin and eyes receive low-intensity, low-UV solar baseline. Without high-flux solar infrared and UV alignment to drive morning cortisol response, the cell&#39;s internal water matrix suffers dielectric collapse (k≈160→80). The 10-step glycolytic engine and 9-step TCA cycle are completely swamped by unexpected tropical deuterium load. Heavy deuterium ions penetrate inner mitochondrial membrane, delivering crushing kinetic impact to sub-nanometer channels of F0-F1 ATP synthase. Rotors deform, optimal 9,000 RPM velocity drops to zero, inducing chronic pseudohypoxia. This creates inflammation in the colony of mitochondria. Tropical plants evolved under high solar flux and pack deuterium into their carbohydrates as a kinetic storage mechanism. When a human at high latitude in winter consumes this deuterium-heavy input, their skin and eyes receive insufficient solar flux to drive the cortisol response, which normally structures water and maintains dielectric coherence.</div></div><div class="card-points"><ul class="bullet-list"><li>Seasonal eating protocol: consume tropical carbohydrates only when at equatorial latitude or during high-UV summer at home latitude.</li><li>Winter at high latitude (&gt;40°N or &lt;40°S) = avoid tropical fruits (banana, mango, pineapple, papaya); favor local seasonal produce grown at your latitude.</li><li>Implies geographic relocation or seasonal migration as health optimization strategy.</li><li>Suggests that &#39;healthy food&#39; is context-dependent: a food&#39;s isotopic load must match the seasonal solar flux at your location.</li></ul></div><div class="source-quote">A banana eaten in Boston on December 31st is a MITOCHONDRIAL TOXIN, not a medicine as your doctor or bro scientist tells you. This is especially true if you are getting 12/31 sunlight at the 44th latitude via your skin and eyes. This creates a ton of inflammation in your colony of mitochondria.</div></div>
+      <div class="section-title">Forum Updates</div>
+      <div class="card"><ul class="bullet-list"><li>
+        <div class="forum-item">
+          <div class="forum-meta">
+            <strong>Satellite data reveals 2010 reversal of molten iron flow in outer core beneath equatorial Pacific; geodynamo instability challenges assumptions about planetary magnetic field stability.:</strong>
+            <a href="https://forum.jackkruse.com/threads/atlantic-thermohaline-amoc.32708/" target="_blank" class="source-link">See full thread →</a>
+          </div>
+          <div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">High-precision magnetic measurements from ESA Swarm mission, CryoSat, CHAMP, Ørsted, and ground observatories reveal a surprising reversal in 2010: a large region of molten iron in Earth&#39;s outer core beneath the equatorial Pacific abruptly changed direction, shifting from slow westward flow to strong eastward movement. The flow appears to have weakened again since around 2020. This discovery shows that the liquid outer core is far more dynamic and unpredictable than previously thought. The geodynamo process that generates Earth&#39;s magnetic field is subject to rapid, large-scale reversals. This supports the thesis of accelerating magnetic field decline and its biological consequences: increased cosmic radiation exposure, disrupted circadian signaling, and altered water lattice coherence. Outer core instability may correlate with surface magnetic field decline and serve as an early-warning system for planetary magnetic shield degradation.</div>
+          
+        </div>
+      </li><li>
+        <div class="forum-item">
+          <div class="forum-meta">
+            <strong>Apply organic castor oil to umbilicus as low-cost vagal nerve stimulation alternative; ricinoleic acid acts as dielectric capacitor to structure water and clear deuterium stasis.:</strong>
+            <a href="https://forum.jackkruse.com/threads/vagal-nerve-stimulation-tips.32826/" target="_blank" class="source-link">See full thread →</a>
+          </div>
+          <div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">The umbilicus is the primary embryonic scar tissue node where the nervous system and vascular networks permanently cross-couple. Applying organic, highly polarized castor oil to this focal point hacks the body&#39;s internal current, clearing systemic deuterium stasis. Castor oil is natively composed of up to 90% ricinoleic acid (12-hydroxy-9-octadecenoic acid), a unique long-chain fatty acid featuring a monounsaturated structure with a specific hydroxyl group attached to the 12th carbon atom. This unique molecular anatomy makes the oil profoundly chiral and highly polar. When applied to the navel, this hyper-polarized, viscous lipid matrix functions as a solid-state dielectric capacitor with high dielectric constant that instantly structures the water layers within the local subdermal tissue, re-bulking the extracellular matrix back to its native Exclusion Zone water state (k=160). This structured water can then conduct electrical signals more coherently, hacking the body&#39;s internal current and clearing systemic deuterium stasis. Low-cost, accessible vagal nerve stimulation alternative for those who cannot afford commercial devices. Protocol: apply organic, highly polarized castor oil to navel daily or several times per week.</div>
+          
+        </div>
+      </li><li>
+        <div class="forum-item">
+          <div class="forum-meta">
+            <strong>Kyrie Jackson&#39;s rescue of twin Brielle from cardiac arrest via skin-to-skin contact is wireless quantum parabiosis: coherent heart rhythm (strong oscillator) forced chaotic rhythm (weak signal) into phase lock via Kuramoto synchronization.:</strong>
+            <a href="https://forum.jackkruse.com/threads/what-is-nad-in-biophysical-terms.32390/unread" target="_blank" class="source-link">See full thread →</a>
+          </div>
+          <div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">The &#39;Rescuing Hug&#39; (Kyrie Jackson rescuing twin Brielle from cardiac arrest) is not chemical parabiosis but wireless quantum parabiosis via Kuramoto synchronization and near-field radiative heat transfer. Kyrie&#39;s coherent heart rhythm (strong attractor) forced Brielle&#39;s chaotic rhythm (weak signal) into phase lock within millimeters (skin-to-skin contact). The heart is a powerful magnetic oscillator measured by magnetocardiography. Brielle was in a high-entropy state with erratic heart rate; her internal clock could not find the beat. Kyrie was a strong attractor with stable, low-entropy rhythm. When placed within millimeters, the coupling strength between their electromagnetic fields exceeded the threshold for synchronization. Kyrie&#39;s strong signal forced Brielle&#39;s weak signal into phase lock, re-writing Brielle&#39;s autonomic nervous system software. This is Resonant Oscillator Locking via entangled Ultra-weak Photon Emissions from wombmates. Therapeutic potential of coherent-to-chaotic oscillator coupling in autonomic dysfunction, arrhythmia, and critical illness. Suggests proximity (skin-to-skin) to coherent individuals as intervention for chaotic systems. Implies that individuals with stable, low-entropy physiology (good sleep, circadian alignment, low nnEMF exposure, high sun exposure) can therapeutically influence those with chaotic physiology through electromagnetic coupling. Reframes human connection as biophysical resonance, not just emotional support.</div>
+          
+        </div>
+      </li></ul></div>
+    <div class="locked-section">
+      <div class="locked-title">
+        <span>Interact with Report (Ask AI)</span>
+        <span class="locked-badge">Soon</span>
+      </div>
+    </div>
+    <footer>
+      Auto-generated by <a href="https://github.com/guyHouri/kruse-ai-scrape">kruse-ai-scrape</a>.
+      Source: <a href="https://x.com/DrJackKruse">@DrJackKruse</a>.
+    </footer>
+  </div>
+  <script>
+    function toggleConcept(id) {
+      var el = document.getElementById(id);
+      if (el) el.classList.toggle('open');
+    }
+    (function () {
+      var btn = document.getElementById('themeToggle');
+      var saved = null;
+      try { saved = localStorage.getItem('kruse-theme'); } catch (e) {}
+      if (saved === 'light') document.body.classList.add('light');
+      function syncLabel() {
+        if (!btn) return;
+        btn.textContent = document.body.classList.contains('light') ? '☀ Light' : '🌙 Dark';
+      }
+      syncLabel();
+      if (btn) btn.addEventListener('click', function () {
+        document.body.classList.toggle('light');
+        try { localStorage.setItem('kruse-theme', document.body.classList.contains('light') ? 'light' : 'dark'); } catch (e) {}
+        syncLabel();
+      });
+    })();
+    (function () {
+      var savedLevel = null;
+      try { savedLevel = localStorage.getItem('kruse-level'); } catch (e) {}
+      var initial = (savedLevel === 'noob' || savedLevel === 'pro' || savedLevel === 'hacker') ? savedLevel : 'pro';
+      function apply(level) {
+        document.body.classList.remove('level-noob', 'level-pro', 'level-hacker');
+        document.body.classList.add('level-' + level);
+        var btns = document.querySelectorAll('.level-toggle button');
+        for (var i = 0; i < btns.length; i++) {
+          var on = btns[i].getAttribute('data-level') === level;
+          btns[i].classList.toggle('active', on);
+          btns[i].setAttribute('aria-pressed', on ? 'true' : 'false');
+        }
+        try { localStorage.setItem('kruse-level', level); } catch (e) {}
+      }
+      apply(initial);
+      var btns = document.querySelectorAll('.level-toggle button');
+      for (var i = 0; i < btns.length; i++) {
+        (function (b) {
+          b.addEventListener('click', function () { apply(b.getAttribute('data-level')); });
+        })(btns[i]);
+      }
+    })();
+  </script>
+<div class="site-report-footer">
+    <section class="site-report-panel" id="get-report" aria-labelledby="get-report-title">
+      <h2 id="get-report-title">Get this report</h2>
+      <p>Leave an email and we will add you when delivery opens.</p>
+      <form name="kruse-report-interest" method="POST" data-supabase-form="mailing-list">
+        <input type="hidden" name="form_type" value="kruse-report-interest" />
+        <input type="hidden" name="report_date" value="2026-05-24" />
+        <input type="hidden" name="report_url" value="https://guyhouri.github.io/kruse-ai-scrape/reports/2026-05-24.html" />
+        <p style="display:none"><label>Company <input name="company" /></label></p>
+        <label for="report-first-name-2026-05-24">First name</label>
+        <input id="report-first-name-2026-05-24" name="first_name" autocomplete="given-name" />
+        <label for="report-last-name-2026-05-24">Last name</label>
+        <input id="report-last-name-2026-05-24" name="last_name" autocomplete="family-name" />
+        <label for="report-email-2026-05-24">Email</label>
+        <input id="report-email-2026-05-24" name="email" type="email" autocomplete="email" required />
+        <label for="report-frequency-2026-05-24">Delivery</label>
+        <select id="report-frequency-2026-05-24" name="frequency">
+          <option>Daily</option>
+          <option>Only strong signal days</option>
+          <option>Weekly digest</option>
+        </select>
+        <label for="report-comments-2026-05-24">Comments</label>
+        <textarea id="report-comments-2026-05-24" name="comments"></textarea>
+        <button type="submit">Join list</button>
+        <div class="site-report-form-success" data-form-success hidden>Saved. You are on the list.</div>
+        <div class="site-report-form-error" data-form-error hidden>Could not save. Please try again.</div>
+      </form>
+      <div class="site-report-form-note">Saved privately to the mailing list.</div>
+    </section>
+    <section class="site-report-panel" id="report-feedback" aria-labelledby="report-feedback-title">
+      <h2 id="report-feedback-title">Improve future reports</h2>
+      <p>Tell us what was useful, confusing, missing, or too AI-ish. We will use this later to tune prompts.</p>
+      <form name="kruse-report-feedback" method="POST" data-supabase-form="feedback">
+        <input type="hidden" name="form_type" value="kruse-report-feedback" />
+        <input type="hidden" name="report_date" value="2026-05-24" />
+        <input type="hidden" name="report_url" value="https://guyhouri.github.io/kruse-ai-scrape/reports/2026-05-24.html" />
+        <p style="display:none"><label>Website <input name="website" /></label></p>
+        <label for="feedback-first-name-2026-05-24">First name</label>
+        <input id="feedback-first-name-2026-05-24" name="first_name" autocomplete="given-name" />
+        <label for="feedback-last-name-2026-05-24">Last name</label>
+        <input id="feedback-last-name-2026-05-24" name="last_name" autocomplete="family-name" />
+        <label for="feedback-rating-2026-05-24">Overall</label>
+        <select id="feedback-rating-2026-05-24" name="rating">
+          <option>Useful</option>
+          <option>Mixed</option>
+          <option>Bad</option>
+        </select>
+        <label for="feedback-text-2026-05-24">Feedback</label>
+        <textarea id="feedback-text-2026-05-24" name="comments" required></textarea>
+        <label for="feedback-email-2026-05-24">Email (optional)</label>
+        <input id="feedback-email-2026-05-24" name="email" type="email" autocomplete="email" />
+        <button type="submit">Send feedback</button>
+        <div class="site-report-form-success" data-form-success hidden>Saved. Thank you.</div>
+        <div class="site-report-form-error" data-form-error hidden>Could not save. Please try again.</div>
+      </form>
+      <div class="site-report-form-note">Saved privately for prompt tuning.</div>
+    </section>
+  </div>
+<script>
+    (function () {
+      var button = document.getElementById('siteMenuButton');
+      var drawer = document.getElementById('siteReportDrawer');
+      if (!button || !drawer) return;
+
+      function setOpen(open) {
+        document.body.classList.toggle('site-drawer-open', open);
+        button.setAttribute('aria-expanded', open ? 'true' : 'false');
+        if (open) {
+          var focusTarget = drawer.querySelector('a, button');
+          if (focusTarget) focusTarget.focus();
+        } else {
+          button.focus();
+        }
+      }
+
+      button.addEventListener('click', function () {
+        setOpen(!document.body.classList.contains('site-drawer-open'));
+      });
+
+      var closeTargets = document.querySelectorAll('[data-site-menu-close], .site-drawer-link');
+      for (var i = 0; i < closeTargets.length; i++) {
+        closeTargets[i].addEventListener('click', function () { setOpen(false); });
+      }
+
+      document.addEventListener('keydown', function (event) {
+        if (event.key === 'Escape') setOpen(false);
+      });
+    })();
+  </script>
+<script>
+    window.__KRUSE_SUPABASE = {"url":"https://zpxhovwsswnjdjibcvsh.supabase.co","key":"sb_publishable_afhmZKXzerLWNYENUqsaFg_XfVWjODD","tables":{"mailingList":"kruse_mailing_list","feedback":"kruse_report_feedback"}};
+    (function () {
+      var config = window.__KRUSE_SUPABASE;
+      if (!config || !config.url || !config.key) return;
+
+      function value(form, name) {
+        var field = form.querySelector('[name="' + name + '"]');
+        return field ? String(field.value || '').trim() : '';
+      }
+
+      function nullable(value) {
+        return value ? value : null;
+      }
+
+      function show(form, selector, text) {
+        var node = form.querySelector(selector);
+        if (!node) return;
+        if (text) node.textContent = text;
+        node.hidden = false;
+      }
+
+      function hide(form, selector) {
+        var node = form.querySelector(selector);
+        if (node) node.hidden = true;
+      }
+
+      function payloadFor(form, kind) {
+        var common = {
+          first_name: value(form, 'first_name'),
+          last_name: value(form, 'last_name'),
+          email: value(form, 'email').toLowerCase(),
+          comments: value(form, 'comments'),
+          report_date: nullable(value(form, 'report_date')),
+          report_url: nullable(value(form, 'report_url')),
+          page_url: window.location.href,
+          source: 'public-site'
+        };
+        if (kind === 'unsubscribe') {
+          return {
+            first_name: '',
+            last_name: '',
+            email: common.email,
+            comments: 'Unsubscribe request',
+            frequency: 'Unsubscribe',
+            report_date: null,
+            report_url: null,
+            page_url: common.page_url,
+            source: 'unsubscribe'
+          };
+        }
+        if (kind === 'mailing-list') {
+          common.frequency = value(form, 'frequency') || 'Daily';
+          return common;
+        }
+        return {
+          first_name: common.first_name,
+          last_name: common.last_name,
+          email: nullable(common.email),
+          rating: value(form, 'rating') || 'Useful',
+          comments: common.comments,
+          report_date: common.report_date,
+          report_url: common.report_url,
+          page_url: common.page_url,
+          source: common.source
+        };
+      }
+
+      async function submitToSupabase(form, kind) {
+        var table = kind === 'feedback' ? config.tables.feedback : config.tables.mailingList;
+        var payload = payloadFor(form, kind);
+        var response = await fetch(config.url + '/rest/v1/' + encodeURIComponent(table), {
+          method: 'POST',
+          headers: {
+            apikey: config.key,
+            authorization: 'Bearer ' + config.key,
+            'content-type': 'application/json',
+            prefer: 'return=minimal'
+          },
+          body: JSON.stringify(payload)
+        });
+        if (!response.ok) {
+          var text = await response.text();
+          throw new Error(text || ('Supabase returned ' + response.status));
+        }
+      }
+
+      document.addEventListener('submit', async function (event) {
+        var form = event.target;
+        if (!form || !form.hasAttribute('data-supabase-form')) return;
+        event.preventDefault();
+
+        hide(form, '[data-form-success]');
+        hide(form, '[data-form-error]');
+
+        var trap = form.querySelector('input[name="company"], input[name="website"]');
+        if (trap && trap.value) {
+          form.reset();
+          show(form, '[data-form-success]');
+          return;
+        }
+
+        var button = form.querySelector('button[type="submit"]');
+        if (button) button.disabled = true;
+        try {
+          await submitToSupabase(form, form.getAttribute('data-supabase-form'));
+          form.reset();
+          show(form, '[data-form-success]');
+        } catch (err) {
+          console.error(err);
+          show(form, '[data-form-error]', 'Could not save. Please try again.');
+        } finally {
+          if (button) button.disabled = false;
+        }
+      });
+    })();
+  </script>
+
+</body>
+</html>

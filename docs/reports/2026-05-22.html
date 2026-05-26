@@ -1,0 +1,715 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kruse Report 22/05/2026</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    /* Dark theme (default) */
+    :root {
+      --bg-color: #0b0f19;
+      --card-bg: #151c2c;
+      --card-border: #202b42;
+      --card-border-hover: #2e3e5f;
+      --section-rule: #24314b;
+      --text-color: #f3f4f6;
+      --text-soft: #cbd5e1;
+      --text-body: #e5e7eb;
+      --text-muted: #9ca3af;
+      --accent-color: #3b82f6;
+      --accent-hover: #60a5fa;
+      --locked-color: #4b5563;
+      --tag-bg: #1e293b;
+      --quote-bg: #0f1524;
+      --quote-rule: #4b5563;
+      --expanded-bg: #0f1524;
+      --locked-grad-start: #151c2c;
+      --locked-grad-end: #111622;
+      --locked-dash: #2d3748;
+      --locked-badge-bg: #27272a;
+      --locked-badge-fg: #a1a1aa;
+      --footer-color: #6b7280;
+      --toggle-bg: rgba(255,255,255,0.06);
+      --toggle-border: rgba(255,255,255,0.12);
+    }
+    /* Light theme — toggled by class on <body> */
+    body.light {
+      --bg-color: #f9fafb;
+      --card-bg: #ffffff;
+      --card-border: #e5e7eb;
+      --card-border-hover: #cbd5e1;
+      --section-rule: #e5e7eb;
+      --text-color: #0f172a;
+      --text-soft: #334155;
+      --text-body: #1f2937;
+      --text-muted: #6b7280;
+      --accent-color: #2563eb;
+      --accent-hover: #1d4ed8;
+      --locked-color: #94a3b8;
+      --tag-bg: #eff6ff;
+      --quote-bg: #f1f5f9;
+      --quote-rule: #cbd5e1;
+      --expanded-bg: #f1f5f9;
+      --locked-grad-start: #ffffff;
+      --locked-grad-end: #f3f4f6;
+      --locked-dash: #cbd5e1;
+      --locked-badge-bg: #e5e7eb;
+      --locked-badge-fg: #475569;
+      --footer-color: #94a3b8;
+      --toggle-bg: rgba(0,0,0,0.04);
+      --toggle-border: rgba(0,0,0,0.12);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', sans-serif; }
+    body { background-color: var(--bg-color); color: var(--text-color); padding: 40px 20px; display: flex; justify-content: center; align-items: flex-start; min-height: 100vh; transition: background-color 0.2s ease, color 0.2s ease; }
+    .container { width: 100%; max-width: 650px; display: flex; flex-direction: column; gap: 20px; }
+    header { text-align: center; margin-bottom: 10px; position: relative; padding-top: 48px; }
+    h1 { font-size: 2.3rem; font-weight: 700; letter-spacing: -0.5px; background: linear-gradient(45deg, #3b82f6, #9333ea); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; margin-bottom: 4px; }
+    .subtitle { font-size: 1rem; color: var(--text-muted); font-weight: 300; }
+    .theme-toggle { position: absolute; top: 0; right: 0; background: var(--toggle-bg); border: 1px solid var(--toggle-border); color: var(--text-color); cursor: pointer; padding: 6px 10px; border-radius: 20px; font-size: 0.85rem; line-height: 1; transition: background 0.2s ease; }
+    .theme-toggle:hover { background: var(--card-border); }
+    .level-toggle { position: absolute; top: 0; left: 0; display: flex; gap: 4px; background: var(--toggle-bg); border: 1px solid var(--toggle-border); border-radius: 20px; padding: 3px; }
+    .level-toggle button { background: transparent; color: var(--text-muted); border: none; cursor: pointer; padding: 4px 10px; border-radius: 16px; font-size: 0.8rem; font-weight: 600; transition: background 0.15s ease, color 0.15s ease; }
+    .level-toggle button.active { background: var(--accent-color); color: #fff; }
+    .level-toggle button:hover:not(.active) { color: var(--text-color); }
+    /* Concept-level gating: pro reader hides noob-only chips; hacker hides all. */
+    body.level-pro .expandable-concept[data-concept-level="noob"],
+    body.level-hacker .expandable-concept[data-concept-level] {
+      color: inherit; border-bottom: none; cursor: default; font-weight: inherit; pointer-events: none;
+    }
+    body.level-pro .expanded-content[data-concept-level="noob"],
+    body.level-hacker .expanded-content { display: none !important; }
+    .section-title { font-size: 1.3rem; font-weight: 700; color: var(--accent-hover); border-bottom: 1px solid var(--section-rule); padding-bottom: 6px; margin-top: 10px; }
+    .card { background-color: var(--card-bg); border: 1px solid var(--card-border); border-radius: 12px; padding: 16px 20px; display: flex; flex-direction: column; gap: 10px; transition: border-color 0.2s ease, background-color 0.2s ease; }
+    .card:hover { border-color: var(--card-border-hover); }
+    .card-header { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .tag { background-color: var(--tag-bg); color: var(--accent-color); padding: 2px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; }
+    .source-link { font-size: 0.8rem; color: var(--text-muted); text-decoration: none; border-bottom: 1px dashed var(--text-muted); transition: all 0.2s ease; }
+    .source-link:hover { color: var(--accent-hover); border-bottom-color: var(--accent-hover); }
+    .item-text { font-size: 1rem; line-height: 1.45; color: var(--text-body); }
+    .source-quote { background: var(--quote-bg); border-left: 3px solid var(--quote-rule); border-radius: 4px 8px 8px 4px; padding: 10px 14px; font-style: italic; font-size: 0.92rem; color: var(--text-muted); }
+    .bullet-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px; }
+    .bullet-list li { position: relative; padding-left: 18px; line-height: 1.45; font-size: 1rem; }
+    .bullet-list li::before { content: "•"; color: var(--accent-color); font-weight: bold; position: absolute; left: 0; top: 0; }
+    .forum-item { display: flex; flex-direction: column; gap: 4px; }
+    .forum-meta { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+    .expandable-concept { color: var(--accent-hover); border-bottom: 1px dashed var(--accent-hover); cursor: pointer; font-weight: 600; }
+    .expanded-content { max-height: 0; overflow: hidden; background-color: var(--expanded-bg); border-radius: 6px; padding: 0 12px; transition: max-height 0.25s ease, padding 0.25s ease, margin 0.25s ease; font-size: 0.9rem; color: var(--text-soft); }
+    .expanded-content.open { max-height: 400px; padding: 10px 12px; margin-top: 6px; border-left: 3px solid var(--accent-color); }
+    .locked-section { background: linear-gradient(180deg, var(--locked-grad-start) 0%, var(--locked-grad-end) 100%); border: 1px dashed var(--locked-dash); border-radius: 12px; padding: 24px; text-align: center; opacity: 0.85; }
+    .locked-title { font-size: 1.1rem; font-weight: 600; color: var(--locked-color); margin-bottom: 4px; }
+    .locked-badge { font-size: 0.7rem; background-color: var(--locked-badge-bg); color: var(--locked-badge-fg); padding: 1px 6px; border-radius: 4px; font-weight: 700; margin-left: 6px; }
+    footer { text-align: center; color: var(--footer-color); font-size: 0.75rem; margin-top: 12px; }
+    footer a { color: var(--footer-color); }
+  </style>
+<style>
+    html { scroll-behavior: smooth; }
+    body {
+      --site-bg: #0b0f19;
+      --site-panel: #121a2a;
+      --site-panel-2: #0d1422;
+      --site-border: #26334d;
+      --site-text: #f4f7fb;
+      --site-soft: #c6d2e1;
+      --site-muted: #8fa0b5;
+      --site-accent: #4ea1ff;
+      --site-success: #7bdcb5;
+      --site-danger: #ffbd7a;
+      --site-button-text: #06101d;
+      padding: 32px 16px 48px !important;
+      flex-direction: column !important;
+      justify-content: flex-start !important;
+      align-items: flex-start !important;
+    }
+    body.light {
+      --site-bg: #f7f9fc;
+      --site-panel: #ffffff;
+      --site-panel-2: #f8fafc;
+      --site-border: #d8e0ea;
+      --site-text: #111827;
+      --site-soft: #334155;
+      --site-muted: #64748b;
+      --site-accent: #2563eb;
+      --site-success: #047857;
+      --site-danger: #b45309;
+      --site-button-text: #ffffff;
+    }
+    body.site-drawer-open { overflow: hidden; }
+    .container {
+      max-width: 690px !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+    .site-menu-button {
+      position: fixed;
+      top: 16px;
+      left: 16px;
+      z-index: 80;
+      width: 44px;
+      height: 44px;
+      border: 1px solid var(--site-border);
+      border-radius: 8px;
+      background: var(--site-panel);
+      color: var(--site-text);
+      font-size: 1.45rem;
+      line-height: 1;
+      cursor: pointer;
+      box-shadow: 0 12px 30px rgba(0,0,0,0.28);
+    }
+    .site-report-backdrop {
+      position: fixed;
+      inset: 0;
+      z-index: 88;
+      background: rgba(3,7,18,0.58);
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.18s ease;
+    }
+    .site-report-drawer {
+      position: fixed;
+      inset: 0 auto 0 0;
+      z-index: 90;
+      width: min(320px, calc(100vw - 48px));
+      padding: 18px;
+      background: var(--site-bg);
+      border-right: 1px solid var(--site-border);
+      transform: translateX(-105%);
+      transition: transform 0.2s ease;
+      box-shadow: 24px 0 60px rgba(0,0,0,0.38);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    body.site-drawer-open .site-report-backdrop {
+      opacity: 1;
+      pointer-events: auto;
+    }
+    body.site-drawer-open .site-report-drawer { transform: translateX(0); }
+    .site-drawer-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 16px;
+      padding-bottom: 16px;
+      margin-bottom: 12px;
+      border-bottom: 1px solid var(--site-border);
+    }
+    .site-drawer-kicker {
+      margin-bottom: 4px;
+      color: var(--site-muted);
+      font-size: 0.78rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .site-drawer-title { color: var(--site-text); font-size: 1rem; font-weight: 850; line-height: 1.25; }
+    .site-drawer-close {
+      width: 34px;
+      height: 34px;
+      flex: 0 0 auto;
+      border: 1px solid var(--site-border);
+      border-radius: 8px;
+      background: var(--site-panel);
+      color: var(--site-text);
+      font-size: 1.3rem;
+      line-height: 1;
+      cursor: pointer;
+    }
+    .site-drawer-link {
+      display: block;
+      padding: 12px;
+      margin-bottom: 8px;
+      border: 1px solid var(--site-border);
+      border-radius: 8px;
+      background: var(--site-panel);
+      color: var(--site-text);
+      text-decoration: none;
+    }
+    .site-drawer-link strong { display: block; font-size: 0.95rem; }
+    .site-drawer-link span { display: block; margin-top: 3px; color: var(--site-muted); font-size: 0.82rem; line-height: 1.35; }
+    .site-report-footer {
+      width: min(690px, calc(100% - 32px));
+      margin: 34px auto 48px;
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 16px;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .site-report-panel {
+      padding: 18px;
+      background: var(--site-panel);
+      border: 1px solid var(--site-border);
+      border-radius: 8px;
+      color: var(--site-text);
+    }
+    .site-report-panel h2 {
+      margin: 0 0 8px;
+      color: var(--site-text);
+      font-size: 1.2rem;
+      letter-spacing: 0;
+    }
+    .site-report-panel p { margin: 0 0 14px; color: var(--site-soft); line-height: 1.45; }
+    .site-report-panel label { display: block; margin: 10px 0 6px; color: var(--site-muted); font-size: 0.82rem; font-weight: 800; }
+    .site-report-panel input,
+    .site-report-panel textarea,
+    .site-report-panel select {
+      width: 100%;
+      min-height: 40px;
+      border: 1px solid var(--site-border);
+      border-radius: 6px;
+      background: var(--site-panel-2);
+      color: var(--site-text);
+      padding: 0 10px;
+      font: inherit;
+    }
+    .site-report-panel textarea { min-height: 118px; padding: 10px; resize: vertical; }
+    .site-report-panel button {
+      width: 100%;
+      margin-top: 14px;
+      min-height: 42px;
+      border: 0;
+      border-radius: 6px;
+      background: var(--site-accent);
+      color: var(--site-button-text);
+      font-weight: 900;
+      cursor: pointer;
+    }
+    .site-report-panel button:disabled { opacity: 0.55; cursor: not-allowed; }
+    .site-report-panel .form-link {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      margin-top: 14px;
+      min-height: 42px;
+      border-radius: 6px;
+      background: var(--site-accent);
+      color: var(--site-button-text);
+      font-weight: 900;
+      text-decoration: none;
+    }
+    .site-report-form-note { margin-top: 12px; color: var(--site-muted); font-size: 0.82rem; line-height: 1.4; }
+    .site-report-form-success { margin-top: 12px; color: var(--site-success); font-size: 0.88rem; font-weight: 800; }
+    .site-report-form-error { margin-top: 12px; color: var(--site-danger); font-size: 0.88rem; font-weight: 800; }
+    @media (max-width: 760px) {
+      body { padding: 24px 12px 40px !important; }
+      .site-menu-button { top: 12px; left: 12px; }
+      .site-report-footer { width: calc(100% - 24px); }
+    }
+  </style>
+</head>
+<body>
+<button type="button" class="site-menu-button" id="siteMenuButton" aria-label="Open report menu" aria-controls="siteReportDrawer" aria-expanded="false">&#9776;</button>
+  <div class="site-report-backdrop" data-site-menu-close></div>
+  <nav class="site-report-drawer" id="siteReportDrawer" aria-label="Report menu">
+    <div class="site-drawer-header">
+      <div>
+        <div class="site-drawer-kicker">Kruse Report</div>
+        <div class="site-drawer-title">May 22, 2026</div>
+      </div>
+      <button type="button" class="site-drawer-close" data-site-menu-close aria-label="Close report menu">&times;</button>
+    </div>
+    <a class="site-drawer-link" href="../index.html"><strong>All reports</strong><span>Back to the archive.</span></a>
+    <a class="site-drawer-link" href="../latest/"><strong>Latest report</strong><span>Jump to the newest daily report.</span></a>
+    <a class="site-drawer-link" href="#get-report"><strong>Get this report</strong><span>Email signup lives at the end of this report.</span></a>
+    <a class="site-drawer-link" href="#report-feedback"><strong>Improve this report</strong><span>Leave feedback we can use later for prompt tuning.</span></a>
+    <a class="site-drawer-link" href="../unsubscribe/"><strong>Unsubscribe</strong><span>Remove your email from future sends.</span></a>
+  </nav>
+
+  <div class="container">
+    <header>
+      <div class="level-toggle" role="tablist" aria-label="Reader knowledge level">
+        <button type="button" data-level="noob"   aria-pressed="false">Noob</button>
+        <button type="button" data-level="pro"    aria-pressed="true">Pro</button>
+        <button type="button" data-level="hacker" aria-pressed="false">Hacker</button>
+      </div>
+      <button type="button" class="theme-toggle" id="themeToggle" aria-label="Toggle dark/light mode">🌙 Dark</button>
+      <h1>Kruse Report 22/05/2026</h1>
+      <div class="subtitle">Solid-state biology, tumor physics, geomagnetic noise. No fluff.</div>
+    </header>
+      <div class="section-title">Twitter Updates</div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Embryonic Biophysics</span>
+          <a href="https://x.com/i/status/2057651116972646824" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text"><strong>Teeth as Solid-State Light Pipes:</strong> Kruse reframes teeth as crystalline <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-0-0')">Light-Pipes</span> and mineral-dielectric capacitors derived from the same embryonic ectoderm that forms the brain, neural crest, and retina. The implication: dental mineralization status is a direct readout of the same field that runs CNS coherence — not a downstream cosmetic concern.</div>
+        <div id="c-0-0" class="expanded-content" data-concept-level="noob">
+      <strong>Light-Pipes:</strong> Solid-state crystalline structures that conduct photons through their mineral lattice with low scattering. Kruse&#39;s framing treats enamel and dentin as a coupled optical waveguide tied to the retinal-pineal axis via shared ectodermal origin — meaning oral mineral state reflects systemic photonic coupling.
+    </div>
+        <div class="source-quote">Teeth are not passive chewing stones; they are highly specialized, solid-state crystalline light-pipes and mineral-dielectric capacitors derived directly from the embryonic ectoderm; the identical cellular lineage that wraps and forms the brain, the neural crest, and the retina.</div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Tumor Metabolism</span>
+          <a href="https://x.com/i/status/2057621031708164144" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text"><strong>Ketosis Does Not Starve Cancer:</strong> Direct rebuttal to the <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-0')">Seyfried</span>-line claim that cancer cells can&#39;t process fats. Kruse argues tumor adaptation lets cells run on fats once glucose is cut 100% — the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-1')">18F-FDG</span> PET imaging story is a measurement artifact, not a metabolic ceiling. Sharp warning that &#39;starve the tumor with keto&#39; messaging is dangerous to advanced patients who skip real treatment.</div>
+        <div id="c-1-0" class="expanded-content" data-concept-level="noob">
+      <strong>Seyfried:</strong> Thomas Seyfried — Boston College biologist, lead proponent of the &#39;cancer as a metabolic disease&#39; framework. Best known for the ketogenic-diet-starves-tumor thesis built on Otto Warburg&#39;s glucose-dependence observation. Kruse argues this oversimplifies tumor metabolic plasticity.
+    </div>
+<div id="c-1-1" class="expanded-content" data-concept-level="pro">
+      <strong>18F-FDG:</strong> Radioactive glucose analogue used as PET imaging contrast. Lights up high-glucose-uptake tissue (most active tumors) — often misread as proof tumors only consume glucose. In reality it reflects what they preferentially consume under fed conditions, not what they&#39;re capable of metabolizing under glucose restriction.
+    </div>
+        <div class="source-quote">The assertion that cancer cells cannot process fats is flatly disproven by the physics of tumor adaptation.</div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Geomagnetic Anomaly</span>
+          <a href="https://x.com/i/status/2057614115086929973" target="_blank" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text"><strong>Kansas Falling Hole + Schumann Shift:</strong> A rare ring-cloud &#39;falling hole&#39; opened over Kansas, Nebraska, Iowa and the Dakotas at sunrise on 19 May. Kruse links the event to <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-2-0')">Telluric Currents</span>, the local geomagnetic field state, and recent shifts in the <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-2-1')">Schumann Resonance</span> — another data point in the dipole-decline narrative.</div>
+        <div id="c-2-0" class="expanded-content" data-concept-level="noob">
+      <strong>Telluric Currents:</strong> Slow-moving electric currents that flow through Earth&#39;s crust and oceans, driven by the geomagnetic field and solar-wind interactions. Anomalies correlate with dipole instability.
+    </div>
+<div id="c-2-1" class="expanded-content" data-concept-level="noob">
+      <strong>Schumann Resonance:</strong> The ~7.83 Hz electromagnetic standing wave in the cavity between Earth&#39;s surface and the ionosphere. Shifts in its frequency or amplitude track changes in the planet&#39;s electromagnetic envelope.
+    </div>
+        <div class="source-quote">Given the Telluric currents and the state of Kansas magnetic field and the recent changes to the Schumann resonance, Makes decentralized sense.</div>
+      </div>
+      <div class="section-title">Forum Updates</div>
+      <div class="card"><ul class="bullet-list"><li>
+        <div class="forum-item">
+          <div class="forum-meta">
+            <strong>Tooth Loss ↔ Glioma — Shared Ectoderm Lineage:</strong>
+            <a href="https://forum.jackkruse.com/threads/is-there-a-link-between-tooth-loss-and-glioma.32815/unread" target="_blank" class="source-link">See full thread →</a>
+          </div>
+          <div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">New hypothesis: dental mineralisation defects and <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1000-0')">glioma</span> incidence share the same embryonic <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1000-1')">ectoderm</span> origin — dentin matrix and CNS glia descend from one cell line, so a single field failure can explain both. Direct extension of today&#39;s teeth-as-light-pipes tweet.</div>
+          <div id="c-1000-0" class="expanded-content" data-concept-level="pro">
+      <strong>glioma:</strong> A primary brain tumor arising from glial cells (the non-neuronal CNS support cells). Includes astrocytomas, oligodendrogliomas and glioblastomas. Glia share embryonic ectodermal lineage with the dental papilla / enamel organ — the basis for the link Kruse proposes.
+    </div>
+<div id="c-1000-1" class="expanded-content" data-concept-level="noob">
+      <strong>ectoderm:</strong> The outermost of the three primary germ layers in early embryonic development. It gives rise to the nervous system, skin, hair, teeth enamel and the retina — meaning the brain and the teeth derive from the same starter cells.
+    </div>
+        </div>
+      </li><li>
+        <div class="forum-item">
+          <div class="forum-meta">
+            <strong>De-Fragging the Water Table with LSD:</strong>
+            <a href="https://forum.jackkruse.com/threads/de-fragging-the-water-table-with-lsd.32814/unread" target="_blank" class="source-link">See full thread →</a>
+          </div>
+          <div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">Novel protocol angle: psychedelic-induced dopamine surge as a temporal-redox lever for <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1001-0')">de-fragging</span> the intracellular water lattice. First time an exogenous compound is explicitly tied to the de-fragging protocol — speculative, but a concrete mechanism.</div>
+          <div id="c-1001-0" class="expanded-content" data-concept-level="noob">
+      <strong>de-fragging:</strong> Kruse-coined term for restoring structured (EZ) water lattice coherence in the cell, reversing the disordered state that sets in under deuterium load + nnEMF exposure. Analogous to defragmenting a fragmented hard disk, but for the intracellular water phase.
+    </div>
+        </div>
+      </li><li>
+        <div class="forum-item">
+          <div class="forum-meta">
+            <strong>Brachistochrone of Decentralized Biology:</strong>
+            <a href="https://forum.jackkruse.com/threads/decentralized-biologys-brachistrochrone.32660/unread" target="_blank" class="source-link">See full thread →</a>
+          </div>
+          <div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">Mapping the <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1002-0')">Brachistochrone</span> curve onto the optimal path through a redox gradient — fastest route from low- to high-coherence cellular state. Frames protocol stacking as a path-optimization problem, not a flat checklist.</div>
+          <div id="c-1002-0" class="expanded-content" data-concept-level="noob">
+      <strong>Brachistochrone:</strong> Classical mechanics problem (Johann Bernoulli, 1696): the curve along which a falling object reaches a destination point in the shortest time under gravity — turns out to be a cycloid, not a straight line. Kruse uses it as an analogy: the fastest path through a redox gradient is not a straight stack of habits but a specifically-shaped sequence.
+    </div>
+        </div>
+      </li><li>
+        <div class="forum-item">
+          <div class="forum-meta">
+            <strong>3 Melanins — Upstream Cadaver-Cohort Citations:</strong>
+            <a href="https://forum.jackkruse.com/threads/bad-mitochrondrial-science-ideas-inspired-by-fiat-3-melanins.32197/unread" target="_blank" class="source-link">See full thread →</a>
+          </div>
+          <div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">Dr Rob surfaces the <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1003-0')">Teghan Lucas</span> / <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1003-1')">Maciej Henneberg</span> <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1003-2')">cadaver cohort</span> work as the actual primary source for the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1003-3')">cranial secular trend</span> literature across industrialised northern-European populations — the data centralized takes typically misread.</div>
+          <div id="c-1003-0" class="expanded-content" data-concept-level="noob">
+      <strong>Teghan Lucas:</strong> Australian anatomist (Flinders University). Known for cadaver-based studies documenting modern secular trends in human skeletal anatomy — e.g., the rise of the external occipital protuberance (&#39;phone horn&#39;) in younger populations.
+    </div>
+<div id="c-1003-1" class="expanded-content" data-concept-level="noob">
+      <strong>Maciej Henneberg:</strong> Polish-Australian biological anthropologist (University of Adelaide), long-time Lucas collaborator. Builds population-scale anatomical datasets that document microevolution and secular trends across industrialised societies.
+    </div>
+<div id="c-1003-2" class="expanded-content" data-concept-level="pro">
+      <strong>cadaver cohort:</strong> A research methodology where a defined population of donated bodies is measured and catalogued to study anatomical variation. Differs from imaging cohorts (CT/MRI of the living) by directly examining tissue, but trades scale and longitudinal coverage.
+    </div>
+<div id="c-1003-3" class="expanded-content" data-concept-level="pro">
+      <strong>cranial secular trend:</strong> Documented generation-over-generation changes in human skull shape — facial flattening, palate narrowing, occipital protuberance enlargement, etc. — observed across the last century. &#39;Secular&#39; here means time-scale (decade/century), not religion.
+    </div>
+        </div>
+      </li><li>
+        <div class="forum-item">
+          <div class="forum-meta">
+            <strong>nnEMF Field-Survey Protocol:</strong>
+            <a href="https://forum.jackkruse.com/threads/i-stay-away-from-nnemf.30545/unread" target="_blank" class="source-link">See full thread →</a>
+          </div>
+          <div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">Concrete home-shielding workflow for <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1004-0')">nnEMF</span>: walk the perimeter to identify the strongest-signal side, scan for nearby cell towers; if no tower is close, attribute to neighbour Wi-Fi. For single-story homes, wire-mesh fence shielding on the implicated side. Transferable, parameter-light.</div>
+          <div id="c-1004-0" class="expanded-content" data-concept-level="noob">
+      <strong>nnEMF:</strong> non-native ElectroMagnetic Field. Kruse shorthand for the artificial RF / microwave / low-frequency electromagnetic emissions humans engineered into the environment (cell, Wi-Fi, power-line, smart-meter, etc.) — as opposed to the geomagnetic / cosmic / solar fields the biology evolved under.
+    </div>
+        </div>
+      </li><li>
+        <div class="forum-item">
+          <div class="forum-meta">
+            <strong>Hypermobility &amp; Ehlers-Danlos as Field-Coupling Failure:</strong>
+            <a href="https://forum.jackkruse.com/threads/hypermobility-ehlers-danios-syndrome.29636/unread" target="_blank" class="source-link">See full thread →</a>
+          </div>
+          <div class="item-text" style="color:var(--text-soft);font-size:0.95rem;">Mapping connective-tissue laxity in <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1005-0')">Ehlers-Danlos</span> to localized loss of melanin-tied redox shielding — extends the coherence thesis to a defined <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1005-1')">clinical phenotype</span>. Implies the protocol stack for hypermobile patients should center on redox restoration, not collagen support.</div>
+          <div id="c-1005-0" class="expanded-content" data-concept-level="pro">
+      <strong>Ehlers-Danlos:</strong> Ehlers-Danlos Syndrome (EDS): a group of inherited connective-tissue disorders affecting collagen synthesis or processing. Hallmarks: joint hypermobility, skin hyperextensibility, tissue fragility. The hypermobile subtype (hEDS) is the most common and the one usually meant in this context.
+    </div>
+<div id="c-1005-1" class="expanded-content" data-concept-level="pro">
+      <strong>clinical phenotype:</strong> The observable set of clinical features (signs, symptoms, course) that define a patient population — as distinct from the underlying genotype or mechanism. Used here to say: EDS is the symptom cluster Kruse maps to the biophysical field-coupling failure.
+    </div>
+        </div>
+      </li></ul></div>
+    <div class="locked-section">
+      <div class="locked-title">
+        <span>Interact with Report (Ask AI)</span>
+        <span class="locked-badge">Soon</span>
+      </div>
+    </div>
+    <footer>
+      Auto-generated by <a href="https://github.com/guyHouri/kruse-ai-scrape">kruse-ai-scrape</a>.
+      Source: <a href="https://x.com/DrJackKruse">@DrJackKruse</a>.
+    </footer>
+  </div>
+  <script>
+    function toggleConcept(id) {
+      var el = document.getElementById(id);
+      if (el) el.classList.toggle('open');
+    }
+    (function () {
+      var btn = document.getElementById('themeToggle');
+      var saved = null;
+      try { saved = localStorage.getItem('kruse-theme'); } catch (e) {}
+      if (saved === 'light') document.body.classList.add('light');
+      function syncLabel() {
+        if (!btn) return;
+        btn.textContent = document.body.classList.contains('light') ? '☀ Light' : '🌙 Dark';
+      }
+      syncLabel();
+      if (btn) btn.addEventListener('click', function () {
+        document.body.classList.toggle('light');
+        try { localStorage.setItem('kruse-theme', document.body.classList.contains('light') ? 'light' : 'dark'); } catch (e) {}
+        syncLabel();
+      });
+    })();
+    (function () {
+      var savedLevel = null;
+      try { savedLevel = localStorage.getItem('kruse-level'); } catch (e) {}
+      var initial = (savedLevel === 'noob' || savedLevel === 'pro' || savedLevel === 'hacker') ? savedLevel : 'pro';
+      function apply(level) {
+        document.body.classList.remove('level-noob', 'level-pro', 'level-hacker');
+        document.body.classList.add('level-' + level);
+        var btns = document.querySelectorAll('.level-toggle button');
+        for (var i = 0; i < btns.length; i++) {
+          var on = btns[i].getAttribute('data-level') === level;
+          btns[i].classList.toggle('active', on);
+          btns[i].setAttribute('aria-pressed', on ? 'true' : 'false');
+        }
+        try { localStorage.setItem('kruse-level', level); } catch (e) {}
+      }
+      apply(initial);
+      var btns = document.querySelectorAll('.level-toggle button');
+      for (var i = 0; i < btns.length; i++) {
+        (function (b) {
+          b.addEventListener('click', function () { apply(b.getAttribute('data-level')); });
+        })(btns[i]);
+      }
+    })();
+  </script>
+<div class="site-report-footer">
+    <section class="site-report-panel" id="get-report" aria-labelledby="get-report-title">
+      <h2 id="get-report-title">Get this report</h2>
+      <p>Leave an email and we will add you when delivery opens.</p>
+      <form name="kruse-report-interest" method="POST" data-supabase-form="mailing-list">
+        <input type="hidden" name="form_type" value="kruse-report-interest" />
+        <input type="hidden" name="report_date" value="2026-05-22" />
+        <input type="hidden" name="report_url" value="https://guyhouri.github.io/kruse-ai-scrape/reports/2026-05-22.html" />
+        <p style="display:none"><label>Company <input name="company" /></label></p>
+        <label for="report-first-name-2026-05-22">First name</label>
+        <input id="report-first-name-2026-05-22" name="first_name" autocomplete="given-name" />
+        <label for="report-last-name-2026-05-22">Last name</label>
+        <input id="report-last-name-2026-05-22" name="last_name" autocomplete="family-name" />
+        <label for="report-email-2026-05-22">Email</label>
+        <input id="report-email-2026-05-22" name="email" type="email" autocomplete="email" required />
+        <label for="report-frequency-2026-05-22">Delivery</label>
+        <select id="report-frequency-2026-05-22" name="frequency">
+          <option>Daily</option>
+          <option>Only strong signal days</option>
+          <option>Weekly digest</option>
+        </select>
+        <label for="report-comments-2026-05-22">Comments</label>
+        <textarea id="report-comments-2026-05-22" name="comments"></textarea>
+        <button type="submit">Join list</button>
+        <div class="site-report-form-success" data-form-success hidden>Saved. You are on the list.</div>
+        <div class="site-report-form-error" data-form-error hidden>Could not save. Please try again.</div>
+      </form>
+      <div class="site-report-form-note">Saved privately to the mailing list.</div>
+    </section>
+    <section class="site-report-panel" id="report-feedback" aria-labelledby="report-feedback-title">
+      <h2 id="report-feedback-title">Improve future reports</h2>
+      <p>Tell us what was useful, confusing, missing, or too AI-ish. We will use this later to tune prompts.</p>
+      <form name="kruse-report-feedback" method="POST" data-supabase-form="feedback">
+        <input type="hidden" name="form_type" value="kruse-report-feedback" />
+        <input type="hidden" name="report_date" value="2026-05-22" />
+        <input type="hidden" name="report_url" value="https://guyhouri.github.io/kruse-ai-scrape/reports/2026-05-22.html" />
+        <p style="display:none"><label>Website <input name="website" /></label></p>
+        <label for="feedback-first-name-2026-05-22">First name</label>
+        <input id="feedback-first-name-2026-05-22" name="first_name" autocomplete="given-name" />
+        <label for="feedback-last-name-2026-05-22">Last name</label>
+        <input id="feedback-last-name-2026-05-22" name="last_name" autocomplete="family-name" />
+        <label for="feedback-rating-2026-05-22">Overall</label>
+        <select id="feedback-rating-2026-05-22" name="rating">
+          <option>Useful</option>
+          <option>Mixed</option>
+          <option>Bad</option>
+        </select>
+        <label for="feedback-text-2026-05-22">Feedback</label>
+        <textarea id="feedback-text-2026-05-22" name="comments" required></textarea>
+        <label for="feedback-email-2026-05-22">Email (optional)</label>
+        <input id="feedback-email-2026-05-22" name="email" type="email" autocomplete="email" />
+        <button type="submit">Send feedback</button>
+        <div class="site-report-form-success" data-form-success hidden>Saved. Thank you.</div>
+        <div class="site-report-form-error" data-form-error hidden>Could not save. Please try again.</div>
+      </form>
+      <div class="site-report-form-note">Saved privately for prompt tuning.</div>
+    </section>
+  </div>
+<script>
+    (function () {
+      var button = document.getElementById('siteMenuButton');
+      var drawer = document.getElementById('siteReportDrawer');
+      if (!button || !drawer) return;
+
+      function setOpen(open) {
+        document.body.classList.toggle('site-drawer-open', open);
+        button.setAttribute('aria-expanded', open ? 'true' : 'false');
+        if (open) {
+          var focusTarget = drawer.querySelector('a, button');
+          if (focusTarget) focusTarget.focus();
+        } else {
+          button.focus();
+        }
+      }
+
+      button.addEventListener('click', function () {
+        setOpen(!document.body.classList.contains('site-drawer-open'));
+      });
+
+      var closeTargets = document.querySelectorAll('[data-site-menu-close], .site-drawer-link');
+      for (var i = 0; i < closeTargets.length; i++) {
+        closeTargets[i].addEventListener('click', function () { setOpen(false); });
+      }
+
+      document.addEventListener('keydown', function (event) {
+        if (event.key === 'Escape') setOpen(false);
+      });
+    })();
+  </script>
+<script>
+    window.__KRUSE_SUPABASE = {"url":"https://zpxhovwsswnjdjibcvsh.supabase.co","key":"sb_publishable_afhmZKXzerLWNYENUqsaFg_XfVWjODD","tables":{"mailingList":"kruse_mailing_list","feedback":"kruse_report_feedback"}};
+    (function () {
+      var config = window.__KRUSE_SUPABASE;
+      if (!config || !config.url || !config.key) return;
+
+      function value(form, name) {
+        var field = form.querySelector('[name="' + name + '"]');
+        return field ? String(field.value || '').trim() : '';
+      }
+
+      function nullable(value) {
+        return value ? value : null;
+      }
+
+      function show(form, selector, text) {
+        var node = form.querySelector(selector);
+        if (!node) return;
+        if (text) node.textContent = text;
+        node.hidden = false;
+      }
+
+      function hide(form, selector) {
+        var node = form.querySelector(selector);
+        if (node) node.hidden = true;
+      }
+
+      function payloadFor(form, kind) {
+        var common = {
+          first_name: value(form, 'first_name'),
+          last_name: value(form, 'last_name'),
+          email: value(form, 'email').toLowerCase(),
+          comments: value(form, 'comments'),
+          report_date: nullable(value(form, 'report_date')),
+          report_url: nullable(value(form, 'report_url')),
+          page_url: window.location.href,
+          source: 'public-site'
+        };
+        if (kind === 'unsubscribe') {
+          return {
+            first_name: '',
+            last_name: '',
+            email: common.email,
+            comments: 'Unsubscribe request',
+            frequency: 'Unsubscribe',
+            report_date: null,
+            report_url: null,
+            page_url: common.page_url,
+            source: 'unsubscribe'
+          };
+        }
+        if (kind === 'mailing-list') {
+          common.frequency = value(form, 'frequency') || 'Daily';
+          return common;
+        }
+        return {
+          first_name: common.first_name,
+          last_name: common.last_name,
+          email: nullable(common.email),
+          rating: value(form, 'rating') || 'Useful',
+          comments: common.comments,
+          report_date: common.report_date,
+          report_url: common.report_url,
+          page_url: common.page_url,
+          source: common.source
+        };
+      }
+
+      async function submitToSupabase(form, kind) {
+        var table = kind === 'feedback' ? config.tables.feedback : config.tables.mailingList;
+        var payload = payloadFor(form, kind);
+        var response = await fetch(config.url + '/rest/v1/' + encodeURIComponent(table), {
+          method: 'POST',
+          headers: {
+            apikey: config.key,
+            authorization: 'Bearer ' + config.key,
+            'content-type': 'application/json',
+            prefer: 'return=minimal'
+          },
+          body: JSON.stringify(payload)
+        });
+        if (!response.ok) {
+          var text = await response.text();
+          throw new Error(text || ('Supabase returned ' + response.status));
+        }
+      }
+
+      document.addEventListener('submit', async function (event) {
+        var form = event.target;
+        if (!form || !form.hasAttribute('data-supabase-form')) return;
+        event.preventDefault();
+
+        hide(form, '[data-form-success]');
+        hide(form, '[data-form-error]');
+
+        var trap = form.querySelector('input[name="company"], input[name="website"]');
+        if (trap && trap.value) {
+          form.reset();
+          show(form, '[data-form-success]');
+          return;
+        }
+
+        var button = form.querySelector('button[type="submit"]');
+        if (button) button.disabled = true;
+        try {
+          await submitToSupabase(form, form.getAttribute('data-supabase-form'));
+          form.reset();
+          show(form, '[data-form-success]');
+        } catch (err) {
+          console.error(err);
+          show(form, '[data-form-error]', 'Could not save. Please try again.');
+        } finally {
+          if (button) button.disabled = false;
+        }
+      });
+    })();
+  </script>
+
+</body>
+</html>

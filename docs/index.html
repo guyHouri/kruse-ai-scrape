@@ -1,0 +1,414 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kruse Daily Reports</title>
+  <meta name="description" content="Daily archive of Kruse report summaries." />
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #0b0f19;
+      --panel: #121a2a;
+      --panel-2: #172033;
+      --border: #26334d;
+      --text: #f4f7fb;
+      --soft: #c6d2e1;
+      --muted: #8fa0b5;
+      --accent: #4ea1ff;
+      --accent-2: #7bdcb5;
+      --danger: #ffbd7a;
+      --field: #0d1422;
+      --button-text: #06101d;
+      --page-glow-1: rgba(78,161,255,0.14);
+      --page-glow-2: rgba(123,220,181,0.16);
+    }
+    body.light {
+      color-scheme: light;
+      --bg: #f7f9fc;
+      --panel: #ffffff;
+      --panel-2: #eef3f8;
+      --border: #d8e0ea;
+      --text: #111827;
+      --soft: #334155;
+      --muted: #64748b;
+      --accent: #2563eb;
+      --accent-2: #047857;
+      --danger: #b45309;
+      --field: #ffffff;
+      --button-text: #ffffff;
+      --page-glow-1: rgba(37,99,235,0.10);
+      --page-glow-2: rgba(4,120,87,0.10);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background:
+        linear-gradient(180deg, var(--page-glow-1), transparent 260px),
+        radial-gradient(circle at top right, var(--page-glow-2), transparent 360px),
+        var(--bg);
+      color: var(--text);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    a { color: inherit; }
+    .shell { width: min(1120px, calc(100% - 32px)); margin: 0 auto; padding: 32px 0 56px; }
+    header {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      align-items: end;
+      gap: 24px;
+      padding: 24px 0 28px;
+      border-bottom: 1px solid var(--border);
+    }
+    .header-actions { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; justify-content: flex-end; }
+    h1 { margin: 0; font-size: clamp(2rem, 5vw, 4rem); line-height: 0.95; letter-spacing: 0; }
+    .subtitle { margin: 14px 0 0; max-width: 720px; color: var(--soft); font-size: 1.02rem; line-height: 1.55; }
+    .latest-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 44px;
+      padding: 0 16px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: var(--panel);
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+    .theme-toggle {
+      width: auto;
+      margin: 0;
+      min-height: 44px;
+      padding: 0 14px;
+      border: 1px solid var(--border);
+      background: var(--panel);
+      color: var(--text);
+      white-space: nowrap;
+    }
+    main { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 28px; padding-top: 28px; align-items: start; }
+    .section-label { color: var(--muted); text-transform: uppercase; font-size: 0.78rem; letter-spacing: 0.08em; margin-bottom: 12px; font-weight: 800; }
+    .report-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 14px; }
+    .report-card {
+      min-height: 190px;
+      display: grid;
+      grid-template-rows: auto auto 1fr auto;
+      gap: 10px;
+      padding: 18px;
+      background: linear-gradient(180deg, var(--panel), var(--panel-2));
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      text-decoration: none;
+      transition: transform 0.16s ease, border-color 0.16s ease;
+    }
+    .report-card:hover { transform: translateY(-2px); border-color: var(--accent); }
+    .report-card.latest { border-color: rgba(123,220,181,0.58); }
+    .report-date { color: var(--accent-2); font-weight: 800; font-size: 0.9rem; }
+    .report-card strong { font-size: 1.35rem; line-height: 1.1; }
+    .report-summary { color: var(--soft); line-height: 1.45; }
+    .report-open { color: var(--accent); font-size: 0.92rem; font-weight: 800; }
+    .signup {
+      position: sticky;
+      top: 20px;
+      padding: 18px;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+    }
+    .signup h2 { margin: 0 0 8px; font-size: 1.35rem; }
+    .signup p { margin: 0 0 16px; color: var(--soft); line-height: 1.45; }
+    label { display: block; margin: 12px 0 6px; color: var(--muted); font-size: 0.82rem; font-weight: 800; }
+    input, select, textarea {
+      width: 100%;
+      min-height: 42px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: var(--field);
+      color: var(--text);
+      padding: 0 12px;
+      font: inherit;
+    }
+    textarea { min-height: 96px; padding: 10px 12px; resize: vertical; }
+    button {
+      width: 100%;
+      margin-top: 16px;
+      min-height: 44px;
+      border: 0;
+      border-radius: 6px;
+      background: var(--accent);
+      color: var(--button-text);
+      font-weight: 900;
+      cursor: pointer;
+    }
+    button:disabled { opacity: 0.55; cursor: not-allowed; }
+    .form-link {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      margin-top: 16px;
+      min-height: 44px;
+      border-radius: 6px;
+      background: var(--accent);
+      color: var(--button-text);
+      font-weight: 900;
+      text-decoration: none;
+    }
+    .form-success { margin-top: 12px; color: var(--accent-2); font-size: 0.88rem; font-weight: 800; }
+    .form-error { margin-top: 12px; color: var(--danger); font-size: 0.88rem; font-weight: 800; }
+    .fine-print { margin-top: 12px; color: var(--muted); font-size: 0.8rem; line-height: 1.4; }
+    .empty {
+      padding: 20px;
+      border: 1px dashed var(--border);
+      border-radius: 8px;
+      color: var(--muted);
+    }
+    footer { margin-top: 44px; color: var(--muted); font-size: 0.85rem; }
+    @media (max-width: 820px) {
+      header { grid-template-columns: 1fr; align-items: start; }
+      main { grid-template-columns: 1fr; }
+      .signup { position: static; }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <header>
+      <div>
+        <h1>Kruse Daily Reports</h1>
+        <p class="subtitle">Daily source-bound summaries from Jack Kruse tweets and forum activity. Latest report: May 26, 2026.</p>
+      </div>
+      <div class="header-actions">
+        <button type="button" class="theme-toggle" data-theme-toggle>Light mode</button>
+        <a class="latest-link" href="reports/2026-05-26.html">Open latest</a>
+      </div>
+    </header>
+    <main>
+      <section aria-labelledby="reports-title">
+        <div class="section-label" id="reports-title">Report archive</div>
+        <div class="report-grid">
+
+      <a class="report-card latest" href="reports/2026-05-26.html">
+        <span class="report-date">May 26, 2026</span>
+        <strong>Kruse Report</strong>
+        <span class="report-summary">Yucatán&#39;s subsurface water system and EDS charge dysregulation</span>
+        <span class="report-open">Open report</span>
+      </a>
+
+      <a class="report-card" href="reports/2026-05-25.html">
+        <span class="report-date">May 25, 2026</span>
+        <strong>Kruse Report</strong>
+        <span class="report-summary">Optical switch dysfunction, deuterium tolerance, and skin cancer treatment preference</span>
+        <span class="report-open">Open report</span>
+      </a>
+
+      <a class="report-card" href="reports/2026-05-24.html">
+        <span class="report-date">May 24, 2026</span>
+        <strong>Kruse Report</strong>
+        <span class="report-summary">Cancer fat-burning, NAD blood myth, glycolysis as isotope filter.</span>
+        <span class="report-open">Open report</span>
+      </a>
+
+      <a class="report-card" href="reports/2026-05-23.html">
+        <span class="report-date">May 23, 2026</span>
+        <strong>Kruse Report</strong>
+        <span class="report-summary">Cancer fat metabolism rebuttal, PMLE as deuterium flash-evaporation, and triplet oxygen collagen defects</span>
+        <span class="report-open">Open report</span>
+      </a>
+
+      <a class="report-card" href="reports/2026-05-22.html">
+        <span class="report-date">May 22, 2026</span>
+        <strong>Kruse Report</strong>
+        <span class="report-summary">Solid-state biology, tumor physics, geomagnetic noise. No fluff.</span>
+        <span class="report-open">Open report</span>
+      </a>
+
+      <a class="report-card" href="reports/2026-05-21.html">
+        <span class="report-date">May 21, 2026</span>
+        <strong>Kruse Report</strong>
+        <span class="report-summary">Daily Kruse report</span>
+        <span class="report-open">Open report</span>
+      </a>
+        </div>
+      </section>
+      <aside class="signup" aria-labelledby="signup-title">
+        <h2 id="signup-title">Get the report</h2>
+        <p>Leave an email and we will add you when daily delivery opens.</p>
+        <form name="kruse-report-interest" method="POST" data-supabase-form="mailing-list">
+          <input type="hidden" name="form_type" value="kruse-report-interest" />
+          <input type="hidden" name="report_url" value="https://guyhouri.github.io/kruse-ai-scrape/index.html" />
+          <p style="display:none"><label>Company <input name="company" /></label></p>
+          <label for="first-name">First name</label>
+          <input id="first-name" name="first_name" autocomplete="given-name" />
+          <label for="last-name">Last name</label>
+          <input id="last-name" name="last_name" autocomplete="family-name" />
+          <label for="email">Email</label>
+          <input id="email" name="email" type="email" autocomplete="email" required />
+          <label for="frequency">Delivery</label>
+          <select id="frequency" name="frequency">
+            <option>Daily</option>
+            <option>Only strong signal days</option>
+            <option>Weekly digest</option>
+          </select>
+          <label for="comments">Comments</label>
+          <textarea id="comments" name="comments"></textarea>
+          <button type="submit">Join list</button>
+          <div class="form-success" data-form-success hidden>Saved. You are on the list.</div>
+          <div class="form-error" data-form-error hidden>Could not save. Please try again.</div>
+        </form>
+        <div class="fine-print">Saved privately to the mailing list.</div>
+      </aside>
+    </main>
+    <footer>Built from 6 reports. <a href="unsubscribe/">Unsubscribe</a>.</footer>
+    
+  </div>
+  <script>
+    window.__KRUSE_SUPABASE = {"url":"https://zpxhovwsswnjdjibcvsh.supabase.co","key":"sb_publishable_afhmZKXzerLWNYENUqsaFg_XfVWjODD","tables":{"mailingList":"kruse_mailing_list","feedback":"kruse_report_feedback"}};
+    (function () {
+      var config = window.__KRUSE_SUPABASE;
+      if (!config || !config.url || !config.key) return;
+
+      function value(form, name) {
+        var field = form.querySelector('[name="' + name + '"]');
+        return field ? String(field.value || '').trim() : '';
+      }
+
+      function nullable(value) {
+        return value ? value : null;
+      }
+
+      function show(form, selector, text) {
+        var node = form.querySelector(selector);
+        if (!node) return;
+        if (text) node.textContent = text;
+        node.hidden = false;
+      }
+
+      function hide(form, selector) {
+        var node = form.querySelector(selector);
+        if (node) node.hidden = true;
+      }
+
+      function payloadFor(form, kind) {
+        var common = {
+          first_name: value(form, 'first_name'),
+          last_name: value(form, 'last_name'),
+          email: value(form, 'email').toLowerCase(),
+          comments: value(form, 'comments'),
+          report_date: nullable(value(form, 'report_date')),
+          report_url: nullable(value(form, 'report_url')),
+          page_url: window.location.href,
+          source: 'public-site'
+        };
+        if (kind === 'unsubscribe') {
+          return {
+            first_name: '',
+            last_name: '',
+            email: common.email,
+            comments: 'Unsubscribe request',
+            frequency: 'Unsubscribe',
+            report_date: null,
+            report_url: null,
+            page_url: common.page_url,
+            source: 'unsubscribe'
+          };
+        }
+        if (kind === 'mailing-list') {
+          common.frequency = value(form, 'frequency') || 'Daily';
+          return common;
+        }
+        return {
+          first_name: common.first_name,
+          last_name: common.last_name,
+          email: nullable(common.email),
+          rating: value(form, 'rating') || 'Useful',
+          comments: common.comments,
+          report_date: common.report_date,
+          report_url: common.report_url,
+          page_url: common.page_url,
+          source: common.source
+        };
+      }
+
+      async function submitToSupabase(form, kind) {
+        var table = kind === 'feedback' ? config.tables.feedback : config.tables.mailingList;
+        var payload = payloadFor(form, kind);
+        var response = await fetch(config.url + '/rest/v1/' + encodeURIComponent(table), {
+          method: 'POST',
+          headers: {
+            apikey: config.key,
+            authorization: 'Bearer ' + config.key,
+            'content-type': 'application/json',
+            prefer: 'return=minimal'
+          },
+          body: JSON.stringify(payload)
+        });
+        if (!response.ok) {
+          var text = await response.text();
+          throw new Error(text || ('Supabase returned ' + response.status));
+        }
+      }
+
+      document.addEventListener('submit', async function (event) {
+        var form = event.target;
+        if (!form || !form.hasAttribute('data-supabase-form')) return;
+        event.preventDefault();
+
+        hide(form, '[data-form-success]');
+        hide(form, '[data-form-error]');
+
+        var trap = form.querySelector('input[name="company"], input[name="website"]');
+        if (trap && trap.value) {
+          form.reset();
+          show(form, '[data-form-success]');
+          return;
+        }
+
+        var button = form.querySelector('button[type="submit"]');
+        if (button) button.disabled = true;
+        try {
+          await submitToSupabase(form, form.getAttribute('data-supabase-form'));
+          form.reset();
+          show(form, '[data-form-success]');
+        } catch (err) {
+          console.error(err);
+          show(form, '[data-form-error]', 'Could not save. Please try again.');
+        } finally {
+          if (button) button.disabled = false;
+        }
+      });
+    })();
+  </script>
+  
+  <script>
+    (function () {
+      function savedTheme() {
+        try { return localStorage.getItem('kruse-theme'); } catch (e) { return null; }
+      }
+      function storeTheme(theme) {
+        try { localStorage.setItem('kruse-theme', theme); } catch (e) {}
+      }
+      function applyTheme(theme) {
+        var light = theme === 'light';
+        document.body.classList.toggle('light', light);
+        var buttons = document.querySelectorAll('[data-theme-toggle]');
+        for (var i = 0; i < buttons.length; i++) {
+          buttons[i].textContent = light ? 'Dark mode' : 'Light mode';
+          buttons[i].setAttribute('aria-pressed', light ? 'true' : 'false');
+        }
+      }
+      var initial = savedTheme() || 'dark';
+      applyTheme(initial);
+      document.addEventListener('click', function (event) {
+        var button = event.target.closest && event.target.closest('[data-theme-toggle]');
+        if (!button) return;
+        var next = document.body.classList.contains('light') ? 'dark' : 'light';
+        storeTheme(next);
+        applyTheme(next);
+      });
+    })();
+  </script>
+</body>
+</html>

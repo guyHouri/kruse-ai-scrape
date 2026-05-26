@@ -24,8 +24,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: daily-kruse-summary
@@ -34,9 +32,6 @@ concurrency:
 jobs:
   build-and-send:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with: { fetch-depth: 1 }
@@ -191,22 +186,24 @@ jobs:
           npm run build-site
           echo "::endgroup::"
 
-      - uses: actions/configure-pages@v5
-
-      - name: Upload public report site
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: kruse-summary/site
-
-      - name: Deploy public report site
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Mirror public report site into docs
+        run: |
+          set -euo pipefail
+          rm -rf docs/reports docs/latest docs/unsubscribe
+          cp kruse-summary/site/index.html docs/index.html
+          cp kruse-summary/site/thanks.html docs/thanks.html
+          cp kruse-summary/site/_headers docs/_headers
+          cp kruse-summary/site/_redirects docs/_redirects
+          cp kruse-summary/site/.nojekyll docs/.nojekyll
+          cp -R kruse-summary/site/reports docs/reports
+          cp -R kruse-summary/site/latest docs/latest
+          cp -R kruse-summary/site/unsubscribe docs/unsubscribe
 
       - name: Commit data + state back to repo
         run: |
           set -euo pipefail
           git config user.name "kruse-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add twitter_to_md/data forum_to_md/daily kruse-summary/mailing_list.json kruse-summary/last-sent.json kruse-summary/curated kruse-summary/out 2>/dev/null || true
+          git add twitter_to_md/data forum_to_md/daily kruse-summary/mailing_list.json kruse-summary/last-sent.json kruse-summary/curated kruse-summary/out docs 2>/dev/null || true
           git diff --cached --quiet || git commit -m "daily: ${{ steps.target.outputs.date }}"
           git push || true
