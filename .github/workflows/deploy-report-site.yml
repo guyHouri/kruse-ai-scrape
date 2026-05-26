@@ -1,5 +1,7 @@
 name: Deploy Kruse Report Site
 
+# Manual/static deploy for the report archive.
+
 on:
   repository_dispatch:
     types: [deploy-kruse-report-site]
