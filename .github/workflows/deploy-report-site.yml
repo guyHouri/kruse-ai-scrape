@@ -1,6 +1,8 @@
 name: Deploy Kruse Report Site
 
 on:
+  repository_dispatch:
+    types: [deploy-kruse-report-site]
   workflow_dispatch:
   push:
     branches:
