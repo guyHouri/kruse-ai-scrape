@@ -52,6 +52,10 @@ function reportUrlForDateDisplay(dateDisplay) {
   return new URL(`reports/${date}.html`, `${PUBLIC_BASE_URL.replace(/\/+$/, '')}/`).toString();
 }
 
+function unsubscribeUrl() {
+  return new URL('unsubscribe/', `${PUBLIC_BASE_URL.replace(/\/+$/, '')}/`).toString();
+}
+
 function displayName(recipient) {
   return String(recipient?.name || '').trim() || 'there';
 }
@@ -62,6 +66,7 @@ export async function sendReportEmail({ subject, dateDisplay, reportUrl }) {
   const recipients = loadMailingList();
   const transport = buildTransport();
   const websiteUrl = reportUrl || reportUrlForDateDisplay(dateDisplay);
+  const unsubscribe = unsubscribeUrl();
   info(`sending "${subject}" to ${recipients.length} recipient(s) individually`);
 
   const results = [];
@@ -74,12 +79,15 @@ export async function sendReportEmail({ subject, dateDisplay, reportUrl }) {
       '',
       `Daily Kruse Summary ${dateDisplay || ''}:`,
       websiteUrl,
+      '',
+      `Unsubscribe: ${unsubscribe}`,
     ].join('\n');
 
     const htmlBody = [
       `<p>Hi ${name},</p>`,
       '<p><strong>"Does Nature Make Mistakes?"</strong></p>',
       `<p><a href="${websiteUrl}">Daily Kruse Summary ${dateDisplay || ''}</a></p>`,
+      `<p><a href="${unsubscribe}">Unsubscribe</a></p>`,
     ].join('\n');
 
     const info_ = await transport.sendMail({

@@ -154,11 +154,16 @@ function supabaseRowToRecipient(row) {
     name: nameFromParts(row.first_name, row.last_name),
     comments: clean(row.comments),
     frequency: clean(row.frequency) || 'Daily',
-    source: 'supabase',
+    source: clean(row.source) || 'supabase',
     reportDate: clean(row.report_date),
     reportUrl: clean(row.report_url),
     subscribedAt: clean(row.created_at) || new Date().toISOString(),
   };
+}
+
+function isUnsubscribeRow(row) {
+  return clean(row.source).toLowerCase() === 'unsubscribe'
+    || clean(row.frequency).toLowerCase() === 'unsubscribe';
 }
 
 async function fetchSupabaseRecipients() {
@@ -174,7 +179,7 @@ async function fetchSupabaseRecipients() {
   const url = new URL(`/rest/v1/${SUPABASE_MAILING_LIST_TABLE}`, SUPABASE_URL.replace(/\/+$/, ''));
   url.searchParams.set(
     'select',
-    'email,first_name,last_name,comments,frequency,report_date,report_url,created_at'
+    'email,first_name,last_name,comments,frequency,report_date,report_url,source,created_at'
   );
   url.searchParams.set('order', 'created_at.desc');
 
@@ -191,11 +196,23 @@ async function fetchSupabaseRecipients() {
 
   const rows = JSON.parse(bodyText);
   const byEmail = new Map();
+  const unsubscribedEmails = new Set();
+  const seen = new Set();
   for (const row of rows) {
+    const email = normalizeEmail(row.email);
+    if (!email || seen.has(email)) continue;
+    seen.add(email);
+    if (isUnsubscribeRow(row)) {
+      unsubscribedEmails.add(email);
+      continue;
+    }
     const recipient = supabaseRowToRecipient(row);
     if (recipient && !byEmail.has(recipient.email)) byEmail.set(recipient.email, recipient);
   }
-  return Array.from(byEmail.values());
+  return {
+    recipients: Array.from(byEmail.values()),
+    unsubscribedEmails: Array.from(unsubscribedEmails),
+  };
 }
 
 function base64Url(value) {
@@ -301,7 +318,7 @@ async function fetchGoogleSheetRecipients() {
   return rowsToRecipients(rows);
 }
 
-function mergeRecipients(current, incoming) {
+function mergeRecipients(current, incoming, unsubscribedEmails = []) {
   const byEmail = new Map();
   for (const recipient of current.recipients) {
     const email = normalizeEmail(recipient.email);
@@ -311,6 +328,7 @@ function mergeRecipients(current, incoming) {
 
   let added = 0;
   let updated = 0;
+  let removed = 0;
   for (const recipient of incoming) {
     const existing = byEmail.get(recipient.email);
     if (!existing) {
@@ -334,6 +352,11 @@ function mergeRecipients(current, incoming) {
     byEmail.set(recipient.email, merged);
   }
 
+  for (const rawEmail of unsubscribedEmails) {
+    const email = normalizeEmail(rawEmail);
+    if (email && byEmail.delete(email)) removed += 1;
+  }
+
   return {
     mailingList: {
       ...current,
@@ -342,46 +365,48 @@ function mergeRecipients(current, incoming) {
     },
     added,
     updated,
+    removed,
   };
 }
 
 async function fetchSubmissions() {
-  const supabaseRecipients = await fetchSupabaseRecipients();
-  if (supabaseRecipients) {
-    console.log(`loaded ${supabaseRecipients.length} signup(s) from Supabase.`);
-    return supabaseRecipients;
+  const supabaseState = await fetchSupabaseRecipients();
+  if (supabaseState) {
+    console.log(`loaded ${supabaseState.recipients.length} signup(s) and ${supabaseState.unsubscribedEmails.length} unsubscribe(s) from Supabase.`);
+    return supabaseState;
   }
 
   const privateGoogleRecipients = await fetchPrivateGoogleSheetRecipients();
   if (privateGoogleRecipients) {
     console.log(`loaded ${privateGoogleRecipients.length} signup(s) from private Google Sheet.`);
-    return privateGoogleRecipients;
+    return { recipients: privateGoogleRecipients, unsubscribedEmails: [] };
   }
 
   const googleRecipients = await fetchGoogleSheetRecipients();
   if (googleRecipients) {
     console.log(`loaded ${googleRecipients.length} signup(s) from Google Sheet CSV.`);
-    return googleRecipients;
+    return { recipients: googleRecipients, unsubscribedEmails: [] };
   }
 
   console.log('GOOGLE_FORM_RESPONSES_CSV_URL is not set; skipping mailing-list sync.');
-  return [];
+  return { recipients: [], unsubscribedEmails: [] };
 }
 
 async function main() {
   const submissions = await fetchSubmissions();
-  const incoming = submissions;
+  const incoming = Array.isArray(submissions) ? submissions : submissions.recipients;
+  const unsubscribedEmails = Array.isArray(submissions) ? [] : submissions.unsubscribedEmails;
   const current = loadMailingList();
   const before = current.recipients.length;
-  const { mailingList, added, updated } = mergeRecipients(current, incoming);
+  const { mailingList, added, updated, removed } = mergeRecipients(current, incoming, unsubscribedEmails);
 
-  if (!added && !updated) {
+  if (!added && !updated && !removed) {
     console.log(`mailing list unchanged (${before} recipient${before === 1 ? '' : 's'}).`);
     return;
   }
 
   writeFileSync(MAILING_LIST_PATH, `${JSON.stringify(mailingList, null, 2)}\n`, 'utf8');
-  console.log(`mailing list synced: ${added} added, ${updated} updated, ${mailingList.recipients.length} total.`);
+  console.log(`mailing list synced: ${added} added, ${updated} updated, ${removed} removed, ${mailingList.recipients.length} total.`);
 }
 
 export {
@@ -393,6 +418,7 @@ export {
   parseCsv,
   submissionToRecipient,
   supabaseRowToRecipient,
+  isUnsubscribeRow,
 };
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {

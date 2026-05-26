@@ -64,11 +64,11 @@ function loadTwitterWindow(date) {
   };
 }
 
-function compactForumPosts(posts, start, end) {
+function compactForumPosts(posts, start = null, end = null) {
   const seen = new Set();
   const out = [];
   for (const p of posts) {
-    if (!inWindow(p.posted_at, start, end)) continue;
+    if (start && end && !inWindow(p.posted_at, start, end)) continue;
     const key = p.post_url || `${p.thread_url}|${p.posted_at}|${p.author || ''}`;
     if (seen.has(key)) continue;
     seen.add(key);
@@ -88,6 +88,23 @@ function compactForumPosts(posts, start, end) {
 function loadForumWindow(date) {
   const { start, end } = windowForDate(date);
   const dir = path.resolve(ROOT, SETTINGS.forumDailyDir);
+  const dayFile = path.join(dir, `${date}.json`);
+  if (existsSync(dayFile)) {
+    const day = JSON.parse(readFileSync(dayFile, 'utf8'));
+    const windowHours = day.window_hours || SETTINGS.summaryWindowHours;
+    const fetchedAt = day.fetched_at ? new Date(day.fetched_at) : null;
+    const windowEnd = fetchedAt && Number.isFinite(fetchedAt.getTime()) ? fetchedAt : end;
+    const windowStart = new Date(windowEnd.getTime() - windowHours * 60 * 60 * 1000);
+    const compactPosts = compactForumPosts(day.posts || []);
+    return {
+      post_count: compactPosts.length,
+      window_hours: windowHours,
+      window_start_utc: windowStart.toISOString(),
+      window_end_utc: windowEnd.toISOString(),
+      posts: compactPosts,
+    };
+  }
+
   const posts = readJsonFiles(dir).flatMap((day) => day.posts || []);
   const compactPosts = compactForumPosts(posts, start, end);
   return {

@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 
 import {
   googleRowToRecipient,
+  isUnsubscribeRow,
   mergeRecipients,
   normalizeEmail,
   parseCsv,
@@ -50,6 +51,8 @@ test('maps Google and Supabase signup rows into sender recipients', () => {
   assert.equal(supabase.email, 'guy.houri2024@gmail.com');
   assert.equal(supabase.name, 'Guy Houri');
   assert.equal(supabase.source, 'supabase');
+  assert.equal(isUnsubscribeRow({ email: 'x@example.com', source: 'unsubscribe' }), true);
+  assert.equal(isUnsubscribeRow({ email: 'x@example.com', frequency: 'Unsubscribe' }), true);
 });
 
 test('mergeRecipients dedupes by email and keeps existing subscribers', () => {
@@ -77,4 +80,24 @@ test('mergeRecipients dedupes by email and keeps existing subscribers', () => {
   assert.equal(mailingList.recipients.length, 2);
   assert.equal(mailingList.recipients[0].email, 'guy.houri2024@gmail.com');
   assert.equal(mailingList.recipients[0].comments, 'from supabase');
+});
+
+test('mergeRecipients removes unsubscribe requests from the sender list', () => {
+  const current = {
+    recipients: [
+      { email: 'guy.houri2024@gmail.com', name: 'Guy', frequency: 'Daily', source: 'manual' },
+      { email: 'other@example.com', name: 'Other', frequency: 'Daily', source: 'manual' },
+    ],
+  };
+
+  const { mailingList, added, updated, removed } = mergeRecipients(
+    current,
+    [{ email: 'new@example.com', name: 'New Reader', frequency: 'Daily', source: 'supabase' }],
+    ['guy.houri2024@gmail.com'],
+  );
+
+  assert.equal(added, 1);
+  assert.equal(updated, 0);
+  assert.equal(removed, 1);
+  assert.deepEqual(mailingList.recipients.map((r) => r.email), ['new@example.com', 'other@example.com']);
 });

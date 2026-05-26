@@ -1,0 +1,132 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+
+import {
+  gateSelection,
+  repairPrivatePhraseConcepts,
+  repairRequiredTranslationConcepts,
+  repairSelectionCoverage,
+} from '../code/summarize.js';
+
+test('gateSelection keeps Jack-authored priority-3 geo forum signals', () => {
+  const gated = gateSelection({
+    selected_items: [
+      {
+        source_type: 'forum',
+        source_id: 'forum-ancients',
+        source_authority: 'jack',
+        priority: 3,
+        value_type: 'geo',
+        title: 'THE ANCIENTS...........WHAT DID THEY KNOW?',
+      },
+      {
+        source_type: 'tweet',
+        source_id: 'tweet-low',
+        source_authority: 'jack',
+        priority: 3,
+        value_type: 'commentary',
+        title: 'Low value tweet',
+      },
+    ],
+    dropped_items: [],
+    unselected_items: [],
+  });
+
+  assert.deepEqual(gated.selected_items.map((item) => item.source_id), ['forum-ancients']);
+  assert.equal(gated.dropped_items.at(-1).source_id, 'tweet-low');
+});
+
+test('repairSelectionCoverage turns omitted sources into audit-only drops', () => {
+  const repaired = repairSelectionCoverage({
+    twitter: { tweets: [{ id: '12345', text: 'small note' }] },
+    forum: {
+      posts: [
+        {
+          thread_url: 'https://forum.jackkruse.com/threads/the-ancients.17876/',
+          thread_title: 'THE ANCIENTS...........WHAT DID THEY KNOW?',
+          author: 'Jack Kruse',
+        },
+      ],
+    },
+  }, {
+    selected_items: [],
+    unselected_items: [{ source_type: 'tweet', source_id: '12345' }],
+  });
+
+  assert.equal(repaired.unselected_items.length, 2);
+  assert.equal(repaired.unselected_items[1].source_type, 'forum');
+  assert.equal(repaired.unselected_items[1].source_authority, 'jack');
+  assert.equal(repaired.unselected_items[1].reason_category, 'model_omitted');
+});
+
+test('repairSelectionCoverage removes duplicate source classifications', () => {
+  const repaired = repairSelectionCoverage({
+    twitter: { tweets: [{ id: '12345', text: 'small note' }] },
+    forum: { posts: [] },
+  }, {
+    selected_items: [{ source_type: 'tweet', source_id: '12345', title: 'selected' }],
+    unselected_items: [{ source_type: 'tweet', source_id: '12345', reason: 'duplicate reject' }],
+  });
+
+  assert.equal(repaired.selected_items.length, 1);
+  assert.equal(repaired.unselected_items.length, 0);
+});
+
+
+test('repairRequiredTranslationConcepts explains slash-normalized science terms', () => {
+  const summary = {
+    sections: [
+      {
+        title: 'Forum',
+        cards: [
+          {
+            lead: 'Internal water collapse drives charge accumulation',
+            body: 'Grounding/uninsulated state changes the model.',
+            points: [],
+            concepts: {},
+            source_urls: ['https://forum.jackkruse.com/threads/hypermobility-ehlers-danios-syndrome.29636/'],
+          },
+        ],
+      },
+    ],
+  };
+  const selection = {
+    selected_items: [
+      {
+        source_type: 'forum',
+        source_id: 'https://forum.jackkruse.com/threads/hypermobility-ehlers-danios-syndrome.29636/',
+        source_url: 'https://forum.jackkruse.com/threads/hypermobility-ehlers-danios-syndrome.29636/',
+        title: 'Internal water collapse drives charge accumulation',
+        translation_terms: ['grounding/uninsulated'],
+      },
+    ],
+  };
+
+  const repaired = repairRequiredTranslationConcepts(summary, selection);
+  const [card] = repaired.sections[0].cards;
+
+  assert.match(card.body, /\{\{concept:Grounding\/uninsulated\}\}/);
+  assert.match(card.concepts['grounding/uninsulated'].text, /conductive path to the earth/);
+});
+
+test('repairPrivatePhraseConcepts explains Kruse shorthand when the model forgets', () => {
+  const repaired = repairPrivatePhraseConcepts({
+    sections: [
+      {
+        title: 'Forum',
+        cards: [
+          {
+            lead: 'Charge dysregulation in EDS patients',
+            body: 'The water table collapse changes charge behavior.',
+            points: [],
+            concepts: {},
+          },
+        ],
+      },
+    ],
+  });
+  const [card] = repaired.sections[0].cards;
+
+  assert.match(card.body, /\{\{concept:water table collapse\}\}/);
+  assert.match(card.concepts['water table collapse'].text, /not a literal groundwater table/);
+});

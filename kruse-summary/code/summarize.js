@@ -201,6 +201,10 @@ function forumSelectionId(value) {
   return match ? match[1] : text;
 }
 
+function cleanOneLine(value) {
+  return String(value || '').replace(/\s+/g, ' ').trim();
+}
+
 function selectionKey(item) {
   const type = item?.source_type;
   const id = normalizeSelectionSourceId(item);
@@ -216,8 +220,7 @@ function inputSourceKeys(input) {
   ].filter((key) => !key.endsWith(':')));
 }
 
-function validateSelectionCoverage(input, selection) {
-  const expected = inputSourceKeys(input);
+function classificationKeys(selection) {
   const seen = new Map();
   const allItems = [
     ...(selection.selected_items || []),
@@ -228,6 +231,75 @@ function validateSelectionCoverage(input, selection) {
     if (!key || /^(tweet|forum):$/.test(key)) continue;
     seen.set(key, (seen.get(key) || 0) + 1);
   }
+  return seen;
+}
+
+function omittedSelectionItem(input, key) {
+  const [type, id] = key.split(':');
+  const base = {
+    source_type: type,
+    reason_category: 'model_omitted',
+    reason: 'Curator omitted this source from the audit lists; keeping it audit-only rather than selecting it.',
+  };
+  if (type === 'tweet') {
+    const tweet = (input?.twitter?.tweets || []).find((t) => String(t.id) === id);
+    return {
+      ...base,
+      source_id: id,
+      title: cleanOneLine(tweet?.text || `Tweet ${id}`).slice(0, 120),
+    };
+  }
+  if (type === 'forum') {
+    const post = (input?.forum?.posts || []).find((p) => forumSelectionId(p.thread_url) === id);
+    return {
+      ...base,
+      source_id: post?.thread_url || id,
+      source_url: post?.thread_url || undefined,
+      source_authority: String(post?.author || '').toLowerCase().includes('jack') ? 'jack' : 'member',
+      title: post?.thread_title || `Forum thread ${id}`,
+    };
+  }
+  return { ...base, source_id: id };
+}
+
+export function repairSelectionCoverage(input, selection) {
+  const secondaryKey = Array.isArray(selection.unselected_items) ? 'unselected_items' : 'dropped_items';
+  const seenKeys = new Set();
+  let duplicateRepairCount = 0;
+  const keepUnique = (items = []) => items.filter((item) => {
+    const key = selectionKey(item);
+    if (!key || /^(tweet|forum):$/.test(key)) return true;
+    if (seenKeys.has(key)) {
+      duplicateRepairCount++;
+      return false;
+    }
+    seenKeys.add(key);
+    return true;
+  });
+  let repaired = {
+    ...selection,
+    selected_items: keepUnique(selection.selected_items || []),
+    [secondaryKey]: keepUnique(selection[secondaryKey] || []),
+  };
+  if (duplicateRepairCount) {
+    info(`anthropic: removed ${duplicateRepairCount} duplicate source classification(s) from audit`);
+  }
+
+  const expected = inputSourceKeys(input);
+  const seen = classificationKeys(repaired);
+  const missing = [...expected].filter((key) => !seen.has(key));
+  if (!missing.length) return repaired;
+  const repairs = missing.map((key) => omittedSelectionItem(input, key));
+  info(`anthropic: repaired ${repairs.length} omitted source classification(s) as audit-only`);
+  if (secondaryKey === 'unselected_items') {
+    return { ...repaired, unselected_items: [...(repaired.unselected_items || []), ...repairs] };
+  }
+  return { ...repaired, dropped_items: [...(repaired.dropped_items || []), ...repairs] };
+}
+
+function validateSelectionCoverage(input, selection) {
+  const expected = inputSourceKeys(input);
+  const seen = classificationKeys(selection);
 
   const missing = [...expected].filter((key) => !seen.has(key));
   const duplicate = [...seen.entries()].filter(([, count]) => count > 1).map(([key]) => key);
@@ -521,6 +593,154 @@ const FALLBACK_CONCEPTS = {
     level: 'noob',
     text: 'Applied directly to the skin surface rather than swallowed or injected; in this card it clarifies the treatment route being compared.',
   },
+  'internal water table': {
+    level: 'noob',
+    text: 'Kruse shorthand for structured water and charge storage inside tissues; the practical claim is that tissue hydration/electrical order changes how well cells hold and move charge.',
+  },
+  'internal water table collapse': {
+    level: 'noob',
+    text: 'Kruse shorthand for a loss of structured tissue water and charge storage; translated plainly, the claim is that tissue water becomes less organized and holds/moves electrical charge less effectively.',
+  },
+  'water table collapse': {
+    level: 'noob',
+    text: 'Short form of internal water table collapse: a claimed loss of organized tissue water and charge-storage behavior, not a literal groundwater table inside the body.',
+  },
+  'eds ehlersdanlos syndrome': {
+    level: 'noob',
+    text: 'A group of connective-tissue disorders marked by loose or fragile collagen, often showing up as hypermobile joints, easy injury, pain, or vascular/skin fragility.',
+  },
+  groundinguninsulated: {
+    level: 'noob',
+    text: 'Grounding means giving the body a conductive path to the earth; uninsulated means the body is not electrically isolated, so excess charge can dissipate instead of remaining trapped.',
+  },
+  groundingungrounded: {
+    level: 'noob',
+    text: 'Grounded tissue has a conductive path to the earth; ungrounded tissue lacks that discharge route, so Kruse frames it as more likely to retain excess charge.',
+  },
+  insulationgrounding: {
+    level: 'noob',
+    text: 'Insulation blocks charge movement; grounding provides a conductive path for charge to dissipate. Kruse uses the contrast to describe whether tissue can unload excess charge.',
+  },
+  insulation: {
+    level: 'noob',
+    text: 'Electrical insulation means resistance to charge movement. In this report it refers to whether tissue holds charge locally instead of letting it leak away.',
+  },
+  uninsulatedungrounded: {
+    level: 'noob',
+    text: 'Uninsulated/ungrounded means there is no easy conductive path for charge to leave the body, so Kruse frames the tissue as electrically isolated and more charge-retentive.',
+  },
+  'charge accumulation': {
+    level: 'noob',
+    text: 'A buildup of electrical charge in tissue or an environment; in these reports it matters because Kruse links charge separation and discharge paths to signaling and tissue behavior.',
+  },
+  'positive charge accumulation': {
+    level: 'noob',
+    text: 'A buildup of net positive electrical charge in tissue; in Kruse language this points to poorer electron availability and weaker tissue charge separation.',
+  },
+  'internal batterycapacitance': {
+    level: 'noob',
+    text: 'A capacitance analogy: tissues are treated like charge-storing surfaces, so changes in water, collagen, minerals, and grounding can alter how much electrical potential the body can hold.',
+  },
+  'internal battery': {
+    level: 'noob',
+    text: 'Kruse shorthand for the body\'s ability to separate, store, and move electrical charge across water, collagen, membranes, and mitochondria.',
+  },
+  capacitance: {
+    level: 'noob',
+    text: 'The ability of a material or system to store electrical charge. In body-language analogies, higher capacitance means tissue can hold more separated charge.',
+  },
+  'john ellis machine': {
+    level: 'noob',
+    text: 'A water-processing device associated with deuterium-depleted water claims; the report only treats Kruse\'s claim about that machine, not an independent endorsement.',
+  },
+  'deuterium depletion': {
+    level: 'noob',
+    text: 'Lowering the amount of deuterium, the heavy isotope of hydrogen, in water or the body. Kruse links lower deuterium load to mitochondrial and water-chemistry effects.',
+  },
+  'deuterium concentration ppm': {
+    level: 'noob',
+    text: 'The amount of deuterium measured in parts per million. Normal water is often around 150 ppm; deuterium-depleted water claims usually refer to lowering that number.',
+  },
+  'grounding capacity': {
+    level: 'noob',
+    text: 'How well the body or tissue can discharge electrical charge through a conductive connection to earth or another reference path.',
+  },
+  hypermobility: {
+    level: 'noob',
+    text: 'Joints moving beyond the usual range, often because connective tissue is unusually loose or elastic.',
+  },
+  'porous rock': {
+    level: 'noob',
+    text: 'Rock with connected holes or channels that let water move through it; limestone aquifers matter because water flow, minerals, and charge can interact across a large underground surface area.',
+  },
+  porosity: {
+    level: 'noob',
+    text: 'How much connected empty space exists inside a material such as limestone; higher porosity lets water, minerals, and ions move through the rock.',
+  },
+  'underground rivers': {
+    level: 'noob',
+    text: 'Subsurface water channels that move through caves or porous rock instead of visible surface riverbeds.',
+  },
+  'underground hydrology': {
+    level: 'noob',
+    text: 'The study of how water moves and stores underground, including aquifers, caves, flow paths, pressure, minerals, and mixing with seawater.',
+  },
+  'underground aquifer': {
+    level: 'noob',
+    text: 'A body of water stored and moving below ground through porous rock or cave systems.',
+  },
+  'subsurface hydrology': {
+    level: 'noob',
+    text: 'How water behaves below the surface: where it is stored, how it flows, and how it mixes with minerals or seawater.',
+  },
+  'underground water table': {
+    level: 'noob',
+    text: 'The level and connected body of water held below ground; in Yucatan this is shaped by porous limestone, caves, cenotes, and seawater mixing.',
+  },
+  'subsurface currents': {
+    level: 'noob',
+    text: 'Hidden water flows below the ground surface, often moving through cave channels or porous rock.',
+  },
+  'ocean infiltration': {
+    level: 'noob',
+    text: 'Seawater entering underground freshwater systems through porous coastal rock; that can change minerals, salinity, electrical conductivity, and the local water environment.',
+  },
+  'mineral infiltration': {
+    level: 'noob',
+    text: 'Minerals moving into water or tissue from the surrounding material; in an aquifer this changes conductivity, pH, salinity, and the chemistry of the water environment.',
+  },
+  'geological infiltration': {
+    level: 'noob',
+    text: 'Water or dissolved minerals moving through geological layers such as limestone, caves, and porous rock.',
+  },
+  'water infiltration': {
+    level: 'noob',
+    text: 'Water entering and moving through soil, rock, caves, or tissue spaces rather than staying on the surface.',
+  },
+  'subsurface systems': {
+    level: 'noob',
+    text: 'Underground networks such as aquifers, caves, porous rock, mineral beds, and hidden water channels.',
+  },
+  'yucatn peninsula': {
+    level: 'noob',
+    text: 'The Yucatan Peninsula is a limestone-rich region in southeastern Mexico with extensive cenotes, caves, and underground water systems.',
+  },
+  'yucatan peninsula': {
+    level: 'noob',
+    text: 'The Yucatan Peninsula is a limestone-rich region in southeastern Mexico with extensive cenotes, caves, and underground water systems.',
+  },
+  'maya sacred sites': {
+    level: 'noob',
+    text: 'Ceremonial or culturally important Maya locations, often tied to cenotes and caves in this source because those places sit on unusual water and limestone geology.',
+  },
+  maya: {
+    level: 'noob',
+    text: 'The Indigenous Mesoamerican civilization associated with the Yucatan region; the source links Maya sacred places to cenotes and underground water systems.',
+  },
+  geophysical: {
+    level: 'noob',
+    text: 'Physical features and forces of the earth, such as geology, water movement, minerals, magnetism, electric fields, and light conditions.',
+  },
 };
 
 function visibleForumText(bullet) {
@@ -604,7 +824,7 @@ function tagCardTerm(card, term) {
   return card;
 }
 
-function repairRequiredTranslationConcepts(summary, selection) {
+export function repairRequiredTranslationConcepts(summary, selection) {
   const repaired = {
     ...summary,
     sections: (summary.sections || []).map((section) => ({
@@ -872,7 +1092,63 @@ function isPodcastItem(item) {
   ].filter(Boolean).join(' '));
 }
 
-function gateSelection(selection) {
+const JACK_FORUM_PRIORITY_THREE_TYPES = new Set([
+  'case',
+  'geo',
+  'geology',
+  'mechanism',
+  'protocol',
+  'research',
+  'treatment',
+]);
+
+function isJackForumPriorityThreeSignal(item) {
+  return item.source_type === 'forum'
+    && item.source_authority === 'jack'
+    && (item.priority || 0) >= 3
+    && JACK_FORUM_PRIORITY_THREE_TYPES.has(String(item.value_type || '').toLowerCase());
+}
+
+export function repairPrivatePhraseConcepts(summary) {
+  const repaired = {
+    ...summary,
+    sections: (summary.sections || []).map((section) => ({
+      ...section,
+      cards: (section.cards || []).map((card) => ({
+        ...card,
+        concepts: { ...(card.concepts || {}) },
+      })),
+    })),
+  };
+  let repairCount = 0;
+
+  for (const section of repaired.sections || []) {
+    for (let i = 0; i < (section.cards || []).length; i += 1) {
+      let card = section.cards[i];
+      const visible = conceptKey([
+        card.lead,
+        card.body,
+        ...(Array.isArray(card.points) ? card.points : []),
+      ].filter(Boolean).join(' '));
+      for (const phrase of KRUSE_PRIVATE_PHRASES) {
+        const key = conceptKey(phrase);
+        if (!key || !visible.includes(key)) continue;
+        if (conceptMapCoversTerm(card.concepts, phrase)) continue;
+        const fallback = FALLBACK_CONCEPTS[key];
+        if (!fallback) continue;
+        card.concepts[phrase] = { ...fallback };
+        card = tagCardTerm(card, phrase);
+        repairCount++;
+      }
+      section.cards[i] = card;
+    }
+  }
+
+  if (repairCount) info(`anthropic: repaired ${repairCount} private phrase concept(s)`);
+  return repaired;
+}
+
+export function gateSelection(selection) {
   const minPriority = SETTINGS.aiSelectionMinPriority;
   const selected = selection.selected_items || [];
   const deferredPodcastItems = selected.filter(isPodcastItem);
@@ -880,6 +1156,7 @@ function gateSelection(selection) {
   const keepItem = (item) => (
     (item.priority || 0) >= minPriority
     || (item.value_type === 'treatment' && item.source_authority === 'jack')
+    || isJackForumPriorityThreeSignal(item)
   );
   const strongItems = candidates.filter(keepItem);
   const lowPriorityDrops = candidates
@@ -979,7 +1256,7 @@ export async function summarizeDay(date, { dryRun = false } = {}) {
     validateSelection,
   );
   usages.push(curateResult.usage);
-  const selection = attachInputBlogRefs(curateResult.parsed, input);
+  const selection = repairSelectionCoverage(input, attachInputBlogRefs(curateResult.parsed, input));
   validateSelectionCoverage(input, selection);
   writeJsonArtifact(date, 'selection-audit', selection);
   const gatedSelection = gateSelection(selection);
@@ -1025,10 +1302,10 @@ export async function summarizeDay(date, { dryRun = false } = {}) {
   writeJsonArtifact(date, 'explained', explainResult.parsed);
 
   const repairedSummary = repairSummarySourceQuotes(explainResult.parsed, input, gatedSelection);
-  const summary = repairRequiredTranslationConcepts(
+  const summary = repairPrivatePhraseConcepts(repairRequiredTranslationConcepts(
     repairConceptAliases(sanitizeSummary(repairedSummary)),
     gatedSelection
-  );
+  ));
   validateSummary(summary);
   validateReportVoice(summary);
   validateNoQuestionFraming(summary);

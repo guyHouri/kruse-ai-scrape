@@ -139,14 +139,21 @@ The signup and feedback forms post directly to Supabase from the static GitHub
 Pages site. This does not need a backend service as long as the tables are
 protected by RLS:
 
-- `kruse_mailing_list`: first name, last name, email, comments, delivery, report
-  date, report URL, page URL, and created timestamp.
+- `kruse_mailing_list`: first name, last name, email, comments, delivery/frequency,
+  report date, report URL, page URL, source, and created timestamp. Signups use
+  `source='report-site'`; unsubscribe requests use `source='unsubscribe'`.
 - `kruse_report_feedback`: first name, last name, optional email, rating,
   comments, report date, report URL, page URL, and created timestamp.
 
 The browser receives only `NEXT_PUBLIC_SUPABASE_URL` and
 `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY`. Public users have `INSERT` permission
 only. They cannot read, update, or delete either table.
+
+The static site also publishes `/unsubscribe/`. That page inserts an
+unsubscribe row into `kruse_mailing_list`; it does not delete rows from
+Supabase in the browser. During `npm run sync-mailing-list`, the latest row per
+email wins. If the latest row is an unsubscribe row, that email is removed from
+`mailing_list.json` before the next send.
 
 For deployed builds, set these GitHub Actions variables:
 
@@ -189,6 +196,10 @@ select created_at, first_name, last_name, email, frequency, comments, report_dat
 from public.kruse_mailing_list
 order by created_at desc;
 
+select distinct on (email) email, source, frequency, created_at
+from public.kruse_mailing_list
+order by email, created_at desc;
+
 select created_at, report_date, rating, first_name, last_name, email, comments, report_url
 from public.kruse_report_feedback
 order by created_at desc;
@@ -206,8 +217,9 @@ npm run sync-mailing-list
 
 That command first tries Supabase with `SUPABASE_SERVICE_ROLE_KEY`. If that is
 not configured, it falls back to the older Google Sheet paths. It merges new
-emails into `mailing_list.json`, and the workflow commits that file back to the
-repo. From that point, the next email send uses the updated list automatically.
+emails into `mailing_list.json`, removes emails whose latest Supabase row is an
+unsubscribe request, and the workflow commits that file back to the repo. From
+that point, the next email send uses the updated list automatically.
 
 Run the sync locally:
 

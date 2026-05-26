@@ -222,11 +222,29 @@ function renderFallbackTweetCard(t, idx) {
 
 // Curated summary shape (validated against prompts/output-schema.json):
 //   { headline_subtitle, sections: [ { title, cards: [...] } ] }
-function renderSections(summary) {
+function curatedCardCount(summary) {
+  return (summary?.sections || []).reduce((count, sec) => count + (sec.cards || []).length, 0);
+}
+
+function renderEmptySectionCard(sectionTitle, day, forumDay) {
+  const isForum = /forum/i.test(sectionTitle);
+  const count = isForum ? (forumDay?.posts?.length || 0) : (day.tweets?.length || 0);
+  const lead = isForum
+    ? `Forum scraper found ${count} post${count === 1 ? '' : 's'} in the last ${forumDay?.window_hours || SETTINGS.summaryWindowHours} hours.`
+    : `Kruse tweeted ${count} time${count === 1 ? '' : 's'}.`;
+  return `      <div class="card empty-signal-card">
+        <div class="card-header"><span class="tag">No selected signal</span></div>
+        <div class="item-text">${esc(lead)} No new source-bound protocol, treatment, cited research, mechanism, or case detail passed the report gate for this section.</div>
+        <div class="source-quote">Skipped baseline reminders, chatter, unanswered questions, and unsupported claims instead of turning them into filler.</div>
+      </div>`;
+}
+
+function renderSections(summary, day, forumDay) {
   return summary.sections.map((sec) => {
     const cards = sec.cards.map((c, i) => renderCuratedCard(c, i)).join('\n');
+    const body = cards || renderEmptySectionCard(sec.title, day, forumDay);
     return `      <div class="section-title">${esc(sec.title)}</div>
-${cards}`;
+${body}`;
   }).join('\n');
 }
 
@@ -243,9 +261,12 @@ export function buildReportHtml(date, summary = null) {
   const day = loadDay(date);
   const forumDay = loadForumDay(date);
   const dateDisplay = formatDdMmYyyy(date);
-  const subtitle = summary?.headline_subtitle || 'Cutting-edge biophysical vectors. No entry-level fluff.';
+  const hasCuratedCards = curatedCardCount(summary) > 0;
+  const subtitle = summary
+    ? (hasCuratedCards ? summary.headline_subtitle : `No high-signal updates passed the report gate for ${date}.`)
+    : 'Cutting-edge biophysical vectors. No entry-level fluff.';
   const twitterHtml = summary?.sections?.length
-    ? renderSections(summary)
+    ? renderSections(summary, day, forumDay)
     : renderFallbackSections(day);
   // Forum is included by default; set INCLUDE_FORUM=false to hide it.
   const includeForum = process.env.INCLUDE_FORUM !== 'false';

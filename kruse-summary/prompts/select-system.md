@@ -140,6 +140,32 @@ Examples of mechanism/case objects that should be selected:
 - named mitochondrial enzyme/pathway linked to a symptom or diagnosis;
 - concrete case clue connecting a symptom, substance, device, test, or protocol.
 
+# Direct Jack Geo / Environment Rule
+
+The reader explicitly wants geo/environment updates, not only clinic-style
+protocols. Do not classify Jack-authored geology, water-system, ancient-site,
+magnetism, light, latitude, ocean, aquifer, cave, cenote, limestone, or mineral
+posts as mere chatter just because the source does not end with a treatment
+instruction.
+
+Select a Jack-authored geo/environment item when it gives a concrete place,
+material, water structure, earth process, or ancient-site observation that could
+matter to Kruse's biology thesis.
+
+For direct Jack geo/environment items:
+
+- set `value_type` to `"geo"`;
+- set `priority` to at least 3;
+- `reader_change` should say what geography or environment variable the reader
+  should understand differently, not invent a protocol;
+- `mechanism` may be a narrow earth/biology bridge from the source text, but it
+  can be empty if the item is mainly a geo observation;
+- include exact geology/water/place terms in `translation_terms`.
+
+Example: a Jack forum post about the Yucatan, limestone, cenotes, underground
+water, ocean infiltration, Maya sacred sites, or hidden currents should be
+selected as a geo signal, not dropped as travel chatter.
+
 # Source Authority
 
 Never turn your own judgment into the report.

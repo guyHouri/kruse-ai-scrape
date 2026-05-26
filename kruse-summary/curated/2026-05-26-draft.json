@@ -1,5 +1,5 @@
 {
-  "headline_subtitle": "No selected items for 2026-05-26.",
+  "headline_subtitle": "Yucatán's subsurface water system and EDS charge dysregulation",
   "sections": [
     {
       "title": "Twitter Updates",
@@ -7,7 +7,74 @@
     },
     {
       "title": "Forum Updates",
-      "cards": []
+      "cards": [
+        {
+          "tag": "Geo-hydrology signal",
+          "lead": "Yucatán's limestone aquifer: ocean-freshwater mixing and underground current networks",
+          "body": "Jack describes Yucatán's subsurface as a living water system where ocean water infiltrates through highly porous limestone, creating interconnected cenotes, underground rivers, and flooded caverns that extend from the Caribbean across the peninsula. The Maya recognized cenotes as sacred gateways to the underworld—markers of deep aquifer networks and earth-biology interfaces. This subsurface hydrology remains partially unexplored, with hidden currents and water chemistry shaped by limestone-mediated ocean-freshwater mixing.",
+          "points": [
+            "**Geo signal.** Ocean water seeps beneath Yucatán through limestone porosity, creating massive underground current systems that connect surface and subsurface hydrology across the peninsula.",
+            "**Limestone structure.** Yucatán's primary geology is highly porous limestone, enabling cave formation, underground rivers, and interconnected cenote networks over thousands of years.",
+            "**Ancient site selection.** Maya site placement at cenotes reflects deep knowledge of subsurface water systems and their biological significance as gateways to underground forces.",
+            "**Practical meaning.** Recognize Yucatán's subsurface as a dynamic water system; cenotes mark access points to deep aquifer networks with potential biological relevance to water chemistry and mineral content."
+          ],
+          "concepts": {
+            "cenotes": {
+              "level": "noob",
+              "text": "Natural sinkholes or underground chambers in limestone that expose groundwater; sacred to the Maya and markers of deep aquifer systems."
+            },
+            "limestone porosity": {
+              "level": "noob",
+              "text": "Limestone rock contains many small holes and channels that allow water to flow through it, enabling cave and underground river formation."
+            },
+            "subsurface hydrology": {
+              "level": "pro",
+              "text": "The movement and storage of water beneath the earth's surface through rock layers and aquifer systems."
+            }
+          },
+          "source_quote": "The Ocean is already seeping beneath the land of Yucatán, and this phenomenon is growing stronger by the day.",
+          "citations": [],
+          "source_ids": [],
+          "source_urls": [
+            "https://forum.jackkruse.com/threads/the-ancients-what-did-they-know.32835/"
+          ]
+        },
+        {
+          "tag": "EDS biophysics",
+          "lead": "Ehlers-Danlos Syndrome as water-table collapse and charge dysregulation",
+          "body": "Jack connects EDS pathophysiology to a specific biophysical mechanism: the internal water table collapses from 160 to approximately 78, causing loss of insulation and grounding. This collapse forces the patient to accumulate excess positive charge while the internal battery lacks sufficient capacitance to absorb and ground that charge. EDS is thus a water-structure and charge-handling disorder, not only a collagen disorder.",
+          "points": [
+            "**Mechanism.** Internal water table collapse (160 to ~78) → loss of insulation and grounding → accumulation of positive charge → insufficient capacitance in internal battery to absorb and ground charge.",
+            "**Biophysical model.** EDS involves dysregulation of the body's water-based electrical system; the collapsed water table prevents proper charge distribution and grounding.",
+            "**Therapeutic direction.** Restoring water-table integrity and grounding capacity may address the underlying charge dysregulation in EDS, not only collagen support.",
+            "**Why it matters.** Reframing EDS as a charge and water-structure disorder opens pathways to grounding, hydration, and electrolyte interventions beyond standard collagen-focused approaches."
+          ],
+          "concepts": {
+            "internal water table": {
+              "level": "pro",
+              "text": "The body's structured water content and its role in electrical insulation, charge distribution, and cellular capacitance; measured in units reflecting hydration and charge-carrying capacity."
+            },
+            "EDS (Ehlers-Danlos Syndrome)": {
+              "level": "noob",
+              "text": "A genetic connective tissue disorder affecting collagen structure; traditionally understood as causing joint hypermobility, skin fragility, and tissue weakness."
+            },
+            "grounding": {
+              "level": "pro",
+              "text": "Electrical contact with the earth or conductive surface that allows excess positive charge to dissipate and restores the body's electrical baseline."
+            },
+            "capacitance": {
+              "level": "pro",
+              "text": "The ability of a system (in this case, the body's internal battery) to store and absorb electrical charge without voltage spike."
+            }
+          },
+          "source_quote": "Internal water table has likely collapsed (160 to ~ 78) = she is uninsulated / ungrounded so would accumulate way more + charge and internal batt lacks the capacitance to absorb and ground the charge.",
+          "citations": [],
+          "source_ids": [],
+          "source_urls": [
+            "https://forum.jackkruse.com/threads/hypermobility-ehlers-danios-syndrome.29636/"
+          ]
+        }
+      ]
     }
   ],
   "forum": {

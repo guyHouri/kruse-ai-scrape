@@ -1,108 +1,276 @@
 {
   "date": "2026-05-26",
-  "selected_items": [],
+  "selected_items": [
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/the-ancients-what-did-they-know.32835/",
+      "source_url": "https://forum.jackkruse.com/threads/the-ancients-what-did-they-know.32835/",
+      "source_authority": "jack",
+      "value_type": "geo",
+      "priority": 4,
+      "title": "Yucatán limestone aquifer system and ocean infiltration",
+      "why_interesting": "Jack describes the subsurface hydrology of Yucatán as a geo-biological signal: porous limestone, underground rivers, cenotes, and ocean water infiltration from the Caribbean. This connects ancient Maya site selection to hidden water currents and earth-biology interfaces.",
+      "source_claim": "The Ocean is seeping beneath Yucatán through limestone. Yucatán is primarily limestone, highly porous, allowing caves, underground rivers, and interconnected cenotes. Ocean water infiltrates through soil and travels through massive underground systems with flooded caverns and hidden currents from the Caribbean across the peninsula. Many areas remain unexplored. Maya saw cenotes as sacred gateways to the underworld connected to forces of nature.",
+      "mechanism": "Limestone porosity enables ocean-freshwater mixing and underground current systems that connect surface and subsurface hydrology across the peninsula.",
+      "reader_change": "Understand Yucatán's subsurface as a living water system where ocean and earth remain connected; recognize cenotes as markers of deep aquifer networks and potential biological significance of limestone-mediated water chemistry.",
+      "source_support": "The Ocean is already seeping beneath the land of Yucatán, and this phenomenon is growing stronger by the day... Yucatán is primarily formed of limestone, a highly porous type of rock that, over thousands of years, has allowed the creation of caves, underground rivers, and interconnected cenotes... enormous flooded caverns and hidden currents that course through the subsurface practically from the Caribbean all the way to various points across the peninsula.",
+      "support_quotes": [
+        "The Ocean is already seeping beneath the land of Yucatán, and this phenomenon is growing stronger by the day.",
+        "Yucatán is primarily formed of limestone, a highly porous type of rock that, over thousands of years, has allowed the creation of caves, underground rivers, and interconnected cenotes.",
+        "enormous flooded caverns and hidden currents that course through the subsurface practically from the Caribbean all the way to various points across the peninsula."
+      ],
+      "source_citations": [],
+      "blog_refs": [],
+      "translation_terms": [
+        "cenotes",
+        "limestone porosity",
+        "underground aquifer systems",
+        "ocean infiltration",
+        "subsurface hydrology"
+      ],
+      "scientific_translation_plan": "Explain cenotes as natural sinkholes and water access points in limestone terrain; clarify how porous limestone allows ocean water to mix with freshwater aquifers; describe the biological relevance of mineral-rich underground water systems to Kruse's thesis on water chemistry and earth magnetism.",
+      "risk_notes": "This is a geo observation without explicit treatment protocol. The value is in understanding earth-water systems as biological context, not as a direct medical intervention."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/hypermobility-ehlers-danios-syndrome.29636/",
+      "source_url": "https://forum.jackkruse.com/threads/hypermobility-ehlers-danios-syndrome.29636/",
+      "source_authority": "jack",
+      "value_type": "mechanism",
+      "priority": 4,
+      "title": "EDS and internal water table collapse linked to charge accumulation",
+      "why_interesting": "Jack connects Ehlers-Danlos Syndrome pathophysiology to a specific biophysical mechanism: collapsed internal water table (160 to ~78) causing loss of insulation/grounding, leading to excess positive charge accumulation and loss of internal battery capacitance.",
+      "source_claim": "In EDS, the internal water table has collapsed from 160 to approximately 78, causing the patient to become uninsulated and ungrounded, accumulating excess positive charge while the internal battery lacks capacitance to absorb and ground the charge.",
+      "mechanism": "Collapsed internal water table → loss of insulation and grounding → accumulation of positive charge → insufficient capacitance in internal battery to absorb and ground charge.",
+      "reader_change": "Recognize EDS as a water-structure and charge-handling disorder, not only a collagen disorder; understand that grounding and water-table restoration may address the underlying charge dysregulation.",
+      "source_support": "Internal water table has likely collapsed (160 to ~ 78) = she is uninsulated / ungrounded so would accumulate way more + charge and internal batt lacks the capacitance to absorb and ground the charge.",
+      "support_quotes": [
+        "Internal water table has likely collapsed (160 to ~ 78) = she is uninsulated / ungrounded so would accumulate way more + charge and internal batt lacks the capacitance to absorb and ground the charge."
+      ],
+      "source_citations": [],
+      "blog_refs": [],
+      "translation_terms": [
+        "internal water table",
+        "EDS (Ehlers-Danlos Syndrome)",
+        "grounding",
+        "charge accumulation",
+        "internal battery",
+        "capacitance"
+      ],
+      "scientific_translation_plan": "Explain internal water table as the body's hydration and electrical conductivity baseline; clarify how water loss reduces insulation and grounding capacity; describe the internal battery as mitochondrial charge storage and how loss of capacitance leads to charge dysregulation in connective tissue.",
+      "risk_notes": "This is a mechanistic claim about EDS pathophysiology. The writer should present it as Jack's biophysical model, not as proven biochemistry."
+    }
+  ],
   "unselected_items": [
     {
       "source_type": "tweet",
       "source_id": "2059102359872016427",
       "reason_category": "chatter",
-      "reason": "Political gossip about Netanyahu's health; no biological signal, no Kruse mechanism, no treatment or protocol content."
+      "reason": "Quote tweet about Netanyahu's medical procedures. Not biological signal relevant to Kruse's work; pure political/health gossip."
     },
     {
       "source_type": "tweet",
       "source_id": "2059098493625475311",
       "reason_category": "thin",
-      "reason": "Terse dismissal ('The machine was a scam') of John Ellis deuterium machine without mechanism, evidence, or actionable detail. Does not meet acceptance test: no explanation of what signal is new, what to do, or why."
+      "reason": "One-line dismissal of John Ellis deuterium machine as scam. No mechanism, protocol, or evidence provided; only a terse negation."
     },
     {
       "source_type": "tweet",
       "source_id": "2059075381831799110",
       "reason_category": "unclear",
-      "reason": "Fragment 'How we do CT with light' appears to be incomplete tweet or thread stub. No mechanism, protocol, or actionable content. Does not meet acceptance test."
+      "reason": "Fragment: '2. How we do CT with light.' Appears to be part of a numbered list but lacks context, mechanism, or actionable content."
     },
     {
       "source_type": "tweet",
       "source_id": "2059070385799217173",
       "reason_category": "unclear",
-      "reason": "Empty tweet text; no content to evaluate."
+      "reason": "Empty tweet with no text content."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/tool-and-metallica-tracks-for-deuterium-depletion.32760/unread",
       "reason_category": "unsupported",
-      "reason": "Member claim that specific music tracks trigger piezoelectric charge and deuterium sorting lacks mechanism detail, citation, or evidence. Speculative without source support."
+      "reason": "Member claims deep bass music triggers piezoelectric charge in fascia and restructures EZ water for deuterium sorting. No mechanism, research, or protocol detail provided; speculative claim without source support."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/when-you-begin-with-a-silver-gold-or-platinum-membership.19027/unread",
       "reason_category": "baseline",
-      "reason": "Member reports doing sunrises, blue blockers, and skin coverage—all known Kruse baseline practices. No new signal."
+      "reason": "Member reports doing sunrises and blue-blocking glasses. Standard baseline practices; no new signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/vagal-nerve-stimulation-tips.32826/unread",
       "reason_category": "unanswered_question",
-      "reason": "Member asks Jack's opinion on castor oil packs for eyes; no answer or Kruse response provided in source."
+      "reason": "Member asks Jack's opinion on castor oil packs for eyelids/eye area. No answer or protocol provided in source."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/new-gold-member-question-for-dr-kruse.32554/unread",
       "reason_category": "chatter",
-      "reason": "Single-word response 'Makes sense' with no content or context."
+      "reason": "Single-word response 'Makes sense' with no biological content."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/how-long-does-it-take-for-vitamin-d-levels-to-go-up-naturally.28177/unread",
       "reason_category": "unanswered_question",
-      "reason": "Member asks about vitamin D rise rate and Van Allen belt; no concrete answer, protocol, or measurement provided."
+      "reason": "Member asks about vitamin D elevation rate and Van Allen belt radiation. No concrete answer or data provided."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/any-pensioners-looking-into-decreto-531-revision-to-special-law-on-immigration-and-foreigners.32836/",
       "reason_category": "chatter",
-      "reason": "Immigration visa policy discussion; no biological, medical, or Kruse-relevant signal."
+      "reason": "Discussion of El Salvador immigration visa policy. Not biological or medical signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/loris-optimal-journal-story-time.32776/",
-      "reason_category": "thin",
-      "reason": "Member paraphrases vague podcast memory about end-stage ALS/Parkinson's patients and unspecified 'hail-mary' treatment. No concrete protocol, mechanism, or actionable detail. Hearsay without source support."
+      "reason_category": "unsupported",
+      "reason": "Member paraphrases from memory a Jack podcast claim about end-stage ALS/Parkinson's treatment. No concrete protocol, mechanism, or source detail; hearsay."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/telluric-communications.32804/",
       "reason_category": "chatter",
-      "reason": "Member speculation about appearance and electro-magneto-hydraulic rearrangement; no mechanism, case detail, protocol, or actionable signal."
+      "reason": "Member speculation about socioeconomic appearance and electro-magneto-hydraulic rearrangement. No concrete mechanism or case detail."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/i-stay-away-from-nnemf.30545/unread",
       "reason_category": "baseline",
-      "reason": "Member offers practical nnEMF detection and shielding tips (finding towers, wire mesh fence). Known baseline practice without new mechanism or protocol."
+      "reason": "Member provides nnEMF detection and shielding tips (finding towers, WiFi sources, wire mesh). Standard baseline practice; no new signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/jack-kruse-podcast-curriculum-youtube-edition-v1.23331/unread",
       "reason_category": "chatter",
-      "reason": "Social praise for podcast curriculum compilation; no biological or medical signal."
+      "reason": "Social praise for podcast curriculum compilation. No biological content."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/single-mitos-looking-to-meet-others-in-this-group.32734/",
       "reason_category": "chatter",
-      "reason": "Community organizing discussion; no biological or medical signal."
+      "reason": "Member discussion of community meetup and online connection. No biological signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/kathleen%E2%80%99s-optimal-journal.31612/",
       "reason_category": "chatter",
-      "reason": "Brief encouragement about vitamin D production in Bend; no mechanism, protocol, or new signal."
+      "reason": "Brief encouragement about vitamin D production in Bend, Oregon. No mechanism or protocol detail."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/pleasantly-weird.31052/unread",
       "reason_category": "thin",
-      "reason": "Member suggests soft collar to unload axis and prevent vertebral basilar insufficiency in EDS. No mechanism detail, citation, or protocol. Unsupported claim."
+      "reason": "Member recommends soft collar for EDS to unload axis and prevent vertebral basilar insufficiency. No mechanism, research, or protocol detail provided."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/unread",
+      "reason_category": "baseline",
+      "reason": "Member describes sauna detox and niacin protocol from last fall for pesticide exposure. Known baseline practice; no new signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/i-aint-dead-yet-mfer.32810/",
+      "reason_category": "chatter",
+      "reason": "Member personal narrative about pain management and medication withdrawal. No concrete protocol, mechanism, or new signal; mostly life story."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/tap-zap-block-blue-light-stop-pwm-flicker-on-mac-windows.32809/",
+      "reason_category": "chatter",
+      "reason": "Member technical support question about software installation. Not biological signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/recent-wide-scale-magnetic-changes-possibly-anthropogenic.32773/",
+      "reason_category": "unanswered_question",
+      "reason": "Member asks Jack about earth magnetic stabilization and CSF direction shift. No answer or concrete mechanism provided in source."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/lattice-locked-children.32663/",
+      "reason_category": "thin",
+      "reason": "Member anecdote about Down Syndrome children calming to Herman's Hermits music. No mechanism, research, or protocol; isolated observation."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/jacks-journal-journey-2019-and-beyond.23037/unread",
+      "reason_category": "chatter",
+      "reason": "Jack quote about divorce and family loyalty. Not biological signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/davids-journal-finally-aligned.12031/unread",
+      "reason_category": "chatter",
+      "reason": "Member complaint about lab costs in Canada. Not biological signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/mdrn-life-deuterium-depleted-water-scam-warning.31710/unread",
+      "reason_category": "chatter",
+      "reason": "Member note about pending deuterium test with LiteWater brand. No result or data provided."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/the-great-magnetic-short-what-to-expect-in-factor-y.32503/",
+      "reason_category": "chatter",
+      "reason": "Member personal health narrative (chaga tea, psilocybin, magnetico, DDW, outdoor workouts). No new protocol, mechanism, or research; lifestyle report."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/the-uk.30102/unread",
+      "reason_category": "chatter",
+      "reason": "Member poetic comment about birds and winter storms. Not biological signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/all-things-el-salvador.26387/",
+      "reason_category": "chatter",
+      "reason": "Jack comment about spending Bitcoin in El Salvador and age. Not biological signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/question-on-the-evolution-and-fitness-podcast.32833/",
+      "reason_category": "unanswered_question",
+      "reason": "Member asks whether carbonating DDW would improve it or alter EZ water formation. No answer provided in source."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/bruxism-tinnitus-are-the-same-disease.32383/unread",
+      "reason_category": "unanswered_question",
+      "reason": "Member asks Jack where to source mastic gum. No answer provided in source."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/why-you-must-be-discerning-with-ai.32828/",
+      "reason_category": "chatter",
+      "reason": "Jack comment on AI as a tool and local model deployment. Not biological signal; technology philosophy."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/modeling-through-time-johans-notes-on-life.22865/unread",
+      "reason_category": "chatter",
+      "reason": "Member conversation about WiFi exposure and sun tanning in Norway/Lofoten Islands. No new protocol or mechanism; lifestyle chat."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/making-ddw.32818/unread",
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/alberts-optimal-journal-with-wife-and-toddlers.30605/unread",
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/why-heart-cancer-almost-never-exists.32834/",
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
     }
   ],
   "dropped_items": [
@@ -110,103 +278,211 @@
       "source_type": "tweet",
       "source_id": "2059102359872016427",
       "reason_category": "chatter",
-      "reason": "Political gossip about Netanyahu's health; no biological signal, no Kruse mechanism, no treatment or protocol content."
+      "reason": "Quote tweet about Netanyahu's medical procedures. Not biological signal relevant to Kruse's work; pure political/health gossip."
     },
     {
       "source_type": "tweet",
       "source_id": "2059098493625475311",
       "reason_category": "thin",
-      "reason": "Terse dismissal ('The machine was a scam') of John Ellis deuterium machine without mechanism, evidence, or actionable detail. Does not meet acceptance test: no explanation of what signal is new, what to do, or why."
+      "reason": "One-line dismissal of John Ellis deuterium machine as scam. No mechanism, protocol, or evidence provided; only a terse negation."
     },
     {
       "source_type": "tweet",
       "source_id": "2059075381831799110",
       "reason_category": "unclear",
-      "reason": "Fragment 'How we do CT with light' appears to be incomplete tweet or thread stub. No mechanism, protocol, or actionable content. Does not meet acceptance test."
+      "reason": "Fragment: '2. How we do CT with light.' Appears to be part of a numbered list but lacks context, mechanism, or actionable content."
     },
     {
       "source_type": "tweet",
       "source_id": "2059070385799217173",
       "reason_category": "unclear",
-      "reason": "Empty tweet text; no content to evaluate."
+      "reason": "Empty tweet with no text content."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/tool-and-metallica-tracks-for-deuterium-depletion.32760/unread",
       "reason_category": "unsupported",
-      "reason": "Member claim that specific music tracks trigger piezoelectric charge and deuterium sorting lacks mechanism detail, citation, or evidence. Speculative without source support."
+      "reason": "Member claims deep bass music triggers piezoelectric charge in fascia and restructures EZ water for deuterium sorting. No mechanism, research, or protocol detail provided; speculative claim without source support."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/when-you-begin-with-a-silver-gold-or-platinum-membership.19027/unread",
       "reason_category": "baseline",
-      "reason": "Member reports doing sunrises, blue blockers, and skin coverage—all known Kruse baseline practices. No new signal."
+      "reason": "Member reports doing sunrises and blue-blocking glasses. Standard baseline practices; no new signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/vagal-nerve-stimulation-tips.32826/unread",
       "reason_category": "unanswered_question",
-      "reason": "Member asks Jack's opinion on castor oil packs for eyes; no answer or Kruse response provided in source."
+      "reason": "Member asks Jack's opinion on castor oil packs for eyelids/eye area. No answer or protocol provided in source."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/new-gold-member-question-for-dr-kruse.32554/unread",
       "reason_category": "chatter",
-      "reason": "Single-word response 'Makes sense' with no content or context."
+      "reason": "Single-word response 'Makes sense' with no biological content."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/how-long-does-it-take-for-vitamin-d-levels-to-go-up-naturally.28177/unread",
       "reason_category": "unanswered_question",
-      "reason": "Member asks about vitamin D rise rate and Van Allen belt; no concrete answer, protocol, or measurement provided."
+      "reason": "Member asks about vitamin D elevation rate and Van Allen belt radiation. No concrete answer or data provided."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/any-pensioners-looking-into-decreto-531-revision-to-special-law-on-immigration-and-foreigners.32836/",
       "reason_category": "chatter",
-      "reason": "Immigration visa policy discussion; no biological, medical, or Kruse-relevant signal."
+      "reason": "Discussion of El Salvador immigration visa policy. Not biological or medical signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/loris-optimal-journal-story-time.32776/",
-      "reason_category": "thin",
-      "reason": "Member paraphrases vague podcast memory about end-stage ALS/Parkinson's patients and unspecified 'hail-mary' treatment. No concrete protocol, mechanism, or actionable detail. Hearsay without source support."
+      "reason_category": "unsupported",
+      "reason": "Member paraphrases from memory a Jack podcast claim about end-stage ALS/Parkinson's treatment. No concrete protocol, mechanism, or source detail; hearsay."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/telluric-communications.32804/",
       "reason_category": "chatter",
-      "reason": "Member speculation about appearance and electro-magneto-hydraulic rearrangement; no mechanism, case detail, protocol, or actionable signal."
+      "reason": "Member speculation about socioeconomic appearance and electro-magneto-hydraulic rearrangement. No concrete mechanism or case detail."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/i-stay-away-from-nnemf.30545/unread",
       "reason_category": "baseline",
-      "reason": "Member offers practical nnEMF detection and shielding tips (finding towers, wire mesh fence). Known baseline practice without new mechanism or protocol."
+      "reason": "Member provides nnEMF detection and shielding tips (finding towers, WiFi sources, wire mesh). Standard baseline practice; no new signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/jack-kruse-podcast-curriculum-youtube-edition-v1.23331/unread",
       "reason_category": "chatter",
-      "reason": "Social praise for podcast curriculum compilation; no biological or medical signal."
+      "reason": "Social praise for podcast curriculum compilation. No biological content."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/single-mitos-looking-to-meet-others-in-this-group.32734/",
       "reason_category": "chatter",
-      "reason": "Community organizing discussion; no biological or medical signal."
+      "reason": "Member discussion of community meetup and online connection. No biological signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/kathleen%E2%80%99s-optimal-journal.31612/",
       "reason_category": "chatter",
-      "reason": "Brief encouragement about vitamin D production in Bend; no mechanism, protocol, or new signal."
+      "reason": "Brief encouragement about vitamin D production in Bend, Oregon. No mechanism or protocol detail."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/pleasantly-weird.31052/unread",
       "reason_category": "thin",
-      "reason": "Member suggests soft collar to unload axis and prevent vertebral basilar insufficiency in EDS. No mechanism detail, citation, or protocol. Unsupported claim."
+      "reason": "Member recommends soft collar for EDS to unload axis and prevent vertebral basilar insufficiency. No mechanism, research, or protocol detail provided."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/what-did-you-do-today-to-be-more-optimal.17876/unread",
+      "reason_category": "baseline",
+      "reason": "Member describes sauna detox and niacin protocol from last fall for pesticide exposure. Known baseline practice; no new signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/i-aint-dead-yet-mfer.32810/",
+      "reason_category": "chatter",
+      "reason": "Member personal narrative about pain management and medication withdrawal. No concrete protocol, mechanism, or new signal; mostly life story."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/tap-zap-block-blue-light-stop-pwm-flicker-on-mac-windows.32809/",
+      "reason_category": "chatter",
+      "reason": "Member technical support question about software installation. Not biological signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/recent-wide-scale-magnetic-changes-possibly-anthropogenic.32773/",
+      "reason_category": "unanswered_question",
+      "reason": "Member asks Jack about earth magnetic stabilization and CSF direction shift. No answer or concrete mechanism provided in source."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/lattice-locked-children.32663/",
+      "reason_category": "thin",
+      "reason": "Member anecdote about Down Syndrome children calming to Herman's Hermits music. No mechanism, research, or protocol; isolated observation."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/jacks-journal-journey-2019-and-beyond.23037/unread",
+      "reason_category": "chatter",
+      "reason": "Jack quote about divorce and family loyalty. Not biological signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/davids-journal-finally-aligned.12031/unread",
+      "reason_category": "chatter",
+      "reason": "Member complaint about lab costs in Canada. Not biological signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/mdrn-life-deuterium-depleted-water-scam-warning.31710/unread",
+      "reason_category": "chatter",
+      "reason": "Member note about pending deuterium test with LiteWater brand. No result or data provided."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/the-great-magnetic-short-what-to-expect-in-factor-y.32503/",
+      "reason_category": "chatter",
+      "reason": "Member personal health narrative (chaga tea, psilocybin, magnetico, DDW, outdoor workouts). No new protocol, mechanism, or research; lifestyle report."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/the-uk.30102/unread",
+      "reason_category": "chatter",
+      "reason": "Member poetic comment about birds and winter storms. Not biological signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/all-things-el-salvador.26387/",
+      "reason_category": "chatter",
+      "reason": "Jack comment about spending Bitcoin in El Salvador and age. Not biological signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/question-on-the-evolution-and-fitness-podcast.32833/",
+      "reason_category": "unanswered_question",
+      "reason": "Member asks whether carbonating DDW would improve it or alter EZ water formation. No answer provided in source."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/bruxism-tinnitus-are-the-same-disease.32383/unread",
+      "reason_category": "unanswered_question",
+      "reason": "Member asks Jack where to source mastic gum. No answer provided in source."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/why-you-must-be-discerning-with-ai.32828/",
+      "reason_category": "chatter",
+      "reason": "Jack comment on AI as a tool and local model deployment. Not biological signal; technology philosophy."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/modeling-through-time-johans-notes-on-life.22865/unread",
+      "reason_category": "chatter",
+      "reason": "Member conversation about WiFi exposure and sun tanning in Norway/Lofoten Islands. No new protocol or mechanism; lifestyle chat."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/making-ddw.32818/unread",
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/alberts-optimal-journal-with-wife-and-toddlers.30605/unread",
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/why-heart-cancer-almost-never-exists.32834/",
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
     }
   ]
 }

@@ -20,6 +20,7 @@ const CURATED_DIR = path.join(ROOT, 'curated');
 const SITE_DIR = path.join(ROOT, 'site');
 const SITE_REPORTS_DIR = path.join(SITE_DIR, 'reports');
 const SITE_LATEST_DIR = path.join(SITE_DIR, 'latest');
+const SITE_UNSUBSCRIBE_DIR = path.join(SITE_DIR, 'unsubscribe');
 const PUBLIC_BASE_URL = process.env.KRUSE_SITE_PUBLIC_BASE_URL || 'https://guyhouri.github.io/kruse-ai-scrape';
 const DEFAULT_SUPABASE_URL = 'https://zpxhovwsswnjdjibcvsh.supabase.co';
 const DEFAULT_SUPABASE_PUBLISHABLE_KEY = 'sb_publishable_afhmZKXzerLWNYENUqsaFg_XfVWjODD';
@@ -203,6 +204,19 @@ function supabaseFormScript() {
           page_url: window.location.href,
           source: 'public-site'
         };
+        if (kind === 'unsubscribe') {
+          return {
+            first_name: '',
+            last_name: '',
+            email: common.email,
+            comments: 'Unsubscribe request',
+            frequency: 'Unsubscribe',
+            report_date: null,
+            report_url: null,
+            page_url: common.page_url,
+            source: 'unsubscribe'
+          };
+        }
         if (kind === 'mailing-list') {
           common.frequency = value(form, 'frequency') || 'Daily';
           return common;
@@ -590,7 +604,7 @@ ${cards}
         <div class="fine-print">${formStorageNote('mailing-list', signupReady)}</div>
       </aside>
     </main>
-    <footer>Built from ${reports.length} report${reports.length === 1 ? '' : 's'}.</footer>
+    <footer>Built from ${reports.length} report${reports.length === 1 ? '' : 's'}. <a href="unsubscribe/">Unsubscribe</a>.</footer>
     ${googleFormIframe()}
   </div>
   ${supabaseFormScript()}
@@ -626,6 +640,53 @@ function renderThanks() {
     <p>Thanks. Your request was saved.</p>
     <p><a href="/">Back to reports</a></p>
   </main>
+  ${themeScript()}
+</body>
+</html>`;
+}
+
+function renderUnsubscribe() {
+  const themeButton = themeToggleButton();
+  const ready = isSupabaseReady();
+  return `<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Unsubscribe - Kruse Daily Reports</title>
+  <style>
+    :root { color-scheme: dark; --bg: #0b0f19; --panel: #121a2a; --border: #26334d; --text: #f4f7fb; --soft: #c6d2e1; --accent: #4ea1ff; --field: #0d1422; --button-text: #06101d; --danger: #ffbd7a; --success: #7bdcb5; }
+    body.light { color-scheme: light; --bg: #f7f9fc; --panel: #ffffff; --border: #d8e0ea; --text: #111827; --soft: #334155; --accent: #2563eb; --field: #ffffff; --button-text: #ffffff; --danger: #b45309; --success: #047857; }
+    body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: var(--bg); color: var(--text); font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
+    main { width: min(560px, calc(100% - 32px)); padding: 28px; border: 1px solid var(--border); border-radius: 8px; background: var(--panel); }
+    h1 { margin: 0 0 10px; font-size: 2rem; letter-spacing: 0; }
+    p { color: var(--soft); line-height: 1.55; }
+    label { display: block; margin: 16px 0 6px; color: var(--soft); font-size: 0.88rem; font-weight: 800; }
+    input { width: 100%; min-height: 44px; border: 1px solid var(--border); border-radius: 6px; background: var(--field); color: var(--text); padding: 0 12px; font: inherit; box-sizing: border-box; }
+    button { width: 100%; margin-top: 16px; min-height: 44px; border: 0; border-radius: 6px; background: var(--accent); color: var(--button-text); font-weight: 900; cursor: pointer; }
+    button:disabled { opacity: 0.55; cursor: not-allowed; }
+    a { color: var(--accent); font-weight: 800; }
+    .form-success { margin-top: 12px; color: var(--success); font-weight: 800; }
+    .form-error { margin-top: 12px; color: var(--danger); font-weight: 800; }
+    .theme-toggle { position: fixed; top: 16px; right: 16px; min-height: 40px; padding: 0 12px; border: 1px solid var(--border); border-radius: 6px; background: var(--panel); color: var(--text); font: inherit; font-weight: 800; cursor: pointer; }
+  </style>
+</head>
+<body>
+  ${themeButton}
+  <main>
+    <h1>Unsubscribe</h1>
+    <p>Enter your email and we will remove it from future Daily Kruse Summary sends.</p>
+    <form name="kruse-report-unsubscribe" method="POST" data-supabase-form="unsubscribe">
+      <p style="display:none"><label>Company <input name="company" /></label></p>
+      <label for="unsubscribe-email">Email</label>
+      <input id="unsubscribe-email" name="email" type="email" autocomplete="email" required${disabledAttr(ready)} />
+      <button type="submit"${disabledAttr(ready)}>Unsubscribe</button>
+      <div class="form-success" data-form-success hidden>Saved. You are unsubscribed.</div>
+      <div class="form-error" data-form-error hidden>Could not save. Please try again.</div>
+    </form>
+    <p style="margin-top:18px"><a href="../">Back to reports</a></p>
+  </main>
+  ${supabaseFormScript()}
   ${themeScript()}
 </body>
 </html>`;
@@ -873,6 +934,7 @@ function reportSiteChrome(report) {
     <a class="site-drawer-link" href="../latest/"><strong>Latest report</strong><span>Jump to the newest daily report.</span></a>
     <a class="site-drawer-link" href="#get-report"><strong>Get this report</strong><span>Email signup lives at the end of this report.</span></a>
     <a class="site-drawer-link" href="#report-feedback"><strong>Improve this report</strong><span>Leave feedback we can use later for prompt tuning.</span></a>
+    <a class="site-drawer-link" href="../unsubscribe/"><strong>Unsubscribe</strong><span>Remove your email from future sends.</span></a>
   </nav>`,
     footer: `<div class="site-report-footer">
     <section class="site-report-panel" id="get-report" aria-labelledby="get-report-title">
@@ -995,10 +1057,12 @@ function buildSite() {
   rmSync(SITE_DIR, { recursive: true, force: true });
   mkdirSync(SITE_REPORTS_DIR, { recursive: true });
   mkdirSync(SITE_LATEST_DIR, { recursive: true });
+  mkdirSync(SITE_UNSUBSCRIBE_DIR, { recursive: true });
   copyReports(reports);
   writeFileSync(path.join(SITE_DIR, 'index.html'), renderIndex(reports), 'utf8');
   writeFileSync(path.join(SITE_DIR, 'thanks.html'), renderThanks(), 'utf8');
   writeFileSync(path.join(SITE_LATEST_DIR, 'index.html'), renderLatestRedirect(reports[reports.length - 1]), 'utf8');
+  writeFileSync(path.join(SITE_UNSUBSCRIBE_DIR, 'index.html'), renderUnsubscribe(), 'utf8');
   writeFileSync(path.join(SITE_DIR, '.nojekyll'), '', 'utf8');
   if (reports.length) {
     const latest = reports[reports.length - 1];

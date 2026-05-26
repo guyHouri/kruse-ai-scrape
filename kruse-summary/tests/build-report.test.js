@@ -15,6 +15,11 @@ test('curated reports do not append raw forum fallback rows', () => {
 
   assert.match(html, /Twitter Updates/);
   assert.match(html, /Forum Updates/);
+  assert.match(html, /No selected signal/);
+  assert.match(html, /Kruse tweeted 4 times\./);
+  assert.match(html, /Forum scraper found 33 posts in the last 24 hours\./);
+  assert.match(html, /No high-signal updates passed the report gate for 2026-05-26\./);
+  assert.doesNotMatch(html, /No selected items for 2026-05-26/);
   assert.doesNotMatch(html, /Forum Updates \(\d+ new/);
   assert.doesNotMatch(html, /See full thread/);
 });
