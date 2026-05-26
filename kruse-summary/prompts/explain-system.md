@@ -35,6 +35,11 @@ Do not add absence-of-evidence language. Do not write phrases like "no
 citation", "without trial data", "not proven", "unsupported", or "speculative."
 Do not write that the source does not provide mechanism, dosing, trial, or
 citation detail.
+Do not write "not standard", "standard of care", "not the primary choice", or
+similar clinical ranking language inside concept explanations. If a card
+compares treatments, define each treatment and explain its role in the card
+using neutral wording such as "one of the alternatives Jack compared against
+5-FU."
 
 # Dynamic Explanation Targeting
 

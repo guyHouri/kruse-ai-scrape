@@ -516,6 +516,13 @@ function visibleCardText(card) {
   ].filter(Boolean).join(' ');
 }
 
+const FALLBACK_CONCEPTS = {
+  topical: {
+    level: 'noob',
+    text: 'Applied directly to the skin surface rather than swallowed or injected; in this card it clarifies the treatment route being compared.',
+  },
+};
+
 function visibleForumText(bullet) {
   return [bullet.title, bullet.summary].filter(Boolean).join(' ');
 }
@@ -564,6 +571,71 @@ function repairConceptAliases(summary) {
   }
 
   if (repairCount) info(`anthropic: repaired ${repairCount} concept alias(es)`);
+  return repaired;
+}
+
+function tagFirstVisibleTerm(value, term) {
+  if (typeof value !== 'string') return { value, changed: false };
+  if (value.includes(`{{concept:${term}}}`)) return { value, changed: false };
+  const escaped = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const re = new RegExp(`\\b${escaped}\\b`, 'i');
+  if (!re.test(value)) return { value, changed: false };
+  return {
+    value: value.replace(re, (match) => `{{concept:${match}}}`),
+    changed: true,
+  };
+}
+
+function tagCardTerm(card, term) {
+  const body = tagFirstVisibleTerm(card.body, term);
+  if (body.changed) return { ...card, body: body.value };
+
+  const points = Array.isArray(card.points) ? [...card.points] : card.points;
+  if (!Array.isArray(points)) return card;
+
+  for (let i = 0; i < points.length; i += 1) {
+    const point = tagFirstVisibleTerm(points[i], term);
+    if (point.changed) {
+      points[i] = point.value;
+      return { ...card, points };
+    }
+  }
+
+  return card;
+}
+
+function repairRequiredTranslationConcepts(summary, selection) {
+  const repaired = {
+    ...summary,
+    sections: (summary.sections || []).map((section) => ({
+      ...section,
+      cards: (section.cards || []).map((card) => ({
+        ...card,
+        concepts: { ...(card.concepts || {}) },
+      })),
+    })),
+  };
+  let repairCount = 0;
+
+  for (const section of repaired.sections || []) {
+    for (let i = 0; i < (section.cards || []).length; i += 1) {
+      let card = section.cards[i];
+      const selected = (selection?.selected_items || []).find((item) => selectedItemMatchesCard(item, card));
+      if (!selected) continue;
+
+      for (const term of selected.translation_terms || []) {
+        if (conceptMapCoversTerm(card.concepts, term)) continue;
+        const fallback = FALLBACK_CONCEPTS[conceptKey(term)];
+        if (!fallback) continue;
+        card.concepts[term] = { ...fallback };
+        card = tagCardTerm(card, term);
+        repairCount++;
+      }
+      section.cards[i] = card;
+    }
+  }
+
+  if (repairCount) info(`anthropic: repaired ${repairCount} required translation concept(s)`);
   return repaired;
 }
 
@@ -677,13 +749,24 @@ function sanitizeText(value) {
   return stripRedundantConceptTags(normalizeMojibake(value));
 }
 
+function sanitizeConceptText(value) {
+  if (typeof value !== 'string') return value;
+  return sanitizeText(value)
+    .replace(/\s*;\s*not standard for [^.]+\.?/gi, '.')
+    .replace(/\s*;\s*not the primary choice for [^.]+\.?/gi, '.')
+    .replace(/\s*;\s*not proven for [^.]+\.?/gi, '.')
+    .replace(/\s*;\s*unsupported for [^.]+\.?/gi, '.')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 function sanitizeConceptMap(concepts = {}) {
   return Object.fromEntries(Object.entries(concepts)
     .filter(([term]) => !REDUNDANT_CONCEPTS.has(conceptKey(term)))
     .map(([term, value]) => {
-      if (typeof value === 'string') return [term, sanitizeText(value)];
+      if (typeof value === 'string') return [term, sanitizeConceptText(value)];
       if (!value || typeof value !== 'object') return [term, value];
-      return [term, { ...value, text: sanitizeText(value.text) }];
+      return [term, { ...value, text: sanitizeConceptText(value.text) }];
     }));
 }
 
@@ -942,7 +1025,10 @@ export async function summarizeDay(date, { dryRun = false } = {}) {
   writeJsonArtifact(date, 'explained', explainResult.parsed);
 
   const repairedSummary = repairSummarySourceQuotes(explainResult.parsed, input, gatedSelection);
-  const summary = repairConceptAliases(sanitizeSummary(repairedSummary));
+  const summary = repairRequiredTranslationConcepts(
+    repairConceptAliases(sanitizeSummary(repairedSummary)),
+    gatedSelection
+  );
   validateSummary(summary);
   validateReportVoice(summary);
   validateNoQuestionFraming(summary);
