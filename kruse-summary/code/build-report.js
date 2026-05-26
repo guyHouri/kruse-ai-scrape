@@ -35,7 +35,7 @@ function loadForumDay(date) {
   return JSON.parse(readFileSync(file, 'utf8'));
 }
 
-function renderForumSection(forumDay, summaryForum) {
+function renderForumSection(forumDay, summaryForum, hasCuratedSummary = false) {
   // Curated path (preferred): AI/hand summary supplied themed bullets.
   if (summaryForum?.bullets?.length) {
     let conceptCursor = 1000; // separate id-namespace from twitter cards
@@ -58,6 +58,10 @@ function renderForumSection(forumDay, summaryForum) {
     return `      <div class="section-title">Forum Updates</div>
       <div class="card"><ul class="bullet-list">${items}</ul></div>`;
   }
+  // Fallback: raw scraped posts only when no curated summary exists. Curated
+  // reports must keep forum content under the same AI selection process as X.
+  if (hasCuratedSummary) return '';
+
   // Fallback: raw scraped posts (no curation).
   if (!forumDay?.posts?.length) return '';
   const items = forumDay.posts.slice(0, 8).map((p) => {
@@ -245,7 +249,7 @@ export function buildReportHtml(date, summary = null) {
     : renderFallbackSections(day);
   // Forum is included by default; set INCLUDE_FORUM=false to hide it.
   const includeForum = process.env.INCLUDE_FORUM !== 'false';
-  const forumHtml = includeForum ? renderForumSection(forumDay, summary?.forum) : '';
+  const forumHtml = includeForum ? renderForumSection(forumDay, summary?.forum, Boolean(summary)) : '';
   const sectionsHtml = [twitterHtml, forumHtml].filter(Boolean).join('\n');
   info(`built report for ${date}: ${summary ? `${summary.sections.length} section(s) curated` : `${day.tweets?.length || 0} raw tweets`}${forumDay ? ` + ${forumDay.posts?.length || 0} forum posts` : ''}`);
 
