@@ -4,6 +4,8 @@ on:
   schedule:
     # Pre-sunrise window for Jerusalem year-round (~02:00-04:30 UTC).
     - cron: '0,30 2-4 * * *'
+  repository_dispatch:
+    types: [daily-kruse-summary]
   workflow_dispatch:
     inputs:
       mode:
@@ -65,7 +67,7 @@ jobs:
           REPORT_TIME_ZONE: ${{ vars.REPORT_TIME_ZONE || 'Asia/Jerusalem' }}
         run: |
           set -euo pipefail
-          INPUT_DATE="${{ github.event.inputs.date }}"
+          INPUT_DATE="${{ github.event.inputs.date || github.event.client_payload.date }}"
           if [ -n "$INPUT_DATE" ]; then
             TARGET="$INPUT_DATE"
           else
@@ -82,7 +84,7 @@ jobs:
         run: |
           set -euo pipefail
           TARGET="${{ steps.target.outputs.date }}"
-          MODE="${{ github.event.inputs.mode }}"
+          MODE="${{ github.event.inputs.mode || github.event.client_payload.mode }}"
           if [ -z "$MODE" ]; then MODE="normal"; fi
           if [ "$MODE" != "force" ] && [ -f "data/${TARGET}.json" ] && \
              [ "$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/${TARGET}.json','utf8')).tweet_count||0)")" -gt 0 ]; then
@@ -102,7 +104,7 @@ jobs:
         run: |
           set -euo pipefail
           TARGET="${{ steps.target.outputs.date }}"
-          MODE="${{ github.event.inputs.mode }}"
+          MODE="${{ github.event.inputs.mode || github.event.client_payload.mode }}"
           if [ -z "$MODE" ]; then MODE="normal"; fi
           echo "::group::Fetch forum posts for $TARGET"
           npm install
@@ -144,7 +146,7 @@ jobs:
           echo "::group::Fetch mailing list from Supabase"
           npm run sync-mailing-list
           echo "::endgroup::"
-          MODE="${{ github.event.inputs.mode }}"
+          MODE="${{ github.event.inputs.mode || github.event.client_payload.mode }}"
           if [ -z "$MODE" ]; then MODE="normal"; fi
           DATE="${{ steps.target.outputs.date }}"
           DATE_FLAG=""

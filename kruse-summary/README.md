@@ -263,6 +263,16 @@ gh auth status
 gh workflow run "Daily Kruse Summary" --ref main -f mode=force -f date=2026-05-26
 ```
 
+If GitHub's workflow-dispatch endpoint returns a server error, use the
+repository-dispatch fallback:
+
+```powershell
+gh api repos/guyHouri/kruse-ai-scrape/dispatches `
+  -f event_type=daily-kruse-summary `
+  -F client_payload[mode]=force `
+  -F client_payload[date]=2026-05-26
+```
+
 If that still fails, use GitHub Actions in the browser: open the workflow, click
 `Run workflow`, set `mode=force`, and enter the date.
 
