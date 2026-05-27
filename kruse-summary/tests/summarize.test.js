@@ -4,8 +4,10 @@ import assert from 'node:assert/strict';
 import {
   gateSelection,
   repairPrivatePhraseConcepts,
+  repairReportVoice,
   repairRequiredTranslationConcepts,
   repairSelectionCoverage,
+  validateReportVoice,
 } from '../code/summarize.js';
 
 test('gateSelection keeps Jack-authored priority-3 geo forum signals', () => {
@@ -34,6 +36,39 @@ test('gateSelection keeps Jack-authored priority-3 geo forum signals', () => {
 
   assert.deepEqual(gated.selected_items.map((item) => item.source_id), ['forum-ancients']);
   assert.equal(gated.dropped_items.at(-1).source_id, 'tweet-low');
+});
+
+test('repairReportVoice removes absence/opinion language before validation', () => {
+  const summary = {
+    headline_subtitle: 'Daily source-bound update',
+    sections: [
+      {
+        title: 'Twitter Updates',
+        cards: [
+          {
+            lead: 'Magnetic signal affects oxygen handling',
+            body: 'Kruse links magnetic field destabilization to oxygen handling and dopamine synthesis. Trial data was not provided in the source.',
+            points: [
+              'The mechanism connects triplet oxygen state to dopamine synthesis.',
+              'The source does not provide dosing or trial data.',
+            ],
+            concepts: {
+              'triplet oxygen': {
+                level: 'noob',
+                text: 'The normal magnetic state of oxygen; likely refers to a broader oxygen signaling claim.',
+              },
+            },
+          },
+        ],
+      },
+    ],
+  };
+
+  const repaired = repairReportVoice(summary);
+
+  assert.doesNotThrow(() => validateReportVoice(repaired));
+  assert.equal(repaired.sections[0].cards[0].points.length, 1);
+  assert.match(repaired.sections[0].cards[0].concepts['triplet oxygen'].text, /refers to/);
 });
 
 test('repairSelectionCoverage turns omitted sources into audit-only drops', () => {

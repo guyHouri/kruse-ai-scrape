@@ -509,8 +509,85 @@ function repairSummarySourceQuotes(summary, input, selection) {
   return repaired;
 }
 
-function validateReportVoice(summary) {
-  const banned = /\b(my read|wrong|right|uncited|no citation|without citation|not proven|unsupported|speculative|fake|AI BS|Codex|Anthropic|without mechanism|no mechanism|without trial|no trial|does not provide mechanism|does not provide dosing|mechanism or dosing detail|not standard|standard of care|efficacy or safety advantage|stronger evidence base|trial data (?:was )?not provided|not provided in (?:the )?source|likely refers|possibly|may refer|important for cellular health)\b/i;
+const REPORT_VOICE_BANNED = /\b(my read|wrong|right|uncited|no citation|without citation|not proven|unsupported|speculative|fake|AI BS|Codex|Anthropic|without mechanism|no mechanism|without trial|no trial|does not provide mechanism|does not provide dosing|mechanism or dosing detail|not standard|standard of care|efficacy or safety advantage|stronger evidence base|trial data (?:was )?not provided|not provided in (?:the )?source|likely refers|possibly|may refer|important for cellular health)\b/i;
+
+function stripReportVoiceSentence(text) {
+  const value = String(text || '').trim();
+  if (!value || !REPORT_VOICE_BANNED.test(value)) return text;
+  const sentences = value.split(/(?<=[.!?])\s+/);
+  const kept = sentences.filter((sentence) => !REPORT_VOICE_BANNED.test(sentence));
+  if (kept.length && kept.length !== sentences.length) return kept.join(' ').trim();
+  if (/^(?:the )?source (?:does not|doesn't) provide\b/i.test(value)) return '';
+  if (/^(?:no|without) (?:mechanism|trial|citation)\b/i.test(value)) return '';
+  const fallback = value
+    .replace(/\bthe source does not provide (?:mechanism|dosing|trial data|mechanism or dosing detail)[^.!?;]*/gi, '')
+    .replace(/\bdoes not provide (?:mechanism|dosing|trial data|mechanism or dosing detail)[^.!?;]*/gi, '')
+    .replace(/\btrial data (?:was )?not provided\b/gi, '')
+    .replace(/\bnot provided in (?:the )?source\b/gi, '')
+    .replace(/\b(?:without|no) (?:mechanism|trial|citation)\b/gi, '')
+    .replace(/\b(?:uncited|not proven|unsupported|speculative|fake|not standard|standard of care)\b/gi, '')
+    .replace(/\b(?:likely|possibly|may) refer(?:s)?(?: to)?\b/gi, 'refers to')
+    .replace(/\bimportant for cellular health\b/gi, 'relevant to the mechanism')
+    .replace(/\s+/g, ' ')
+    .replace(/\s+([,.;:!?])/g, '$1')
+    .trim();
+  return fallback && !REPORT_VOICE_BANNED.test(fallback) ? fallback : '';
+}
+
+export function repairReportVoice(summary) {
+  let repairCount = 0;
+  const repaired = {
+    ...summary,
+    sections: (summary.sections || []).map((section) => ({
+      ...section,
+      cards: (section.cards || []).map((card) => {
+        const next = { ...card };
+        for (const field of ['lead', 'body']) {
+          const repairedText = stripReportVoiceSentence(next[field]);
+          if (repairedText !== next[field]) {
+            if (repairedText) {
+              next[field] = repairedText;
+            } else if (field === 'body') {
+              next[field] = (next.points || []).find((point) => !REPORT_VOICE_BANNED.test(String(point || '')))
+                || next.source_quote
+                || next[field];
+            }
+            repairCount++;
+          }
+        }
+        if (Array.isArray(next.points)) {
+          const points = [];
+          for (const point of next.points) {
+            const repairedPoint = stripReportVoiceSentence(point);
+            if (repairedPoint) points.push(repairedPoint);
+            if (repairedPoint !== point) repairCount++;
+          }
+          next.points = points.length ? points : next.points;
+        }
+        if (next.concepts && typeof next.concepts === 'object') {
+          next.concepts = Object.fromEntries(Object.entries(next.concepts).map(([term, value]) => {
+            if (typeof value === 'string') {
+              const repairedText = stripReportVoiceSentence(value);
+              if (repairedText !== value) repairCount++;
+              return [term, repairedText || value];
+            }
+            if (value && typeof value === 'object' && typeof value.text === 'string') {
+              const repairedText = stripReportVoiceSentence(value.text);
+              if (repairedText !== value.text) repairCount++;
+              return [term, { ...value, text: repairedText || value.text }];
+            }
+            return [term, value];
+          }));
+        }
+        return next;
+      }),
+    })),
+  };
+  if (repairCount) info(`anthropic: repaired ${repairCount} banned report voice sentence(s)`);
+  return repaired;
+}
+
+export function validateReportVoice(summary) {
   const fields = [];
   for (const section of summary.sections || []) {
     for (const card of section.cards || []) {
@@ -524,7 +601,7 @@ function validateReportVoice(summary) {
     }
   }
   const errors = fields
-    .filter(([, text]) => banned.test(String(text || '')))
+    .filter(([, text]) => REPORT_VOICE_BANNED.test(String(text || '')))
     .map(([label]) => label);
   if (errors.length) throw new Error(`report voice failed banned absence/opinion language:\n- ${errors.join('\n- ')}`);
 }
@@ -1440,10 +1517,10 @@ export async function summarizeDay(date, { dryRun = false } = {}) {
   writeJsonArtifact(date, 'explained', explainResult.parsed);
 
   const repairedSummary = repairSummarySourceQuotes(explainResult.parsed, input, gatedSelection);
-  const summary = repairPrivatePhraseConcepts(repairRequiredTranslationConcepts(
+  const summary = repairReportVoice(repairPrivatePhraseConcepts(repairRequiredTranslationConcepts(
     repairConceptAliases(sanitizeSummary(repairedSummary)),
     gatedSelection
-  ));
+  )));
   validateSummary(summary);
   validateReportVoice(summary);
   validateNoQuestionFraming(summary);
