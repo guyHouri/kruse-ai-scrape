@@ -21,8 +21,8 @@ summary JSON, renders HTML, and can email the report.
 8. Code verifies selection coverage, source IDs, forum URLs, source quotes,
    citations, podcast leakage, and required scientific explanations.
 9. `code/build-report.js` renders `out/<date>.html`.
-10. In send mode, `code/sunrise.js`, `code/email.js`, and `code/state.js`
-   handle sunrise window, Gmail, and idempotency.
+10. In send mode, `code/email.js` and `code/state.js` handle Gmail and
+   idempotency. The GitHub workflow controls the 04:00 Israel send time.
 
 ## Important Docs
 
@@ -41,7 +41,6 @@ kruse-summary/
     compact.js
     summarize.js
     build-report.js
-    sunrise.js
     email.js
     state.js
     logger.js
@@ -113,13 +112,13 @@ npm run build-site
 # Legacy fallback: build and publish through the old gh-pages path.
 npm run deploy-site
 
-# Normal scheduled behavior: build, check sunrise window, send only if allowed.
+# Normal behavior: build and send if this report date was not already sent.
 npm start
 
 # Build/send now while still respecting last-sent.
-node main.js --skip-window --use-ai --date=2026-05-27
+node main.js --use-ai --date=2026-05-27
 
-# Bypass sunrise and last-sent gates, then send.
+# Bypass last-sent gate, then send.
 npm run force-send
 ```
 
@@ -264,11 +263,12 @@ but `main:/docs` plus `.github/workflows/ci-cd.yml` is the active Pages path.
 ### Running The Full Daily Pipeline
 
 The scheduled data workflow is `.github/workflows/daily-kruse-summary.yml`. It
-runs on the current `REPORT_TIME_ZONE` day, default `Asia/Jerusalem`; scrapes
-X; scrapes the forum; syncs Supabase signups; builds the AI report; sends email;
-mirrors the generated site into `docs`; commits the generated daily state back
-to `main`; and triggers the CI/CD deploy. It is scheduled at `06:17` UTC every
-day. `last-sent.json` prevents duplicate email on manual retries or re-runs.
+targets `04:00` in the current `REPORT_TIME_ZONE`, default `Asia/Jerusalem`;
+scrapes X as a rolling 24-hour window; scrapes the forum; syncs Supabase
+signups; builds the AI report; sends email; mirrors the generated site into
+`docs`; commits the generated
+daily state back to `main`; and triggers the CI/CD deploy. `last-sent.json`
+prevents duplicate email on manual retries or re-runs.
 
 The main-branch CI/CD workflow is `.github/workflows/ci-cd.yml`. It runs on
 pushes to `main`, manual dispatch, and the daily workflow's

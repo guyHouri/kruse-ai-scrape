@@ -1,5 +1,5 @@
 // Track which date the report was last sent for, to prevent duplicate sends
-// across multiple hourly cron invocations.
+// across manual retries, dispatch retries, or delayed scheduled runs.
 
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import * as path from 'node:path';

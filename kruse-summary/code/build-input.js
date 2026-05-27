@@ -2,7 +2,7 @@
 //
 // Usage:
 //   node code/build-input.js [YYYY-MM-DD]
-//   (defaults to today UTC)
+//   (defaults to today's REPORT_TIME_ZONE date)
 
 import { existsSync, readFileSync, writeFileSync, mkdirSync, readdirSync } from 'node:fs';
 import * as path from 'node:path';
@@ -12,7 +12,16 @@ import { compactTweet } from './compact.js';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
-function todayUtc() { return new Date().toISOString().slice(0, 10); }
+function todayInReportTimeZone() {
+  const parts = new Intl.DateTimeFormat('en-CA', {
+    timeZone: SETTINGS.reportTimeZone,
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  }).formatToParts(new Date());
+  const value = Object.fromEntries(parts.map((part) => [part.type, part.value]));
+  return `${value.year}-${value.month}-${value.day}`;
+}
 
 function windowForDate(date) {
   const [y, m, d] = date.split('-').map(Number);
@@ -36,8 +45,8 @@ function inWindow(iso, start, end) {
 }
 
 function loadTwitterWindow(date) {
-  const { start, end } = windowForDate(date);
   const dir = path.resolve(ROOT, SETTINGS.scrapedDataDir);
+  const { start, end, source } = twitterWindowForDate(dir, date);
   const seen = new Set();
   const tweets = [];
   let handle = 'DrJackKruse';
@@ -53,15 +62,44 @@ function loadTwitterWindow(date) {
   }
 
   tweets.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+  const windowHours = Math.round((end.getTime() - start.getTime()) / (60 * 60 * 1000));
   return {
     date,
     handle,
-    window_hours: SETTINGS.summaryWindowHours,
+    window_hours: windowHours,
     window_start_utc: start.toISOString(),
     window_end_utc: end.toISOString(),
+    window_source: source,
     tweet_count: tweets.length,
     tweets: tweets.map(compactTweet),
   };
+}
+
+function twitterWindowForDate(dir, date) {
+  const fallback = windowForDate(date);
+  const dayFile = path.join(dir, `${date}.json`);
+  if (!existsSync(dayFile)) return { ...fallback, source: 'utc-date' };
+
+  const day = JSON.parse(readFileSync(dayFile, 'utf8'));
+  if (day.window_start_utc && day.window_end_utc) {
+    const start = new Date(day.window_start_utc);
+    const end = new Date(day.window_end_utc);
+    if (Number.isFinite(start.getTime()) && Number.isFinite(end.getTime())) {
+      return { start, end, source: day.range_mode || 'scraper-window' };
+    }
+  }
+
+  const windowHours = day.window_hours || SETTINGS.summaryWindowHours;
+  const fetchedAt = day.fetched_at ? new Date(day.fetched_at) : null;
+  if (fetchedAt && Number.isFinite(fetchedAt.getTime())) {
+    return {
+      start: new Date(fetchedAt.getTime() - windowHours * 60 * 60 * 1000),
+      end: fetchedAt,
+      source: 'scraper-fetched-at',
+    };
+  }
+
+  return { ...fallback, source: 'utc-date' };
 }
 
 function compactForumPosts(posts, start = null, end = null) {
@@ -135,7 +173,7 @@ export function buildInputFile(date) {
 }
 
 function main() {
-  const date = process.argv[2] || todayUtc();
+  const date = process.argv[2] || todayInReportTimeZone();
   const { input, outPath } = buildInputFile(date);
   console.log(`wrote ${path.relative(ROOT, outPath)} - ${input.twitter.tweet_count} tweets + ${input.forum.post_count} forum posts`);
   console.log(`window: ${input.twitter.window_start_utc} -> ${input.twitter.window_end_utc} (${input.window_hours}h)`);

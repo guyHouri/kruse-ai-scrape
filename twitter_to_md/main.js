@@ -1,8 +1,9 @@
 // CLI entry point. Examples:
-//   node main.js                   # scrape today (UTC), full cap
+//   node main.js                   # scrape today as a UTC calendar day, full cap
 //   node main.js --today           # same
 //   node main.js --test            # 2-tweet smoke test, no parent fetches (~$0.01)
 //   node main.js --date=2026-05-20
+//   node main.js --date=2026-05-20 --window=24   # rolling 24h window ending now
 //   node main.js --since=2026-05-15 --until=2026-05-21
 //
 // For daily cron: call with no args from a scheduler.
@@ -25,6 +26,7 @@ function parseArgs() {
     date: get('date'),
     since: get('since'),
     until: get('until'),
+    windowHours: get('window') ? Number(get('window')) : null,
   };
 }
 
@@ -55,6 +57,7 @@ async function main() {
     opts.maxItems = 2;
     opts.depthOverride = 0;
   }
+  if (args.windowHours) opts.windowHours = args.windowHours;
 
   info(`scraping ${dates.length} day(s): ${dates.join(', ')}`);
   for (const d of dates) await scrapeDay(d, opts);

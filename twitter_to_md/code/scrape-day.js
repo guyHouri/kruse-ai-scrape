@@ -1,4 +1,4 @@
-// Orchestrator: scrape one UTC day of @handle tweets, resolve parents, save.
+// Orchestrator: scrape @handle tweets, resolve parents, save.
 
 import { fetchUserTweetsForRange } from './x-api.js';
 import { normalizeResponse } from './normalize.js';
@@ -7,13 +7,16 @@ import { saveDay, loadIndex, saveIndex, getCachedTweet } from './storage.js';
 import { SETTINGS } from '../settings.js';
 import { info, warn } from './logger.js';
 
-// `date` = "YYYY-MM-DD" (UTC).
+// `date` = "YYYY-MM-DD" label for the saved JSON.
 // `opts.maxItems` overrides settings cap (used by --test mode).
 // `opts.depthOverride` overrides thread-resolve depth (--test → 0).
 export async function scrapeDay(date, opts = {}) {
-  const start = `${date}T00:00:00Z`;
-  const requestedEnd = `${nextUtcDate(date)}T00:00:00Z`;
-  const end = capFutureEndTime(requestedEnd);
+  const windowHours = Number.isFinite(opts.windowHours) && opts.windowHours > 0
+    ? opts.windowHours
+    : null;
+  const { start, end, rangeMode } = windowHours
+    ? rollingWindow(windowHours)
+    : utcDayWindow(date);
   const maxItems = opts.maxItems ?? SETTINGS.maxItemsPerDay;
 
   // Cost projection — bail if it could blow the configured ceiling.
@@ -51,6 +54,10 @@ export async function scrapeDay(date, opts = {}) {
     date,
     handle: SETTINGS.handle,
     fetched_at: new Date().toISOString(),
+    range_mode: rangeMode,
+    window_hours: windowHours || 24,
+    window_start_utc: start,
+    window_end_utc: end,
     source: { backend: 'x-api-v2', endpoint: '/2/users/:id/tweets' },
     tweet_count: deduped.length,
     tweets: deduped,
@@ -72,6 +79,23 @@ export function capFutureEndTime(iso) {
   if (requested <= latestSafeEnd) return requested.toISOString();
   warn(`requested end_time ${requested.toISOString()} is in the future; capping to ${latestSafeEnd.toISOString()}`);
   return latestSafeEnd.toISOString();
+}
+
+function utcDayWindow(date) {
+  const start = `${date}T00:00:00Z`;
+  const requestedEnd = `${nextUtcDate(date)}T00:00:00Z`;
+  const end = capFutureEndTime(requestedEnd);
+  return { start, end, rangeMode: 'utc-day' };
+}
+
+function rollingWindow(windowHours) {
+  const endDate = new Date(Date.now() - 20_000);
+  const startDate = new Date(endDate.getTime() - windowHours * 60 * 60 * 1000);
+  return {
+    start: startDate.toISOString(),
+    end: endDate.toISOString(),
+    rangeMode: 'rolling',
+  };
 }
 
 function nextUtcDate(d) {

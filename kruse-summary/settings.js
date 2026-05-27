@@ -26,20 +26,6 @@ export const SETTINGS = {
   // From-line for outgoing mail.
   fromName: process.env.FROM_NAME || 'Kruse Daily',
 
-  // Geo for sunrise lookup. Defaults to Jerusalem; override via env.
-  locationLat: parseFloat(process.env.LOCATION_LAT || '31.7683'),
-  locationLon: parseFloat(process.env.LOCATION_LON || '35.2137'),
-
-  // Minutes before sunrise we want the mail to land.
-  preSunriseMinutes: parseInt(process.env.PRE_SUNRISE_MINUTES || '60', 10),
-
-  // Hourly cron will fire several times in a window. We only act when "now"
-  // is inside [target - tolerance, target + tolerance]. 30 min window.
-  toleranceMinutes: parseInt(process.env.TOLERANCE_MINUTES || '30', 10),
-
-  // Sunrise API (no auth, no key). Returns ISO UTC.
-  sunriseApiUrl: 'https://api.sunrise-sunset.org/json',
-
   // Local files.
   mailingListPath: 'mailing_list.json',
   lastSentPath: 'last-sent.json',

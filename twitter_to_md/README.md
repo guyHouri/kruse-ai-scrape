@@ -52,11 +52,14 @@ cp .env.example .env
 # smoke test first — caps at 2 tweets, no parent fetches, ≤ $0.01
 node main.js --test
 
-# today (UTC), full cap (200 tweets max, 6 levels of parent fetches)
+# today as a UTC calendar day, full cap (200 tweets max, 6 levels of parent fetches)
 npm start
 
 # specific day
 node main.js --date=2026-05-20
+
+# rolling daily report window ending near now
+node main.js --date=2026-05-20 --window=24
 
 # backfill a range (inclusive start, exclusive end)
 node main.js --since=2026-05-15 --until=2026-05-21
@@ -69,7 +72,7 @@ before any API call if projected cost would exceed this. Raise to backfill.
 
 ```
 data/
-  2026-05-21.json     # one file per UTC day
+  2026-05-21.json     # one file per date label
   2026-05-22.json
   index.json          # tweet_id → date map (dedup + parent lookup)
 logs/                 # console echoes
@@ -82,6 +85,10 @@ logs/                 # console echoes
   "date": "2026-05-21",
   "handle": "DrJackKruse",
   "fetched_at": "2026-05-21T18:04:11.000Z",
+  "range_mode": "rolling",
+  "window_hours": 24,
+  "window_start_utc": "2026-05-20T18:03:51.000Z",
+  "window_end_utc": "2026-05-21T18:03:51.000Z",
   "source": { "backend": "x-api-v2", "endpoint": "/2/users/:id/tweets" },
   "tweet_count": 14,
   "tweets": [
@@ -135,7 +142,7 @@ jobs:
         with: { node-version: '20' }
       - run: npm ci
         working-directory: twitter_to_md
-      - run: npm start
+      - run: node main.js --date=$(date +%F) --window=24
         working-directory: twitter_to_md
         env:
           XAPI_BEARER_TOKEN: ${{ secrets.XAPI_BEARER_TOKEN }}

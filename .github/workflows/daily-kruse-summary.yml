@@ -2,8 +2,9 @@ name: Daily Kruse Summary
 
 on:
   schedule:
-    # Daily report send/build. last-sent prevents duplicate email on manual retries.
-    - cron: '17 6 * * *'
+    # Daily report send/build targeting 04:00 Asia/Jerusalem.
+    # GitHub cron is UTC-only; the wait step below handles Israel winter/DST.
+    - cron: '0 1 * * *'
   repository_dispatch:
     types: [daily-kruse-summary]
   workflow_dispatch:
@@ -44,6 +45,29 @@ jobs:
 
       - uses: actions/setup-node@v4
         with: { node-version: '20' }
+
+      - name: Wait until 04:00 Israel time
+        if: github.event_name == 'schedule'
+        env:
+          REPORT_TIME_ZONE: ${{ vars.REPORT_TIME_ZONE || 'Asia/Jerusalem' }}
+          REPORT_SEND_LOCAL_TIME: '04:00'
+        run: |
+          set -euo pipefail
+          now_epoch="$(date +%s)"
+          local_day="$(TZ="$REPORT_TIME_ZONE" date +%F)"
+          target_epoch="$(TZ="$REPORT_TIME_ZONE" date -d "${local_day} ${REPORT_SEND_LOCAL_TIME}:00" +%s)"
+          now_local="$(TZ="$REPORT_TIME_ZONE" date '+%Y-%m-%d %H:%M:%S %Z')"
+          if [ "$now_epoch" -lt "$target_epoch" ]; then
+            sleep_seconds=$((target_epoch - now_epoch))
+            if [ "$sleep_seconds" -gt 7200 ]; then
+              echo "::error::Refusing to wait ${sleep_seconds}s for ${REPORT_SEND_LOCAL_TIME} ${REPORT_TIME_ZONE}; schedule drift is too large."
+              exit 1
+            fi
+            echo "Current local time: ${now_local}. Waiting ${sleep_seconds}s for ${REPORT_SEND_LOCAL_TIME} ${REPORT_TIME_ZONE}."
+            sleep "$sleep_seconds"
+          else
+            echo "Current local time: ${now_local}. At or past ${REPORT_SEND_LOCAL_TIME} ${REPORT_TIME_ZONE}; continuing."
+          fi
 
       - name: Test X scraper
         working-directory: twitter_to_md
@@ -93,13 +117,13 @@ jobs:
           MODE="${{ github.event.inputs.mode || github.event.client_payload.mode }}"
           if [ -z "$MODE" ]; then MODE="normal"; fi
           if [ "$MODE" != "force" ] && [ -f "data/${TARGET}.json" ] && \
-             [ "$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/${TARGET}.json','utf8')).tweet_count||0)")" -gt 0 ]; then
-            echo "Already have tweets for $TARGET - skipping X API call."
+             [ "$(node -e "const p=JSON.parse(require('fs').readFileSync('data/${TARGET}.json','utf8')); const t=Date.parse(p.window_end_utc||p.fetched_at||0); console.log((p.tweet_count||0)>0 && Number.isFinite(t) && Date.now()-t < 4*60*60*1000 ? 'fresh' : 'stale')")" = "fresh" ]; then
+            echo "Already have fresh rolling tweets for $TARGET - skipping X API call."
             exit 0
           fi
           echo "::group::Fetch X tweets for $TARGET"
           npm install
-          node main.js --date=$TARGET
+          node main.js --date=$TARGET --window=24
           echo "::endgroup::"
 
       - name: Scrape forum
@@ -138,8 +162,6 @@ jobs:
           KRUSE_EMAIL_TEST_RECIPIENTS: guy.houri2024@gmail.com
           KRUSE_SITE_PUBLIC_BASE_URL: https://guyhouri.github.io/kruse-ai-scrape
           REPORT_TIME_ZONE: ${{ vars.REPORT_TIME_ZONE || 'Asia/Jerusalem' }}
-          LOCATION_LAT: ${{ vars.LOCATION_LAT }}
-          LOCATION_LON: ${{ vars.LOCATION_LON }}
           INCLUDE_FORUM: 'true'
         run: |
           set -euo pipefail
@@ -165,7 +187,7 @@ jobs:
           case "$MODE" in
             build-only) node main.js --build-only --use-ai $DATE_FLAG ;;
             force)      node main.js --force --use-ai $DATE_FLAG ;;
-            *)          node main.js --skip-window --use-ai $DATE_FLAG ;;
+            *)          node main.js --use-ai $DATE_FLAG ;;
           esac
           echo "::endgroup::"
 

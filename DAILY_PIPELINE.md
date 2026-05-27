@@ -9,8 +9,9 @@ report from the last 24 hours of X and forum activity.
 
 The active automation is `.github/workflows/daily-kruse-summary.yml`.
 
-- Runs once per day at `06:17 UTC`.
-- Uses `REPORT_TIME_ZONE`, default `Asia/Jerusalem`, to choose the report date.
+- Runs once per day with a user-facing target of `04:00 Asia/Jerusalem`.
+- Uses `REPORT_TIME_ZONE`, default `Asia/Jerusalem`, to choose the report date
+  and the local send time.
 - Accepts manual `workflow_dispatch`.
 - Accepts external `repository_dispatch` with event type `daily-kruse-summary`.
 - Sends email only to `KRUSE_EMAIL_TEST_RECIPIENTS` while the test gate is on.
@@ -37,9 +38,12 @@ The report date is not hardcoded. The workflow picks it like this:
 3. Pass that date to the X scraper, forum scraper, input builder, AI summary,
    HTML renderer, email sender, and public-site builder.
 
-For Jerusalem, `06:17 UTC` is `09:17 Asia/Jerusalem` during daylight saving
-time. That is still the same local calendar day, so it should produce the
-current day's report unless a manual run overrides the date.
+The desired product behavior is simple: the email should already be in the
+mailbox at `04:00` Israel time. GitHub's cron syntax is UTC-only, so the YAML
+fires once at the earliest safe translated time and the workflow has a
+`Wait until 04:00 Israel time` step. In Israel summer time that wait is usually
+zero. In Israel winter time it waits about one hour. There is no sunrise API in
+the send path.
 
 If the workflow does not appear at the scheduled minute, that is not a date
 calculation bug by itself. GitHub scheduled workflows can start late or fail to
@@ -51,23 +55,25 @@ The daily workflow is intentionally linear. If a required step fails, later
 steps do not run.
 
 1. Checkout `main`.
-2. Install and test `twitter_to_md`.
-3. Install and test `kruse-summary`.
-4. Pick the target report date.
-5. Scrape X into `twitter_to_md/data/<date>.json`.
-6. Scrape forum activity into `forum_to_md/daily/<date>.json`.
-7. Sync Supabase mailing-list rows into `kruse-summary/mailing_list.json`.
-8. Build combined daily input at `kruse-summary/curated/<date>-input.json`.
-9. Run Anthropic prompt chain and validation.
-10. Render `kruse-summary/out/<date>.html`.
-11. Send the email if the run mode allows sending and the date was not already
+2. On scheduled runs, wait until `04:00` in `REPORT_TIME_ZONE`.
+3. Install and test `twitter_to_md`.
+4. Install and test `kruse-summary`.
+5. Pick the target report date.
+6. Scrape X as a rolling 24-hour window into
+   `twitter_to_md/data/<date>.json`.
+7. Scrape forum activity into `forum_to_md/daily/<date>.json`.
+8. Sync Supabase mailing-list rows into `kruse-summary/mailing_list.json`.
+9. Build combined daily input at `kruse-summary/curated/<date>-input.json`.
+10. Run Anthropic prompt chain and validation.
+11. Render `kruse-summary/out/<date>.html`.
+12. Send the email if the run mode allows sending and the date was not already
     sent.
-12. Write `kruse-summary/last-sent.json` only after email succeeds.
-13. Build the static public site into `kruse-summary/site`.
-14. Mirror the static site into `docs`.
-15. Commit generated artifacts and push to `main`.
-16. Dispatch the CI/CD workflow.
-17. CI/CD runs tests again and deploys `docs` to GitHub Pages only after tests
+13. Write `kruse-summary/last-sent.json` only after email succeeds.
+14. Build the static public site into `kruse-summary/site`.
+15. Mirror the static site into `docs`.
+16. Commit generated artifacts and push to `main`.
+17. Dispatch the CI/CD workflow.
+18. CI/CD runs tests again and deploys `docs` to GitHub Pages only after tests
     pass.
 
 ## AI Summary Chain
@@ -180,11 +186,11 @@ form.
 Recommended watchdog timing:
 
 ```text
-07:15 UTC daily
+04:45 Asia/Jerusalem daily
 ```
 
-That gives the normal GitHub `06:17 UTC` run time to start and finish. The
-watchdog should dispatch only when today's report has not been sent/deployed.
+That gives the normal 04:00 Israel run time to start and finish. The watchdog
+should dispatch only when today's report has not been sent/deployed.
 The safest long-term check is a Supabase table:
 
 ```sql

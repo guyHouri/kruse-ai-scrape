@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Daily Kruse Summary — reads scraped tweets, renders HTML, mails to a list 1h before sunrise.",
+  "description": "Daily Kruse Summary - reads scraped tweets, renders HTML, mails at 04:00 Israel time.",
   "homepage": "https://github.com/guyhouri/kruse-ai-scrape",
   "repository": {
     "type": "git",

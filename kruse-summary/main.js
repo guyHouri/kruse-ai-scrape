@@ -1,15 +1,14 @@
 // Orchestrator. Default flow:
 //   1. Decide which date the report covers (current REPORT_TIME_ZONE day by default).
 //   2. Check if today's send already happened — exit if so.
-//   3. Hit sunrise API; check we're inside the [target - tolerance, target + tolerance] window.
-//   4. Build HTML.
-//   5. Send via Gmail.
-//   6. Mark state.
+//   3. Build HTML.
+//   4. Send via Gmail.
+//   5. Mark state.
 //
 // Flags:
 //   --build-only       build HTML, write to out/<date>.html, do NOT send
-//   --force            skip sunrise window check AND last-sent check
-//   --skip-window      skip sunrise window check, but still respect last-sent
+//   --force            skip last-sent check
+//   --skip-window      legacy no-op, kept so old commands do not break
 //   --date=YYYY-MM-DD  override which date to report on
 
 import { mkdirSync, existsSync, writeFileSync } from 'node:fs';
@@ -19,7 +18,6 @@ import { fileURLToPath } from 'node:url';
 
 import { initLogger, info, warn, error } from './code/logger.js';
 import { buildReportHtml } from './code/build-report.js';
-import { checkSendWindow } from './code/sunrise.js';
 import { sendReportEmail } from './code/email.js';
 import { alreadySent, markSent } from './code/state.js';
 import { summarizeDay } from './code/summarize.js';
@@ -106,23 +104,10 @@ async function main() {
 
   if (args.buildOnly) { info('build-only mode, skipping send.'); return; }
 
-  if (!args.force && !args.skipWindow) {
-    let windowResult;
-    try {
-      windowResult = await checkSendWindow();
-    } catch (e) {
-      warn(`could not check sunrise send window (${e.message}); skipping send until next run.`);
-      return;
-    }
-    const { inWindow, target } = windowResult;
-    if (!inWindow) {
-      info(`not in send window (target=${target.toISOString()}). Exiting.`);
-      return;
-    }
-  } else {
-    warn(args.force
-      ? '--force: bypassing sunrise window check and last-sent guard.'
-      : '--skip-window: bypassing sunrise window check but keeping last-sent guard.');
+  if (args.force) {
+    warn('--force: bypassing last-sent guard.');
+  } else if (args.skipWindow) {
+    warn('--skip-window: legacy no-op; scheduled workflow controls 04:00 Israel timing.');
   }
 
   await sendReportEmail({
