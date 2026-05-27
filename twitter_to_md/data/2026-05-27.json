@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-27",
+  "handle": "DrJackKruse",
+  "fetched_at": "2026-05-27T05:50:56.404Z",
+  "source": {
+    "backend": "x-api-v2",
+    "endpoint": "/2/users/:id/tweets"
+  },
+  "tweet_count": 5,
+  "tweets": [
+    {
+      "id": "2059479615735836779",
+      "url": "https://x.com/DrJackKruse/status/2059479615735836779",
+      "created_at": "2026-05-27T03:39:38.000Z",
+      "text": "He likely took the jab given those takes and his praying he'll be able to spend his Bitcoin with time he no longer has. https://t.co/AR1lx3sO27",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059479615735836779",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059239936289649153",
+        "url": "https://x.com/Kevin_McKernan/status/2059239936289649153",
+        "created_at": "2026-05-26T11:47:14.000Z",
+        "text": "Enjoy some more arrogant takes from Bitcoin bros with no science training.\n\nThere is a reason they stay anonymous. https://t.co/CRvIkrbXK5",
+        "lang": "en",
+        "author": {
+          "id": "33177553",
+          "username": "Kevin_McKernan",
+          "name": "Kevin McKernan"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2059239936289649153",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 46,
+          "retweets": 3,
+          "replies": 6,
+          "quotes": 1,
+          "views": 5570
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 10,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": 2077
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059473826937700662",
+      "url": "https://x.com/DrJackKruse/status/2059473826937700662",
+      "created_at": "2026-05-27T03:16:38.000Z",
+      "text": "How would I know? https://t.co/54gqECE8AZ",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059473826937700662",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059412140172206107",
+        "url": "https://x.com/Ozarka69/status/2059412140172206107",
+        "created_at": "2026-05-26T23:11:30.000Z",
+        "text": "@DrJackKruse Dr Jack.  What happened to Robert Breedlove?",
+        "lang": "en",
+        "author": {
+          "id": "260988930",
+          "username": "Ozarka69",
+          "name": "✝️🇸🇻🇨🇷 BITCOIN🔥 Raiderrrrrrrr"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059406014135341261",
+        "in_reply_to": {
+          "tweet_id": "2059406014135341261",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2059406014135341261"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 3,
+          "retweets": 0,
+          "replies": 2,
+          "quotes": 2,
+          "views": 2892
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 11,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": 2466
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059462763219497250",
+      "url": "https://x.com/DrJackKruse/status/2059462763219497250",
+      "created_at": "2026-05-27T02:32:40.000Z",
+      "text": "RT @AmmousMD: Sunlight.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2059462763219497250",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2059087396214337867",
+        "url": "https://x.com/AmmousMD/status/2059087396214337867",
+        "created_at": "2026-05-26T01:41:05.000Z",
+        "text": "Sunlight. https://t.co/ytEZjs7Wgz",
+        "lang": "en",
+        "author": {
+          "id": "2875568086",
+          "username": "AmmousMD",
+          "name": "Dr. Ammous"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2059087396214337867",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 280,
+          "retweets": 22,
+          "replies": 8,
+          "quotes": 0,
+          "views": 10779
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 22,
+        "replies": 0,
+        "quotes": 0,
+        "views": 0
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059434173782253973",
+      "url": "https://x.com/DrJackKruse/status/2059434173782253973",
+      "created_at": "2026-05-27T00:39:04.000Z",
+      "text": "2. This biochemistry myopia must be replaced by the truth.\n\nThe medical text shared in this tweet below linking hypothyroidism directly to the genesis of a hiatal hernia and gastroesophageal reflux disease (GERD)—represents the closest the macroscopic, biochemical world has ever come to unzipping the upper gastrointestinal engine.\n\nYet, because these clinical studies and figures like Ray Peat operate within a flat, chemical-only proxy spreadsheet, they inverted the primary cause and effect.\n\nThey miss the definitive sub-molecular deuterium angle. Hypothyroidism, hiatal hernias, and GERD are not separate isolated clinical conditions or simple hormonal imbalances. They are the concurrent macro-anatomical failures of a heavily deuterated water table and a stalled vagal exhaust pipe.\n\nWhen you replace the superficial \"hormone tracking\" narrative with the laws of quantum spin chemistry, the Kinetic Isotope Effect (KIE), and Landauer’s Principle, the true biophysical reality of the upper GI tract is laid bare.\n\nCentralized gastroenterology claims that a hiatal hernia or an underactive thyroid causes GERD by weakening the Lower Esophageal Sphincter (LES) or slowing down stomach emptying. In quantum biology, the entire upper gastrointestinal tract is an open, gravity-fed, isotopic purification system.\n\nThe Vagal Exhaust Manifold: Under healthy diurnal solar governance, governed by the morning Cortisol Awakening Response (CAR) and natural morning solar infrared (the 0.66 eV pulse), the vagus nerve drives the exocrine pancreas to secrete up to 2 liters of sodium bicarbonate (HCO−3) fluid daily. This massive downward fluid vortex is the body's primary tailpipe, designed to capture dietary Deuterium (D+) mass and safely flush it down to keep the tissue's negative Zeta potential intact.\n\nThe Exhaust Stall: When a human lives inside an electronic smog blanket of blue LEDs and high-nnEMF fields, this exocrine tailpipe stalls. Deprived of the downward sweep, the upper GI tract transforms into a stagnant, fractionated pool. Because Deuterium possesses twice the atomic mass of normal light protium (1H), it alters the localized tissue voltage potential. The fluid dynamics reverse. Heavy\nD+ions and fractionated water begin to rise, pool, and back-load into the gastric mucosa, the lower esophageal sphincter, and the diaphragm, causing a catastrophic dielectric collapse (𝜅≈160→80).\n\nThe Pathogenic Invitation: It is only after this stagnant, high-deuterium, low-voltage, anaerobic pool is established that Helicobacter pylori and other anaerobic GERD-associated bacteria can proliferate. These ancient Proterozoic microbes are evolutionarily wired to survive and replicate inside high-mass, low-oxygen environments. They don't cause the issue; they operate exponentially better inside a deuterated gut, utilizing the heavy hydrogen fractions to run their template-free prokaryotic mitosis while the host tissue structure degrades.  This is why mastic gum treates GERD well without antibiotics.  It stimulates D+ vagal exhaust.\n\nThe reason this deuterium accumulation triggers systemic muscle weakening, hiatal herniation through the diaphragm, and thyroid stasis is directly dictated by the Oxygen-Deuterium (O-D) Kinetic Isotope Effect (KIE).  Because Deuterium doubles the reduced mass (μ) of the bond, the O-D bond is exponentially stiffer and harder to cleave than a normal oxygen-protium (1H) bond. This high-mass quantum trap completely alters the electronic spin alignment of oxygen within the local tissue:\n\nThe Loss of Triplet Oxygen (3^O2): Oxygen natively exists in the magnetic ground triplet state, featuring parallel electron spins (↑↑) that require a stable geomagnetic and bioelectric reference frame to guide its spin-forbidden inversion. The O-D bond disrupts this spin-coherence, forcing oxygen into a diamagnetic, uncoordinated singlet state or stalling its reaction velocity entirely.  Biochemistry completely misses this effect.  They focus on billard ball ideas believing singlet and triplet state oxygen are the same when they are radically different in biophysical systems.\nThe Melanin & Dopamine Demolition: The synthesis of melanin (the skin and neural spintronic shield) and dopamine (the brain's volition and motor stator) requires the enzyme tyrosine hydroxylase, which depends strictly on ground triplet state oxygen as a cofactor. When the O-D bond chokes this enzyme, melanin and dopamine levels plummet simultaneously.\n\nThe Collagen & Fiber Type Melt: Concurrently, prolyl 4-hydroxylase (the gatekeeper of collagen cross-linking) jams. Collagen synthesis fails, causing the structural connective tissue rails of the diaphragm to melt. The diaphragmatic muscle undergoes a forced fiber-type shift, losing its fast-twitch, high-tension mammalian architecture and reverting to a loose, primitive, non-stiff Pre-Cambrian matrix. Under the constant pressure of the abdominal cavity, the weakened diaphragm fractures, and the stomach protrudes upward, manifesting as a hiatal hernia.  Blaming Thyroid hormones misses the point because triplet oxygen also controls T3 and T4 as the slide below shows.  This is just another biochemistry food guru fail of a post.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": true,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2059434009558405492",
+      "in_reply_to": {
+        "tweet_id": "2059434009558405492",
+        "user_id": "250833376",
+        "url": "https://x.com/i/status/2059434009558405492"
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJSUcu9WQAE8ceg.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 84,
+        "retweets": 19,
+        "replies": 6,
+        "quotes": 1,
+        "views": 6937
+      },
+      "thread_context": [
+        {
+          "id": "2059434009558405492",
+          "url": "https://x.com/DrJackKruse/status/2059434009558405492",
+          "created_at": "2026-05-27T00:38:24.000Z",
+          "text": "1.  See the tweet below.  Now go read it, then go to number two. https://t.co/gRXnuFocmU",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": false,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059434009558405492",
+          "in_reply_to": null,
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJSUMOaXkAANffY.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 82,
+            "retweets": 14,
+            "replies": 3,
+            "quotes": 0,
+            "views": 9932
+          }
+        }
+      ]
+    },
+    {
+      "id": "2059434009558405492",
+      "url": "https://x.com/DrJackKruse/status/2059434009558405492",
+      "created_at": "2026-05-27T00:38:24.000Z",
+      "text": "1.  See the tweet below.  Now go read it, then go to number two. https://t.co/gRXnuFocmU",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2059434009558405492",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJSUMOaXkAANffY.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 82,
+        "retweets": 14,
+        "replies": 3,
+        "quotes": 0,
+        "views": 9932
+      },
+      "thread_context": []
+    }
+  ]
+}

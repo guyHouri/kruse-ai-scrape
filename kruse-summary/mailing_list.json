@@ -1,5 +1,46 @@
 {
   "recipients": [
-    { "email": "guy.houri2024@gmail.com", "name": "Guy Houri" }
-  ]
+    {
+      "email": "guy.houri2024@gmail.com",
+      "name": "Guy Houri",
+      "frequency": "Daily",
+      "source": "manual-seed",
+      "comments": "Seeded from existing mailing_list.json so Supabase matches the active sender list.",
+      "reportDate": "2026-05-26",
+      "reportUrl": "https://guyhouri.github.io/kruse-ai-scrape/reports/2026-05-26.html",
+      "subscribedAt": "2026-05-26T10:41:10.292605+00:00",
+      "updatedAt": "2026-05-27T05:51:52.030Z"
+    },
+    {
+      "email": "guyhouricloud@gmail.com",
+      "name": "Test Test",
+      "comments": "",
+      "frequency": "Daily",
+      "source": "public-site",
+      "reportDate": "2026-05-25",
+      "reportUrl": "https://guyhouri.github.io/kruse-ai-scrape/reports/2026-05-25.html",
+      "subscribedAt": "2026-05-26T11:04:36.521039+00:00"
+    },
+    {
+      "email": "richardjamesskold@gmail.com",
+      "name": "Richard sköld",
+      "comments": "Awesome",
+      "frequency": "Daily",
+      "source": "public-site",
+      "reportDate": "",
+      "reportUrl": "https://guyhouri.github.io/kruse-ai-scrape/index.html",
+      "subscribedAt": "2026-05-26T13:29:04.11166+00:00"
+    },
+    {
+      "email": "rohens@gmail.com",
+      "name": "Rohen Kapur",
+      "comments": "",
+      "frequency": "Weekly digest",
+      "source": "public-site",
+      "reportDate": "",
+      "reportUrl": "https://guyhouri.github.io/kruse-ai-scrape/index.html",
+      "subscribedAt": "2026-05-26T13:19:21.108652+00:00"
+    }
+  ],
+  "updatedAt": "2026-05-27T05:51:52.030Z"
 }
