@@ -154,6 +154,61 @@ test('repairRequiredTranslationConcepts explains common medical and Kruse scienc
   assert.match(concepts.hypothyroidism.text, /thyroid hormone/i);
 });
 
+test('repairRequiredTranslationConcepts explains advanced mechanism terms from live reports', () => {
+  const summary = {
+    sections: [
+      {
+        title: 'Forum',
+        cards: [
+          {
+            lead: 'Deuterium and oxygen spin states affect tissue voltage',
+            body: 'The source mentions protium, infrared, reduced mass, singlet oxygen, collagen cross-linking, LES, spin-coherence, geomagnetic reference frame, fluid dynamics, and permittivity.',
+            points: [],
+            concepts: {},
+            source_urls: ['https://forum.jackkruse.com/threads/live-terms.1/'],
+          },
+        ],
+      },
+    ],
+  };
+  const selection = {
+    selected_items: [
+      {
+        source_type: 'forum',
+        source_id: 'https://forum.jackkruse.com/threads/live-terms.1/',
+        source_url: 'https://forum.jackkruse.com/threads/live-terms.1/',
+        title: 'Deuterium and oxygen spin states affect tissue voltage',
+        translation_terms: [
+          'protium (1H)',
+          'infrared (0.66 eV pulse)',
+          'reduced mass (mu)',
+          'singlet oxygen',
+          'collagen cross-linking',
+          'Lower Esophageal Sphincter (LES)',
+          'spin-coherence',
+          'geomagnetic reference frame',
+          'fluid dynamics',
+          'permittivity',
+        ],
+      },
+    ],
+  };
+
+  const repaired = repairRequiredTranslationConcepts(summary, selection);
+  const concepts = repaired.sections[0].cards[0].concepts;
+
+  assert.match(concepts['protium (1H)'].text, /ordinary light hydrogen/i);
+  assert.match(concepts['infrared (0.66 eV pulse)'].text, /infrared/i);
+  assert.match(concepts['reduced mass (mu)'].text, /bond vibration/i);
+  assert.match(concepts['singlet oxygen'].text, /excited form of oxygen/i);
+  assert.match(concepts['collagen cross-linking'].text, /collagen fibers/i);
+  assert.match(concepts['Lower Esophageal Sphincter (LES)'].text, /muscle valve/i);
+  assert.match(concepts['spin-coherence'].text, /spin behavior/i);
+  assert.match(concepts['geomagnetic reference frame'].text, /earth's magnetic-field/i);
+  assert.match(concepts['fluid dynamics'].text, /liquids and gases move/i);
+  assert.match(concepts.permittivity.text, /stores electrical energy/i);
+});
+
 test('repairPrivatePhraseConcepts explains Kruse shorthand when the model forgets', () => {
   const repaired = repairPrivatePhraseConcepts({
     sections: [

@@ -665,9 +665,65 @@ const FALLBACK_CONCEPTS = {
     level: 'noob',
     text: 'Deuterium is heavy hydrogen; D+ means its positively charged ion form. In this report it matters because Kruse links heavier hydrogen handling to mitochondrial water and energy chemistry.',
   },
+  'protium 1h': {
+    level: 'noob',
+    text: 'Protium is ordinary light hydrogen, the common 1H isotope. Kruse contrasts it with deuterium because lighter hydrogen moves differently in water and mitochondrial proton chemistry.',
+  },
   'deuterium concentration ppm': {
     level: 'noob',
     text: 'The amount of deuterium measured in parts per million. Normal water is often around 150 ppm; deuterium-depleted water claims usually refer to lowering that number.',
+  },
+  'infrared 066 ev pulse': {
+    level: 'pro',
+    text: 'Infrared light is heat-range light. A 0.66 eV photon is near-infrared energy; Kruse uses this range when discussing light-driven water, mitochondrial, or exclusion-zone effects.',
+  },
+  infrared: {
+    level: 'noob',
+    text: 'Light just beyond visible red. In biology discussions it usually points to heat, mitochondrial signaling, and water-structure effects rather than vitamin-D production.',
+  },
+  'reduced mass': {
+    level: 'pro',
+    text: 'A physics term for how two bonded particles behave as one vibrating system. Replacing protium with heavier deuterium changes reduced mass and therefore bond vibration behavior.',
+  },
+  'singlet oxygen': {
+    level: 'pro',
+    text: 'A high-energy excited form of oxygen. It is more reactive than normal oxygen and is often discussed in light, redox, and oxidative-signaling contexts.',
+  },
+  'triplet oxygen': {
+    level: 'pro',
+    text: 'The normal ground-state form of molecular oxygen. It has unpaired electron spin, which is why oxygen chemistry often connects to magnetism, spin state, and redox reactions.',
+  },
+  'collagen crosslinking': {
+    level: 'noob',
+    text: 'Chemical bonding between collagen fibers that changes tissue stiffness and strength. Too much or abnormal cross-linking can make tissue less flexible or less repairable.',
+  },
+  'lower esophageal sphincter les': {
+    level: 'noob',
+    text: 'The muscle valve between the esophagus and stomach. If it does not close well, stomach contents can reflux upward and drive GERD symptoms.',
+  },
+  'lower esophageal sphincter': {
+    level: 'noob',
+    text: 'The muscle valve at the bottom of the esophagus that keeps stomach contents from flowing backward.',
+  },
+  'spincoherence': {
+    level: 'pro',
+    text: 'A quantum/physics phrase for coordinated spin behavior. In Kruse language it usually points to whether electron/proton/magnetic states remain organized enough to support signaling.',
+  },
+  'spin coherence': {
+    level: 'pro',
+    text: 'Coordinated spin behavior in particles such as electrons or protons; Kruse uses it as part of his magnetic and mitochondrial signaling language.',
+  },
+  'geomagnetic reference frame': {
+    level: 'noob',
+    text: 'The earth\'s magnetic-field context at a location. Kruse uses it as a baseline environmental signal that biological electrical and magnetic behavior may align to.',
+  },
+  'fluid dynamics': {
+    level: 'noob',
+    text: 'The physics of how liquids and gases move, including flow, pressure, turbulence, and mixing. In water-system cards it explains movement rather than static chemistry alone.',
+  },
+  permittivity: {
+    level: 'pro',
+    text: 'A material property describing how well a medium stores electrical energy in an electric field. Water, minerals, and tissues differ in permittivity, which affects charge behavior.',
   },
   nnemf: {
     level: 'noob',
@@ -1173,7 +1229,22 @@ function fallbackConceptForTerm(term) {
   if (key.includes('hypothyroid')) return FALLBACK_CONCEPTS.hypothyroidism;
   if (key.includes('vagal')) return FALLBACK_CONCEPTS['vagal tone'];
   if (key.includes('isotopic')) return FALLBACK_CONCEPTS['isotopic purification'];
-  return null;
+  if (key.includes('protium')) return FALLBACK_CONCEPTS['protium 1h'];
+  if (key.includes('infrared')) return FALLBACK_CONCEPTS.infrared;
+  if (key.includes('reduced mass')) return FALLBACK_CONCEPTS['reduced mass'];
+  if (key.includes('singlet oxygen')) return FALLBACK_CONCEPTS['singlet oxygen'];
+  if (key.includes('triplet oxygen')) return FALLBACK_CONCEPTS['triplet oxygen'];
+  if (key.includes('collagen') && key.includes('cross')) return FALLBACK_CONCEPTS['collagen crosslinking'];
+  if (key.includes('esophageal sphincter') || key === 'les') return FALLBACK_CONCEPTS['lower esophageal sphincter'];
+  if (key.includes('spin')) return FALLBACK_CONCEPTS['spin coherence'];
+  if (key.includes('geomagnetic')) return FALLBACK_CONCEPTS['geomagnetic reference frame'];
+  if (key.includes('fluid dynamics')) return FALLBACK_CONCEPTS['fluid dynamics'];
+  if (key.includes('permittivity')) return FALLBACK_CONCEPTS.permittivity;
+
+  return {
+    level: 'noob',
+    text: `A technical term used by the selected source. The report keeps "${String(term || '').trim()}" visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.`,
+  };
 }
 
 export function repairPrivatePhraseConcepts(summary) {
