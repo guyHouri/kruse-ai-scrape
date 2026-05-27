@@ -2,7 +2,7 @@
 
 Daily report pipeline. It reads scraped tweets from `../twitter_to_md/data`,
 optionally reads forum activity from `../forum_to_md/daily`, creates a curated
-summary JSON, renders HTML, and can email the report before local sunrise.
+summary JSON, renders HTML, and can email the report.
 
 ## Flow
 
@@ -26,9 +26,9 @@ summary JSON, renders HTML, and can email the report before local sunrise.
 
 ## Important Docs
 
-- [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) - short current architecture:
-  what, how, and why.
-- [`docs/REQUEST_TRACE.md`](docs/REQUEST_TRACE.md) - detailed requirement map.
+- [`../DAILY_PIPELINE.md`](../DAILY_PIPELINE.md) - current daily workflow,
+  testing gates, failure behavior, Supabase watchdog plan, and medical-term
+  explanation policy.
 
 ## Files
 
@@ -50,9 +50,6 @@ kruse-summary/
     write-system.md
     explain-system.md
     output-schema.json
-  docs/
-    ARCHITECTURE.md
-    REQUEST_TRACE.md
   curated/
   out/
 ```
@@ -267,16 +264,36 @@ but `main:/docs` plus `.github/workflows/ci-cd.yml` is the active Pages path.
 ### Running The Full Daily Pipeline
 
 The scheduled data workflow is `.github/workflows/daily-kruse-summary.yml`. It
-runs on the current `REPORT_TIME_ZONE` day, scrapes X, scrapes the forum,
-builds the AI report, sends email, mirrors the generated site into `docs/`,
-commits the generated daily state back to `main`, and triggers the CI/CD deploy.
-It is scheduled at `06:17` UTC every day. `last-sent.json` prevents duplicate
-email on manual retries or re-runs.
+runs on the current `REPORT_TIME_ZONE` day, default `Asia/Jerusalem`; scrapes
+X; scrapes the forum; syncs Supabase signups; builds the AI report; sends email;
+mirrors the generated site into `docs`; commits the generated daily state back
+to `main`; and triggers the CI/CD deploy. It is scheduled at `06:17` UTC every
+day. `last-sent.json` prevents duplicate email on manual retries or re-runs.
 
 The main-branch CI/CD workflow is `.github/workflows/ci-cd.yml`. It runs on
 pushes to `main`, manual dispatch, and the daily workflow's
 `deploy-report-site` repository dispatch. It runs `twitter_to_md` and
 `kruse-summary` tests first, then deploys the public website from `docs/`.
+
+The daily workflow can also be triggered by an external Supabase watchdog using
+GitHub `repository_dispatch` with event type `daily-kruse-summary`. The repo
+side is already wired; Supabase still needs a server-side GitHub dispatch token
+and a scheduled Cron or Edge Function. See [`../DAILY_PIPELINE.md`](../DAILY_PIPELINE.md).
+
+### Failure And Explanation Policy
+
+The daily workflow stops before paid AI calls, email, or deploy when tests fail.
+It also stops when source scraping, Supabase sync, Anthropic generation, or
+validation fails. `last-sent.json` is updated only after a successful email, so
+failed sends remain retryable.
+
+The explainer pass should not re-teach known Kruse basics such as blue light,
+nnEMF, deuterium, sunrise, cold, DHA, grounding, magnetism, redox, leptin,
+decentralized medicine, or biophysics of patients. It should explain harder
+medical, anatomical, drug, lab, and mechanism terms such as hypothyroidism,
+GERD, hernia, lower esophageal sphincter, doxycycline, 5-FU, mitochondrial
+complex IV, dielectric collapse, isotope effect, and unclear Kruse phrases like
+water table collapse or lattice lock.
 
 ### Test-Only Email Gate
 

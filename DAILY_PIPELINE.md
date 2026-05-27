@@ -1,166 +1,322 @@
 # Daily Kruse Pipeline
 
-End-to-end automated daily digest of Dr. Jack Kruse content. Runs on
-GitHub Actions every morning ~1 hour before sunrise in Jerusalem, emails
-a curated HTML report to a mailing list.
+End-to-end daily workflow for the public Kruse report site and test email send.
+This is separate from the NotebookLM archive scrapers: the archive scrapers
+produce long-term markdown bundles, while this pipeline produces one daily HTML
+report from the last 24 hours of X and forum activity.
 
-> Separate from the NotebookLM bundle scrapers documented in
-> [`README.md`](README.md). Those produce static archives; this is a
-> recurring newsletter pipeline.
+## Current Shape
 
-## Stack at a glance
+The active automation is `.github/workflows/daily-kruse-summary.yml`.
 
-```
-                                  ┌──────────────────┐
-                                  │  GitHub Actions  │
-                                  │  cron 02-04 UTC  │
-                                  └────────┬─────────┘
-                                           │
-        ┌──────────────────────────────────┼──────────────────────────────┐
-        │                                  │                              │
-        ▼                                  ▼                              ▼
-┌───────────────────┐            ┌───────────────────┐          ┌─────────────────────┐
-│  twitter_to_md/   │            │   forum_to_md/    │          │   kruse-summary/    │
-│                   │            │   (daily mode)    │          │                     │
-│ X API v2 →        │            │ XenForo login →   │          │ sunrise check →     │
-│ per-day JSON      │            │ /find-new/posts → │          │ load tweets+forum → │
-│                   │            │ per-day JSON      │          │ (TODO: AI summary) →│
-└────────┬──────────┘            └────────┬──────────┘          │ render HTML →       │
-         │                                │                     │ Gmail SMTP send →   │
-         ▼                                ▼                     │ mark last-sent      │
-data/2026-05-22.json           daily/2026-05-22.json            └──────────┬──────────┘
-         │                                │                                │
-         └────────────────────────────────┴────────────────────────────────┘
-                                          │
-                                committed back to repo
+- Runs once per day at `06:17 UTC`.
+- Uses `REPORT_TIME_ZONE`, default `Asia/Jerusalem`, to choose the report date.
+- Accepts manual `workflow_dispatch`.
+- Accepts external `repository_dispatch` with event type `daily-kruse-summary`.
+- Sends email only to `KRUSE_EMAIL_TEST_RECIPIENTS` while the test gate is on.
+- Commits generated daily data, report HTML, mailing-list sync, and website
+  files back to `main`.
+- Triggers `.github/workflows/ci-cd.yml` after the daily commit.
+
+The current test email gate is:
+
+```text
+KRUSE_EMAIL_TEST_RECIPIENTS=guy.houri2024@gmail.com
 ```
 
-## Modules
+So Supabase can collect real signups now, but the workflow sends only to Guy
+until that env var is removed or changed.
 
-### [`twitter_to_md/`](twitter_to_md/) — X scraper
+## Date And Time Rules
 
-- Official X API v2, App-only Bearer auth
-- One JSON per UTC day at [`twitter_to_md/data/YYYY-MM-DD.json`](twitter_to_md/data/)
-- Reply chain resolved recursively (`thread_context`), quoted/retweeted nested
-- Pricing: `$0.005/tweet` × ~30-50/day × 30 = ~$5/mo (fits the $5 free credit)
-- 24h server-side dedup means re-runs same day are free
-- See [`twitter_to_md/README.md`](twitter_to_md/README.md)
+The report date is not hardcoded. The workflow picks it like this:
 
-### [`forum_to_md/`](forum_to_md/) — forum scraper (daily mode)
+1. If a manual or repository-dispatch payload includes `date`, use that exact
+   `YYYY-MM-DD`.
+2. Otherwise, run `TZ="$REPORT_TIME_ZONE" date +%Y-%m-%d`.
+3. Pass that date to the X scraper, forum scraper, input builder, AI summary,
+   HTML renderer, email sender, and public-site builder.
 
-Two pipelines coexist in this folder:
-1. **Legacy bulk pipeline** (`npm start`) — full archive scrape via static cookies (see [`forum_to_md/README.md`](forum_to_md/README.md)). Used to build NotebookLM bundles.
-2. **Daily pipeline** (`npm run daily`) — username/password login + `/find-new/posts` fetch, saves last 24h to [`forum_to_md/daily/YYYY-MM-DD.json`](forum_to_md/daily/).
+For Jerusalem, `06:17 UTC` is `09:17 Asia/Jerusalem` during daylight saving
+time. That is still the same local calendar day, so it should produce the
+current day's report unless a manual run overrides the date.
 
-Daily mode auto-skips re-runs within 4 hours of the previous fetch
-(idempotency on the morning cron's multiple fires). Force via `--force`.
+If the workflow does not appear at the scheduled minute, that is not a date
+calculation bug by itself. GitHub scheduled workflows can start late or fail to
+start. The fix is an external watchdog, not changing the report-date logic.
 
-### [`kruse-summary/`](kruse-summary/) — report + mailer
+## Pipeline Steps
 
-- Loads tweets + forum daily JSON
-- Token-compact JSON for downstream AI ([`kruse-summary/code/compact.js`](kruse-summary/code/compact.js)) — ~70% smaller than full
-- AI summarizer prompt + schema in [`kruse-summary/prompts/`](kruse-summary/prompts/) (Anthropic API call still TODO — currently raw-card fallback)
-- HTML renderer matches the v2 design ([`kruse-summary/kruse-summary-v2-20-05-2026 .html`](kruse-summary/kruse-summary-v2-20-05-2026%20.html))
-- Sunrise gate via [api.sunrise-sunset.org](https://sunrise-sunset.org/api), free
-- Idempotency: [`kruse-summary/last-sent.json`](kruse-summary/last-sent.json) tracks `last_sent_for_date`
-- Gmail SMTP via nodemailer; recipients in [`kruse-summary/mailing_list.json`](kruse-summary/mailing_list.json), BCC'd
-- HTML attached as file so click-to-expand JS works when opened in browser
+The daily workflow is intentionally linear. If a required step fails, later
+steps do not run.
 
-### [`.github/workflows/daily-kruse-summary.yml`](.github/workflows/daily-kruse-summary.yml)
+1. Checkout `main`.
+2. Install and test `twitter_to_md`.
+3. Install and test `kruse-summary`.
+4. Pick the target report date.
+5. Scrape X into `twitter_to_md/data/<date>.json`.
+6. Scrape forum activity into `forum_to_md/daily/<date>.json`.
+7. Sync Supabase mailing-list rows into `kruse-summary/mailing_list.json`.
+8. Build combined daily input at `kruse-summary/curated/<date>-input.json`.
+9. Run Anthropic prompt chain and validation.
+10. Render `kruse-summary/out/<date>.html`.
+11. Send the email if the run mode allows sending and the date was not already
+    sent.
+12. Write `kruse-summary/last-sent.json` only after email succeeds.
+13. Build the static public site into `kruse-summary/site`.
+14. Mirror the static site into `docs`.
+15. Commit generated artifacts and push to `main`.
+16. Dispatch the CI/CD workflow.
+17. CI/CD runs tests again and deploys `docs` to GitHub Pages only after tests
+    pass.
 
-GitHub Actions cron fires every 30 min from 02:00 to 04:30 UTC, covering
-Jerusalem's pre-sunrise window year-round. Each fire:
+## AI Summary Chain
 
-1. Determine target date (yesterday UTC for tweets).
-2. Skip tweet scrape if `twitter_to_md/data/<date>.json` already has `tweet_count > 0`.
-3. Scrape tweets via X API.
-4. Scrape forum new-posts (self-skips if <4h old).
-5. Build HTML (sunrise check inside `main.js`; exits early if not in window).
-6. Send mail if in window + not already sent for the date.
-7. Commit scraped data + state files back to repo.
+The report is not one giant prompt. It is a staged chain so each step has one
+job:
 
-## Double-fetch protection (cost guard)
+1. `build-input` collects same-day X and forum items in one JSON file.
+2. `select-system.md` removes low-signal items and keeps only new protocols,
+   mechanisms, concrete cases, cited papers, datasets, new claims, and useful
+   forum updates.
+3. Code gates remove podcast-only items and enforce minimum priority.
+4. `write-system.md` writes source-grounded Twitter and Forum cards without
+   adding personal opinion.
+5. `explain-system.md` repairs unclear medical, scientific, and technical
+   language.
+6. Code validators check source IDs, source quotes, same-day citations, forum
+   URLs, podcast leakage, duplicate cards, and missing explanations.
+7. The renderer builds the final HTML from validated JSON.
 
-X API charges per tweet returned. Two layers prevent paying twice:
+Forum updates must go through the same select, write, explain, and verify
+process as tweets. Forum items are not raw appendices and are not second-class
+content.
 
-| Layer | What it does |
-|---|---|
-| Workflow file-existence check | Skips the entire scrape step if `data/<date>.json` has `tweet_count > 0` |
-| X API 24h server-side dedup | Documented: re-requesting the same tweet ID within 24h is a single charge |
-| `kruse-summary/settings.maxProjectedCostUsd` | Aborts a run before any API call if projected cost exceeds the cap (default $1.50) |
-| `kruse-summary/last-sent.json` | Prevents mailing twice for the same day across multiple cron fires |
+## Testing Gates
 
-## Required GitHub repo secrets
+There are two testing gates.
 
-Add at: **Repo → Settings → Secrets and variables → Actions → New repository secret**
+The daily workflow runs:
 
-| Name | Value source |
-|---|---|
-| `XAPI_BEARER_TOKEN` | X Developer Portal → your app → Keys and tokens → Bearer Token |
-| `GMAIL_USER` | The Gmail account that sends the digest (e.g. `guyhouri.tech@gmail.com`) |
-| `GMAIL_APP_PASSWORD` | Google App Password (16 chars, no spaces). Requires 2FA on the account. https://myaccount.google.com/apppasswords |
-| `FORUM_USERNAME` | Your forum.jackkruse.com login email |
-| `FORUM_PASSWORD` | Your forum.jackkruse.com password |
-| `ANTHROPIC_API_KEY` *(future)* | Once the AI summarizer is wired |
+```text
+twitter_to_md: npm test
+kruse-summary: npm test
+```
 
-Secret names can contain `[a-zA-Z0-9_]`. Underscores ARE allowed; spaces
-are not. Use repository secrets, not environment secrets.
+The CI/CD workflow repeats the same tests before deploying the public website.
 
-## Optional GitHub repo variables (not secrets)
+Tests cover the X daily JSON behavior, summary validation repairs, site build
+behavior, email recipient filtering, Supabase form behavior, and unsubscribe
+logic. The practical rule is simple: if tests fail, the workflow must not send
+or deploy.
 
-| Name | Default | Purpose |
+## Failure Behavior
+
+Failure should be boring and visible.
+
+| Failure point | What happens | Why |
 |---|---|---|
-| `LOCATION_LAT` | `31.7683` | Sunrise API lat (Jerusalem) |
-| `LOCATION_LON` | `35.2137` | Sunrise API lon (Jerusalem) |
+| Unit tests fail | Stop before scraping/sending/deploying | Broken code should not spend API money or email users |
+| X scrape fails | Stop before summary and email | Missing source data makes the report unreliable |
+| Forum scrape fails | Stop before summary and email | Forum and X use the same daily report contract |
+| Supabase mailing-list sync fails | Stop before email | We do not guess the recipient list |
+| Anthropic generation fails | Stop before email | No validated report means no send |
+| Validator rejects output | Stop before email | Prevents hallucinated, uncited, or unclear cards |
+| Gmail send fails | Do not update `last-sent.json` | A retry should still be allowed |
+| Commit or deploy fails after send | Email may be sent, site may lag | Re-run CI/CD or daily workflow to repair the site |
+| GitHub schedule does not start | Nothing runs | Supabase watchdog should dispatch a backup run |
 
-## Local development
+`last-sent.json` is the duplicate-send guard. It is updated only after a
+successful send, so a failed email attempt can be retried. Manual `force` mode
+can bypass normal safety gates and must be used carefully.
 
-```bash
-# X scraper
-cd twitter_to_md && npm install
-cp .env.example .env       # paste XAPI_BEARER_TOKEN
-npm start                   # scrapes today UTC
+## Supabase Watchdog Dispatch
 
-# Forum daily scraper
-cd ../forum_to_md && npm install
-cp .env.example .env       # paste FORUM_USERNAME + FORUM_PASSWORD
-npm run daily               # scrapes last 24h of forum
+Yes, Supabase can dispatch the GitHub daily workflow. The repo side is already
+ready because `.github/workflows/daily-kruse-summary.yml` listens for:
 
-# Build + send report
-cd ../kruse-summary && npm install
-cp .env.example .env       # paste GMAIL_USER + GMAIL_APP_PASSWORD
-node main.js --build-only --date=2026-05-22       # build HTML, no send
-node main.js --force --date=2026-05-22            # force-send now, bypass sunrise gate
-node main.js --send-v2-test                       # pipeline smoke test, sends static v2 HTML
+```yaml
+repository_dispatch:
+  types: [daily-kruse-summary]
 ```
 
-## Forum section is currently OFF in the daily mail
+GitHub's repository-dispatch endpoint is the correct outside-GitHub trigger:
 
-The forum data is being scraped + committed daily, but the rendered HTML
-omits the Forum Insights section until the user reviews quality and
-approves wiring. Toggle by setting workflow env `INCLUDE_FORUM=true`.
+```http
+POST https://api.github.com/repos/guyHouri/kruse-ai-scrape/dispatches
+```
 
-## Status
+Payload:
 
-- ✅ X scraper, per-day JSON
-- ✅ Compact JSON for AI input (~70% smaller, readable keys)
-- ✅ v2-styled HTML template (curated path + raw-card fallback)
-- ✅ Email sender w/ HTML attachment
-- ✅ Sunrise gate + last-sent idempotency
-- ✅ GitHub Actions workflow
-- ✅ Forum daily login + new-posts scrape
-- ⏳ AI summarizer wiring (Anthropic API; ~$0.01/day Haiku 4.5)
-- ⏳ Forum section in mail (gated, awaiting user approval)
-- ⏳ Podcast pipeline (out of scope for now)
+```json
+{
+  "event_type": "daily-kruse-summary",
+  "client_payload": {
+    "mode": "normal",
+    "date": ""
+  }
+}
+```
 
-## Cost model (per month)
+Supabase has two good ways to do the watchdog:
 
-| Item | Cost |
-|---|---|
-| X API reads | ~$5/mo (within free credit) |
-| Apify | $0 (not used) |
-| Gmail SMTP | $0 |
-| Sunrise API | $0 |
-| GitHub Actions runtime | $0 (public repo, unlimited mins) |
-| Anthropic Haiku 4.5 (planned) | ~$0.15-0.30/mo |
-| **Total** | **~$5/mo, mostly inside free credits** |
+1. Supabase Cron plus `pg_net` calls GitHub directly.
+2. Supabase Cron calls an Edge Function, and the Edge Function calls GitHub.
+
+Use the Edge Function path if we want more logic, logging, and cleaner secret
+handling. Use direct `pg_net` only for the smallest possible implementation.
+
+Required server-only secret:
+
+```text
+GITHUB_DISPATCH_TOKEN
+```
+
+That token needs permission to create a repository dispatch for
+`guyHouri/kruse-ai-scrape`. It must live in Supabase Vault or Edge Function
+secrets. It must never be placed in static HTML, `NEXT_PUBLIC_*`, or a browser
+form.
+
+Recommended watchdog timing:
+
+```text
+07:15 UTC daily
+```
+
+That gives the normal GitHub `06:17 UTC` run time to start and finish. The
+watchdog should dispatch only when today's report has not been sent/deployed.
+The safest long-term check is a Supabase table:
+
+```sql
+create table if not exists public.kruse_daily_runs (
+  report_date date primary key,
+  status text not null,
+  github_run_id bigint,
+  report_url text,
+  sent_at timestamptz,
+  deployed_at timestamptz,
+  error text,
+  updated_at timestamptz not null default now()
+);
+```
+
+Then the daily workflow should upsert:
+
+```text
+started -> scraped -> summarized -> sent -> deployed
+```
+
+If the watchdog sees no row for today, or a stale row before `sent`, it sends
+the repository dispatch. Duplicate protection still exists in GitHub
+concurrency and `last-sent.json`, but the run-status table makes failures
+obvious from Supabase.
+
+Current repo status: the GitHub workflow can receive the Supabase dispatch now.
+The Supabase-side scheduled job still needs to be installed with a server-side
+GitHub dispatch token. This machine currently has no Supabase CLI, no `psql`,
+no Supabase access token, and no database URL configured, so the watchdog cannot
+be installed from here without adding one of those deployment paths.
+
+## Medical And Science Explanation Policy
+
+The explainer should not waste space teaching the reader the Kruse basics every
+day. These are baseline concepts and should usually not get glossary treatment:
+
+- blue light;
+- nnEMF;
+- deuterium;
+- deuterium-depleted water;
+- sunrise;
+- cold exposure;
+- DHA;
+- grounding;
+- magnetism;
+- redox;
+- leptin signaling;
+- decentralized medicine;
+- biophysics of patients.
+
+The explainer should explain harder medical, anatomical, biochemical,
+pharmacological, and physics terms when they are necessary to understand the
+card. Examples:
+
+- conditions: hypothyroidism, GERD, hiatal hernia, autoimmune thyroiditis;
+- anatomy: lower esophageal sphincter, vagus nerve, thyroid gland;
+- drugs and compounds: doxycycline, 5-FU, ivermectin, fenbendazole, mastic gum;
+- lab or measurement terms: TSH, free T3, ferritin, inflammatory markers;
+- mechanisms: mitochondrial complex IV, cytochrome c oxidase, dielectric
+  constant, isotope effect, bicarbonate secretion, proton tunneling;
+- unclear Kruse-style phrases: water table collapse, lattice lock, optical
+  switch, charge separation.
+
+If a baseline Kruse word appears inside a harder mechanism, explain the harder
+mechanism rather than the baseline word. For example:
+
+- Explain `kinetic isotope effect`, not just `deuterium`.
+- Explain `dielectric collapse`, not just `blue light`.
+- Explain `lower esophageal sphincter tone`, not just `GERD`.
+
+The target reader is smart but not a doctor. A good explanation should say:
+
+1. what the term means in normal language;
+2. what system it belongs to;
+3. why it matters for this specific card;
+4. whether the source text actually supports the mechanism or only asserts it.
+
+The verifier should reject cards where the main claim depends on an unexplained
+medical/science term or an unclear private phrase. The repair step should add a
+plain-language definition or rewrite the sentence. If the source itself does
+not provide enough information to explain the phrase, the card should say that
+plainly or be dropped.
+
+## Manual Operations
+
+Run the daily workflow from GitHub CLI:
+
+```powershell
+gh workflow run "Daily Kruse Summary" --repo guyHouri/kruse-ai-scrape --ref main -f mode=force -f date=2026-05-27
+```
+
+Repository-dispatch fallback:
+
+```powershell
+'{"event_type":"daily-kruse-summary","client_payload":{"mode":"force","date":"2026-05-27"}}' |
+  gh api repos/guyHouri/kruse-ai-scrape/dispatches --method POST --input -
+```
+
+Local equivalent:
+
+```powershell
+cd "D:\kruse\guy export\twitter_to_md"
+npm.cmd install
+node main.js --date=2026-05-27
+
+cd "..\forum_to_md"
+npm.cmd install
+node main-daily.js --date=2026-05-27 --force
+
+cd "..\kruse-summary"
+npm.cmd install
+npm.cmd test
+npm.cmd run sync-mailing-list
+node code/build-input.js 2026-05-27
+node main.js --force --use-ai --date=2026-05-27
+npm.cmd run build-site
+```
+
+Check generated files:
+
+```text
+twitter_to_md/data/<date>.json
+forum_to_md/daily/<date>.json
+kruse-summary/curated/<date>-input.json
+kruse-summary/curated/<date>.json
+kruse-summary/out/<date>.html
+docs/reports/<date>.html
+```
+
+Public site:
+
+```text
+https://guyhouri.github.io/kruse-ai-scrape/
+```
