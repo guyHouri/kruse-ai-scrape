@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 
 import {
+  dropPodcastDeferredCards,
   gateSelection,
   repairPrivatePhraseConcepts,
   repairReportVoice,
@@ -36,6 +37,28 @@ test('gateSelection keeps Jack-authored priority-3 geo forum signals', () => {
 
   assert.deepEqual(gated.selected_items.map((item) => item.source_id), ['forum-ancients']);
   assert.equal(gated.dropped_items.at(-1).source_id, 'tweet-low');
+});
+
+test('dropPodcastDeferredCards removes podcast-only report cards', () => {
+  const summary = {
+    sections: [
+      {
+        title: 'Twitter Updates',
+        cards: [
+          { lead: 'Keep', source_ids: ['tweet-1'], points: [] },
+          { lead: 'Drop podcast', source_ids: ['podcast-1'], points: [] },
+          { lead: 'Drop contaminated', source_ids: ['tweet-2', 'podcast-2'], points: [] },
+        ],
+      },
+    ],
+  };
+
+  const repaired = dropPodcastDeferredCards(summary, [
+    { source_id: 'podcast-1' },
+    { source_id: 'podcast-2' },
+  ]);
+
+  assert.deepEqual(repaired.sections[0].cards.map((card) => card.lead), ['Keep']);
 });
 
 test('repairReportVoice removes absence/opinion language before validation', () => {

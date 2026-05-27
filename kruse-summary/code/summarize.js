@@ -509,6 +509,25 @@ function repairSummarySourceQuotes(summary, input, selection) {
   return repaired;
 }
 
+export function dropPodcastDeferredCards(summary, podcastQueue = []) {
+  const podcastIds = new Set(podcastQueue.map((p) => String(p.source_id)));
+  if (!podcastIds.size) return summary;
+  let dropCount = 0;
+  const repaired = {
+    ...summary,
+    sections: (summary.sections || []).map((section) => {
+      const cards = (section.cards || []).filter((card) => {
+        const usesDeferredPodcast = (card.source_ids || []).some((id) => podcastIds.has(String(id)));
+        if (usesDeferredPodcast) dropCount++;
+        return !usesDeferredPodcast;
+      });
+      return { ...section, cards };
+    }),
+  };
+  if (dropCount) info(`anthropic: dropped ${dropCount} podcast-deferred card(s) from report body`);
+  return repaired;
+}
+
 const REPORT_VOICE_BANNED = /\b(my read|wrong|right|uncited|no citation|without citation|not proven|unsupported|speculative|fake|AI BS|Codex|Anthropic|without mechanism|no mechanism|without trial|no trial|does not provide mechanism|does not provide dosing|mechanism or dosing detail|not standard|standard of care|efficacy or safety advantage|stronger evidence base|trial data (?:was )?not provided|not provided in (?:the )?source|likely refers|possibly|may refer|important for cellular health)\b/i;
 
 function stripReportVoiceSentence(text) {
@@ -1541,7 +1560,8 @@ export async function summarizeDay(date, { dryRun = false } = {}) {
   validateExplanationPreservesDraft(writeResult.parsed, explainResult.parsed);
   writeJsonArtifact(date, 'explained', explainResult.parsed);
 
-  const repairedSummary = repairSummarySourceQuotes(explainResult.parsed, input, gatedSelection);
+  const noPodcastCards = dropPodcastDeferredCards(explainResult.parsed, podcastQueue);
+  const repairedSummary = repairSummarySourceQuotes(noPodcastCards, input, gatedSelection);
   const summary = repairReportVoice(repairPrivatePhraseConcepts(repairRequiredTranslationConcepts(
     repairConceptAliases(sanitizeSummary(repairedSummary)),
     gatedSelection
