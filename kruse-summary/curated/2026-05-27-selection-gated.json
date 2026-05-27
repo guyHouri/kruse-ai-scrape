@@ -8,44 +8,158 @@
       "source_authority": "jack",
       "value_type": "mechanism",
       "priority": 5,
-      "title": "Deuterium, vagal exhaust, and upper GI pathology: hiatal hernia, GERD, hypothyroidism as isotopic failure",
-      "why_interesting": "Comprehensive mechanistic explanation linking deuterium accumulation, vagal nerve dysfunction, oxygen-deuterium kinetic isotope effect, and structural GI collapse; connects quantum spin chemistry to clinical anatomy; identifies mastic gum as vagal exhaust stimulant",
-      "source_claim": "Hypothyroidism, hiatal hernias, and GERD are not separate isolated clinical conditions but concurrent macro-anatomical failures of a heavily deuterated water table and a stalled vagal exhaust pipe. The vagus nerve drives exocrine pancreas to secrete up to 2 liters of sodium bicarbonate fluid daily as the body's primary tailpipe to capture dietary deuterium and maintain tissue negative Zeta potential. When nnEMF stalls this exhaust, deuterium pools in the upper GI tract, reversing fluid dynamics and causing dielectric collapse. The O-D kinetic isotope effect disrupts triplet oxygen spin-coherence, blocking tyrosine hydroxylase (melanin/dopamine synthesis) and prolyl 4-hydroxylase (collagen cross-linking), leading to diaphragmatic weakening and hiatal herniation. Helicobacter pylori and anaerobic bacteria proliferate in the stagnant, high-deuterium, low-voltage pool but do not cause the underlying issue. Mastic gum treats GERD by stimulating D+ vagal exhaust.",
-      "mechanism": "Deuterium accumulation in upper GI tract due to stalled vagal exhaust → dielectric collapse (κ≈160→80) → O-D kinetic isotope effect disrupts triplet oxygen spin-coherence → loss of tyrosine hydroxylase and prolyl 4-hydroxylase cofactor activity → melanin/dopamine synthesis failure and collagen cross-linking failure → diaphragmatic fiber-type shift and structural collapse → hiatal hernia and GERD; anaerobic bacteria opportunistically proliferate in low-voltage, high-deuterium environment",
-      "reader_change": "Understand hiatal hernia, GERD, and hypothyroidism as interconnected isotopic and biophysical failures rather than isolated hormonal or mechanical problems; recognize that deuterium-depleted water and vagal stimulation (including mastic gum) address root cause rather than bacterial or hormonal symptoms",
-      "source_support": "Multi-paragraph mechanistic explanation with named enzymes, isotope effects, tissue voltage parameters, and bacterial ecology",
+      "title": "Deuterium-driven GI tract collapse: hiatal hernia, GERD, and thyroid dysfunction as isotopic purification failure",
+      "why_interesting": "Comprehensive biophysical mechanism linking deuterium accumulation, vagal exhaust stall, oxygen-deuterium kinetic isotope effect, and downstream tissue failure in upper GI pathology. Connects quantum spin chemistry to clinical gastroenterology.",
+      "source_claim": "Hypothyroidism, hiatal hernias, and GERD are not separate isolated clinical conditions but concurrent macro-anatomical failures of a heavily deuterated water table and a stalled vagal exhaust pipe. The vagus nerve drives exocrine pancreas to secrete 2 liters of sodium bicarbonate daily as a primary tailpipe to capture dietary deuterium. When blue LED/nnEMF exposure stalls this exhaust, deuterium pools in gastric mucosa and LES, causing dielectric collapse. The O-D kinetic isotope effect disrupts triplet oxygen state, jamming tyrosine hydroxylase (melanin/dopamine synthesis) and prolyl 4-hydroxylase (collagen cross-linking), weakening the diaphragm and causing hiatal herniation.",
+      "mechanism": "Deuterated water table → stalled vagal exhaust (loss of morning CAR/infrared pulse) → deuterium accumulation in upper GI tissue → dielectric collapse (κ≈160→80) → O-D kinetic isotope effect → loss of triplet oxygen state → enzyme jam (tyrosine hydroxylase, prolyl 4-hydroxylase) → melanin/dopamine/collagen failure → diaphragmatic weakness → hiatal hernia. Helicobacter pylori proliferates in the resulting anaerobic, high-deuterium pool but does not cause the primary pathology.",
+      "reader_change": "Understand hiatal hernia and GERD not as isolated hormonal or mechanical failures but as consequences of deuterium-driven tissue voltage collapse. Recognize that mastic gum treats GERD by stimulating vagal exhaust (D+ clearance), not by direct antimicrobial action. Assess morning solar infrared exposure and nnEMF burden as primary drivers of vagal function and GI tract dielectric integrity.",
+      "source_support": "Multi-paragraph tweet with numbered mechanism, quantum chemistry framework, and tissue-level pathophysiology. Kruse explicitly rejects biochemistry-only models and maps the cascade from deuteration through enzyme inhibition to clinical presentation.",
       "support_quotes": [
         "Hypothyroidism, hiatal hernias, and GERD are not separate isolated clinical conditions or simple hormonal imbalances. They are the concurrent macro-anatomical failures of a heavily deuterated water table and a stalled vagal exhaust pipe.",
-        "Under healthy diurnal solar governance, governed by the morning Cortisol Awakening Response (CAR) and natural morning solar infrared (the 0.66 eV pulse), the vagus nerve drives the exocrine pancreas to secrete up to 2 liters of sodium bicarbonate (HCO−3) fluid daily. This massive downward fluid vortex is the body's primary tailpipe, designed to capture dietary Deuterium (D+) mass and safely flush it down to keep the tissue's negative Zeta potential intact.",
-        "The O-D bond disrupts this spin-coherence, forcing oxygen into a diamagnetic, uncoordinated singlet state or stalling its reaction velocity entirely. Biochemistry completely misses this effect.",
+        "The Vagal Exhaust Manifold: Under healthy diurnal solar governance, governed by the morning Cortisol Awakening Response (CAR) and natural morning solar infrared (the 0.66 eV pulse), the vagus nerve drives the exocrine pancreas to secrete up to 2 liters of sodium bicarbonate (HCO−3) fluid daily. This massive downward fluid vortex is the body's primary tailpipe, designed to capture dietary Deuterium (D+) mass and safely flush it down to keep the tissue's negative Zeta potential intact.",
+        "Because Deuterium doubles the reduced mass (μ) of the bond, the O-D bond is exponentially stiffer and harder to cleave than a normal oxygen-protium (1H) bond. This high-mass quantum trap completely alters the electronic spin alignment of oxygen within the local tissue: The Loss of Triplet Oxygen (3^O2).",
         "This is why mastic gum treates GERD well without antibiotics. It stimulates D+ vagal exhaust."
       ],
       "source_citations": [],
       "blog_refs": [],
       "translation_terms": [
-        "deuterium (D+)",
-        "vagal exhaust",
+        "Kinetic Isotope Effect (KIE)",
+        "deuterium (D+), protium (1H)",
+        "Cortisol Awakening Response (CAR)",
         "sodium bicarbonate (HCO−3)",
         "Zeta potential",
         "dielectric constant (κ)",
-        "Kinetic Isotope Effect (KIE)",
-        "Oxygen-Deuterium (O-D) bond",
-        "triplet oxygen (3O2)",
-        "singlet oxygen",
+        "Lower Esophageal Sphincter (LES)",
+        "triplet oxygen (3^O2), singlet oxygen",
         "tyrosine hydroxylase",
         "prolyl 4-hydroxylase",
-        "melanin",
-        "dopamine",
-        "collagen cross-linking",
         "Helicobacter pylori",
-        "Lower Esophageal Sphincter (LES)",
-        "Cortisol Awakening Response (CAR)",
-        "infrared (0.66 eV pulse)",
-        "nnEMF",
-        "mastic gum"
+        "Exclusion Zone (EZ) water",
+        "Landauer's Principle",
+        "nnEMF (non-native electromagnetic field)"
       ],
-      "scientific_translation_plan": "Explain deuterium as heavy hydrogen isotope and its role in water structure; clarify Zeta potential as electrical charge on tissue surfaces; define Kinetic Isotope Effect as how heavier isotopes alter bond strength and reaction rates; distinguish triplet vs singlet oxygen states and their biological roles; explain tyrosine hydroxylase and prolyl 4-hydroxylase as rate-limiting enzymes in melanin/dopamine and collagen synthesis; connect vagal nerve function to digestive secretion and isotope clearance; explain how nnEMF disrupts circadian signaling and vagal tone",
-      "risk_notes": "This is a long, mechanistically dense Kruse post with novel claims about isotope effects on enzyme function and tissue voltage. The writer should present it as Kruse's mechanistic model, not as established fact. Key terms like 'vagal exhaust,' 'D+ ions,' and the specific O-D bond disruption of triplet oxygen are Kruse-specific framings. The mastic gum claim is sourced to this post only."
+      "scientific_translation_plan": "Explain deuterium as heavy hydrogen isotope and its mass effect on bond strength and enzyme kinetics. Define triplet vs. singlet oxygen states and their role in enzyme cofactor function. Clarify the vagal exhaust concept as a deuterium clearance mechanism driven by solar-entrained cortisol and infrared light. Explain dielectric collapse as loss of water ordering and its effect on tissue voltage. Translate Kinetic Isotope Effect as the slowing of chemical reactions when heavy isotopes replace light ones. Explain how nnEMF disrupts the solar-driven circadian signal that normally gates this system.",
+      "risk_notes": "This is a long, mechanistically dense tweet. The writer should verify the 2-liter sodium bicarbonate secretion rate and the specific infrared wavelength (0.66 eV) claim. The mechanism is source-bound but highly speculative; present it as Kruse's biophysical model, not established pathophysiology. The mastic gum claim needs careful framing—the source says it 'stimulates D+ vagal exhaust' but does not cite evidence for this mechanism."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059421042070946229",
+      "source_url": "https://twitter.com/DrJackKruse/status/2059421042070946229",
+      "source_authority": "jack",
+      "value_type": "mechanism",
+      "priority": 5,
+      "title": "Atherosclerosis as deuterated seed oil-driven dielectric collapse and endothelial short-circuit",
+      "why_interesting": "Reframes atherosclerosis pathogenesis from oxidized LDL inflammation to solid-state physics: deuterated industrial seed oils integrate into endothelial membranes, drop local dielectric constant, shatter vascular wall dipole potential, and trigger emergency 'safe-mode' shutdown. Connects agricultural deuterium sinks to vascular disease mechanism.",
+      "source_claim": "Atherosclerosis is a structural short-circuit triggered when highly deuterated industrial seed oils integrate into the endothelial cell membrane, dropping the localized dielectric constant (κ≈160→80) and shattering the vertical Z-axis dipole potential of the vascular wall. Industrial seed oils are not merely chemically unstable polyunsaturated fats; they are highly concentrated, transgenerational deuterium sinks built under mass-production agricultural grids lacking natural solar-thermal filtration. When incorporated into endothelial membranes, they alter local permittivity, causing the ordered Exclusion Zone water lattice (κ=160) to undergo dielectric collapse (κ≈160→80). This refractive inversion causes internal biophotons to leak as chaotic thermal noise, and the fluid turns into high-resistance, stagnant sludge caked in heavy water (D2O). The downstream immune cascade (dendritic cells, Th1/Th17, foam cells) is merely the 'smoke' of this underlying sub-molecular power supply failure.",
+      "mechanism": "Deuterated seed oil (linoleic acid-rich soybean, corn, canola) → incorporation into endothelial cell membrane → local permittivity increase → Exclusion Zone water lattice collapse (κ≈160→80) → loss of optical refraction and total internal reflection → biophoton leakage → high-resistance, stagnant sludge formation → endothelial emergency shutdown. Oxidized LDL and immune response are downstream consequences, not primary drivers.",
+      "reader_change": "Understand atherosclerosis not as a lipid-driven inflammatory disease but as a biophysical short-circuit caused by deuterated seed oils disrupting endothelial water structure and electrical potential. Recognize industrial seed oils as deuterium sinks, not merely oxidation-prone fats. Assess seed oil consumption and agricultural deuterium burden as primary risk factors, independent of LDL oxidation status.",
+      "source_support": "Long quote tweet with detailed mechanism spanning solid-state physics, agricultural sourcing, and tissue-level pathophysiology. Kruse explicitly rejects centralized cardiology's oxidized LDL model and maps the cascade from deuteration through dielectric collapse to clinical atherosclerosis.",
+      "support_quotes": [
+        "Atherosclerosis is a structural short-circuit triggered when highly deuterated, chemically unstable industrial seed oils integrate into the endothelial cell membrane, dropping the localized dielectric constant (𝜅≈160→80) and shattering the vertical Z-axis dipole potential of the vascular wall.",
+        "Industrial seed oils (such as linoleic acid-rich soybean, corn, and canola oils) are not merely chemically unstable polyunsaturated fats prone to oxidation; they are highly concentrated, transgenerational deuterium sinks. Built under mass-production agricultural grids lacking natural solar-thermal filtration of photosynthesis, these fats are packed with extra neutrons that cause arterial problems because they deuterate the water table of tissues.",
+        "The highly ordered Exclusion Zone (EZ) water lattice (𝜅=160) wrapping the vascular lining undergoes an immediate dielectric collapse (𝜅≈160→80). This alters the tooth-enamel-like optical refraction properties of the ectodermal-endothelial boundary, causing internal biophotons to leak out as chaotic thermal noise.",
+        "Centralized science documents the downstream \"smoke\", dendritic cells processing oxLDL, Th1, and Th17 cells secreting inflammatory cytokines, and monocyte-derived macrophages forming foam cells, completely ignorant of the fact that the underlying Kinetic Isotope Effect (KIE) of heavy Deuterium (D+) has jammed the sub-molecular power supply, forcing the vascular endothelium to execute an emergency satellite \"safe-mode\" shutdown."
+      ],
+      "source_citations": [],
+      "blog_refs": [],
+      "translation_terms": [
+        "oxidized LDL (oxLDL)",
+        "Kinetic Isotope Effect (KIE)",
+        "deuterium (D+)",
+        "dielectric constant (κ)",
+        "Exclusion Zone (EZ) water",
+        "permittivity (ε)",
+        "endothelial cell (EC)",
+        "dendritic cells",
+        "Th1, Th17 cells",
+        "foam cells",
+        "biophotons",
+        "linoleic acid",
+        "polyunsaturated fats (PUFA)",
+        "Landauer's Principle",
+        "Z-axis dipole potential"
+      ],
+      "scientific_translation_plan": "Explain deuterium as heavy hydrogen and its role in agricultural systems. Define dielectric constant and Exclusion Zone water as ordered hydrogen-bonded lattice. Clarify how deuteration increases local mass and disrupts water structure. Explain biophoton leakage as loss of coherent light propagation in tissue. Translate the mechanism from solid-state physics (permittivity, refraction, total internal reflection) to vascular biology. Distinguish between Kruse's biophysical model and the conventional oxidized LDL inflammation model.",
+      "risk_notes": "This is a highly speculative mechanism not supported by conventional vascular biology. Present as Kruse's biophysical thesis. The claim that seed oils are 'transgenerational deuterium sinks' built under mass-production grids needs careful framing—it is a novel claim without cited evidence. The writer should note that this contradicts the standard atherosclerosis model but represents Kruse's alternative framework."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059404037431136503",
+      "source_url": "https://twitter.com/DrJackKruse/status/2059404037431136503",
+      "source_authority": "jack",
+      "value_type": "mechanism",
+      "priority": 5,
+      "title": "Cancer mitochondrial hyperpolarization as compensatory overdrive in deuterium-poisoned semiconductor; lattice lock framework reinterprets Warburg shift",
+      "why_interesting": "Kruse maps a narrative review of cancer mitochondrial bioenergetics onto his deuterium-lattice-lock model. Cancer mitochondria are not broken but hyperpolarized and metabolically flexible—a compensatory response to deuterated water lattice collapse. Explains why cancer cells maintain OxPhos alongside glycolysis, why they accumulate lipophilic cations (Nernst equation), and why IMM lipid remodeling occurs. Connects sub-molecular biophysics to Warburg's observation and modern cancer metabolism.",
+      "source_claim": "Cancer mitochondria are reprogrammed, hyperpolarized (ΔΨm often −210 to −220 mV vs. normal −150 to −180 mV), metabolically flexible (glycolysis + robust OxPhos), and actively driving tumor progression. This hyperpolarization is not a feature but a compensatory overdrive in a failing semiconductor caused by deuterium-silt accumulation and dielectric collapse. When deuterium accumulates, the intracellular water dielectric drops, the band gap widens, and proton flow through the ETC becomes sluggish due to the kinetic isotope effect. The mitochondrion responds by pumping harder, elevating ΔΨm to maintain any usable proton gradient. IMM lipid remodeling (cholesterol ↑, cardiolipin changes) is an emergency scaffolding attempt to keep the membrane from collapsing. Metabolic flexibility (Warburg + OxPhos) reflects survival in a deuterated matrix: glycolysis is used because glucose can be 'scrubbed' locally via the G3P shuttle, while mitochondria remain online for biosynthesis, Ca²⁺ handling, ROS signaling, and immune evasion. The Nernst-driven cation accumulation is an exploitable symptom of this desperate biophysical compensation.",
+      "mechanism": "Deuterium silt accumulation → intracellular water lattice collapse (dielectric drop) → band gap widening → sluggish proton flow through ETC (kinetic isotope effect) → mitochondrial compensatory hyperpolarization (ΔΨm increase to −210 to −220 mV) → IMM lipid remodeling (cholesterol ↑, cardiolipin changes) → metabolic flexibility (glycolysis + OxPhos) → Nernst-driven lipophilic cation accumulation. Warburg's glycolytic preference is a symptom of this biophysical failure, not a primary cause of cancer.",
+      "reader_change": "Understand cancer mitochondrial hyperpolarization not as a feature but as a compensatory response to deuterated water lattice collapse. Recognize that cancer cells maintain functional OxPhos because they are fighting against a poisoned water table, not because they have 'broken' mitochondria. Assess deuterium burden and water lattice integrity as upstream drivers of cancer cell bioenergetics. Recognize that lipophilic cation accumulation (exploited by mitochondria-targeted drugs) is a symptom of this compensation, not the primary pathology.",
+      "source_support": "Long quote tweet mapping a published narrative review onto Kruse's lattice-lock framework. Kruse explicitly rejects the 'broken mitochondria' model and reinterprets cancer metabolism through sub-molecular biophysics.",
+      "support_quotes": [
+        "Cancer mitochondria are not irreversibly damaged as Seyfried biochemists sell the public. They are reprogrammed, hyperpolarized (ΔΨm often −210 to −220 mV vs. normal −150 to −180 mV), metabolically flexible (glycolysis + robust OxPhos), and actively driving tumor progression.",
+        "Hyperpolarization is not a \"feature\"; it is a compensatory overdrive in a failing semiconductor. When deuterium silt accumulates (Phase 2 → 3), the dielectric drops, band gap widens, and proton flow through the ETC becomes sluggish because of the massive kinetic isotope effect (KIE) on deuterium. The mitochondrion responds by pumping harder, elevating ΔΨm to maintain any usable proton gradient at all.",
+        "When the water lattice fails, full OxPhos physics become inefficient, so the cell falls back to glycolysis (glucose is the only substrate that can still be \"scrubbed\" locally via the G3P shuttle + TIM's deuterium KIE). Mitochondria remain online for biosynthesis, Ca²⁺ handling, ROS signaling, and immune-evasion functions because the cell has not given up, it is running the atavistic Precambrian script only as far as necessary.",
+        "The Nernst-driven cation accumulation the review celebrates is just an exploitable symptom of this desperate biophysical compensation. But the Nernst equation does not cover the biophysics of the cell."
+      ],
+      "source_citations": [
+        {
+          "paper": "Narrative review in Clinical Bioenergetics (referenced in quoted tweet by @dantawfik)",
+          "claim": "Cancer cell mitochondria are hyperpolarized, metabolically flexible, and maintain functional oxidative phosphorylation alongside elevated glycolysis; mitochondrial transmembrane potential (ΔΨm) is frequently elevated in cancer cells; lipophilic cations accumulate 100- to 1000-fold in cancer mitochondria via the Nernst equation; IMM lipid composition is altered (increased cholesterol, altered cardiolipin); mtDNA depletion diminishes tumorigenicity."
+        }
+      ],
+      "blog_refs": [],
+      "translation_terms": [
+        "mitochondrial transmembrane potential (ΔΨm)",
+        "oxidative phosphorylation (OxPhos)",
+        "glycolysis",
+        "Warburg effect",
+        "inner mitochondrial membrane (IMM)",
+        "cardiolipin",
+        "electron transport chain (ETC)",
+        "Kinetic Isotope Effect (KIE)",
+        "deuterium (D+)",
+        "Nernst equation",
+        "lipophilic cations",
+        "triphenylphosphonium",
+        "G3P shuttle",
+        "TIM (translocase of inner membrane)",
+        "mtDNA (mitochondrial DNA)",
+        "ROS (reactive oxygen species)",
+        "dielectric constant",
+        "band gap",
+        "lattice lock"
+      ],
+      "scientific_translation_plan": "Explain mitochondrial transmembrane potential as the electrical gradient driving ATP synthesis. Define the Nernst equation and how it predicts cation accumulation in high-potential compartments. Clarify the Warburg effect as preferential glycolysis in cancer cells. Explain the kinetic isotope effect as the slowing of reactions when heavy isotopes replace light ones. Translate 'lattice lock' as Kruse's model of water structure collapse due to deuterium accumulation. Distinguish between the conventional 'broken mitochondria' model and Kruse's 'compensatory hyperpolarization' model. Explain how glycolysis and OxPhos can coexist in cancer cells under this framework.",
+      "risk_notes": "This is a highly speculative reinterpretation of published cancer metabolism research. The narrative review cited is real, but Kruse's mapping onto deuterium-lattice-lock is his original thesis, not the review's conclusion. Present clearly as Kruse's biophysical model applied to the review's findings. The claim that the Nernst equation 'does not cover the biophysics of the cell' is a strong assertion; the writer should note that this represents Kruse's critique of conventional bioenergetics."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059291435719934411",
+      "source_url": "https://twitter.com/DrJackKruse/status/2059291435719934411",
+      "source_authority": "jack",
+      "value_type": "mechanism",
+      "priority": 4,
+      "title": "Exercise-induced sudden death in athletes: F0-F1 ATPase failure under deuterated water table",
+      "why_interesting": "Direct mechanism claim: when water table is deuterated, the F0-F1 ATPase (ATP synthase) must spin against 'concrete' (high viscosity/resistance), causing failure and sudden cardiac death. Explains recent cluster of young athlete deaths (bodybuilder, marathon runners, ultramarathon competitor, Hyrox competitor) as biophysical failure, not conventional cardiac pathology.",
+      "source_claim": "When your water table is deuterated exercise can and does kill you. The F0-F1 ATPase has to spin against concrete which causes failure. Biophysics > pharmacy > food.",
+      "mechanism": "Deuterated water table → increased viscosity and resistance in intracellular fluid → F0-F1 ATPase (ATP synthase) mechanical failure under exercise-induced demand → mitochondrial energy crisis → sudden cardiac death. Exercise amplifies the biophysical stress on the ATP synthase rotor.",
+      "reader_change": "Understand sudden cardiac death in young athletes not as primary cardiomyopathy or arrhythmia but as ATP synthase mechanical failure under deuterated water conditions. Assess water table deuterium burden as a risk factor for exercise-induced sudden death. Consider that athletes in high-deuterium regions or with high-deuterium water intake face amplified risk during intense exercise.",
+      "source_support": "Short, direct mechanism statement with quoted case cluster (bodybuilder Gabriel Ganley, marathon runner Yebrgual Melese, 15-year-old Rosalie, 40-year-old ultramarathon competitor, 28-year-old Hyrox competitor, 53-year-old 10K runner). Kruse explicitly links the cluster to deuterated water table and ATP synthase mechanics.",
+      "support_quotes": [
+        "When your water table is deuterated exercise can and does kill you. The F0-F1 ATPase has to spin against concrete which causes failure."
+      ],
+      "source_citations": [],
+      "blog_refs": [],
+      "translation_terms": [
+        "F0-F1 ATPase (ATP synthase)",
+        "deuterium",
+        "water table",
+        "hypertrophic cardiomyopathy",
+        "sudden cardiac death",
+        "mitochondrial energy crisis"
+      ],
+      "scientific_translation_plan": "Explain F0-F1 ATPase as the rotary enzyme that synthesizes ATP using the proton gradient. Clarify how deuterium increases water viscosity and resistance. Translate 'spinning against concrete' as mechanical resistance to the ATPase rotor. Explain how exercise amplifies ATP demand and thus the mechanical stress on the synthase. Note that the cases cited show young, apparently healthy athletes with sudden cardiac events.",
+      "risk_notes": "This is a novel mechanism claim not supported by conventional cardiology. The cases are real (Gabriel Ganley, Yebrgual Melese, etc.), but the attribution to deuterated water table is Kruse's interpretation. Present as Kruse's biophysical hypothesis for the cluster. The writer should note that conventional autopsy findings (hypertrophic cardiomyopathy, etc.) are documented, but Kruse's explanation of the underlying cause is speculative."
     },
     {
       "source_type": "forum",
@@ -54,68 +168,33 @@
       "source_authority": "member",
       "value_type": "mechanism",
       "priority": 4,
-      "title": "Florida citrus greening (HLB) as deuterium-driven water table dielectric collapse, not bacterial pathogenesis",
-      "why_interesting": "Applies deuterium/dielectric collapse model to agricultural disease; explains bacterial opportunism in high-deuterium, low-voltage environment; connects sandy aquifer geology to plant tissue voltage failure; geo-specific signal for East Coast water systems",
-      "source_claim": "Citrus Greening (Huanglongbing/HLB) in Florida is not caused by the bacterium Candidatus Liberibacter asiaticus but by deuterium accumulation in the water table that collapses the plant's dielectric baseline. The bacteria are opportunists thriving in stalled, uncoupled fluid vortex where heavy deuterium has corrupted tissue electrical potential. Under normal conditions, water moving through Florida's deep sand aquifers forms a highly ordered Exclusion Zone (EZ) lattice with high dielectric constant (k=160). Deuterium accumulation reduces this to k≈80, reversing fluid dynamics and creating anaerobic, high-mass environment where the bacterium proliferates.",
-      "mechanism": "Deuterium accumulation in Florida aquifer → dielectric collapse (k=160→80) → loss of Exclusion Zone (EZ) water structure → stalled fluid vortex in plant sap → anaerobic, high-deuterium tissue environment → Candidatus Liberibacter asiaticus opportunistic proliferation",
-      "reader_change": "Understand citrus greening as a water-table isotopic crisis affecting plant tissue voltage, not a bacterial invasion; recognize that deuterium-depleted water or aquifer remediation may address root cause; recognize Florida's sandy, porous aquifer as explicitly vulnerable to deuterium accumulation",
-      "source_support": "Mechanistic explanation with named bacterium, dielectric constants, Exclusion Zone concept, and aquifer geology",
+      "title": "Florida citrus greening (HLB) as deuterium-driven water table dielectric collapse, not bacterial pathogen",
+      "why_interesting": "Member (DavidL) applies Kruse's deuterium-lattice-lock framework to agricultural disease. Citrus greening (Huanglongbing) is reframed from bacterial infection to biophysical failure: deuterated water table → dielectric collapse → stalled fluid vortex → bacterial opportunism. Explains why centralized agriculture blames the bacterium while missing the foundational water table collapse.",
+      "source_claim": "The bacteria (Candidatus Liberibacter asiaticus) is merely an opportunist thriving inside a stalled, uncoupled fluid vortex where heavy Deuterium has completely corrupted the water table's dielectric baseline. Under normal conditions, water moving through Florida's deep sand aquifers forms a highly ordered Exclusion Zone (EZ) lattice (κ=160). This high dielectric constant allows the plant's internal sap to maintain strong charge separation, keeping the liquid moving in a low-friction, high-velocity helical fluid. When deuterium accumulates, the permittivity collapses (κ≈160→80), the fluid dynamics reverse, and heavy D+ ions pool and back-load into the plant tissue, establishing a stagnant, fractionated, anaerobic pool where the bacterium can proliferate.",
+      "mechanism": "Deuterated water table (Florida sandy aquifer) → Exclusion Zone water lattice collapse (κ≈160→80) → permittivity drop → loss of charge separation in plant sap → stalled fluid vortex → anaerobic, high-deuterium tissue pool → Candidatus Liberibacter asiaticus proliferation. Bacteria are opportunists, not primary cause.",
+      "reader_change": "Understand citrus greening not as a bacterial disease but as a biophysical water table failure. Recognize that deuterium accumulation in Florida's aquifer system is the foundational problem. Assess water table deuterium burden and dielectric integrity as primary drivers of plant disease susceptibility. Note that bacterial treatment alone will fail without addressing the underlying water lattice collapse.",
+      "source_support": "Forum post applying Kruse's framework to a real agricultural crisis. DavidL explicitly rejects the centralized 'bacteria as villain' model and maps the cascade from deuteration through dielectric collapse to disease.",
       "support_quotes": [
-        "Centralized agricultural and biological science looks at the devastation of the Florida citrus industry and lays 100% of the blame on a bacterium (Candidatus Liberibacter asiaticus) causing the plant disease known as Citrus Greening (Huanglongbing / HLB). They treat the bacteria as an isolated, invading predator. They are completely blind to the foundational laws of sub-molecular thermodynamics, fluid dynamics, and mass: the bacteria is merely an opportunist thriving inside a stalled, uncoupled fluid vortex where heavy Deuterium has completely corrupted the water table's dielectric baseline.",
-        "Under normal, healthy conditions, the water moving through the deep sand aquifers of Florida forms a highly ordered, structured Exclusion Zone (EZ) lattice (k=160). This high dielectric constant allows the plant's internal sap to maintain a strong charge separation, keeping the liquid moving in a low-friction, high-velocity helical flui…"
+        "The bacteria is merely an opportunist thriving inside a stalled, uncoupled fluid vortex where heavy Deuterium has completely corrupted the water table's dielectric baseline.",
+        "Under normal, healthy conditions, the water moving through the deep sand aquifers of Florida forms a highly ordered, structured Exclusion Zone (EZ) lattice (k=160). This high dielectric constant allows the plant's internal sap to maintain a strong charge separation, keeping the liquid moving in a low-friction, high-velocity helical fluid.",
+        "When deuterium accumulates, the permittivity collapses (κ≈160→80), the fluid dynamics reverse, and heavy D+ ions pool and back-load into the plant tissue, establishing a stagnant, fractionated, anaerobic pool where the bacterium can proliferate."
       ],
       "source_citations": [],
       "blog_refs": [],
       "translation_terms": [
         "Candidatus Liberibacter asiaticus",
-        "Citrus Greening (Huanglongbing/HLB)",
-        "deuterium",
-        "dielectric constant (k)",
-        "Exclusion Zone (EZ)",
-        "aquifer",
+        "Citrus Greening (Huanglongbing / HLB)",
+        "deuterium (D+)",
+        "water table",
+        "Exclusion Zone (EZ) water",
+        "dielectric constant (κ)",
         "permittivity",
-        "fluid dynamics",
+        "aquifer",
+        "charge separation",
         "anaerobic"
       ],
-      "scientific_translation_plan": "Explain Exclusion Zone (EZ) water as structured water layer with high charge separation; clarify dielectric constant as measure of material's ability to store electrical charge; connect aquifer geology (sandy, porous) to water movement and isotope concentration; explain how bacterial opportunism depends on tissue voltage and oxygen availability; distinguish between bacterial causation and bacterial opportunism in disease ecology",
-      "risk_notes": "This is a member post (DavidL) applying Kruse's deuterium/dielectric model to agricultural pathology. The post is mechanistically detailed but not authored by Jack. Present as a member's application of Kruse's framework to Florida citrus disease, not as Kruse's direct claim."
-    },
-    {
-      "source_type": "forum",
-      "source_id": "https://forum.jackkruse.com/threads/long-hair-vs-short-hair.32404/",
-      "source_url": "https://forum.jackkruse.com/threads/long-hair-vs-short-hair.32404/",
-      "source_authority": "member",
-      "value_type": "mechanism",
-      "priority": 4,
-      "title": "40Hz gamma frequency as resonant key to deuterium depletion in brainstem optical signaling; Class II malocclusion as deuterium-driven KIE problem",
-      "why_interesting": "Proposes specific frequency (40Hz) as biophysical intervention for malocclusion without surgery; connects gamma frequency to thalamocortical binding and deuterium clearance; explains piezoelectric mechanism for bone remodeling; offers alternative to orthodontic appliances",
-      "source_claim": "Class II malocclusion should be treated with 40Hz (gamma frequency) resonance rather than mechanical appliances or surgery. 40Hz is the frequency of thalamocortical binding and acts as a vibrational centrifuge to overcome viscous drag of deuterium (D+) in the brainstem's optical highway. This frequency vibrates tissue at the same rate the brain uses to integrate data, clearing deuterium and allowing the MITF-AMPAR loop to resume high-voltage signaling, which is the prerequisite for bone remodeling. Piezoelectric effect of 40Hz vibration restores Lagrangian symmetry of the midface stalled by the Kinetic Isotope Effect (KIE).",
-      "mechanism": "40Hz gamma frequency vibration → overcomes deuterium viscous drag in brainstem optical pathway → restores triplet oxygen spin-coherence → MITF-AMPAR loop high-voltage signaling → piezoelectric charge in bone matrix → Lagrangian symmetry restoration → midface remodeling without mechanical force",
-      "reader_change": "Consider 40Hz frequency stimulation as biophysical alternative to mechanical orthodontics for Class II malocclusion; understand malocclusion as deuterium-driven optical signaling failure in brainstem, not purely mechanical jaw problem; measure response to frequency intervention before pursuing surgical or appliance-based treatment",
-      "source_support": "Mechanistic explanation with named frequency, neurological pathways, enzyme systems, and physics principles",
-      "support_quotes": [
-        "If you have a Class 2 malocclusion and want to avoid the \"structural carpentry\" of surgery, you are essentially betting on physics over mechanics.",
-        "40Hz is the frequency of thalamocortical binding, the \"metronome\" of human consciousness. The Brainstem \"Shake\": In my model, 40Hz acts as a vibrational centrifuge. It provides the specific kinetic energy needed to overcome the viscous drag of deuterium (D+) in the brainstem's optical highway.",
-        "By vibrating the tissue at the same frequency the brain uses to \"integrate\" data, you are essentially \"cleaning the lenses\" of the thalamus. This allows the MITF-AMPAR loop to resume high-voltage signaling, which is the prerequisite for any bone remodeling."
-      ],
-      "source_citations": [],
-      "blog_refs": [],
-      "translation_terms": [
-        "Class II malocclusion",
-        "40Hz (gamma frequency)",
-        "thalamocortical binding",
-        "deuterium (D+)",
-        "brainstem optical highway",
-        "Kinetic Isotope Effect (KIE)",
-        "MITF-AMPAR loop",
-        "Lagrangian symmetry",
-        "piezoelectric effect",
-        "triplet oxygen",
-        "midface",
-        "palate expansion"
-      ],
-      "scientific_translation_plan": "Explain Class II malocclusion as skeletal jaw relationship; clarify 40Hz as gamma-band brain frequency associated with conscious perception; define thalamocortical binding as neural integration mechanism; explain Kinetic Isotope Effect as how deuterium alters bond strength and reaction rates; describe MITF-AMPAR as signaling pathway in bone cells; explain piezoelectric effect as electrical charge generation in bone under mechanical stress; connect brainstem optical signaling to facial development",
-      "risk_notes": "This is a member post (Jasmine Y) proposing a novel biophysical mechanism for malocclusion treatment. The 40Hz frequency claim and its specific application to deuterium clearance in the brainstem are not established in mainstream orthodontics. Present as a member's mechanistic hypothesis based on Kruse's framework, not as proven treatment."
+      "scientific_translation_plan": "Explain Exclusion Zone water as ordered, structured water with high dielectric constant. Clarify how deuterium increases water mass and disrupts this ordering. Translate permittivity collapse as loss of the water's ability to maintain electrical charge separation. Explain how this leads to stagnant fluid dynamics and anaerobic conditions. Note that the bacterium is real and documented as the pathogen, but the member is proposing an upstream biophysical cause.",
+      "risk_notes": "This is a speculative reinterpretation of a real agricultural disease. Candidatus Liberibacter asiaticus is the documented causal agent of citrus greening, but DavidL is proposing that deuterated water table is the foundational problem. Present as a member's application of Kruse's framework to agriculture, not as established plant pathology. The writer should note that this contradicts conventional plant disease models."
     }
   ],
   "unselected_items": [
@@ -123,181 +202,251 @@
       "source_type": "tweet",
       "source_id": "2059479615735836779",
       "reason_category": "chatter",
-      "reason": "Quote tweet about Bitcoin and vaccination status; no biological mechanism, protocol, research, or case signal"
+      "reason": "Quote tweet about Bitcoin and vaccines; no biological signal, mechanism, protocol, or case detail. Political/social commentary only."
     },
     {
       "source_type": "tweet",
       "source_id": "2059473826937700662",
       "reason_category": "chatter",
-      "reason": "One-line response 'How would I know?' to question about Robert Breedlove; no useful signal"
+      "reason": "One-line response 'How would I know?' to a question about Robert Breedlove. No signal."
     },
     {
       "source_type": "tweet",
       "source_id": "2059462763219497250",
       "reason_category": "baseline",
-      "reason": "Terse retweet of 'Sunlight' by AmmousMD; repeats known baseline without new mechanism, protocol, or research"
+      "reason": "Terse retweet of 'Sunlight' by @AmmousMD. Baseline topic with no new mechanism, protocol, or research."
     },
     {
       "source_type": "tweet",
-      "source_id": "2059434009558405492",
+      "source_id": "2059424315989283192",
+      "reason_category": "chatter",
+      "reason": "Quote tweet about vaccine credibility. No biological signal."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059414551389458824",
+      "reason_category": "chatter",
+      "reason": "Link-only quote tweet about fiber and Dave Feldman. No substantive Kruse commentary or signal."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059408128236556533",
+      "reason_category": "chatter",
+      "reason": "Quote tweet 'Another lattice lock death' about Jordan Clark's heart failure. Attributional claim without mechanism or case detail."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059406014135341261",
+      "reason_category": "unsupported",
+      "reason": "Quote tweet about Gabriel Ganley's death and deuterium. Kruse claims 'deuterium however, did' kill him, but provides no mechanism or evidence. Unsupported attribution."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059405469362319365",
+      "reason_category": "chatter",
+      "reason": "Political post 'Listen when DJT handler's speak.' No biological signal."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059404445356621951",
+      "reason_category": "chatter",
+      "reason": "Link-only quote tweet about Ozempic side effects (Piers Morgan). No Kruse commentary or signal."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059399400170868857",
+      "reason_category": "chatter",
+      "reason": "Long political/financial post about Bitcoin, Tether, Lutnick, and AIPAC. No biological signal. Promotional for BTC Prague event."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059394532723093709",
+      "reason_category": "podcast_deferred",
+      "reason": "Retweet promoting BTC Prague podcast with Kruse. Podcast-only item; deferred to sidecar for transcription."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059292662578937920",
+      "reason_category": "chatter",
+      "reason": "Retweet of Erwan Le Corre about paleo repackaging. No new signal."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059292603934261337",
+      "reason_category": "chatter",
+      "reason": "Quote tweet about AI and ES (Elon Schiff?). No biological signal."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059287810725622022",
+      "reason_category": "chatter",
+      "reason": "Reply tweet with profanity and dismissal of critics. No substantive signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/why-you-must-be-discerning-with-ai.32828/",
+      "reason_category": "baseline",
+      "reason": "Forum post about AI's effect on dopamine and reward systems. General warning about AI overuse; no new mechanism, protocol, or case detail beyond baseline dopamine/reward concepts."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/vagal-nerve-stimulation-tips.32826/",
       "reason_category": "thin",
-      "reason": "Introductory post 'See the tweet below. Now go read it, then go to number two.' with no substantive content; serves only as navigation to the longer reply"
+      "reason": "Forum post citing tVNS device specs (cymba concha innervation 100% vs. tragus 45%). Device specification only; no mechanism, protocol, or case application."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/jack-kruse-podcast-curriculum-youtube-edition-v1.23331/unread",
       "reason_category": "chatter",
-      "reason": "Social praise ('You're an absolute legend'); no biological signal"
+      "reason": "Social praise comment 'You're an absolute legend.' No signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/kathleen%E2%80%99s-optimal-journal.31612/",
-      "reason_category": "case",
-      "reason": "Member case journal entry describing eye symptoms, microclotting, and Bartonella; lacks concrete protocol, measurement result, or Jack response that would constitute actionable signal"
-    },
-    {
-      "source_type": "forum",
-      "source_id": "https://forum.jackkruse.com/threads/sleeping-outside.32840/",
-      "reason_category": "case",
-      "reason": "Member journal entry describing health problems and plan to sleep outside in remote locations; lacks concrete measurement, protocol detail, or result that would constitute new signal"
+      "reason_category": "unsupported",
+      "reason": "Forum journal entry documenting eye symptoms (floaters, distortion, flickering spot, blue sclera, microclotting). Member speculates about retinal photoreceptor loss and blood-retinal barrier leakage but provides no diagnostic confirmation or protocol. Pending measurement/diagnostic outcome."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/for-those-that-underestimate-ai.31954/unread",
-      "reason_category": "unclear",
-      "reason": "Thread title only; no content provided"
+      "reason_category": "chatter",
+      "reason": "Forum thread title only; no content provided."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/the-btc-thread-when-you-need-some-answers-love-advice-or-friendship-come-here.25436/unread",
       "reason_category": "chatter",
-      "reason": "Bitcoin ROI link; no biological signal"
+      "reason": "Forum post with Bitcoin ROI link. Financial/investment chatter; no biological signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/the-ancients-what-did-they-know.32835/",
-      "reason_category": "unclear",
-      "reason": "Thread title only; no content provided"
+      "reason_category": "chatter",
+      "reason": "Forum thread title only; no content provided."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/sumerian-tablets-and-the-saa.32839/",
       "reason_category": "chatter",
-      "reason": "Jack's brief social comment 'Not a surprise. Nice find. Nice first post too.'; no substantive biological signal"
-    },
-    {
-      "source_type": "forum",
-      "source_id": "https://forum.jackkruse.com/threads/why-you-must-be-discerning-with-ai.32828/",
-      "reason_category": "chatter",
-      "reason": "Member discussion of AI use and education; no biological mechanism, protocol, or research signal"
+      "reason": "Forum post 'Not a surprise. Nice find. Nice first post too.' Social comment only; no signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/tap-zap-block-blue-light-stop-pwm-flicker-on-mac-windows.32809/",
       "reason_category": "chatter",
-      "reason": "Product support question about software installation; no biological signal"
+      "reason": "Forum post about software installation issue. Product support question; no biological signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/davids-journal-finally-aligned.12031/unread",
       "reason_category": "chatter",
-      "reason": "Member comment about lab costs in Canada; no biological mechanism or protocol signal"
+      "reason": "Forum journal entry about lab costs in Canada. Logistical complaint; no biological signal or case detail."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/i-stay-away-from-nnemf.30545/unread",
-      "reason_category": "baseline",
-      "reason": "Member advice on locating nnEMF sources using standard methods; repeats known baseline without new mechanism or protocol"
+      "reason_category": "chatter",
+      "reason": "Forum post about nnEMF detection and shielding. Practical advice; no new mechanism or protocol."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/single-mitos-looking-to-meet-others-in-this-group.32734/",
       "reason_category": "chatter",
-      "reason": "Social suggestion to meet at sunrise; no biological signal"
-    },
-    {
-      "source_type": "forum",
-      "source_id": "https://forum.jackkruse.com/threads/life-in-the-gilded-cage.32838/",
-      "reason_category": "case",
-      "reason": "Member health history and family background; lacks concrete protocol, measurement, or actionable signal"
-    },
-    {
-      "source_type": "forum",
-      "source_id": "https://forum.jackkruse.com/threads/telluric-communications.32804/",
-      "reason_category": "chatter",
-      "reason": "Jack's brief social comment 'Thank you! Great to meet you. This is where we get the next massive upgrade in skills, and fortunately, that never ends'; no substantive biological signal"
+      "reason": "Forum post 'Go to atami beach at sunrise. You will find mitos.' Social/dating advice; no biological signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/making-ddw.32818/",
       "reason_category": "thin",
-      "reason": "Member post providing mathematical formula for converting δ²H to deuterium ppm; technical but lacks context, protocol application, or measurement interpretation"
+      "reason": "Forum post with formula for converting δ²H to deuterium concentration in ppm. Technical calculation only; no mechanism, protocol, or case application."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/why-the-warburg-shift-happens-in-cancer.32820/",
-      "reason_category": "unanswered_question",
-      "reason": "Member question asking Jack whether blue light protein folding and prion formation are connected; no answer or concrete mechanism provided in source"
+      "reason_category": "unsupported",
+      "reason": "Forum post asking whether Kruse's thesis on blue light and CCO damage explains prion formation and propagation. Speculative question without answer or case detail. Unanswered question."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/loris-optimal-journal-story-time.32776/",
-      "reason_category": "baseline",
-      "reason": "Member comment about someone's home gym setup and circadian practices; repeats known baseline (avoiding blue light, opening windows) without new signal"
+      "reason_category": "chatter",
+      "reason": "Forum journal entry about a friend's gym setup and circadian practices. Anecdotal observation; no mechanism or case detail."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/blood-glucose-and-insulin-rise-because-of-deuterium.32471/",
-      "reason_category": "unanswered_question",
-      "reason": "Member asking for links to 'The Moody Method' and 'Back Door to Glycogen'; no answer or concrete protocol provided in source"
+      "reason_category": "unsupported",
+      "reason": "Forum post asking for links to 'The moody method' and 'Back door to glycogen.' Unanswered resource request; no signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/mdrn-life-deuterium-depleted-water-scam-warning.31710/unread",
-      "reason_category": "thin",
-      "reason": "Member comment 'I have the test but haven't done it yet. I will be testing LiteWater brand.'; pending measurement with no result or interpretation"
+      "reason_category": "chatter",
+      "reason": "Forum post 'I have the test but haven't done it yet. I will be testing LiteWater brand.' Pending measurement; no result or interpretation."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/midface-malocclusions-are-d-bombs-at-meckels-and-the-cavernous-sinus.32712/",
-      "reason_category": "unanswered_question",
-      "reason": "Member asking Jack for DDW protocol and baseline measurement recommendations for a child post-palate expansion; no answer provided in source"
+      "reason_category": "unsupported",
+      "reason": "Forum post asking for DDW protocol recommendation for a child post-palate expansion. Unanswered question; no protocol or case detail provided."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/tool-and-metallica-tracks-for-deuterium-depletion.32760/",
       "reason_category": "thin",
-      "reason": "Member post linking to music playlist with claim that deep bass triggers piezoelectric charge and deuterium sorting; lacks mechanism detail, measurement, or evidence"
+      "reason": "Forum post linking to a music playlist for 'deuterium depletion' via piezoelectric charge and EZ water restructuring. Speculative mechanism without evidence; no protocol or case application."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/when-you-begin-with-a-silver-gold-or-platinum-membership.19027/unread",
-      "reason_category": "baseline",
-      "reason": "Member comment about doing sunrises and wearing blue blockers; repeats known baseline without new signal"
+      "reason_category": "chatter",
+      "reason": "Forum post 'I have been doing sunrises since August and having uvex blue blocking glasses and covering my skin at knight.' Baseline practices; no new signal."
+    },
+    {
+      "source_type": "tweet",
+      "reason_category": "model_omitted",
+      "reason": "Curator omitted this source from the audit lists; keeping it audit-only rather than selecting it.",
+      "source_id": "2059434009558405492",
+      "title": "1. See the tweet below. Now go read it, then go to number two."
     },
     {
       "source_type": "forum",
-      "source_id": "https://forum.jackkruse.com/threads/new-gold-member-question-for-dr-kruse.32554/",
-      "reason_category": "unanswered_question",
-      "reason": "Member asking Jack about TENS unit for vagal stimulation and pad placement; no answer provided in source"
+      "reason_category": "model_omitted",
+      "reason": "Curator omitted this source from the audit lists; keeping it audit-only rather than selecting it.",
+      "source_id": "https://forum.jackkruse.com/threads/telluric-communications.32804/",
+      "source_url": "https://forum.jackkruse.com/threads/telluric-communications.32804/",
+      "source_authority": "member",
+      "title": "Telluric communications"
     },
     {
       "source_type": "forum",
-      "source_id": "https://forum.jackkruse.com/threads/how-long-does-it-take-for-vitamin-d-levels-to-go-up-naturally.28177/unread",
-      "reason_category": "unanswered_question",
-      "reason": "Member asking about vitamin D raise rate and Van Allen belt radiation; no concrete answer or measurement protocol provided in source"
+      "source_id": "https://forum.jackkruse.com/threads/long-hair-vs-short-hair.32404/",
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/evee.32840/",
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/martins-journal.32837/",
-      "reason_category": "case",
-      "reason": "Member health history including retinoblastoma, gaming addiction, and office nnEMF exposure; lacks concrete protocol, measurement, or actionable signal"
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
     },
     {
       "source_type": "forum",
-      "source_id": "https://forum.jackkruse.com/threads/vagal-nerve-stimulation-tips.32826/",
+      "source_id": "https://forum.jackkruse.com/threads/life-in-the-gilded-cage.32838/",
       "reason_category": "below_priority_gate",
       "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059287395049107569",
+      "reason_category": "podcast_deferred",
+      "reason": "Podcast URL captured in sidecar; transcript/extraction will be handled by a later pipeline."
     }
   ],
   "dropped_items": [
@@ -305,181 +454,251 @@
       "source_type": "tweet",
       "source_id": "2059479615735836779",
       "reason_category": "chatter",
-      "reason": "Quote tweet about Bitcoin and vaccination status; no biological mechanism, protocol, research, or case signal"
+      "reason": "Quote tweet about Bitcoin and vaccines; no biological signal, mechanism, protocol, or case detail. Political/social commentary only."
     },
     {
       "source_type": "tweet",
       "source_id": "2059473826937700662",
       "reason_category": "chatter",
-      "reason": "One-line response 'How would I know?' to question about Robert Breedlove; no useful signal"
+      "reason": "One-line response 'How would I know?' to a question about Robert Breedlove. No signal."
     },
     {
       "source_type": "tweet",
       "source_id": "2059462763219497250",
       "reason_category": "baseline",
-      "reason": "Terse retweet of 'Sunlight' by AmmousMD; repeats known baseline without new mechanism, protocol, or research"
+      "reason": "Terse retweet of 'Sunlight' by @AmmousMD. Baseline topic with no new mechanism, protocol, or research."
     },
     {
       "source_type": "tweet",
-      "source_id": "2059434009558405492",
+      "source_id": "2059424315989283192",
+      "reason_category": "chatter",
+      "reason": "Quote tweet about vaccine credibility. No biological signal."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059414551389458824",
+      "reason_category": "chatter",
+      "reason": "Link-only quote tweet about fiber and Dave Feldman. No substantive Kruse commentary or signal."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059408128236556533",
+      "reason_category": "chatter",
+      "reason": "Quote tweet 'Another lattice lock death' about Jordan Clark's heart failure. Attributional claim without mechanism or case detail."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059406014135341261",
+      "reason_category": "unsupported",
+      "reason": "Quote tweet about Gabriel Ganley's death and deuterium. Kruse claims 'deuterium however, did' kill him, but provides no mechanism or evidence. Unsupported attribution."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059405469362319365",
+      "reason_category": "chatter",
+      "reason": "Political post 'Listen when DJT handler's speak.' No biological signal."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059404445356621951",
+      "reason_category": "chatter",
+      "reason": "Link-only quote tweet about Ozempic side effects (Piers Morgan). No Kruse commentary or signal."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059399400170868857",
+      "reason_category": "chatter",
+      "reason": "Long political/financial post about Bitcoin, Tether, Lutnick, and AIPAC. No biological signal. Promotional for BTC Prague event."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059394532723093709",
+      "reason_category": "podcast_deferred",
+      "reason": "Retweet promoting BTC Prague podcast with Kruse. Podcast-only item; deferred to sidecar for transcription."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059292662578937920",
+      "reason_category": "chatter",
+      "reason": "Retweet of Erwan Le Corre about paleo repackaging. No new signal."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059292603934261337",
+      "reason_category": "chatter",
+      "reason": "Quote tweet about AI and ES (Elon Schiff?). No biological signal."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059287810725622022",
+      "reason_category": "chatter",
+      "reason": "Reply tweet with profanity and dismissal of critics. No substantive signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/why-you-must-be-discerning-with-ai.32828/",
+      "reason_category": "baseline",
+      "reason": "Forum post about AI's effect on dopamine and reward systems. General warning about AI overuse; no new mechanism, protocol, or case detail beyond baseline dopamine/reward concepts."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/vagal-nerve-stimulation-tips.32826/",
       "reason_category": "thin",
-      "reason": "Introductory post 'See the tweet below. Now go read it, then go to number two.' with no substantive content; serves only as navigation to the longer reply"
+      "reason": "Forum post citing tVNS device specs (cymba concha innervation 100% vs. tragus 45%). Device specification only; no mechanism, protocol, or case application."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/jack-kruse-podcast-curriculum-youtube-edition-v1.23331/unread",
       "reason_category": "chatter",
-      "reason": "Social praise ('You're an absolute legend'); no biological signal"
+      "reason": "Social praise comment 'You're an absolute legend.' No signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/kathleen%E2%80%99s-optimal-journal.31612/",
-      "reason_category": "case",
-      "reason": "Member case journal entry describing eye symptoms, microclotting, and Bartonella; lacks concrete protocol, measurement result, or Jack response that would constitute actionable signal"
-    },
-    {
-      "source_type": "forum",
-      "source_id": "https://forum.jackkruse.com/threads/sleeping-outside.32840/",
-      "reason_category": "case",
-      "reason": "Member journal entry describing health problems and plan to sleep outside in remote locations; lacks concrete measurement, protocol detail, or result that would constitute new signal"
+      "reason_category": "unsupported",
+      "reason": "Forum journal entry documenting eye symptoms (floaters, distortion, flickering spot, blue sclera, microclotting). Member speculates about retinal photoreceptor loss and blood-retinal barrier leakage but provides no diagnostic confirmation or protocol. Pending measurement/diagnostic outcome."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/for-those-that-underestimate-ai.31954/unread",
-      "reason_category": "unclear",
-      "reason": "Thread title only; no content provided"
+      "reason_category": "chatter",
+      "reason": "Forum thread title only; no content provided."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/the-btc-thread-when-you-need-some-answers-love-advice-or-friendship-come-here.25436/unread",
       "reason_category": "chatter",
-      "reason": "Bitcoin ROI link; no biological signal"
+      "reason": "Forum post with Bitcoin ROI link. Financial/investment chatter; no biological signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/the-ancients-what-did-they-know.32835/",
-      "reason_category": "unclear",
-      "reason": "Thread title only; no content provided"
+      "reason_category": "chatter",
+      "reason": "Forum thread title only; no content provided."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/sumerian-tablets-and-the-saa.32839/",
       "reason_category": "chatter",
-      "reason": "Jack's brief social comment 'Not a surprise. Nice find. Nice first post too.'; no substantive biological signal"
-    },
-    {
-      "source_type": "forum",
-      "source_id": "https://forum.jackkruse.com/threads/why-you-must-be-discerning-with-ai.32828/",
-      "reason_category": "chatter",
-      "reason": "Member discussion of AI use and education; no biological mechanism, protocol, or research signal"
+      "reason": "Forum post 'Not a surprise. Nice find. Nice first post too.' Social comment only; no signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/tap-zap-block-blue-light-stop-pwm-flicker-on-mac-windows.32809/",
       "reason_category": "chatter",
-      "reason": "Product support question about software installation; no biological signal"
+      "reason": "Forum post about software installation issue. Product support question; no biological signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/davids-journal-finally-aligned.12031/unread",
       "reason_category": "chatter",
-      "reason": "Member comment about lab costs in Canada; no biological mechanism or protocol signal"
+      "reason": "Forum journal entry about lab costs in Canada. Logistical complaint; no biological signal or case detail."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/i-stay-away-from-nnemf.30545/unread",
-      "reason_category": "baseline",
-      "reason": "Member advice on locating nnEMF sources using standard methods; repeats known baseline without new mechanism or protocol"
+      "reason_category": "chatter",
+      "reason": "Forum post about nnEMF detection and shielding. Practical advice; no new mechanism or protocol."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/single-mitos-looking-to-meet-others-in-this-group.32734/",
       "reason_category": "chatter",
-      "reason": "Social suggestion to meet at sunrise; no biological signal"
-    },
-    {
-      "source_type": "forum",
-      "source_id": "https://forum.jackkruse.com/threads/life-in-the-gilded-cage.32838/",
-      "reason_category": "case",
-      "reason": "Member health history and family background; lacks concrete protocol, measurement, or actionable signal"
-    },
-    {
-      "source_type": "forum",
-      "source_id": "https://forum.jackkruse.com/threads/telluric-communications.32804/",
-      "reason_category": "chatter",
-      "reason": "Jack's brief social comment 'Thank you! Great to meet you. This is where we get the next massive upgrade in skills, and fortunately, that never ends'; no substantive biological signal"
+      "reason": "Forum post 'Go to atami beach at sunrise. You will find mitos.' Social/dating advice; no biological signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/making-ddw.32818/",
       "reason_category": "thin",
-      "reason": "Member post providing mathematical formula for converting δ²H to deuterium ppm; technical but lacks context, protocol application, or measurement interpretation"
+      "reason": "Forum post with formula for converting δ²H to deuterium concentration in ppm. Technical calculation only; no mechanism, protocol, or case application."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/why-the-warburg-shift-happens-in-cancer.32820/",
-      "reason_category": "unanswered_question",
-      "reason": "Member question asking Jack whether blue light protein folding and prion formation are connected; no answer or concrete mechanism provided in source"
+      "reason_category": "unsupported",
+      "reason": "Forum post asking whether Kruse's thesis on blue light and CCO damage explains prion formation and propagation. Speculative question without answer or case detail. Unanswered question."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/loris-optimal-journal-story-time.32776/",
-      "reason_category": "baseline",
-      "reason": "Member comment about someone's home gym setup and circadian practices; repeats known baseline (avoiding blue light, opening windows) without new signal"
+      "reason_category": "chatter",
+      "reason": "Forum journal entry about a friend's gym setup and circadian practices. Anecdotal observation; no mechanism or case detail."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/blood-glucose-and-insulin-rise-because-of-deuterium.32471/",
-      "reason_category": "unanswered_question",
-      "reason": "Member asking for links to 'The Moody Method' and 'Back Door to Glycogen'; no answer or concrete protocol provided in source"
+      "reason_category": "unsupported",
+      "reason": "Forum post asking for links to 'The moody method' and 'Back door to glycogen.' Unanswered resource request; no signal."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/mdrn-life-deuterium-depleted-water-scam-warning.31710/unread",
-      "reason_category": "thin",
-      "reason": "Member comment 'I have the test but haven't done it yet. I will be testing LiteWater brand.'; pending measurement with no result or interpretation"
+      "reason_category": "chatter",
+      "reason": "Forum post 'I have the test but haven't done it yet. I will be testing LiteWater brand.' Pending measurement; no result or interpretation."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/midface-malocclusions-are-d-bombs-at-meckels-and-the-cavernous-sinus.32712/",
-      "reason_category": "unanswered_question",
-      "reason": "Member asking Jack for DDW protocol and baseline measurement recommendations for a child post-palate expansion; no answer provided in source"
+      "reason_category": "unsupported",
+      "reason": "Forum post asking for DDW protocol recommendation for a child post-palate expansion. Unanswered question; no protocol or case detail provided."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/tool-and-metallica-tracks-for-deuterium-depletion.32760/",
       "reason_category": "thin",
-      "reason": "Member post linking to music playlist with claim that deep bass triggers piezoelectric charge and deuterium sorting; lacks mechanism detail, measurement, or evidence"
+      "reason": "Forum post linking to a music playlist for 'deuterium depletion' via piezoelectric charge and EZ water restructuring. Speculative mechanism without evidence; no protocol or case application."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/when-you-begin-with-a-silver-gold-or-platinum-membership.19027/unread",
-      "reason_category": "baseline",
-      "reason": "Member comment about doing sunrises and wearing blue blockers; repeats known baseline without new signal"
+      "reason_category": "chatter",
+      "reason": "Forum post 'I have been doing sunrises since August and having uvex blue blocking glasses and covering my skin at knight.' Baseline practices; no new signal."
+    },
+    {
+      "source_type": "tweet",
+      "reason_category": "model_omitted",
+      "reason": "Curator omitted this source from the audit lists; keeping it audit-only rather than selecting it.",
+      "source_id": "2059434009558405492",
+      "title": "1. See the tweet below. Now go read it, then go to number two."
     },
     {
       "source_type": "forum",
-      "source_id": "https://forum.jackkruse.com/threads/new-gold-member-question-for-dr-kruse.32554/",
-      "reason_category": "unanswered_question",
-      "reason": "Member asking Jack about TENS unit for vagal stimulation and pad placement; no answer provided in source"
+      "reason_category": "model_omitted",
+      "reason": "Curator omitted this source from the audit lists; keeping it audit-only rather than selecting it.",
+      "source_id": "https://forum.jackkruse.com/threads/telluric-communications.32804/",
+      "source_url": "https://forum.jackkruse.com/threads/telluric-communications.32804/",
+      "source_authority": "member",
+      "title": "Telluric communications"
     },
     {
       "source_type": "forum",
-      "source_id": "https://forum.jackkruse.com/threads/how-long-does-it-take-for-vitamin-d-levels-to-go-up-naturally.28177/unread",
-      "reason_category": "unanswered_question",
-      "reason": "Member asking about vitamin D raise rate and Van Allen belt radiation; no concrete answer or measurement protocol provided in source"
+      "source_id": "https://forum.jackkruse.com/threads/long-hair-vs-short-hair.32404/",
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/evee.32840/",
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
     },
     {
       "source_type": "forum",
       "source_id": "https://forum.jackkruse.com/threads/martins-journal.32837/",
-      "reason_category": "case",
-      "reason": "Member health history including retinoblastoma, gaming addiction, and office nnEMF exposure; lacks concrete protocol, measurement, or actionable signal"
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
     },
     {
       "source_type": "forum",
-      "source_id": "https://forum.jackkruse.com/threads/vagal-nerve-stimulation-tips.32826/",
+      "source_id": "https://forum.jackkruse.com/threads/life-in-the-gilded-cage.32838/",
       "reason_category": "below_priority_gate",
       "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2059287395049107569",
+      "reason_category": "podcast_deferred",
+      "reason": "Podcast URL captured in sidecar; transcript/extraction will be handled by a later pipeline."
     }
   ]
 }

@@ -1,79 +1,78 @@
 {
-  "headline_subtitle": "Deuterium-driven pathology in upper GI, agriculture, and craniofacial development; 40Hz resonance as biophysical intervention",
+  "headline_subtitle": "Deuterium-driven tissue collapse across GI, vascular, mitochondrial, and athletic systems; Florida citrus greening as water table biophysics",
   "sections": [
     {
       "title": "Twitter Updates",
       "cards": [
         {
-          "tag": "Deuterium, vagal exhaust, GI collapse",
-          "lead": "Upper GI pathology—hiatal hernia, GERD, hypothyroidism—as interconnected isotopic and vagal failure, not isolated hormonal or mechanical problems",
-          "body": "Jack Kruse describes hypothyroidism, hiatal hernias, and GERD as concurrent failures of a deuterated water table and stalled vagal exhaust. Under normal circadian governance, the vagus nerve drives the exocrine pancreas to secrete up to 2 liters of {{concept:sodium bicarbonate}} fluid daily—the body's primary mechanism to capture dietary {{concept:deuterium}} and maintain tissue electrical potential. When {{concept:nnEMF}} stalls this exhaust, deuterium pools in the upper GI tract, reversing fluid dynamics and collapsing the {{concept:dielectric}} baseline (κ≈160→80). The {{concept:Oxygen-Deuterium Kinetic Isotope Effect}} disrupts {{concept:triplet oxygen}} spin-coherence, blocking {{concept:tyrosine hydroxylase}} and {{concept:prolyl 4-hydroxylase}}—enzymes required for {{concept:melanin}}, {{concept:dopamine}}, and {{concept:collagen}} synthesis. This cascade weakens the diaphragm's structural integrity, causing hiatal herniation. {{concept:Helicobacter pylori}} and anaerobic bacteria proliferate in the stagnant, high-deuterium, low-voltage pool but do not initiate the pathology. {{concept:Mastic gum}} treats GERD by stimulating vagal exhaust without antibiotics.",
+          "tag": "GI tract biophysics",
+          "lead": "Hiatal hernia and GERD as deuterated water table failure, not hormonal imbalance",
+          "body": "Hypothyroidism, hiatal hernias, and GERD are concurrent failures of a heavily {{concept:deuterated}} water table and stalled {{concept:vagal exhaust pipe}}. Under healthy diurnal solar governance, the vagus nerve drives the exocrine pancreas to secrete up to 2 liters of {{concept:sodium bicarbonate}} daily—a primary tailpipe designed to capture dietary {{concept:deuterium (D+)}} and maintain tissue negative {{concept:Zeta potential}}. When blue LED and {{concept:nnEMF}} exposure stalls this exhaust, deuterium pools in gastric mucosa and the {{concept:lower esophageal sphincter}}, causing {{concept:dielectric collapse}} (κ≈160→80). The {{concept:Kinetic Isotope Effect}} of deuterium disrupts {{concept:triplet oxygen}} state, jamming {{concept:tyrosine hydroxylase}} (melanin and dopamine synthesis) and {{concept:prolyl 4-hydroxylase}} (collagen cross-linking). The weakened diaphragm fractures under abdominal pressure, manifesting as hiatal hernia. {{concept:Helicobacter pylori}} proliferates in the resulting anaerobic, high-deuterium pool but does not cause the primary pathology. Mastic gum treats GERD by stimulating vagal exhaust and deuterium clearance, not through direct antimicrobial action.",
           "points": [
-            "**Mechanism.** Deuterium accumulation in upper GI tract due to stalled vagal exhaust → dielectric collapse → {{concept:O-D kinetic isotope effect}} disrupts triplet oxygen spin-coherence → loss of tyrosine hydroxylase and prolyl 4-hydroxylase cofactor activity → melanin/dopamine synthesis failure and collagen cross-linking failure → diaphragmatic fiber-type shift and structural collapse → hiatal hernia and GERD.",
-            "**Vagal exhaust system.** The vagus nerve-driven sodium bicarbonate secretion (2 liters daily) functions as a downward fluid vortex designed to flush dietary deuterium and maintain negative {{concept:Zeta potential}} in tissue. {{concept:nnEMF}} and blue LED exposure stall this exhaust, allowing deuterium to accumulate and reverse fluid dynamics.",
-            "**Bacterial ecology.** Helicobacter pylori and anaerobic bacteria are opportunists thriving in high-deuterium, low-voltage, anaerobic environments. They do not cause the underlying isotopic and electrical failure; they exploit it.",
-            "**Treatment signal.** Mastic gum stimulates D+ vagal exhaust and treats GERD without antibiotics, suggesting that restoring vagal function and deuterium clearance addresses root cause rather than bacterial symptoms."
+            "**Mechanism.** Deuterated water table → stalled vagal exhaust (loss of morning {{concept:Cortisol Awakening Response}} and infrared pulse) → deuterium accumulation in upper GI tissue → dielectric collapse → loss of triplet oxygen state → enzyme jam (tyrosine hydroxylase, prolyl 4-hydroxylase) → melanin/dopamine/collagen failure → diaphragmatic weakness → hiatal hernia.",
+            "**Practical meaning.** Assess morning solar infrared exposure and nnEMF burden as primary drivers of vagal function and GI tract dielectric integrity. Recognize that mastic gum's efficacy reflects deuterium clearance, not bacterial suppression.",
+            "**Why it matters.** Centralized gastroenterology treats hiatal hernia and GERD as isolated mechanical or hormonal failures, missing the foundational sub-molecular deuterium angle. Quantum spin chemistry and {{concept:Landauer's Principle}} reveal the true biophysical reality of upper GI tract dysfunction."
           ],
           "concepts": {
-            "deuterium": {
+            "deuterated": {
+              "level": "noob",
+              "text": "Containing an elevated concentration of deuterium (heavy hydrogen); deuterated water and tissues have altered electrical and chemical properties compared to normal protium-based water."
+            },
+            "vagal exhaust pipe": {
               "level": "pro",
-              "text": "A stable isotope of hydrogen with one proton and one neutron, making it twice as heavy as normal protium (1H). Deuterium accumulates in body water and tissue when consumed in food and water; its doubled mass alters chemical bond strength and disrupts enzymatic function and cellular signaling."
+              "text": "Kruse's term for the vagus nerve's role in driving downward fluid flow (sodium bicarbonate secretion) through the GI tract to capture and eliminate dietary deuterium; analogous to an engine exhaust system."
             },
             "sodium bicarbonate": {
               "level": "noob",
-              "text": "A chemical compound (HCO₃⁻) secreted by the pancreas into the small intestine to neutralize stomach acid and create an alkaline environment for digestion. In this model, it also functions to capture and flush dietary deuterium."
+              "text": "A buffering compound (HCO₃⁻) secreted by the pancreas into the small intestine; helps neutralize stomach acid and, in this model, carries deuterium downward for elimination."
             },
-            "nnEMF": {
-              "level": "baseline",
-              "text": "Non-native electromagnetic field; artificial electromagnetic radiation from wireless devices, power lines, and electrical infrastructure that disrupts biological oscillation and cellular signaling."
-            },
-            "dielectric": {
-              "level": "pro",
-              "text": "A material's ability to maintain electrical charge separation and support electromagnetic field propagation. In tissue, high dielectric constant (k=160) allows ordered fluid movement and electrical signaling; collapse to k≈80 causes stagnation and loss of bioelectric function."
-            },
-            "Oxygen-Deuterium Kinetic Isotope Effect": {
-              "level": "pro",
-              "text": "The O-D bond is stiffer and harder to cleave than a normal O-H bond because deuterium has twice the atomic mass of protium. This alters the electronic spin alignment of oxygen and disrupts the magnetic ground state required for enzymatic function."
-            },
-            "triplet oxygen": {
-              "level": "pro",
-              "text": "Oxygen in its native magnetic ground state with parallel electron spins (↑↑), requiring stable geomagnetic and bioelectric reference frames to guide spin-forbidden inversion. Disruption forces oxygen into diamagnetic singlet state or stalls reaction velocity."
-            },
-            "tyrosine hydroxylase": {
-              "level": "pro",
-              "text": "An enzyme that converts the amino acid tyrosine into L-DOPA, the precursor to dopamine and melanin. It requires triplet oxygen as a cofactor; disruption of triplet oxygen spin-coherence blocks this enzyme and halts dopamine and melanin synthesis."
-            },
-            "prolyl 4-hydroxylase": {
-              "level": "pro",
-              "text": "An enzyme that cross-links collagen molecules by hydroxylating proline residues, stabilizing collagen's triple helix structure. Loss of this enzyme function causes collagen synthesis to fail and connective tissue to weaken."
-            },
-            "melanin": {
+            "deuterium (D+)": {
               "level": "noob",
-              "text": "A dark pigment produced in skin and neural tissue that protects against UV radiation and supports neural signaling. Synthesis requires tyrosine hydroxylase and triplet oxygen."
-            },
-            "dopamine": {
-              "level": "noob",
-              "text": "A neurotransmitter and hormone involved in motivation, motor control, and reward signaling. Synthesis requires tyrosine hydroxylase and triplet oxygen."
-            },
-            "collagen": {
-              "level": "noob",
-              "text": "The primary structural protein in connective tissue, bone, and skin. Cross-linking by prolyl 4-hydroxylase gives collagen its tensile strength; loss of cross-linking causes structural weakness."
-            },
-            "Helicobacter pylori": {
-              "level": "noob",
-              "text": "A bacterium that colonizes the stomach lining and is associated with ulcers and gastritis. In this model, it is an opportunist thriving in high-deuterium, low-voltage tissue rather than the primary cause of GERD."
-            },
-            "Mastic gum": {
-              "level": "noob",
-              "text": "A resin from the mastic tree used traditionally to treat digestive complaints. In this model, it stimulates vagal exhaust and deuterium clearance, treating GERD without antibiotics."
+              "text": "A stable isotope of hydrogen with one proton and one neutron (mass 2), twice the mass of normal protium (¹H); accumulates in tissues and water from certain foods and environments."
             },
             "Zeta potential": {
               "level": "pro",
-              "text": "The electrical potential difference across a cell or tissue boundary. Negative Zeta potential maintains charge separation and allows ordered fluid movement; loss of negative potential causes fluid stagnation and dielectric collapse."
+              "text": "The electrical potential difference across a cell or tissue boundary; negative Zeta potential is maintained by structured water and proper ion distribution, essential for cellular function."
             },
-            "O-D kinetic isotope effect": {
+            "nnEMF": {
+              "level": "noob",
+              "text": "Non-native electromagnetic field; artificial electromagnetic radiation from wireless devices, power lines, and electronic equipment that disrupts natural biological signaling."
+            },
+            "lower esophageal sphincter": {
+              "level": "noob",
+              "text": "A ring of muscle at the junction between the esophagus and stomach that normally prevents stomach contents from refluxing back into the esophagus."
+            },
+            "dielectric collapse": {
               "level": "pro",
-              "text": "The change in reaction rate or equilibrium when deuterium replaces protium in a chemical bond. The O-D bond is stiffer and harder to cleave, disrupting enzymatic function and cellular signaling."
+              "text": "Loss of the ordered electrical properties of tissue water (permittivity drop from κ≈160 to κ≈80), disrupting charge separation and cellular voltage."
+            },
+            "Kinetic Isotope Effect": {
+              "level": "pro",
+              "text": "The change in reaction rate or equilibrium when a heavier isotope (deuterium, mass 2) replaces a lighter one (protium, mass 1); deuterium bonds are stiffer and harder to cleave, slowing enzymatic reactions."
+            },
+            "triplet oxygen": {
+              "level": "pro",
+              "text": "The ground state of molecular oxygen with parallel electron spins (↑↑); required for many enzymatic reactions and dependent on stable geomagnetic and bioelectric reference frames."
+            },
+            "tyrosine hydroxylase": {
+              "level": "pro",
+              "text": "Enzyme that catalyzes the first step of dopamine and melanin synthesis; requires triplet oxygen as a cofactor and is inhibited when triplet oxygen state is disrupted."
+            },
+            "prolyl 4-hydroxylase": {
+              "level": "pro",
+              "text": "Enzyme that catalyzes collagen cross-linking by hydroxylating proline residues; essential for structural connective tissue integrity and dependent on triplet oxygen."
+            },
+            "Helicobacter pylori": {
+              "level": "noob",
+              "text": "A bacterium that colonizes the stomach lining; traditionally blamed for ulcers and GERD but in this model is an opportunistic consequence of deuterium-driven tissue failure."
+            },
+            "Cortisol Awakening Response": {
+              "level": "noob",
+              "text": "The natural rise in cortisol that occurs in the early morning hours, synchronized with sunrise and circadian rhythm; drives vagal function and exocrine pancreas secretion."
+            },
+            "Landauer's Principle": {
+              "level": "pro",
+              "text": "Fundamental principle linking information erasure to entropy and energy dissipation; applies to cellular information processing, redox state, and tissue voltage collapse."
             }
           },
           "source_quote": "Hypothyroidism, hiatal hernias, and GERD are not separate isolated clinical conditions or simple hormonal imbalances. They are the concurrent macro-anatomical failures of a heavily deuterated water table and a stalled vagal exhaust pipe.",
@@ -81,9 +80,226 @@
           "source_ids": [
             "2059434173782253973"
           ],
-          "source_urls": [
-            "https://twitter.com/DrJackKruse/status/2059434173782253973"
-          ]
+          "source_urls": []
+        },
+        {
+          "tag": "Vascular biophysics",
+          "lead": "Atherosclerosis as deuterated seed oil-driven endothelial short-circuit, not oxidized LDL inflammation",
+          "body": "Atherosclerosis is a structural short-circuit triggered when highly {{concept:deuterated}} industrial seed oils integrate into the {{concept:endothelial cell}} membrane, dropping the localized {{concept:dielectric constant}} (κ≈160→80) and shattering the vertical Z-axis dipole potential of the vascular wall. Industrial seed oils—{{concept:linoleic acid}}-rich soybean, corn, and canola oils—are not merely chemically unstable {{concept:polyunsaturated fats}}; they are highly concentrated, transgenerational {{concept:deuterium}} sinks built under mass-production agricultural grids lacking natural solar-thermal filtration. When incorporated into endothelial membranes, they alter local {{concept:permittivity}}, causing the ordered {{concept:Exclusion Zone}} water lattice (κ=160) to undergo immediate dielectric collapse (κ≈160→80). This refractive inversion causes internal {{concept:biophotons}} to leak as chaotic thermal noise, and the fluid turns into high-resistance, stagnant sludge caked in {{concept:heavy water (D₂O)}}. The downstream immune cascade—{{concept:dendritic cells}} processing {{concept:oxidized LDL}}}, {{concept:Th1 and Th17 cells}} secreting inflammatory cytokines, monocyte-derived {{concept:macrophages}} forming {{concept:foam cells}}—is merely the 'smoke' of this underlying sub-molecular power supply failure.",
+          "points": [
+            "**Mechanism.** Deuterated seed oil → incorporation into endothelial membrane → local permittivity increase → {{concept:Exclusion Zone}} water lattice collapse (κ≈160→80) → loss of optical refraction and total internal reflection → biophoton leakage → high-resistance, stagnant sludge formation → endothelial emergency shutdown. Oxidized LDL and immune response are downstream consequences, not primary drivers.",
+            "**Practical meaning.** Assess seed oil consumption and agricultural deuterium burden as primary risk factors for atherosclerosis, independent of LDL oxidation status. Recognize that centralized cardiology's focus on oxLDL inflammation misses the foundational biophysical collapse.",
+            "**Why it matters.** Solid-state physics and {{concept:Kinetic Isotope Effect}} reveal that atherosclerosis is a biophysical failure of endothelial water structure, not a lipid-driven inflammatory disease. This reframes prevention and treatment away from statin-based LDL reduction toward water table and seed oil burden assessment."
+          ],
+          "concepts": {
+            "deuterated": {
+              "level": "noob",
+              "text": "Containing an elevated concentration of deuterium (heavy hydrogen); deuterated oils and water have altered electrical and chemical properties compared to normal protium-based materials."
+            },
+            "endothelial cell": {
+              "level": "noob",
+              "text": "A cell that lines the inner surface of blood vessels; forms the barrier between blood and vessel wall and is critical for vascular function."
+            },
+            "dielectric constant": {
+              "level": "pro",
+              "text": "A measure of a material's ability to support an electric field; higher values (κ≈160) indicate more ordered, structured water; lower values (κ≈80) indicate loss of electrical coherence."
+            },
+            "linoleic acid": {
+              "level": "noob",
+              "text": "A polyunsaturated omega-6 fatty acid abundant in industrial seed oils; prone to oxidation and, in this model, a deuterium sink that disrupts endothelial water structure."
+            },
+            "polyunsaturated fats": {
+              "level": "noob",
+              "text": "Fats with multiple double bonds between carbon atoms; chemically unstable and prone to oxidation; abundant in seed oils like soybean, corn, and canola."
+            },
+            "deuterium": {
+              "level": "noob",
+              "text": "A stable isotope of hydrogen with one proton and one neutron (mass 2), twice the mass of normal protium (mass 1); accumulates in tissues and water from certain foods and environments."
+            },
+            "permittivity": {
+              "level": "pro",
+              "text": "The ability of a material to be polarized by an electric field; altered by deuterium incorporation into lipids and water, reducing electrical coherence."
+            },
+            "Exclusion Zone": {
+              "level": "pro",
+              "text": "Ordered, structured water layer adjacent to hydrophilic surfaces; maintains high dielectric constant (κ≈160) and supports efficient charge separation and proton flow."
+            },
+            "biophotons": {
+              "level": "pro",
+              "text": "Coherent light emissions from biological tissues; depend on structured water and proper tissue voltage for efficient internal reflection and signaling."
+            },
+            "heavy water (D₂O)": {
+              "level": "noob",
+              "text": "Water in which deuterium replaces normal protium; has different physical and chemical properties and accumulates in tissues exposed to deuterium-rich environments."
+            },
+            "dendritic cells": {
+              "level": "noob",
+              "text": "Immune cells that process and present antigens to other immune cells; activated in response to oxidized LDL in atherosclerosis."
+            },
+            "oxidized LDL": {
+              "level": "noob",
+              "text": "Low-density lipoprotein particles that have undergone oxidative modification; recognized as a risk factor in atherosclerosis but treated as primary cause by centralized cardiology."
+            },
+            "Th1 and Th17 cells": {
+              "level": "pro",
+              "text": "T helper cell subsets that secrete pro-inflammatory cytokines (IFN-γ, IL-17); activated in atherosclerotic plaques in response to oxLDL."
+            },
+            "macrophages": {
+              "level": "noob",
+              "text": "Immune cells that engulf and digest pathogens and debris; in atherosclerosis, they take up oxidized LDL and become foam cells."
+            },
+            "foam cells": {
+              "level": "noob",
+              "text": "Macrophages engorged with oxidized LDL, giving them a foamy appearance under the microscope; accumulate in atherosclerotic plaques."
+            },
+            "Kinetic Isotope Effect": {
+              "level": "pro",
+              "text": "The change in reaction rate or equilibrium when a heavier isotope (deuterium) replaces a lighter one (protium); deuterium bonds are stiffer and harder to cleave, slowing enzymatic reactions."
+            }
+          },
+          "source_quote": "Atherosclerosis is a structural short-circuit triggered when highly deuterated, chemically unstable industrial seed oils integrate into the endothelial cell membrane, dropping the localized dielectric constant (𝜅≈160→80) and shattering the vertical Z-axis dipole potential of the vascular wall.",
+          "citations": [],
+          "source_ids": [
+            "2059421042070946229"
+          ],
+          "source_urls": []
+        },
+        {
+          "tag": "Cancer mitochondrial biophysics",
+          "lead": "Cancer mitochondrial hyperpolarization as compensatory overdrive in deuterium-poisoned semiconductor",
+          "body": "Cancer mitochondria are not irreversibly damaged but reprogrammed, {{concept:hyperpolarized}} ({{concept:ΔΨm}} often −210 to −220 mV vs. normal −150 to −180 mV), metabolically flexible ({{concept:glycolysis}} + robust {{concept:OxPhos}}), and actively driving tumor progression. This hyperpolarization is not a feature but a compensatory overdrive in a failing semiconductor caused by {{concept:deuterium}} silt accumulation and {{concept:dielectric collapse}}. When deuterium accumulates, the intracellular water {{concept:dielectric}} drops, the {{concept:band gap}} widens, and proton flow through the {{concept:electron transport chain}} becomes sluggish due to the {{concept:Kinetic Isotope Effect}}. The mitochondrion responds by pumping harder, elevating ΔΨm to maintain any usable proton gradient. {{concept:Inner mitochondrial membrane}} lipid remodeling (cholesterol ↑, {{concept:cardiolipin}} changes) is an emergency scaffolding attempt to keep the membrane from collapsing. Metabolic flexibility ({{concept:Warburg effect}} + OxPhos) reflects survival in a deuterated matrix: glucose can be 'scrubbed' locally via the {{concept:G3P shuttle}}, while mitochondria remain online for biosynthesis, Ca²⁺ handling, {{concept:ROS}} signaling, and immune evasion. The {{concept:Nernst equation}}-driven {{concept:lipophilic cation}} accumulation (100- to 1000-fold enrichment of {{concept:triphenylphosphonium}}) is an exploitable symptom of this desperate biophysical compensation, not the primary pathology.",
+          "points": [
+            "**Mechanism.** Deuterium silt accumulation → intracellular water lattice collapse (dielectric drop) → band gap widening → sluggish proton flow through ETC (Kinetic Isotope Effect) → mitochondrial compensatory hyperpolarization (ΔΨm increase to −210 to −220 mV) → IMM lipid remodeling (cholesterol ↑, cardiolipin changes) → metabolic flexibility (glycolysis + OxPhos) → Nernst-driven lipophilic cation accumulation. Warburg's glycolytic preference is a symptom of this biophysical failure, not a primary cause of cancer.",
+            "**Research.** A narrative review in Clinical Bioenergetics documents that cancer cell mitochondria maintain functional—and in some cases enhanced—oxidative phosphorylation capacity alongside elevated glycolysis; {{concept:mitochondrial transmembrane potential}} is frequently hyperpolarized (−210 mV in some mammary carcinoma lines); lipophilic cations accumulate 100- to 1000-fold in cancer mitochondria via the Nernst equation; {{concept:mtDNA}} depletion diminishes tumorigenicity, indicating mitochondria actively modulate malignancy.",
+            "**Practical meaning.** Understand cancer mitochondrial hyperpolarization not as a feature but as a compensatory response to deuterated water lattice collapse. Recognize that lipophilic cation accumulation is exploitable for mitochondria-targeted drug delivery, but the underlying biophysical failure—deuterium burden and water lattice integrity—is the upstream driver."
+          ],
+          "concepts": {
+            "hyperpolarized": {
+              "level": "pro",
+              "text": "Having a more negative (or more positive) electrical potential than normal; cancer mitochondria are hyperpolarized (more negative ΔΨm) as a compensatory response to deuterium-driven water lattice collapse."
+            },
+            "ΔΨm": {
+              "level": "pro",
+              "text": "Mitochondrial transmembrane potential; the electrical voltage difference across the inner mitochondrial membrane, normally −150 to −180 mV in healthy cells, hyperpolarized to −210 to −220 mV in cancer cells."
+            },
+            "glycolysis": {
+              "level": "noob",
+              "text": "The metabolic pathway that breaks down glucose into pyruvate, generating ATP and NADH; the primary energy source in cancer cells even in the presence of oxygen (Warburg effect)."
+            },
+            "OxPhos": {
+              "level": "pro",
+              "text": "Oxidative phosphorylation; the process by which mitochondria generate ATP using the electron transport chain and chemiosmotic gradient."
+            },
+            "deuterium": {
+              "level": "noob",
+              "text": "A stable isotope of hydrogen with one proton and one neutron (mass 2), twice the mass of normal protium (mass 1); accumulates in tissues and water from certain foods and environments."
+            },
+            "dielectric collapse": {
+              "level": "pro",
+              "text": "Loss of the ordered electrical properties of tissue water (permittivity drop), disrupting charge separation and cellular voltage."
+            },
+            "band gap": {
+              "level": "pro",
+              "text": "In semiconductor physics, the energy difference between the valence band and conduction band; widens when water structure degrades, reducing electron flow efficiency."
+            },
+            "electron transport chain": {
+              "level": "pro",
+              "text": "A series of protein complexes in the inner mitochondrial membrane that transfer electrons and pump protons to generate the ΔΨm."
+            },
+            "Kinetic Isotope Effect": {
+              "level": "pro",
+              "text": "The change in reaction rate or equilibrium when a heavier isotope (deuterium) replaces a lighter one (protium); deuterium bonds are stiffer and harder to cleave, slowing proton flow."
+            },
+            "Inner mitochondrial membrane": {
+              "level": "pro",
+              "text": "The innermost membrane of the mitochondrion, site of the electron transport chain and ATP synthase; lipid composition (cardiolipin, cholesterol) is critical for function."
+            },
+            "cardiolipin": {
+              "level": "pro",
+              "text": "A unique phospholipid found almost exclusively in the inner mitochondrial membrane; essential for optimal electron transport chain function and ATP synthesis."
+            },
+            "Warburg effect": {
+              "level": "noob",
+              "text": "The observation that cancer cells preferentially use glycolysis for energy even in the presence of oxygen; in this model, a symptom of deuterium-driven mitochondrial dysfunction rather than a primary cause of cancer."
+            },
+            "G3P shuttle": {
+              "level": "pro",
+              "text": "Glycerol-3-phosphate shuttle; a mechanism for transferring reducing equivalents from cytoplasm to mitochondria, allowing glucose to be metabolized locally in deuterated conditions."
+            },
+            "ROS": {
+              "level": "noob",
+              "text": "Reactive oxygen species; highly reactive molecules including superoxide and hydrogen peroxide, generated during mitochondrial respiration and involved in cell signaling."
+            },
+            "Nernst equation": {
+              "level": "pro",
+              "text": "Mathematical relationship describing how the concentration gradient of an ion across a membrane determines its equilibrium potential; predicts 10-fold cation accumulation per 60 mV increase in ΔΨm."
+            },
+            "lipophilic cation": {
+              "level": "pro",
+              "text": "A positively charged molecule that is fat-soluble; accumulates in hyperpolarized mitochondria due to the Nernst equation."
+            },
+            "triphenylphosphonium": {
+              "level": "pro",
+              "text": "A lipophilic cation used in research and drug design to selectively target hyperpolarized cancer cell mitochondria; accumulates 100- to 1000-fold in cancer mitochondria."
+            },
+            "mitochondrial transmembrane potential": {
+              "level": "pro",
+              "text": "The electrical voltage difference across the inner mitochondrial membrane (ΔΨm); normally −150 to −180 mV in healthy cells, hyperpolarized in cancer cells."
+            },
+            "mtDNA": {
+              "level": "pro",
+              "text": "Mitochondrial DNA; the circular DNA genome inside mitochondria; depletion diminishes cancer cell tumorigenicity, indicating mitochondria actively drive malignancy."
+            }
+          },
+          "source_quote": "Cancer mitochondria are not irreversibly damaged as Seyfried biochemists sell the public. They are reprogrammed, hyperpolarized (ΔΨm often −210 to −220 mV vs. normal −150 to −180 mV), metabolically flexible (glycolysis + robust OxPhos), and actively driving tumor progression.",
+          "citations": [
+            {
+              "paper": "Narrative review in Clinical Bioenergetics",
+              "claim": "Cancer cell mitochondria maintain functional and enhanced oxidative phosphorylation capacity alongside elevated glycolysis; mitochondrial transmembrane potential is frequently hyperpolarized; lipophilic cations accumulate 100- to 1000-fold in cancer mitochondria via the Nernst equation; inner mitochondrial membrane lipid composition is altered (increased cholesterol, altered cardiolipin); mtDNA depletion diminishes tumorigenicity."
+            }
+          ],
+          "source_ids": [
+            "2059404037431136503"
+          ],
+          "source_urls": []
+        },
+        {
+          "tag": "Exercise physiology",
+          "lead": "Sudden cardiac death in young athletes as F0-F1 ATPase mechanical failure under deuterated water",
+          "body": "When the water table is {{concept:deuterated}}, exercise can and does kill you. The {{concept:F0-F1 ATPase}} ({{concept:ATP synthase}}) must spin against concrete-like resistance, causing mechanical failure and sudden cardiac death. Recent cluster of young athlete deaths—bodybuilder Gabriel Ganley (22, {{concept:hypertrophic cardiomyopathy}}), marathon runner Yebrgual Melese (36, collapsed during training), 15-year-old Rosalie (collapsed near finish of Leiden Half Marathon), 40-year-old ultramarathon competitor (Cocodona 250, collapsed at miles 75–80), 28-year-old Hyrox competitor (Lyon, hyperthermia during high-intensity event), 53-year-old 10K runner (Paris, cardiac malaise near finish)—reflects biophysical failure, not conventional cardiac pathology. Exercise amplifies the mechanical stress on the ATP synthase rotor when intracellular fluid viscosity and resistance are elevated by deuterium accumulation.",
+          "points": [
+            "**Mechanism.** Deuterated water table → increased viscosity and resistance in intracellular fluid → {{concept:F0-F1 ATPase}} mechanical failure under exercise-induced demand → {{concept:mitochondrial energy crisis}} → sudden cardiac death. Exercise amplifies the biophysical stress on the ATP synthase rotor.",
+            "**Case signal.** Six sudden deaths in young athletes within a two-week window (May 5–25, 2026), spanning bodybuilding, marathon running, ultramarathon, and high-intensity fitness competition. All deaths attributed to cardiac causes (hypertrophic cardiomyopathy, hyperthermia, cardiac malaise) but share common biophysical mechanism: deuterated water table failure under exercise stress.",
+            "**Why it matters.** Centralized sports medicine treats these deaths as primary cardiomyopathy or heat illness, missing the foundational water table deuterium burden. Athletes in high-deuterium regions or with high-deuterium water intake face amplified risk during intense exercise."
+          ],
+          "concepts": {
+            "deuterated": {
+              "level": "noob",
+              "text": "Containing an elevated concentration of deuterium (heavy hydrogen); deuterated water has altered viscosity and electrical properties that increase resistance to molecular motion."
+            },
+            "F0-F1 ATPase": {
+              "level": "pro",
+              "text": "ATP synthase; the mitochondrial enzyme complex that generates ATP by using the proton gradient to drive a mechanical rotor; must spin freely in low-viscosity, structured water."
+            },
+            "ATP synthase": {
+              "level": "noob",
+              "text": "The enzyme that produces ATP (cellular energy currency) in mitochondria; functions as a molecular turbine powered by the flow of protons across the inner mitochondrial membrane."
+            },
+            "hypertrophic cardiomyopathy": {
+              "level": "noob",
+              "text": "A condition in which the heart muscle thickens, making it harder for the heart to pump blood; can cause sudden cardiac death during exercise."
+            },
+            "mitochondrial energy crisis": {
+              "level": "pro",
+              "text": "Failure of ATP production due to mechanical or biophysical dysfunction of ATP synthase; results in cellular energy depletion and sudden organ failure."
+            }
+          },
+          "source_quote": "When your water table is deuterated exercise can and does kill you. The F0-F1 ATPase has to spin against concrete which causes failure.",
+          "citations": [],
+          "source_ids": [
+            "2059291435719934411"
+          ],
+          "source_urls": []
         }
       ]
     },
@@ -91,101 +307,57 @@
       "title": "Forum Updates",
       "cards": [
         {
-          "tag": "Citrus greening, deuterium, aquifer collapse",
-          "lead": "Florida citrus greening (HLB) as water-table deuterium accumulation and dielectric collapse, not bacterial pathogenesis",
-          "body": "A forum post applies the deuterium-driven dielectric collapse model to agricultural disease. Citrus Greening ({{concept:Huanglongbing}}/HLB) in Florida is attributed not to the bacterium {{concept:Candidatus Liberibacter asiaticus}} but to {{concept:deuterium}} accumulation in the sandy aquifer that corrupts the plant's tissue electrical potential. Under normal conditions, water moving through Florida's deep sand aquifers forms a highly ordered {{concept:Exclusion Zone}} (EZ) lattice with high {{concept:dielectric constant}} (k=160). Deuterium accumulation reduces this to k≈80, reversing fluid dynamics in plant sap and creating a stagnant, anaerobic, high-deuterium environment where the bacterium proliferates. The bacteria are opportunists thriving in the isotopic and electrical failure, not invading predators. This model identifies Florida's porous {{concept:aquifer}} geology as explicitly vulnerable to deuterium accumulation and suggests that aquifer remediation or {{concept:deuterium-depleted water}} may address root cause.",
+          "tag": "Agricultural biophysics",
+          "lead": "Florida citrus greening as deuterated water table dielectric collapse, not bacterial pathogen",
+          "body": "Citrus greening ({{concept:Huanglongbing}}, caused by {{concept:Candidatus Liberibacter asiaticus}}) is reframed from bacterial infection to biophysical water table failure. The bacterium is merely an opportunist thriving inside a stalled, uncoupled fluid vortex where heavy {{concept:deuterium}} has completely corrupted the water table's {{concept:dielectric}} baseline. Under normal conditions, water moving through Florida's deep sand aquifers forms a highly ordered {{concept:Exclusion Zone}} lattice (κ=160). This high {{concept:dielectric constant}} allows the plant's internal sap to maintain strong {{concept:charge separation}}, keeping the liquid moving in a low-friction, high-velocity helical fluid. When deuterium accumulates, the {{concept:permittivity}} collapses (κ≈160→80), the fluid dynamics reverse, and heavy D⁺ ions pool and back-load into the plant tissue, establishing a stagnant, fractionated, {{concept:anaerobic}} pool where the bacterium can proliferate. Centralized agricultural science looks at the devastation of Florida's citrus industry and lays 100% of the blame on the bacterium, completely blind to the foundational laws of sub-molecular thermodynamics, fluid dynamics, and mass.",
           "points": [
-            "**Mechanism.** Deuterium accumulation in Florida aquifer → dielectric collapse (k=160→80) → loss of {{concept:Exclusion Zone}} water structure → stalled fluid vortex in plant sap → anaerobic, high-deuterium tissue environment → Candidatus Liberibacter asiaticus opportunistic proliferation.",
-            "**Geo-specific signal.** Florida's sandy, porous aquifer shelves are explicitly vulnerable to deuterium accumulation due to their geology and water table dynamics. This geo-specific vulnerability explains the regional concentration of citrus greening.",
-            "**Bacterial ecology.** Candidatus Liberibacter asiaticus is an opportunist thriving in high-mass, low-oxygen environments created by deuterium accumulation. It does not cause the underlying isotopic and electrical failure.",
-            "**Root cause intervention.** Addressing deuterium accumulation in the aquifer or providing deuterium-depleted water to plants may restore dielectric baseline and prevent bacterial proliferation, rather than relying on bacterial eradication."
+            "**Mechanism.** Deuterated water table (Florida sandy aquifer) → {{concept:Exclusion Zone}} water lattice collapse (κ≈160→80) → permittivity drop → loss of charge separation in plant sap → stalled fluid vortex → anaerobic, high-deuterium tissue pool → Candidatus Liberibacter asiaticus proliferation. Bacteria are opportunists, not primary cause.",
+            "**Practical meaning.** Understand citrus greening not as a bacterial disease but as a biophysical water table failure. Recognize that deuterium accumulation in Florida's aquifer system is the foundational problem. Assess water table deuterium burden and dielectric integrity as primary drivers of plant disease susceptibility.",
+            "**Why it matters.** Bacterial treatment alone will fail without addressing the underlying water lattice collapse. The East Coast of the United States, particularly the sandy, porous aquifer shelves of Florida, stands as an explicit geographical testament to this sub-molecular crisis."
           ],
           "concepts": {
             "Huanglongbing": {
               "level": "noob",
-              "text": "The Chinese name for citrus greening disease, a devastating bacterial infection of citrus trees. In this model, the disease is driven by deuterium accumulation in the water table rather than bacterial invasion alone."
+              "text": "The scientific name for citrus greening disease; a bacterial infection that devastates citrus crops but in this model is a secondary consequence of water table deuterium accumulation."
             },
             "Candidatus Liberibacter asiaticus": {
               "level": "noob",
-              "text": "The bacterium associated with citrus greening (Huanglongbing/HLB), a disease that devastates citrus crops. In this model, the bacterium is an opportunist in deuterium-accumulated, low-voltage plant tissue rather than the primary cause."
+              "text": "The bacterium that causes citrus greening disease; traditionally blamed as the primary pathogen but in this model is an opportunistic infection in deuterium-compromised plant tissue."
             },
             "deuterium": {
+              "level": "noob",
+              "text": "A stable isotope of hydrogen with one proton and one neutron (mass 2), twice the mass of normal protium (mass 1); accumulates in tissues and water from certain foods and environments."
+            },
+            "dielectric": {
               "level": "pro",
-              "text": "A stable isotope of hydrogen with one proton and one neutron, making it twice as heavy as normal protium (1H). Deuterium accumulates in body water and tissue when consumed in food and water; its doubled mass alters chemical bond strength and disrupts enzymatic function and cellular signaling."
+              "text": "A material's electrical properties; dielectric constant (κ) measures the ability to support an electric field; higher values indicate more ordered, structured water."
             },
             "Exclusion Zone": {
               "level": "pro",
-              "text": "A highly ordered, structured water lattice formed at interfaces in biological systems, characterized by high dielectric constant and coherent molecular alignment. Disruption of EZ structure by deuterium accumulation causes loss of charge separation and fluid stagnation."
+              "text": "Ordered, structured water layer adjacent to hydrophilic surfaces; maintains high dielectric constant (κ≈160) and supports efficient charge separation and fluid flow."
             },
             "dielectric constant": {
               "level": "pro",
-              "text": "A measure of a material's ability to maintain electrical charge separation and support electromagnetic field propagation. High dielectric constant (k=160) allows ordered fluid movement and electrical signaling; collapse to k≈80 causes stagnation and loss of bioelectric function."
+              "text": "A measure of a material's ability to support an electric field; κ≈160 in healthy structured water; κ≈80 in deuterated, collapsed water."
             },
-            "aquifer": {
+            "charge separation": {
               "level": "noob",
-              "text": "An underground layer of rock or sand that holds and transmits groundwater. Florida's sandy, porous aquifers are particularly vulnerable to deuterium accumulation due to their geology and water table dynamics."
+              "text": "The electrical potential difference created by unequal distribution of positive and negative charges; essential for plant sap flow and nutrient transport."
             },
-            "deuterium-depleted water": {
+            "permittivity": {
               "level": "pro",
-              "text": "Water with deuterium concentration reduced below the natural level of ~150 ppm. Consumption or application of deuterium-depleted water may reduce tissue deuterium burden and restore normal enzymatic and cellular function."
+              "text": "The ability of a material to be polarized by an electric field; altered by deuterium incorporation into water and tissue."
+            },
+            "anaerobic": {
+              "level": "noob",
+              "text": "Lacking oxygen; conditions that favor growth of anaerobic bacteria like Candidatus Liberibacter asiaticus."
             }
           },
-          "source_quote": "Centralized agricultural and biological science looks at the devastation of the Florida citrus industry and lays 100% of the blame on a bacterium (Candidatus Liberibacter asiaticus) causing the plant disease known as Citrus Greening (Huanglongbing / HLB). They treat the bacteria as an isolated, invading predator. They are completely blind to the foundational laws of sub-molecular thermodynamics, fluid dynamics, and mass: the bacteria is merely an opportunist thriving inside a stalled, uncoupled fluid vortex where heavy Deuterium has completely corrupted the water table's dielectric baseline.",
+          "source_quote": "The bacteria is merely an opportunist thriving inside a stalled, uncoupled fluid vortex where heavy Deuterium has completely corrupted the water table's dielectric baseline.",
           "citations": [],
           "source_ids": [],
           "source_urls": [
             "https://forum.jackkruse.com/threads/the-magnetic-excursion-thread.32766/"
-          ]
-        },
-        {
-          "tag": "40Hz gamma, malocclusion, deuterium depletion",
-          "lead": "40Hz gamma frequency as biophysical resonance to clear deuterium from brainstem optical signaling and restore midface bone remodeling without mechanical orthodontics",
-          "body": "A forum post proposes {{concept:40Hz}} (gamma frequency) stimulation as a biophysical alternative to mechanical orthodontics or surgery for {{concept:Class II malocclusion}}. 40Hz is the frequency of {{concept:thalamocortical binding}}, the brain's integration metronome. Applied as vibration, 40Hz acts as a centrifuge to overcome the viscous drag of {{concept:deuterium}} (D+) in the brainstem's optical highway, allowing the {{concept:MITF-AMPAR loop}} to resume high-voltage signaling—the prerequisite for bone remodeling. By vibrating tissue at the frequency the brain uses to integrate data, the intervention \"cleans the lenses\" of the thalamus and restores {{concept:Lagrangian symmetry}} of the midface stalled by the {{concept:Kinetic Isotope Effect}}. The {{concept:piezoelectric}} effect of 40Hz vibration charges the bone matrix, enabling structural remodeling without mechanical force. This approach treats malocclusion as a deuterium-driven optical signaling failure in the brainstem, not a purely mechanical jaw problem.",
-          "points": [
-            "**Mechanism.** 40Hz gamma frequency vibration → overcomes deuterium viscous drag in brainstem optical pathway → restores triplet oxygen spin-coherence → {{concept:MITF-AMPAR loop}} high-voltage signaling → piezoelectric charge in bone matrix → {{concept:Lagrangian symmetry}} restoration → midface remodeling without mechanical force.",
-            "**Frequency specificity.** 40Hz is the thalamocortical binding frequency—the brain's native integration rhythm. Applying this frequency as tissue vibration provides the specific kinetic energy needed to overcome deuterium drag and restore neural-skeletal coupling.",
-            "**Biophysics over mechanics.** Class II malocclusion treatment via 40Hz resonance bets on physics and isotopic clearance rather than mechanical appliances or surgical carpentry. This approach avoids the structural trauma and long-term relapse risk of mechanical orthodontics.",
-            "**Measurement and follow-up.** Test 40Hz frequency intervention before pursuing surgical or appliance-based treatment. Measure response to frequency stimulation and track midface symmetry changes over time."
-          ],
-          "concepts": {
-            "40Hz": {
-              "level": "pro",
-              "text": "Gamma frequency oscillation at 40 cycles per second, the native frequency of thalamocortical binding and conscious perception. Applied as tissue vibration, 40Hz provides kinetic energy to overcome deuterium drag and restore neural-skeletal signaling."
-            },
-            "Class II malocclusion": {
-              "level": "noob",
-              "text": "A dental condition in which the upper jaw and teeth are positioned forward relative to the lower jaw, causing an overbite. Traditionally treated with mechanical orthodontics or surgery; this model proposes 40Hz frequency stimulation as an alternative."
-            },
-            "thalamocortical binding": {
-              "level": "pro",
-              "text": "The neural synchronization between thalamus and cortex at 40Hz frequency, the brain's native metronome for integrating sensory data and conscious perception. This frequency is fundamental to neural coherence and information processing."
-            },
-            "deuterium": {
-              "level": "pro",
-              "text": "A stable isotope of hydrogen with one proton and one neutron, making it twice as heavy as normal protium (1H). Deuterium accumulates in body water and tissue when consumed in food and water; its doubled mass alters chemical bond strength and disrupts enzymatic function and cellular signaling."
-            },
-            "MITF-AMPAR loop": {
-              "level": "pro",
-              "text": "A neural signaling pathway involving microphthalmia-associated transcription factor (MITF) and AMPA receptors. High-voltage signaling through this loop is required for bone remodeling and structural development."
-            },
-            "Lagrangian symmetry": {
-              "level": "pro",
-              "text": "A principle of physical symmetry and balance in a system. In the context of midface anatomy, Lagrangian symmetry refers to the balanced, symmetric structure of facial bones and soft tissues."
-            },
-            "Kinetic Isotope Effect": {
-              "level": "pro",
-              "text": "The change in reaction rate or equilibrium when a heavier isotope (like deuterium) replaces a lighter one (like protium). Deuterium's doubled mass alters bond strength and reaction velocity, disrupting normal biochemical and biophysical processes."
-            },
-            "piezoelectric": {
-              "level": "pro",
-              "text": "The generation of electrical charge in response to mechanical stress or vibration. Bone tissue is piezoelectric; vibration at specific frequencies generates electrical charge that stimulates bone remodeling and mineralization."
-            }
-          },
-          "source_quote": "If you have a Class 2 malocclusion and want to avoid the \"structural carpentry\" of surgery, you are essentially betting on physics over mechanics.",
-          "citations": [],
-          "source_ids": [],
-          "source_urls": [
-            "https://forum.jackkruse.com/threads/long-hair-vs-short-hair.32404/"
           ]
         }
       ]

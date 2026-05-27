@@ -1,10 +1,19 @@
 {
   "date": "2026-05-27",
-  "fetched_at": "2026-05-27T05:51:50.086Z",
+  "fetched_at": "2026-05-27T07:57:01.055Z",
   "source": "https://forum.jackkruse.com/find-new/posts/",
   "window_hours": 24,
-  "post_count": 28,
+  "post_count": 26,
   "posts": [
+    {
+      "thread_title": "WHY YOU MUST BE DISCERNING WITH AI",
+      "thread_url": "https://forum.jackkruse.com/threads/why-you-must-be-discerning-with-ai.32828/",
+      "post_url": "https://forum.jackkruse.com/threads/why-you-must-be-discerning-with-ai.32828/latest",
+      "author": "riksa",
+      "posted_at": "2026-05-27T07:12:12.000Z",
+      "forum_name": "Jack Kruse",
+      "content": "I think it can take over your reward and decision making systems very covertly. Like a slot machine, except you win every spin and its tied not only to your reward systems but importantly to other critical higher cognitive processess molding it over time. You get SO MUCH perceived value for so little effort it is fucking your dopamine like crazy and you want it to tie that to something related to thinking, or whatever important too? ´´ Do I still think there is \"correct\" use and nuance? Yes. I do use AI my self."
+    },
     {
       "thread_title": "VAGAL NERVE STIMULATION TIPS",
       "thread_url": "https://forum.jackkruse.com/threads/vagal-nerve-stimulation-tips.32826/",
@@ -85,15 +94,6 @@
       "posted_at": "2026-05-27T01:15:39.000Z",
       "forum_name": "pen",
       "content": "Not a surprise. Nice find. Nice first post too."
-    },
-    {
-      "thread_title": "WHY YOU MUST BE DISCERNING WITH AI",
-      "thread_url": "https://forum.jackkruse.com/threads/why-you-must-be-discerning-with-ai.32828/",
-      "post_url": "https://forum.jackkruse.com/threads/why-you-must-be-discerning-with-ai.32828/latest",
-      "author": "Szen",
-      "posted_at": "2026-05-27T00:47:08.000Z",
-      "forum_name": "Jack Kruse",
-      "content": "Is your concern about AI use that it will condition people to lose their ability to connect to real people, and also become lazy? That's valid if people are using AI as a chatbot (i.e. treating it as an online friend) - though I also see it as simply amplifying what's already vulnerable like with social media algorithms. The antidote to that is to go outside and talk to people for real. If you are using it for work, I don't see it as much different from hiring a fresh grad student. You still need to be aware of their education background (i.e. ideally you run your own LLM and feed your selected data rather than rely on someone else's), verify the work they did for you (e.g. did they simply cut and paste pieces of the 1st link off Wikipedia), and be mindful not to hand off confidential information and decision-making to them. Give them enough time and training, and they become more accurate and competent, though you can never trust them 100%. I get it though. I used to be vehemently against AI for anything other than shitposting for all the same common talking points. edit: Additional food for thought: https://forum.jackkruse.com/threads/the-great-magnetic-short-what-to-expect-in-factor-y.32503/post-373474 https://forum.jackkruse.com/threads/jacks-journal-journey-2019-and-beyond.23037/post-375129 And the fact this thread is in Educating Doctors section."
     },
     {
       "thread_title": "TAP ZAP : Block Blue light & Stop PWM flicker on Mac/Windows",
@@ -238,24 +238,6 @@
       "posted_at": "2026-05-26T09:33:55.000Z",
       "forum_name": "Jack Kruse",
       "content": "I have been doing sunrises since August and having uvex blue blocking glasses and covering my skin at knight."
-    },
-    {
-      "thread_title": "New Gold Member - Question for Dr. Kruse",
-      "thread_url": "https://forum.jackkruse.com/threads/new-gold-member-question-for-dr-kruse.32554/",
-      "post_url": "https://forum.jackkruse.com/threads/new-gold-member-question-for-dr-kruse.32554/latest",
-      "author": "baliper",
-      "posted_at": "2026-05-26T07:30:22.000Z",
-      "forum_name": "JimBo99",
-      "content": "@ Jack Any reason not to use a TENS unit for vagal stimulation ? IF it is ok should both pads be on the same side of the neck or can you place them on opposite sides?"
-    },
-    {
-      "thread_title": "How long does it take for vitamin d levels to go up naturally?",
-      "thread_url": "https://forum.jackkruse.com/threads/how-long-does-it-take-for-vitamin-d-levels-to-go-up-naturally.28177/unread",
-      "post_url": "https://forum.jackkruse.com/threads/how-long-does-it-take-for-vitamin-d-levels-to-go-up-naturally.28177/latest",
-      "author": "SusieQ",
-      "posted_at": "2026-05-26T07:17:14.000Z",
-      "forum_name": "NikkiYork",
-      "content": "The VanAllen belt likely is not what dr. jack is talking about, but some other radiation soup. At least that’s what I researched about it. It doesn’t matter. My question is: what is a normal rate of raising it. Some average rate, some sufficient rate, a rate that somebody experienced. No takers?"
     }
   ]
 }
