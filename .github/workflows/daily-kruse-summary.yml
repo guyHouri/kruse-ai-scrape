@@ -2,8 +2,8 @@ name: Daily Kruse Summary
 
 on:
   schedule:
-    # Pre-sunrise window for Jerusalem year-round (~02:00-04:30 UTC).
-    - cron: '0,30 2-4 * * *'
+    # Daily report send/build. Two attempts reduce GitHub schedule drops; last-sent prevents duplicate email.
+    - cron: '17,47 6 * * *'
   repository_dispatch:
     types: [daily-kruse-summary]
   workflow_dispatch:
@@ -135,6 +135,7 @@ jobs:
           SUPABASE_URL: https://zpxhovwsswnjdjibcvsh.supabase.co
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           SUPABASE_MAILING_LIST_TABLE: kruse_mailing_list
+          KRUSE_EMAIL_TEST_RECIPIENTS: guy.houri2024@gmail.com
           KRUSE_SITE_PUBLIC_BASE_URL: https://guyhouri.github.io/kruse-ai-scrape
           REPORT_TIME_ZONE: ${{ vars.REPORT_TIME_ZONE || 'Asia/Jerusalem' }}
           LOCATION_LAT: ${{ vars.LOCATION_LAT }}
@@ -164,7 +165,7 @@ jobs:
           case "$MODE" in
             build-only) node main.js --build-only --use-ai $DATE_FLAG ;;
             force)      node main.js --force --use-ai $DATE_FLAG ;;
-            *)          node main.js --use-ai $DATE_FLAG ;;
+            *)          node main.js --skip-window --use-ai $DATE_FLAG ;;
           esac
           echo "::endgroup::"
 

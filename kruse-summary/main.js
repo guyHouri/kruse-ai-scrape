@@ -9,6 +9,7 @@
 // Flags:
 //   --build-only       build HTML, write to out/<date>.html, do NOT send
 //   --force            skip sunrise window check AND last-sent check
+//   --skip-window      skip sunrise window check, but still respect last-sent
 //   --date=YYYY-MM-DD  override which date to report on
 
 import { mkdirSync, existsSync, writeFileSync } from 'node:fs';
@@ -46,6 +47,7 @@ function parseArgs() {
   return {
     buildOnly: args.includes('--build-only'),
     force: args.includes('--force'),
+    skipWindow: args.includes('--skip-window'),
     useAi: args.includes('--use-ai'),
     aiDryRun: args.includes('--ai-dry-run'),
     date: get('date'),
@@ -104,7 +106,7 @@ async function main() {
 
   if (args.buildOnly) { info('build-only mode, skipping send.'); return; }
 
-  if (!args.force) {
+  if (!args.force && !args.skipWindow) {
     let windowResult;
     try {
       windowResult = await checkSendWindow();
@@ -118,7 +120,9 @@ async function main() {
       return;
     }
   } else {
-    warn('--force: bypassing sunrise window check.');
+    warn(args.force
+      ? '--force: bypassing sunrise window check and last-sent guard.'
+      : '--skip-window: bypassing sunrise window check but keeping last-sent guard.');
   }
 
   await sendReportEmail({

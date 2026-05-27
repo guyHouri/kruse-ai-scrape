@@ -17,14 +17,42 @@ import { info } from './logger.js';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const PUBLIC_BASE_URL = process.env.KRUSE_SITE_PUBLIC_BASE_URL || 'https://guyhouri.github.io/kruse-ai-scrape';
 
-function loadMailingList() {
+function loadMailingList({ allowEmpty = false } = {}) {
   const p = path.join(ROOT, SETTINGS.mailingListPath);
   if (!existsSync(p)) throw new Error(`mailing list not found: ${p}`);
   const json = JSON.parse(readFileSync(p, 'utf8'));
-  if (!Array.isArray(json.recipients) || !json.recipients.length) {
+  if (!Array.isArray(json.recipients)) {
+    throw new Error('mailing_list.json must contain recipients[]');
+  }
+  if (!allowEmpty && !json.recipients.length) {
     throw new Error('mailing_list.json has empty recipients[]');
   }
   return json.recipients;
+}
+
+export function normalizeSendEmail(email) {
+  return String(email || '').trim().toLowerCase();
+}
+
+export function parseTestRecipients(value) {
+  return String(value || '')
+    .split(/[,\s;]+/)
+    .map(normalizeSendEmail)
+    .filter(Boolean);
+}
+
+export function applyTestRecipientGate(recipients, testRecipientsValue = process.env.KRUSE_EMAIL_TEST_RECIPIENTS || '') {
+  const testEmails = [...new Set(parseTestRecipients(testRecipientsValue))];
+  if (!testEmails.length) return recipients;
+
+  const byEmail = new Map();
+  for (const recipient of recipients || []) {
+    const email = normalizeSendEmail(recipient?.email);
+    if (!email || byEmail.has(email)) continue;
+    byEmail.set(email, { ...recipient, email });
+  }
+
+  return testEmails.map((email) => byEmail.get(email) || { email, name: '' });
 }
 
 function buildTransport() {
@@ -63,10 +91,18 @@ function displayName(recipient) {
 // Send a tiny link-only email. The public website is the source of truth; the
 // inbox should not receive the whole HTML report or an attachment.
 export async function sendReportEmail({ subject, dateDisplay, reportUrl }) {
-  const recipients = loadMailingList();
+  const testRecipientsValue = process.env.KRUSE_EMAIL_TEST_RECIPIENTS || '';
+  const recipients = applyTestRecipientGate(
+    loadMailingList({ allowEmpty: Boolean(parseTestRecipients(testRecipientsValue).length) }),
+    testRecipientsValue,
+  );
+  if (!recipients.length) throw new Error('no email recipients after applying test-recipient gate');
   const transport = buildTransport();
   const websiteUrl = reportUrl || reportUrlForDateDisplay(dateDisplay);
   const unsubscribe = unsubscribeUrl();
+  if (testRecipientsValue) {
+    info(`test-recipient gate active: sending only to ${recipients.map((r) => r.email).join(', ')}`);
+  }
   info(`sending "${subject}" to ${recipients.length} recipient(s) individually`);
 
   const results = [];

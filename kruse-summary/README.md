@@ -119,6 +119,9 @@ npm run deploy-site
 # Normal scheduled behavior: build, check sunrise window, send only if allowed.
 npm start
 
+# Build/send now while still respecting last-sent.
+node main.js --skip-window --use-ai --date=2026-05-27
+
 # Bypass sunrise and last-sent gates, then send.
 npm run force-send
 ```
@@ -267,11 +270,26 @@ The scheduled data workflow is `.github/workflows/daily-kruse-summary.yml`. It
 runs on the current `REPORT_TIME_ZONE` day, scrapes X, scrapes the forum,
 builds the AI report, sends email, mirrors the generated site into `docs/`,
 commits the generated daily state back to `main`, and triggers the CI/CD deploy.
+It is scheduled at `06:17` and `06:47` UTC every day. Those two attempts reduce
+GitHub's occasional scheduled-run drops; `last-sent.json` prevents duplicate
+email if both attempts run.
 
 The main-branch CI/CD workflow is `.github/workflows/ci-cd.yml`. It runs on
 pushes to `main`, manual dispatch, and the daily workflow's
 `deploy-report-site` repository dispatch. It runs `twitter_to_md` and
 `kruse-summary` tests first, then deploys the public website from `docs/`.
+
+### Test-Only Email Gate
+
+The daily GitHub workflow currently sets:
+
+```text
+KRUSE_EMAIL_TEST_RECIPIENTS=guy.houri2024@gmail.com
+```
+
+That means production signups can still be collected and synced from Supabase,
+but outgoing report emails are filtered to the test recipient only. Remove or
+change that workflow env var only after approving the report/mail behavior.
 
 Manual GitHub run:
 
