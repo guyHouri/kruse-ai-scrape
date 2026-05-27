@@ -270,9 +270,8 @@ The scheduled data workflow is `.github/workflows/daily-kruse-summary.yml`. It
 runs on the current `REPORT_TIME_ZONE` day, scrapes X, scrapes the forum,
 builds the AI report, sends email, mirrors the generated site into `docs/`,
 commits the generated daily state back to `main`, and triggers the CI/CD deploy.
-It is scheduled at `06:17` and `06:47` UTC every day. Those two attempts reduce
-GitHub's occasional scheduled-run drops; `last-sent.json` prevents duplicate
-email if both attempts run.
+It is scheduled at `06:17` UTC every day. `last-sent.json` prevents duplicate
+email on manual retries or re-runs.
 
 The main-branch CI/CD workflow is `.github/workflows/ci-cd.yml`. It runs on
 pushes to `main`, manual dispatch, and the daily workflow's

@@ -22,6 +22,36 @@
       "subscribedAt": "2026-05-26T11:04:36.521039+00:00"
     },
     {
+      "email": "amitst.streit@gmail.com",
+      "name": "Amit Streit",
+      "comments": "Manually added by Guy request; held behind test-recipient email gate.",
+      "frequency": "Daily",
+      "source": "manual-added",
+      "reportDate": "",
+      "reportUrl": "https://guyhouri.github.io/kruse-ai-scrape/",
+      "subscribedAt": "2026-05-27T06:00:00.000Z"
+    },
+    {
+      "email": "daniel@evoav.co.uk",
+      "name": "Daniel",
+      "comments": "Manually added by Guy request; held behind test-recipient email gate.",
+      "frequency": "Daily",
+      "source": "manual-added",
+      "reportDate": "",
+      "reportUrl": "https://guyhouri.github.io/kruse-ai-scrape/",
+      "subscribedAt": "2026-05-27T06:00:00.000Z"
+    },
+    {
+      "email": "eranglicksman@gmail.com",
+      "name": "Eran Glicksman",
+      "comments": "Manually added by Guy request; held behind test-recipient email gate.",
+      "frequency": "Daily",
+      "source": "manual-added",
+      "reportDate": "",
+      "reportUrl": "https://guyhouri.github.io/kruse-ai-scrape/",
+      "subscribedAt": "2026-05-27T06:00:00.000Z"
+    },
+    {
       "email": "richardjamesskold@gmail.com",
       "name": "Richard sköld",
       "comments": "Awesome",
@@ -42,5 +72,5 @@
       "subscribedAt": "2026-05-26T13:19:21.108652+00:00"
     }
   ],
-  "updatedAt": "2026-05-27T05:51:52.030Z"
+  "updatedAt": "2026-05-27T06:00:00.000Z"
 }

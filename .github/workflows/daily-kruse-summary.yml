@@ -2,8 +2,8 @@ name: Daily Kruse Summary
 
 on:
   schedule:
-    # Daily report send/build. Two attempts reduce GitHub schedule drops; last-sent prevents duplicate email.
-    - cron: '17,47 6 * * *'
+    # Daily report send/build. last-sent prevents duplicate email on manual retries.
+    - cron: '17 6 * * *'
   repository_dispatch:
     types: [daily-kruse-summary]
   workflow_dispatch:
