@@ -1,6 +1,6 @@
 # Daily Kruse Pipeline
 
-End-to-end daily workflow for the public Kruse report site and test email send.
+End-to-end daily workflow for the public Kruse report site and mailing-list email send.
 This is separate from the NotebookLM archive scrapers: the archive scrapers
 produce long-term markdown bundles, while this pipeline produces one daily HTML
 report from the last 24 hours of X and forum activity.
@@ -14,19 +14,15 @@ The active automation is `.github/workflows/daily-kruse-summary.yml`.
   and the local send time.
 - Accepts manual `workflow_dispatch`.
 - Accepts external `repository_dispatch` with event type `daily-kruse-summary`.
-- Sends email only to `KRUSE_EMAIL_TEST_RECIPIENTS` while the test gate is on.
+- Sends email to the synced mailing list. A temporary test gate can still be
+  enabled with `KRUSE_EMAIL_TEST_RECIPIENTS`, but it is not active by default.
 - Commits generated daily data, report HTML, mailing-list sync, and website
   files back to `main`.
 - Triggers `.github/workflows/ci-cd.yml` after the daily commit.
 
-The current test email gate is:
-
-```text
-KRUSE_EMAIL_TEST_RECIPIENTS=guy.houri2024@gmail.com
-```
-
-So Supabase can collect real signups now, but the workflow sends only to Guy
-until that env var is removed or changed.
+Manual `send-existing` mode reuses the already-committed curated report for a
+date and sends it without scraping again or calling Anthropic again. Use it when
+an approved test report should now go to the full mailing list.
 
 ## Date And Time Rules
 
@@ -296,6 +292,7 @@ Run the daily workflow from GitHub CLI:
 
 ```powershell
 gh workflow run "Daily Kruse Summary" --repo guyHouri/kruse-ai-scrape --ref main -f mode=force -f date=2026-05-27
+gh workflow run "Daily Kruse Summary" --repo guyHouri/kruse-ai-scrape --ref main -f mode=send-existing -f date=2026-05-27
 ```
 
 Repository-dispatch fallback:

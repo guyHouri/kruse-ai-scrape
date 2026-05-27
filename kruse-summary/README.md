@@ -296,22 +296,20 @@ GERD, hernia, lower esophageal sphincter, doxycycline, 5-FU, mitochondrial
 complex IV, dielectric collapse, isotope effect, and unclear Kruse phrases like
 water table collapse or lattice lock.
 
-### Test-Only Email Gate
+### Email Audience
 
-The daily GitHub workflow currently sets:
+The daily GitHub workflow sends to the synced mailing list by default. For a
+temporary test-only run, set `KRUSE_EMAIL_TEST_RECIPIENTS` in the workflow env
+or shell; `code/email.js` will filter delivery to those addresses.
 
-```text
-KRUSE_EMAIL_TEST_RECIPIENTS=guy.houri2024@gmail.com
-```
-
-That means production signups can still be collected and synced from Supabase,
-but outgoing report emails are filtered to the test recipient only. Remove or
-change that workflow env var only after approving the report/mail behavior.
+Use `mode=send-existing` when an already-approved report should be sent without
+scraping again or calling Anthropic again.
 
 Manual GitHub run:
 
 ```bash
 gh workflow run "Daily Kruse Summary" --ref main -f mode=force -f date=2026-05-26
+gh workflow run "Daily Kruse Summary" --ref main -f mode=send-existing -f date=2026-05-26
 ```
 
 If `gh` says it is not authenticated but normal `git push` works, Git

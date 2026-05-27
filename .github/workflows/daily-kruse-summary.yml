@@ -18,6 +18,7 @@ on:
           - normal
           - force
           - build-only
+          - send-existing
       date:
         description: 'Report date (YYYY-MM-DD). Empty -> current report-timezone day.'
         required: false
@@ -116,6 +117,10 @@ jobs:
           TARGET="${{ steps.target.outputs.date }}"
           MODE="${{ github.event.inputs.mode || github.event.client_payload.mode }}"
           if [ -z "$MODE" ]; then MODE="normal"; fi
+          if [ "$MODE" = "send-existing" ]; then
+            echo "send-existing mode: reusing committed report data; skipping X scrape."
+            exit 0
+          fi
           if [ "$MODE" != "force" ] && [ -f "data/${TARGET}.json" ] && \
              [ "$(node -e "const p=JSON.parse(require('fs').readFileSync('data/${TARGET}.json','utf8')); const t=Date.parse(p.window_end_utc||p.fetched_at||0); console.log((p.tweet_count||0)>0 && Number.isFinite(t) && Date.now()-t < 4*60*60*1000 ? 'fresh' : 'stale')")" = "fresh" ]; then
             echo "Already have fresh rolling tweets for $TARGET - skipping X API call."
@@ -136,6 +141,10 @@ jobs:
           TARGET="${{ steps.target.outputs.date }}"
           MODE="${{ github.event.inputs.mode || github.event.client_payload.mode }}"
           if [ -z "$MODE" ]; then MODE="normal"; fi
+          if [ "$MODE" = "send-existing" ]; then
+            echo "send-existing mode: reusing committed forum data; skipping forum scrape."
+            exit 0
+          fi
           echo "::group::Fetch forum posts for $TARGET"
           npm install
           if [ "$MODE" = "force" ]; then
@@ -159,7 +168,6 @@ jobs:
           SUPABASE_URL: https://zpxhovwsswnjdjibcvsh.supabase.co
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           SUPABASE_MAILING_LIST_TABLE: kruse_mailing_list
-          KRUSE_EMAIL_TEST_RECIPIENTS: guy.houri2024@gmail.com
           KRUSE_SITE_PUBLIC_BASE_URL: https://guyhouri.github.io/kruse-ai-scrape
           REPORT_TIME_ZONE: ${{ vars.REPORT_TIME_ZONE || 'Asia/Jerusalem' }}
           INCLUDE_FORUM: 'true'
@@ -180,13 +188,18 @@ jobs:
           DATE="${{ steps.target.outputs.date }}"
           DATE_FLAG=""
           if [ -n "$DATE" ]; then DATE_FLAG="--date=$DATE"; fi
-          echo "::group::Build combined daily input"
-          node code/build-input.js $DATE
-          echo "::endgroup::"
+          if [ "$MODE" != "send-existing" ]; then
+            echo "::group::Build combined daily input"
+            node code/build-input.js $DATE
+            echo "::endgroup::"
+          else
+            echo "send-existing mode: using committed curated/${DATE}.json and out/${DATE}.html source data."
+          fi
           echo "::group::Summarize with Anthropic and send email"
           case "$MODE" in
             build-only) node main.js --build-only --use-ai $DATE_FLAG ;;
             force)      node main.js --force --use-ai $DATE_FLAG ;;
+            send-existing) node main.js --force $DATE_FLAG ;;
             *)          node main.js --use-ai $DATE_FLAG ;;
           esac
           echo "::endgroup::"
