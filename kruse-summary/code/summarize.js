@@ -657,9 +657,57 @@ const FALLBACK_CONCEPTS = {
     level: 'noob',
     text: 'Lowering the amount of deuterium, the heavy isotope of hydrogen, in water or the body. Kruse links lower deuterium load to mitochondrial and water-chemistry effects.',
   },
+  deuterium: {
+    level: 'noob',
+    text: 'A heavier form of hydrogen. Kruse uses deuterium load as a water-chemistry and mitochondrial-efficiency variable, especially when discussing deuterium-depleted water or proton flow.',
+  },
+  'deuterium d+': {
+    level: 'noob',
+    text: 'Deuterium is heavy hydrogen; D+ means its positively charged ion form. In this report it matters because Kruse links heavier hydrogen handling to mitochondrial water and energy chemistry.',
+  },
   'deuterium concentration ppm': {
     level: 'noob',
     text: 'The amount of deuterium measured in parts per million. Normal water is often around 150 ppm; deuterium-depleted water claims usually refer to lowering that number.',
+  },
+  nnemf: {
+    level: 'noob',
+    text: 'Non-native electromagnetic fields: man-made electrical, wireless, or magnetic exposures. Kruse uses the term when arguing that artificial fields can disturb charge, water structure, or mitochondrial signaling.',
+  },
+  'nnemf nonnative electromagnetic field': {
+    level: 'noob',
+    text: 'Non-native electromagnetic field: artificial EMF from modern electrical or wireless systems, contrasted with natural light, geomagnetic, and atmospheric fields.',
+  },
+  'non native electromagnetic field': {
+    level: 'noob',
+    text: 'Artificial electromagnetic exposure from technology rather than natural solar, atmospheric, or geomagnetic sources.',
+  },
+  'dielectric collapse': {
+    level: 'noob',
+    text: 'A dielectric is an insulating material that can store electrical energy in an electric field. Dielectric collapse means Kruse is claiming the tissue/water system loses that charge-storage behavior.',
+  },
+  'gastroesophageal reflux disease gerd': {
+    level: 'noob',
+    text: 'GERD is chronic acid reflux: stomach contents repeatedly move upward into the esophagus, causing burning, irritation, cough, or throat symptoms.',
+  },
+  gerd: {
+    level: 'noob',
+    text: 'Gastroesophageal reflux disease: chronic reflux where stomach contents move upward into the esophagus and irritate it.',
+  },
+  'hiatal hernia': {
+    level: 'noob',
+    text: 'A condition where part of the stomach pushes up through the diaphragm opening. It can worsen reflux by weakening the normal barrier between stomach and esophagus.',
+  },
+  hypothyroidism: {
+    level: 'noob',
+    text: 'Low thyroid hormone output or effect. Common consequences include fatigue, cold intolerance, constipation, weight gain, dry skin, and slower metabolism.',
+  },
+  'vagal tone': {
+    level: 'noob',
+    text: 'How strongly the vagus nerve supports rest-and-digest functions such as digestion, heart-rate regulation, inflammation control, and gut motility.',
+  },
+  'isotopic purification': {
+    level: 'pro',
+    text: 'A chemistry phrase for shifting isotope mix. In Kruse context this usually means reducing heavy hydrogen/deuterium burden so water and mitochondrial proton handling are more favorable.',
   },
   'grounding capacity': {
     level: 'noob',
@@ -845,7 +893,7 @@ export function repairRequiredTranslationConcepts(summary, selection) {
 
       for (const term of selected.translation_terms || []) {
         if (conceptMapCoversTerm(card.concepts, term)) continue;
-        const fallback = FALLBACK_CONCEPTS[conceptKey(term)];
+        const fallback = fallbackConceptForTerm(term);
         if (!fallback) continue;
         card.concepts[term] = { ...fallback };
         card = tagCardTerm(card, term);
@@ -1107,6 +1155,25 @@ function isJackForumPriorityThreeSignal(item) {
     && item.source_authority === 'jack'
     && (item.priority || 0) >= 3
     && JACK_FORUM_PRIORITY_THREE_TYPES.has(String(item.value_type || '').toLowerCase());
+}
+
+function fallbackConceptForTerm(term) {
+  const key = conceptKey(term);
+  if (FALLBACK_CONCEPTS[key]) return FALLBACK_CONCEPTS[key];
+
+  for (const alias of termAliases(term)) {
+    if (FALLBACK_CONCEPTS[alias]) return FALLBACK_CONCEPTS[alias];
+  }
+
+  if (key.includes('deuterium')) return FALLBACK_CONCEPTS.deuterium;
+  if (key.includes('nnemf') || key.includes('electromagnetic field')) return FALLBACK_CONCEPTS.nnemf;
+  if (key.includes('dielectric')) return FALLBACK_CONCEPTS['dielectric collapse'];
+  if (key.includes('gastroesophageal') || key.includes('gerd')) return FALLBACK_CONCEPTS.gerd;
+  if (key.includes('hiatal hernia')) return FALLBACK_CONCEPTS['hiatal hernia'];
+  if (key.includes('hypothyroid')) return FALLBACK_CONCEPTS.hypothyroidism;
+  if (key.includes('vagal')) return FALLBACK_CONCEPTS['vagal tone'];
+  if (key.includes('isotopic')) return FALLBACK_CONCEPTS['isotopic purification'];
+  return null;
 }
 
 export function repairPrivatePhraseConcepts(summary) {

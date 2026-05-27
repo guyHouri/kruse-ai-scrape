@@ -109,6 +109,51 @@ test('repairRequiredTranslationConcepts explains slash-normalized science terms'
   assert.match(card.concepts['grounding/uninsulated'].text, /conductive path to the earth/);
 });
 
+test('repairRequiredTranslationConcepts explains common medical and Kruse science terms', () => {
+  const summary = {
+    sections: [
+      {
+        title: 'Forum',
+        cards: [
+          {
+            lead: 'GERD and hypothyroidism share charge failures',
+            body: 'The source links GERD, hypothyroidism, nnEMF, deuterium, and dielectric collapse.',
+            points: [],
+            concepts: {},
+            source_urls: ['https://forum.jackkruse.com/threads/gerd.1/'],
+          },
+        ],
+      },
+    ],
+  };
+  const selection = {
+    selected_items: [
+      {
+        source_type: 'forum',
+        source_id: 'https://forum.jackkruse.com/threads/gerd.1/',
+        source_url: 'https://forum.jackkruse.com/threads/gerd.1/',
+        title: 'GERD and hypothyroidism share charge failures',
+        translation_terms: [
+          'deuterium (D+)',
+          'nnEMF (non-native electromagnetic field)',
+          'dielectric collapse',
+          'gastroesophageal reflux disease (GERD)',
+          'hypothyroidism',
+        ],
+      },
+    ],
+  };
+
+  const repaired = repairRequiredTranslationConcepts(summary, selection);
+  const concepts = repaired.sections[0].cards[0].concepts;
+
+  assert.match(concepts['deuterium (D+)'].text, /heavier form of hydrogen|heavy hydrogen/i);
+  assert.match(concepts['nnEMF (non-native electromagnetic field)'].text, /artificial|non-native electromagnetic/i);
+  assert.match(concepts['dielectric collapse'].text, /charge-storage/);
+  assert.match(concepts['gastroesophageal reflux disease (GERD)'].text, /acid reflux|chronic reflux/i);
+  assert.match(concepts.hypothyroidism.text, /thyroid hormone/i);
+});
+
 test('repairPrivatePhraseConcepts explains Kruse shorthand when the model forgets', () => {
   const repaired = repairPrivatePhraseConcepts({
     sections: [
