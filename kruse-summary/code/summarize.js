@@ -1412,11 +1412,36 @@ function dumpRaw(date, label, text) {
   warn(`raw ${label} response saved to ${path.relative(ROOT, dumpPath)} for inspection`);
 }
 
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function isRetriableAnthropicError(err) {
+  const status = err?.status || err?.code || err?.error?.status;
+  if ([408, 409, 429, 500, 502, 503, 504, 529].includes(Number(status))) return true;
+  return /overload|overloaded|rate.?limit|temporar|timeout|timed out|ECONNRESET|ETIMEDOUT/i.test(String(err?.message || ''));
+}
+
+async function createAnthropicMessage(label, payload) {
+  const maxAttempts = Math.max(1, SETTINGS.anthropicMaxRetries + 1);
+  for (let attempt = 1; attempt <= maxAttempts; attempt += 1) {
+    try {
+      return await client().messages.create(payload);
+    } catch (err) {
+      if (attempt >= maxAttempts || !isRetriableAnthropicError(err)) throw err;
+      const delayMs = SETTINGS.anthropicRetryBaseMs * (2 ** (attempt - 1));
+      warn(`anthropic:${label}: transient API failure on attempt ${attempt}/${maxAttempts} (${err.status || err.message}); retrying in ${Math.round(delayMs / 1000)}s`);
+      await sleep(delayMs);
+    }
+  }
+  throw new Error(`anthropic:${label}: exhausted retries`);
+}
+
 async function callJsonStep(date, label, systemPrompt, userMessage, validator) {
   info(`anthropic:${label}: calling ${SETTINGS.anthropicModel} (max_tokens=${SETTINGS.anthropicMaxTokens})`);
   info(`anthropic:${label}: input ${(userMessage.length / 1024).toFixed(1)} KB, system ${(systemPrompt.length / 1024).toFixed(1)} KB`);
 
-  const response = await client().messages.create({
+  const response = await createAnthropicMessage(label, {
     model: SETTINGS.anthropicModel,
     max_tokens: SETTINGS.anthropicMaxTokens,
     system: systemPrompt,

@@ -52,4 +52,9 @@ export const SETTINGS = {
   // truncated JSON while still allowing env override.
   anthropicMaxTokens: parseInt(process.env.ANTHROPIC_MAX_TOKENS || '20000', 10),
 
+  // Retry transient Anthropic overload/rate-limit failures before failing the
+  // daily job. Keeps successful scrape/forum work from being wasted.
+  anthropicMaxRetries: parseInt(process.env.ANTHROPIC_MAX_RETRIES || '4', 10),
+  anthropicRetryBaseMs: parseInt(process.env.ANTHROPIC_RETRY_BASE_MS || '5000', 10),
+
 };
