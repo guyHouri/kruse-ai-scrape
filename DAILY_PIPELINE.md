@@ -90,8 +90,9 @@ job:
    adding personal opinion.
 5. `explain-system.md` repairs unclear medical, scientific, and technical
    language.
-6. Code validators check source IDs, source quotes, same-day citations, forum
-   URLs, podcast leakage, duplicate cards, and missing explanations.
+6. Code validators check source IDs, source quotes, same-day citations,
+   citation bibliographic anchors, forum URLs, podcast leakage, duplicate
+   cards, and missing explanations.
 7. The renderer builds the final HTML from validated JSON.
 
 Forum updates must go through the same select, write, explain, and verify
@@ -274,6 +275,20 @@ medical/science term or an unclear private phrase. The repair step should add a
 plain-language definition or rewrite the sentence. If the source itself does
 not provide enough information to explain the phrase, the card should say that
 plainly or be dropped.
+
+## Citation Policy
+
+The report citation box is only for real, checkable research references. Source
+links already cover tweets and forum posts, so a vague phrase like "a narrative
+review", "a study", "a paper", or "a review in Clinical Bioenergetics" is not
+enough.
+
+A formal citation must carry bibliographic anchors such as author/researcher
+plus year, journal/source plus year, author/researcher plus journal/source,
+paper title plus year, DOI, PMID, PMCID, arXiv ID, or clinical-trial ID. If a
+source only mentions a review without those anchors, the pipeline may summarize
+the source-bound claim but keeps `citations: []` and does not render it as a
+research citation.
 
 ## Manual Operations
 

@@ -20,6 +20,7 @@
     "concept_alias_repair",
     "translation_term_coverage",
     "concept_integrity",
-    "private_phrase_explanation"
+    "private_phrase_explanation",
+    "citation_bibliographic_anchor_guard"
   ]
 }

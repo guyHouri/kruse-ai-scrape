@@ -106,7 +106,7 @@
           "body": "Cancer mitochondria are not irreversibly damaged but reprogrammed, hyperpolarized ({{concept:ΔΨm}} often −210 to −220 mV vs. normal −150 to −180 mV), metabolically flexible (glycolysis + robust {{concept:OxPhos}}), and actively driving tumor progression. This hyperpolarization is not a feature but a compensatory overdrive in a failing semiconductor caused by {{concept:deuterium}} silt accumulation and {{concept:dielectric collapse}}. When deuterium accumulates, the intracellular water {{concept:dielectric}} drops, the {{concept:band gap}} widens, and proton flow through the {{concept:electron transport chain}} becomes sluggish due to the {{concept:Kinetic Isotope Effect}}. The mitochondrion responds by pumping harder, elevating ΔΨm to maintain any usable proton gradient. {{concept:Inner mitochondrial membrane}} lipid remodeling (cholesterol ↑, {{concept:cardiolipin}} changes) is an emergency scaffolding attempt to keep the membrane from collapsing. Metabolic flexibility (Warburg + OxPhos) reflects survival in a deuterated matrix: glucose can be 'scrubbed' locally via the {{concept:G3P shuttle}}, while mitochondria remain online for biosynthesis, Ca²⁺ handling, {{concept:ROS}} signaling, and immune evasion. The {{concept:Nernst equation}}-driven {{concept:lipophilic cation}} accumulation (100- to 1000-fold enrichment of {{concept:triphenylphosphonium}}) is an exploitable symptom of this desperate biophysical compensation, not the primary pathology.",
           "points": [
             "**Mechanism.** Deuterium silt accumulation → intracellular water lattice collapse (dielectric drop) → band gap widening → sluggish proton flow through ETC (Kinetic Isotope Effect) → mitochondrial compensatory hyperpolarization (ΔΨm increase to −210 to −220 mV) → IMM lipid remodeling (cholesterol ↑, cardiolipin changes) → metabolic flexibility (glycolysis + OxPhos) → Nernst-driven lipophilic cation accumulation. Warburg's glycolytic preference is a symptom of this biophysical failure, not a primary cause of cancer.",
-            "**Research.** A narrative review in Clinical Bioenergetics documents that cancer cell mitochondria maintain functional—and in some cases enhanced—oxidative phosphorylation capacity alongside elevated glycolysis; mitochondrial transmembrane potential is frequently hyperpolarized (−210 mV in some mammary carcinoma lines); lipophilic cations accumulate 100- to 1000-fold in cancer mitochondria via the Nernst equation; mtDNA depletion diminishes tumorigenicity, indicating mitochondria actively modulate malignancy.",
+            "**Quoted-source claim.** The quoted tweet describes cancer mitochondria as maintaining functional or enhanced oxidative phosphorylation alongside elevated glycolysis; {{concept:mitochondrial transmembrane potential}} as frequently hyperpolarized; lipophilic cation accumulation as Nernst-driven; and {{concept:mtDNA}} depletion as a sign that mitochondria modulate malignancy.",
             "**Practical meaning.** Understand cancer mitochondrial hyperpolarization not as a feature but as a compensatory response to deuterated water lattice collapse. Recognize that lipophilic cation accumulation is exploitable for mitochondria-targeted drug delivery, but the underlying biophysical failure—deuterium burden and water lattice integrity—is the upstream driver."
           ],
           "concepts": {
@@ -168,12 +168,7 @@
             }
           },
           "source_quote": "Cancer mitochondria are not irreversibly damaged as Seyfried biochemists sell the public. They are reprogrammed, hyperpolarized (ΔΨm often −210 to −220 mV vs. normal −150 to −180 mV), metabolically flexible (glycolysis + robust OxPhos), and actively driving tumor progression.",
-          "citations": [
-            {
-              "paper": "Narrative review in Clinical Bioenergetics",
-              "claim": "Cancer cell mitochondria maintain functional and enhanced oxidative phosphorylation capacity alongside elevated glycolysis; mitochondrial transmembrane potential is frequently hyperpolarized; lipophilic cations accumulate 100- to 1000-fold in cancer mitochondria via the Nernst equation; inner mitochondrial membrane lipid composition is altered (increased cholesterol, altered cardiolipin); mtDNA depletion diminishes tumorigenicity."
-            }
-          ],
+          "citations": [],
           "source_ids": [
             "2059404037431136503"
           ],

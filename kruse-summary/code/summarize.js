@@ -387,6 +387,72 @@ function normalizeCitation(value) {
   return String(value || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').replace(/\s+/g, ' ').trim();
 }
 
+function citationText(citation) {
+  return `${citation?.paper || ''} ${citation?.claim || ''}`.trim();
+}
+
+export function hasVerifiableCitation(citation) {
+  const paper = String(citation?.paper || '').trim();
+  if (!paper) return false;
+  if (/\b(or its close equivalents|referenced in quoted|quoted tweet|quoted source|source tweet)\b/i.test(paper)) {
+    return false;
+  }
+
+  const hasPersistentId = /\b(?:doi|pmid|pmcid|arxiv|nct)\s*[:#]?\s*[a-z0-9./-]+/i.test(paper);
+  const hasYear = /\b(?:19|20)\d{2}\b/.test(paper);
+  const hasAuthor = /\b[A-Z][A-Za-z'’-]{2,}\s+(?:et al\.?|and\s+[A-Z][A-Za-z'’-]{2,}|[A-Z]\.)\b/.test(paper)
+    || /\b[A-Z][A-Za-z'’-]{2,},\s*(?:[A-Z][A-Za-z'’-]{2,},\s*)?(?:and\s+)?[A-Z][A-Za-z'’-]{2,}\b/.test(paper);
+  const hasVenue = /\b(?:journal|proceedings|transactions|nature|science|cell|lancet|jama|nejm|pnas|bmj|frontiers|clinical bioenergetics|bioenergetics|metabolism|oncology|cancer|mitochondri)\b/i.test(paper);
+  const hasSpecificTitle = /["“”].{12,}["“”]/.test(paper)
+    || /[A-Z][^.!?]{18,}:\s*[^.!?]{8,}/.test(paper);
+
+  if (hasPersistentId) return true;
+  if (/^\s*(?:a\s+)?(?:new\s+|recent\s+)?(?:narrative\s+)?review\s+in\b/i.test(paper)
+    && !hasYear && !hasAuthor && !hasSpecificTitle) {
+    return false;
+  }
+
+  const anchors = [hasYear, hasAuthor, hasVenue, hasSpecificTitle].filter(Boolean).length;
+  return anchors >= 2;
+}
+
+function filterVerifiableCitations(citations = []) {
+  return (Array.isArray(citations) ? citations : []).filter(hasVerifiableCitation);
+}
+
+export function repairSelectionCitations(selection) {
+  let removed = 0;
+  const repaired = {
+    ...selection,
+    selected_items: (selection?.selected_items || []).map((item) => {
+      const before = item.source_citations || [];
+      const source_citations = filterVerifiableCitations(before);
+      removed += before.length - source_citations.length;
+      return { ...item, source_citations };
+    }),
+  };
+  if (removed) info(`anthropic: removed ${removed} weak formal citation(s) without author/journal/year anchors`);
+  return repaired;
+}
+
+export function repairSummaryCitations(summary) {
+  let removed = 0;
+  const repaired = {
+    ...summary,
+    sections: (summary.sections || []).map((section) => ({
+      ...section,
+      cards: (section.cards || []).map((card) => {
+        const before = card.citations || [];
+        const citations = filterVerifiableCitations(before);
+        removed += before.length - citations.length;
+        return { ...card, citations };
+      }),
+    })),
+  };
+  if (removed) info(`anthropic: removed ${removed} weak rendered citation(s) without author/journal/year anchors`);
+  return repaired;
+}
+
 function selectionCitationSet(selection) {
   const citations = new Set();
   for (const item of selection?.selected_items || []) {
@@ -442,9 +508,12 @@ function validateSummaryProvenance(summary, input, podcastQueue = [], selection 
       }
       if (Array.isArray(card.citations) && card.citations.length) {
         for (const citation of card.citations) {
-          const citationText = `${citation.paper || ''} ${citation.claim || ''}`.trim();
-          if (/Kruse tweet|podcast pointer|Podcast linked|\bCPC\s*#?\d+|forum thread|blog post|source link|podcast title/i.test(citationText)) {
+          const text = citationText(citation);
+          if (/Kruse tweet|podcast pointer|Podcast linked|\bCPC\s*#?\d+|forum thread|blog post|source link|podcast title/i.test(text)) {
             errors.push(`card "${card.lead}" has pseudo-citation: ${citation.paper}`);
+          }
+          if (!hasVerifiableCitation(citation)) {
+            errors.push(`card "${card.lead}" has weak formal citation without author/journal/year anchors: ${citation.paper}`);
           }
           if (!isAllowedCitation(citation, allowedCitations)) {
             errors.push(`card "${card.lead}" cites paper not present in source_citations: ${citation.paper}`);
@@ -1515,7 +1584,7 @@ export async function summarizeDay(date, { dryRun = false } = {}) {
     validateSelection,
   );
   usages.push(curateResult.usage);
-  const selection = repairSelectionCoverage(input, attachInputBlogRefs(curateResult.parsed, input));
+  const selection = repairSelectionCitations(repairSelectionCoverage(input, attachInputBlogRefs(curateResult.parsed, input)));
   validateSelectionCoverage(input, selection);
   writeJsonArtifact(date, 'selection-audit', selection);
   const gatedSelection = gateSelection(selection);
@@ -1562,10 +1631,10 @@ export async function summarizeDay(date, { dryRun = false } = {}) {
 
   const noPodcastCards = dropPodcastDeferredCards(explainResult.parsed, podcastQueue);
   const repairedSummary = repairSummarySourceQuotes(noPodcastCards, input, gatedSelection);
-  const summary = repairReportVoice(repairPrivatePhraseConcepts(repairRequiredTranslationConcepts(
+  const summary = repairSummaryCitations(repairReportVoice(repairPrivatePhraseConcepts(repairRequiredTranslationConcepts(
     repairConceptAliases(sanitizeSummary(repairedSummary)),
     gatedSelection
-  )));
+  ))));
   validateSummary(summary);
   validateReportVoice(summary);
   validateNoQuestionFraming(summary);
@@ -1592,6 +1661,7 @@ export async function summarizeDay(date, { dryRun = false } = {}) {
       'podcast_deferral',
       'citation_source_citations_membership',
       'pseudo_citation_guard',
+      'citation_bibliographic_anchor_guard',
       'concept_alias_repair',
       'translation_term_coverage',
       'concept_integrity',

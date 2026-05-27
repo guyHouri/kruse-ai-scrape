@@ -19,7 +19,8 @@ summary JSON, renders HTML, and can email the report.
 7. `prompts/explain-system.md` detects scientific/medical/technical terms
    dynamically and adds concept explanations.
 8. Code verifies selection coverage, source IDs, forum URLs, source quotes,
-   citations, podcast leakage, and required scientific explanations.
+   citations, citation bibliographic anchors, podcast leakage, and required
+   scientific explanations.
 9. `code/build-report.js` renders `out/<date>.html`.
 10. In send mode, `code/email.js` and `code/state.js` handle Gmail and
    idempotency. The GitHub workflow controls the 04:00 Israel send time.
@@ -380,6 +381,10 @@ Every AI-generated card must have:
 - source IDs or forum URLs from the same-day input;
 - a `source_quote` found in the same-day source text;
 - citations only from same-day `source_citations`;
+- formal citations with real bibliographic anchors: author/researcher, journal
+  or source, year, DOI/PMID/PMCID/arXiv/clinical-trial ID, or equivalent
+  combinations. Vague labels like "a narrative review in Clinical Bioenergetics"
+  are treated as source context, not report citations;
 - concept explanations for medical/scientific terms detected by the
   science-explainer pass.
 

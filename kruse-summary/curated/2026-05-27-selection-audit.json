@@ -101,12 +101,7 @@
         "When the water lattice fails, full OxPhos physics become inefficient, so the cell falls back to glycolysis (glucose is the only substrate that can still be \"scrubbed\" locally via the G3P shuttle + TIM's deuterium KIE). Mitochondria remain online for biosynthesis, Ca²⁺ handling, ROS signaling, and immune-evasion functions because the cell has not given up, it is running the atavistic Precambrian script only as far as necessary.",
         "The Nernst-driven cation accumulation the review celebrates is just an exploitable symptom of this desperate biophysical compensation. But the Nernst equation does not cover the biophysics of the cell."
       ],
-      "source_citations": [
-        {
-          "paper": "Narrative review in Clinical Bioenergetics (referenced in quoted tweet by @dantawfik)",
-          "claim": "Cancer cell mitochondria are hyperpolarized, metabolically flexible, and maintain functional oxidative phosphorylation alongside elevated glycolysis; mitochondrial transmembrane potential (ΔΨm) is frequently elevated in cancer cells; lipophilic cations accumulate 100- to 1000-fold in cancer mitochondria via the Nernst equation; IMM lipid composition is altered (increased cholesterol, altered cardiolipin); mtDNA depletion diminishes tumorigenicity."
-        }
-      ],
+      "source_citations": [],
       "blog_refs": [],
       "translation_terms": [
         "mitochondrial transmembrane potential (ΔΨm)",

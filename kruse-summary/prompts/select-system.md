@@ -216,6 +216,21 @@ research citations named inside the current source item or quoted source text.
 Leave `source_citations` empty when the current source item does not name a
 paper, study, dataset, or formal citation.
 
+Do not treat vague research phrases as formal citations. A formal citation must
+have enough bibliographic anchors for a reader to verify it later:
+
+- paper/study title plus year;
+- author/researcher name plus year;
+- journal/source plus year;
+- author/researcher name plus journal/source;
+- DOI, PMID, PMCID, arXiv ID, or clinical-trial ID.
+
+If the source only says "a review", "a narrative review", "a study", "a paper",
+"a review in Clinical Bioenergetics", or "Clinical Bioenergetics or close
+equivalents" without author, title, year, DOI/PMID, or journal-year detail,
+leave `source_citations` empty. Put the claim in `source_claim` or
+`source_support` instead.
+
 Do not put Kruse blog posts, CPC articles, forum thread titles, podcast titles,
 or source links in `source_citations`. They are source context, not formal
 scientific citations.

@@ -222,6 +222,18 @@ Source links handle tweets and forum posts. The `citations` array is reserved
 for real papers, studies, datasets, or research citations present in the
 selected item.
 
+Only render a formal citation when the selected `source_citations.paper`
+contains real bibliographic anchors: author/researcher plus journal/source,
+author/researcher plus year, journal/source plus year, paper title plus year,
+DOI, PMID, PMCID, arXiv ID, or clinical-trial ID.
+
+If the source merely says "a review", "a narrative review", "a paper", "a
+study", "review in Clinical Bioenergetics", or similar without author, title,
+year, DOI/PMID, or journal-year detail, keep `citations` empty. You may
+summarize it neutrally as source context, for example "the quoted tweet
+describes..." or "the source frames..." Do not write that it is a formal
+citation.
+
 When the selected item lacks formal `source_citations`, the card can still link
 to the source tweet/forum post, but its `citations` array must be empty.
 

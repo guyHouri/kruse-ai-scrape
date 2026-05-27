@@ -4,9 +4,12 @@ import assert from 'node:assert/strict';
 import {
   dropPodcastDeferredCards,
   gateSelection,
+  hasVerifiableCitation,
   repairPrivatePhraseConcepts,
   repairReportVoice,
   repairRequiredTranslationConcepts,
+  repairSelectionCitations,
+  repairSummaryCitations,
   repairSelectionCoverage,
   validateReportVoice,
 } from '../code/summarize.js';
@@ -59,6 +62,52 @@ test('dropPodcastDeferredCards removes podcast-only report cards', () => {
   ]);
 
   assert.deepEqual(repaired.sections[0].cards.map((card) => card.lead), ['Keep']);
+});
+
+test('citation guard rejects vague review labels without bibliographic anchors', () => {
+  assert.equal(hasVerifiableCitation({
+    paper: 'Narrative review in Clinical Bioenergetics (referenced in quoted tweet by @dantawfik)',
+    claim: 'Cancer mitochondria are hyperpolarized.',
+  }), false);
+
+  assert.equal(hasVerifiableCitation({
+    paper: 'Tawfik et al. 2026, Clinical Bioenergetics',
+    claim: 'Cancer mitochondria are hyperpolarized.',
+  }), true);
+});
+
+test('citation repair removes weak selection and rendered citations', () => {
+  const selection = repairSelectionCitations({
+    selected_items: [
+      {
+        source_id: 'tweet-1',
+        source_citations: [
+          { paper: 'Narrative review in Clinical Bioenergetics', claim: 'too vague' },
+          { paper: 'Tawfik et al. 2026, Clinical Bioenergetics', claim: 'verifiable' },
+        ],
+      },
+    ],
+  });
+  assert.deepEqual(selection.selected_items[0].source_citations.map((c) => c.paper), [
+    'Tawfik et al. 2026, Clinical Bioenergetics',
+  ]);
+
+  const summary = repairSummaryCitations({
+    sections: [
+      {
+        title: 'Twitter Updates',
+        cards: [
+          {
+            lead: 'Cancer mitochondrial hyperpolarization',
+            citations: [
+              { paper: 'Narrative review in Clinical Bioenergetics', claim: 'too vague' },
+            ],
+          },
+        ],
+      },
+    ],
+  });
+  assert.deepEqual(summary.sections[0].cards[0].citations, []);
 });
 
 test('repairReportVoice removes absence/opinion language before validation', () => {
