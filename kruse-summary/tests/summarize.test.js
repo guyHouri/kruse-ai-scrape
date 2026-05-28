@@ -10,6 +10,7 @@ import {
   repairRequiredTranslationConcepts,
   repairSelectionCitations,
   repairSummaryCitations,
+  repairSummaryCardSources,
   repairSelectionCoverage,
   validateReportVoice,
 } from '../code/summarize.js';
@@ -62,6 +63,76 @@ test('dropPodcastDeferredCards removes podcast-only report cards', () => {
   ]);
 
   assert.deepEqual(repaired.sections[0].cards.map((card) => card.lead), ['Keep']);
+});
+
+test('repairSummaryCardSources restores missing tweet source IDs from selected items', () => {
+  const summary = {
+    headline_subtitle: 'Daily source-bound update',
+    sections: [
+      {
+        title: 'Twitter Updates',
+        cards: [
+          {
+            lead: 'Blood flow follows vortex mechanics',
+            body: 'Kruse frames blood flow as vortex coherence instead of linear hydraulics.',
+            source_quote: 'MAP and CBF depend on vortex coherence',
+            points: [],
+          },
+        ],
+      },
+      { title: 'Forum Updates', cards: [] },
+    ],
+  };
+  const selection = {
+    selected_items: [
+      {
+        source_type: 'tweet',
+        source_id: 'tweet-vortex-1',
+        title: 'Blood flow follows helical vortex mechanics',
+        support_quotes: ['MAP and CBF depend on vortex coherence'],
+      },
+    ],
+  };
+
+  const repaired = repairSummaryCardSources(summary, selection);
+
+  assert.deepEqual(repaired.sections[0].cards[0].source_ids, ['tweet-vortex-1']);
+});
+
+test('repairSummaryCardSources restores missing forum URLs from selected items', () => {
+  const forumUrl = 'https://forum.jackkruse.com/threads/the-ancients.17876/';
+  const summary = {
+    headline_subtitle: 'Daily source-bound update',
+    sections: [
+      { title: 'Twitter Updates', cards: [] },
+      {
+        title: 'Forum Updates',
+        cards: [
+          {
+            lead: 'Ancient-build thread links architecture to field sensing',
+            body: 'The forum update is about ancient builders and biological signal environments.',
+            source_quote: 'what did they know',
+            points: [],
+          },
+        ],
+      },
+    ],
+  };
+  const selection = {
+    selected_items: [
+      {
+        source_type: 'forum',
+        source_id: forumUrl,
+        source_url: forumUrl,
+        title: 'THE ANCIENTS...........WHAT DID THEY KNOW?',
+        support_quotes: ['what did they know'],
+      },
+    ],
+  };
+
+  const repaired = repairSummaryCardSources(summary, selection);
+
+  assert.deepEqual(repaired.sections[1].cards[0].source_urls, [forumUrl]);
 });
 
 test('citation guard rejects vague review labels without bibliographic anchors', () => {

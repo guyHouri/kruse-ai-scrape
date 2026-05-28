@@ -9,7 +9,8 @@ report from the last 24 hours of X and forum activity.
 
 The active automation is `.github/workflows/daily-kruse-summary.yml`.
 
-- Runs once per day with a user-facing target of `04:00 Asia/Jerusalem`.
+- Runs with staggered scheduled attempts and a user-facing target of
+  `04:00 Asia/Jerusalem`.
 - Uses `REPORT_TIME_ZONE`, default `Asia/Jerusalem`, to choose the report date
   and the local send time.
 - Accepts manual `workflow_dispatch`.
@@ -36,14 +37,16 @@ The report date is not hardcoded. The workflow picks it like this:
 
 The desired product behavior is simple: the email should already be in the
 mailbox at `04:00` Israel time. GitHub's cron syntax is UTC-only, so the YAML
-fires once at the earliest safe translated time and the workflow has a
-`Wait until 04:00 Israel time` step. In Israel summer time that wait is usually
-zero. In Israel winter time it waits about one hour. There is no sunrise API in
-the send path.
+uses staggered UTC triggers and the workflow has a `Wait until 04:00 Israel
+time` step. In Israel summer time, the first two attempts usually wait until
+04:00 and the third attempt starts after the target time. In Israel winter
+time, the wait step handles the offset. There is no sunrise API in the send
+path.
 
 If the workflow does not appear at the scheduled minute, that is not a date
 calculation bug by itself. GitHub scheduled workflows can start late or fail to
-start. The fix is an external watchdog, not changing the report-date logic.
+start. The staggered attempts reduce the risk, but the strongest fix is an
+external watchdog, not changing the report-date logic.
 
 ## Pipeline Steps
 
@@ -86,10 +89,12 @@ job:
    adding personal opinion.
 5. `explain-system.md` repairs unclear medical, scientific, and technical
    language.
-6. Code validators check source IDs, source quotes, same-day citations,
+6. Code repairs common model formatting mistakes, including missing card
+   `source_ids`/`source_urls`, from the already-approved selected items.
+7. Code validators check source IDs, source quotes, same-day citations,
    citation bibliographic anchors, forum URLs, podcast leakage, duplicate
    cards, and missing explanations.
-7. The renderer builds the final HTML from validated JSON.
+8. The renderer builds the final HTML from validated JSON.
 
 Forum updates must go through the same select, write, explain, and verify
 process as tweets. Forum items are not raw appendices and are not second-class
@@ -125,6 +130,7 @@ Failure should be boring and visible.
 | Supabase mailing-list sync fails | Stop before email | We do not guess the recipient list |
 | Anthropic generation fails | Stop before email | No validated report means no send |
 | Validator rejects output | Stop before email | Prevents hallucinated, uncited, or unclear cards |
+| Anthropic omits a selected card source reference | Repair from the selected item, then validate | Keeps strict provenance without failing on recoverable JSON omissions |
 | Gmail send fails | Do not update `last-sent.json` | A retry should still be allowed |
 | Commit or deploy fails after send | Email may be sent, site may lag | Re-run CI/CD or daily workflow to repair the site |
 | GitHub schedule does not start | Nothing runs | Supabase watchdog should dispatch a backup run |

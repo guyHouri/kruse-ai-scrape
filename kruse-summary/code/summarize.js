@@ -548,6 +548,120 @@ function selectedItemMatchesCard(item, card) {
   return false;
 }
 
+function sectionSourceType(sectionTitle) {
+  if (/twitter/i.test(String(sectionTitle || ''))) return 'tweet';
+  if (/forum/i.test(String(sectionTitle || ''))) return 'forum';
+  return '';
+}
+
+function selectedItemSourceValue(item) {
+  if (item?.source_type === 'tweet') return String(item.source_id || '');
+  if (item?.source_type === 'forum') return String(item.source_url || item.source_id || '');
+  return '';
+}
+
+function cardHasExpectedSource(card, sourceType) {
+  if (sourceType === 'tweet') return Array.isArray(card.source_ids) && card.source_ids.length;
+  if (sourceType === 'forum') return Array.isArray(card.source_urls) && card.source_urls.some(isForumUrl);
+  return true;
+}
+
+function selectedItemSupportText(item) {
+  return normalizeSupportText([
+    item?.title,
+    item?.why_interesting,
+    item?.source_claim,
+    item?.mechanism,
+    item?.reader_change,
+    item?.source_support,
+    ...(item?.support_quotes || []),
+  ].filter(Boolean).join(' '));
+}
+
+function cardMatchScore(card, item) {
+  const quote = normalizeSupportText(card?.source_quote);
+  const itemText = selectedItemSupportText(item);
+  if (quote && itemText.includes(quote)) return 1000;
+
+  const cardText = normalizeCitation([
+    card?.lead,
+    card?.body,
+    ...(Array.isArray(card?.points) ? card.points : []),
+  ].filter(Boolean).join(' '));
+  const sourceText = normalizeCitation(selectedItemSupportText(item));
+  const tokens = [...new Set(cardText.split(' ').filter((token) => token.length >= 5))];
+  if (!tokens.length || !sourceText) return 0;
+  const hits = tokens.filter((token) => sourceText.includes(token)).length;
+  return hits / tokens.length;
+}
+
+function applySelectedItemSource(card, item) {
+  if (item.source_type === 'tweet') {
+    return {
+      ...card,
+      source_ids: [String(item.source_id)],
+      source_urls: Array.isArray(card.source_urls) ? card.source_urls : [],
+    };
+  }
+  if (item.source_type === 'forum') {
+    return {
+      ...card,
+      source_ids: Array.isArray(card.source_ids) ? card.source_ids : [],
+      source_urls: [selectedItemSourceValue(item)],
+    };
+  }
+  return card;
+}
+
+export function repairSummaryCardSources(summary, selection, { logRepairs = true } = {}) {
+  let repairCount = 0;
+  const selectedByType = new Map([
+    ['tweet', (selection?.selected_items || []).filter((item) => item.source_type === 'tweet')],
+    ['forum', (selection?.selected_items || []).filter((item) => item.source_type === 'forum')],
+  ]);
+  const used = new Set();
+
+  const repaired = {
+    ...summary,
+    sections: (summary.sections || []).map((section) => ({
+      ...section,
+      cards: (section.cards || []).map((card) => ({ ...card })),
+    })),
+  };
+
+  for (const section of repaired.sections || []) {
+    const sourceType = sectionSourceType(section.title);
+    if (!sourceType) continue;
+    for (let i = 0; i < (section.cards || []).length; i += 1) {
+      let card = section.cards[i];
+      if (cardHasExpectedSource(card, sourceType)) {
+        for (const value of sourceType === 'tweet' ? (card.source_ids || []) : (card.source_urls || [])) {
+          used.add(`${sourceType}:${String(value)}`);
+        }
+        continue;
+      }
+
+      const candidates = (selectedByType.get(sourceType) || [])
+        .filter((item) => {
+          const value = selectedItemSourceValue(item);
+          return value && !used.has(`${sourceType}:${value}`);
+        })
+        .map((item) => ({ item, score: cardMatchScore(card, item) }))
+        .sort((a, b) => b.score - a.score);
+      const match = candidates.find((candidate) => candidate.score >= 0.12) || candidates[0];
+      if (!match?.item) continue;
+
+      card = applySelectedItemSource(card, match.item);
+      section.cards[i] = card;
+      used.add(`${sourceType}:${selectedItemSourceValue(match.item)}`);
+      repairCount += 1;
+    }
+  }
+
+  if (repairCount && logRepairs) info(`anthropic: repaired ${repairCount} missing card source reference(s) from curator selection`);
+  return repaired;
+}
+
 function repairSummarySourceQuotes(summary, input, selection) {
   const repaired = {
     ...summary,
@@ -1590,6 +1704,9 @@ export async function summarizeDay(date, { dryRun = false } = {}) {
   const gatedSelection = gateSelection(selection);
   writeJsonArtifact(date, 'selection-gated', gatedSelection);
   const writerSelection = selectionForWriting(gatedSelection);
+  const validateSummaryWithSourceRepair = (parsed) => validateSummary(
+    repairSummaryCardSources(parsed, writerSelection, { logRepairs: false }),
+  );
 
   const writeUser = [
     'Original source JSON:',
@@ -1603,10 +1720,12 @@ export async function summarizeDay(date, { dryRun = false } = {}) {
     'write',
     loadPrompt('write-system.md'),
     writeUser,
-    validateSummary,
+    validateSummaryWithSourceRepair,
   );
   usages.push(writeResult.usage);
-  writeJsonArtifact(date, 'draft', writeResult.parsed);
+  const draftSummary = repairSummaryCardSources(writeResult.parsed, writerSelection);
+  validateSummary(draftSummary);
+  writeJsonArtifact(date, 'draft', draftSummary);
 
   const explainUser = [
     'Original source JSON:',
@@ -1616,21 +1735,23 @@ export async function summarizeDay(date, { dryRun = false } = {}) {
     JSON.stringify(writerSelection, null, 2),
     '',
     'Draft renderer JSON:',
-    JSON.stringify(writeResult.parsed, null, 2),
+    JSON.stringify(draftSummary, null, 2),
   ].join('\n');
   const explainResult = await callJsonStep(
     date,
     'explain',
     loadPrompt('explain-system.md'),
     explainUser,
-    validateSummary,
+    validateSummaryWithSourceRepair,
   );
   usages.push(explainResult.usage);
-  validateExplanationPreservesDraft(writeResult.parsed, explainResult.parsed);
-  writeJsonArtifact(date, 'explained', explainResult.parsed);
+  const explainedSummary = repairSummaryCardSources(explainResult.parsed, writerSelection);
+  validateSummary(explainedSummary);
+  validateExplanationPreservesDraft(draftSummary, explainedSummary);
+  writeJsonArtifact(date, 'explained', explainedSummary);
 
-  const noPodcastCards = dropPodcastDeferredCards(explainResult.parsed, podcastQueue);
-  const repairedSummary = repairSummarySourceQuotes(noPodcastCards, input, gatedSelection);
+  const noPodcastCards = dropPodcastDeferredCards(explainedSummary, podcastQueue);
+  const repairedSummary = repairSummarySourceQuotes(repairSummaryCardSources(noPodcastCards, gatedSelection), input, gatedSelection);
   const summary = repairSummaryCitations(repairReportVoice(repairPrivatePhraseConcepts(repairRequiredTranslationConcepts(
     repairConceptAliases(sanitizeSummary(repairedSummary)),
     gatedSelection
@@ -1658,6 +1779,7 @@ export async function summarizeDay(date, { dryRun = false } = {}) {
       'forum_thread_membership',
       'source_quote_membership',
       'source_quote_repair_from_curator_quotes',
+      'card_source_reference_repair',
       'podcast_deferral',
       'citation_source_citations_membership',
       'pseudo_citation_guard',

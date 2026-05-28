@@ -3,8 +3,11 @@ name: Daily Kruse Summary
 on:
   schedule:
     # Daily report send/build targeting 04:00 Asia/Jerusalem.
-    # GitHub cron is UTC-only; the wait step below handles Israel winter/DST.
-    - cron: '0 1 * * *'
+    # GitHub cron is UTC-only and best-effort, so use staggered attempts.
+    # The wait step handles Israel winter/DST; last-sent.json prevents duplicate mail.
+    - cron: '17 0 * * *'
+    - cron: '47 0 * * *'
+    - cron: '17 1 * * *'
   repository_dispatch:
     types: [daily-kruse-summary]
   workflow_dispatch:
