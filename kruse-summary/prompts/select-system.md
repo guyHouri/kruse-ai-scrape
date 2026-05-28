@@ -203,10 +203,13 @@ Examples:
   blog/article references.
 
 Treat `blog_refs` as source context, not formal scientific citations. If a
-selected item depends on a blog reference, mention the blog code/title in
-`source_claim` or `reader_change`, add the blog code/title to
-`translation_terms`, and keep `source_citations` empty unless the same source
-also names a real paper/study/dataset.
+selected item depends on a blog reference, keep it in `blog_refs`, mention the
+blog code/title in `source_claim` or `reader_change`, and keep
+`source_citations` empty unless the same source also names a real
+paper/study/dataset. Do not put plain blog codes such as `CPC#84` or `DM#63`
+in `translation_terms`; reserve `translation_terms` for medical, scientific,
+technical, clinical, geology, drug, protocol, and mechanism terms that need
+human explanation.
 
 # Citations
 

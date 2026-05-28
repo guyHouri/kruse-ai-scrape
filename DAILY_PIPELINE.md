@@ -91,10 +91,12 @@ job:
    language.
 6. Code repairs common model formatting mistakes, including missing card
    `source_ids`/`source_urls`, from the already-approved selected items.
-7. Code validators check source IDs, source quotes, same-day citations,
+7. Blog-series codes such as `CPC#84` and `DM#63` are treated as Kruse archive
+   references, not scientific terms and not formal citations.
+8. Code validators check source IDs, source quotes, same-day citations,
    citation bibliographic anchors, forum URLs, podcast leakage, duplicate
    cards, and missing explanations.
-8. The renderer builds the final HTML from validated JSON.
+9. The renderer builds the final HTML from validated JSON.
 
 Forum updates must go through the same select, write, explain, and verify
 process as tweets. Forum items are not raw appendices and are not second-class

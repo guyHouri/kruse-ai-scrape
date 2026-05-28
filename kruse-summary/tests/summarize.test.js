@@ -387,6 +387,43 @@ test('repairRequiredTranslationConcepts explains advanced mechanism terms from l
   assert.match(concepts.permittivity.text, /stores electrical energy/i);
 });
 
+test('repairRequiredTranslationConcepts treats blog IDs as archive references', () => {
+  const summary = {
+    sections: [
+      {
+        title: 'Twitter Updates',
+        cards: [
+          {
+            lead: 'Protein load connects to DM#63',
+            body: 'The source uses DM#63 as the archive anchor for this protein-load claim.',
+            points: [],
+            concepts: {},
+            source_ids: ['tweet-dm-63'],
+          },
+        ],
+      },
+    ],
+  };
+  const selection = {
+    selected_items: [
+      {
+        source_type: 'tweet',
+        source_id: 'tweet-dm-63',
+        title: 'Protein load connects to DM#63',
+        translation_terms: ['DM#63'],
+        blog_refs: [{ code: 'DM#63', title: 'Protein and Deuterium', series: 'DM', number: 63 }],
+      },
+    ],
+  };
+
+  const repaired = repairRequiredTranslationConcepts(summary, selection);
+  const concept = repaired.sections[0].cards[0].concepts['DM#63'];
+
+  assert.match(concept.text, /Kruse blog\/article archive reference/);
+  assert.match(concept.text, /not a formal scientific citation/);
+  assert.doesNotMatch(concept.text, /technical term used by the selected source/i);
+});
+
 test('repairPrivatePhraseConcepts explains Kruse shorthand when the model forgets', () => {
   const repaired = repairPrivatePhraseConcepts({
     sections: [

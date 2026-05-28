@@ -30,6 +30,13 @@ const REDUNDANT_CONCEPTS = new Set([
   'sunrise',
   'blue blockers',
 ]);
+const BLOG_SERIES_NAMES = {
+  BTC: 'BTC',
+  CPC: 'CPC',
+  DM: 'Decentralized Medicine',
+  HYPOXIA: 'Hypoxia',
+  QT: 'QT',
+};
 const KRUSE_PRIVATE_PHRASES = [
   'water table de-fragging',
   'water-table de-fragging',
@@ -858,6 +865,29 @@ function conceptKey(term) {
   return String(term || '').toLowerCase().replace(/[^a-z0-9+ ]/g, '').replace(/\s+/g, ' ').trim();
 }
 
+function normalizeBlogRefCode(value) {
+  const match = String(value || '').match(/\b([A-Z][A-Z0-9]{1,16})\s*#\s*(\d{1,4})\b/i);
+  if (!match) return '';
+  return `${match[1].toUpperCase()}#${match[2]}`;
+}
+
+function blogRefCode(ref) {
+  if (!ref) return '';
+  return normalizeBlogRefCode(ref.code || `${ref.series || ''}#${ref.number || ''}`);
+}
+
+function blogRefConcept(refOrTerm) {
+  const code = typeof refOrTerm === 'string' ? normalizeBlogRefCode(refOrTerm) : blogRefCode(refOrTerm);
+  if (!code) return null;
+  const [, series, number] = code.match(/^([A-Z0-9]+)#(\d+)$/) || [];
+  const seriesName = BLOG_SERIES_NAMES[series] || series;
+  const title = typeof refOrTerm === 'object' && refOrTerm?.title ? ` Title: ${refOrTerm.title}.` : '';
+  return {
+    level: 'noob',
+    text: `${code} is a Kruse blog/article archive reference from the ${seriesName} series, entry #${number}.${title} It is source context for this report, not a formal scientific citation.`,
+  };
+}
+
 function visibleCardText(card) {
   return [
     card.lead,
@@ -1226,10 +1256,22 @@ export function repairRequiredTranslationConcepts(summary, selection) {
       const selected = (selection?.selected_items || []).find((item) => selectedItemMatchesCard(item, card));
       if (!selected) continue;
 
-      for (const term of selected.translation_terms || []) {
+      const requiredConcepts = [
+        ...(selected.translation_terms || []).map((term) => ({
+          term,
+          fallback: fallbackConceptForTerm(term),
+        })),
+        ...(selected.blog_refs || []).map((ref) => {
+          const term = blogRefCode(ref);
+          return {
+            term,
+            fallback: blogRefConcept(ref),
+          };
+        }),
+      ].filter((item) => item.term && item.fallback);
+
+      for (const { term, fallback } of requiredConcepts) {
         if (conceptMapCoversTerm(card.concepts, term)) continue;
-        const fallback = fallbackConceptForTerm(term);
-        if (!fallback) continue;
         card.concepts[term] = { ...fallback };
         card = tagCardTerm(card, term);
         repairCount++;
@@ -1494,6 +1536,8 @@ function isJackForumPriorityThreeSignal(item) {
 
 function fallbackConceptForTerm(term) {
   const key = conceptKey(term);
+  const blogConcept = blogRefConcept(term);
+  if (blogConcept) return blogConcept;
   if (FALLBACK_CONCEPTS[key]) return FALLBACK_CONCEPTS[key];
 
   for (const alias of termAliases(term)) {

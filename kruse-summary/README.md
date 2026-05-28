@@ -20,11 +20,13 @@ summary JSON, renders HTML, and can email the report.
    dynamically and adds concept explanations.
 8. Code repairs recoverable model omissions, including missing card
    `source_ids`/`source_urls`, from the selected source item.
-9. Code verifies selection coverage, source IDs, forum URLs, source quotes,
+9. Blog IDs such as `CPC#84` and `DM#63` are handled as Kruse archive
+   references, not formal citations.
+10. Code verifies selection coverage, source IDs, forum URLs, source quotes,
    citations, citation bibliographic anchors, podcast leakage, and required
    scientific explanations.
-10. `code/build-report.js` renders `out/<date>.html`.
-11. In send mode, `code/email.js` and `code/state.js` handle Gmail and
+11. `code/build-report.js` renders `out/<date>.html`.
+12. In send mode, `code/email.js` and `code/state.js` handle Gmail and
    idempotency. The GitHub workflow controls the 04:00 Israel send time.
 
 ## Important Docs

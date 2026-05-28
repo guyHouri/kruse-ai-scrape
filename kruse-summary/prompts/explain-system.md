@@ -61,7 +61,8 @@ Detect categories such as:
 
 - every term listed in the selected item's `translation_terms`;
 - every Kruse blog/article reference in the selected item's `blog_refs`, such
-  as `CPC#84`, `DM#42`, `QT#28`, `HYPOXIA#30`, or `BTC#1`;
+  as `CPC#84`, `DM#42`, `QT#28`, `HYPOXIA#30`, or `BTC#1`, but explain it only
+  as a source/archive reference, not as a scientific concept;
 - drugs, therapies, procedures, and devices;
 - diseases, diagnoses, symptoms, and clinical contexts;
 - routes of administration such as topical, oral, injection, transdermal, or
@@ -104,7 +105,9 @@ term is "skin cancer", "rapid tanning protocol", "mitochondrial function",
 "psychoactive compounds", or a test name, it still needs a concept chip.
 
 For each `blog_refs` entry, explain the code/title as a Kruse blog/article
-reference, for example `CPC#84`.
+reference, for example `CPC#84`. Do not expand `DM` into a redundant lesson on
+decentralized medicine; the useful explanation is that the code points to a
+specific Kruse article in the archive.
 
 For each explanation-worthy term:
 
