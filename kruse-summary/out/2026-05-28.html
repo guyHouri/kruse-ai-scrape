@@ -1,0 +1,381 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kruse Report 28/05/2026</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    /* Dark theme (default) */
+    :root {
+      --bg-color: #0b0f19;
+      --card-bg: #151c2c;
+      --card-border: #202b42;
+      --card-border-hover: #2e3e5f;
+      --section-rule: #24314b;
+      --text-color: #f3f4f6;
+      --text-soft: #cbd5e1;
+      --text-body: #e5e7eb;
+      --text-muted: #9ca3af;
+      --accent-color: #3b82f6;
+      --accent-hover: #60a5fa;
+      --locked-color: #4b5563;
+      --tag-bg: #1e293b;
+      --quote-bg: #0f1524;
+      --quote-rule: #4b5563;
+      --expanded-bg: #0f1524;
+      --locked-grad-start: #151c2c;
+      --locked-grad-end: #111622;
+      --locked-dash: #2d3748;
+      --locked-badge-bg: #27272a;
+      --locked-badge-fg: #a1a1aa;
+      --footer-color: #6b7280;
+      --toggle-bg: rgba(255,255,255,0.06);
+      --toggle-border: rgba(255,255,255,0.12);
+    }
+    /* Light theme — toggled by class on <body> */
+    body.light {
+      --bg-color: #f9fafb;
+      --card-bg: #ffffff;
+      --card-border: #e5e7eb;
+      --card-border-hover: #cbd5e1;
+      --section-rule: #e5e7eb;
+      --text-color: #0f172a;
+      --text-soft: #334155;
+      --text-body: #1f2937;
+      --text-muted: #6b7280;
+      --accent-color: #2563eb;
+      --accent-hover: #1d4ed8;
+      --locked-color: #94a3b8;
+      --tag-bg: #eff6ff;
+      --quote-bg: #f1f5f9;
+      --quote-rule: #cbd5e1;
+      --expanded-bg: #f1f5f9;
+      --locked-grad-start: #ffffff;
+      --locked-grad-end: #f3f4f6;
+      --locked-dash: #cbd5e1;
+      --locked-badge-bg: #e5e7eb;
+      --locked-badge-fg: #475569;
+      --footer-color: #94a3b8;
+      --toggle-bg: rgba(0,0,0,0.04);
+      --toggle-border: rgba(0,0,0,0.12);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', sans-serif; }
+    body { background-color: var(--bg-color); color: var(--text-color); padding: 40px 20px; display: flex; justify-content: center; align-items: flex-start; min-height: 100vh; transition: background-color 0.2s ease, color 0.2s ease; }
+    .container { width: 100%; max-width: 650px; display: flex; flex-direction: column; gap: 20px; }
+    header { text-align: center; margin-bottom: 10px; position: relative; padding-top: 48px; }
+    h1 { font-size: 2.3rem; font-weight: 700; letter-spacing: -0.5px; background: linear-gradient(45deg, #3b82f6, #9333ea); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; margin-bottom: 4px; }
+    .subtitle { font-size: 1rem; color: var(--text-muted); font-weight: 300; }
+    .theme-toggle { position: absolute; top: 0; right: 0; background: var(--toggle-bg); border: 1px solid var(--toggle-border); color: var(--text-color); cursor: pointer; padding: 6px 10px; border-radius: 20px; font-size: 0.85rem; line-height: 1; transition: background 0.2s ease; }
+    .theme-toggle:hover { background: var(--card-border); }
+    .level-toggle { position: absolute; top: 0; left: 0; display: flex; gap: 4px; background: var(--toggle-bg); border: 1px solid var(--toggle-border); border-radius: 20px; padding: 3px; }
+    .level-toggle button { background: transparent; color: var(--text-muted); border: none; cursor: pointer; padding: 4px 10px; border-radius: 16px; font-size: 0.8rem; font-weight: 600; transition: background 0.15s ease, color 0.15s ease; }
+    .level-toggle button.active { background: var(--accent-color); color: #fff; }
+    .level-toggle button:hover:not(.active) { color: var(--text-color); }
+    /* Concept-level gating: pro reader hides noob-only chips; hacker hides all. */
+    body.level-pro .expandable-concept[data-concept-level="noob"],
+    body.level-hacker .expandable-concept[data-concept-level] {
+      color: inherit; border-bottom: none; cursor: default; font-weight: inherit; pointer-events: none;
+    }
+    body.level-pro .expanded-content[data-concept-level="noob"],
+    body.level-hacker .expanded-content { display: none !important; }
+    .section-title { font-size: 1.3rem; font-weight: 700; color: var(--accent-hover); border-bottom: 1px solid var(--section-rule); padding-bottom: 6px; margin-top: 10px; }
+    .card { background-color: var(--card-bg); border: 1px solid var(--card-border); border-radius: 12px; padding: 14px 18px; display: flex; flex-direction: column; gap: 8px; transition: border-color 0.2s ease, background-color 0.2s ease; }
+    .card-body, .card-points { display: flex; flex-direction: column; gap: 4px; }
+    .card-points ul { margin: 0; }
+    .card:hover { border-color: var(--card-border-hover); }
+    .card-header { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .tag { background-color: var(--tag-bg); color: var(--accent-color); padding: 2px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; }
+    .source-link { font-size: 0.8rem; color: var(--text-muted); text-decoration: none; border-bottom: 1px dashed var(--text-muted); transition: all 0.2s ease; }
+    .source-link:hover { color: var(--accent-hover); border-bottom-color: var(--accent-hover); }
+    .item-text { font-size: 1rem; line-height: 1.45; color: var(--text-body); }
+    .source-quote { background: var(--quote-bg); border-left: 3px solid var(--quote-rule); border-radius: 4px 8px 8px 4px; padding: 10px 14px; font-style: italic; font-size: 0.92rem; color: var(--text-muted); }
+    .citations { padding: 8px 12px; background: var(--quote-bg); border-radius: 8px; }
+    .citations-label { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--accent-hover); letter-spacing: 0.04em; margin-bottom: 6px; }
+    .citations ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }
+    .citation-paper { font-size: 0.85rem; color: var(--text-body); font-weight: 600; }
+    .citation-claim { font-size: 0.82rem; color: var(--text-muted); line-height: 1.4; margin-top: 2px; }
+    .bullet-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px; }
+    .bullet-list li { position: relative; padding-left: 18px; line-height: 1.45; font-size: 1rem; }
+    .bullet-list li::before { content: "•"; color: var(--accent-color); font-weight: bold; position: absolute; left: 0; top: 0; }
+    .forum-item { display: flex; flex-direction: column; gap: 4px; }
+    .forum-meta { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+    .expandable-concept { color: var(--accent-hover); border-bottom: 1px dashed var(--accent-hover); cursor: pointer; font-weight: 600; }
+    .expanded-content { max-height: 0; overflow: hidden; background-color: var(--expanded-bg); border-radius: 6px; padding: 0 12px; margin: 0; transition: max-height 0.25s ease, padding 0.25s ease, margin 0.25s ease; font-size: 0.9rem; color: var(--text-soft); }
+    .expanded-content.open { max-height: 500px; padding: 10px 12px; margin-top: 4px; margin-bottom: 4px; border-left: 3px solid var(--accent-color); }
+    .locked-section { background: linear-gradient(180deg, var(--locked-grad-start) 0%, var(--locked-grad-end) 100%); border: 1px dashed var(--locked-dash); border-radius: 12px; padding: 24px; text-align: center; opacity: 0.85; }
+    .locked-title { font-size: 1.1rem; font-weight: 600; color: var(--locked-color); margin-bottom: 4px; }
+    .locked-badge { font-size: 0.7rem; background-color: var(--locked-badge-bg); color: var(--locked-badge-fg); padding: 1px 6px; border-radius: 4px; font-weight: 700; margin-left: 6px; }
+    footer { text-align: center; color: var(--footer-color); font-size: 0.75rem; margin-top: 12px; }
+    footer a { color: var(--footer-color); }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="level-toggle" role="tablist" aria-label="Reader knowledge level">
+        <button type="button" data-level="noob"   aria-pressed="false">Noob</button>
+        <button type="button" data-level="pro"    aria-pressed="true">Pro</button>
+        <button type="button" data-level="hacker" aria-pressed="false">Hacker</button>
+      </div>
+      <button type="button" class="theme-toggle" id="themeToggle" aria-label="Toggle dark/light mode">🌙 Dark</button>
+      <h1>Kruse Report 28/05/2026</h1>
+      <div class="subtitle">High-protein diets trigger deuterium trap and singlet oxygen damage; RETA complications; planetary magnetic decoupling; citrus disease as water table collapse</div>
+    </header>
+      <div class="section-title">Twitter Updates</div>
+      <div class="card"><div class="card-header"><span class="tag">Protein metabolism</span><a href="https://x.com/i/status/2059676004650783054" target="_blank" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>High-protein intake collapses cellular water coherence and triggers singlet oxygen damage</strong> A 2026 study showing 100g protein sustains muscle synthesis for 12 hours misses a critical biophysical cost: protein metabolism cuts metabolic water production by half compared to fat oxidation. When <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-0')">Cytochrome c Oxidase (CCO)</span> burns fat, it manufactures 110g of deuterium-depleted water per 100g substrate with a <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-1')">dielectric constant</span> of ~160. Protein intake demands water for <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-0-2')">ammonia</span> clearance, collapsing the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-3')">Exclusion Zone (EZ)</span> from 160 to bulk water (~78). Deuterium accumulates in <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-4')">Inner Mitochondrial Junctions (IMJs)</span>, stalling <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-5')">Complex I</span> via <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-6')">kinetic isotope effect (KIE)</span>, destroying <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-7')">CISS (Chiral Induced Spin Selectivity)</span>, and converting oxygen to destructive <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-8')">singlet oxygen (1O2)</span> that fries hair follicles, yellows teeth, and damages neurons.</div><div id="c-0-0" class="expanded-content" data-concept-level="pro">
+      <strong>Cytochrome c Oxidase (CCO):</strong> The final enzyme in the electron transport chain that reduces oxygen to water while pumping protons; manufactures metabolic water during fat oxidation.
+    </div>
+<div id="c-0-1" class="expanded-content" data-concept-level="pro">
+      <strong>dielectric constant:</strong> A measure of a material&#39;s ability to store electrical energy; high dielectric water (ε≈160) is coherent and supports cellular function; bulk water (ε≈78) is incoherent.
+    </div>
+<div id="c-0-2" class="expanded-content" data-concept-level="noob">
+      <strong>ammonia:</strong> A technical term used by the selected source. The report keeps &quot;ammonia&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-0-3" class="expanded-content" data-concept-level="pro">
+      <strong>Exclusion Zone (EZ):</strong> A structured, coherent layer of water near hydrophilic surfaces with high dielectric constant and negative charge; critical for cellular function.
+    </div>
+<div id="c-0-4" class="expanded-content" data-concept-level="pro">
+      <strong>Inner Mitochondrial Junctions (IMJs):</strong> The sites where the inner mitochondrial membrane forms cristae; contain the electron transport chain and ATP synthase.
+    </div>
+<div id="c-0-5" class="expanded-content" data-concept-level="pro">
+      <strong>Complex I:</strong> The first enzyme complex in the electron transport chain; transfers electrons from NADH to ubiquinone; sensitive to deuterium accumulation.
+    </div>
+<div id="c-0-6" class="expanded-content" data-concept-level="pro">
+      <strong>kinetic isotope effect (KIE):</strong> The change in reaction rate when a heavy isotope (like deuterium) replaces a light one (hydrogen); slows electron transfer and ATP production.
+    </div>
+<div id="c-0-7" class="expanded-content" data-concept-level="pro">
+      <strong>CISS (Chiral Induced Spin Selectivity):</strong> A quantum effect where chiral molecules preferentially transmit electrons of one spin state; requires coherent water and is lost in deuterated environments.
+    </div>
+<div id="c-0-8" class="expanded-content" data-concept-level="pro">
+      <strong>singlet oxygen (1O2):</strong> A highly reactive form of oxygen that damages proteins and lipids; generated when CISS is lost and triplet oxygen cannot be reduced cleanly to water.
+    </div></div><div class="card-points"><ul class="bullet-list"><li><strong>Mechanism.</strong> Fat oxidation via CCO produces 110g deuterium-depleted water per 100g substrate (ε≈160); protein metabolism produces half that and demands water for <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-0')">urea cycle</span> ammonia clearance, creating intracellular desiccation. K+-stabilized EZ collapses to bulk state (ε≈78). Deuterium leaks into IMJs, stalls Complex I, destroys <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-1')">NAD+</span> turnover (NAD+-&gt;NADD+), loses CISS effect, converts <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-2')">triplet oxygen</span> to singlet oxygen (1O2).</li><li><strong>Clinical signal.</strong> Hair loss on top of head, cognitive decline, yellowed teeth, and weaker collagen are early warning signs of singlet oxygen damage from high-protein diets. Apparent <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-0')">myofibrillar protein synthesis</span> gains mask hidden entropy-driven tissue incineration.</li><li><strong>Protocol.</strong> Consider protein ceiling limits below 100g per meal. Use <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-2-0')">DDW (deuterium-depleted water)</span> or <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-2-1')">cold thermogenesis (CT)</span> (~4°C) to expand EZ water layers and restore dielectric coherence.</li><li><strong>Research.</strong> The <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-3-0')">Blau Lab</span> (2026) discovery of <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-3-1')">15-PGDH</span> as a <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-3-2')">gerozyme</span> destroying <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-3-3')">prostaglandin E2 (PGE2)</span> repair signal bridges microgravity muscle wasting with <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-3-4')">GLP-1</span>/<span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-3-5')">Ozempic</span> <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-3-6')">lattice lock</span>, confirming the <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-3-7')">water table collapse</span> mechanism.</li></ul><div id="c-0-0" class="expanded-content" data-concept-level="pro">
+      <strong>urea cycle:</strong> The metabolic pathway that converts ammonia (a toxic byproduct of protein metabolism) into urea for excretion; requires large amounts of water.
+    </div>
+<div id="c-0-1" class="expanded-content" data-concept-level="pro">
+      <strong>NAD+:</strong> Nicotinamide adenine dinucleotide; a coenzyme that accepts electrons during cellular respiration; essential for ATP production.
+    </div>
+<div id="c-0-2" class="expanded-content" data-concept-level="pro">
+      <strong>triplet oxygen:</strong> The normal ground state of oxygen with two unpaired electrons; safely reduced to water at CCO when CISS is intact.
+    </div><div id="c-1-0" class="expanded-content" data-concept-level="pro">
+      <strong>myofibrillar protein synthesis:</strong> The production of contractile proteins (myosin, actin) in muscle fibers; measured in protein studies as a marker of muscle growth.
+    </div><div id="c-2-0" class="expanded-content" data-concept-level="noob">
+      <strong>DDW (deuterium-depleted water):</strong> Water with reduced deuterium content; restores water coherence and supports mitochondrial function.
+    </div>
+<div id="c-2-1" class="expanded-content" data-concept-level="noob">
+      <strong>cold thermogenesis (CT):</strong> Exposure to cold water or air to trigger metabolic heat production; expands EZ water layers and improves dielectric coherence.
+    </div><div id="c-3-0" class="expanded-content" data-concept-level="noob">
+      <strong>Blau Lab:</strong> Stanford research group studying muscle stem cell biology and aging mechanisms.
+    </div>
+<div id="c-3-1" class="expanded-content" data-concept-level="pro">
+      <strong>15-PGDH:</strong> An enzyme that degrades prostaglandin E2; called a gerozyme because its activity increases with aging and stress.
+    </div>
+<div id="c-3-2" class="expanded-content" data-concept-level="pro">
+      <strong>gerozyme:</strong> An enzyme whose activity increases with aging and drives aging phenotypes; 15-PGDH destroys the PGE2 repair signal.
+    </div>
+<div id="c-3-3" class="expanded-content" data-concept-level="pro">
+      <strong>prostaglandin E2 (PGE2):</strong> A signaling molecule that promotes tissue repair and regeneration; destroyed by the 15-PGDH enzyme under stress.
+    </div>
+<div id="c-3-4" class="expanded-content" data-concept-level="noob">
+      <strong>GLP-1:</strong> Glucagon-like peptide-1; a hormone that regulates blood sugar and appetite; targeted by drugs like Ozempic.
+    </div>
+<div id="c-3-5" class="expanded-content" data-concept-level="noob">
+      <strong>Ozempic:</strong> A GLP-1 agonist drug used for diabetes and weight loss; semaglutide is the active ingredient.
+    </div>
+<div id="c-3-6" class="expanded-content" data-concept-level="pro">
+      <strong>lattice lock:</strong> A state of forced, high-entropy protein structure where the cell cannot maintain coherent repair; induced by GLP-1 agonists and high protein intake.
+    </div>
+<div id="c-3-7" class="expanded-content" data-concept-level="noob">
+      <strong>water table collapse:</strong> Short form of internal water table collapse: a claimed loss of organized tissue water and charge-storage behavior, not a literal groundwater table inside the body.
+    </div></div><div class="citations"><div class="citations-label">Citations</div><ul><li class="citation"><div class="citation-paper">Kenneth Mellanby paper from Nature (1942)</div><div class="citation-claim">Establishes mathematical hierarchy of metabolic water production during complete combustion; provides subatomic proof that high-protein studies ignore deuterium tax and water table collapse.</div></li></ul></div><div class="source-quote">When the body combusts fat via beta-oxidation, Cytochrome c Oxidase (CCO) manufactures 110 grams of perfectly structured, deuterium-depleted water per 100g of substrate. This high-dielectric fluid (𝜖 ≈160) acts as the frictionless lubricant for the Brachistochrone curve of the cristae. By contrast, ingesting 100g of protein cuts metabolic water production exactly in half.</div></div>
+      <div class="card"><div class="card-header"><span class="tag">GLP-1 complications</span><a href="https://x.com/i/status/2059664528078446967" target="_blank" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>RETA (retatrutide) will cause mechanoporation-induced brain damage mimicking traumatic injury in users with deuterated water tables</strong> RETA, a triple <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-0')">GLP-1</span>/<span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-1')">GIP</span>/<span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-2')">glucagon agonist</span> not yet FDA-approved, will cause mechanical shock wave damage via <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-3')">mechanoporation</span> that mimics <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-4')">traumatic brain injury (TBI)</span> impacts. Jack reports treating RETA complications in current users and predicts more cognitive <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-5')">time loss</span> than existing GLP-1 agonists. Users with pre-existing <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-6')">deuterated water</span> tables will experience <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-7')">central pontine myelinolysis (CPM)</span>-like presentations with <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-8')">Na+</span>/<span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-9')">K+</span> dysregulation. The mechanism is biophysical, not pharmacological: the drug&#39;s mechanical effect on a compromised water lattice causes neurological damage that centralized neurology cannot diagnose.</div><div id="c-1-0" class="expanded-content" data-concept-level="noob">
+      <strong>GLP-1:</strong> Glucagon-like peptide-1; a hormone that regulates blood sugar and appetite; targeted by drugs like Ozempic and RETA.
+    </div>
+<div id="c-1-1" class="expanded-content" data-concept-level="noob">
+      <strong>GIP:</strong> Glucose-dependent insulinotropic polypeptide; a hormone that enhances insulin secretion in response to glucose.
+    </div>
+<div id="c-1-2" class="expanded-content" data-concept-level="noob">
+      <strong>glucagon agonist:</strong> A technical term used by the selected source. The report keeps &quot;glucagon agonist&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-1-3" class="expanded-content" data-concept-level="pro">
+      <strong>mechanoporation:</strong> Cell membrane rupture caused by mechanical force (shock waves, pressure); allows uncontrolled ion and fluid movement.
+    </div>
+<div id="c-1-4" class="expanded-content" data-concept-level="noob">
+      <strong>traumatic brain injury (TBI):</strong> Brain damage caused by physical impact or shock; causes cognitive deficits, memory loss, and neurological dysfunction.
+    </div>
+<div id="c-1-5" class="expanded-content" data-concept-level="noob">
+      <strong>time loss:</strong> A technical term used by the selected source. The report keeps &quot;time loss&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-1-6" class="expanded-content" data-concept-level="noob">
+      <strong>deuterated water:</strong> Water enriched in deuterium; impairs cellular function and water coherence.
+    </div>
+<div id="c-1-7" class="expanded-content" data-concept-level="pro">
+      <strong>central pontine myelinolysis (CPM):</strong> Demyelination (loss of myelin insulation) in the pons (brainstem); caused by rapid Na+ shifts and characterized by neurological deficits.
+    </div>
+<div id="c-1-8" class="expanded-content" data-concept-level="noob">
+      <strong>Na+:</strong> An electrolyte critical for nerve and muscle function; dysregulation causes neurological damage.
+    </div>
+<div id="c-1-9" class="expanded-content" data-concept-level="noob">
+      <strong>K+:</strong> An electrolyte critical for nerve and muscle function; low levels impair cellular energy and signaling.
+    </div></div><div class="card-points"><ul class="bullet-list"><li><strong>Mechanism.</strong> RETA&#39;s triple agonist action creates a mechanical shock wave inducing <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-100-0')">mechanoporation</span> (cell membrane rupture). In users with deuterated water tables (low <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-100-1')">dielectric coherence</span>), the shock causes cellular fluid shifts and ion dysregulation (Na+/K+ imbalance) mimicking <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-100-2')">demyelination</span>.</li><li><strong>Clinical signal.</strong> Cognitive time loss (gaps in awareness/memory), neurological deficits, and CPM-like presentations in RETA users with deuterated water tables. Complications not detected by standard MRI or neurology.</li><li><strong>Protocol.</strong> Ensure <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-102-0')">water table</span> coherence (low deuterium, high <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-102-1')">Exclusion Zone (EZ)</span>) before RETA use. Seek practitioners trained in water table biophysics for diagnosis and treatment, not centralized neurology.</li><li><strong>Why it matters.</strong> RETA complications are mechanoporation-driven, not pharmacological; standard neurology will miss them. Decentralized practitioners who understand water biophysics can restore coherence and treat complications.</li></ul><div id="c-100-0" class="expanded-content" data-concept-level="pro">
+      <strong>mechanoporation:</strong> Cell membrane rupture caused by mechanical force (shock waves, pressure); allows uncontrolled ion and fluid movement.
+    </div>
+<div id="c-100-1" class="expanded-content" data-concept-level="noob">
+      <strong>dielectric coherence:</strong> A dielectric is an insulating material that can store electrical energy in an electric field. Dielectric collapse means Kruse is claiming the tissue/water system loses that charge-storage behavior.
+    </div>
+<div id="c-100-2" class="expanded-content" data-concept-level="pro">
+      <strong>demyelination:</strong> Loss of myelin insulation around nerve fibers; impairs nerve conduction and causes neurological deficits.
+    </div><div id="c-102-0" class="expanded-content" data-concept-level="noob">
+      <strong>water table:</strong> A technical term used by the selected source. The report keeps &quot;water table&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-102-1" class="expanded-content" data-concept-level="pro">
+      <strong>Exclusion Zone (EZ):</strong> A structured, coherent layer of water near hydrophilic surfaces; critical for cellular function and ion regulation.
+    </div></div><div class="source-quote">The mechanical shock wave of RETA damage will mimic TBI impacts via mechanoporation. This is what no one sees coming with these drugs but decentralized neurosurgery does. It will mimic acute CPM cases we see in ICUs in patients with altered Na+ and low K+ levels who use these drugs who already have deuterated water tables.</div></div>
+      <div class="card"><div class="card-header"><span class="tag">Lipoma treatment</span><a href="https://x.com/i/status/2059666694667170060" target="_blank" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Lipomas respond to deuterium-depleted water or TENS unit applied directly over the lesion</strong> For <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-2-0')">lipoma</span> reduction, use <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-2-1')">DDW (deuterium-depleted water)</span> (systemic) or <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-2-2')">TENS unit (transcutaneous electrical nerve stimulation)</span> applied directly over the lesion (local). DDW restores <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-2-3')">water table coherence</span> and may reduce lipid accumulation by improving <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-2-4')">mitochondrial function</span>. TENS unit stimulation may trigger local tissue remodeling and reduce lipid deposition via electrical signaling.</div><div id="c-2-0" class="expanded-content" data-concept-level="noob">
+      <strong>lipoma:</strong> A benign fatty tumor that grows under the skin; common and usually harmless but cosmetically undesirable.
+    </div>
+<div id="c-2-1" class="expanded-content" data-concept-level="noob">
+      <strong>DDW (deuterium-depleted water):</strong> Water with reduced deuterium content; restores water coherence and supports mitochondrial function.
+    </div>
+<div id="c-2-2" class="expanded-content" data-concept-level="noob">
+      <strong>TENS unit (transcutaneous electrical nerve stimulation):</strong> A device that delivers mild electrical pulses through the skin to stimulate nerves and reduce pain or trigger tissue remodeling.
+    </div>
+<div id="c-2-3" class="expanded-content" data-concept-level="noob">
+      <strong>water table coherence:</strong> A technical term used by the selected source. The report keeps &quot;water table coherence&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-2-4" class="expanded-content" data-concept-level="noob">
+      <strong>mitochondrial function:</strong> A technical term used by the selected source. The report keeps &quot;mitochondrial function&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div></div><div class="card-points"><ul class="bullet-list"><li><strong>Treatment.</strong> Apply TENS unit directly over lipoma or use DDW supplementation systemically.</li><li><strong>Mechanism.</strong> DDW restores water coherence and mitochondrial efficiency; TENS stimulates local tissue remodeling.</li><li><strong>Practical meaning.</strong> Two modalities address the same problem (lipid accumulation) at different scales: systemic (water table) and local (electrical stimulation).</li></ul></div><div class="source-quote">DDW or a TENS unit over the lesion</div></div>
+      <div class="section-title">Forum Updates</div>
+      <div class="card"><div class="card-header"><span class="tag">Planetary magnetism</span><a href="https://forum.jackkruse.com/threads/understanding-vortices.32685/" target="_blank" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Earth&#39;s core-mantle electromagnetic decoupling collapses the restoring force on human protons, extending T-2 relaxation and destroying wound healing globally</strong> A paper on Earth&#39;s electromagnetic autopsy shows a 98.3% reduction in <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-0')">Chandler wobble</span> and 97.2% reduction in <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-0-1')">annual wobble</span>, indicating <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-2')">core-mantle</span> electromagnetic decoupling. The <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-0-3')">outer core</span>&#39;s electric and magnetic fields no longer grip the mantle; the planetary transmission has slipped into neutral. This collapses the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-4')">restoring force</span> on human <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-0-5')">protons</span> globally, extending <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-6')">T-2 relaxation</span> time to maximum. Humans lose the ability to &#39;hold phase&#39; against environmental noise, explaining why wounds are not healing and why diabetes is being created at record rates in places that should have none.</div><div id="c-0-0" class="expanded-content" data-concept-level="pro">
+      <strong>Chandler wobble:</strong> A small oscillation in Earth&#39;s rotation axis with a period of ~433 days; driven by core-mantle electromagnetic coupling.
+    </div>
+<div id="c-0-1" class="expanded-content" data-concept-level="noob">
+      <strong>annual wobble:</strong> A technical term used by the selected source. The report keeps &quot;annual wobble&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-0-2" class="expanded-content" data-concept-level="pro">
+      <strong>core-mantle:</strong> The boundary between Earth&#39;s liquid outer core and solid mantle; site of electromagnetic coupling that drives planetary rotation and magnetic field generation.
+    </div>
+<div id="c-0-3" class="expanded-content" data-concept-level="noob">
+      <strong>outer core:</strong> A technical term used by the selected source. The report keeps &quot;outer core&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-0-4" class="expanded-content" data-concept-level="pro">
+      <strong>restoring force:</strong> The force that returns a system to equilibrium after perturbation; in biology, the planetary magnetic field provides a restoring force on nuclear protons.
+    </div>
+<div id="c-0-5" class="expanded-content" data-concept-level="noob">
+      <strong>protons:</strong> Positively charged subatomic particles; the nucleus of a hydrogen atom; sensitive to magnetic fields.
+    </div>
+<div id="c-0-6" class="expanded-content" data-concept-level="pro">
+      <strong>T-2 relaxation:</strong> The time it takes for nuclear spins to lose phase coherence after magnetic perturbation; extended T-2 means loss of biological order.
+    </div></div><div class="card-points"><ul class="bullet-list"><li><strong>Mechanism.</strong> Declining core-mantle <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-0-0')">electromagnetic coupling</span> -&gt; weakened <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-0-1')">planetary magnetic field</span> -&gt; reduced restoring force on nuclear protons -&gt; extended T-2 relaxation time -&gt; loss of <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-0-2')">phase coherence</span> in <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-0-3')">biological water</span> -&gt; impaired cellular signaling and repair.</li><li><strong>Geo signal.</strong> Wound healing failure and diabetes epidemic are now measurable global phenomena linked to planetary magnetic field decline, especially in high-declination zones (<span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-0')">SAA (South Atlantic Anomaly)</span>).</li><li><strong>Protocol.</strong> Compensate with grounding, magnetic field exposure, and water table coherence protocols (<span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-2-0')">DDW (deuterium-depleted water)</span>, <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-2-1')">cold thermogenesis (CT)</span>, cold water immersion).</li><li><strong>Why it matters.</strong> Planetary magnetic decline is now measurable and has direct biological consequences. Standard medicine ignores this geo-biophysical signal.</li></ul><div id="c-0-0" class="expanded-content" data-concept-level="noob">
+      <strong>electromagnetic coupling:</strong> A technical term used by the selected source. The report keeps &quot;electromagnetic coupling&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-0-1" class="expanded-content" data-concept-level="noob">
+      <strong>planetary magnetic field:</strong> A technical term used by the selected source. The report keeps &quot;planetary magnetic field&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-0-2" class="expanded-content" data-concept-level="noob">
+      <strong>phase coherence:</strong> A technical term used by the selected source. The report keeps &quot;phase coherence&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-0-3" class="expanded-content" data-concept-level="noob">
+      <strong>biological water:</strong> A technical term used by the selected source. The report keeps &quot;biological water&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div><div id="c-1-0" class="expanded-content" data-concept-level="pro">
+      <strong>SAA (South Atlantic Anomaly):</strong> A region over South America and the South Atlantic where Earth&#39;s magnetic field is weakest; associated with increased radiation and biological stress.
+    </div><div id="c-2-0" class="expanded-content" data-concept-level="noob">
+      <strong>DDW (deuterium-depleted water):</strong> Water with reduced deuterium content; restores water coherence and supports mitochondrial function.
+    </div>
+<div id="c-2-1" class="expanded-content" data-concept-level="noob">
+      <strong>cold thermogenesis (CT):</strong> Exposure to cold water or air to trigger metabolic heat production; expands EZ water layers and improves dielectric coherence.
+    </div></div><div class="source-quote">The Restoring Force on your internal protons is collapsing globally. Without that rigid core-mantle coupling to clean and organize the magnetic field lines, the planetary Z-axis is becoming a chaotic mess. This means the human T-2 relaxation window is stretching to its absolute maximum. Your ability to naturally &quot;hold phase&quot; against environmental noise is at an all-time low. This is why wounds are not healing and why we are creating diabetics at record rates in places that should have none.</div></div>
+      <div class="card"><div class="card-header"><span class="tag">Plant disease mechanism</span><a href="https://forum.jackkruse.com/threads/the-magnetic-excursion-thread.32766/" target="_blank" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Citrus greening is a water table collapse disease, not a bacterial infection; deuterium trap in Florida aquifers enables opportunistic infection</strong> <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-0')">Citrus greening</span> (<span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-1')">Huanglongbing (HLB)</span>) is not caused by bacteria; <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-2')">Candidatus Liberibacter asiaticus</span> is an opportunist. The real cause is deuterium accumulation in Florida&#39;s sandy aquifers, which collapses the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-3')">Exclusion Zone (EZ)</span> <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-4')">dielectric constant</span> from ~160 to bulk state (~78). This destroys the plant&#39;s internal <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-5')">sap coherence</span> and <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-6')">electrical potential</span>, creating a stalled, uncoupled fluid <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-7')">vortex</span> where bacteria thrive. Centralized agriculture blames the bacterium and ignores sub-molecular <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-8')">thermodynamics</span>, <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-9')">fluid dynamics</span>, and the biophysics of water.</div><div id="c-1-0" class="expanded-content" data-concept-level="noob">
+      <strong>Citrus greening:</strong> A technical term used by the selected source. The report keeps &quot;Citrus greening&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-1-1" class="expanded-content" data-concept-level="noob">
+      <strong>Huanglongbing (HLB):</strong> Citrus greening disease; a bacterial infection that causes yellowing and death of citrus trees.
+    </div>
+<div id="c-1-2" class="expanded-content" data-concept-level="pro">
+      <strong>Candidatus Liberibacter asiaticus:</strong> The bacterium associated with citrus greening; thrives in low-potential, incoherent plant tissue.
+    </div>
+<div id="c-1-3" class="expanded-content" data-concept-level="pro">
+      <strong>Exclusion Zone (EZ):</strong> A structured, coherent layer of water near hydrophilic surfaces with high dielectric constant; critical for plant and cellular function.
+    </div>
+<div id="c-1-4" class="expanded-content" data-concept-level="pro">
+      <strong>dielectric constant:</strong> A measure of a material&#39;s ability to store electrical energy; high dielectric water (ε≈160) is coherent; bulk water (ε≈78) is incoherent.
+    </div>
+<div id="c-1-5" class="expanded-content" data-concept-level="noob">
+      <strong>sap coherence:</strong> A technical term used by the selected source. The report keeps &quot;sap coherence&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-1-6" class="expanded-content" data-concept-level="noob">
+      <strong>electrical potential:</strong> A technical term used by the selected source. The report keeps &quot;electrical potential&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-1-7" class="expanded-content" data-concept-level="noob">
+      <strong>vortex:</strong> A technical term used by the selected source. The report keeps &quot;vortex&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-1-8" class="expanded-content" data-concept-level="noob">
+      <strong>thermodynamics:</strong> A technical term used by the selected source. The report keeps &quot;thermodynamics&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-1-9" class="expanded-content" data-concept-level="noob">
+      <strong>fluid dynamics:</strong> The physics of how liquids and gases move, including flow, pressure, turbulence, and mixing. In water-system cards it explains movement rather than static chemistry alone.
+    </div></div><div class="card-points"><ul class="bullet-list"><li><strong>Mechanism.</strong> High deuterium in Florida aquifers -&gt; EZ water lattice collapses (ε drops from ~160 to ~78) -&gt; plant sap loses charge separation and coherence -&gt; internal vortex stalls -&gt; electrical potential drops -&gt; bacteria exploit the low-potential environment and proliferate.</li><li><strong>Geo signal.</strong> Florida&#39;s collapsing orange groves are a macro-scale physical reality of systemic water table dielectric collapse. The disease is endemic to high-deuterium zones.</li><li><strong>Protocol.</strong> Remediation requires restoring water coherence (<span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-102-0')">DDW (deuterium-depleted water)</span>, <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-102-1')">structured water</span>, magnetic field exposure) rather than antibiotics or pesticides. Bacteria are indicators of a failed water table, not the root cause.</li><li><strong>Why it matters.</strong> Plant disease in high-deuterium zones reveals a fundamental biophysical principle: coherent water is the foundation of health; bacteria are opportunists in incoherent systems.</li></ul><div id="c-102-0" class="expanded-content" data-concept-level="noob">
+      <strong>DDW (deuterium-depleted water):</strong> Water with reduced deuterium content; restores water coherence and supports biological function.
+    </div>
+<div id="c-102-1" class="expanded-content" data-concept-level="noob">
+      <strong>structured water:</strong> A technical term used by the selected source. The report keeps &quot;structured water&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div></div><div class="source-quote">Centralized agricultural and biological science looks at the devastation of the Florida citrus industry and lays 100% of the blame on a bacterium (Candidatus Liberibacter asiaticus) causing the plant disease known as Citrus Greening (Huanglongbing / HLB). They treat the bacteria as an isolated, invading predator. They are completely blind to the foundational laws of sub-molecular thermodynamics, fluid dynamics, and mass: the bacteria is merely an opportunist thriving inside a stalled, uncoupled fluid vortex where heavy Deuterium has completely corrupted the water table&#39;s dielectric baseline.</div></div>
+    <div class="locked-section">
+      <div class="locked-title">
+        <span>Interact with Report (Ask AI)</span>
+        <span class="locked-badge">Soon</span>
+      </div>
+    </div>
+    <footer>
+      Auto-generated by <a href="https://github.com/guyHouri/kruse-ai-scrape">kruse-ai-scrape</a>.
+      Source: <a href="https://x.com/DrJackKruse">@DrJackKruse</a>.
+    </footer>
+  </div>
+  <script>
+    function toggleConcept(id) {
+      var el = document.getElementById(id);
+      if (el) el.classList.toggle('open');
+    }
+    (function () {
+      var btn = document.getElementById('themeToggle');
+      var saved = null;
+      try { saved = localStorage.getItem('kruse-theme'); } catch (e) {}
+      if (saved === 'light') document.body.classList.add('light');
+      function syncLabel() {
+        if (!btn) return;
+        btn.textContent = document.body.classList.contains('light') ? '☀ Light' : '🌙 Dark';
+      }
+      syncLabel();
+      if (btn) btn.addEventListener('click', function () {
+        document.body.classList.toggle('light');
+        try { localStorage.setItem('kruse-theme', document.body.classList.contains('light') ? 'light' : 'dark'); } catch (e) {}
+        syncLabel();
+      });
+    })();
+    (function () {
+      var savedLevel = null;
+      try { savedLevel = localStorage.getItem('kruse-level'); } catch (e) {}
+      var initial = (savedLevel === 'noob' || savedLevel === 'pro' || savedLevel === 'hacker') ? savedLevel : 'pro';
+      function apply(level) {
+        document.body.classList.remove('level-noob', 'level-pro', 'level-hacker');
+        document.body.classList.add('level-' + level);
+        var btns = document.querySelectorAll('.level-toggle button');
+        for (var i = 0; i < btns.length; i++) {
+          var on = btns[i].getAttribute('data-level') === level;
+          btns[i].classList.toggle('active', on);
+          btns[i].setAttribute('aria-pressed', on ? 'true' : 'false');
+        }
+        try { localStorage.setItem('kruse-level', level); } catch (e) {}
+      }
+      apply(initial);
+      var btns = document.querySelectorAll('.level-toggle button');
+      for (var i = 0; i < btns.length; i++) {
+        (function (b) {
+          b.addEventListener('click', function () { apply(b.getAttribute('data-level')); });
+        })(btns[i]);
+      }
+    })();
+  </script>
+</body>
+</html>

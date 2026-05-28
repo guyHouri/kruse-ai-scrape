@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-28",
+  "status": "passed",
+  "checks": [
+    "schema",
+    "selection_coverage",
+    "blog_ref_enrichment",
+    "source_group_section_titles",
+    "forum_bullets_empty",
+    "science_explanation_preserved_source_fields",
+    "report_voice_no_ai_opinion_or_absence_language",
+    "no_question_or_watchlist_framing",
+    "source_id_membership",
+    "forum_thread_membership",
+    "source_quote_membership",
+    "source_quote_repair_from_curator_quotes",
+    "card_source_reference_repair",
+    "podcast_deferral",
+    "citation_source_citations_membership",
+    "pseudo_citation_guard",
+    "citation_bibliographic_anchor_guard",
+    "concept_alias_repair",
+    "translation_term_coverage",
+    "concept_integrity",
+    "private_phrase_explanation"
+  ]
+}

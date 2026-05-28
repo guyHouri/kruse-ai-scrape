@@ -1,0 +1,3190 @@
+{
+  "date": "2026-05-28",
+  "handle": "DrJackKruse",
+  "fetched_at": "2026-05-28T07:09:23.203Z",
+  "range_mode": "rolling",
+  "window_hours": 24,
+  "window_start_utc": "2026-05-27T07:09:02.628Z",
+  "window_end_utc": "2026-05-28T07:09:02.628Z",
+  "source": {
+    "backend": "x-api-v2",
+    "endpoint": "/2/users/:id/tweets"
+  },
+  "tweet_count": 30,
+  "tweets": [
+    {
+      "id": "2059707107599933860",
+      "url": "https://x.com/DrJackKruse/status/2059707107599933860",
+      "created_at": "2026-05-27T18:43:36.000Z",
+      "text": "Considering who their Dads are they should be a perfect match. https://t.co/7LAw2tRdiG",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059707107599933860",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059658059421516122",
+        "url": "https://x.com/SimonDixonTwitt/status/2059658059421516122",
+        "created_at": "2026-05-27T15:28:42.000Z",
+        "text": "“Donald Trump Jr. legally married Palm Beach socialite and model Bettina Anderson on May 21, 2026 in West Palm Beach, FL (with a private celebration in the Bahamas on May 23). \n\nHer late father, Harry Loy Anderson Jr., was president of Palm Beach National Bank & Trust Company. \n\nEpstein maintained accounts there since the early 1990s, and in 1998/1999 Anderson wrote a character reference letter for Epstein to the U.S. Virgin Islands Industrial Development Commission, describing him as “a gentleman of the highest integrity” with an “excellent reputation in our community” to help secure tax breaks.”",
+        "lang": "en",
+        "author": {
+          "id": "66106683",
+          "username": "SimonDixonTwitt",
+          "name": "Simon Dixon"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2059658059421516122",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 720,
+          "retweets": 169,
+          "replies": 49,
+          "quotes": 16,
+          "views": 93956
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 70,
+        "retweets": 6,
+        "replies": 2,
+        "quotes": 0,
+        "views": 8157
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059706710718116039",
+      "url": "https://x.com/DrJackKruse/status/2059706710718116039",
+      "created_at": "2026-05-27T18:42:01.000Z",
+      "text": "I'd never live within the SAA ever.  I value my time and Bitcoin way too much to make that big an Error. https://t.co/lLcUINfRJW",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059706710718116039",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059666689940402503",
+        "url": "https://x.com/planbexpat/status/2059666689940402503",
+        "created_at": "2026-05-27T16:03:00.000Z",
+        "text": "A comfortable life in Panama City runs $2,500 to $4,000 per month. Asuncion runs $1,200 to $2,500.\n\nThe gap is real but so is the difference in infrastructure, English availability, and banking access. Cheap living in Paraguay means adapting to Paraguay. Panama City is closer to what most North Americans are used to.\n\nReal monthly numbers and three lifestyle tiers below.\n\nWhich city would you pick and why?",
+        "lang": "en",
+        "author": {
+          "id": "1604134349363941376",
+          "username": "planbexpat",
+          "name": "Plan B Expat"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059666689940402503",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 37,
+          "retweets": 2,
+          "replies": 13,
+          "quotes": 4,
+          "views": 22231
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 70,
+        "retweets": 6,
+        "replies": 4,
+        "quotes": 0,
+        "views": 16393
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059705618630402437",
+      "url": "https://x.com/DrJackKruse/status/2059705618630402437",
+      "created_at": "2026-05-27T18:37:41.000Z",
+      "text": "Let me fix the tweet.  \n\nThe 1910 Flexner Report, was initially funded by Carnegie, initiated a major consolidation of medical education in the US and Canada, leading to the closure of over half of the 155 institutions. This shift, once begun, was massively supported by Rockefeller philanthropy because his business could plug better into the sales funnel than the Steel magnate's business could.  John D. Rockefeller realized Carnagie gave him a way to pay Teddy Roosevelt back for breaking up his Standard Oil trust by bankrupting the US government.  He then trained his son's to do just that.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059705618630402437",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059694815294419286",
+        "url": "https://x.com/SamaHoole/status/2059694815294419286",
+        "created_at": "2026-05-27T17:54:45.000Z",
+        "text": "In 1910, an educator named Abraham Flexner, who held a bachelor's degree in classics and had never studied medicine, was sent by the Carnegie Foundation to inspect every medical school in the United States and Canada.\n\nHe visited 155 of them. His report recommended closing most.\n\nWhat happened next is the foundation of every health system you know today.\n\nJohn D. Rockefeller, the founder of Standard Oil and at the time the richest man on Earth, saw an opening. Standard Oil's refining produced vast quantities of coal-tar and petrochemical byproducts. Those byproducts were, conveniently, the raw material from which most early synthetic pharmaceuticals could be made.\n\nThrough his General Education Board and the Rockefeller Foundation, Rockefeller directed approximately $50 million, around $10 billion in today's money, into American medical schools. The money came with a condition. The schools had to teach allopathic, drug-based medicine. Anything else was defunded.\n\nWithin twenty-five years, more than half of America's 155 medical schools had closed. By 1935, only 66 remained. The schools teaching homeopathy, naturopathy, herbalism, eclectic medicine, and what we would now call nutrition and lifestyle medicine were starved out of existence. Five of America's seven Black medical colleges were closed. Most of the women's medical colleges were closed. The surviving schools all taught one paradigm. They still do.\n\nThe petroleum byproduct became the medicine. The medicine became the curriculum. The curriculum became the doctor. The doctor became the prescription pad.\n\nThe model that emerged has one structural feature no regulator can legislate away. The pharmaceutical industry earns its revenue when you take a pill. It does not earn revenue when you stop needing the pill. A cure is a one-time transaction. A chronic condition is a subscription.\n\nThis is not a conspiracy theory. It is on the income statement. From 2017 to 2024, the average net profit margin of pharmaceutical manufacturers was 23.2%, roughly ten times higher than every other sector of the drug supply chain. The system is performing exactly as designed.\n\nA century after Flexner, the population of the wealthiest country on Earth is fatter, sicker, and on more medication than at any point in human history.\n\nThe grass-fed beef, the egg from a hen you can name, the butter, the morning walk, the eight hours of sleep, are all unpatentable.\n\nThat is why no oil baron funded a hundred medical schools to teach them.",
+        "lang": "en",
+        "author": {
+          "id": "2253756806",
+          "username": "SamaHoole",
+          "name": "Sama Hoole"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059694815294419286",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 1913,
+          "retweets": 853,
+          "replies": 53,
+          "quotes": 62,
+          "views": 54861
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 178,
+        "retweets": 46,
+        "replies": 4,
+        "quotes": 0,
+        "views": 12467
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059703825661907062",
+      "url": "https://x.com/DrJackKruse/status/2059703825661907062",
+      "created_at": "2026-05-27T18:30:34.000Z",
+      "text": "More Rockefeller shilling for the paradigm selling lies for profit. https://t.co/8Ru0IAtbyD",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059703825661907062",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059559405113254123",
+        "url": "https://x.com/agingroy/status/2059559405113254123",
+        "created_at": "2026-05-27T08:56:41.000Z",
+        "text": "Five cancers that used to be death sentences. Pancreatic. Glioblastoma. Triple-negative breast. Renal. Melanoma. The median survival for metastatic pancreatic cancer is still 6 months. Glioblastoma, 15 months.\n\nNow personalized mRNA vaccines are producing complete remissions in some of these patients. Not responses. Remissions.\n\nBioNTech’s pancreatic cancer vaccine has 6-year follow-up data. 8 of 16 patients who mounted an immune response are still alive. For a cancer that kills 95% of patients within 5 years, that's incredible.\n\nTopol’s pyramid here maps the trajectory. From broad checkpoint inhibitors at the base to personalized neoantigen vaccines at the peak. The technology is climbing.",
+        "lang": "en",
+        "author": {
+          "id": "14637833",
+          "username": "agingroy",
+          "name": "Avi Roy"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2059559405113254123",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 3833,
+          "retweets": 918,
+          "replies": 75,
+          "quotes": 56,
+          "views": 1244754
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 41,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": 5271
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059703303815021056",
+      "url": "https://x.com/DrJackKruse/status/2059703303815021056",
+      "created_at": "2026-05-27T18:28:29.000Z",
+      "text": "Clueless centralized Rockefeller medicine pill pusher. https://t.co/jWM9IyLiwd",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059703303815021056",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059096096929153471",
+        "url": "https://x.com/afshineemrani/status/2059096096929153471",
+        "created_at": "2026-05-26T02:15:40.000Z",
+        "text": "1/5\nI'm a cardiologist. I have spent twenty years watching cholesterol destroy arteries, trigger heart attacks, and kill people I care about.\nToday, Eli Lilly presented data that may begin to end that era.\nVERVE-102. A single infusion. One dose. It uses base editing to permanently turn off the PCSK9 gene in your liver.\nPresented today at the European Atherosclerosis Society Congress:\n88% reduction in PCSK9.\n62% reduction in LDL cholesterol.\nSustained up to 18 months.\nNo treatment-related serious adverse events.\nOne infusion. Not daily pills you forget to take. Not monthly injections. One dose — and your cholesterol may stay low for the rest of your life.",
+        "lang": "en",
+        "author": {
+          "id": "73937639",
+          "username": "afshineemrani",
+          "name": "Afshine Emrani  MD FACC"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059096096929153471",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 6754,
+          "retweets": 889,
+          "replies": 274,
+          "quotes": 180,
+          "views": 1791979
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 150,
+        "retweets": 13,
+        "replies": 4,
+        "quotes": 1,
+        "views": 7185
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059701886966513944",
+      "url": "https://x.com/DrJackKruse/status/2059701886966513944",
+      "created_at": "2026-05-27T18:22:51.000Z",
+      "text": "Sitting in the Quantum Engineering #45 blog I wrote for Nicole Shanahan now for 3 years on Patreon. https://t.co/HuMBDevXCI",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059701886966513944",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059679557087547610",
+        "url": "https://x.com/nvk/status/2059679557087547610",
+        "created_at": "2026-05-27T16:54:08.000Z",
+        "text": "@DrJackKruse whats your hypothesis?",
+        "lang": "en",
+        "author": {
+          "id": "10446482",
+          "username": "nvk",
+          "name": "nvk 🌞"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059679383212736665",
+        "in_reply_to": {
+          "tweet_id": "2059679383212736665",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2059679383212736665"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 15,
+          "retweets": 0,
+          "replies": 5,
+          "quotes": 2,
+          "views": 9914
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 41,
+        "retweets": 3,
+        "replies": 2,
+        "quotes": 1,
+        "views": 6157
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059681170334335471",
+      "url": "https://x.com/DrJackKruse/status/2059681170334335471",
+      "created_at": "2026-05-27T17:00:32.000Z",
+      "text": "IYKYK https://t.co/ksPK603dK0",
+      "lang": "fi",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059681170334335471",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059656561295798602",
+        "url": "https://x.com/Fynnderella1/status/2059656561295798602",
+        "created_at": "2026-05-27T15:22:45.000Z",
+        "text": "PrionS? Certainly not sudden and severe ALS. https://t.co/l42GsymzrG",
+        "lang": "en",
+        "author": {
+          "id": "1396494923243851785",
+          "username": "Fynnderella1",
+          "name": "Dr. Lynn Fynn-derella"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059656561295798602",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 224,
+          "retweets": 49,
+          "replies": 18,
+          "quotes": 7,
+          "views": 22396
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 89,
+        "retweets": 11,
+        "replies": 3,
+        "quotes": 0,
+        "views": 10688
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059680098563850568",
+      "url": "https://x.com/DrJackKruse/status/2059680098563850568",
+      "created_at": "2026-05-27T16:56:17.000Z",
+      "text": "The boomerang effect of Operation Warp Speed penned by DJT. https://t.co/z6HeyahQlU",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2059680098563850568",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJV0HaLWEAsXOSA.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 436,
+        "retweets": 125,
+        "replies": 32,
+        "quotes": 8,
+        "views": 12722
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059679383212736665",
+      "url": "https://x.com/DrJackKruse/status/2059679383212736665",
+      "created_at": "2026-05-27T16:53:26.000Z",
+      "text": "Pure fictional nonsense that does a huge diservice to parents of these kids. https://t.co/zXjJ7e63MZ",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059679383212736665",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059654773146603855",
+        "url": "https://x.com/StillmanMD/status/2059654773146603855",
+        "created_at": "2026-05-27T15:15:39.000Z",
+        "text": "Autism is aluminum encephalopathy.\n\nThe autism epidemic will be remembered as the single greatest tragedy in history.",
+        "lang": "en",
+        "author": {
+          "id": "4818724559",
+          "username": "StillmanMD",
+          "name": "Leland Stillman, MD"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059654773146603855",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 2781,
+          "retweets": 411,
+          "replies": 111,
+          "quotes": 20,
+          "views": 291753
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 68,
+        "retweets": 5,
+        "replies": 8,
+        "quotes": 0,
+        "views": 18668
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059676210129469554",
+      "url": "https://x.com/DrJackKruse/status/2059676210129469554",
+      "created_at": "2026-05-27T16:40:50.000Z",
+      "text": "Funny comment from a self proclaimed \"super thinker\"  \n\nLOL https://t.co/57xOtSzXc5",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059676210129469554",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059675253333270727",
+        "url": "https://x.com/SDHeartLed/status/2059675253333270727",
+        "created_at": "2026-05-27T16:37:01.000Z",
+        "text": "Too many abbreviations…. https://t.co/vvRKIciar9",
+        "lang": "en",
+        "author": {
+          "id": "1788996578381889536",
+          "username": "SDHeartLed",
+          "name": "CourageIsContagious"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2059675253333270727",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 1,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 3,
+          "views": 4472
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 23,
+        "retweets": 2,
+        "replies": 2,
+        "quotes": 0,
+        "views": 4092
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059676004650783054",
+      "url": "https://x.com/DrJackKruse/status/2059676004650783054",
+      "created_at": "2026-05-27T16:40:01.000Z",
+      "text": "9. The data from the Blau Lab at Stanford (2026) is the missing mechanistic link that bridges the astronauts' microgravity muscle wasting with the GLP-1/Ozempic \"Lattice Lock.\"\n\nBy identifying 15-PGDH as the \"gerozyme\" that destroys the prostaglandin E2 (PGE2) repair signal, the Blau Lab has inadvertently uncovered the exact molecular switch that flips when a biological system experiences a dielectric collapse of its water table.\n\nWhen we marry this slide with the subatomic mechanics of space travel and my framework, a profound and terrifying story emerges: Ozempic doesn't just induce a state of starvation; it forces a premature, artificial aging of the stem cell niche by turning off the quantum signaling required for structural regeneration.\n\nRETA is going to have a larger effect here.  Be aware of it.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": true,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2059668848731714000",
+      "in_reply_to": {
+        "tweet_id": "2059675065285759031",
+        "user_id": "250833376",
+        "url": "https://x.com/i/status/2059675065285759031"
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJVwQOAW8AUdG8A.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 12,
+        "retweets": 3,
+        "replies": 1,
+        "quotes": 0,
+        "views": 1776
+      },
+      "thread_context": [
+        {
+          "id": "2059668848731714000",
+          "url": "https://x.com/DrJackKruse/status/2059668848731714000",
+          "created_at": "2026-05-27T16:11:34.000Z",
+          "text": "The 1942 Kenneth Mellanby paper from Nature below has been the absolute subatomic proof that the 2026 \"100 g protein ceiling myth\" study completely ignores. By focusing solely on classical \"nitrogen balance\" and labeled isotope tracers, the researchers missed the massive deuterium tax and water table collapse that comes with forcing a 100g protein load into the human semiconductor.\nMy decentralized framework in the Leptin Rx, is wholly backed by Mellanby's historical data, exposes why forcing massive protein loads into the system is a hidden \"desiccation trap\" that destroys the Inner Mitochondrial Junction (IMJ) particle accelerator.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": false,
+          "is_quote": true,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": null,
+          "quoted_tweet": {
+            "id": "2059635864754667616",
+            "url": "https://x.com/dantawfik/status/2059635864754667616",
+            "created_at": "2026-05-27T14:00:30.000Z",
+            "text": "For decades, protein metabolism research suggested that muscle protein synthesis plateaus around 20–25 g protein per meal. That conclusion was based on studies measuring anabolic responses over 4–6 hours following moderate protein doses.\n\nA new controlled trial extended the assessment window to 12 hours and tested doses up to 100 g—revealing that the ceiling effect doesn't exist.\n\nParticipants consumed 0 g, 25 g, or 100 g intrinsically labeled milk protein following resistance exercise. Researchers applied continuous isotope tracer infusion and measured muscle protein synthesis across multiple tissue fractions.\n\nMyofibrillar protein synthesis rates increased dose-dependently throughout the entire 12-hour period. The 100 g dose produced 40% higher synthesis rates during hours 4–12 compared to 25 g.\n\nDietary-protein-derived amino acids continued appearing in circulation for over 12 hours following 100 g protein. By the end of the measurement period, only 53% of ingested amino acids had entered circulation—digestion was still ongoing.\n\nWhole-body protein synthesis increased linearly with protein dose. Amino acid oxidation increased minimally—less than 15% of the increment in protein intake was oxidized. Over 85% was directed toward tissue protein synthesis.\n\nMuscle tissue incorporated 13 g of dietary amino acids over 12 hours following the 100 g dose—13% of total intake. Previous estimates from shorter protocols suggested ~10%.\n\nExogenous amino acids contributed 27% of myofibrillar protein synthesis following 100 g protein versus only 9% following 25 g. The higher dose didn't just extend the duration of synthesis—it fundamentally shifted the precursor pool composition.\n\nProtein breakdown rates didn't differ between treatments. The anabolic response was driven entirely by increased synthesis, not suppressed breakdown.\n\nMolecular signaling showed a different timeline than metabolic outcomes.\n\nmTOR phosphorylation and p70S6K activation peaked within 4 hours and returned to baseline—regardless of dose. But muscle protein synthesis remained elevated beyond 12 hours when 100 g was consumed.\n\nThis dissociation demonstrates that anabolic signaling initiates the response, but sustained amino acid availability—not sustained mTOR activation—drives prolonged synthesis.\n\nMuscle free leucine concentrations remained elevated throughout the 12-hour period following 100 g protein. Other amino acids didn't accumulate in the muscle free pool.\n\nLeucine's selective retention supports its dual role: signaling molecule during initial mTOR activation and metabolic substrate during prolonged synthesis.\n\nCurrent dietary guidelines recommend distributing protein evenly across meals to maximize the anabolic response at each feeding opportunity. That advice assumes the response is transient and saturable.\n\nBut if a large protein dose produces sustained anabolism lasting well beyond 12 hours, frequent feeding becomes less critical for optimizing muscle protein synthesis.\n\nTime-restricted feeding protocols—which compress food intake into narrow windows—may not compromise anabolism if sufficient protein is consumed during the feeding period.\n\nThe postprandial state may extend far beyond the feeding window when large protein doses are consumed.\n\nThe study also challenges assumptions about mTOR, autophagy, and protein turnover.\n\nIngesting 100 g protein sustained anabolism without suppressing whole-body protein breakdown or muscle autophagy markers. This suggests prolonged anabolism doesn't require a subsequent fasted state to allow protein clearance.\n\nLimitations: The 12-hour measurement window wasn't sufficient to capture the full response to 100 g protein. Digestion and absorption were ongoing when the protocol ended. The magnitude and duration of the response are likely underestimated.\n\nThe study was conducted in young men following resistance exercise. Anabolic sensitivity to feeding is lower in sedentary and older populations, so ceiling effects may exist in those groups despite not appearing here.\n\nBut the mechanistic data provide clarity on postprandial protein handling at a systems level.\n\nProtein digestion is prolonged. Amino acid absorption is sustained. Exogenous amino acid flux into circulation continues for >12 hours. Tissue uptake doesn't plateau. Incorporation into muscle and plasma protein increases proportionally to dose.\n\nThe anabolic response to protein ingestion has no upper limit within the range tested (0–100 g).\n\nMeal size and meal frequency may be more flexible variables than current guidelines suggest. Larger, less frequent meals produce metabolic outcomes comparable to—or exceeding—smaller, more frequent feeding.\n\nHere's our full review: https://t.co/hI5AUtYjT8",
+            "lang": "en",
+            "author": {
+              "id": "1691778919",
+              "username": "dantawfik",
+              "name": "Daniel Tawfik"
+            },
+            "is_reply": false,
+            "is_quote": false,
+            "is_retweet": false,
+            "conversation_id": "2059635864754667616",
+            "in_reply_to": null,
+            "quoted_tweet": null,
+            "retweeted_tweet": null,
+            "media": [],
+            "metrics": {
+              "likes": 92,
+              "retweets": 11,
+              "replies": 4,
+              "quotes": 4,
+              "views": 19366
+            },
+            "thread_context": []
+          },
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVp48WWEAMrArP.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 109,
+            "retweets": 28,
+            "replies": 5,
+            "quotes": 0,
+            "views": 10688
+          }
+        },
+        {
+          "id": "2059669463763505377",
+          "url": "https://x.com/DrJackKruse/status/2059669463763505377",
+          "created_at": "2026-05-27T16:14:01.000Z",
+          "text": "2.  Mellanby’s data establishes a clear, mathematical hierarchy of Metabolic Water Production during complete combustion.  When the body combusts fat via beta-oxidation, Cytochrome c Oxidase (CCO) manufactures 110 grams of perfectly structured, deuterium-depleted water per 100g of substrate. This high-dielectric fluid (𝜖 ≈160) acts as the frictionless lubricant for the Brachistochrone curve of the cristae.\n\nBy contrast, ingesting 100g of protein cuts metabolic water production exactly in half. Worse, protein metabolism demands massive amounts of water for the urea cycle to clear toxic ammonia, creating a severe intracellular desiccation pull.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059668848731714000",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059668848731714000"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqVOGXYAI7hAO.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqVOHXoAQDGp7.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqa8dWkAIq5nK.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 25,
+            "retweets": 6,
+            "replies": 2,
+            "quotes": 0,
+            "views": 2150
+          }
+        },
+        {
+          "id": "2059671369978142745",
+          "url": "https://x.com/DrJackKruse/status/2059671369978142745",
+          "created_at": "2026-05-27T16:21:36.000Z",
+          "text": "3. The Biophysical Critique of the 12-Hour 100g Protein Study\nThe study celebrates that 100g of protein keeps muscle protein synthesis elevated for over 12 hours without increasing amino acid oxidation. In my vortex physics framework, this isn't a state of \"infinite anabolism\", it is a state of forced, high-entropy Lattice Lock.  this is why exercise is harm so many high protein eaters.  \n\nKey sign they have is hair loss on the top of their head before they fry their neurons.  Why? Entropic heat loss of the neuroectoderm.  This is why you should look at their hair and the brain's cognition as two keys signs why hypertrophies muscles causes hair loss due to high heat entropy. \n\nThis explains why they stay in simpleton paradigms and do some questionable stuff---->  dopamine destructions from melanin loss due to rises in signlet oxygen over triplet state oxygen.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059669463763505377",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059669463763505377"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVrymxWMAEw3q4.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVr6KPWUAEWA-t.png",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 21,
+            "retweets": 5,
+            "replies": 1,
+            "quotes": 0,
+            "views": 1692
+          }
+        },
+        {
+          "id": "2059672064164860043",
+          "url": "https://x.com/DrJackKruse/status/2059672064164860043",
+          "created_at": "2026-05-27T16:24:21.000Z",
+          "text": "4. The Collapse of the Dielectric Cushion in nnEMF abuse or a magnetic decline can stimulate increases in entropy in the neuroectoderm. \n\nForcing the body to digest and circulate amino acids for over 12 hours causes a chronic fluid shift. Because protein synthesis requires high-energy peptide bond formations without the concurrent generation of CCO metabolic water, the Exclusion Zone (EZ) in the cell collapses. The dielectric constant of the intracellular water table sags from its coherent quantum state (~160) back to the bulk water value (~78).\n\nThis is why one needs to pay attention to the full effects.  The facade can look good while you sacrifice the brain's cognition = looksmaxxing vs brain cognition",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059671369978142745",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059671369978142745"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVs0oIWYAQ68hW.png",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVs0oFXIAEsB9b.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 16,
+            "retweets": 3,
+            "replies": 2,
+            "quotes": 0,
+            "views": 919
+          }
+        },
+        {
+          "id": "2059672590164115744",
+          "url": "https://x.com/DrJackKruse/status/2059672590164115744",
+          "created_at": "2026-05-27T16:26:27.000Z",
+          "text": "5. Breaking the Isotopic Exhaust Pipe\n\nDeuterium is no longer effectively shoved out into the bulk waste stream. It leaks directly into the Inner Mitochondrial Junctions (IMJs), invading the ATPase nano-motors.\n\nAs the K+-stabilized EZ collapses under the weight of the 12-hour protein flood, the cell loses its ability to fractionate deuterium (D+)",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059672064164860043",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059672064164860043"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVtIgmW8AIUk3n.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 14,
+            "retweets": 2,
+            "replies": 1,
+            "quotes": 0,
+            "views": 924
+          }
+        },
+        {
+          "id": "2059673560101105759",
+          "url": "https://x.com/DrJackKruse/status/2059673560101105759",
+          "created_at": "2026-05-27T16:30:18.000Z",
+          "text": "6. The Kinetic Isotope Effect (KIE) Stall\n\nThe study notes that the molecular signaling markers (mTOR and p70S6K) returned to baseline within 4 hours, but protein synthesis kept going. The biochemists view this \"dissociation\" as a benefit of sustained substrate availability.\n\nBiophysically, this shows that the cell has lost control of the phase trajectory. The accumulating deuterium creates a massive KIE stall at Complex I. The system is forced into a state of pseudohypoxia and this destroys NAD+ turining it into NADD+. Because the water lattice is deuterated, the cell cannot maintain the CISS effect (Chiral Induced Spin Selectivity).\n\nWhen CISS is lost triplet oxygen becomes singlet and singlet oxygen is what causes hair loss, weaker collagen, and neural loss.  This is how a 22 yr old body builder dies of cardiac diseases within the SAA.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059672590164115744",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059672590164115744"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVuKz3X0AY0Af3.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 14,
+            "retweets": 2,
+            "replies": 2,
+            "quotes": 0,
+            "views": 742
+          }
+        },
+        {
+          "id": "2059674690772259096",
+          "url": "https://x.com/DrJackKruse/status/2059674690772259096",
+          "created_at": "2026-05-27T16:34:47.000Z",
+          "text": "7.  The Singlet Oxygen (1^O2) Trap\n\nThis singlet oxygen acts as a thermal \"hot potato,\" vibrating violently and dumping entropy as heat. This heat denatures neighboring proteins, which explains why the study noted that muscle autophagy markers and protein breakdown remained stubbornly elevated, the cell is actively trying to patch a proteome lattice that is being systematically incinerated by its own internal thermal noise.\n\nWithout spin-selectivity, oxygen is no longer reduced cleanly to water at CCO. Instead, it gets trapped in the highly destructive Singlet State (1^O2).  Singlet state destroys tissue coherence and fuels entropy in heat loss that fries hair follicles and brain cells.  It will also yellow your teeth.  \n\nI was thrown off the main stage in 2014 in Pasadena in the Bulletproof conference when I brought this topic up publicly to mitohackers.  Then I was asked to leave the convention center by the organizer when he realized what the implications were of the talk.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059673560101105759",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059673560101105759"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVvMQnWoAIFM1Z.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 27,
+            "retweets": 5,
+            "replies": 1,
+            "quotes": 0,
+            "views": 1118
+          }
+        },
+        {
+          "id": "2059675065285759031",
+          "url": "https://x.com/DrJackKruse/status/2059675065285759031",
+          "created_at": "2026-05-27T16:36:17.000Z",
+          "text": "8.  The Rockefeller Blind Spot: Labeled Tracers vs. Quantum Automata\n\nThe researchers used \"intrinsically labeled milk protein\" to track amino acid incorporation into the muscle. This is the ultimate \"billiard ball\" biochemistry mistake:\n\nThey track the nitrogen and the carbon, but they completely ignore the magnetic moment of the unpaired electrons and the isotopic mass of the hydrogen attached to those amino acids.\n\nIf the milk protein is derived from modern industrial farming (fake food/bulk chemicals), it carries a random, high-deuterium content.\n\nBy forcing 100g of this deuterated substrate into the muscle, you are literally \"doping\" the human semiconductor with heavy isotopes, widening the band gap, and turning the internal particle accelerators into resistors.\n\nThe 40% higher protein synthesis rate observed during hours 4–12 isn't a sign of superior health; it is the sound of a quantum computer running a desperate, high-entropy error-correction loop to rebuild structural collagen and myosin that are being damaged by the low-dielectric, deuterium-rich environment.\n\nThe funny thing?  This is what the Blau Lab just found.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059674690772259096",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059674690772259096"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVvhVKWEAYlr7J.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 22,
+            "retweets": 5,
+            "replies": 1,
+            "quotes": 0,
+            "views": 2042
+          }
+        }
+      ]
+    },
+    {
+      "id": "2059675065285759031",
+      "url": "https://x.com/DrJackKruse/status/2059675065285759031",
+      "created_at": "2026-05-27T16:36:17.000Z",
+      "text": "8.  The Rockefeller Blind Spot: Labeled Tracers vs. Quantum Automata\n\nThe researchers used \"intrinsically labeled milk protein\" to track amino acid incorporation into the muscle. This is the ultimate \"billiard ball\" biochemistry mistake:\n\nThey track the nitrogen and the carbon, but they completely ignore the magnetic moment of the unpaired electrons and the isotopic mass of the hydrogen attached to those amino acids.\n\nIf the milk protein is derived from modern industrial farming (fake food/bulk chemicals), it carries a random, high-deuterium content.\n\nBy forcing 100g of this deuterated substrate into the muscle, you are literally \"doping\" the human semiconductor with heavy isotopes, widening the band gap, and turning the internal particle accelerators into resistors.\n\nThe 40% higher protein synthesis rate observed during hours 4–12 isn't a sign of superior health; it is the sound of a quantum computer running a desperate, high-entropy error-correction loop to rebuild structural collagen and myosin that are being damaged by the low-dielectric, deuterium-rich environment.\n\nThe funny thing?  This is what the Blau Lab just found.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": true,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2059668848731714000",
+      "in_reply_to": {
+        "tweet_id": "2059674690772259096",
+        "user_id": "250833376",
+        "url": "https://x.com/i/status/2059674690772259096"
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJVvhVKWEAYlr7J.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 22,
+        "retweets": 5,
+        "replies": 1,
+        "quotes": 0,
+        "views": 2042
+      },
+      "thread_context": [
+        {
+          "id": "2059668848731714000",
+          "url": "https://x.com/DrJackKruse/status/2059668848731714000",
+          "created_at": "2026-05-27T16:11:34.000Z",
+          "text": "The 1942 Kenneth Mellanby paper from Nature below has been the absolute subatomic proof that the 2026 \"100 g protein ceiling myth\" study completely ignores. By focusing solely on classical \"nitrogen balance\" and labeled isotope tracers, the researchers missed the massive deuterium tax and water table collapse that comes with forcing a 100g protein load into the human semiconductor.\nMy decentralized framework in the Leptin Rx, is wholly backed by Mellanby's historical data, exposes why forcing massive protein loads into the system is a hidden \"desiccation trap\" that destroys the Inner Mitochondrial Junction (IMJ) particle accelerator.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": false,
+          "is_quote": true,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": null,
+          "quoted_tweet": {
+            "id": "2059635864754667616",
+            "url": "https://x.com/dantawfik/status/2059635864754667616",
+            "created_at": "2026-05-27T14:00:30.000Z",
+            "text": "For decades, protein metabolism research suggested that muscle protein synthesis plateaus around 20–25 g protein per meal. That conclusion was based on studies measuring anabolic responses over 4–6 hours following moderate protein doses.\n\nA new controlled trial extended the assessment window to 12 hours and tested doses up to 100 g—revealing that the ceiling effect doesn't exist.\n\nParticipants consumed 0 g, 25 g, or 100 g intrinsically labeled milk protein following resistance exercise. Researchers applied continuous isotope tracer infusion and measured muscle protein synthesis across multiple tissue fractions.\n\nMyofibrillar protein synthesis rates increased dose-dependently throughout the entire 12-hour period. The 100 g dose produced 40% higher synthesis rates during hours 4–12 compared to 25 g.\n\nDietary-protein-derived amino acids continued appearing in circulation for over 12 hours following 100 g protein. By the end of the measurement period, only 53% of ingested amino acids had entered circulation—digestion was still ongoing.\n\nWhole-body protein synthesis increased linearly with protein dose. Amino acid oxidation increased minimally—less than 15% of the increment in protein intake was oxidized. Over 85% was directed toward tissue protein synthesis.\n\nMuscle tissue incorporated 13 g of dietary amino acids over 12 hours following the 100 g dose—13% of total intake. Previous estimates from shorter protocols suggested ~10%.\n\nExogenous amino acids contributed 27% of myofibrillar protein synthesis following 100 g protein versus only 9% following 25 g. The higher dose didn't just extend the duration of synthesis—it fundamentally shifted the precursor pool composition.\n\nProtein breakdown rates didn't differ between treatments. The anabolic response was driven entirely by increased synthesis, not suppressed breakdown.\n\nMolecular signaling showed a different timeline than metabolic outcomes.\n\nmTOR phosphorylation and p70S6K activation peaked within 4 hours and returned to baseline—regardless of dose. But muscle protein synthesis remained elevated beyond 12 hours when 100 g was consumed.\n\nThis dissociation demonstrates that anabolic signaling initiates the response, but sustained amino acid availability—not sustained mTOR activation—drives prolonged synthesis.\n\nMuscle free leucine concentrations remained elevated throughout the 12-hour period following 100 g protein. Other amino acids didn't accumulate in the muscle free pool.\n\nLeucine's selective retention supports its dual role: signaling molecule during initial mTOR activation and metabolic substrate during prolonged synthesis.\n\nCurrent dietary guidelines recommend distributing protein evenly across meals to maximize the anabolic response at each feeding opportunity. That advice assumes the response is transient and saturable.\n\nBut if a large protein dose produces sustained anabolism lasting well beyond 12 hours, frequent feeding becomes less critical for optimizing muscle protein synthesis.\n\nTime-restricted feeding protocols—which compress food intake into narrow windows—may not compromise anabolism if sufficient protein is consumed during the feeding period.\n\nThe postprandial state may extend far beyond the feeding window when large protein doses are consumed.\n\nThe study also challenges assumptions about mTOR, autophagy, and protein turnover.\n\nIngesting 100 g protein sustained anabolism without suppressing whole-body protein breakdown or muscle autophagy markers. This suggests prolonged anabolism doesn't require a subsequent fasted state to allow protein clearance.\n\nLimitations: The 12-hour measurement window wasn't sufficient to capture the full response to 100 g protein. Digestion and absorption were ongoing when the protocol ended. The magnitude and duration of the response are likely underestimated.\n\nThe study was conducted in young men following resistance exercise. Anabolic sensitivity to feeding is lower in sedentary and older populations, so ceiling effects may exist in those groups despite not appearing here.\n\nBut the mechanistic data provide clarity on postprandial protein handling at a systems level.\n\nProtein digestion is prolonged. Amino acid absorption is sustained. Exogenous amino acid flux into circulation continues for >12 hours. Tissue uptake doesn't plateau. Incorporation into muscle and plasma protein increases proportionally to dose.\n\nThe anabolic response to protein ingestion has no upper limit within the range tested (0–100 g).\n\nMeal size and meal frequency may be more flexible variables than current guidelines suggest. Larger, less frequent meals produce metabolic outcomes comparable to—or exceeding—smaller, more frequent feeding.\n\nHere's our full review: https://t.co/hI5AUtYjT8",
+            "lang": "en",
+            "author": {
+              "id": "1691778919",
+              "username": "dantawfik",
+              "name": "Daniel Tawfik"
+            },
+            "is_reply": false,
+            "is_quote": false,
+            "is_retweet": false,
+            "conversation_id": "2059635864754667616",
+            "in_reply_to": null,
+            "quoted_tweet": null,
+            "retweeted_tweet": null,
+            "media": [],
+            "metrics": {
+              "likes": 92,
+              "retweets": 11,
+              "replies": 4,
+              "quotes": 4,
+              "views": 19366
+            },
+            "thread_context": []
+          },
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVp48WWEAMrArP.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 109,
+            "retweets": 28,
+            "replies": 5,
+            "quotes": 0,
+            "views": 10688
+          }
+        },
+        {
+          "id": "2059669463763505377",
+          "url": "https://x.com/DrJackKruse/status/2059669463763505377",
+          "created_at": "2026-05-27T16:14:01.000Z",
+          "text": "2.  Mellanby’s data establishes a clear, mathematical hierarchy of Metabolic Water Production during complete combustion.  When the body combusts fat via beta-oxidation, Cytochrome c Oxidase (CCO) manufactures 110 grams of perfectly structured, deuterium-depleted water per 100g of substrate. This high-dielectric fluid (𝜖 ≈160) acts as the frictionless lubricant for the Brachistochrone curve of the cristae.\n\nBy contrast, ingesting 100g of protein cuts metabolic water production exactly in half. Worse, protein metabolism demands massive amounts of water for the urea cycle to clear toxic ammonia, creating a severe intracellular desiccation pull.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059668848731714000",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059668848731714000"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqVOGXYAI7hAO.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqVOHXoAQDGp7.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqa8dWkAIq5nK.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 25,
+            "retweets": 6,
+            "replies": 2,
+            "quotes": 0,
+            "views": 2150
+          }
+        },
+        {
+          "id": "2059671369978142745",
+          "url": "https://x.com/DrJackKruse/status/2059671369978142745",
+          "created_at": "2026-05-27T16:21:36.000Z",
+          "text": "3. The Biophysical Critique of the 12-Hour 100g Protein Study\nThe study celebrates that 100g of protein keeps muscle protein synthesis elevated for over 12 hours without increasing amino acid oxidation. In my vortex physics framework, this isn't a state of \"infinite anabolism\", it is a state of forced, high-entropy Lattice Lock.  this is why exercise is harm so many high protein eaters.  \n\nKey sign they have is hair loss on the top of their head before they fry their neurons.  Why? Entropic heat loss of the neuroectoderm.  This is why you should look at their hair and the brain's cognition as two keys signs why hypertrophies muscles causes hair loss due to high heat entropy. \n\nThis explains why they stay in simpleton paradigms and do some questionable stuff---->  dopamine destructions from melanin loss due to rises in signlet oxygen over triplet state oxygen.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059669463763505377",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059669463763505377"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVrymxWMAEw3q4.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVr6KPWUAEWA-t.png",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 21,
+            "retweets": 5,
+            "replies": 1,
+            "quotes": 0,
+            "views": 1692
+          }
+        },
+        {
+          "id": "2059672064164860043",
+          "url": "https://x.com/DrJackKruse/status/2059672064164860043",
+          "created_at": "2026-05-27T16:24:21.000Z",
+          "text": "4. The Collapse of the Dielectric Cushion in nnEMF abuse or a magnetic decline can stimulate increases in entropy in the neuroectoderm. \n\nForcing the body to digest and circulate amino acids for over 12 hours causes a chronic fluid shift. Because protein synthesis requires high-energy peptide bond formations without the concurrent generation of CCO metabolic water, the Exclusion Zone (EZ) in the cell collapses. The dielectric constant of the intracellular water table sags from its coherent quantum state (~160) back to the bulk water value (~78).\n\nThis is why one needs to pay attention to the full effects.  The facade can look good while you sacrifice the brain's cognition = looksmaxxing vs brain cognition",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059671369978142745",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059671369978142745"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVs0oIWYAQ68hW.png",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVs0oFXIAEsB9b.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 16,
+            "retweets": 3,
+            "replies": 2,
+            "quotes": 0,
+            "views": 919
+          }
+        },
+        {
+          "id": "2059672590164115744",
+          "url": "https://x.com/DrJackKruse/status/2059672590164115744",
+          "created_at": "2026-05-27T16:26:27.000Z",
+          "text": "5. Breaking the Isotopic Exhaust Pipe\n\nDeuterium is no longer effectively shoved out into the bulk waste stream. It leaks directly into the Inner Mitochondrial Junctions (IMJs), invading the ATPase nano-motors.\n\nAs the K+-stabilized EZ collapses under the weight of the 12-hour protein flood, the cell loses its ability to fractionate deuterium (D+)",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059672064164860043",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059672064164860043"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVtIgmW8AIUk3n.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 14,
+            "retweets": 2,
+            "replies": 1,
+            "quotes": 0,
+            "views": 924
+          }
+        },
+        {
+          "id": "2059673560101105759",
+          "url": "https://x.com/DrJackKruse/status/2059673560101105759",
+          "created_at": "2026-05-27T16:30:18.000Z",
+          "text": "6. The Kinetic Isotope Effect (KIE) Stall\n\nThe study notes that the molecular signaling markers (mTOR and p70S6K) returned to baseline within 4 hours, but protein synthesis kept going. The biochemists view this \"dissociation\" as a benefit of sustained substrate availability.\n\nBiophysically, this shows that the cell has lost control of the phase trajectory. The accumulating deuterium creates a massive KIE stall at Complex I. The system is forced into a state of pseudohypoxia and this destroys NAD+ turining it into NADD+. Because the water lattice is deuterated, the cell cannot maintain the CISS effect (Chiral Induced Spin Selectivity).\n\nWhen CISS is lost triplet oxygen becomes singlet and singlet oxygen is what causes hair loss, weaker collagen, and neural loss.  This is how a 22 yr old body builder dies of cardiac diseases within the SAA.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059672590164115744",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059672590164115744"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVuKz3X0AY0Af3.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 14,
+            "retweets": 2,
+            "replies": 2,
+            "quotes": 0,
+            "views": 742
+          }
+        },
+        {
+          "id": "2059674690772259096",
+          "url": "https://x.com/DrJackKruse/status/2059674690772259096",
+          "created_at": "2026-05-27T16:34:47.000Z",
+          "text": "7.  The Singlet Oxygen (1^O2) Trap\n\nThis singlet oxygen acts as a thermal \"hot potato,\" vibrating violently and dumping entropy as heat. This heat denatures neighboring proteins, which explains why the study noted that muscle autophagy markers and protein breakdown remained stubbornly elevated, the cell is actively trying to patch a proteome lattice that is being systematically incinerated by its own internal thermal noise.\n\nWithout spin-selectivity, oxygen is no longer reduced cleanly to water at CCO. Instead, it gets trapped in the highly destructive Singlet State (1^O2).  Singlet state destroys tissue coherence and fuels entropy in heat loss that fries hair follicles and brain cells.  It will also yellow your teeth.  \n\nI was thrown off the main stage in 2014 in Pasadena in the Bulletproof conference when I brought this topic up publicly to mitohackers.  Then I was asked to leave the convention center by the organizer when he realized what the implications were of the talk.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059673560101105759",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059673560101105759"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVvMQnWoAIFM1Z.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 27,
+            "retweets": 5,
+            "replies": 1,
+            "quotes": 0,
+            "views": 1118
+          }
+        }
+      ]
+    },
+    {
+      "id": "2059674690772259096",
+      "url": "https://x.com/DrJackKruse/status/2059674690772259096",
+      "created_at": "2026-05-27T16:34:47.000Z",
+      "text": "7.  The Singlet Oxygen (1^O2) Trap\n\nThis singlet oxygen acts as a thermal \"hot potato,\" vibrating violently and dumping entropy as heat. This heat denatures neighboring proteins, which explains why the study noted that muscle autophagy markers and protein breakdown remained stubbornly elevated, the cell is actively trying to patch a proteome lattice that is being systematically incinerated by its own internal thermal noise.\n\nWithout spin-selectivity, oxygen is no longer reduced cleanly to water at CCO. Instead, it gets trapped in the highly destructive Singlet State (1^O2).  Singlet state destroys tissue coherence and fuels entropy in heat loss that fries hair follicles and brain cells.  It will also yellow your teeth.  \n\nI was thrown off the main stage in 2014 in Pasadena in the Bulletproof conference when I brought this topic up publicly to mitohackers.  Then I was asked to leave the convention center by the organizer when he realized what the implications were of the talk.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": true,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2059668848731714000",
+      "in_reply_to": {
+        "tweet_id": "2059673560101105759",
+        "user_id": "250833376",
+        "url": "https://x.com/i/status/2059673560101105759"
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJVvMQnWoAIFM1Z.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 27,
+        "retweets": 5,
+        "replies": 1,
+        "quotes": 0,
+        "views": 1118
+      },
+      "thread_context": [
+        {
+          "id": "2059668848731714000",
+          "url": "https://x.com/DrJackKruse/status/2059668848731714000",
+          "created_at": "2026-05-27T16:11:34.000Z",
+          "text": "The 1942 Kenneth Mellanby paper from Nature below has been the absolute subatomic proof that the 2026 \"100 g protein ceiling myth\" study completely ignores. By focusing solely on classical \"nitrogen balance\" and labeled isotope tracers, the researchers missed the massive deuterium tax and water table collapse that comes with forcing a 100g protein load into the human semiconductor.\nMy decentralized framework in the Leptin Rx, is wholly backed by Mellanby's historical data, exposes why forcing massive protein loads into the system is a hidden \"desiccation trap\" that destroys the Inner Mitochondrial Junction (IMJ) particle accelerator.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": false,
+          "is_quote": true,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": null,
+          "quoted_tweet": {
+            "id": "2059635864754667616",
+            "url": "https://x.com/dantawfik/status/2059635864754667616",
+            "created_at": "2026-05-27T14:00:30.000Z",
+            "text": "For decades, protein metabolism research suggested that muscle protein synthesis plateaus around 20–25 g protein per meal. That conclusion was based on studies measuring anabolic responses over 4–6 hours following moderate protein doses.\n\nA new controlled trial extended the assessment window to 12 hours and tested doses up to 100 g—revealing that the ceiling effect doesn't exist.\n\nParticipants consumed 0 g, 25 g, or 100 g intrinsically labeled milk protein following resistance exercise. Researchers applied continuous isotope tracer infusion and measured muscle protein synthesis across multiple tissue fractions.\n\nMyofibrillar protein synthesis rates increased dose-dependently throughout the entire 12-hour period. The 100 g dose produced 40% higher synthesis rates during hours 4–12 compared to 25 g.\n\nDietary-protein-derived amino acids continued appearing in circulation for over 12 hours following 100 g protein. By the end of the measurement period, only 53% of ingested amino acids had entered circulation—digestion was still ongoing.\n\nWhole-body protein synthesis increased linearly with protein dose. Amino acid oxidation increased minimally—less than 15% of the increment in protein intake was oxidized. Over 85% was directed toward tissue protein synthesis.\n\nMuscle tissue incorporated 13 g of dietary amino acids over 12 hours following the 100 g dose—13% of total intake. Previous estimates from shorter protocols suggested ~10%.\n\nExogenous amino acids contributed 27% of myofibrillar protein synthesis following 100 g protein versus only 9% following 25 g. The higher dose didn't just extend the duration of synthesis—it fundamentally shifted the precursor pool composition.\n\nProtein breakdown rates didn't differ between treatments. The anabolic response was driven entirely by increased synthesis, not suppressed breakdown.\n\nMolecular signaling showed a different timeline than metabolic outcomes.\n\nmTOR phosphorylation and p70S6K activation peaked within 4 hours and returned to baseline—regardless of dose. But muscle protein synthesis remained elevated beyond 12 hours when 100 g was consumed.\n\nThis dissociation demonstrates that anabolic signaling initiates the response, but sustained amino acid availability—not sustained mTOR activation—drives prolonged synthesis.\n\nMuscle free leucine concentrations remained elevated throughout the 12-hour period following 100 g protein. Other amino acids didn't accumulate in the muscle free pool.\n\nLeucine's selective retention supports its dual role: signaling molecule during initial mTOR activation and metabolic substrate during prolonged synthesis.\n\nCurrent dietary guidelines recommend distributing protein evenly across meals to maximize the anabolic response at each feeding opportunity. That advice assumes the response is transient and saturable.\n\nBut if a large protein dose produces sustained anabolism lasting well beyond 12 hours, frequent feeding becomes less critical for optimizing muscle protein synthesis.\n\nTime-restricted feeding protocols—which compress food intake into narrow windows—may not compromise anabolism if sufficient protein is consumed during the feeding period.\n\nThe postprandial state may extend far beyond the feeding window when large protein doses are consumed.\n\nThe study also challenges assumptions about mTOR, autophagy, and protein turnover.\n\nIngesting 100 g protein sustained anabolism without suppressing whole-body protein breakdown or muscle autophagy markers. This suggests prolonged anabolism doesn't require a subsequent fasted state to allow protein clearance.\n\nLimitations: The 12-hour measurement window wasn't sufficient to capture the full response to 100 g protein. Digestion and absorption were ongoing when the protocol ended. The magnitude and duration of the response are likely underestimated.\n\nThe study was conducted in young men following resistance exercise. Anabolic sensitivity to feeding is lower in sedentary and older populations, so ceiling effects may exist in those groups despite not appearing here.\n\nBut the mechanistic data provide clarity on postprandial protein handling at a systems level.\n\nProtein digestion is prolonged. Amino acid absorption is sustained. Exogenous amino acid flux into circulation continues for >12 hours. Tissue uptake doesn't plateau. Incorporation into muscle and plasma protein increases proportionally to dose.\n\nThe anabolic response to protein ingestion has no upper limit within the range tested (0–100 g).\n\nMeal size and meal frequency may be more flexible variables than current guidelines suggest. Larger, less frequent meals produce metabolic outcomes comparable to—or exceeding—smaller, more frequent feeding.\n\nHere's our full review: https://t.co/hI5AUtYjT8",
+            "lang": "en",
+            "author": {
+              "id": "1691778919",
+              "username": "dantawfik",
+              "name": "Daniel Tawfik"
+            },
+            "is_reply": false,
+            "is_quote": false,
+            "is_retweet": false,
+            "conversation_id": "2059635864754667616",
+            "in_reply_to": null,
+            "quoted_tweet": null,
+            "retweeted_tweet": null,
+            "media": [],
+            "metrics": {
+              "likes": 92,
+              "retweets": 11,
+              "replies": 4,
+              "quotes": 4,
+              "views": 19366
+            },
+            "thread_context": []
+          },
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVp48WWEAMrArP.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 109,
+            "retweets": 28,
+            "replies": 5,
+            "quotes": 0,
+            "views": 10688
+          }
+        },
+        {
+          "id": "2059669463763505377",
+          "url": "https://x.com/DrJackKruse/status/2059669463763505377",
+          "created_at": "2026-05-27T16:14:01.000Z",
+          "text": "2.  Mellanby’s data establishes a clear, mathematical hierarchy of Metabolic Water Production during complete combustion.  When the body combusts fat via beta-oxidation, Cytochrome c Oxidase (CCO) manufactures 110 grams of perfectly structured, deuterium-depleted water per 100g of substrate. This high-dielectric fluid (𝜖 ≈160) acts as the frictionless lubricant for the Brachistochrone curve of the cristae.\n\nBy contrast, ingesting 100g of protein cuts metabolic water production exactly in half. Worse, protein metabolism demands massive amounts of water for the urea cycle to clear toxic ammonia, creating a severe intracellular desiccation pull.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059668848731714000",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059668848731714000"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqVOGXYAI7hAO.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqVOHXoAQDGp7.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqa8dWkAIq5nK.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 25,
+            "retweets": 6,
+            "replies": 2,
+            "quotes": 0,
+            "views": 2150
+          }
+        },
+        {
+          "id": "2059671369978142745",
+          "url": "https://x.com/DrJackKruse/status/2059671369978142745",
+          "created_at": "2026-05-27T16:21:36.000Z",
+          "text": "3. The Biophysical Critique of the 12-Hour 100g Protein Study\nThe study celebrates that 100g of protein keeps muscle protein synthesis elevated for over 12 hours without increasing amino acid oxidation. In my vortex physics framework, this isn't a state of \"infinite anabolism\", it is a state of forced, high-entropy Lattice Lock.  this is why exercise is harm so many high protein eaters.  \n\nKey sign they have is hair loss on the top of their head before they fry their neurons.  Why? Entropic heat loss of the neuroectoderm.  This is why you should look at their hair and the brain's cognition as two keys signs why hypertrophies muscles causes hair loss due to high heat entropy. \n\nThis explains why they stay in simpleton paradigms and do some questionable stuff---->  dopamine destructions from melanin loss due to rises in signlet oxygen over triplet state oxygen.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059669463763505377",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059669463763505377"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVrymxWMAEw3q4.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVr6KPWUAEWA-t.png",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 21,
+            "retweets": 5,
+            "replies": 1,
+            "quotes": 0,
+            "views": 1692
+          }
+        },
+        {
+          "id": "2059672064164860043",
+          "url": "https://x.com/DrJackKruse/status/2059672064164860043",
+          "created_at": "2026-05-27T16:24:21.000Z",
+          "text": "4. The Collapse of the Dielectric Cushion in nnEMF abuse or a magnetic decline can stimulate increases in entropy in the neuroectoderm. \n\nForcing the body to digest and circulate amino acids for over 12 hours causes a chronic fluid shift. Because protein synthesis requires high-energy peptide bond formations without the concurrent generation of CCO metabolic water, the Exclusion Zone (EZ) in the cell collapses. The dielectric constant of the intracellular water table sags from its coherent quantum state (~160) back to the bulk water value (~78).\n\nThis is why one needs to pay attention to the full effects.  The facade can look good while you sacrifice the brain's cognition = looksmaxxing vs brain cognition",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059671369978142745",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059671369978142745"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVs0oIWYAQ68hW.png",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVs0oFXIAEsB9b.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 16,
+            "retweets": 3,
+            "replies": 2,
+            "quotes": 0,
+            "views": 919
+          }
+        },
+        {
+          "id": "2059672590164115744",
+          "url": "https://x.com/DrJackKruse/status/2059672590164115744",
+          "created_at": "2026-05-27T16:26:27.000Z",
+          "text": "5. Breaking the Isotopic Exhaust Pipe\n\nDeuterium is no longer effectively shoved out into the bulk waste stream. It leaks directly into the Inner Mitochondrial Junctions (IMJs), invading the ATPase nano-motors.\n\nAs the K+-stabilized EZ collapses under the weight of the 12-hour protein flood, the cell loses its ability to fractionate deuterium (D+)",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059672064164860043",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059672064164860043"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVtIgmW8AIUk3n.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 14,
+            "retweets": 2,
+            "replies": 1,
+            "quotes": 0,
+            "views": 924
+          }
+        },
+        {
+          "id": "2059673560101105759",
+          "url": "https://x.com/DrJackKruse/status/2059673560101105759",
+          "created_at": "2026-05-27T16:30:18.000Z",
+          "text": "6. The Kinetic Isotope Effect (KIE) Stall\n\nThe study notes that the molecular signaling markers (mTOR and p70S6K) returned to baseline within 4 hours, but protein synthesis kept going. The biochemists view this \"dissociation\" as a benefit of sustained substrate availability.\n\nBiophysically, this shows that the cell has lost control of the phase trajectory. The accumulating deuterium creates a massive KIE stall at Complex I. The system is forced into a state of pseudohypoxia and this destroys NAD+ turining it into NADD+. Because the water lattice is deuterated, the cell cannot maintain the CISS effect (Chiral Induced Spin Selectivity).\n\nWhen CISS is lost triplet oxygen becomes singlet and singlet oxygen is what causes hair loss, weaker collagen, and neural loss.  This is how a 22 yr old body builder dies of cardiac diseases within the SAA.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059672590164115744",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059672590164115744"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVuKz3X0AY0Af3.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 14,
+            "retweets": 2,
+            "replies": 2,
+            "quotes": 0,
+            "views": 742
+          }
+        }
+      ]
+    },
+    {
+      "id": "2059673560101105759",
+      "url": "https://x.com/DrJackKruse/status/2059673560101105759",
+      "created_at": "2026-05-27T16:30:18.000Z",
+      "text": "6. The Kinetic Isotope Effect (KIE) Stall\n\nThe study notes that the molecular signaling markers (mTOR and p70S6K) returned to baseline within 4 hours, but protein synthesis kept going. The biochemists view this \"dissociation\" as a benefit of sustained substrate availability.\n\nBiophysically, this shows that the cell has lost control of the phase trajectory. The accumulating deuterium creates a massive KIE stall at Complex I. The system is forced into a state of pseudohypoxia and this destroys NAD+ turining it into NADD+. Because the water lattice is deuterated, the cell cannot maintain the CISS effect (Chiral Induced Spin Selectivity).\n\nWhen CISS is lost triplet oxygen becomes singlet and singlet oxygen is what causes hair loss, weaker collagen, and neural loss.  This is how a 22 yr old body builder dies of cardiac diseases within the SAA.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": true,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2059668848731714000",
+      "in_reply_to": {
+        "tweet_id": "2059672590164115744",
+        "user_id": "250833376",
+        "url": "https://x.com/i/status/2059672590164115744"
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJVuKz3X0AY0Af3.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 14,
+        "retweets": 2,
+        "replies": 2,
+        "quotes": 0,
+        "views": 742
+      },
+      "thread_context": [
+        {
+          "id": "2059668848731714000",
+          "url": "https://x.com/DrJackKruse/status/2059668848731714000",
+          "created_at": "2026-05-27T16:11:34.000Z",
+          "text": "The 1942 Kenneth Mellanby paper from Nature below has been the absolute subatomic proof that the 2026 \"100 g protein ceiling myth\" study completely ignores. By focusing solely on classical \"nitrogen balance\" and labeled isotope tracers, the researchers missed the massive deuterium tax and water table collapse that comes with forcing a 100g protein load into the human semiconductor.\nMy decentralized framework in the Leptin Rx, is wholly backed by Mellanby's historical data, exposes why forcing massive protein loads into the system is a hidden \"desiccation trap\" that destroys the Inner Mitochondrial Junction (IMJ) particle accelerator.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": false,
+          "is_quote": true,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": null,
+          "quoted_tweet": {
+            "id": "2059635864754667616",
+            "url": "https://x.com/dantawfik/status/2059635864754667616",
+            "created_at": "2026-05-27T14:00:30.000Z",
+            "text": "For decades, protein metabolism research suggested that muscle protein synthesis plateaus around 20–25 g protein per meal. That conclusion was based on studies measuring anabolic responses over 4–6 hours following moderate protein doses.\n\nA new controlled trial extended the assessment window to 12 hours and tested doses up to 100 g—revealing that the ceiling effect doesn't exist.\n\nParticipants consumed 0 g, 25 g, or 100 g intrinsically labeled milk protein following resistance exercise. Researchers applied continuous isotope tracer infusion and measured muscle protein synthesis across multiple tissue fractions.\n\nMyofibrillar protein synthesis rates increased dose-dependently throughout the entire 12-hour period. The 100 g dose produced 40% higher synthesis rates during hours 4–12 compared to 25 g.\n\nDietary-protein-derived amino acids continued appearing in circulation for over 12 hours following 100 g protein. By the end of the measurement period, only 53% of ingested amino acids had entered circulation—digestion was still ongoing.\n\nWhole-body protein synthesis increased linearly with protein dose. Amino acid oxidation increased minimally—less than 15% of the increment in protein intake was oxidized. Over 85% was directed toward tissue protein synthesis.\n\nMuscle tissue incorporated 13 g of dietary amino acids over 12 hours following the 100 g dose—13% of total intake. Previous estimates from shorter protocols suggested ~10%.\n\nExogenous amino acids contributed 27% of myofibrillar protein synthesis following 100 g protein versus only 9% following 25 g. The higher dose didn't just extend the duration of synthesis—it fundamentally shifted the precursor pool composition.\n\nProtein breakdown rates didn't differ between treatments. The anabolic response was driven entirely by increased synthesis, not suppressed breakdown.\n\nMolecular signaling showed a different timeline than metabolic outcomes.\n\nmTOR phosphorylation and p70S6K activation peaked within 4 hours and returned to baseline—regardless of dose. But muscle protein synthesis remained elevated beyond 12 hours when 100 g was consumed.\n\nThis dissociation demonstrates that anabolic signaling initiates the response, but sustained amino acid availability—not sustained mTOR activation—drives prolonged synthesis.\n\nMuscle free leucine concentrations remained elevated throughout the 12-hour period following 100 g protein. Other amino acids didn't accumulate in the muscle free pool.\n\nLeucine's selective retention supports its dual role: signaling molecule during initial mTOR activation and metabolic substrate during prolonged synthesis.\n\nCurrent dietary guidelines recommend distributing protein evenly across meals to maximize the anabolic response at each feeding opportunity. That advice assumes the response is transient and saturable.\n\nBut if a large protein dose produces sustained anabolism lasting well beyond 12 hours, frequent feeding becomes less critical for optimizing muscle protein synthesis.\n\nTime-restricted feeding protocols—which compress food intake into narrow windows—may not compromise anabolism if sufficient protein is consumed during the feeding period.\n\nThe postprandial state may extend far beyond the feeding window when large protein doses are consumed.\n\nThe study also challenges assumptions about mTOR, autophagy, and protein turnover.\n\nIngesting 100 g protein sustained anabolism without suppressing whole-body protein breakdown or muscle autophagy markers. This suggests prolonged anabolism doesn't require a subsequent fasted state to allow protein clearance.\n\nLimitations: The 12-hour measurement window wasn't sufficient to capture the full response to 100 g protein. Digestion and absorption were ongoing when the protocol ended. The magnitude and duration of the response are likely underestimated.\n\nThe study was conducted in young men following resistance exercise. Anabolic sensitivity to feeding is lower in sedentary and older populations, so ceiling effects may exist in those groups despite not appearing here.\n\nBut the mechanistic data provide clarity on postprandial protein handling at a systems level.\n\nProtein digestion is prolonged. Amino acid absorption is sustained. Exogenous amino acid flux into circulation continues for >12 hours. Tissue uptake doesn't plateau. Incorporation into muscle and plasma protein increases proportionally to dose.\n\nThe anabolic response to protein ingestion has no upper limit within the range tested (0–100 g).\n\nMeal size and meal frequency may be more flexible variables than current guidelines suggest. Larger, less frequent meals produce metabolic outcomes comparable to—or exceeding—smaller, more frequent feeding.\n\nHere's our full review: https://t.co/hI5AUtYjT8",
+            "lang": "en",
+            "author": {
+              "id": "1691778919",
+              "username": "dantawfik",
+              "name": "Daniel Tawfik"
+            },
+            "is_reply": false,
+            "is_quote": false,
+            "is_retweet": false,
+            "conversation_id": "2059635864754667616",
+            "in_reply_to": null,
+            "quoted_tweet": null,
+            "retweeted_tweet": null,
+            "media": [],
+            "metrics": {
+              "likes": 92,
+              "retweets": 11,
+              "replies": 4,
+              "quotes": 4,
+              "views": 19366
+            },
+            "thread_context": []
+          },
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVp48WWEAMrArP.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 109,
+            "retweets": 28,
+            "replies": 5,
+            "quotes": 0,
+            "views": 10688
+          }
+        },
+        {
+          "id": "2059669463763505377",
+          "url": "https://x.com/DrJackKruse/status/2059669463763505377",
+          "created_at": "2026-05-27T16:14:01.000Z",
+          "text": "2.  Mellanby’s data establishes a clear, mathematical hierarchy of Metabolic Water Production during complete combustion.  When the body combusts fat via beta-oxidation, Cytochrome c Oxidase (CCO) manufactures 110 grams of perfectly structured, deuterium-depleted water per 100g of substrate. This high-dielectric fluid (𝜖 ≈160) acts as the frictionless lubricant for the Brachistochrone curve of the cristae.\n\nBy contrast, ingesting 100g of protein cuts metabolic water production exactly in half. Worse, protein metabolism demands massive amounts of water for the urea cycle to clear toxic ammonia, creating a severe intracellular desiccation pull.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059668848731714000",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059668848731714000"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqVOGXYAI7hAO.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqVOHXoAQDGp7.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqa8dWkAIq5nK.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 25,
+            "retweets": 6,
+            "replies": 2,
+            "quotes": 0,
+            "views": 2150
+          }
+        },
+        {
+          "id": "2059671369978142745",
+          "url": "https://x.com/DrJackKruse/status/2059671369978142745",
+          "created_at": "2026-05-27T16:21:36.000Z",
+          "text": "3. The Biophysical Critique of the 12-Hour 100g Protein Study\nThe study celebrates that 100g of protein keeps muscle protein synthesis elevated for over 12 hours without increasing amino acid oxidation. In my vortex physics framework, this isn't a state of \"infinite anabolism\", it is a state of forced, high-entropy Lattice Lock.  this is why exercise is harm so many high protein eaters.  \n\nKey sign they have is hair loss on the top of their head before they fry their neurons.  Why? Entropic heat loss of the neuroectoderm.  This is why you should look at their hair and the brain's cognition as two keys signs why hypertrophies muscles causes hair loss due to high heat entropy. \n\nThis explains why they stay in simpleton paradigms and do some questionable stuff---->  dopamine destructions from melanin loss due to rises in signlet oxygen over triplet state oxygen.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059669463763505377",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059669463763505377"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVrymxWMAEw3q4.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVr6KPWUAEWA-t.png",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 21,
+            "retweets": 5,
+            "replies": 1,
+            "quotes": 0,
+            "views": 1692
+          }
+        },
+        {
+          "id": "2059672064164860043",
+          "url": "https://x.com/DrJackKruse/status/2059672064164860043",
+          "created_at": "2026-05-27T16:24:21.000Z",
+          "text": "4. The Collapse of the Dielectric Cushion in nnEMF abuse or a magnetic decline can stimulate increases in entropy in the neuroectoderm. \n\nForcing the body to digest and circulate amino acids for over 12 hours causes a chronic fluid shift. Because protein synthesis requires high-energy peptide bond formations without the concurrent generation of CCO metabolic water, the Exclusion Zone (EZ) in the cell collapses. The dielectric constant of the intracellular water table sags from its coherent quantum state (~160) back to the bulk water value (~78).\n\nThis is why one needs to pay attention to the full effects.  The facade can look good while you sacrifice the brain's cognition = looksmaxxing vs brain cognition",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059671369978142745",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059671369978142745"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVs0oIWYAQ68hW.png",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVs0oFXIAEsB9b.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 16,
+            "retweets": 3,
+            "replies": 2,
+            "quotes": 0,
+            "views": 919
+          }
+        },
+        {
+          "id": "2059672590164115744",
+          "url": "https://x.com/DrJackKruse/status/2059672590164115744",
+          "created_at": "2026-05-27T16:26:27.000Z",
+          "text": "5. Breaking the Isotopic Exhaust Pipe\n\nDeuterium is no longer effectively shoved out into the bulk waste stream. It leaks directly into the Inner Mitochondrial Junctions (IMJs), invading the ATPase nano-motors.\n\nAs the K+-stabilized EZ collapses under the weight of the 12-hour protein flood, the cell loses its ability to fractionate deuterium (D+)",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059672064164860043",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059672064164860043"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVtIgmW8AIUk3n.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 14,
+            "retweets": 2,
+            "replies": 1,
+            "quotes": 0,
+            "views": 924
+          }
+        }
+      ]
+    },
+    {
+      "id": "2059672590164115744",
+      "url": "https://x.com/DrJackKruse/status/2059672590164115744",
+      "created_at": "2026-05-27T16:26:27.000Z",
+      "text": "5. Breaking the Isotopic Exhaust Pipe\n\nDeuterium is no longer effectively shoved out into the bulk waste stream. It leaks directly into the Inner Mitochondrial Junctions (IMJs), invading the ATPase nano-motors.\n\nAs the K+-stabilized EZ collapses under the weight of the 12-hour protein flood, the cell loses its ability to fractionate deuterium (D+)",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": true,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2059668848731714000",
+      "in_reply_to": {
+        "tweet_id": "2059672064164860043",
+        "user_id": "250833376",
+        "url": "https://x.com/i/status/2059672064164860043"
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJVtIgmW8AIUk3n.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 14,
+        "retweets": 2,
+        "replies": 1,
+        "quotes": 0,
+        "views": 924
+      },
+      "thread_context": [
+        {
+          "id": "2059668848731714000",
+          "url": "https://x.com/DrJackKruse/status/2059668848731714000",
+          "created_at": "2026-05-27T16:11:34.000Z",
+          "text": "The 1942 Kenneth Mellanby paper from Nature below has been the absolute subatomic proof that the 2026 \"100 g protein ceiling myth\" study completely ignores. By focusing solely on classical \"nitrogen balance\" and labeled isotope tracers, the researchers missed the massive deuterium tax and water table collapse that comes with forcing a 100g protein load into the human semiconductor.\nMy decentralized framework in the Leptin Rx, is wholly backed by Mellanby's historical data, exposes why forcing massive protein loads into the system is a hidden \"desiccation trap\" that destroys the Inner Mitochondrial Junction (IMJ) particle accelerator.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": false,
+          "is_quote": true,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": null,
+          "quoted_tweet": {
+            "id": "2059635864754667616",
+            "url": "https://x.com/dantawfik/status/2059635864754667616",
+            "created_at": "2026-05-27T14:00:30.000Z",
+            "text": "For decades, protein metabolism research suggested that muscle protein synthesis plateaus around 20–25 g protein per meal. That conclusion was based on studies measuring anabolic responses over 4–6 hours following moderate protein doses.\n\nA new controlled trial extended the assessment window to 12 hours and tested doses up to 100 g—revealing that the ceiling effect doesn't exist.\n\nParticipants consumed 0 g, 25 g, or 100 g intrinsically labeled milk protein following resistance exercise. Researchers applied continuous isotope tracer infusion and measured muscle protein synthesis across multiple tissue fractions.\n\nMyofibrillar protein synthesis rates increased dose-dependently throughout the entire 12-hour period. The 100 g dose produced 40% higher synthesis rates during hours 4–12 compared to 25 g.\n\nDietary-protein-derived amino acids continued appearing in circulation for over 12 hours following 100 g protein. By the end of the measurement period, only 53% of ingested amino acids had entered circulation—digestion was still ongoing.\n\nWhole-body protein synthesis increased linearly with protein dose. Amino acid oxidation increased minimally—less than 15% of the increment in protein intake was oxidized. Over 85% was directed toward tissue protein synthesis.\n\nMuscle tissue incorporated 13 g of dietary amino acids over 12 hours following the 100 g dose—13% of total intake. Previous estimates from shorter protocols suggested ~10%.\n\nExogenous amino acids contributed 27% of myofibrillar protein synthesis following 100 g protein versus only 9% following 25 g. The higher dose didn't just extend the duration of synthesis—it fundamentally shifted the precursor pool composition.\n\nProtein breakdown rates didn't differ between treatments. The anabolic response was driven entirely by increased synthesis, not suppressed breakdown.\n\nMolecular signaling showed a different timeline than metabolic outcomes.\n\nmTOR phosphorylation and p70S6K activation peaked within 4 hours and returned to baseline—regardless of dose. But muscle protein synthesis remained elevated beyond 12 hours when 100 g was consumed.\n\nThis dissociation demonstrates that anabolic signaling initiates the response, but sustained amino acid availability—not sustained mTOR activation—drives prolonged synthesis.\n\nMuscle free leucine concentrations remained elevated throughout the 12-hour period following 100 g protein. Other amino acids didn't accumulate in the muscle free pool.\n\nLeucine's selective retention supports its dual role: signaling molecule during initial mTOR activation and metabolic substrate during prolonged synthesis.\n\nCurrent dietary guidelines recommend distributing protein evenly across meals to maximize the anabolic response at each feeding opportunity. That advice assumes the response is transient and saturable.\n\nBut if a large protein dose produces sustained anabolism lasting well beyond 12 hours, frequent feeding becomes less critical for optimizing muscle protein synthesis.\n\nTime-restricted feeding protocols—which compress food intake into narrow windows—may not compromise anabolism if sufficient protein is consumed during the feeding period.\n\nThe postprandial state may extend far beyond the feeding window when large protein doses are consumed.\n\nThe study also challenges assumptions about mTOR, autophagy, and protein turnover.\n\nIngesting 100 g protein sustained anabolism without suppressing whole-body protein breakdown or muscle autophagy markers. This suggests prolonged anabolism doesn't require a subsequent fasted state to allow protein clearance.\n\nLimitations: The 12-hour measurement window wasn't sufficient to capture the full response to 100 g protein. Digestion and absorption were ongoing when the protocol ended. The magnitude and duration of the response are likely underestimated.\n\nThe study was conducted in young men following resistance exercise. Anabolic sensitivity to feeding is lower in sedentary and older populations, so ceiling effects may exist in those groups despite not appearing here.\n\nBut the mechanistic data provide clarity on postprandial protein handling at a systems level.\n\nProtein digestion is prolonged. Amino acid absorption is sustained. Exogenous amino acid flux into circulation continues for >12 hours. Tissue uptake doesn't plateau. Incorporation into muscle and plasma protein increases proportionally to dose.\n\nThe anabolic response to protein ingestion has no upper limit within the range tested (0–100 g).\n\nMeal size and meal frequency may be more flexible variables than current guidelines suggest. Larger, less frequent meals produce metabolic outcomes comparable to—or exceeding—smaller, more frequent feeding.\n\nHere's our full review: https://t.co/hI5AUtYjT8",
+            "lang": "en",
+            "author": {
+              "id": "1691778919",
+              "username": "dantawfik",
+              "name": "Daniel Tawfik"
+            },
+            "is_reply": false,
+            "is_quote": false,
+            "is_retweet": false,
+            "conversation_id": "2059635864754667616",
+            "in_reply_to": null,
+            "quoted_tweet": null,
+            "retweeted_tweet": null,
+            "media": [],
+            "metrics": {
+              "likes": 92,
+              "retweets": 11,
+              "replies": 4,
+              "quotes": 4,
+              "views": 19366
+            },
+            "thread_context": []
+          },
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVp48WWEAMrArP.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 109,
+            "retweets": 28,
+            "replies": 5,
+            "quotes": 0,
+            "views": 10688
+          }
+        },
+        {
+          "id": "2059669463763505377",
+          "url": "https://x.com/DrJackKruse/status/2059669463763505377",
+          "created_at": "2026-05-27T16:14:01.000Z",
+          "text": "2.  Mellanby’s data establishes a clear, mathematical hierarchy of Metabolic Water Production during complete combustion.  When the body combusts fat via beta-oxidation, Cytochrome c Oxidase (CCO) manufactures 110 grams of perfectly structured, deuterium-depleted water per 100g of substrate. This high-dielectric fluid (𝜖 ≈160) acts as the frictionless lubricant for the Brachistochrone curve of the cristae.\n\nBy contrast, ingesting 100g of protein cuts metabolic water production exactly in half. Worse, protein metabolism demands massive amounts of water for the urea cycle to clear toxic ammonia, creating a severe intracellular desiccation pull.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059668848731714000",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059668848731714000"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqVOGXYAI7hAO.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqVOHXoAQDGp7.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqa8dWkAIq5nK.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 25,
+            "retweets": 6,
+            "replies": 2,
+            "quotes": 0,
+            "views": 2150
+          }
+        },
+        {
+          "id": "2059671369978142745",
+          "url": "https://x.com/DrJackKruse/status/2059671369978142745",
+          "created_at": "2026-05-27T16:21:36.000Z",
+          "text": "3. The Biophysical Critique of the 12-Hour 100g Protein Study\nThe study celebrates that 100g of protein keeps muscle protein synthesis elevated for over 12 hours without increasing amino acid oxidation. In my vortex physics framework, this isn't a state of \"infinite anabolism\", it is a state of forced, high-entropy Lattice Lock.  this is why exercise is harm so many high protein eaters.  \n\nKey sign they have is hair loss on the top of their head before they fry their neurons.  Why? Entropic heat loss of the neuroectoderm.  This is why you should look at their hair and the brain's cognition as two keys signs why hypertrophies muscles causes hair loss due to high heat entropy. \n\nThis explains why they stay in simpleton paradigms and do some questionable stuff---->  dopamine destructions from melanin loss due to rises in signlet oxygen over triplet state oxygen.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059669463763505377",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059669463763505377"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVrymxWMAEw3q4.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVr6KPWUAEWA-t.png",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 21,
+            "retweets": 5,
+            "replies": 1,
+            "quotes": 0,
+            "views": 1692
+          }
+        },
+        {
+          "id": "2059672064164860043",
+          "url": "https://x.com/DrJackKruse/status/2059672064164860043",
+          "created_at": "2026-05-27T16:24:21.000Z",
+          "text": "4. The Collapse of the Dielectric Cushion in nnEMF abuse or a magnetic decline can stimulate increases in entropy in the neuroectoderm. \n\nForcing the body to digest and circulate amino acids for over 12 hours causes a chronic fluid shift. Because protein synthesis requires high-energy peptide bond formations without the concurrent generation of CCO metabolic water, the Exclusion Zone (EZ) in the cell collapses. The dielectric constant of the intracellular water table sags from its coherent quantum state (~160) back to the bulk water value (~78).\n\nThis is why one needs to pay attention to the full effects.  The facade can look good while you sacrifice the brain's cognition = looksmaxxing vs brain cognition",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059671369978142745",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059671369978142745"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVs0oIWYAQ68hW.png",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVs0oFXIAEsB9b.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 16,
+            "retweets": 3,
+            "replies": 2,
+            "quotes": 0,
+            "views": 919
+          }
+        }
+      ]
+    },
+    {
+      "id": "2059672064164860043",
+      "url": "https://x.com/DrJackKruse/status/2059672064164860043",
+      "created_at": "2026-05-27T16:24:21.000Z",
+      "text": "4. The Collapse of the Dielectric Cushion in nnEMF abuse or a magnetic decline can stimulate increases in entropy in the neuroectoderm. \n\nForcing the body to digest and circulate amino acids for over 12 hours causes a chronic fluid shift. Because protein synthesis requires high-energy peptide bond formations without the concurrent generation of CCO metabolic water, the Exclusion Zone (EZ) in the cell collapses. The dielectric constant of the intracellular water table sags from its coherent quantum state (~160) back to the bulk water value (~78).\n\nThis is why one needs to pay attention to the full effects.  The facade can look good while you sacrifice the brain's cognition = looksmaxxing vs brain cognition",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": true,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2059668848731714000",
+      "in_reply_to": {
+        "tweet_id": "2059671369978142745",
+        "user_id": "250833376",
+        "url": "https://x.com/i/status/2059671369978142745"
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJVs0oIWYAQ68hW.png",
+          "preview_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJVs0oFXIAEsB9b.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 16,
+        "retweets": 3,
+        "replies": 2,
+        "quotes": 0,
+        "views": 919
+      },
+      "thread_context": [
+        {
+          "id": "2059668848731714000",
+          "url": "https://x.com/DrJackKruse/status/2059668848731714000",
+          "created_at": "2026-05-27T16:11:34.000Z",
+          "text": "The 1942 Kenneth Mellanby paper from Nature below has been the absolute subatomic proof that the 2026 \"100 g protein ceiling myth\" study completely ignores. By focusing solely on classical \"nitrogen balance\" and labeled isotope tracers, the researchers missed the massive deuterium tax and water table collapse that comes with forcing a 100g protein load into the human semiconductor.\nMy decentralized framework in the Leptin Rx, is wholly backed by Mellanby's historical data, exposes why forcing massive protein loads into the system is a hidden \"desiccation trap\" that destroys the Inner Mitochondrial Junction (IMJ) particle accelerator.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": false,
+          "is_quote": true,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": null,
+          "quoted_tweet": {
+            "id": "2059635864754667616",
+            "url": "https://x.com/dantawfik/status/2059635864754667616",
+            "created_at": "2026-05-27T14:00:30.000Z",
+            "text": "For decades, protein metabolism research suggested that muscle protein synthesis plateaus around 20–25 g protein per meal. That conclusion was based on studies measuring anabolic responses over 4–6 hours following moderate protein doses.\n\nA new controlled trial extended the assessment window to 12 hours and tested doses up to 100 g—revealing that the ceiling effect doesn't exist.\n\nParticipants consumed 0 g, 25 g, or 100 g intrinsically labeled milk protein following resistance exercise. Researchers applied continuous isotope tracer infusion and measured muscle protein synthesis across multiple tissue fractions.\n\nMyofibrillar protein synthesis rates increased dose-dependently throughout the entire 12-hour period. The 100 g dose produced 40% higher synthesis rates during hours 4–12 compared to 25 g.\n\nDietary-protein-derived amino acids continued appearing in circulation for over 12 hours following 100 g protein. By the end of the measurement period, only 53% of ingested amino acids had entered circulation—digestion was still ongoing.\n\nWhole-body protein synthesis increased linearly with protein dose. Amino acid oxidation increased minimally—less than 15% of the increment in protein intake was oxidized. Over 85% was directed toward tissue protein synthesis.\n\nMuscle tissue incorporated 13 g of dietary amino acids over 12 hours following the 100 g dose—13% of total intake. Previous estimates from shorter protocols suggested ~10%.\n\nExogenous amino acids contributed 27% of myofibrillar protein synthesis following 100 g protein versus only 9% following 25 g. The higher dose didn't just extend the duration of synthesis—it fundamentally shifted the precursor pool composition.\n\nProtein breakdown rates didn't differ between treatments. The anabolic response was driven entirely by increased synthesis, not suppressed breakdown.\n\nMolecular signaling showed a different timeline than metabolic outcomes.\n\nmTOR phosphorylation and p70S6K activation peaked within 4 hours and returned to baseline—regardless of dose. But muscle protein synthesis remained elevated beyond 12 hours when 100 g was consumed.\n\nThis dissociation demonstrates that anabolic signaling initiates the response, but sustained amino acid availability—not sustained mTOR activation—drives prolonged synthesis.\n\nMuscle free leucine concentrations remained elevated throughout the 12-hour period following 100 g protein. Other amino acids didn't accumulate in the muscle free pool.\n\nLeucine's selective retention supports its dual role: signaling molecule during initial mTOR activation and metabolic substrate during prolonged synthesis.\n\nCurrent dietary guidelines recommend distributing protein evenly across meals to maximize the anabolic response at each feeding opportunity. That advice assumes the response is transient and saturable.\n\nBut if a large protein dose produces sustained anabolism lasting well beyond 12 hours, frequent feeding becomes less critical for optimizing muscle protein synthesis.\n\nTime-restricted feeding protocols—which compress food intake into narrow windows—may not compromise anabolism if sufficient protein is consumed during the feeding period.\n\nThe postprandial state may extend far beyond the feeding window when large protein doses are consumed.\n\nThe study also challenges assumptions about mTOR, autophagy, and protein turnover.\n\nIngesting 100 g protein sustained anabolism without suppressing whole-body protein breakdown or muscle autophagy markers. This suggests prolonged anabolism doesn't require a subsequent fasted state to allow protein clearance.\n\nLimitations: The 12-hour measurement window wasn't sufficient to capture the full response to 100 g protein. Digestion and absorption were ongoing when the protocol ended. The magnitude and duration of the response are likely underestimated.\n\nThe study was conducted in young men following resistance exercise. Anabolic sensitivity to feeding is lower in sedentary and older populations, so ceiling effects may exist in those groups despite not appearing here.\n\nBut the mechanistic data provide clarity on postprandial protein handling at a systems level.\n\nProtein digestion is prolonged. Amino acid absorption is sustained. Exogenous amino acid flux into circulation continues for >12 hours. Tissue uptake doesn't plateau. Incorporation into muscle and plasma protein increases proportionally to dose.\n\nThe anabolic response to protein ingestion has no upper limit within the range tested (0–100 g).\n\nMeal size and meal frequency may be more flexible variables than current guidelines suggest. Larger, less frequent meals produce metabolic outcomes comparable to—or exceeding—smaller, more frequent feeding.\n\nHere's our full review: https://t.co/hI5AUtYjT8",
+            "lang": "en",
+            "author": {
+              "id": "1691778919",
+              "username": "dantawfik",
+              "name": "Daniel Tawfik"
+            },
+            "is_reply": false,
+            "is_quote": false,
+            "is_retweet": false,
+            "conversation_id": "2059635864754667616",
+            "in_reply_to": null,
+            "quoted_tweet": null,
+            "retweeted_tweet": null,
+            "media": [],
+            "metrics": {
+              "likes": 92,
+              "retweets": 11,
+              "replies": 4,
+              "quotes": 4,
+              "views": 19366
+            },
+            "thread_context": []
+          },
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVp48WWEAMrArP.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 109,
+            "retweets": 28,
+            "replies": 5,
+            "quotes": 0,
+            "views": 10688
+          }
+        },
+        {
+          "id": "2059669463763505377",
+          "url": "https://x.com/DrJackKruse/status/2059669463763505377",
+          "created_at": "2026-05-27T16:14:01.000Z",
+          "text": "2.  Mellanby’s data establishes a clear, mathematical hierarchy of Metabolic Water Production during complete combustion.  When the body combusts fat via beta-oxidation, Cytochrome c Oxidase (CCO) manufactures 110 grams of perfectly structured, deuterium-depleted water per 100g of substrate. This high-dielectric fluid (𝜖 ≈160) acts as the frictionless lubricant for the Brachistochrone curve of the cristae.\n\nBy contrast, ingesting 100g of protein cuts metabolic water production exactly in half. Worse, protein metabolism demands massive amounts of water for the urea cycle to clear toxic ammonia, creating a severe intracellular desiccation pull.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059668848731714000",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059668848731714000"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqVOGXYAI7hAO.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqVOHXoAQDGp7.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqa8dWkAIq5nK.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 25,
+            "retweets": 6,
+            "replies": 2,
+            "quotes": 0,
+            "views": 2150
+          }
+        },
+        {
+          "id": "2059671369978142745",
+          "url": "https://x.com/DrJackKruse/status/2059671369978142745",
+          "created_at": "2026-05-27T16:21:36.000Z",
+          "text": "3. The Biophysical Critique of the 12-Hour 100g Protein Study\nThe study celebrates that 100g of protein keeps muscle protein synthesis elevated for over 12 hours without increasing amino acid oxidation. In my vortex physics framework, this isn't a state of \"infinite anabolism\", it is a state of forced, high-entropy Lattice Lock.  this is why exercise is harm so many high protein eaters.  \n\nKey sign they have is hair loss on the top of their head before they fry their neurons.  Why? Entropic heat loss of the neuroectoderm.  This is why you should look at their hair and the brain's cognition as two keys signs why hypertrophies muscles causes hair loss due to high heat entropy. \n\nThis explains why they stay in simpleton paradigms and do some questionable stuff---->  dopamine destructions from melanin loss due to rises in signlet oxygen over triplet state oxygen.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059669463763505377",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059669463763505377"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVrymxWMAEw3q4.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVr6KPWUAEWA-t.png",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 21,
+            "retweets": 5,
+            "replies": 1,
+            "quotes": 0,
+            "views": 1692
+          }
+        }
+      ]
+    },
+    {
+      "id": "2059671369978142745",
+      "url": "https://x.com/DrJackKruse/status/2059671369978142745",
+      "created_at": "2026-05-27T16:21:36.000Z",
+      "text": "3. The Biophysical Critique of the 12-Hour 100g Protein Study\nThe study celebrates that 100g of protein keeps muscle protein synthesis elevated for over 12 hours without increasing amino acid oxidation. In my vortex physics framework, this isn't a state of \"infinite anabolism\", it is a state of forced, high-entropy Lattice Lock.  this is why exercise is harm so many high protein eaters.  \n\nKey sign they have is hair loss on the top of their head before they fry their neurons.  Why? Entropic heat loss of the neuroectoderm.  This is why you should look at their hair and the brain's cognition as two keys signs why hypertrophies muscles causes hair loss due to high heat entropy. \n\nThis explains why they stay in simpleton paradigms and do some questionable stuff---->  dopamine destructions from melanin loss due to rises in signlet oxygen over triplet state oxygen.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": true,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2059668848731714000",
+      "in_reply_to": {
+        "tweet_id": "2059669463763505377",
+        "user_id": "250833376",
+        "url": "https://x.com/i/status/2059669463763505377"
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJVrymxWMAEw3q4.jpg",
+          "preview_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJVr6KPWUAEWA-t.png",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 21,
+        "retweets": 5,
+        "replies": 1,
+        "quotes": 0,
+        "views": 1692
+      },
+      "thread_context": [
+        {
+          "id": "2059668848731714000",
+          "url": "https://x.com/DrJackKruse/status/2059668848731714000",
+          "created_at": "2026-05-27T16:11:34.000Z",
+          "text": "The 1942 Kenneth Mellanby paper from Nature below has been the absolute subatomic proof that the 2026 \"100 g protein ceiling myth\" study completely ignores. By focusing solely on classical \"nitrogen balance\" and labeled isotope tracers, the researchers missed the massive deuterium tax and water table collapse that comes with forcing a 100g protein load into the human semiconductor.\nMy decentralized framework in the Leptin Rx, is wholly backed by Mellanby's historical data, exposes why forcing massive protein loads into the system is a hidden \"desiccation trap\" that destroys the Inner Mitochondrial Junction (IMJ) particle accelerator.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": false,
+          "is_quote": true,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": null,
+          "quoted_tweet": {
+            "id": "2059635864754667616",
+            "url": "https://x.com/dantawfik/status/2059635864754667616",
+            "created_at": "2026-05-27T14:00:30.000Z",
+            "text": "For decades, protein metabolism research suggested that muscle protein synthesis plateaus around 20–25 g protein per meal. That conclusion was based on studies measuring anabolic responses over 4–6 hours following moderate protein doses.\n\nA new controlled trial extended the assessment window to 12 hours and tested doses up to 100 g—revealing that the ceiling effect doesn't exist.\n\nParticipants consumed 0 g, 25 g, or 100 g intrinsically labeled milk protein following resistance exercise. Researchers applied continuous isotope tracer infusion and measured muscle protein synthesis across multiple tissue fractions.\n\nMyofibrillar protein synthesis rates increased dose-dependently throughout the entire 12-hour period. The 100 g dose produced 40% higher synthesis rates during hours 4–12 compared to 25 g.\n\nDietary-protein-derived amino acids continued appearing in circulation for over 12 hours following 100 g protein. By the end of the measurement period, only 53% of ingested amino acids had entered circulation—digestion was still ongoing.\n\nWhole-body protein synthesis increased linearly with protein dose. Amino acid oxidation increased minimally—less than 15% of the increment in protein intake was oxidized. Over 85% was directed toward tissue protein synthesis.\n\nMuscle tissue incorporated 13 g of dietary amino acids over 12 hours following the 100 g dose—13% of total intake. Previous estimates from shorter protocols suggested ~10%.\n\nExogenous amino acids contributed 27% of myofibrillar protein synthesis following 100 g protein versus only 9% following 25 g. The higher dose didn't just extend the duration of synthesis—it fundamentally shifted the precursor pool composition.\n\nProtein breakdown rates didn't differ between treatments. The anabolic response was driven entirely by increased synthesis, not suppressed breakdown.\n\nMolecular signaling showed a different timeline than metabolic outcomes.\n\nmTOR phosphorylation and p70S6K activation peaked within 4 hours and returned to baseline—regardless of dose. But muscle protein synthesis remained elevated beyond 12 hours when 100 g was consumed.\n\nThis dissociation demonstrates that anabolic signaling initiates the response, but sustained amino acid availability—not sustained mTOR activation—drives prolonged synthesis.\n\nMuscle free leucine concentrations remained elevated throughout the 12-hour period following 100 g protein. Other amino acids didn't accumulate in the muscle free pool.\n\nLeucine's selective retention supports its dual role: signaling molecule during initial mTOR activation and metabolic substrate during prolonged synthesis.\n\nCurrent dietary guidelines recommend distributing protein evenly across meals to maximize the anabolic response at each feeding opportunity. That advice assumes the response is transient and saturable.\n\nBut if a large protein dose produces sustained anabolism lasting well beyond 12 hours, frequent feeding becomes less critical for optimizing muscle protein synthesis.\n\nTime-restricted feeding protocols—which compress food intake into narrow windows—may not compromise anabolism if sufficient protein is consumed during the feeding period.\n\nThe postprandial state may extend far beyond the feeding window when large protein doses are consumed.\n\nThe study also challenges assumptions about mTOR, autophagy, and protein turnover.\n\nIngesting 100 g protein sustained anabolism without suppressing whole-body protein breakdown or muscle autophagy markers. This suggests prolonged anabolism doesn't require a subsequent fasted state to allow protein clearance.\n\nLimitations: The 12-hour measurement window wasn't sufficient to capture the full response to 100 g protein. Digestion and absorption were ongoing when the protocol ended. The magnitude and duration of the response are likely underestimated.\n\nThe study was conducted in young men following resistance exercise. Anabolic sensitivity to feeding is lower in sedentary and older populations, so ceiling effects may exist in those groups despite not appearing here.\n\nBut the mechanistic data provide clarity on postprandial protein handling at a systems level.\n\nProtein digestion is prolonged. Amino acid absorption is sustained. Exogenous amino acid flux into circulation continues for >12 hours. Tissue uptake doesn't plateau. Incorporation into muscle and plasma protein increases proportionally to dose.\n\nThe anabolic response to protein ingestion has no upper limit within the range tested (0–100 g).\n\nMeal size and meal frequency may be more flexible variables than current guidelines suggest. Larger, less frequent meals produce metabolic outcomes comparable to—or exceeding—smaller, more frequent feeding.\n\nHere's our full review: https://t.co/hI5AUtYjT8",
+            "lang": "en",
+            "author": {
+              "id": "1691778919",
+              "username": "dantawfik",
+              "name": "Daniel Tawfik"
+            },
+            "is_reply": false,
+            "is_quote": false,
+            "is_retweet": false,
+            "conversation_id": "2059635864754667616",
+            "in_reply_to": null,
+            "quoted_tweet": null,
+            "retweeted_tweet": null,
+            "media": [],
+            "metrics": {
+              "likes": 92,
+              "retweets": 11,
+              "replies": 4,
+              "quotes": 4,
+              "views": 19366
+            },
+            "thread_context": []
+          },
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVp48WWEAMrArP.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 109,
+            "retweets": 28,
+            "replies": 5,
+            "quotes": 0,
+            "views": 10688
+          }
+        },
+        {
+          "id": "2059669463763505377",
+          "url": "https://x.com/DrJackKruse/status/2059669463763505377",
+          "created_at": "2026-05-27T16:14:01.000Z",
+          "text": "2.  Mellanby’s data establishes a clear, mathematical hierarchy of Metabolic Water Production during complete combustion.  When the body combusts fat via beta-oxidation, Cytochrome c Oxidase (CCO) manufactures 110 grams of perfectly structured, deuterium-depleted water per 100g of substrate. This high-dielectric fluid (𝜖 ≈160) acts as the frictionless lubricant for the Brachistochrone curve of the cristae.\n\nBy contrast, ingesting 100g of protein cuts metabolic water production exactly in half. Worse, protein metabolism demands massive amounts of water for the urea cycle to clear toxic ammonia, creating a severe intracellular desiccation pull.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": true,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": {
+            "tweet_id": "2059668848731714000",
+            "user_id": "250833376",
+            "url": "https://x.com/i/status/2059668848731714000"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqVOGXYAI7hAO.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqVOHXoAQDGp7.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVqa8dWkAIq5nK.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 25,
+            "retweets": 6,
+            "replies": 2,
+            "quotes": 0,
+            "views": 2150
+          }
+        }
+      ]
+    },
+    {
+      "id": "2059669463763505377",
+      "url": "https://x.com/DrJackKruse/status/2059669463763505377",
+      "created_at": "2026-05-27T16:14:01.000Z",
+      "text": "2.  Mellanby’s data establishes a clear, mathematical hierarchy of Metabolic Water Production during complete combustion.  When the body combusts fat via beta-oxidation, Cytochrome c Oxidase (CCO) manufactures 110 grams of perfectly structured, deuterium-depleted water per 100g of substrate. This high-dielectric fluid (𝜖 ≈160) acts as the frictionless lubricant for the Brachistochrone curve of the cristae.\n\nBy contrast, ingesting 100g of protein cuts metabolic water production exactly in half. Worse, protein metabolism demands massive amounts of water for the urea cycle to clear toxic ammonia, creating a severe intracellular desiccation pull.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": true,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2059668848731714000",
+      "in_reply_to": {
+        "tweet_id": "2059668848731714000",
+        "user_id": "250833376",
+        "url": "https://x.com/i/status/2059668848731714000"
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJVqVOGXYAI7hAO.jpg",
+          "preview_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJVqVOHXoAQDGp7.jpg",
+          "preview_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJVqa8dWkAIq5nK.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 25,
+        "retweets": 6,
+        "replies": 2,
+        "quotes": 0,
+        "views": 2150
+      },
+      "thread_context": [
+        {
+          "id": "2059668848731714000",
+          "url": "https://x.com/DrJackKruse/status/2059668848731714000",
+          "created_at": "2026-05-27T16:11:34.000Z",
+          "text": "The 1942 Kenneth Mellanby paper from Nature below has been the absolute subatomic proof that the 2026 \"100 g protein ceiling myth\" study completely ignores. By focusing solely on classical \"nitrogen balance\" and labeled isotope tracers, the researchers missed the massive deuterium tax and water table collapse that comes with forcing a 100g protein load into the human semiconductor.\nMy decentralized framework in the Leptin Rx, is wholly backed by Mellanby's historical data, exposes why forcing massive protein loads into the system is a hidden \"desiccation trap\" that destroys the Inner Mitochondrial Junction (IMJ) particle accelerator.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": false,
+          "is_quote": true,
+          "is_retweet": false,
+          "conversation_id": "2059668848731714000",
+          "in_reply_to": null,
+          "quoted_tweet": {
+            "id": "2059635864754667616",
+            "url": "https://x.com/dantawfik/status/2059635864754667616",
+            "created_at": "2026-05-27T14:00:30.000Z",
+            "text": "For decades, protein metabolism research suggested that muscle protein synthesis plateaus around 20–25 g protein per meal. That conclusion was based on studies measuring anabolic responses over 4–6 hours following moderate protein doses.\n\nA new controlled trial extended the assessment window to 12 hours and tested doses up to 100 g—revealing that the ceiling effect doesn't exist.\n\nParticipants consumed 0 g, 25 g, or 100 g intrinsically labeled milk protein following resistance exercise. Researchers applied continuous isotope tracer infusion and measured muscle protein synthesis across multiple tissue fractions.\n\nMyofibrillar protein synthesis rates increased dose-dependently throughout the entire 12-hour period. The 100 g dose produced 40% higher synthesis rates during hours 4–12 compared to 25 g.\n\nDietary-protein-derived amino acids continued appearing in circulation for over 12 hours following 100 g protein. By the end of the measurement period, only 53% of ingested amino acids had entered circulation—digestion was still ongoing.\n\nWhole-body protein synthesis increased linearly with protein dose. Amino acid oxidation increased minimally—less than 15% of the increment in protein intake was oxidized. Over 85% was directed toward tissue protein synthesis.\n\nMuscle tissue incorporated 13 g of dietary amino acids over 12 hours following the 100 g dose—13% of total intake. Previous estimates from shorter protocols suggested ~10%.\n\nExogenous amino acids contributed 27% of myofibrillar protein synthesis following 100 g protein versus only 9% following 25 g. The higher dose didn't just extend the duration of synthesis—it fundamentally shifted the precursor pool composition.\n\nProtein breakdown rates didn't differ between treatments. The anabolic response was driven entirely by increased synthesis, not suppressed breakdown.\n\nMolecular signaling showed a different timeline than metabolic outcomes.\n\nmTOR phosphorylation and p70S6K activation peaked within 4 hours and returned to baseline—regardless of dose. But muscle protein synthesis remained elevated beyond 12 hours when 100 g was consumed.\n\nThis dissociation demonstrates that anabolic signaling initiates the response, but sustained amino acid availability—not sustained mTOR activation—drives prolonged synthesis.\n\nMuscle free leucine concentrations remained elevated throughout the 12-hour period following 100 g protein. Other amino acids didn't accumulate in the muscle free pool.\n\nLeucine's selective retention supports its dual role: signaling molecule during initial mTOR activation and metabolic substrate during prolonged synthesis.\n\nCurrent dietary guidelines recommend distributing protein evenly across meals to maximize the anabolic response at each feeding opportunity. That advice assumes the response is transient and saturable.\n\nBut if a large protein dose produces sustained anabolism lasting well beyond 12 hours, frequent feeding becomes less critical for optimizing muscle protein synthesis.\n\nTime-restricted feeding protocols—which compress food intake into narrow windows—may not compromise anabolism if sufficient protein is consumed during the feeding period.\n\nThe postprandial state may extend far beyond the feeding window when large protein doses are consumed.\n\nThe study also challenges assumptions about mTOR, autophagy, and protein turnover.\n\nIngesting 100 g protein sustained anabolism without suppressing whole-body protein breakdown or muscle autophagy markers. This suggests prolonged anabolism doesn't require a subsequent fasted state to allow protein clearance.\n\nLimitations: The 12-hour measurement window wasn't sufficient to capture the full response to 100 g protein. Digestion and absorption were ongoing when the protocol ended. The magnitude and duration of the response are likely underestimated.\n\nThe study was conducted in young men following resistance exercise. Anabolic sensitivity to feeding is lower in sedentary and older populations, so ceiling effects may exist in those groups despite not appearing here.\n\nBut the mechanistic data provide clarity on postprandial protein handling at a systems level.\n\nProtein digestion is prolonged. Amino acid absorption is sustained. Exogenous amino acid flux into circulation continues for >12 hours. Tissue uptake doesn't plateau. Incorporation into muscle and plasma protein increases proportionally to dose.\n\nThe anabolic response to protein ingestion has no upper limit within the range tested (0–100 g).\n\nMeal size and meal frequency may be more flexible variables than current guidelines suggest. Larger, less frequent meals produce metabolic outcomes comparable to—or exceeding—smaller, more frequent feeding.\n\nHere's our full review: https://t.co/hI5AUtYjT8",
+            "lang": "en",
+            "author": {
+              "id": "1691778919",
+              "username": "dantawfik",
+              "name": "Daniel Tawfik"
+            },
+            "is_reply": false,
+            "is_quote": false,
+            "is_retweet": false,
+            "conversation_id": "2059635864754667616",
+            "in_reply_to": null,
+            "quoted_tweet": null,
+            "retweeted_tweet": null,
+            "media": [],
+            "metrics": {
+              "likes": 92,
+              "retweets": 11,
+              "replies": 4,
+              "quotes": 4,
+              "views": 19366
+            },
+            "thread_context": []
+          },
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJVp48WWEAMrArP.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 109,
+            "retweets": 28,
+            "replies": 5,
+            "quotes": 0,
+            "views": 10688
+          }
+        }
+      ]
+    },
+    {
+      "id": "2059668848731714000",
+      "url": "https://x.com/DrJackKruse/status/2059668848731714000",
+      "created_at": "2026-05-27T16:11:34.000Z",
+      "text": "The 1942 Kenneth Mellanby paper from Nature below has been the absolute subatomic proof that the 2026 \"100 g protein ceiling myth\" study completely ignores. By focusing solely on classical \"nitrogen balance\" and labeled isotope tracers, the researchers missed the massive deuterium tax and water table collapse that comes with forcing a 100g protein load into the human semiconductor.\nMy decentralized framework in the Leptin Rx, is wholly backed by Mellanby's historical data, exposes why forcing massive protein loads into the system is a hidden \"desiccation trap\" that destroys the Inner Mitochondrial Junction (IMJ) particle accelerator.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059668848731714000",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059635864754667616",
+        "url": "https://x.com/dantawfik/status/2059635864754667616",
+        "created_at": "2026-05-27T14:00:30.000Z",
+        "text": "For decades, protein metabolism research suggested that muscle protein synthesis plateaus around 20–25 g protein per meal. That conclusion was based on studies measuring anabolic responses over 4–6 hours following moderate protein doses.\n\nA new controlled trial extended the assessment window to 12 hours and tested doses up to 100 g—revealing that the ceiling effect doesn't exist.\n\nParticipants consumed 0 g, 25 g, or 100 g intrinsically labeled milk protein following resistance exercise. Researchers applied continuous isotope tracer infusion and measured muscle protein synthesis across multiple tissue fractions.\n\nMyofibrillar protein synthesis rates increased dose-dependently throughout the entire 12-hour period. The 100 g dose produced 40% higher synthesis rates during hours 4–12 compared to 25 g.\n\nDietary-protein-derived amino acids continued appearing in circulation for over 12 hours following 100 g protein. By the end of the measurement period, only 53% of ingested amino acids had entered circulation—digestion was still ongoing.\n\nWhole-body protein synthesis increased linearly with protein dose. Amino acid oxidation increased minimally—less than 15% of the increment in protein intake was oxidized. Over 85% was directed toward tissue protein synthesis.\n\nMuscle tissue incorporated 13 g of dietary amino acids over 12 hours following the 100 g dose—13% of total intake. Previous estimates from shorter protocols suggested ~10%.\n\nExogenous amino acids contributed 27% of myofibrillar protein synthesis following 100 g protein versus only 9% following 25 g. The higher dose didn't just extend the duration of synthesis—it fundamentally shifted the precursor pool composition.\n\nProtein breakdown rates didn't differ between treatments. The anabolic response was driven entirely by increased synthesis, not suppressed breakdown.\n\nMolecular signaling showed a different timeline than metabolic outcomes.\n\nmTOR phosphorylation and p70S6K activation peaked within 4 hours and returned to baseline—regardless of dose. But muscle protein synthesis remained elevated beyond 12 hours when 100 g was consumed.\n\nThis dissociation demonstrates that anabolic signaling initiates the response, but sustained amino acid availability—not sustained mTOR activation—drives prolonged synthesis.\n\nMuscle free leucine concentrations remained elevated throughout the 12-hour period following 100 g protein. Other amino acids didn't accumulate in the muscle free pool.\n\nLeucine's selective retention supports its dual role: signaling molecule during initial mTOR activation and metabolic substrate during prolonged synthesis.\n\nCurrent dietary guidelines recommend distributing protein evenly across meals to maximize the anabolic response at each feeding opportunity. That advice assumes the response is transient and saturable.\n\nBut if a large protein dose produces sustained anabolism lasting well beyond 12 hours, frequent feeding becomes less critical for optimizing muscle protein synthesis.\n\nTime-restricted feeding protocols—which compress food intake into narrow windows—may not compromise anabolism if sufficient protein is consumed during the feeding period.\n\nThe postprandial state may extend far beyond the feeding window when large protein doses are consumed.\n\nThe study also challenges assumptions about mTOR, autophagy, and protein turnover.\n\nIngesting 100 g protein sustained anabolism without suppressing whole-body protein breakdown or muscle autophagy markers. This suggests prolonged anabolism doesn't require a subsequent fasted state to allow protein clearance.\n\nLimitations: The 12-hour measurement window wasn't sufficient to capture the full response to 100 g protein. Digestion and absorption were ongoing when the protocol ended. The magnitude and duration of the response are likely underestimated.\n\nThe study was conducted in young men following resistance exercise. Anabolic sensitivity to feeding is lower in sedentary and older populations, so ceiling effects may exist in those groups despite not appearing here.\n\nBut the mechanistic data provide clarity on postprandial protein handling at a systems level.\n\nProtein digestion is prolonged. Amino acid absorption is sustained. Exogenous amino acid flux into circulation continues for >12 hours. Tissue uptake doesn't plateau. Incorporation into muscle and plasma protein increases proportionally to dose.\n\nThe anabolic response to protein ingestion has no upper limit within the range tested (0–100 g).\n\nMeal size and meal frequency may be more flexible variables than current guidelines suggest. Larger, less frequent meals produce metabolic outcomes comparable to—or exceeding—smaller, more frequent feeding.\n\nHere's our full review: https://t.co/hI5AUtYjT8",
+        "lang": "en",
+        "author": {
+          "id": "1691778919",
+          "username": "dantawfik",
+          "name": "Daniel Tawfik"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059635864754667616",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 92,
+          "retweets": 11,
+          "replies": 4,
+          "quotes": 4,
+          "views": 19366
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJVp48WWEAMrArP.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 109,
+        "retweets": 28,
+        "replies": 5,
+        "quotes": 0,
+        "views": 10688
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059667481862545705",
+      "url": "https://x.com/DrJackKruse/status/2059667481862545705",
+      "created_at": "2026-05-27T16:06:09.000Z",
+      "text": "Proof of what is coming. https://t.co/04OZ0V1Wxi",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059667481862545705",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059620506794328072",
+        "url": "https://x.com/DailyStackHQ/status/2059620506794328072",
+        "created_at": "2026-05-27T12:59:29.000Z",
+        "text": "Someone built an algorithm to find inactive Bitcoin wallets, reported them to the NYPD as \"lost property\" - and is now suing to own them.\n\n39,069 wallets. ~3.8M BTC. $286 billion.\nNo private keys. Just a court order.\n\nThe most audacious Bitcoin lawsuit in history. https://t.co/iK8KIx5OA8",
+        "lang": "en",
+        "author": {
+          "id": "1937250118987640832",
+          "username": "DailyStackHQ",
+          "name": "The Daily Stack 🥞"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059620506794328072",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 2620,
+          "retweets": 456,
+          "replies": 430,
+          "quotes": 179,
+          "views": 1069094
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 148,
+        "retweets": 19,
+        "replies": 17,
+        "quotes": 2,
+        "views": 15871
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059667246331416873",
+      "url": "https://x.com/DrJackKruse/status/2059667246331416873",
+      "created_at": "2026-05-27T16:05:12.000Z",
+      "text": "Much wiser to remove the coconut oil and add in salt to the coffee if you really understood what youre doing.  \n\nYou do not understand it if you are using coconut oil based on your location. https://t.co/Jw6KivaDt6",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059667246331416873",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059580634587177067",
+        "url": "https://x.com/gemoscatelli/status/2059580634587177067",
+        "created_at": "2026-05-27T10:21:03.000Z",
+        "text": "My longevity health protocol:\n- Dinner: sunset walking, sparkling water.\n- Early morning: black coffee with coconut oil.\n- Interval sprinting, jumping, push ups, pull ups, hanging grip, weight lifting.\n- 11:30 AM snack/lunch: sheep's cheese, 3 boiled eggs, pancetta italiana, Jamón Serrano, salami italiano, mascarpone 42% fat, Greek yogurt, full fat unpasteurized raw milk, blackberries, nuts, sardines in extra virgin olive oil.\n- Magnesium, iodized sea salt, potassium, vitamin C, Vitamin B, Tryptophan.\n- No more food for the day.\n- After 5:30 PM: sunlight without sunscreen, sauna.\n- No dinner.\nRinse repeat.",
+        "lang": "en",
+        "author": {
+          "id": "1264899552869527552",
+          "username": "gemoscatelli",
+          "name": "Gerardo Moscatelli"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059580634587177067",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 22,
+          "retweets": 0,
+          "replies": 2,
+          "quotes": 4,
+          "views": 44354
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 236,
+        "retweets": 13,
+        "replies": 15,
+        "quotes": 0,
+        "views": 40168
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059666694667170060",
+      "url": "https://x.com/DrJackKruse/status/2059666694667170060",
+      "created_at": "2026-05-27T16:03:01.000Z",
+      "text": "DDW or a TENS unit over the lesion https://t.co/vqxaIX52eU",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059666694667170060",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059448932451635562",
+        "url": "https://x.com/noface755243/status/2059448932451635562",
+        "created_at": "2026-05-27T01:37:42.000Z",
+        "text": "@DrJackKruse Any suggestions on reducing lipomas? \n\nMany young people are having issues with it .",
+        "lang": "en",
+        "author": {
+          "id": "1914859214184628224",
+          "username": "noface755243",
+          "name": "noface"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059434009558405492",
+        "in_reply_to": {
+          "tweet_id": "2059434009558405492",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2059434009558405492"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 3,
+          "views": 11141
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 91,
+        "retweets": 12,
+        "replies": 2,
+        "quotes": 0,
+        "views": 9236
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059666549217137096",
+      "url": "https://x.com/DrJackKruse/status/2059666549217137096",
+      "created_at": "2026-05-27T16:02:26.000Z",
+      "text": "I'd never consent to that surgery. https://t.co/kModfxrRZ0",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059666549217137096",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059449489279136165",
+        "url": "https://x.com/reggieming/status/2059449489279136165",
+        "created_at": "2026-05-27T01:39:55.000Z",
+        "text": "@DrJackKruse I know mastic gum is great and all but surgery is probably the only option as far as a fix for hiatal hernia? The Nissan fundoplication and not implementing the linx mesh id assume.",
+        "lang": "en",
+        "author": {
+          "id": "1565876584875233286",
+          "username": "reggieming",
+          "name": "Reginald"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059434009558405492",
+        "in_reply_to": {
+          "tweet_id": "2059434009558405492",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2059434009558405492"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 3,
+          "retweets": 0,
+          "replies": 2,
+          "quotes": 3,
+          "views": 10684
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 47,
+        "retweets": 2,
+        "replies": 4,
+        "quotes": 0,
+        "views": 7959
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059665237825966082",
+      "url": "https://x.com/DrJackKruse/status/2059665237825966082",
+      "created_at": "2026-05-27T15:57:14.000Z",
+      "text": "I started paying attention to water chemistry ever since Metallica wrote a song about deuterium called \"Enter Sandman\"   around 1991. https://t.co/hokee1637A",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059665237825966082",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059630480681558388",
+        "url": "https://x.com/empathastrology/status/2059630480681558388",
+        "created_at": "2026-05-27T13:39:07.000Z",
+        "text": "@DrJackKruse I gotta go learn more about Deuterated water &amp; cells. Never heard of this before. Although I have been slowly studying EZ water since 2020. I was able to shrink a fibroid tumour, just by drinking EZ water.",
+        "lang": "en",
+        "author": {
+          "id": "882751525071839232",
+          "username": "empathastrology",
+          "name": "𓆣 Khāli Khepri 𓆣"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2058952791654105351",
+        "in_reply_to": {
+          "tweet_id": "2058952791654105351",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2058952791654105351"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 7,
+          "retweets": 0,
+          "replies": 4,
+          "quotes": 3,
+          "views": 20151
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 194,
+        "retweets": 14,
+        "replies": 17,
+        "quotes": 0,
+        "views": 18951
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059664528078446967",
+      "url": "https://x.com/DrJackKruse/status/2059664528078446967",
+      "created_at": "2026-05-27T15:54:24.000Z",
+      "text": "I will make a prediction since RETA is not FDA approved yet.  When it is, we will see an epic rise in complications leading to some unique clinical findings that no centralized MDs will be able to figure out.  \n\nHow do I know this?  People are using this peptide now illegally and I have some experience in treating the complications of RETA use in these people. \n\nWhat will be the side effects?  \n\nThe mechanical shock wave of RETA damage will mimic TBI impacts via mechanoporation.  This is what no one sees coming with these drugs but decentralized neurosurgery does.  It will mimic acute CPM cases we see in ICUs in patients with altered Na+ and low K+ levels who use these drugs who already have deuterated water tables.  \n\nMy belief is people who use RETA will see more time loss than the GLp1A that are already on the market.  \n\nThe treatment of these complications will take on MDs who understand how to reestablish the biophysics of the water table using wisdom.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2059664528078446967",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJVjNW-WoAEVKle.jpg",
+          "preview_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJVjQTiWEAAvHss.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 138,
+        "retweets": 19,
+        "replies": 6,
+        "quotes": 2,
+        "views": 10169
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059646702533931350",
+      "url": "https://x.com/DrJackKruse/status/2059646702533931350",
+      "created_at": "2026-05-27T14:43:34.000Z",
+      "text": "DJT's DOJ needs to register as a foreign agent. https://t.co/ewTzrAbf3h",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059646702533931350",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059442319401553998",
+        "url": "https://x.com/AmberWoods100/status/2059442319401553998",
+        "created_at": "2026-05-27T01:11:26.000Z",
+        "text": "A senior Israeli cyber official tied to a child sex sting case in Las Vegas just had the charges against him vacated after failing to appear in court.\n\nThe story itself is shocking. 🧵 https://t.co/THToN1HqcB",
+        "lang": "en",
+        "author": {
+          "id": "266177995",
+          "username": "AmberWoods100",
+          "name": "Amber Woods"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059442319401553998",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 5178,
+          "retweets": 2502,
+          "replies": 138,
+          "quotes": 79,
+          "views": 155711
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 154,
+        "retweets": 36,
+        "replies": 3,
+        "quotes": 1,
+        "views": 6928
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059644605532950832",
+      "url": "https://x.com/DrJackKruse/status/2059644605532950832",
+      "created_at": "2026-05-27T14:35:14.000Z",
+      "text": "An SRI guy.  Makes sense now. https://t.co/yDDSJKD9gn",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059644605532950832",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059600034040037515",
+        "url": "https://x.com/gemoscatelli/status/2059600034040037515",
+        "created_at": "2026-05-27T11:38:08.000Z",
+        "text": "I learned to train the first hand written digit recognition neural network machine learning model in Matlab 7 years ago that was originally created by Yann Le Cun following Andrew Ng Machine Learning Stanford course. It provides a solid base to understand neural networks, gradient descent, backpropagation, convolutions and LLMs today. \nEveryone should start with this model, best way to uderstand how AI is not AI but just optimization, vectors, matrices, linear algebra.",
+        "lang": "en",
+        "author": {
+          "id": "1264899552869527552",
+          "username": "gemoscatelli",
+          "name": "Gerardo Moscatelli"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059600034040037515",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 6,
+          "retweets": 0,
+          "replies": 2,
+          "quotes": 2,
+          "views": 5228
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 20,
+        "retweets": 3,
+        "replies": 1,
+        "quotes": 1,
+        "views": 4946
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059638988365848910",
+      "url": "https://x.com/DrJackKruse/status/2059638988365848910",
+      "created_at": "2026-05-27T14:12:55.000Z",
+      "text": "Marketing teaches influencers how to substitute realities for truth.  Marketing is legalized TIME theft within the fiat system. https://t.co/b4LACQ6kd3 https://t.co/NfsHZpU9vu",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059638988365848910",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059281946987942042",
+        "url": "https://x.com/s6berr/status/2059281946987942042",
+        "created_at": "2026-05-26T14:34:10.000Z",
+        "text": "Clavicular EXPLAINS Ozempic side effects and REVEALS his Retatrutide protocol for the BEST results 😳👀\n\n\"The thing about Ozempic is it's like... it's only a single agonist and it hits the GLP-1 super hard, so all you get is nausea, uh, indigestion, and GI issues.\"\n\n\"Whereas Reta is a lot more selective, right? It's going to hit those three receptors... you don't actually feel physically nauseous. You just have no appetite...\" \n\n\"I'm on Reta. Like I'm on 10 mg every five days... It blunts my appetite entirely, uh, and I'm—I'm completely used to it at this point.\"",
+        "lang": "en",
+        "author": {
+          "id": "1880620770092851200",
+          "username": "s6berr",
+          "name": "S6BER"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059281946987942042",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 985,
+          "retweets": 21,
+          "replies": 134,
+          "quotes": 17,
+          "views": 906297
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJVOuZJWsAcfvyu.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 67,
+        "retweets": 8,
+        "replies": 6,
+        "quotes": 0,
+        "views": 5939
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059638140919259161",
+      "url": "https://x.com/DrJackKruse/status/2059638140919259161",
+      "created_at": "2026-05-27T14:09:33.000Z",
+      "text": "The new David Ferry just go away because he is a zionist in the DJT regime. https://t.co/3c1WEVfI6E",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059638140919259161",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059533039965806922",
+        "url": "https://x.com/adamemedia1/status/2059533039965806922",
+        "created_at": "2026-05-27T07:11:55.000Z",
+        "text": "🚨 do you understand what just happened with the Las Vegas biolab case..\n\nFederal prosecutors just DROPPED the main charge against Ori Solomon, the Israeli property manager running an illegal biolab discovered in a short-term rental home in East Las Vegas.\n\n•The home contained lab equipment, centrifuges, samples, human samples, flu vaccines, and testing kits.\n\n•It’s been linked by investigators to another illegal biolab in Reedley, California, which had more dangerous and DEADLY pathogen samples like HIV….\n\n•Housecleaners and workers got severely ill after exposure.\n\n•Solomon was found with multiple illegal firearms and foreign passports with inconsistent name spellings…\n\n•He’s in the US on a visa.\n\nThe federal gun charge? DISMISSED \n\nAn unlicensed biolab with international connections, illnesses reported, illegal guns… and the feds walk away from their case.\n\nStrange doesn’t even begin to cover it. Why does he get special treatment?…🇮🇱",
+        "lang": "en",
+        "author": {
+          "id": "1454231330556981255",
+          "username": "adamemedia1",
+          "name": "ADAM"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2059533039965806922",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 7777,
+          "retweets": 5091,
+          "replies": 336,
+          "quotes": 219,
+          "views": 136186
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 84,
+        "retweets": 24,
+        "replies": 4,
+        "quotes": 0,
+        "views": 7933
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2059618988691231170",
+      "url": "https://x.com/DrJackKruse/status/2059618988691231170",
+      "created_at": "2026-05-27T12:53:27.000Z",
+      "text": "DJT handler. https://t.co/P3pVMqpU1n",
+      "lang": "da",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2059618988691231170",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059306659411812445",
+        "url": "https://x.com/RepShontelBrown/status/2059306659411812445",
+        "created_at": "2026-05-26T16:12:22.000Z",
+        "text": "When Howard Lutnick found out he had to testify in front of the Oversight Committee, he gave $5 MILLION to a House Republican PAC.\n\nShortly after donating, James Comer announced his testimony would never be seen by the public. This is blatant corruption. He should be fired.\n\nhttps://t.co/6CQdpD8Mzc",
+        "lang": "en",
+        "author": {
+          "id": "1456381091598700556",
+          "username": "RepShontelBrown",
+          "name": "Rep. Shontel Brown"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059306659411812445",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 34911,
+          "retweets": 14722,
+          "replies": 822,
+          "quotes": 397,
+          "views": 438899
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 146,
+        "retweets": 21,
+        "replies": 6,
+        "quotes": 0,
+        "views": 7517
+      },
+      "thread_context": []
+    }
+  ]
+}
