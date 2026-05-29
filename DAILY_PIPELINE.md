@@ -132,6 +132,7 @@ Failure should be boring and visible.
 | Forum scrape fails | Stop before summary and email | Forum and X use the same daily report contract |
 | Supabase mailing-list sync fails | Stop before email | We do not guess the recipient list |
 | Anthropic generation fails | Stop before email | No validated report means no send |
+| Anthropic output is truncated | Stop before email | The JSON is incomplete and cannot be trusted; increase token headroom or compact selection output |
 | Validator rejects output | Stop before email | Prevents hallucinated, uncited, or unclear cards |
 | Anthropic omits a selected card source reference | Repair from the selected item, then validate | Keeps strict provenance without failing on recoverable JSON omissions |
 | Gmail send fails | Do not update `last-sent.json` | A retry should still be allowed |

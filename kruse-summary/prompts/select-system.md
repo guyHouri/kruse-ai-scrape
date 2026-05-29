@@ -286,6 +286,10 @@ Every input tweet and every input forum post must appear exactly once in either
 
 Do not silently skip source items. If a day has only one selected item, that is
 allowed, but every rejected tweet/forum post must have a specific reason.
+Keep unselected objects compact: only `source_type`, `source_id`,
+`reason_category`, and a short reason of 12 words or fewer. Never copy source
+text, titles, quotes, citations, blog refs, or translation terms into
+`unselected_items`.
 
 # Output
 

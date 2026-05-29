@@ -47,10 +47,10 @@ export const SETTINGS = {
   // higher reasoning (e.g. claude-sonnet-4-5).
   anthropicModel: process.env.ANTHROPIC_MODEL || 'claude-haiku-4-5',
 
-  // Max output tokens. Dense days with cards, concepts, citations, and forum
-  // bullets can exceed 8 K output tokens, so default high enough to avoid
-  // truncated JSON while still allowing env override.
-  anthropicMaxTokens: parseInt(process.env.ANTHROPIC_MAX_TOKENS || '20000', 10),
+  // Max output tokens. Dense days with many tweets/forum posts can make the
+  // curator JSON large before code gates it down, so default high enough to
+  // avoid truncated JSON while still allowing env override.
+  anthropicMaxTokens: parseInt(process.env.ANTHROPIC_MAX_TOKENS || '32000', 10),
 
   // Retry transient Anthropic overload/rate-limit failures before failing the
   // daily job. Keeps successful scrape/forum work from being wasted.
