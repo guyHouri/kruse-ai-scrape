@@ -13,7 +13,14 @@ import {
   repairSummaryCardSources,
   repairSelectionCoverage,
   validateReportVoice,
+  shouldUseAnthropicStreaming,
 } from '../code/summarize.js';
+
+test('large Anthropic output budgets use streaming mode', () => {
+  assert.equal(shouldUseAnthropicStreaming(19999), false);
+  assert.equal(shouldUseAnthropicStreaming(20000), true);
+  assert.equal(shouldUseAnthropicStreaming(32000), true);
+});
 
 test('gateSelection keeps Jack-authored priority-3 geo forum signals', () => {
   const gated = gateSelection({

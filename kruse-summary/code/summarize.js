@@ -60,6 +60,10 @@ function client() {
   return _client;
 }
 
+export function shouldUseAnthropicStreaming(maxTokens) {
+  return Number(maxTokens || 0) >= 20000;
+}
+
 function loadPrompt(filename) {
   return readFileSync(path.join(ROOT, 'prompts', filename), 'utf8');
 }
@@ -1672,6 +1676,10 @@ async function createAnthropicMessage(label, payload) {
   const maxAttempts = Math.max(1, SETTINGS.anthropicMaxRetries + 1);
   for (let attempt = 1; attempt <= maxAttempts; attempt += 1) {
     try {
+      if (shouldUseAnthropicStreaming(payload.max_tokens)) {
+        info(`anthropic:${label}: streaming response enabled for long output budget`);
+        return await client().messages.stream(payload).finalMessage();
+      }
       return await client().messages.create(payload);
     } catch (err) {
       if (attempt >= maxAttempts || !isRetriableAnthropicError(err)) throw err;
