@@ -12,6 +12,7 @@ import {
   repairSelectionCitations,
   repairSummaryCitations,
   repairSummaryCardSources,
+  repairSummarySourceQuotes,
   repairSelectionCoverage,
   validateReportVoice,
   shouldUseAnthropicStreaming,
@@ -164,6 +165,37 @@ test('repairSummaryCardSources restores missing forum URLs from selected items',
   const repaired = repairSummaryCardSources(summary, selection);
 
   assert.deepEqual(repaired.sections[1].cards[0].source_urls, [forumUrl]);
+});
+
+test('repairSummarySourceQuotes replaces hallucinated quotes with same-day source text', () => {
+  const repaired = repairSummarySourceQuotes({
+    sections: [
+      {
+        title: 'Twitter Updates',
+        cards: [
+          {
+            lead: 'Bad source quote',
+            body: 'The card is source-linked but quote text was paraphrased.',
+            source_quote: 'this sentence was never in the source',
+            source_ids: ['12345'],
+            points: [],
+          },
+        ],
+      },
+    ],
+  }, {
+    twitter: {
+      tweets: [{
+        id: '12345',
+        text: 'Exact source sentence appears here. This second source sentence is long enough for fallback repair.',
+      }],
+    },
+    forum: { posts: [] },
+  }, {
+    selected_items: [{ source_type: 'tweet', source_id: '12345', support_quotes: [] }],
+  });
+
+  assert.match(repaired.sections[0].cards[0].source_quote, /Exact source sentence appears here/);
 });
 
 test('citation guard rejects vague review labels without bibliographic anchors', () => {

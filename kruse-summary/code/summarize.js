@@ -673,7 +673,16 @@ export function repairSummaryCardSources(summary, selection, { logRepairs = true
   return repaired;
 }
 
-function repairSummarySourceQuotes(summary, input, selection) {
+function fallbackSourceQuote(input, card) {
+  const text = sourceTextForCard(input, card).replace(/\s+/g, ' ').trim();
+  if (!text) return '';
+  const sentence = text
+    .split(/(?<=[.!?])\s+/)
+    .find((part) => part.trim().length >= 24);
+  return (sentence || text).trim().slice(0, 280);
+}
+
+export function repairSummarySourceQuotes(summary, input, selection) {
   const repaired = {
     ...summary,
     sections: (summary.sections || []).map((section) => ({
@@ -691,7 +700,8 @@ function repairSummarySourceQuotes(summary, input, selection) {
 
       const selected = (selection?.selected_items || []).find((item) => selectedItemMatchesCard(item, card));
       const replacement = (selected?.support_quotes || [])
-        .find((quote) => sourceText.includes(normalizeSupportText(quote)));
+        .find((quote) => sourceText.includes(normalizeSupportText(quote)))
+        || fallbackSourceQuote(input, card);
       if (replacement) {
         card.source_quote = replacement;
         repairCount++;
