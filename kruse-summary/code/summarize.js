@@ -1817,10 +1817,11 @@ export async function summarizeDay(date, { dryRun = false } = {}) {
 
   const noPodcastCards = dropPodcastDeferredCards(explainedSummary, podcastQueue);
   const repairedSummary = repairSummarySourceQuotes(repairSummaryCardSources(noPodcastCards, gatedSelection), input, gatedSelection);
-  const summary = repairSummaryCitations(repairReportVoice(repairPrivatePhraseConcepts(repairRequiredTranslationConcepts(
+  const sanitizedSummary = repairSummaryCitations(repairReportVoice(repairPrivatePhraseConcepts(repairRequiredTranslationConcepts(
     repairConceptAliases(sanitizeSummary(repairedSummary)),
     gatedSelection
   ))));
+  const summary = repairSummarySourceQuotes(sanitizedSummary, input, gatedSelection);
   validateSummary(summary);
   validateReportVoice(summary);
   validateNoQuestionFraming(summary);
