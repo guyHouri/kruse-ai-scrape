@@ -1174,7 +1174,7 @@ function hasConceptFor(term, concepts = {}) {
   return conceptKeys(concepts).has(wanted);
 }
 
-function repairConceptAliases(summary) {
+export function repairConceptAliases(summary) {
   const repaired = {
     ...summary,
     sections: (summary.sections || []).map((section) => ({
@@ -1202,7 +1202,10 @@ function repairConceptAliases(summary) {
           const [, value] = match;
           card.concepts[tag] = typeof value === 'string' ? value : { ...value };
           repairCount++;
+          continue;
         }
+        card.concepts[tag] = { ...fallbackConceptForTerm(tag) };
+        repairCount++;
       }
     }
   }

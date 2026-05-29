@@ -5,6 +5,7 @@ import {
   dropPodcastDeferredCards,
   gateSelection,
   hasVerifiableCitation,
+  repairConceptAliases,
   repairPrivatePhraseConcepts,
   repairReportVoice,
   repairRequiredTranslationConcepts,
@@ -20,6 +21,29 @@ test('large Anthropic output budgets use streaming mode', () => {
   assert.equal(shouldUseAnthropicStreaming(19999), false);
   assert.equal(shouldUseAnthropicStreaming(20000), true);
   assert.equal(shouldUseAnthropicStreaming(32000), true);
+});
+
+test('repairConceptAliases fills missing concept tags from fallback explanations', () => {
+  const repaired = repairConceptAliases({
+    sections: [
+      {
+        title: 'Twitter Updates',
+        cards: [
+          {
+            lead: 'Physics term needs an exact concept key',
+            body: 'The card references {{concept:fractional-charge}} behavior.',
+            points: [],
+            concepts: {},
+          },
+        ],
+      },
+    ],
+  });
+
+  assert.match(
+    repaired.sections[0].cards[0].concepts['fractional-charge'].text,
+    /technical term|fractional-charge/i,
+  );
 });
 
 test('gateSelection keeps Jack-authored priority-3 geo forum signals', () => {
