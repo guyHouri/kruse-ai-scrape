@@ -3,11 +3,12 @@ name: Daily Kruse Summary
 on:
   schedule:
     # Daily report send/build targeting 04:00 Asia/Jerusalem.
-    # GitHub cron is UTC-only and best-effort, so use staggered attempts.
-    # The wait step handles Israel winter/DST; last-sent.json prevents duplicate mail.
-    - cron: '17 0 * * *'
-    - cron: '47 0 * * *'
-    - cron: '17 1 * * *'
+    # GitHub cron is UTC-only and best-effort, so use frequent attempts around
+    # the local 04:00 target. The wait step handles Israel winter/DST and the
+    # early last-sent guard prevents duplicate mail or repeated API spend.
+    - cron: '10,20,30,40,50 0 * * *'
+    - cron: '0,10,20,30,40,50 1 * * *'
+    - cron: '0,10,20 2 * * *'
   repository_dispatch:
     types: [daily-kruse-summary]
   workflow_dispatch:
@@ -50,6 +51,22 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: '20' }
 
+      - name: Pick target date
+        id: target
+        env:
+          REPORT_TIME_ZONE: ${{ vars.REPORT_TIME_ZONE || 'Asia/Jerusalem' }}
+        run: |
+          set -euo pipefail
+          INPUT_DATE="${{ github.event.inputs.date || github.event.client_payload.date }}"
+          if [ -n "$INPUT_DATE" ]; then
+            TARGET="$INPUT_DATE"
+          else
+            # Scheduled/manual default -> current day in the report timezone.
+            TARGET=$(TZ="$REPORT_TIME_ZONE" date +%Y-%m-%d)
+          fi
+          echo "date=$TARGET" >> $GITHUB_OUTPUT
+          echo "Target date: $TARGET ($REPORT_TIME_ZONE)"
+
       - name: Wait until 04:00 Israel time
         if: github.event_name == 'schedule'
         env:
@@ -73,7 +90,29 @@ jobs:
             echo "Current local time: ${now_local}. At or past ${REPORT_SEND_LOCAL_TIME} ${REPORT_TIME_ZONE}; continuing."
           fi
 
+      - name: Skip if this report was already sent
+        id: sent_guard
+        env:
+          MODE: ${{ github.event.inputs.mode || github.event.client_payload.mode || 'normal' }}
+          TARGET: ${{ steps.target.outputs.date }}
+        run: |
+          set -euo pipefail
+          if [ "$MODE" = "force" ] || [ "$MODE" = "build-only" ] || [ "$MODE" = "send-existing" ]; then
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            echo "Mode $MODE bypasses the early last-sent guard."
+            exit 0
+          fi
+          SENT_DATE="$(node -e "const fs=require('fs'); const p='kruse-summary/last-sent.json'; if (!fs.existsSync(p)) process.exit(0); const s=JSON.parse(fs.readFileSync(p,'utf8')); process.stdout.write(String(s.last_sent_for_date||''));")"
+          if [ "$SENT_DATE" = "$TARGET" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Report for $TARGET was already sent; skipping duplicate scheduled attempt."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            echo "Report for $TARGET has not been sent yet."
+          fi
+
       - name: Test X scraper
+        if: steps.sent_guard.outputs.skip != 'true'
         working-directory: twitter_to_md
         run: |
           set -euo pipefail
@@ -85,6 +124,7 @@ jobs:
           echo "::endgroup::"
 
       - name: Test summary + website
+        if: steps.sent_guard.outputs.skip != 'true'
         working-directory: kruse-summary
         run: |
           set -euo pipefail
@@ -95,23 +135,8 @@ jobs:
           npm test
           echo "::endgroup::"
 
-      - name: Pick target date
-        id: target
-        env:
-          REPORT_TIME_ZONE: ${{ vars.REPORT_TIME_ZONE || 'Asia/Jerusalem' }}
-        run: |
-          set -euo pipefail
-          INPUT_DATE="${{ github.event.inputs.date || github.event.client_payload.date }}"
-          if [ -n "$INPUT_DATE" ]; then
-            TARGET="$INPUT_DATE"
-          else
-            # Scheduled/manual default -> current day in the report timezone.
-            TARGET=$(TZ="$REPORT_TIME_ZONE" date +%Y-%m-%d)
-          fi
-          echo "date=$TARGET" >> $GITHUB_OUTPUT
-          echo "Target date: $TARGET ($REPORT_TIME_ZONE)"
-
       - name: Scrape X tweets
+        if: steps.sent_guard.outputs.skip != 'true'
         working-directory: twitter_to_md
         env:
           XAPI_BEARER_TOKEN: ${{ secrets.XAPI_BEARER_TOKEN }}
@@ -135,6 +160,7 @@ jobs:
           echo "::endgroup::"
 
       - name: Scrape forum
+        if: steps.sent_guard.outputs.skip != 'true'
         working-directory: forum_to_md
         env:
           FORUM_USERNAME: ${{ secrets.FORUM_USERNAME }}
@@ -158,6 +184,7 @@ jobs:
           echo "::endgroup::"
 
       - name: Build report + send email
+        if: steps.sent_guard.outputs.skip != 'true'
         working-directory: kruse-summary
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
@@ -208,6 +235,7 @@ jobs:
           echo "::endgroup::"
 
       - name: Build public report site
+        if: steps.sent_guard.outputs.skip != 'true'
         working-directory: kruse-summary
         env:
           KRUSE_SITE_PUBLIC_BASE_URL: https://guyhouri.github.io/kruse-ai-scrape
@@ -232,6 +260,7 @@ jobs:
           echo "::endgroup::"
 
       - name: Mirror public report site into docs
+        if: steps.sent_guard.outputs.skip != 'true'
         run: |
           set -euo pipefail
           rm -rf docs/reports docs/latest docs/unsubscribe
@@ -245,6 +274,7 @@ jobs:
           cp -R kruse-summary/site/unsubscribe docs/unsubscribe
 
       - name: Commit data + state back to repo
+        if: steps.sent_guard.outputs.skip != 'true'
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: |
@@ -257,6 +287,7 @@ jobs:
           git push origin HEAD:main || true
 
       - name: Trigger CI/CD site deploy
+        if: steps.sent_guard.outputs.skip != 'true'
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: |

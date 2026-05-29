@@ -58,3 +58,50 @@ test('renderer preserves bold markdown and expandable concept explanations', () 
   assert.match(html, /data-concept-level="noob"/);
   assert.match(html, /Doxycycline:<\/strong> An antibiotic/);
 });
+
+test('forum cards render clickable source links and unique concept expanders', () => {
+  const forumUrl = 'https://forum.jackkruse.com/threads/understanding-vortices.32685/';
+  const html = buildReportHtml('2026-05-26', {
+    headline_subtitle: 'Two useful items.',
+    sections: [
+      {
+        title: 'Twitter Updates',
+        cards: [
+          {
+            tag: 'Twitter',
+            lead: 'Twitter mechanism',
+            body: 'Twitter {{concept:shared term}}.',
+            source_ids: ['2059102359872016427'],
+            concepts: {
+              'shared term': { level: 'noob', text: 'Twitter explanation.' },
+            },
+          },
+        ],
+      },
+      {
+        title: 'Forum Updates',
+        cards: [
+          {
+            tag: 'Forum',
+            lead: 'Forum mechanism',
+            body: 'Forum {{concept:shared term}}.',
+            source_urls: [forumUrl],
+            concepts: {
+              'shared term': { level: 'noob', text: 'Forum explanation.' },
+            },
+          },
+        ],
+      },
+    ],
+    forum: { bullets: [] },
+  });
+
+  assert.match(
+    html,
+    new RegExp(`<a href="${forumUrl}" target="_blank" rel="noopener noreferrer" class="source-link">Read full source`),
+  );
+  assert.match(html, /onclick="toggleConcept\('c-0-0'\)">shared term<\/span>/);
+  assert.match(html, /id="c-0-0" class="expanded-content"[\s\S]*Twitter explanation\./);
+  assert.match(html, /onclick="toggleConcept\('c-1-0'\)">shared term<\/span>/);
+  assert.match(html, /id="c-1-0" class="expanded-content"[\s\S]*Forum explanation\./);
+});

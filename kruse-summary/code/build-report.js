@@ -41,8 +41,8 @@ function renderForumSection(forumDay, summaryForum, hasCuratedSummary = false) {
     let conceptCursor = 1000; // separate id-namespace from twitter cards
     const items = summaryForum.bullets.map((b) => {
       const link = b.thread_url
-        ? `<a href="${esc(b.thread_url)}" target="_blank" class="source-link">See full thread →</a>`
-        : `<a href="https://forum.jackkruse.com" target="_blank" class="source-link">forum.jackkruse.com →</a>`;
+        ? `<a href="${esc(b.thread_url)}" target="_blank" rel="noopener noreferrer" class="source-link">See full thread →</a>`
+        : `<a href="https://forum.jackkruse.com" target="_blank" rel="noopener noreferrer" class="source-link">forum.jackkruse.com →</a>`;
       const { html: bodyHtml, expanded } = renderBodyWithConcepts(b.summary || '', b.concepts || {}, conceptCursor++);
       return `<li>
         <div class="forum-item">
@@ -70,7 +70,7 @@ function renderForumSection(forumDay, summaryForum, hasCuratedSummary = false) {
       <div class="forum-item">
         <div class="forum-meta">
           <strong>${esc(p.thread_title)}:</strong>
-          <a href="${esc(p.thread_url)}" target="_blank" class="source-link">See full thread →</a>
+          <a href="${esc(p.thread_url)}" target="_blank" rel="noopener noreferrer" class="source-link">See full thread →</a>
         </div>
         <div class="item-text" style="color:var(--text-muted);font-size:0.85rem;">${esc(meta)}</div>
       </div>
@@ -186,7 +186,7 @@ function renderCuratedCard(card, idx) {
   // filtered out so flex `gap` doesn't apply between phantom items.
   const bodyBlock = `<div class="card-body"><div class="item-text">${lead}${bodyHtml}</div>${expanded}</div>`;
   const sections = [
-    `<div class="card-header"><span class="tag">${esc(card.tag || 'Update')}</span><a href="${esc(sourceLink)}" target="_blank" class="source-link">Read full source →</a></div>`,
+    `<div class="card-header"><span class="tag">${esc(card.tag || 'Update')}</span><a href="${esc(sourceLink)}" target="_blank" rel="noopener noreferrer" class="source-link">Read full source →</a></div>`,
     bodyBlock,
     pointsBlock,
     citationsHtml,
@@ -213,7 +213,7 @@ function renderFallbackTweetCard(t, idx) {
   return `      <div class="card">
         <div class="card-header">
           <span class="tag">${esc(tag)}</span>
-          <a href="${sourceLink}" target="_blank" class="source-link">Read full source →</a>
+          <a href="${sourceLink}" target="_blank" rel="noopener noreferrer" class="source-link">Read full source →</a>
         </div>
         <div class="item-text">${body}</div>
         ${quoted}
@@ -240,8 +240,9 @@ function renderEmptySectionCard(sectionTitle, day, forumDay) {
 }
 
 function renderSections(summary, day, forumDay) {
+  let cardCursor = 0;
   return summary.sections.map((sec) => {
-    const cards = sec.cards.map((c, i) => renderCuratedCard(c, i)).join('\n');
+    const cards = sec.cards.map((c) => renderCuratedCard(c, cardCursor++)).join('\n');
     const body = cards || renderEmptySectionCard(sec.title, day, forumDay);
     return `      <div class="section-title">${esc(sec.title)}</div>
 ${body}`;

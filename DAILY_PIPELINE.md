@@ -9,7 +9,7 @@ report from the last 24 hours of X and forum activity.
 
 The active automation is `.github/workflows/daily-kruse-summary.yml`.
 
-- Runs with staggered scheduled attempts and a user-facing target of
+- Runs with frequent scheduled attempts around the user-facing target of
   `04:00 Asia/Jerusalem`.
 - Uses `REPORT_TIME_ZONE`, default `Asia/Jerusalem`, to choose the report date
   and the local send time.
@@ -37,16 +37,15 @@ The report date is not hardcoded. The workflow picks it like this:
 
 The desired product behavior is simple: the email should already be in the
 mailbox at `04:00` Israel time. GitHub's cron syntax is UTC-only, so the YAML
-uses staggered UTC triggers and the workflow has a `Wait until 04:00 Israel
-time` step. In Israel summer time, the first two attempts usually wait until
-04:00 and the third attempt starts after the target time. In Israel winter
-time, the wait step handles the offset. There is no sunrise API in the send
-path.
+uses frequent UTC triggers around the local 04:00 window and the workflow has a
+`Wait until 04:00 Israel time` step. After the first successful send,
+`last-sent.json` makes later scheduled attempts skip before tests, scraping,
+Anthropic, or email. There is no sunrise API in the send path.
 
 If the workflow does not appear at the scheduled minute, that is not a date
 calculation bug by itself. GitHub scheduled workflows can start late or fail to
-start. The staggered attempts reduce the risk, but the strongest fix is an
-external watchdog, not changing the report-date logic.
+start. Frequent attempts reduce the risk, but the strongest fix is an external
+watchdog, not changing the report-date logic.
 
 ## Pipeline Steps
 
@@ -54,25 +53,27 @@ The daily workflow is intentionally linear. If a required step fails, later
 steps do not run.
 
 1. Checkout `main`.
-2. On scheduled runs, wait until `04:00` in `REPORT_TIME_ZONE`.
-3. Install and test `twitter_to_md`.
-4. Install and test `kruse-summary`.
-5. Pick the target report date.
-6. Scrape X as a rolling 24-hour window into
+2. Pick the target report date.
+3. On scheduled runs, wait until `04:00` in `REPORT_TIME_ZONE`.
+4. If `last-sent.json` already says this date was sent, skip the duplicate
+   scheduled attempt before tests or API calls.
+5. Install and test `twitter_to_md`.
+6. Install and test `kruse-summary`.
+7. Scrape X as a rolling 24-hour window into
    `twitter_to_md/data/<date>.json`.
-7. Scrape forum activity into `forum_to_md/daily/<date>.json`.
-8. Sync Supabase mailing-list rows into `kruse-summary/mailing_list.json`.
-9. Build combined daily input at `kruse-summary/curated/<date>-input.json`.
-10. Run Anthropic prompt chain and validation.
-11. Render `kruse-summary/out/<date>.html`.
-12. Send the email if the run mode allows sending and the date was not already
+8. Scrape forum activity into `forum_to_md/daily/<date>.json`.
+9. Sync Supabase mailing-list rows into `kruse-summary/mailing_list.json`.
+10. Build combined daily input at `kruse-summary/curated/<date>-input.json`.
+11. Run Anthropic prompt chain and validation.
+12. Render `kruse-summary/out/<date>.html`.
+13. Send the email if the run mode allows sending and the date was not already
     sent.
-13. Write `kruse-summary/last-sent.json` only after email succeeds.
-14. Build the static public site into `kruse-summary/site`.
-15. Mirror the static site into `docs`.
-16. Commit generated artifacts and push to `main`.
-17. Dispatch the CI/CD workflow.
-18. CI/CD runs tests again and deploys `docs` to GitHub Pages only after tests
+14. Write `kruse-summary/last-sent.json` only after email succeeds.
+15. Build the static public site into `kruse-summary/site`.
+16. Mirror the static site into `docs`.
+17. Commit generated artifacts and push to `main`.
+18. Dispatch the CI/CD workflow.
+19. CI/CD runs tests again and deploys `docs` to GitHub Pages only after tests
     pass.
 
 ## AI Summary Chain
@@ -115,10 +116,10 @@ kruse-summary: npm test
 
 The CI/CD workflow repeats the same tests before deploying the public website.
 
-Tests cover the X daily JSON behavior, summary validation repairs, site build
-behavior, email recipient filtering, Supabase form behavior, and unsubscribe
-logic. The practical rule is simple: if tests fail, the workflow must not send
-or deploy.
+Tests cover the X daily JSON behavior, summary validation repairs, report
+rendering behavior, source-link/concept-link behavior, site build behavior,
+email recipient filtering, Supabase form behavior, and unsubscribe logic. The
+practical rule is simple: if tests fail, the workflow must not send or deploy.
 
 ## Failure Behavior
 
