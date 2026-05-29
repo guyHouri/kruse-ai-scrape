@@ -1,0 +1,924 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kruse Report 29/05/2026</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    /* Dark theme (default) */
+    :root {
+      --bg-color: #0b0f19;
+      --card-bg: #151c2c;
+      --card-border: #202b42;
+      --card-border-hover: #2e3e5f;
+      --section-rule: #24314b;
+      --text-color: #f3f4f6;
+      --text-soft: #cbd5e1;
+      --text-body: #e5e7eb;
+      --text-muted: #9ca3af;
+      --accent-color: #3b82f6;
+      --accent-hover: #60a5fa;
+      --locked-color: #4b5563;
+      --tag-bg: #1e293b;
+      --quote-bg: #0f1524;
+      --quote-rule: #4b5563;
+      --expanded-bg: #0f1524;
+      --locked-grad-start: #151c2c;
+      --locked-grad-end: #111622;
+      --locked-dash: #2d3748;
+      --locked-badge-bg: #27272a;
+      --locked-badge-fg: #a1a1aa;
+      --footer-color: #6b7280;
+      --toggle-bg: rgba(255,255,255,0.06);
+      --toggle-border: rgba(255,255,255,0.12);
+    }
+    /* Light theme — toggled by class on <body> */
+    body.light {
+      --bg-color: #f9fafb;
+      --card-bg: #ffffff;
+      --card-border: #e5e7eb;
+      --card-border-hover: #cbd5e1;
+      --section-rule: #e5e7eb;
+      --text-color: #0f172a;
+      --text-soft: #334155;
+      --text-body: #1f2937;
+      --text-muted: #6b7280;
+      --accent-color: #2563eb;
+      --accent-hover: #1d4ed8;
+      --locked-color: #94a3b8;
+      --tag-bg: #eff6ff;
+      --quote-bg: #f1f5f9;
+      --quote-rule: #cbd5e1;
+      --expanded-bg: #f1f5f9;
+      --locked-grad-start: #ffffff;
+      --locked-grad-end: #f3f4f6;
+      --locked-dash: #cbd5e1;
+      --locked-badge-bg: #e5e7eb;
+      --locked-badge-fg: #475569;
+      --footer-color: #94a3b8;
+      --toggle-bg: rgba(0,0,0,0.04);
+      --toggle-border: rgba(0,0,0,0.12);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', sans-serif; }
+    body { background-color: var(--bg-color); color: var(--text-color); padding: 40px 20px; display: flex; justify-content: center; align-items: flex-start; min-height: 100vh; transition: background-color 0.2s ease, color 0.2s ease; }
+    .container { width: 100%; max-width: 650px; display: flex; flex-direction: column; gap: 20px; }
+    header { text-align: center; margin-bottom: 10px; position: relative; padding-top: 48px; }
+    h1 { font-size: 2.3rem; font-weight: 700; letter-spacing: -0.5px; background: linear-gradient(45deg, #3b82f6, #9333ea); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; margin-bottom: 4px; }
+    .subtitle { font-size: 1rem; color: var(--text-muted); font-weight: 300; }
+    .theme-toggle { position: absolute; top: 0; right: 0; background: var(--toggle-bg); border: 1px solid var(--toggle-border); color: var(--text-color); cursor: pointer; padding: 6px 10px; border-radius: 20px; font-size: 0.85rem; line-height: 1; transition: background 0.2s ease; }
+    .theme-toggle:hover { background: var(--card-border); }
+    .level-toggle { position: absolute; top: 0; left: 0; display: flex; gap: 4px; background: var(--toggle-bg); border: 1px solid var(--toggle-border); border-radius: 20px; padding: 3px; }
+    .level-toggle button { background: transparent; color: var(--text-muted); border: none; cursor: pointer; padding: 4px 10px; border-radius: 16px; font-size: 0.8rem; font-weight: 600; transition: background 0.15s ease, color 0.15s ease; }
+    .level-toggle button.active { background: var(--accent-color); color: #fff; }
+    .level-toggle button:hover:not(.active) { color: var(--text-color); }
+    /* Concept-level gating: pro reader hides noob-only chips; hacker hides all. */
+    body.level-pro .expandable-concept[data-concept-level="noob"],
+    body.level-hacker .expandable-concept[data-concept-level] {
+      color: inherit; border-bottom: none; cursor: default; font-weight: inherit; pointer-events: none;
+    }
+    body.level-pro .expanded-content[data-concept-level="noob"],
+    body.level-hacker .expanded-content { display: none !important; }
+    .section-title { font-size: 1.3rem; font-weight: 700; color: var(--accent-hover); border-bottom: 1px solid var(--section-rule); padding-bottom: 6px; margin-top: 10px; }
+    .card { background-color: var(--card-bg); border: 1px solid var(--card-border); border-radius: 12px; padding: 14px 18px; display: flex; flex-direction: column; gap: 8px; transition: border-color 0.2s ease, background-color 0.2s ease; }
+    .card-body, .card-points { display: flex; flex-direction: column; gap: 4px; }
+    .card-points ul { margin: 0; }
+    .card:hover { border-color: var(--card-border-hover); }
+    .card-header { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .tag { background-color: var(--tag-bg); color: var(--accent-color); padding: 2px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; }
+    .source-link { font-size: 0.8rem; color: var(--text-muted); text-decoration: none; border-bottom: 1px dashed var(--text-muted); transition: all 0.2s ease; }
+    .source-link:hover { color: var(--accent-hover); border-bottom-color: var(--accent-hover); }
+    .item-text { font-size: 1rem; line-height: 1.45; color: var(--text-body); }
+    .source-quote { background: var(--quote-bg); border-left: 3px solid var(--quote-rule); border-radius: 4px 8px 8px 4px; padding: 10px 14px; font-style: italic; font-size: 0.92rem; color: var(--text-muted); }
+    .citations { padding: 8px 12px; background: var(--quote-bg); border-radius: 8px; }
+    .citations-label { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--accent-hover); letter-spacing: 0.04em; margin-bottom: 6px; }
+    .citations ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }
+    .citation-paper { font-size: 0.85rem; color: var(--text-body); font-weight: 600; }
+    .citation-claim { font-size: 0.82rem; color: var(--text-muted); line-height: 1.4; margin-top: 2px; }
+    .bullet-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px; }
+    .bullet-list li { position: relative; padding-left: 18px; line-height: 1.45; font-size: 1rem; }
+    .bullet-list li::before { content: "•"; color: var(--accent-color); font-weight: bold; position: absolute; left: 0; top: 0; }
+    .forum-item { display: flex; flex-direction: column; gap: 4px; }
+    .forum-meta { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+    .expandable-concept { color: var(--accent-hover); border-bottom: 1px dashed var(--accent-hover); cursor: pointer; font-weight: 600; }
+    .expanded-content { max-height: 0; overflow: hidden; background-color: var(--expanded-bg); border-radius: 6px; padding: 0 12px; margin: 0; transition: max-height 0.25s ease, padding 0.25s ease, margin 0.25s ease; font-size: 0.9rem; color: var(--text-soft); }
+    .expanded-content.open { max-height: 500px; padding: 10px 12px; margin-top: 4px; margin-bottom: 4px; border-left: 3px solid var(--accent-color); }
+    .locked-section { background: linear-gradient(180deg, var(--locked-grad-start) 0%, var(--locked-grad-end) 100%); border: 1px dashed var(--locked-dash); border-radius: 12px; padding: 24px; text-align: center; opacity: 0.85; }
+    .locked-title { font-size: 1.1rem; font-weight: 600; color: var(--locked-color); margin-bottom: 4px; }
+    .locked-badge { font-size: 0.7rem; background-color: var(--locked-badge-bg); color: var(--locked-badge-fg); padding: 1px 6px; border-radius: 4px; font-weight: 700; margin-left: 6px; }
+    footer { text-align: center; color: var(--footer-color); font-size: 0.75rem; margin-top: 12px; }
+    footer a { color: var(--footer-color); }
+  </style>
+<style>
+    html { scroll-behavior: smooth; }
+    body {
+      --site-bg: #0b0f19;
+      --site-panel: #121a2a;
+      --site-panel-2: #0d1422;
+      --site-border: #26334d;
+      --site-text: #f4f7fb;
+      --site-soft: #c6d2e1;
+      --site-muted: #8fa0b5;
+      --site-accent: #4ea1ff;
+      --site-success: #7bdcb5;
+      --site-danger: #ffbd7a;
+      --site-button-text: #06101d;
+      padding: 32px 16px 48px !important;
+      flex-direction: column !important;
+      justify-content: flex-start !important;
+      align-items: flex-start !important;
+    }
+    body.light {
+      --site-bg: #f7f9fc;
+      --site-panel: #ffffff;
+      --site-panel-2: #f8fafc;
+      --site-border: #d8e0ea;
+      --site-text: #111827;
+      --site-soft: #334155;
+      --site-muted: #64748b;
+      --site-accent: #2563eb;
+      --site-success: #047857;
+      --site-danger: #b45309;
+      --site-button-text: #ffffff;
+    }
+    body.site-drawer-open { overflow: hidden; }
+    .container {
+      max-width: 690px !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+    .site-menu-button {
+      position: fixed;
+      top: 16px;
+      left: 16px;
+      z-index: 80;
+      width: 44px;
+      height: 44px;
+      border: 1px solid var(--site-border);
+      border-radius: 8px;
+      background: var(--site-panel);
+      color: var(--site-text);
+      font-size: 1.45rem;
+      line-height: 1;
+      cursor: pointer;
+      box-shadow: 0 12px 30px rgba(0,0,0,0.28);
+    }
+    .site-report-backdrop {
+      position: fixed;
+      inset: 0;
+      z-index: 88;
+      background: rgba(3,7,18,0.58);
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.18s ease;
+    }
+    .site-report-drawer {
+      position: fixed;
+      inset: 0 auto 0 0;
+      z-index: 90;
+      width: min(320px, calc(100vw - 48px));
+      padding: 18px;
+      background: var(--site-bg);
+      border-right: 1px solid var(--site-border);
+      transform: translateX(-105%);
+      transition: transform 0.2s ease;
+      box-shadow: 24px 0 60px rgba(0,0,0,0.38);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    body.site-drawer-open .site-report-backdrop {
+      opacity: 1;
+      pointer-events: auto;
+    }
+    body.site-drawer-open .site-report-drawer { transform: translateX(0); }
+    .site-drawer-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 16px;
+      padding-bottom: 16px;
+      margin-bottom: 12px;
+      border-bottom: 1px solid var(--site-border);
+    }
+    .site-drawer-kicker {
+      margin-bottom: 4px;
+      color: var(--site-muted);
+      font-size: 0.78rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .site-drawer-title { color: var(--site-text); font-size: 1rem; font-weight: 850; line-height: 1.25; }
+    .site-drawer-close {
+      width: 34px;
+      height: 34px;
+      flex: 0 0 auto;
+      border: 1px solid var(--site-border);
+      border-radius: 8px;
+      background: var(--site-panel);
+      color: var(--site-text);
+      font-size: 1.3rem;
+      line-height: 1;
+      cursor: pointer;
+    }
+    .site-drawer-link {
+      display: block;
+      padding: 12px;
+      margin-bottom: 8px;
+      border: 1px solid var(--site-border);
+      border-radius: 8px;
+      background: var(--site-panel);
+      color: var(--site-text);
+      text-decoration: none;
+    }
+    .site-drawer-link strong { display: block; font-size: 0.95rem; }
+    .site-drawer-link span { display: block; margin-top: 3px; color: var(--site-muted); font-size: 0.82rem; line-height: 1.35; }
+    .site-report-footer {
+      width: min(690px, calc(100% - 32px));
+      margin: 34px auto 48px;
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 16px;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .site-report-panel {
+      padding: 18px;
+      background: var(--site-panel);
+      border: 1px solid var(--site-border);
+      border-radius: 8px;
+      color: var(--site-text);
+    }
+    .site-report-panel h2 {
+      margin: 0 0 8px;
+      color: var(--site-text);
+      font-size: 1.2rem;
+      letter-spacing: 0;
+    }
+    .site-report-panel p { margin: 0 0 14px; color: var(--site-soft); line-height: 1.45; }
+    .site-report-panel label { display: block; margin: 10px 0 6px; color: var(--site-muted); font-size: 0.82rem; font-weight: 800; }
+    .site-report-panel input,
+    .site-report-panel textarea,
+    .site-report-panel select {
+      width: 100%;
+      min-height: 40px;
+      border: 1px solid var(--site-border);
+      border-radius: 6px;
+      background: var(--site-panel-2);
+      color: var(--site-text);
+      padding: 0 10px;
+      font: inherit;
+    }
+    .site-report-panel textarea { min-height: 118px; padding: 10px; resize: vertical; }
+    .site-report-panel button {
+      width: 100%;
+      margin-top: 14px;
+      min-height: 42px;
+      border: 0;
+      border-radius: 6px;
+      background: var(--site-accent);
+      color: var(--site-button-text);
+      font-weight: 900;
+      cursor: pointer;
+    }
+    .site-report-panel button:disabled { opacity: 0.55; cursor: not-allowed; }
+    .site-report-panel .form-link {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      margin-top: 14px;
+      min-height: 42px;
+      border-radius: 6px;
+      background: var(--site-accent);
+      color: var(--site-button-text);
+      font-weight: 900;
+      text-decoration: none;
+    }
+    .site-report-form-note { margin-top: 12px; color: var(--site-muted); font-size: 0.82rem; line-height: 1.4; }
+    .site-report-form-success { margin-top: 12px; color: var(--site-success); font-size: 0.88rem; font-weight: 800; }
+    .site-report-form-error { margin-top: 12px; color: var(--site-danger); font-size: 0.88rem; font-weight: 800; }
+    @media (max-width: 760px) {
+      body { padding: 24px 12px 40px !important; }
+      .site-menu-button { top: 12px; left: 12px; }
+      .site-report-footer { width: calc(100% - 24px); }
+    }
+  </style>
+</head>
+<body>
+<button type="button" class="site-menu-button" id="siteMenuButton" aria-label="Open report menu" aria-controls="siteReportDrawer" aria-expanded="false">&#9776;</button>
+  <div class="site-report-backdrop" data-site-menu-close></div>
+  <nav class="site-report-drawer" id="siteReportDrawer" aria-label="Report menu">
+    <div class="site-drawer-header">
+      <div>
+        <div class="site-drawer-kicker">Kruse Report</div>
+        <div class="site-drawer-title">May 29, 2026</div>
+      </div>
+      <button type="button" class="site-drawer-close" data-site-menu-close aria-label="Close report menu">&times;</button>
+    </div>
+    <a class="site-drawer-link" href="../index.html"><strong>All reports</strong><span>Back to the archive.</span></a>
+    <a class="site-drawer-link" href="../latest/"><strong>Latest report</strong><span>Jump to the newest daily report.</span></a>
+    <a class="site-drawer-link" href="#get-report"><strong>Get this report</strong><span>Email signup lives at the end of this report.</span></a>
+    <a class="site-drawer-link" href="#report-feedback"><strong>Improve this report</strong><span>Leave feedback we can use later for prompt tuning.</span></a>
+    <a class="site-drawer-link" href="../unsubscribe/"><strong>Unsubscribe</strong><span>Remove your email from future sends.</span></a>
+  </nav>
+
+  <div class="container">
+    <header>
+      <div class="level-toggle" role="tablist" aria-label="Reader knowledge level">
+        <button type="button" data-level="noob"   aria-pressed="false">Noob</button>
+        <button type="button" data-level="pro"    aria-pressed="true">Pro</button>
+        <button type="button" data-level="hacker" aria-pressed="false">Hacker</button>
+      </div>
+      <button type="button" class="theme-toggle" id="themeToggle" aria-label="Toggle dark/light mode">🌙 Dark</button>
+      <h1>Kruse Report 29/05/2026</h1>
+      <div class="subtitle">Geomagnetic excursions, deuterium overload, and quantum cellular collapse: ancient architecture, modern arrhythmias, and GLP-1 agonist mechanisms</div>
+    </header>
+      <div class="section-title">Twitter Updates</div>
+      <div class="card"><div class="card-header"><span class="tag">Ancient architecture, magnetospheric protection</span><a href="https://x.com/i/status/2060148618112155852" target="_blank" rel="noopener noreferrer" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Göbekli Tepe and El Caracol as paramagnetic grounding capacitors engineered to protect against geomagnetic excursion collapse</strong> Kruse presents ancient stone monuments as quantum-engineered structures tuned to protect human biology during magnetospheric collapse. Göbekli Tepe&#39;s T-shaped limestone pillars were arranged in circular configurations to function as a macro-scale spatial filter and acoustic-magnetic waveguide, tuned to a permanent 110 Hz acoustic cavity resonance. This maintained the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-0')">Exclusion Zone</span> water state (κ=160) and protected the germline from informational erasure. El Caracol tracked Venus&#39;s orbital alignments and Earth&#39;s magnetotelluric circuit to anticipate crustal displacement. When the global magnetic dipole drops past the 30% <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-1')">Laschamp Equivalent</span> threshold, cosmogenic deuterium and tritium flood the water table, triggering an <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-2')">oxygen-deuterium kinetic isotope effect</span> that blocks <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-3')">triplet oxygen</span> cofactors, collapses <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-0-4')">melanin</span> and <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-0-5')">dopamine</span> production, and forces atavistic tissue retreat (<span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-0-6')">hiatal hernia</span>, EDS, ALS/TBI).</div><div id="c-0-0" class="expanded-content" data-concept-level="pro">
+      <strong>Exclusion Zone:</strong> Highly ordered, crystalline water layer (dielectric constant κ≈160) that forms at hydrophilic surfaces and in biological systems. Maintains coherence and protects cells from chaotic Ultra-weak Photon Emission.
+    </div>
+<div id="c-0-1" class="expanded-content" data-concept-level="pro">
+      <strong>Laschamp Equivalent:</strong> Threshold at 30% of normal magnetic dipole strength. When Earth&#39;s magnetic field drops below this level, cosmic ray spallation floods water tables with cosmogenic deuterium and tritium, triggering oxygen-deuterium kinetic isotope effect that blocks triplet oxygen cofactors.
+    </div>
+<div id="c-0-2" class="expanded-content" data-concept-level="pro">
+      <strong>oxygen-deuterium kinetic isotope effect:</strong> Physical phenomenon where the heavier deuterium isotope slows chemical reaction rates. When deuterium embeds in water and biological molecules, it blocks the proton tunneling that normally powers enzymatic reactions, particularly those requiring triplet oxygen as cofactor.
+    </div>
+
+<div id="c-0-4" class="expanded-content" data-concept-level="noob">
+      <strong>melanin:</strong> A technical term used by the selected source. The report keeps &quot;melanin&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-0-5" class="expanded-content" data-concept-level="noob">
+      <strong>dopamine:</strong> A technical term used by the selected source. The report keeps &quot;dopamine&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-0-6" class="expanded-content" data-concept-level="noob">
+      <strong>hiatal hernia:</strong> A condition where part of the stomach pushes up through the diaphragm opening. It can worsen reflux by weakening the normal barrier between stomach and esophagus.
+    </div></div><div class="card-points"><ul class="bullet-list"><li><strong>Mechanism.</strong> <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-0')">Paramagnetic</span> stone geometry + 110 Hz acoustic cavity resonance -&gt; macro-scale spatial filter -&gt; maintains <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-1')">Exclusion Zone</span> water (κ=160) -&gt; protects intracellular water from <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-2')">Ultra-weak Photon Emission</span> matrix fire. During geomagnetic excursion: cosmogenic deuterium mass loading -&gt; oxygen-deuterium kinetic isotope effect -&gt; iron-dependent enzyme block -&gt; triplet oxygen loss -&gt; melanin/dopamine collapse -&gt; <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-3')">CISS</span> spin-filter drop 72.25% (κ=160-&gt;78) -&gt; <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-0-4')">Chromosome 2 interstitial telomeric loop</span> fuse blowout -&gt; <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-0-5')">p53</span> surge -&gt; <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-0-6')">atavistic retreat</span>.</li><li><strong>Geographic signal.</strong> Ancient sites in <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-0')">SAA</span>-adjacent regions (Peru, Egypt) show skull elongation and tissue atrophy as adaptive response to geomagnetic excursion-driven deuterium overload and triplet oxygen loss. Modern populations in expanding SAA face same biophysical stress without architectural or grounding protection.</li><li><strong>Why it matters.</strong> Ancient architects understood that structure, pressure, and geometry rule information. Modern centralized medicine dismisses these sites as superstition while populations in geomagnetically unstable zones experience accelerating metabolic disease and wound-healing failure.</li></ul>
+<div id="c-0-1" class="expanded-content" data-concept-level="pro">
+      <strong>Exclusion Zone:</strong> Highly ordered, crystalline water layer (dielectric constant κ≈160) that forms at hydrophilic surfaces and in biological systems. Maintains coherence and protects cells from chaotic Ultra-weak Photon Emission.
+    </div>
+<div id="c-0-2" class="expanded-content" data-concept-level="pro">
+      <strong>Ultra-weak Photon Emission:</strong> Chaotic biophotonic radiation released when cellular water loses coherence. Represents loss of quantum order in the intracellular water matrix.
+    </div>
+<div id="c-0-3" class="expanded-content" data-concept-level="pro">
+      <strong>CISS:</strong> Chiral Induced Spin Selectivity - quantum mechanical effect where chiral molecules preferentially transmit electrons of one spin orientation. Acts as a biological spin filter; efficiency drops 72.25% when water dielectric constant collapses from κ=160 to κ=78.
+    </div>
+<div id="c-0-4" class="expanded-content" data-concept-level="pro">
+      <strong>Chromosome 2 interstitial telomeric loop:</strong> Physical fuse structure at chromosome 2 (2q13 - 14) that acts as a circuit breaker. When cellular voltage crashes due to deuterium overload, this loop blows to protect the nucleus from Landauer informational erasure.
+    </div>
+<div id="c-0-5" class="expanded-content" data-concept-level="noob">
+      <strong>p53:</strong> Master switch protein that controls cell cycle and apoptosis. When activated by voltage crash, forces cell into emergency shutdown or atavistic retreat.
+    </div>
+<div id="c-0-6" class="expanded-content" data-concept-level="noob">
+      <strong>atavistic retreat:</strong> A technical term used by the selected source. The report keeps &quot;atavistic retreat&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div><div id="c-1-0" class="expanded-content" data-concept-level="noob">
+      <strong>SAA:</strong> South Atlantic Anomaly - region where Earth&#39;s magnetic field is weakest, allowing increased cosmic ray and solar particle penetration. Expanding geographically and temporally.
+    </div></div><div class="source-quote">The ancient high-agency architects did not build these monuments out of superstitious fear; they were quantum engineers who understood that Structure, Pressure, and Geometry rule Information.</div></div>
+      <div class="card"><div class="card-header"><span class="tag">NAD+, mitochondrial collapse, lattice lock</span><a href="https://x.com/i/status/2060132553919451187" target="_blank" rel="noopener noreferrer" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>NAD+ depletion collapses mitochondrial bandgap potential, triggering dielectric meltdown and cellular lattice lock</strong> Kruse presents <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-0')">NAD+</span> as the essential &#39;gate driver&#39; for the <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-1')">mitochondrial semiconductor</span> grid. When NAD+ drops, the mitochondrial <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-2')">bandgap potential</span> collapses, destroying the electrical potential required to pre-activate the respiratory chain. Incoming solar or red light cannot lock into coherent resonant frequency without active NAD+ pumping. The cell&#39;s underlying water table undergoes immediate phase transition: the <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-3')">Exclusion Zone</span> (κ=160) collapses into bulk amorphous stasis (κ=78), oxygen flips from protective <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-4')">triplet oxygen</span> (3O2) to destructive <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-5')">singlet oxygen</span> (1O2), and free-radical fire destroys melanin, collagen, and lipid frameworks. Deuterium accumulates in the mitochondrial cristae, jamming the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-1-6')">F0-F1 ATP synthase</span> nanomotors. The <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-7')">Chromosome 2 interstitial telomeric loop</span> acts as a physical fuse and blows its circuit, triggering <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-8')">p53</span> master switch surge and forcing the cell into emergency &#39;safe-mode&#39; shutdown - <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-1-9')">atavistic retreat</span> into primitive anaerobic glycolysis.</div><div id="c-1-0" class="expanded-content" data-concept-level="noob">
+      <strong>NAD+:</strong> Nicotinamide adenine dinucleotide - a coenzyme found in all living cells that carries electrons in redox reactions. Acts as a &#39;gate driver&#39; for mitochondrial semiconductor function; when depleted, cells lose ability to maintain coherent electron spin and isotopic filtering.
+    </div>
+<div id="c-1-1" class="expanded-content" data-concept-level="noob">
+      <strong>mitochondrial semiconductor:</strong> A technical term used by the selected source. The report keeps &quot;mitochondrial semiconductor&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-1-2" class="expanded-content" data-concept-level="pro">
+      <strong>bandgap potential:</strong> The energy difference between the valence band and conduction band in a semiconductor. In mitochondria, NAD+ maintains the electrical potential required to activate the respiratory chain and prevent thermal noise eruption.
+    </div>
+<div id="c-1-3" class="expanded-content" data-concept-level="noob">
+      <strong>Exclusion Zone:</strong> A technical term used by the selected source. The report keeps &quot;Exclusion Zone&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-1-4" class="expanded-content" data-concept-level="pro">
+      <strong>triplet oxygen:</strong> The normal ground-state form of molecular oxygen. It has unpaired electron spin, which is why oxygen chemistry often connects to magnetism, spin state, and redox reactions.
+    </div>
+<div id="c-1-5" class="expanded-content" data-concept-level="pro">
+      <strong>singlet oxygen:</strong> Highly reactive form of oxygen (1O2) with paired electron spins. Destructive to cells; produced when deuterium blocks proton tunneling and triplet oxygen flips spin state.
+    </div>
+<div id="c-1-6" class="expanded-content" data-concept-level="pro">
+      <strong>F0-F1 ATP synthase:</strong> Nanomotor protein complex in mitochondrial inner membrane that produces ATP. Normally spins at 9,000 RPM; stalls when deuterium jams the stator or membrane potential drops.
+    </div>
+<div id="c-1-7" class="expanded-content" data-concept-level="noob">
+      <strong>Chromosome 2 interstitial telomeric loop:</strong> A technical term used by the selected source. The report keeps &quot;Chromosome 2 interstitial telomeric loop&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-1-8" class="expanded-content" data-concept-level="noob">
+      <strong>p53:</strong> A technical term used by the selected source. The report keeps &quot;p53&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-1-9" class="expanded-content" data-concept-level="noob">
+      <strong>atavistic retreat:</strong> A technical term used by the selected source. The report keeps &quot;atavistic retreat&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div></div><div class="card-points"><ul class="bullet-list"><li><strong>Mechanism.</strong> NAD+ depletion -&gt; loss of 30 million V/m membrane potential -&gt; thermal noise eruption -&gt; <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-100-0')">biophotonic light leakage</span> -&gt; dielectric meltdown (κ=160-&gt;78) -&gt; singlet oxygen trap (3O2-&gt;1O2) -&gt; Exclusion Zone collapse -&gt; free-radical fire -&gt; melanin/collagen/lipid destruction -&gt; deuterium silt accumulation in cristae -&gt; F0-F1 ATP synthase stator fracture -&gt; sub-nanometer centrifuge stall -&gt; <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-100-1')">Landauer informational erasure</span> -&gt; Chromosome 2 telomeric fuse blowout -&gt; p53 master switch surge -&gt; <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-100-2')">MITF-AMPAR</span> pathway down-regulation -&gt; atavistic retreat to Precambrian anaerobic glycolysis.</li><li><strong>Computational signal.</strong> <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-101-0')">CISS</span> spin-lock efficiency at κ=160 (pristine EZ state): 31.8153%. CISS spin-lock efficiency at κ=78 (bulk amorphous crash): 8.8284%. Total loss of data containment and systemic spin-filtering: 72.25%. This 72.25% quantum spin collapse confirms that chemical patches cannot fix optical, dielectric, and isotopic uncoupling.</li><li><strong>Why it matters.</strong> NAD+ is not just a metabolic cofactor but a quantum gate driver. When NAD+ drops, the cell loses its ability to maintain coherent electron spin and isotopic filtering, forcing cascade into metabolic stasis. This explains why NAD+ boosting via light, grounding, and circadian reset is mechanistically central to preventing <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-102-0')">lattice lock</span>.</li></ul><div id="c-100-0" class="expanded-content" data-concept-level="noob">
+      <strong>biophotonic light leakage:</strong> A technical term used by the selected source. The report keeps &quot;biophotonic light leakage&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-100-1" class="expanded-content" data-concept-level="pro">
+      <strong>Landauer informational erasure:</strong> Thermodynamic principle stating that erasing information requires minimum energy cost (Q=kBTln2). When cellular voltage crashes, the nucleus faces informational erasure; Chromosome 2 telomeric loop acts as physical fuse to prevent data loss.
+    </div>
+<div id="c-100-2" class="expanded-content" data-concept-level="pro">
+      <strong>MITF-AMPAR:</strong> Pathways controlling melanin production (MITF) and glutamate receptor trafficking (AMPAR). Down-regulated during atavistic retreat to reduce high-flux mammalian processing.
+    </div><div id="c-101-0" class="expanded-content" data-concept-level="pro">
+      <strong>CISS:</strong> Chiral Induced Spin Selectivity - quantum mechanical effect where chiral molecules preferentially transmit electrons of one spin orientation. Acts as a biological spin filter; efficiency drops 72.25% when water dielectric constant collapses from κ=160 to κ=78.
+    </div><div id="c-102-0" class="expanded-content" data-concept-level="pro">
+      <strong>lattice lock:</strong> State of cellular stasis where the mitochondrial F0-F1 ATP synthase nanomotors stall due to deuterium accumulation and loss of membrane potential. Cell enters permanent pseudohypoxia and anaerobic glycolysis.
+    </div></div><div class="source-quote">A drop in NAD+ directly collapses the mitochondrial bandgap potential, shifting cellular water from a highly ordered superconductor into a leaky resistor that traps the system in Lattice Lock.</div></div>
+      <div class="card"><div class="card-header"><span class="tag">Aortic calcification, deuterium, dark photons</span><a href="https://x.com/i/status/2060102211170873354" target="_blank" rel="noopener noreferrer" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Aortic calcification is loss of topological sovereignty when the photo-magnetic capacitor disconnects from solar and dark-sector energy</strong> Kruse reframes <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-2-0')">aortic calcification</span> not as atherosclerosis but as loss of <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-2-1')">topological sovereignty</span> when the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-2-2')">photo-magnetic capacitor</span> disconnects from solar and dark-sector energy. The aorta is a quantum capacitor normally powered by solar <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-2-3')">1878 nm</span> infrared (the NIR water window) and dark-sector photon exchange. When the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-2-4')">cranial isotopic refinery</span> fails (poor sleep, no grounding, stalled heart rate variability), deuterium embeds in <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-2-5')">elastin</span>&#39;s chiral spring, shifting vibrational frequency and blocking proton tunneling. This activates <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-2-6')">Piezo1</span> mechanosensitive channels, triggering <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-2-7')">NOX2</span> superoxide cascade and elastin fragmentation. Simultaneously, the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-2-8')">melanin-water battery</span> loses DC current supply from solar phase-lock, and calcium can no longer stay liquid - it crystallizes as the ultimate entropy sink. The aorta petrifies to survive the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-2-9')">Landauer</span> thermodynamic cost of maintaining order under excessive inertial mass.</div><div id="c-2-0" class="expanded-content" data-concept-level="noob">
+      <strong>aortic calcification:</strong> A technical term used by the selected source. The report keeps &quot;aortic calcification&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-2-1" class="expanded-content" data-concept-level="pro">
+      <strong>topological sovereignty:</strong> State in which a biological structure maintains coherent quantum order through connection to external energy sources (solar flux, dark-sector photons). Loss of sovereignty occurs when deuterium overload and melanin-water battery depletion disconnect the structure from these energy portals.
+    </div>
+<div id="c-2-2" class="expanded-content" data-concept-level="pro">
+      <strong>photo-magnetic capacitor:</strong> The aorta&#39;s quantum architecture that stores and releases energy via melanin-elastin interaction with solar and dark-sector photons. When disconnected from these energy sources, the capacitor loses its ability to maintain order.
+    </div>
+<div id="c-2-3" class="expanded-content" data-concept-level="noob">
+      <strong>1878 nm:</strong> Infrared wavelength at which water is relatively transparent and solar energy penetrates tissue. Acts as the natural resonant frequency for elastin&#39;s chiral spring and melanin&#39;s photonic spectrometer.
+    </div>
+<div id="c-2-4" class="expanded-content" data-concept-level="pro">
+      <strong>cranial isotopic refinery:</strong> System in the brain (sphenoid-clival-basilar-thalamic Venturi fractionation column) that separates and clears heavy isotopes like deuterium from cerebrospinal fluid during sleep. Failure leads to deuterium accumulation in blood and tissues.
+    </div>
+<div id="c-2-5" class="expanded-content" data-concept-level="noob">
+      <strong>elastin:</strong> A technical term used by the selected source. The report keeps &quot;elastin&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-2-6" class="expanded-content" data-concept-level="pro">
+      <strong>Piezo1:</strong> Mechanosensitive ion channel activated by mechanical stress. Deuterium-induced vibrations in elastin activate Piezo1, triggering NOX2 cascade and tissue degradation.
+    </div>
+<div id="c-2-7" class="expanded-content" data-concept-level="pro">
+      <strong>NOX2:</strong> NADPH oxidase 2 - enzyme that produces superoxide free radicals. Activated by Piezo1, leading to elastin fragmentation and vascular inflammation.
+    </div>
+<div id="c-2-8" class="expanded-content" data-concept-level="pro">
+      <strong>melanin-water battery:</strong> Melanin&#39;s ability to store and deliver DC current via interaction with structured water. Powered by solar photons; loses function when disconnected from solar phase-lock.
+    </div>
+<div id="c-2-9" class="expanded-content" data-concept-level="pro">
+      <strong>Landauer:</strong> Landauer principle - thermodynamic law stating that erasing information requires minimum energy cost. Extra inertial mass raises this cost; aorta petrifies to lower the bill.
+    </div></div><div class="card-points"><ul class="bullet-list"><li><strong>Mechanism.</strong> Failed <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-200-0')">sphenoid-clival-thalamic Venturi</span> (poor sleep, no grounding) -&gt; deuterium embeds in elastin chiral spring -&gt; mass loading + quantum tunneling block -&gt; chaotic micro-vibrations -&gt; Piezo1 activation -&gt; NOX2 superoxide burst -&gt; elastin fragmentation (<span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-200-1')">elastokines</span>) -&gt; inflammatory <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-200-2')">monocyte</span> recruitment. Parallel: melanin-water battery loses solar phase-lock -&gt; DC current drops -&gt; calcium can no longer stay liquid -&gt; crystallizes as petrification. Landauer principle: extra inertial mass raises thermodynamic cost of information processing; aorta lowers cost by freezing into calcified scar.</li><li><strong>Physics signal.</strong> The 2026 dark-photon review (Caputo &amp; Essig, arXiv:2603.08430) maps <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-201-0')">dark photons</span> as portals to hidden sector that kinetically mix with ordinary photons and mediate energy/information exchange between visible and dark sectors. In the living aorta, this exchange is not abstract - it is the daily maintenance signal that keeps the elastin-melanin matrix ordered.</li><li><strong>Why it matters.</strong> Aortic calcification is not passive aging or LDL-driven atherosclerosis but active loss of topological sovereignty when the cranial isotopic refinery fails. Restore sphenoid X-axis solar reset (1878 nm), ground Y-axis (vagus), clear deuterium, and aorta regains coherence. <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-202-0')">CAC</span> scores are visible scars of lost photo-magnetic capacitor function.</li></ul><div id="c-200-0" class="expanded-content" data-concept-level="pro">
+      <strong>sphenoid-clival-thalamic Venturi:</strong> Anatomical fractionation column in the brain where cerebrospinal fluid is sorted and heavy isotopes are cleared during sleep. Failure allows deuterium to accumulate in blood.
+    </div>
+<div id="c-200-1" class="expanded-content" data-concept-level="noob">
+      <strong>elastokines:</strong> A technical term used by the selected source. The report keeps &quot;elastokines&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-200-2" class="expanded-content" data-concept-level="noob">
+      <strong>monocyte:</strong> A technical term used by the selected source. The report keeps &quot;monocyte&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div><div id="c-201-0" class="expanded-content" data-concept-level="pro">
+      <strong>dark photons:</strong> Hypothetical particles that mediate interaction between visible and dark sectors. In living aorta, dark photon exchange maintains elastin-melanin matrix order.
+    </div><div id="c-202-0" class="expanded-content" data-concept-level="noob">
+      <strong>CAC:</strong> Coronary artery calcium score - measure of calcification in coronary arteries. Visible scar of lost photo-magnetic capacitor function and topological sovereignty.
+    </div></div><div class="citations"><div class="citations-label">Citations</div><ul><li class="citation"><div class="citation-paper">Dark Photon: a 2026 Perspective (Caputo &amp; Essig, arXiv:2603.08430)</div><div class="citation-claim">Maps dark photons as portals to hidden sector that kinetically mix with ordinary photons, produce astrophysical signatures, and mediate energy/information exchange between visible and dark sectors. In living aorta, this exchange maintains elastin-melanin matrix order.</div></li></ul></div><div class="source-quote">Deuterium (2H) at normal serum levels (12–14 mmol/L) is harmless in bulk blood. When the cranial isotopic refinery stalls in blood (HRV stall), it embeds in the chiral spring of elastin in the arterial wall to cause PAD: Mass loading: Deuterium is twice the mass of protium, so it shifts the natural vibrational frequency of the elastin polymer.</div></div>
+      <div class="card"><div class="card-header"><span class="tag">Cardiac arrhythmias, deuterium, Lagrangian mechanics</span><a href="https://x.com/i/status/2060105087502954514" target="_blank" rel="noopener noreferrer" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Arrhythmias are physics-driven compensation for deuterium-laden blood overloading the heart&#39;s Lagrangian gravity well</strong> Kruse reframes arrhythmias not as ion-channel diseases but as the heart performing a parallel mass-quench response to excessive <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-3-0')">inertial mass</span> from deuterium overload. The heart is the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-3-1')">Lagrangian</span> gravity well of the body&#39;s mass-energy balance. When the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-3-2')">cranial isotopic refinery</span> fails (poor sleep, no grounding, stalled heart rate variability), deuterium puddles in <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-3-3')">cerebrospinal fluid</span> and circulates in blood. Serum deuterium at 12 - 14 mmol/L is the single most abundant vital element, far exceeding calcium, magnesium, potassium, or glucose. High deuterium jams <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-3-4')">ATP synthase</span>, drops ATP output ~5%, forcing compensatory heart rate increase up to ~28%. <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-3-5')">Hypocretin</span> suppression (from high inertial mass sensed via <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-3-6')">tanycytes</span> in the 3rd/4th ventricle) modulates autonomic tone. <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-3-7')">Elastin</span> degradation in vessels and valves from deuterium-induced <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-3-8')">Piezo1</span> activation and <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-3-9')">NOX2</span> cascade causes calcification, stretch-sensitive channel activation, and <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-3-10')">re-entry circuits</span> for atrial fibrillation.</div><div id="c-3-0" class="expanded-content" data-concept-level="noob">
+      <strong>inertial mass:</strong> A technical term used by the selected source. The report keeps &quot;inertial mass&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-3-1" class="expanded-content" data-concept-level="pro">
+      <strong>Lagrangian:</strong> Physics framework where L = kinetic energy (T) minus potential energy (V). For the heart: T = pulsatile kinetic flow; V = gravitational/isotopic potential from circulating deuterium-rich water. The heart sits at this balance point.
+    </div>
+<div id="c-3-2" class="expanded-content" data-concept-level="pro">
+      <strong>cranial isotopic refinery:</strong> System in the brain (sphenoid-clival-basilar-thalamic Venturi fractionation column) that separates and clears heavy isotopes like deuterium from cerebrospinal fluid during sleep. Failure leads to deuterium accumulation in blood and tissues.
+    </div>
+<div id="c-3-3" class="expanded-content" data-concept-level="noob">
+      <strong>cerebrospinal fluid:</strong> Clear fluid surrounding brain and spinal cord. When cranial isotopic refinery fails, deuterium puddles in CSF and is sensed by tanycytes, triggering hypocretin suppression.
+    </div>
+<div id="c-3-4" class="expanded-content" data-concept-level="pro">
+      <strong>ATP synthase:</strong> Mitochondrial nanomotor that produces ATP. Normally spins at 9,000 RPM; jammed by deuterium, reducing ATP output ~5% and forcing compensatory heart rate increase up to ~28%.
+    </div>
+<div id="c-3-5" class="expanded-content" data-concept-level="noob">
+      <strong>Hypocretin:</strong> Neuropeptide (also called orexin) that normally increases sympathetic outflow, raising heart rate and blood pressure. Suppressed by high inertial mass sensed via tanycytes in the 3rd/4th ventricle, leading to reduced sympathetic drive or compensatory instability.
+    </div>
+<div id="c-3-6" class="expanded-content" data-concept-level="pro">
+      <strong>tanycytes:</strong> Specialized ependymal cells lining the 3rd/4th ventricle that sense inertial mass (deuterium overload) in cerebrospinal fluid and signal hypocretin suppression.
+    </div>
+
+<div id="c-3-8" class="expanded-content" data-concept-level="pro">
+      <strong>Piezo1:</strong> Mechanosensitive ion channel activated by mechanical stress. Deuterium-induced vibrations in elastin activate Piezo1, triggering NOX2 cascade and elastin fragmentation.
+    </div>
+<div id="c-3-9" class="expanded-content" data-concept-level="pro">
+      <strong>NOX2:</strong> NADPH oxidase 2 - enzyme that produces superoxide free radicals. Activated by Piezo1, leading to elastin fragmentation and vascular inflammation.
+    </div>
+<div id="c-3-10" class="expanded-content" data-concept-level="noob">
+      <strong>re-entry circuits:</strong> A technical term used by the selected source. The report keeps &quot;re-entry circuits&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div></div><div class="card-points"><ul class="bullet-list"><li><strong>Mechanism.</strong> Failed <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-300-0')">sphenoid Venturi</span> (sleep deprivation, poor grounding) -&gt; deuterium accumulation in CSF/blood -&gt; high inertial mass -&gt; <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-300-1')">Landauer</span> thermodynamic cost spike -&gt; ATP synthase jamming -&gt; ATP output drop ~5% -&gt; compensatory tachycardia (up to ~28% HR increase) OR bradycardia/pauses (system throttles to lower entropy cost). Parallel: hypocretin suppression -&gt; reduced sympathetic drive -&gt; autonomic instability. Elastin degradation: deuterium embeds in chiral spring -&gt; Piezo1 activation -&gt; NOX2 superoxide -&gt; elastokine release -&gt; <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-300-2')">monocyte</span> infiltration -&gt; elastin fragmentation -&gt; vessel stiffening -&gt; increased afterload -&gt; <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-300-3')">baroreceptor reflex</span> -&gt; AFib/tachycardia.</li><li><strong>Diagnostic signal.</strong> The serum deuterium table (12 - 14 mmol/L) is the decisive clue. Deuterium is the single most abundant vital element listed, far exceeding calcium, magnesium, potassium, or glucose. This table was always the key to understanding arrhythmias as mass-driven, not electrical.</li><li><strong>Why it matters.</strong> Arrhythmias are not random channelopathies but parallel mass-quench responses to excessive inertial mass from deuterium overload. Restore <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-302-0')">cranial isotopic refinery</span> (sleep, grounding, circadian reset), clear deuterium, and the heart stops needing to throttle rhythm. Elastin loss in vessels and valves is the structural scar of the same entropy that produces plaque.</li></ul><div id="c-300-0" class="expanded-content" data-concept-level="pro">
+      <strong>sphenoid Venturi:</strong> Anatomical structure in the brain where cerebrospinal fluid is sorted and heavy isotopes are cleared. Failure due to sleep deprivation or poor grounding allows deuterium to accumulate.
+    </div>
+<div id="c-300-1" class="expanded-content" data-concept-level="pro">
+      <strong>Landauer:</strong> Landauer principle - thermodynamic law stating that erasing information requires minimum energy cost. Extra inertial mass raises this cost; heart adjusts rate or regularity to pay a lower bill.
+    </div>
+<div id="c-300-2" class="expanded-content" data-concept-level="noob">
+      <strong>monocyte:</strong> A technical term used by the selected source. The report keeps &quot;monocyte&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-300-3" class="expanded-content" data-concept-level="noob">
+      <strong>baroreceptor reflex:</strong> A technical term used by the selected source. The report keeps &quot;baroreceptor reflex&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div><div id="c-302-0" class="expanded-content" data-concept-level="pro">
+      <strong>cranial isotopic refinery:</strong> System in the brain (sphenoid-clival-basilar-thalamic Venturi fractionation column) that separates and clears heavy isotopes like deuterium from cerebrospinal fluid during sleep. Failure leads to deuterium accumulation in blood and tissues.
+    </div></div><div class="source-quote">In physics, the Lagrangian (L = kinetic energy T minus potential energy V) governs the path of least action. Here: T = pulsatile kinetic flow generated by the heart. V = gravitational/isotopic potential from circulating deuterium-rich water (extra mass from failed sphenoid Venturi sorting via the cerebral aqueduct and CVOs).</div></div>
+      <div class="card"><div class="card-header"><span class="tag">RO water, neurological risk, DDW alternative</span><a href="https://x.com/i/status/2060153407986340290" target="_blank" rel="noopener noreferrer" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>RO water can lower neurological risks but is less effective than deuterium-depleted water</strong> Kruse provides direct treatment guidance: <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-4-0')">reverse osmosis</span> (RO) water can be used to supercool and lower some neurological risks, particularly PTSD and mental diseases. However, it is not as effective as <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-4-1')">DDW</span> (deuterium-depleted water). RO water removes dissolved minerals and some isotopic mass, allowing for partial <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-4-2')">supercooling</span> effect and reduced neurological burden compared to tap water. DDW is more effective because it specifically depletes deuterium, the heavy isotope that jams mitochondrial ATP synthase and causes <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-4-3')">pseudohypoxia</span>.</div><div id="c-4-0" class="expanded-content" data-concept-level="noob">
+      <strong>reverse osmosis:</strong> Water purification method that forces water through a semipermeable membrane under pressure, removing dissolved minerals and some isotopic mass.
+    </div>
+<div id="c-4-1" class="expanded-content" data-concept-level="noob">
+      <strong>DDW:</strong> Deuterium-depleted water - water with deuterium (heavy hydrogen isotope) removed or depleted. More effective than RO water for reducing neurological risks because it specifically targets the isotope that jams mitochondrial ATP synthase.
+    </div>
+<div id="c-4-2" class="expanded-content" data-concept-level="noob">
+      <strong>supercooling:</strong> A technical term used by the selected source. The report keeps &quot;supercooling&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-4-3" class="expanded-content" data-concept-level="pro">
+      <strong>pseudohypoxia:</strong> State where cells behave as if oxygen is scarce despite normal oxygen availability. Caused by deuterium jamming ATP synthase and reducing ATP production efficiency.
+    </div></div><div class="card-points"><ul class="bullet-list"><li><strong>Treatment.</strong> RO water or distilled water can serve as a starting point for <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-400-0')">neurological risk</span> reduction when DDW is unavailable or too expensive.</li><li><strong>Mechanism.</strong> RO water removes dissolved minerals and some isotopic mass, allowing partial supercooling and reduced neurological burden. DDW is more effective because it specifically depletes deuterium, the heavy isotope that jams ATP synthase.</li><li><strong>Practical meaning.</strong> If DDW is inaccessible, RO water is a pragmatic alternative, though it will not achieve the same isotopic depletion as DDW.</li></ul><div id="c-400-0" class="expanded-content" data-concept-level="noob">
+      <strong>neurological risk:</strong> A technical term used by the selected source. The report keeps &quot;neurological risk&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div></div><div class="source-quote">It wont be as effective as DDW but RO water can used to supercool and lower some neurological risks. PTSD and mental diseases are some.</div></div>
+      <div class="card"><div class="card-header"><span class="tag">Sulfur, semiconductor, parasite shield</span><a href="https://x.com/i/status/2060033799828979958" target="_blank" rel="noopener noreferrer" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Elemental sulfur acts as semiconductor spin-gating shield, altering skin boundary layer permittivity to repel parasites</strong> Kruse reframes the Texas folk practice of sulfur powder on shoes and ankles as solid-state surface <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-5-0')">permittivity</span> management. Elemental <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-5-1')">sulfur</span> acts as a high-affinity <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-5-2')">semiconductor</span> <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-5-3')">spin-gating shield</span> that alters the localized <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-5-4')">dielectric constant</span> (κ) of the <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-5-5')">skin boundary layer</span>, making the tissue matrix electromagnetically hostile to <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-5-6')">Proterozoic</span> parasites (ticks, chiggers, mosquitoes). The practice is dismissed as folk remedy but is actually first-principles physics of mass, charge, and voltage. East Texas sits within the <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-5-7')">SAA</span> western border with high-humidity <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-5-8')">coastal plain</span> and stagnant overburden of heavy deuterium. Parasites are Proterozoic hardware wired to survive in high-mass, low-oxygen, anaerobic pools and track high-entropy <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-5-9')">infrared emission</span> vectors from deuterated bodies. Sulfur creates an electromagnetic shield that masks this signature.</div><div id="c-5-0" class="expanded-content" data-concept-level="pro">
+      <strong>permittivity:</strong> Measure of how much a material is polarized by an electric field. Sulfur alters surface permittivity of skin, making it electromagnetically hostile to parasites.
+    </div>
+<div id="c-5-1" class="expanded-content" data-concept-level="noob">
+      <strong>sulfur:</strong> Elemental sulfur (S) - yellow nonmetal that acts as high-affinity semiconductor spin-gating shield when applied to skin or soil.
+    </div>
+<div id="c-5-2" class="expanded-content" data-concept-level="pro">
+      <strong>semiconductor:</strong> Material with electrical conductivity between conductor and insulator. Sulfur acts as semiconductor spin-gating shield by altering dielectric constant of skin boundary layer.
+    </div>
+<div id="c-5-3" class="expanded-content" data-concept-level="pro">
+      <strong>spin-gating shield:</strong> Sulfur&#39;s ability to alter localized dielectric constant of skin boundary layer, making tissue electromagnetically unreadable to parasite sensory arrays.
+    </div>
+<div id="c-5-4" class="expanded-content" data-concept-level="pro">
+      <strong>dielectric constant:</strong> Measure of a material&#39;s ability to store electrical energy. Sulfur alters localized dielectric constant (κ) of skin boundary layer, disrupting parasite tracking.
+    </div>
+<div id="c-5-5" class="expanded-content" data-concept-level="noob">
+      <strong>skin boundary layer:</strong> A technical term used by the selected source. The report keeps &quot;skin boundary layer&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-5-6" class="expanded-content" data-concept-level="noob">
+      <strong>Proterozoic:</strong> Geological eon (2.5 billion to 541 million years ago). Used here to describe evolutionarily ancient parasites whose primitive metabolic loops are wired to survive in high-mass, low-oxygen, anaerobic pools.
+    </div>
+<div id="c-5-7" class="expanded-content" data-concept-level="noob">
+      <strong>SAA:</strong> South Atlantic Anomaly - region where Earth&#39;s magnetic field is weakest, allowing increased cosmic ray and solar particle penetration. Expanding geographically and temporally.
+    </div>
+<div id="c-5-8" class="expanded-content" data-concept-level="noob">
+      <strong>coastal plain:</strong> A technical term used by the selected source. The report keeps &quot;coastal plain&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-5-9" class="expanded-content" data-concept-level="noob">
+      <strong>infrared emission:</strong> Light just beyond visible red. In biology discussions it usually points to heat, mitochondrial signaling, and water-structure effects rather than vitamin-D production.
+    </div></div><div class="card-points"><ul class="bullet-list"><li><strong>Mechanism.</strong> Powdered sulfur on skin -&gt; altered localized dielectric constant (κ) of boundary layer -&gt; tissue becomes electromagnetically unreadable to parasite sensory arrays. Parasites track infrared/biophotonic emission from deuterated, <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-500-0')">pseudohypoxic</span> bodies (κ≈160-&gt;80, chaotic <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-500-1')">UPE</span> matrix fire). Sulfur creates electromagnetic shield that masks this signature.</li><li><strong>Geographic signal.</strong> <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-501-0')">East Texas geography</span>: high humidity + coastal plain + SAA influence -&gt; stagnant <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-501-1')">water table</span> -&gt; heavy deuterium puddle in vegetation -&gt; un-grounded humans walk through -&gt; internal water dielectric collapse -&gt; skin loses negative <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-501-2')">Zeta potential</span> -&gt; <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-501-3')">mitochondrial nanomotors</span> drop to zero RPM -&gt; pseudohypoxia -&gt; chaotic UPE flare -&gt; parasite beacon.</li><li><strong>Practical meaning.</strong> Apply sulfur powder to shoes, socks, and pant legs before walking through wet grass in high-deuterium areas (East Texas, SAA regions). Sulfur alters skin boundary layer permittivity, masking the infrared/biophotonic signature that parasites use to locate hosts.</li></ul><div id="c-500-0" class="expanded-content" data-concept-level="noob">
+      <strong>pseudohypoxic:</strong> A technical term used by the selected source. The report keeps &quot;pseudohypoxic&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-500-1" class="expanded-content" data-concept-level="pro">
+      <strong>UPE:</strong> Ultra-weak Photon Emission - chaotic biophotonic radiation released when cellular water loses coherence. Parasites track this high-entropy infrared signature from deuterated bodies.
+    </div><div id="c-501-0" class="expanded-content" data-concept-level="noob">
+      <strong>East Texas geography:</strong> A technical term used by the selected source. The report keeps &quot;East Texas geography&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-501-1" class="expanded-content" data-concept-level="noob">
+      <strong>water table:</strong> A technical term used by the selected source. The report keeps &quot;water table&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-501-2" class="expanded-content" data-concept-level="pro">
+      <strong>Zeta potential:</strong> Electrical potential at the boundary between a particle and surrounding fluid. Skin loses negative Zeta potential when internal water dielectric collapses due to deuterium overload.
+    </div>
+<div id="c-501-3" class="expanded-content" data-concept-level="noob">
+      <strong>mitochondrial nanomotors:</strong> A technical term used by the selected source. The report keeps &quot;mitochondrial nanomotors&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div></div><div class="source-quote">Elemental sulfur acts as a high-affinity, semiconductor spin-gating shield that alters the localized dielectric constant (κ) of the skin boundary layer, making the tissue matrix completely un-readable and electromagnetically hostile to Proterozoic parasites.</div></div>
+      <div class="section-title">Forum Updates</div>
+      <div class="card"><div class="card-header"><span class="tag">Pentalayer graphene, anyons, quantum states</span><a href="https://forum.jackkruse.com/threads/laschamp-geomagnetic-excursion.32850/" target="_blank" rel="noopener noreferrer" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Pentalayer graphene&#39;s anomalous fractional quantum Hall effect proves melanin-rDNA can engineer exotic quantum states without external magnetic field</strong> Kruse presents <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-6-0')">pentalayer graphene</span>&#39;s discovery of <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-6-1')">fractional quantum Hall effect</span> via <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-6-2')">moiré superlattice</span> (without external magnetic field) as solid-state proof of melanin-rDNA quantum architecture. In pentalayer graphene, five stacked, slightly twisted sheets create conditions where electrons slow dramatically and mutual repulsion becomes the dominant force. The result is a collective quantum state that recreates the fractional quantum Hall effect, but this time it is &#39;anomalous&#39; - no external magnets needed. The moiré superlattice &#39;fakes&#39; the magnetic field from inside the material itself, creating exotic <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-6-3')">anyons</span> (<span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-6-4')">quasiparticles</span> with fractional electron charge) that are robust against noise. This discovery proves that biological systems can routinely create and control <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-6-5')">fractional-charge states</span> in everyday lab conditions, validating the thesis that <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-6-6')">melanin</span> is a <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-6-7')">quantum material</span> capable of generating <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-6-8')">topologically protected</span> states.</div><div id="c-6-0" class="expanded-content" data-concept-level="pro">
+      <strong>pentalayer graphene:</strong> Five stacked and slightly twisted sheets of graphene (single-layer carbon). Creates conditions for fractional quantum Hall effect without external magnetic field via moiré superlattice.
+    </div>
+<div id="c-6-1" class="expanded-content" data-concept-level="pro">
+      <strong>fractional quantum Hall effect:</strong> Quantum phenomenon where electrons in a 2D system under strong magnetic field form a collective state with fractional charge quasiparticles (anyons). Normally requires ultra-strong magnetic fields and ultra-clean materials at near-absolute-zero temperatures.
+    </div>
+<div id="c-6-2" class="expanded-content" data-concept-level="pro">
+      <strong>moiré superlattice:</strong> Periodic pattern created by overlaying two slightly rotated crystal lattices. In pentalayer graphene, creates conditions for fractional quantum Hall effect without external magnetic field.
+    </div>
+<div id="c-6-3" class="expanded-content" data-concept-level="pro">
+      <strong>anyons:</strong> Quasiparticles with fractional electron charge that are topologically protected against noise. Could be key to building practical, fault-tolerant quantum computers at biological scales.
+    </div>
+<div id="c-6-4" class="expanded-content" data-concept-level="noob">
+      <strong>quasiparticles:</strong> A technical term used by the selected source. The report keeps &quot;quasiparticles&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-6-5" class="expanded-content" data-concept-level="noob">
+      <strong>fractional-charge states:</strong> A technical term used by the selected source. The report keeps &quot;fractional-charge states&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-6-6" class="expanded-content" data-concept-level="noob">
+      <strong>melanin:</strong> Pigment produced by melanocytes. Acts as quantum material with twisted, stacked architecture capable of generating fractional-charge states and topologically protected quantum coherence.
+    </div>
+<div id="c-6-7" class="expanded-content" data-concept-level="noob">
+      <strong>quantum material:</strong> A technical term used by the selected source. The report keeps &quot;quantum material&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-6-8" class="expanded-content" data-concept-level="pro">
+      <strong>topologically protected:</strong> Quantum states that are robust against local perturbations due to their topological properties. Anyons in pentalayer graphene and melanin are topologically protected.
+    </div></div><div class="card-points"><ul class="bullet-list"><li><strong>Physics signal.</strong> Pentalayer graphene creates fractional quantum Hall effect via moiré superlattice without external magnetic field. Anyons and fractional-charge states are engineered quantum phenomena that could be replicated in biological systems.</li><li><strong>Mechanism.</strong> In pentalayer graphene: five stacked, slightly twisted sheets -&gt; electrons slow dramatically -&gt; mutual repulsion becomes dominant force -&gt; collective quantum state recreates fractional quantum Hall effect without external magnetic field. In melanin: similar twisted, stacked architecture -&gt; electrons slow -&gt; mutual repulsion -&gt; fractional-charge states -&gt; topologically protected <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-601-0')">quantum coherence</span>.</li><li><strong>Why it matters.</strong> Pentalayer graphene&#39;s anomalous fractional quantum Hall effect is a solid-state proof that biological materials (melanin, <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-602-0')">rDNA</span>) can generate exotic quantum states without external magnetic fields. This validates the thesis that melanin is a quantum material capable of <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-602-1')">fault-tolerant quantum computing</span> at biological scales.</li></ul><div id="c-601-0" class="expanded-content" data-concept-level="noob">
+      <strong>quantum coherence:</strong> A technical term used by the selected source. The report keeps &quot;quantum coherence&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div><div id="c-602-0" class="expanded-content" data-concept-level="pro">
+      <strong>rDNA:</strong> Ribosomal DNA - genes encoding ribosomal RNA. Part of melanin-rDNA quantum architecture capable of engineering exotic quantum states.
+    </div>
+<div id="c-602-1" class="expanded-content" data-concept-level="pro">
+      <strong>fault-tolerant quantum computing:</strong> Quantum computing approach using topologically protected states (anyons) to resist errors. Could be implemented at biological scales using melanin-rDNA architecture.
+    </div></div><div class="source-quote">LASCHAMP GEOMAGNETIC EXCURSION Jack Kruse Jack Kruse PHYSICISTS JUST FOUND A BRAND-NEW WAY TO MAKE ELECTRONS ACT STRANGELY WITHOUT ANY MAGNETIC FIELD.</div></div>
+      <div class="card"><div class="card-header"><span class="tag">Core-mantle decoupling, T-2 relaxation, proton coherence</span><a href="https://forum.jackkruse.com/threads/understanding-vortices.32685/" target="_blank" rel="noopener noreferrer" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Core-mantle electromagnetic decoupling collapses T-2 relaxation window for human protons, reducing restoring force on internal coherence</strong> Kruse presents evidence of Earth&#39;s <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-7-0')">core-mantle</span> electromagnetic decoupling via dramatic wobble reductions. The <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-7-1')">Chandler wobble</span> has reduced by 98.3% and the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-7-2')">annual wobble</span> by 97.2%, indicating that the core&#39;s <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-7-3')">magnetic field</span> is no longer strong enough to grab and force the mantle to spin in unison. The transmission of the planet has slipped into neutral. This collapses the <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-7-4')">T-2 relaxation</span> window for human protons, reducing the <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-7-5')">restoring force</span> on internal proton coherence globally. Without rigid core-mantle coupling to clean and organize magnetic field lines, the <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-7-6')">planetary Z-axis</span> is becoming chaotic. The human T-2 relaxation window is stretching to its absolute maximum, meaning the ability to naturally &#39;hold phase&#39; against environmental noise is at an all-time low. This manifests as impaired wound healing and metabolic disease acceleration in places that should have none.</div><div id="c-7-0" class="expanded-content" data-concept-level="noob">
+      <strong>core-mantle:</strong> Interface between Earth&#39;s liquid outer core and solid mantle. Normally coupled electromagnetically; decoupling indicates loss of magnetic field strength and mechanical energy transfer.
+    </div>
+<div id="c-7-1" class="expanded-content" data-concept-level="pro">
+      <strong>Chandler wobble:</strong> Variation in Earth&#39;s rotation axis with a period of ~433 days. Reduction by 98.3% indicates loss of core-mantle electromagnetic coupling and mechanical energy transfer.
+    </div>
+<div id="c-7-2" class="expanded-content" data-concept-level="pro">
+      <strong>annual wobble:</strong> Annual variation in Earth&#39;s rotation axis. Reduction by 97.2% indicates loss of core-mantle electromagnetic coupling.
+    </div>
+<div id="c-7-3" class="expanded-content" data-concept-level="noob">
+      <strong>magnetic field:</strong> A technical term used by the selected source. The report keeps &quot;magnetic field&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-7-4" class="expanded-content" data-concept-level="pro">
+      <strong>T-2 relaxation:</strong> Time constant for spin-spin relaxation in nuclear magnetic resonance. Describes how quickly protons lose phase coherence. Collapse of T-2 window means human protons lose ability to maintain coherence against environmental noise.
+    </div>
+<div id="c-7-5" class="expanded-content" data-concept-level="noob">
+      <strong>restoring force:</strong> A technical term used by the selected source. The report keeps &quot;restoring force&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-7-6" class="expanded-content" data-concept-level="noob">
+      <strong>planetary Z-axis:</strong> A technical term used by the selected source. The report keeps &quot;planetary Z-axis&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div></div><div class="card-points"><ul class="bullet-list"><li><strong>Mechanism.</strong> Degraded <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-700-0')">electromagnetic coupling</span> at <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-700-1')">core-mantle boundary</span> -&gt; <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-700-2')">outer core</span> magnetic field weakens -&gt; mantle no longer forced to spin in unison -&gt; planetary transmission slips into neutral -&gt; restoring force on human <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-700-3')">protons</span> collapses -&gt; T-2 relaxation window stretches to maximum -&gt; ability to naturally &#39;hold phase&#39; against environmental noise drops to all-time low -&gt; wounds fail to heal, metabolic disease accelerates.</li><li><strong>Geomagnetic signal.</strong> <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-701-0')">Chandler wobble</span> reduction: 98.3%. <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-701-1')">Annual wobble</span> reduction: 97.2%. These reductions indicate that the mechanical energy transfer between core and mantle has essentially ceased, disengaging the clutch of the planetary dynamo.</li><li><strong>Why it matters.</strong> Core-mantle decoupling is reducing Earth&#39;s ability to provide a coherent magnetic restoring force for human <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-702-0')">proton spin</span>. The T-2 relaxation window collapse is a planetary-scale biomarker of geomagnetic instability. Wounds are not healing and diabetics are being created at record rates in places that should have none.</li></ul><div id="c-700-0" class="expanded-content" data-concept-level="noob">
+      <strong>electromagnetic coupling:</strong> A technical term used by the selected source. The report keeps &quot;electromagnetic coupling&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-700-1" class="expanded-content" data-concept-level="noob">
+      <strong>core-mantle boundary:</strong> Interface between Earth&#39;s liquid outer core and solid mantle. Electromagnetic coupling at this boundary normally provides restoring force for human proton spin.
+    </div>
+<div id="c-700-2" class="expanded-content" data-concept-level="noob">
+      <strong>outer core:</strong> A technical term used by the selected source. The report keeps &quot;outer core&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-700-3" class="expanded-content" data-concept-level="noob">
+      <strong>protons:</strong> Positively charged subatomic particles in atomic nuclei. Normally maintain phase coherence via Earth&#39;s magnetic field; lose coherence when core-mantle coupling fails.
+    </div><div id="c-701-0" class="expanded-content" data-concept-level="pro">
+      <strong>Chandler wobble:</strong> Variation in Earth&#39;s rotation axis with a period of ~433 days. Reduction by 98.3% indicates loss of core-mantle electromagnetic coupling and mechanical energy transfer.
+    </div>
+<div id="c-702-0" class="expanded-content" data-concept-level="pro">
+      <strong>proton spin:</strong> Coordinated spin behavior in particles such as electrons or protons; Kruse uses it as part of his magnetic and mitochondrial signaling language.
+    </div></div><div class="source-quote">The Result: The Restoring Force on your internal protons is collapsing globally. Without that rigid core-mantle coupling to clean and organize the magnetic field lines, the planetary Z-axis is becoming a chaotic mess. This means the human T-2 relaxation window is stretching to its absolute maximum.</div></div>
+      <div class="card"><div class="card-header"><span class="tag">Sulfur, diatomaceous earth, parasite prevention</span><a href="https://forum.jackkruse.com/threads/ticks-magnetism.32849/" target="_blank" rel="noopener noreferrer" class="source-link">Read full source →</a></div><div class="card-body"><div class="item-text"><strong>Sulfur and diatomaceous earth provide natural parasite prevention via surface permittivity management and mechanical barrier</strong> Kruse provides practical <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-8-0')">parasite</span> prevention protocol using <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-8-1')">sulfur</span> and <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-8-2')">diatomaceous earth</span>. For surface dusting on lawn or turf, use powdered or pelletized sulfur with a spreader to create a barrier that disrupts parasite metabolism and forces them out of the area. For personal protection, fill an old tube sock with powdered sulfur, tie it off, and whack it against boots, socks, and pant legs to create a fine dust layer that acts as an incredibly effective natural shield against <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-8-3')">chiggers</span>. For soil application, use <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-8-4')">diatomaceous earth</span> (DE), which consists of microscopic fossilized aquatic organisms. DE does not alter <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-8-5')">soil pH</span> or harm plants, but its razor-sharp edges physically slice through the protective outer shells of any soil-dwelling pests, dehydrating and killing them naturally.</div><div id="c-8-0" class="expanded-content" data-concept-level="noob">
+      <strong>parasite:</strong> A technical term used by the selected source. The report keeps &quot;parasite&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-8-1" class="expanded-content" data-concept-level="noob">
+      <strong>sulfur:</strong> Elemental sulfur (S) - yellow nonmetal that acts as high-affinity semiconductor spin-gating shield when applied to skin or soil.
+    </div>
+<div id="c-8-2" class="expanded-content" data-concept-level="noob">
+      <strong>diatomaceous earth:</strong> Fossilized remains of diatoms (single-celled algae). Microscopic razor-sharp edges physically damage parasite exoskeletons without harming plants or altering soil pH.
+    </div>
+<div id="c-8-3" class="expanded-content" data-concept-level="noob">
+      <strong>chiggers:</strong> A technical term used by the selected source. The report keeps &quot;chiggers&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div>
+<div id="c-8-4" class="expanded-content" data-concept-level="noob">
+      <strong>diatomaceous earth:</strong> Fossilized remains of diatoms (single-celled algae). Microscopic razor-sharp edges physically damage parasite exoskeletons without harming plants or altering soil pH.
+    </div>
+<div id="c-8-5" class="expanded-content" data-concept-level="noob">
+      <strong>soil pH:</strong> A technical term used by the selected source. The report keeps &quot;soil pH&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div></div><div class="card-points"><ul class="bullet-list"><li><strong>Protocol.</strong> Surface dusting: use spreader to lightly apply powdered or pelletized sulfur across top of lawn or turf. Creates surface barrier that disrupts parasite metabolism. Personal protection: fill old tube sock with powdered sulfur, tie off, whack against boots/socks/pant legs. Fine dust layer is effective natural shield against chiggers.</li><li><strong>Mechanism.</strong> <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-801-0')">Sulfur</span>: alters localized <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-801-1')">dielectric constant</span> of skin boundary layer, making tissue electromagnetically hostile to parasites. <span class="expandable-concept" data-concept-level="pro" onclick="toggleConcept('c-801-2')">Diatomaceous earth</span>: microscopic fossilized aquatic organisms with razor-sharp edges physically damage parasite exoskeletons, causing <span class="expandable-concept" data-concept-level="noob" onclick="toggleConcept('c-801-3')">dehydration</span> and death.</li><li><strong>Practical meaning.</strong> Apply sulfur powder to shoes/socks/pant legs before walking through wet grass in high-parasite areas. Dust lawn/turf with sulfur to create surface barrier. Use diatomaceous earth in soil to prevent soil-dwelling pests. These are natural, non-toxic alternatives to chemical sprays.</li></ul>
+<div id="c-801-1" class="expanded-content" data-concept-level="pro">
+      <strong>dielectric constant:</strong> Measure of a material&#39;s ability to store electrical energy. Sulfur alters localized dielectric constant (κ) of skin boundary layer, disrupting parasite tracking.
+    </div>
+
+<div id="c-801-3" class="expanded-content" data-concept-level="noob">
+      <strong>dehydration:</strong> A technical term used by the selected source. The report keeps &quot;dehydration&quot; visible as source language; treat it as a term to verify in the linked source before turning it into a protocol.
+    </div></div><div class="source-quote">If you want to use sulfur safely to battle these pests, keep it on the surface or on your body: Surface Dusting (The Yard): Use a spreader to lightly apply powdered or pelletized sulfur across the top of your lawn or turf. This creates a surface barrier that disrupts their metabolism and forces them out of the area.</div></div>
+    <div class="locked-section">
+      <div class="locked-title">
+        <span>Interact with Report (Ask AI)</span>
+        <span class="locked-badge">Soon</span>
+      </div>
+    </div>
+    <footer>
+      Auto-generated by <a href="https://github.com/guyHouri/kruse-ai-scrape">kruse-ai-scrape</a>.
+      Source: <a href="https://x.com/DrJackKruse">@DrJackKruse</a>.
+    </footer>
+  </div>
+  <script>
+    function toggleConcept(id) {
+      var el = document.getElementById(id);
+      if (el) el.classList.toggle('open');
+    }
+    (function () {
+      var btn = document.getElementById('themeToggle');
+      var saved = null;
+      try { saved = localStorage.getItem('kruse-theme'); } catch (e) {}
+      if (saved === 'light') document.body.classList.add('light');
+      function syncLabel() {
+        if (!btn) return;
+        btn.textContent = document.body.classList.contains('light') ? '☀ Light' : '🌙 Dark';
+      }
+      syncLabel();
+      if (btn) btn.addEventListener('click', function () {
+        document.body.classList.toggle('light');
+        try { localStorage.setItem('kruse-theme', document.body.classList.contains('light') ? 'light' : 'dark'); } catch (e) {}
+        syncLabel();
+      });
+    })();
+    (function () {
+      var savedLevel = null;
+      try { savedLevel = localStorage.getItem('kruse-level'); } catch (e) {}
+      var initial = (savedLevel === 'noob' || savedLevel === 'pro' || savedLevel === 'hacker') ? savedLevel : 'pro';
+      function apply(level) {
+        document.body.classList.remove('level-noob', 'level-pro', 'level-hacker');
+        document.body.classList.add('level-' + level);
+        var btns = document.querySelectorAll('.level-toggle button');
+        for (var i = 0; i < btns.length; i++) {
+          var on = btns[i].getAttribute('data-level') === level;
+          btns[i].classList.toggle('active', on);
+          btns[i].setAttribute('aria-pressed', on ? 'true' : 'false');
+        }
+        try { localStorage.setItem('kruse-level', level); } catch (e) {}
+      }
+      apply(initial);
+      var btns = document.querySelectorAll('.level-toggle button');
+      for (var i = 0; i < btns.length; i++) {
+        (function (b) {
+          b.addEventListener('click', function () { apply(b.getAttribute('data-level')); });
+        })(btns[i]);
+      }
+    })();
+  </script>
+<div class="site-report-footer">
+    <section class="site-report-panel" id="get-report" aria-labelledby="get-report-title">
+      <h2 id="get-report-title">Get this report</h2>
+      <p>Leave an email and we will add you when delivery opens.</p>
+      <form name="kruse-report-interest" method="POST" data-supabase-form="mailing-list">
+        <input type="hidden" name="form_type" value="kruse-report-interest" />
+        <input type="hidden" name="report_date" value="2026-05-29" />
+        <input type="hidden" name="report_url" value="https://guyhouri.github.io/kruse-ai-scrape/reports/2026-05-29.html" />
+        <p style="display:none"><label>Company <input name="company" /></label></p>
+        <label for="report-first-name-2026-05-29">First name</label>
+        <input id="report-first-name-2026-05-29" name="first_name" autocomplete="given-name" />
+        <label for="report-last-name-2026-05-29">Last name</label>
+        <input id="report-last-name-2026-05-29" name="last_name" autocomplete="family-name" />
+        <label for="report-email-2026-05-29">Email</label>
+        <input id="report-email-2026-05-29" name="email" type="email" autocomplete="email" required />
+        <label for="report-frequency-2026-05-29">Delivery</label>
+        <select id="report-frequency-2026-05-29" name="frequency">
+          <option>Daily</option>
+          <option>Only strong signal days</option>
+          <option>Weekly digest</option>
+        </select>
+        <label for="report-comments-2026-05-29">Comments</label>
+        <textarea id="report-comments-2026-05-29" name="comments"></textarea>
+        <button type="submit">Join list</button>
+        <div class="site-report-form-success" data-form-success hidden>Saved. You are on the list.</div>
+        <div class="site-report-form-error" data-form-error hidden>Could not save. Please try again.</div>
+      </form>
+      <div class="site-report-form-note">Saved privately to the mailing list.</div>
+    </section>
+    <section class="site-report-panel" id="report-feedback" aria-labelledby="report-feedback-title">
+      <h2 id="report-feedback-title">Improve future reports</h2>
+      <p>Tell us what was useful, confusing, missing, or too AI-ish. We will use this later to tune prompts.</p>
+      <form name="kruse-report-feedback" method="POST" data-supabase-form="feedback">
+        <input type="hidden" name="form_type" value="kruse-report-feedback" />
+        <input type="hidden" name="report_date" value="2026-05-29" />
+        <input type="hidden" name="report_url" value="https://guyhouri.github.io/kruse-ai-scrape/reports/2026-05-29.html" />
+        <p style="display:none"><label>Website <input name="website" /></label></p>
+        <label for="feedback-first-name-2026-05-29">First name</label>
+        <input id="feedback-first-name-2026-05-29" name="first_name" autocomplete="given-name" />
+        <label for="feedback-last-name-2026-05-29">Last name</label>
+        <input id="feedback-last-name-2026-05-29" name="last_name" autocomplete="family-name" />
+        <label for="feedback-rating-2026-05-29">Overall</label>
+        <select id="feedback-rating-2026-05-29" name="rating">
+          <option>Useful</option>
+          <option>Mixed</option>
+          <option>Bad</option>
+        </select>
+        <label for="feedback-text-2026-05-29">Feedback</label>
+        <textarea id="feedback-text-2026-05-29" name="comments" required></textarea>
+        <label for="feedback-email-2026-05-29">Email (optional)</label>
+        <input id="feedback-email-2026-05-29" name="email" type="email" autocomplete="email" />
+        <button type="submit">Send feedback</button>
+        <div class="site-report-form-success" data-form-success hidden>Saved. Thank you.</div>
+        <div class="site-report-form-error" data-form-error hidden>Could not save. Please try again.</div>
+      </form>
+      <div class="site-report-form-note">Saved privately for prompt tuning.</div>
+    </section>
+  </div>
+<script>
+    (function () {
+      var button = document.getElementById('siteMenuButton');
+      var drawer = document.getElementById('siteReportDrawer');
+      if (!button || !drawer) return;
+
+      function setOpen(open) {
+        document.body.classList.toggle('site-drawer-open', open);
+        button.setAttribute('aria-expanded', open ? 'true' : 'false');
+        if (open) {
+          var focusTarget = drawer.querySelector('a, button');
+          if (focusTarget) focusTarget.focus();
+        } else {
+          button.focus();
+        }
+      }
+
+      button.addEventListener('click', function () {
+        setOpen(!document.body.classList.contains('site-drawer-open'));
+      });
+
+      var closeTargets = document.querySelectorAll('[data-site-menu-close], .site-drawer-link');
+      for (var i = 0; i < closeTargets.length; i++) {
+        closeTargets[i].addEventListener('click', function () { setOpen(false); });
+      }
+
+      document.addEventListener('keydown', function (event) {
+        if (event.key === 'Escape') setOpen(false);
+      });
+    })();
+  </script>
+<script>
+    window.__KRUSE_SUPABASE = {"url":"https://zpxhovwsswnjdjibcvsh.supabase.co","key":"sb_publishable_afhmZKXzerLWNYENUqsaFg_XfVWjODD","tables":{"mailingList":"kruse_mailing_list","feedback":"kruse_report_feedback"}};
+    (function () {
+      var config = window.__KRUSE_SUPABASE;
+      if (!config || !config.url || !config.key) return;
+
+      function value(form, name) {
+        var field = form.querySelector('[name="' + name + '"]');
+        return field ? String(field.value || '').trim() : '';
+      }
+
+      function nullable(value) {
+        return value ? value : null;
+      }
+
+      function show(form, selector, text) {
+        var node = form.querySelector(selector);
+        if (!node) return;
+        if (text) node.textContent = text;
+        node.hidden = false;
+      }
+
+      function hide(form, selector) {
+        var node = form.querySelector(selector);
+        if (node) node.hidden = true;
+      }
+
+      function payloadFor(form, kind) {
+        var common = {
+          first_name: value(form, 'first_name'),
+          last_name: value(form, 'last_name'),
+          email: value(form, 'email').toLowerCase(),
+          comments: value(form, 'comments'),
+          report_date: nullable(value(form, 'report_date')),
+          report_url: nullable(value(form, 'report_url')),
+          page_url: window.location.href,
+          source: 'public-site'
+        };
+        if (kind === 'unsubscribe') {
+          return {
+            first_name: '',
+            last_name: '',
+            email: common.email,
+            comments: 'Unsubscribe request',
+            frequency: 'Unsubscribe',
+            report_date: null,
+            report_url: null,
+            page_url: common.page_url,
+            source: 'unsubscribe'
+          };
+        }
+        if (kind === 'mailing-list') {
+          common.frequency = value(form, 'frequency') || 'Daily';
+          return common;
+        }
+        return {
+          first_name: common.first_name,
+          last_name: common.last_name,
+          email: nullable(common.email),
+          rating: value(form, 'rating') || 'Useful',
+          comments: common.comments,
+          report_date: common.report_date,
+          report_url: common.report_url,
+          page_url: common.page_url,
+          source: common.source
+        };
+      }
+
+      async function submitToSupabase(form, kind) {
+        var table = kind === 'feedback' ? config.tables.feedback : config.tables.mailingList;
+        var payload = payloadFor(form, kind);
+        var response = await fetch(config.url + '/rest/v1/' + encodeURIComponent(table), {
+          method: 'POST',
+          headers: {
+            apikey: config.key,
+            authorization: 'Bearer ' + config.key,
+            'content-type': 'application/json',
+            prefer: 'return=minimal'
+          },
+          body: JSON.stringify(payload)
+        });
+        if (!response.ok) {
+          var text = await response.text();
+          throw new Error(text || ('Supabase returned ' + response.status));
+        }
+      }
+
+      document.addEventListener('submit', async function (event) {
+        var form = event.target;
+        if (!form || !form.hasAttribute('data-supabase-form')) return;
+        event.preventDefault();
+
+        hide(form, '[data-form-success]');
+        hide(form, '[data-form-error]');
+
+        var trap = form.querySelector('input[name="company"], input[name="website"]');
+        if (trap && trap.value) {
+          form.reset();
+          show(form, '[data-form-success]');
+          return;
+        }
+
+        var button = form.querySelector('button[type="submit"]');
+        if (button) button.disabled = true;
+        try {
+          await submitToSupabase(form, form.getAttribute('data-supabase-form'));
+          form.reset();
+          show(form, '[data-form-success]');
+        } catch (err) {
+          console.error(err);
+          show(form, '[data-form-error]', 'Could not save. Please try again.');
+        } finally {
+          if (button) button.disabled = false;
+        }
+      });
+    })();
+  </script>
+
+</body>
+</html>

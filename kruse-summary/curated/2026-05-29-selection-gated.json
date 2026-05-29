@@ -1,0 +1,1224 @@
+{
+  "date": "2026-05-29",
+  "selected_items": [
+    {
+      "source_type": "tweet",
+      "source_id": "2060148618112155852",
+      "source_url": "https://twitter.com/DrJackKruse/status/2060148618112155852",
+      "source_authority": "jack",
+      "value_type": "mechanism",
+      "priority": 5,
+      "title": "Göbekli Tepe and El Caracol as paramagnetic grounding capacitors during magnetospheric excursions",
+      "why_interesting": "Kruse presents a novel biophysical mechanism linking ancient stone architecture to protection against geomagnetic excursions via paramagnetic tuning, deuterium accumulation, and CISS spin-filter collapse. Connects Laschamp/Younger Dryas auroral activity to cranial isotopic refinery failure and atavistic tissue remodeling.",
+      "source_claim": "Ancient high-agency architects engineered monuments as paramagnetic grounding capacitors tuned to 110 Hz acoustic resonance to protect germline from informational erasure during magnetospheric collapse. Göbekli Tepe pillars functioned as spatial filters; El Caracol tracked Venus/magnetotelluric circuit to anticipate crustal displacement. When global dipole drops past 30% Laschamp Equivalent threshold, cosmogenic deuterium/tritium floods water table, triggering O-D kinetic isotope effect that blocks triplet oxygen cofactor, collapsing melanin/dopamine production and CISS filter by 72.25%, forcing atavistic tissue retreat (hiatal hernia, EDS, ALS/TBI).",
+      "mechanism": "Paramagnetic stone geometry + 110 Hz acoustic cavity resonance → macro-scale spatial filter → maintains Exclusion Zone water (κ=160) → protects intracellular water from UPE matrix fire. During excursion: cosmogenic deuterium mass loading → O-D kinetic isotope effect → iron-dependent enzyme block → triplet oxygen loss → melanin/dopamine collapse → CISS spin-filter drop 72.25% (κ=160→78) → Chromosome 2 telomeric loop fuse blowout → p53 surge → atavistic retreat (smooth muscle atrophy, hiatal hernia, vagal deuterium sludge).",
+      "reader_change": "Understand that ancient sites in SAA-adjacent regions (Peru, Egypt) show skull elongation and tissue atrophy as adaptive response to geomagnetic excursion-driven deuterium overload and triplet oxygen loss. Modern populations in expanding SAA face same biophysical stress without architectural/grounding protection.",
+      "source_support": "Quote from Kruse: 'The ancient high-agency architects did not build these monuments out of superstitious fear; they were quantum engineers who understood that Structure, Pressure, and Geometry rule Information.' 'The multi-ton, T-shaped limestone pillars were arranged in circular configurations to function as a macro-scale spatial filter and acoustic-magnetic waveguide. They tuned the interior space to a permanent 110 Hz acoustic cavity resonance, quenching the high-entropy Ultra-weak Photon Emission (UPE) matrix fire and re-bulking the human intracellular water table back to its crystalline Exclusion Zone state (κ=160).' 'When the global dipole drops past the 30% Laschamp Equivalent (LE) threshold, cosmic ray spallation floods the regional water table with cosmogenic Deuterium and Tritium mass. This heavy water accumulation triggers an insurmountable Oxygen-Deuterium (O-D) Kinetic Isotope Effect (KIE).'",
+      "support_quotes": [
+        "The ancient high-agency architects did not build these monuments out of superstitious fear; they were quantum engineers who understood that Structure, Pressure, and Geometry rule Information.",
+        "The multi-ton, T-shaped limestone pillars were arranged in circular configurations to function as a macro-scale spatial filter and acoustic-magnetic waveguide. They tuned the interior space to a permanent 110 Hz acoustic cavity resonance, quenching the high-entropy Ultra-weak Photon Emission (UPE) matrix fire and re-bulking the human intracellular water table back to its crystalline Exclusion Zone state (κ=160).",
+        "When the global dipole drops past the 30% Laschamp Equivalent (LE) threshold, cosmic ray spallation floods the regional water table with cosmogenic Deuterium and Tritium mass. This heavy water accumulation triggers an insurmountable Oxygen-Deuterium (O-D) Kinetic Isotope Effect (KIE)."
+      ],
+      "source_citations": [],
+      "blog_refs": [],
+      "translation_terms": [
+        "paramagnetic",
+        "grounding capacitor",
+        "Laschamp excursion",
+        "Younger Dryas",
+        "auroral activity",
+        "magnetosphere",
+        "cosmogenic deuterium/tritium",
+        "kinetic isotope effect (KIE)",
+        "triplet oxygen (3O2)",
+        "singlet oxygen (1O2)",
+        "CISS (Chiral Induced Spin Selectivity)",
+        "Exclusion Zone (EZ) water",
+        "dielectric constant (κ)",
+        "Ultra-weak Photon Emission (UPE)",
+        "Chromosome 2 interstitial telomeric loop",
+        "p53 master switch",
+        "atavistic retreat",
+        "hiatal hernia",
+        "EDS (Ehlers-Danlos syndrome)",
+        "ALS (amyotrophic lateral sclerosis)",
+        "TBI (traumatic brain injury)",
+        "melanin",
+        "dopamine",
+        "cranial isotopic refinery",
+        "sphenoid-clival-basilar-thalamic Venturi fractionation",
+        "Landauer informational erasure"
+      ],
+      "scientific_translation_plan": "This is a complex biophysical thesis requiring careful translation: (1) explain paramagnetic materials and their role in magnetic field interaction; (2) clarify acoustic resonance and how 110 Hz frequency might couple to biological water; (3) define Exclusion Zone water and dielectric constant in lay terms; (4) explain kinetic isotope effect and why deuterium mass matters to enzyme function; (5) clarify triplet vs singlet oxygen states and CISS spin-filtering; (6) explain how geomagnetic excursions increase cosmic ray spallation and deuterium accumulation; (7) connect tissue atrophy (atavistic retreat) to information-theoretic collapse via Landauer principle; (8) explain why Peru/Egypt skulls show elongation as adaptive response.",
+      "risk_notes": "This is a long, mechanistically dense Kruse post mixing ancient archaeology, particle physics, geomagnetics, and cellular biophysics. The claims are source-bound and internally coherent but highly speculative. Writer should present as Kruse's novel thesis, not established science. Emphasize the mechanism chain (excursion → deuterium → KIE → enzyme block → tissue atrophy) without claiming proof. The 72.25% CISS filter loss is a calculated figure from Kruse's model."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060132553919451187",
+      "source_url": "https://twitter.com/DrJackKruse/status/2060132553919451187",
+      "source_authority": "jack",
+      "value_type": "mechanism",
+      "priority": 5,
+      "title": "NAD+ bandgap collapse and lattice lock: the dielectric meltdown cascade",
+      "why_interesting": "Kruse presents a detailed quantum-biological mechanism linking NAD+ depletion to mitochondrial semiconductor failure, water dielectric collapse, isotopic stasis, and cellular 'lattice lock.' Includes computational model showing 72.25% CISS spin-filter loss at κ=78 threshold.",
+      "source_claim": "Low NAD+ destroys the mitochondrial bandgap potential, causing cellular water to shift from superconductor (κ=160) to leaky resistor (κ=78). This triggers: (1) loss of triplet oxygen cofactor and flip to destructive singlet state; (2) Exclusion Zone water collapse; (3) deuterium accumulation in ATP synthase; (4) stalled F0-F1 nanomotors; (5) Chromosome 2 telomeric loop fuse blowout; (6) p53 surge; (7) atavistic retreat into anaerobic glycolysis. Computational audit shows CISS spin-lock efficiency drops from 31.8% to 8.8%, a 72.25% loss of data containment.",
+      "mechanism": "NAD+ depletion → loss of 30 million V/m membrane potential → thermal noise eruption → biophotonic light leakage → dielectric meltdown (κ=160→78) → singlet oxygen trap (3O2→1O2) → Exclusion Zone collapse → free-radical fire → melanin/collagen/lipid destruction → deuterium silt accumulation in cristae → F0-F1 ATP synthase stator fracture → sub-nanometer centrifuge stall → Landauer informational erasure → Chromosome 2 telomeric fuse blowout → p53 master switch surge → MITF-AMPAR pathway down-regulation → atavistic retreat to Precambrian anaerobic glycolysis.",
+      "reader_change": "Understand that NAD+ is not just a metabolic cofactor but a 'gate driver' for the mitochondrial semiconductor grid. When NAD+ drops, the cell loses its ability to maintain coherent electron spin and isotopic filtering, forcing a cascade into metabolic stasis. This explains why NAD+ boosting (via light, grounding, circadian reset) is mechanistically central to preventing lattice lock.",
+      "source_support": "Kruse provides a numbered breakdown: (1) Low-NAD+ Bandgap Collapse; (2) Dielectric Meltdown (160→78); (3) Isotopic Stasis (Lattice Lock); (4) Electrodynamic Spin-Filter Equation; (5) Computational Audit showing 72.25% CISS loss; (6) Anatomy of Lattice Lock. Includes Python-modeled quantum collapse analysis and exact spin-lock efficiency calculations.",
+      "support_quotes": [
+        "A drop in NAD+ directly collapses the mitochondrial bandgap potential, shifting cellular water from a highly ordered superconductor into a leaky resistor that traps the system in Lattice Lock.",
+        "In solid-state quantum biology, NAD+ functions as the essential 'Gate Driver' for the mitochondrial semiconductor grid.",
+        "CISS Spin-Lock Efficiency at κ=160 (Pristine EZ State): 31.8153 %. CISS Spin-Lock Efficiency at κ=78 (Bulk Amorphous Crash): 8.8284 %. Loss of Data Containment TOTAL CRASH OF SYSTEMIC SPIN-FILTERING: 72.25 %."
+      ],
+      "source_citations": [],
+      "blog_refs": [],
+      "translation_terms": [
+        "NAD+ (nicotinamide adenine dinucleotide)",
+        "bandgap potential",
+        "mitochondrial semiconductor",
+        "dielectric constant (κ)",
+        "Exclusion Zone (EZ) water",
+        "triplet oxygen (3O2)",
+        "singlet oxygen (1O2)",
+        "CISS (Chiral Induced Spin Selectivity)",
+        "biophotonic light leakage",
+        "Ultra-weak Photon Emission (UPE)",
+        "F0-F1 ATP synthase",
+        "Zeta potential",
+        "deuterium",
+        "Landauer informational erasure",
+        "Chromosome 2 interstitial telomeric loop",
+        "p53 master switch",
+        "MITF-AMPAR pathways",
+        "atavistic retreat",
+        "pseudohypoxia",
+        "Warburg metabolic shift",
+        "spin-orbit coupling",
+        "dielectric permittivity"
+      ],
+      "scientific_translation_plan": "This mechanism requires step-by-step translation: (1) explain NAD+ role as electron carrier and 'gate driver' in mitochondrial function; (2) clarify bandgap potential and how it relates to membrane voltage; (3) define dielectric constant and why κ=160 vs κ=78 matters; (4) explain Exclusion Zone water and its role in spin-filtering; (5) clarify triplet vs singlet oxygen and why the flip is destructive; (6) explain CISS and how it filters heavy isotopes; (7) describe F0-F1 ATP synthase nanomotors and why deuterium jams them; (8) explain Landauer principle and informational erasure; (9) clarify p53 as emergency shutdown switch; (10) explain atavistic retreat as cell's survival response to energy collapse.",
+      "risk_notes": "This is a highly technical, multi-layered mechanism post with computational modeling. Kruse claims to have calculated the exact 72.25% spin-filter loss using Python. The mechanism is internally coherent but speculative. Writer should present as Kruse's quantum-biological model, not proven mechanism. Emphasize the cascade logic (NAD+ → voltage → water phase transition → isotopic stasis → informational collapse → cellular shutdown) without overstating evidence."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060102211170873354",
+      "source_url": "https://twitter.com/DrJackKruse/status/2060102211170873354",
+      "source_authority": "jack",
+      "value_type": "mechanism",
+      "priority": 5,
+      "title": "Aortic calcification as loss of topological sovereignty: melanin highway, deuterium wrench, dark photons",
+      "why_interesting": "Kruse reframes aortic calcification not as atherosclerosis but as loss of photo-magnetic capacitor function due to deuterium overload and melanin-elastin highway disconnection from solar/dark-sector energy. Cites 2026 dark-photon physics paper (Caputo & Essig, arXiv:2603.08430) and 2025 Landauer entropy principle.",
+      "source_claim": "Aortic calcification results from failed cranial isotopic refinery (sphenoid-clival-thalamic Venturi) allowing deuterium to embed in elastin, shifting vibrational frequency and blocking proton tunneling. This activates Piezo1 mechanosensitive channels → NOX2 cascade → elastin fragmentation → monocyte recruitment. Melanin-water battery loses DC current supply, calcium crystallizes as entropy sink. The aorta is a quantum photo-magnetic capacitor normally powered by solar 1878 nm (NIR water window) and dark-sector photon exchange. When deuterium overloads and melanin highway disconnects, the matrix petrifies to survive Landauer thermodynamic cost.",
+      "mechanism": "Failed sphenoid-clival-thalamic Venturi (poor sleep, no grounding, stalled HRV) → deuterium embeds in elastin chiral spring → mass loading + quantum tunneling block → chaotic micro-vibrations → Piezo1 activation → NOX2 superoxide burst → elastin fragmentation (elastokines) → inflammatory monocyte recruitment. Parallel: melanin-water battery loses solar phase-lock → DC current drops → calcium can no longer stay liquid → crystallizes as petrification. Landauer principle: extra inertial mass raises thermodynamic cost of information processing; aorta lowers cost by freezing into calcified scar.",
+      "reader_change": "Understand that aortic calcification is not passive aging or LDL-driven atherosclerosis but active loss of topological sovereignty when the cranial isotopic refinery fails. Restore sphenoid X-axis solar reset (1878 nm), ground Y-axis (vagus), clear deuterium, and aorta regains coherence. CAC scores are visible scars of lost photo-magnetic capacitor function.",
+      "source_support": "Kruse provides detailed mechanism: (1) Melanin Highway (neural crest cells + elastin scaffold); (2) Deuterium as 'Magnetic Wrench' (mass loading, tunneling block, Piezo1 activation); (3) Two tissue choices (shred → aneurysm or petrify → calcification); (4) Connection to 2025 Nature Physics Landauer paper and 2026 dark-photon review. Cites serum deuterium table (12–14 mmol/L) as diagnostic clue.",
+      "support_quotes": [
+        "The decentralized blueprint sees it as loss of topological sovereignty, the aorta's quantum photo-magnetic capacitor has been disconnected from the very Solar Flux and Dark Sector interactions that the March 2026 Dark Photon: a 2026 Perspective review (Caputo & Essig, arXiv:2603.08430) just began to quantify at the particle-physics level.",
+        "Deuterium (2H) at normal serum levels (12–14 mmol/L) is harmless in bulk blood. When the cranial isotopic refinery stalls in blood (HRV stall), it embeds in the chiral spring of elastin in the arterial wall to cause PAD: Mass loading: Deuterium is twice the mass of protium, so it shifts the natural vibrational frequency of the elastin polymer.",
+        "Aortic calcification is not passive aging or simple inflammation. It is the visible scar of lost topological sovereignty: the photo-magnetic capacitor has been disconnected from the Solar Flux + Dark Sector portal that the 2026 dark-photon review now frames as a fundamental physical reality."
+      ],
+      "source_citations": [
+        {
+          "paper": "Dark Photon: a 2026 Perspective (Caputo & Essig, arXiv:2603.08430)",
+          "claim": "Maps dark photons as portals to hidden sector that kinetically mix with ordinary photons, produce astrophysical signatures, and mediate energy/information exchange between visible and dark sectors. In living aorta, this exchange maintains elastin-melanin matrix order."
+        },
+        {
+          "paper": "2025 Nature Physics Landauer paper (unnamed)",
+          "claim": "Proves that extra inertial mass raises thermodynamic price of information processing in quantum many-body systems. Aorta overloaded with heavy water lowers Landauer bill by freezing into calcified scar."
+        }
+      ],
+      "blog_refs": [],
+      "translation_terms": [
+        "aortic calcification",
+        "topological sovereignty",
+        "photo-magnetic capacitor",
+        "dark photons",
+        "dark sector",
+        "solar flux",
+        "1878 nm (NIR water window)",
+        "neural crest cells (NCCs)",
+        "elastin",
+        "melanin",
+        "neuromelanin",
+        "vascular melanin",
+        "melanin-water battery",
+        "Exclusion Zone (EZ) water",
+        "dielectric zeta potential",
+        "sphenoid-clival Venturi refinery",
+        "3rd/4th ventricle fractionation",
+        "basilar artery",
+        "deuterium (2H)",
+        "protium",
+        "kinetic isotope effect",
+        "Piezo1 mechanosensitive channels",
+        "NADPH oxidase 2 (NOX2)",
+        "elastokines",
+        "monocyte",
+        "Landauer principle",
+        "peripheral arterial disease (PAD)",
+        "aneurysm",
+        "HRV (heart rate variability)",
+        "CAC (coronary artery calcium) score"
+      ],
+      "scientific_translation_plan": "This mechanism bridges particle physics, biophysics, and cardiology: (1) explain dark photons and dark sector as theoretical physics framework; (2) clarify how dark photons might mediate energy exchange in biological systems; (3) explain elastin as vibrational tuning fork and melanin as photonic spectrometer; (4) clarify melanin-water battery and DC current delivery; (5) explain Piezo1 mechanosensitive channels and NOX2 cascade; (6) clarify why deuterium mass loading shifts elastin frequency; (7) explain Landauer principle and thermodynamic cost of information; (8) connect cranial isotopic refinery failure to deuterium overflow; (9) explain why calcium crystallizes when melanin-water battery loses power.",
+      "risk_notes": "This is a highly speculative mechanism linking 2026 dark-photon physics to aortic calcification. Kruse cites a real arXiv paper (Caputo & Essig) but applies it to biological systems in a novel way. The 2025 Landauer paper is unnamed. Writer should present as Kruse's novel biophysical interpretation, not established cardiology. Emphasize the mechanism chain (refinery failure → deuterium overload → elastin damage + melanin disconnect → calcification) without claiming proof. The dark-photon connection is speculative."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060105087502954514",
+      "source_url": "https://twitter.com/DrJackKruse/status/2060105087502954514",
+      "source_authority": "jack",
+      "value_type": "mechanism",
+      "priority": 4,
+      "title": "Cardiac arrhythmias as deuterium-driven inertial mass overload and Lagrangian gravity well imbalance",
+      "why_interesting": "Kruse reframes arrhythmias not as ion-channel diseases but as physics-driven compensation for deuterium-laden blood overloading the heart's Lagrangian gravity well. Connects serum deuterium table (12–14 mmol/L) to ATP efficiency drop, hypocretin suppression, elastin degradation, and valve calcification.",
+      "source_claim": "The heart is the Lagrangian gravity well of the body's mass-energy balance. When cranial isotopic refinery fails (poor sleep, no grounding, stalled HRV), deuterium puddles in CSF and circulates in blood. This raises inertial mass, increases Landauer thermodynamic cost of conduction, and forces compensatory rhythm changes. Serum deuterium at 12–14 mmol/L is the single most abundant vital element, far exceeding calcium/magnesium/potassium. High deuterium jams ATP synthase, drops ATP output ~5%, forcing heart rate increase up to ~28%. Hypocretin suppression (from high inertial mass sensed via tanycytes) modulates autonomic tone. Elastin degradation in vessels/valves from deuterium-induced Piezo1 activation and NOX2 cascade causes calcification, stretch-sensitive channel activation, and re-entry circuits for AFib.",
+      "mechanism": "Failed sphenoid Venturi (sleep deprivation, poor grounding) → deuterium accumulation in CSF/blood → high inertial mass → Landauer thermodynamic cost spike → ATP synthase jamming → ATP output drop ~5% → compensatory tachycardia (up to ~28% HR increase) OR bradycardia/pauses (system throttles to lower entropy cost). Parallel: hypocretin suppression → reduced sympathetic drive → autonomic instability. Elastin degradation: deuterium embeds in chiral spring → Piezo1 activation → NOX2 superoxide → elastokine release → monocyte infiltration → elastin fragmentation → vessel stiffening → increased afterload → baroreceptor reflex → AFib/tachycardia. Valve calcification: melanin-water battery loses DC current → calcium crystallizes → valve thickening/stenosis → chamber stretch → re-entry substrate.",
+      "reader_change": "Understand that arrhythmias are not random channelopathies but parallel mass-quench responses to excessive inertial mass from deuterium overload. The serum deuterium table (12–14 mmol/L) is the diagnostic clue. Restore cranial isotopic refinery (sleep, grounding, circadian reset), clear deuterium, and the heart stops needing to throttle rhythm. Elastin loss in vessels/valves is the structural scar of the same entropy that produces plaque.",
+      "source_support": "Kruse provides detailed mechanism: (1) Heart as Lagrangian gravity well; (2) Deuterium as inertial mass brake; (3) ATP efficiency drop and compensatory tachycardia; (4) Hypocretin suppression and autonomic instability; (5) Elastin degradation and valve calcification; (6) Connection to 2025 Nature Physics Landauer confirmation. Cites serum deuterium table as 'always the clue.'",
+      "support_quotes": [
+        "In physics, the Lagrangian (L = kinetic energy T minus potential energy V) governs the path of least action. Here: T = pulsatile kinetic flow generated by the heart. V = gravitational/isotopic potential from circulating deuterium-rich water (extra mass from failed sphenoid Venturi sorting via the cerebral aqueduct and CVOs).",
+        "The serum deuterium table is decisive: at 12–14 mmol/L (150 ppm), deuterium is the single most abundant 'vital element' listed, far exceeding calcium, magnesium, potassium, or glucose.",
+        "These are not random channelopathies. That is pure centralized nonsense. They are the heart performing a parallel mass-quench to the brain's hypocretin response by temporarily altering rhythm to reduce entropy production when inertial mass is excessive."
+      ],
+      "source_citations": [
+        {
+          "paper": "2025 Nature Physics Landauer confirmation (unnamed)",
+          "claim": "Proves that extra mass raises thermodynamic price of information processing. The heart adjusts rate or regularity to pay a lower bill when inertial mass is excessive."
+        }
+      ],
+      "blog_refs": [],
+      "translation_terms": [
+        "Lagrangian mechanics",
+        "kinetic energy",
+        "potential energy",
+        "deuterium (2H)",
+        "inertial mass",
+        "Landauer principle",
+        "ATP synthase",
+        "ATP efficiency",
+        "hypocretin (orexin)",
+        "tanycytes",
+        "cerebrospinal fluid (CSF)",
+        "sphenoid Venturi refinery",
+        "cerebral aqueduct",
+        "circumventricular organs (CVOs)",
+        "elastin",
+        "Piezo1 mechanosensitive channels",
+        "NADPH oxidase 2 (NOX2)",
+        "elastokines",
+        "monocyte",
+        "endothelium",
+        "zeta potential",
+        "atrial fibrillation (AFib)",
+        "ectopic beats",
+        "re-entry circuits",
+        "baroreceptor reflex",
+        "heart rate variability (HRV)",
+        "melanin-water battery",
+        "valve calcification",
+        "peripheral arterial disease (PAD)"
+      ],
+      "scientific_translation_plan": "This mechanism requires physics + biology translation: (1) explain Lagrangian mechanics and path of least action; (2) clarify how deuterium adds inertial mass to blood; (3) explain ATP synthase jamming and why 5% efficiency drop causes 28% HR increase; (4) clarify hypocretin/orexin and its role in autonomic tone; (5) explain tanycytes as deuterium sensors in 3rd/4th ventricle; (6) clarify Landauer principle and thermodynamic cost of information; (7) explain Piezo1 mechanosensitive channels and NOX2 cascade; (8) clarify elastin degradation and valve calcification; (9) explain re-entry circuits in AFib.",
+      "risk_notes": "This is a long, mechanistically dense Kruse post reframing cardiology through physics. The serum deuterium table is real (12–14 mmol/L is accurate), but the causal chain (deuterium → inertial mass → Landauer cost → arrhythmia) is Kruse's novel interpretation. Writer should present as Kruse's biophysical model, not established cardiology. Emphasize the mechanism chain without overstating evidence."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060116797911617831",
+      "source_url": "https://twitter.com/DrJackKruse/status/2060116797911617831",
+      "source_authority": "jack",
+      "value_type": "mechanism",
+      "priority": 4,
+      "title": "GLP-1/GIP agonists as isotopic flush: deuterium evacuation mechanism, not weight loss",
+      "why_interesting": "Kruse reframes SELECT/FLOW/SURPASS-CVOT trial benefits not as weight loss but as forced deuterium clearance via G3P shuttle upregulation. Explains why cardiovascular benefits are independent of weight reduction and why Retatrutide's glucagon agonism causes muscle loss in lean individuals via Chromosome 2 fusion and Landauer limit breach.",
+      "source_claim": "GLP-1/GIP agonists work as high-velocity hydraulic bypass that forces tissues to upregulate G3P shuttle, throwing heavy deuterium out of mitochondrial matrix. This temporarily un-jams ATP synthase stators, restoring 9,000 RPM velocity and local voltage, cutting cardiovascular events by 20%. SURPASS-CVOT missed superiority because Tirzepatide's glucagon agonism forces continuous, non-circadian fluid manipulation, uncoupling liver CYP monooxygenase superfamily and breaching Landauer's Limit. Chromosome 2 interstitial telomeric loop fuse blows, p53 surges, and lean individuals lose muscle mass as cells execute atavistic retreat to protect nuclear data from electrostatic overload.",
+      "mechanism": "Un-grounded indoor lifestyle → deuterated epigenetic landscape → high deuterium in mitochondria → F0-F1 ATP synthase stator jamming → 9,000 RPM drop to zero → 30 million V/m membrane potential loss → pseudohypoxia → brain interprets as calorie famine → permanent hunger. Synthetic GLP-1/GIP agonist injection → forced G3P shuttle upregulation → high-velocity deuterium evacuation from mitochondrial matrix → ATP synthase stators return to 9,000 RPM → local voltage restoration → cardiovascular event reduction 20%. But: continuous non-circadian agonism → CYP pathway chaos → Landauer limit breach (Q=kBTln2) → Chromosome 2 telomeric fuse blowout → p53 surge → MITF-AMPAR down-regulation → atavistic muscle retreat (lean individuals lose mass).",
+      "reader_change": "Understand that GLP-1/GIP agonists are crude quantum centrifuges forcing deuterium evacuation, not appetite suppressants. Benefits are independent of weight loss because they restore mitochondrial voltage. Lean individuals on Retatrutide lose muscle because continuous glucagon agonism breaches Landauer limit and forces atavistic tissue retreat. Long-term use without addressing underlying deuterium overload will shred longevity.",
+      "source_support": "Kruse analyzes SURPASS-CVOT trial (13,000 patients, 4 years, Tirzepatide vs Dulaglutide): primary 3-point cardiovascular endpoint missed pre-specified superiority threshold; post-hoc JAMA Cardiology 2026 showed 16% RRR (hypothesis-generating, not clean win). SELECT (17,604 adults, no diabetes) cut major CV events 20% independent of weight loss. FLOW (type 2 diabetes + CKD) cut kidney composite 24% independent of weight reduction. Kruse explains: these benefits track with deuterium clearance, not weight loss.",
+      "support_quotes": [
+        "The dramatic 20–24% relative risk reductions documented in the SELECT and FLOW trials do not track with mechanical weight loss, meaning these peptides are operating on a deeper, sub-molecular energetic axis.",
+        "The reason the cardiovascular and renal benefits of Semaglutide and Tirzepatide operate entirely independent of weight loss is that these molecules function as crude, macro-scale quantum centrifuges.",
+        "When a patient injects a synthetic GLP-1/GIP receptor agonist, the drug acts as a high-velocity hydraulic bypass: The Isotopic Flush: It manually forces the tissues to upregulate a high-velocity variant of the G3P (Glycerol-3-Phosphate) shuttle, throwing heavy Deuterium out of the mitochondrial matrix to temporarily un-jam the stators."
+      ],
+      "source_citations": [
+        {
+          "paper": "JAMA Cardiology 2026 post-hoc analysis",
+          "claim": "SURPASS-CVOT showed 16% relative risk reduction vs Dulaglutide (hypothesis-generating, not pre-specified)."
+        }
+      ],
+      "blog_refs": [],
+      "translation_terms": [
+        "GLP-1 (glucagon-like peptide-1)",
+        "GIP (glucose-dependent insulinotropic polypeptide)",
+        "agonist",
+        "Semaglutide",
+        "Tirzepatide",
+        "Retatrutide",
+        "Dulaglutide",
+        "deuterium (2H)",
+        "kinetic isotope effect (KIE)",
+        "F0-F1 ATP synthase",
+        "G3P (Glycerol-3-Phosphate) shuttle",
+        "mitochondrial matrix",
+        "pseudohypoxia",
+        "membrane potential",
+        "CYP (Cytochrome P450) monooxygenase",
+        "Landauer limit",
+        "Chromosome 2 interstitial telomeric loop",
+        "p53 master switch",
+        "MITF-AMPAR pathways",
+        "atavistic retreat",
+        "glucagon (GCG)",
+        "exocrine pancreas",
+        "sodium bicarbonate",
+        "circadian rhythm",
+        "Cortisol Awakening Response (CAR)",
+        "relative risk reduction (RRR)"
+      ],
+      "scientific_translation_plan": "This mechanism requires trial data + biophysics translation: (1) explain why SELECT/FLOW benefits are independent of weight loss (unusual finding); (2) clarify deuterium overload and ATP synthase jamming; (3) explain G3P shuttle and how it evacuates deuterium; (4) clarify why restoring ATP synthase velocity cuts cardiovascular events; (5) explain Landauer limit and why continuous agonism breaches it; (6) clarify Chromosome 2 telomeric fuse and p53 surge; (7) explain atavistic muscle retreat as cell's survival response; (8) clarify why lean individuals are vulnerable to muscle loss on Retatrutide.",
+      "risk_notes": "This is a novel reinterpretation of major CV trials (SELECT, FLOW, SURPASS-CVOT). Kruse cites real trials but offers a speculative mechanism (deuterium evacuation) not in the original papers. The SURPASS-CVOT miss is real (trial did not hit pre-specified superiority). Writer should present as Kruse's biophysical interpretation of trial data, not the trials' own conclusions. Emphasize that benefits are independent of weight loss (true) and that Kruse offers a deuterium-based mechanism (speculative)."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060153407986340290",
+      "source_url": "https://twitter.com/DrJackKruse/status/2060153407986340290",
+      "source_authority": "jack",
+      "value_type": "treatment",
+      "priority": 3,
+      "title": "RO water as neurological risk reduction alternative to DDW",
+      "why_interesting": "Direct Kruse treatment guidance: RO water can be used to supercool and lower neurological risks (PTSD, mental diseases) but is less effective than DDW. Practical alternative for patients unable to access deuterium-depleted water.",
+      "source_claim": "RO (reverse osmosis) water can be used to supercool and lower some neurological risks, particularly PTSD and mental diseases. However, it is not as effective as DDW (deuterium-depleted water).",
+      "mechanism": "RO water removes dissolved minerals and some isotopic mass, allowing for partial supercooling effect and reduced neurological burden compared to tap water. DDW is more effective because it specifically depletes deuterium, the heavy isotope that jams mitochondrial ATP synthase and causes pseudohypoxia.",
+      "reader_change": "If DDW is unavailable or too expensive, RO water or distilled water can serve as a starting point for neurological risk reduction, though it will not achieve the same isotopic depletion as DDW.",
+      "source_support": "Direct quote from Kruse in response to member question about RO water as DDW alternative.",
+      "support_quotes": [
+        "It wont be as effective as DDW but RO water can used to supercool and lower some neurological risks. PTSD and mental diseases are some."
+      ],
+      "source_citations": [],
+      "blog_refs": [],
+      "translation_terms": [
+        "RO water (reverse osmosis)",
+        "DDW (deuterium-depleted water)",
+        "deuterium",
+        "supercooling",
+        "PTSD (post-traumatic stress disorder)",
+        "neurological risk"
+      ],
+      "scientific_translation_plan": "Explain that RO water removes minerals and some isotopic mass, making it a partial alternative to DDW. Clarify that DDW specifically targets deuterium depletion, which is more effective for neurological conditions. Note that RO is more accessible/affordable than DDW but less potent.",
+      "risk_notes": "This is a short, direct treatment guidance. Kruse acknowledges RO is less effective than DDW but offers it as a practical alternative. No dosing or protocol details provided beyond 'can be used.' Writer should present as Kruse's comparative guidance, not a full protocol."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060033799828979958",
+      "source_url": "https://twitter.com/DrJackKruse/status/2060033799828979958",
+      "source_authority": "jack",
+      "value_type": "mechanism",
+      "priority": 4,
+      "title": "Sulfur as semiconductor spin-gating shield: surface permittivity management against parasites",
+      "why_interesting": "Kruse reframes the Texas folk practice of sulfur powder on shoes/ankles as solid-state surface permittivity management. Sulfur acts as high-affinity semiconductor spin-gating shield that alters skin boundary layer dielectric constant, making tissue electromagnetically hostile to parasites.",
+      "source_claim": "Elemental sulfur acts as a high-affinity semiconductor spin-gating shield that alters the localized dielectric constant (κ) of the skin boundary layer, making the tissue matrix electromagnetically hostile to Proterozoic parasites (ticks, chiggers, mosquitoes). The practice is dismissed as folk remedy but is actually first-principles physics of mass, charge, and voltage. East Texas sits within SAA western border with high-humidity coastal plain and stagnant overburden of heavy deuterium. Parasites are Proterozoic hardware wired to survive in high-mass, low-oxygen, anaerobic pools and track high-entropy infrared emission vectors from deuterated bodies.",
+      "mechanism": "Powdered sulfur on skin → altered localized dielectric constant (κ) of boundary layer → tissue becomes electromagnetically unreadable to parasite sensory arrays. Parasites track infrared/biophotonic emission from deuterated, pseudohypoxic bodies (κ≈160→80, chaotic UPE matrix fire). Sulfur creates electromagnetic shield that masks this signature. East Texas geography: high humidity + coastal plain + SAA influence → stagnant water table → heavy deuterium puddle in vegetation → un-grounded humans walk through → internal water dielectric collapse → skin loses negative Zeta potential → mitochondrial nanomotors drop to zero RPM → pseudohypoxia → chaotic UPE flare → parasite beacon.",
+      "reader_change": "Understand that sulfur powder is not a folk remedy but a solid-state physics solution to parasite tracking. Apply sulfur to shoes/socks/pant legs before walking through wet grass in high-deuterium areas (East Texas, SAA regions). Sulfur alters skin boundary layer permittivity, masking the infrared/biophotonic signature that parasites use to locate hosts.",
+      "source_support": "Kruse provides detailed mechanism: (1) Sulfur as semiconductor spin-gating shield; (2) Stochastic Electrodynamics (SED) and surface chemistry; (3) Geographic boundary (East Texas east of Dallas); (4) SAA western border influence; (5) Parasite sensory arrays as infrared/biophotonic tracking antennas; (6) Deuterated body as beacon.",
+      "support_quotes": [
+        "The childhood practice of spreading powdered sulfur on your shoes and ankles to repel ticks and chiggers across the wet grass east of Dallas is the definitive, real-world manifestation of solid-state surface permittivity management.",
+        "Elemental sulfur acts as a high-affinity, semiconductor spin-gating shield that alters the localized dielectric constant (κ) of the skin boundary layer, making the tissue matrix completely un-readable and electromagnetically hostile to Proterozoic parasites.",
+        "Ticks and chiggers track this specific, high-entropy infrared emission vector. They home in on the leaky electromagnetic signature of a deuterated body plan, tracking it like a beacon to attach and feed on the heavy, un-flushed plasma sludge."
+      ],
+      "source_citations": [],
+      "blog_refs": [],
+      "translation_terms": [
+        "sulfur (elemental)",
+        "semiconductor",
+        "spin-gating shield",
+        "dielectric constant (κ)",
+        "skin boundary layer",
+        "Stochastic Electrodynamics (SED)",
+        "Proterozoic",
+        "deuterium",
+        "pseudohypoxia",
+        "Zeta potential",
+        "mitochondrial nanomotors",
+        "Ultra-weak Photon Emission (UPE)",
+        "infrared emission",
+        "biophotonic tracking",
+        "SAA (South Atlantic Anomaly)",
+        "East Texas geography",
+        "coastal plain",
+        "water table"
+      ],
+      "scientific_translation_plan": "This mechanism requires materials science + biophysics translation: (1) explain sulfur as semiconductor and how it alters surface permittivity; (2) clarify dielectric constant and skin boundary layer; (3) explain how altered permittivity makes tissue 'unreadable' to parasites; (4) clarify parasite sensory arrays and infrared/biophotonic tracking; (5) explain deuterium overload and pseudohypoxia in East Texas context; (6) explain why SAA western border creates stagnant deuterium overburden; (7) clarify Zeta potential and why loss makes body a 'beacon.'",
+      "risk_notes": "This is a long, mechanistically dense Kruse post reframing a Texas folk practice through solid-state physics. The sulfur application is real and traditional, but Kruse's mechanism (semiconductor spin-gating, permittivity alteration) is speculative. Writer should present as Kruse's novel biophysical interpretation of a folk practice, not established entomology. Emphasize the mechanism chain (sulfur → permittivity shift → electromagnetic masking) without overstating evidence."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/laschamp-geomagnetic-excursion.32850/",
+      "source_url": "https://forum.jackkruse.com/threads/laschamp-geomagnetic-excursion.32850/",
+      "source_authority": "jack",
+      "value_type": "mechanism",
+      "priority": 4,
+      "title": "Pentalayer graphene as melanin-rDNA mirror: fractional quantum Hall effect without external magnetic field",
+      "why_interesting": "Kruse presents pentalayer graphene's anomalous fractional quantum Hall effect (no external magnetic field required) as solid-state proof of melanin-rDNA quantum architecture. Anyons and fractional-charge states are engineered quantum states that could be replicated in biological systems.",
+      "source_claim": "Pentalayer graphene creates fractional quantum Hall effect via moiré superlattice without external magnetic field. This is the definitive macro-scale material physics proof that melanin and rDNA can engineer exotic quantum states (anyons, fractional-charge quasiparticles) on demand. The discovery proves that biological systems can routinely create and control fractional-charge states in everyday lab conditions, validating Kruse's thesis that melanin is a quantum material capable of generating topologically protected states.",
+      "mechanism": "In pentalayer graphene: five stacked, slightly twisted sheets → electrons slow dramatically → mutual repulsion becomes dominant force → collective quantum state recreates fractional quantum Hall effect without external magnetic field. The moiré superlattice 'fakes' the magnetic field from inside the material. Result: anyons (quasiparticles with fractional electron charge) that are robust against noise. In melanin: similar twisted, stacked architecture → electrons slow → mutual repulsion → fractional-charge states → topologically protected quantum coherence.",
+      "reader_change": "Understand that pentalayer graphene's anomalous fractional quantum Hall effect is a solid-state proof that biological materials (melanin, rDNA) can generate exotic quantum states without external magnetic fields. This validates the thesis that melanin is a quantum material capable of fault-tolerant quantum computing at biological scales.",
+      "source_support": "Kruse cites the pentalayer graphene discovery as 'the definitive, macro-scale material physics proof' of melanin-rDNA quantum architecture. Discusses anyons, moiré superlattices, and fractional-charge states as engineered quantum phenomena.",
+      "support_quotes": [
+        "Pentalayer Graphene is the Melanin-rDNA Mirror: The structural discovery of fractional quantum Hall states in twisted pentalayer graphene without any external magnetic field is the definitive, macro-scale material physics proof of [melanin-rDNA quantum architecture]."
+      ],
+      "source_citations": [],
+      "blog_refs": [],
+      "translation_terms": [
+        "pentalayer graphene",
+        "fractional quantum Hall effect",
+        "moiré superlattice",
+        "anyons",
+        "quasiparticles",
+        "fractional-charge states",
+        "topologically protected",
+        "quantum coherence",
+        "melanin",
+        "rDNA (ribosomal DNA)",
+        "quantum material",
+        "fault-tolerant quantum computing"
+      ],
+      "scientific_translation_plan": "Explain pentalayer graphene and how twisted stacking creates moiré superlattice. Clarify fractional quantum Hall effect and why external magnetic field is normally required. Explain anyons and fractional-charge quasiparticles. Clarify topological protection and robustness against noise. Note that Kruse draws analogy between graphene architecture and melanin structure, suggesting melanin could generate similar quantum states.",
+      "risk_notes": "This is a forum post by Kruse drawing an analogy between pentalayer graphene's quantum properties and melanin's proposed quantum architecture. The graphene discovery is real, but the melanin analogy is speculative. Writer should present as Kruse's novel interpretation of graphene physics as validation of melanin quantum thesis, not established biology."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/understanding-vortices.32685/",
+      "source_url": "https://forum.jackkruse.com/threads/understanding-vortices.32685/",
+      "source_authority": "jack",
+      "value_type": "mechanism",
+      "priority": 4,
+      "title": "Core-mantle decoupling: 98.3% Chandler wobble reduction and T-2 relaxation window collapse",
+      "why_interesting": "Kruse presents evidence of core-mantle electromagnetic decoupling via 98.3% Chandler wobble reduction and 97.2% annual wobble reduction. This collapses the T-2 relaxation window for human protons, reducing the restoring force on internal proton coherence globally.",
+      "source_claim": "Earth's core and mantle are electromagnetically decoupling. The Chandler wobble has reduced by 98.3% and the annual wobble by 97.2%, indicating that the core's magnetic field is no longer strong enough to grab and force the mantle to spin in unison. The transmission of the planet has slipped into neutral. This collapses the T-2 relaxation window for human protons, reducing the restoring force on internal proton coherence. Wounds are not healing and diabetics are being created at record rates in places that should have none.",
+      "mechanism": "Degraded electromagnetic coupling at core-mantle boundary → outer core magnetic field weakens → mantle no longer forced to spin in unison → planetary transmission slips into neutral → restoring force on human protons collapses → T-2 relaxation window stretches to maximum → ability to naturally 'hold phase' against environmental noise drops to all-time low → wounds fail to heal, metabolic disease accelerates.",
+      "reader_change": "Understand that core-mantle decoupling is reducing Earth's ability to provide a coherent magnetic restoring force for human proton spin. This manifests as impaired wound healing and metabolic disease acceleration. The T-2 relaxation window collapse is a planetary-scale biomarker of geomagnetic instability.",
+      "source_support": "Kruse cites specific wobble reductions (Chandler 98.3%, annual 97.2%) as evidence of core-mantle decoupling. Discusses implications for T-2 relaxation and human proton coherence.",
+      "support_quotes": [
+        "The paper states that the primary driver is a 'degraded electromagnetic coupling at the core-mantle boundary.' My Interpretation: The electric and magnetic fields generated by the outer core are no longer strong enough to 'grab' the heavy mantle above and force it to spin in unison. The 'Transmission' of the planet has slipped into neutral.",
+        "The Result: The Restoring Force on your internal protons is collapsing globally. Without that rigid core-mantle coupling to clean and organize the magnetic field lines, the planetary Z-axis is becoming a chaotic mess. This means the human T-2 relaxation window is stretching to its absolute maximum."
+      ],
+      "source_citations": [],
+      "blog_refs": [],
+      "translation_terms": [
+        "core-mantle boundary",
+        "electromagnetic coupling",
+        "Chandler wobble",
+        "annual wobble",
+        "outer core",
+        "mantle",
+        "magnetic field",
+        "T-2 relaxation",
+        "proton spin",
+        "restoring force",
+        "phase coherence",
+        "planetary Z-axis",
+        "geomagnetic field"
+      ],
+      "scientific_translation_plan": "Explain Chandler wobble and what it measures (Earth's rotational axis precession). Clarify core-mantle coupling and how magnetic field from outer core drives mantle rotation. Explain T-2 relaxation in NMR/MRI context (time for proton spin to lose coherence). Clarify how planetary magnetic field provides restoring force for human proton spin. Note that Kruse interprets wobble reduction as evidence of decoupling with biological consequences.",
+      "risk_notes": "This is a forum post by Kruse interpreting geophysical data (wobble reduction) as evidence of core-mantle decoupling with biological consequences. The wobble reduction figures are specific (98.3%, 97.2%) but the source paper is not named. The biological interpretation (T-2 relaxation collapse, wound healing failure) is speculative. Writer should present as Kruse's interpretation of geophysical data, not established geophysics or medicine."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/ticks-magnetism.32849/",
+      "source_url": "https://forum.jackkruse.com/threads/ticks-magnetism.32849/",
+      "source_authority": "jack",
+      "value_type": "protocol",
+      "priority": 3,
+      "title": "Sulfur and diatomaceous earth for parasite prevention: surface permittivity and mechanical barrier",
+      "why_interesting": "Kruse provides practical parasite prevention protocol using sulfur (surface dusting, sulfur sock) and diatomaceous earth (soil application). Explains mechanisms as surface permittivity management and mechanical barrier.",
+      "source_claim": "Use powdered or pelletized sulfur for surface dusting on lawn/turf to create barrier that disrupts parasite metabolism. Use 'sulfur sock' (old tube sock filled with powdered sulfur, tied off) to whack against boots/socks/pant legs for personal protection. Use diatomaceous earth (DE) in soil mix for natural pest prevention without altering pH or harming plants. DE's razor-sharp edges physically slice through protective outer shells of soil-dwelling pests, dehydrating and killing them naturally.",
+      "mechanism": "Sulfur: alters localized dielectric constant of skin boundary layer, making tissue electromagnetically hostile to parasites. DE: microscopic fossilized aquatic organisms with razor-sharp edges physically damage parasite exoskeletons, causing dehydration and death.",
+      "reader_change": "Apply sulfur powder to shoes/socks/pant legs before walking through wet grass in high-parasite areas. Dust lawn/turf with sulfur to create surface barrier. Use diatomaceous earth in soil to prevent soil-dwelling pests. These are natural, non-toxic alternatives to chemical sprays.",
+      "source_support": "Kruse provides specific application instructions for sulfur and DE, with explanation of mechanisms.",
+      "support_quotes": [
+        "If you want to use sulfur safely to battle these pests, keep it on the surface or on your body: Surface Dusting (The Yard): Use a spreader to lightly apply powdered or pelletized sulfur across the top of your lawn or turf. This creates a surface barrier that disrupts their metabolism and forces them out of the area.",
+        "The 'Sulfur Sock' Trick (Personal Protection): To keep them off you while gardening, fill an old tube sock with powdered sulfur, tie it off, and whack it against your boots, socks, and pant legs. The fine dust layer is an incredibly effective natural shield against chiggers.",
+        "If you want a natural pest-preventative that actually belongs inside a soil mix, use Diatomaceous Earth (DE). DE consists of microscopic, fossilized aquatic organisms. It does not alter soil pH or harm plants, but its razor-sharp edges physically slice through the protective outer shells of any soil-dwelling pests, dehydrating and killing them naturally."
+      ],
+      "source_citations": [],
+      "blog_refs": [],
+      "translation_terms": [
+        "sulfur (elemental)",
+        "diatomaceous earth (DE)",
+        "dielectric constant",
+        "parasite",
+        "chiggers",
+        "ticks",
+        "exoskeleton",
+        "dehydration",
+        "soil pH"
+      ],
+      "scientific_translation_plan": "Explain sulfur as semiconductor and how it alters surface permittivity. Clarify diatomaceous earth composition (fossilized diatoms) and mechanical action. Explain why DE doesn't harm plants or alter soil chemistry. Note that these are traditional, non-toxic pest prevention methods.",
+      "risk_notes": "This is a practical protocol post with clear application instructions. Sulfur and DE are real, traditional pest prevention methods. Kruse's mechanism (permittivity alteration for sulfur, mechanical damage for DE) is partially speculative but grounded in real properties of these materials. Writer should present as practical protocol with Kruse's biophysical interpretation of mechanisms."
+    }
+  ],
+  "unselected_items": [
+    {
+      "source_type": "tweet",
+      "source_id": "2060177318383890637",
+      "reason_category": "thin",
+      "reason": "Kruse quote 'tumor was SAA born' lacks mechanism or protocol detail."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060159743298044260",
+      "reason_category": "chatter",
+      "reason": "Retweet of vague ancient site video with no biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060158653609500982",
+      "reason_category": "chatter",
+      "reason": "One-word response '100%' to incandescent lighting comparison; no new signal."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060155322346381437",
+      "reason_category": "chatter",
+      "reason": "Social criticism of reader comprehension; no biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060153656666640855",
+      "reason_category": "unclear",
+      "reason": "Kruse asks 'You tell me?' about Argentina/North Pole; no answer or mechanism provided."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060151175261929575",
+      "reason_category": "chatter",
+      "reason": "One-line response 'A lot of wasted gym hours' to unrelated news story."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060149521615614076",
+      "reason_category": "chatter",
+      "reason": "One-line response 'So will their longevity' to French population decline; no mechanism."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060144512773615626",
+      "reason_category": "chatter",
+      "reason": "Political commentary on Thiel/Palantir/Argentina without biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060143110252797954",
+      "reason_category": "chatter",
+      "reason": "Vague reference to SDI/MKUTLRA/BlueBeam without mechanism or detail."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060142707037630785",
+      "reason_category": "chatter",
+      "reason": "Political commentary on Thiel/Vance/Epstein/Tether without biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060119883157815574",
+      "reason_category": "chatter",
+      "reason": "Kruse offers kittens to reader; no biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060119580077395984",
+      "reason_category": "chatter",
+      "reason": "Political commentary on Thiel/DJT/Tel Aviv without biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060119211444216160",
+      "reason_category": "thin",
+      "reason": "Kruse labels child 'lattice locked' without explanation or case detail."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060118709037899969",
+      "reason_category": "thin",
+      "reason": "Kruse says DDW is 'too expensive to do' without protocol or alternative."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060121186692911491",
+      "reason_category": "thin",
+      "reason": "Kruse says 'depends on your N=1' without explanation or guidance."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060090038566703296",
+      "reason_category": "chatter",
+      "reason": "Retweet of political commentary on prison surveillance contract; no biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060105148123246762",
+      "reason_category": "chatter",
+      "reason": "Retweet of pharma criticism without new mechanism or protocol."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060105645907415461",
+      "reason_category": "chatter",
+      "reason": "Retweet of Thiel/Argentina news without biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060113404149235811",
+      "reason_category": "chatter",
+      "reason": "Retweet of political commentary on Israeli foreign agent registration; no biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060040997854150952",
+      "reason_category": "chatter",
+      "reason": "Retweet of social praise; no biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060040919844610140",
+      "reason_category": "thin",
+      "reason": "Kruse mentions getting DDW 'for free' from unspecified store; no protocol detail."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060032638790848665",
+      "reason_category": "chatter",
+      "reason": "Kruse posts joke about employees sleeping on job; no biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060007741607772585",
+      "reason_category": "baseline",
+      "reason": "Retweet of deuterium depletion via glucagon gene; known baseline mechanism."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060004277200793748",
+      "reason_category": "baseline",
+      "reason": "Retweet of blue light/flicker-free computer recommendation; known baseline."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060001629277995164",
+      "reason_category": "baseline",
+      "reason": "Retweet of Framingham cholesterol reanalysis; known baseline critique."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060119936190620097",
+      "reason_category": "chatter",
+      "reason": "Retweet of anecdote about eating match heads in Panama; no mechanism."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/owens-journal-cci-aai-pots-mcas-dysautonomia-possible-eds.32474/",
+      "reason_category": "thin",
+      "reason": "Forum post is link to another journal thread; no content or signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/f4-cirrhosis-of-the-liver.32853/",
+      "reason_category": "unanswered_question",
+      "reason": "Member asks if Kruse has treated cirrhosis patients; no answer provided."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/all-things-australia.26992/unread",
+      "reason_category": "thin",
+      "reason": "Forum post is Twitter link only; no content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/jack-kruse-podcast-curriculum-youtube-edition-v1.23331/unread",
+      "reason_category": "chatter",
+      "reason": "Forum post is social praise of podcast curriculum; no new signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/kathleen%E2%80%99s-optimal-journal.31612/",
+      "reason_category": "thin",
+      "reason": "Member journal entry on eye floaters and DDW drops; no new protocol or mechanism."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/jacks-journal-journey-2019-and-beyond.23037/unread",
+      "reason_category": "chatter",
+      "reason": "Kruse posts divorce wisdom quote; no biological content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/jumping-with-a-sailboat-wings.32073/unread",
+      "reason_category": "thin",
+      "reason": "Forum member discusses marijuana/tobacco cessation; no Kruse mechanism or protocol."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/nicks-optimal-journal.30575/unread",
+      "reason_category": "thin",
+      "reason": "Forum member cryptic comment about 'brains are +3'; no mechanism or detail."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/vagal-nerve-stimulation-tips.32826/",
+      "reason_category": "chatter",
+      "reason": "Forum post is thank-you message; no content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/all-things-glp-1-agonists.32852/",
+      "reason_category": "duplicate",
+      "reason": "Forum post duplicates tweet 2060116797911617831; already selected."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/chromosome-2.32281/unread",
+      "reason_category": "thin",
+      "reason": "Forum post is Twitter link only; no content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/why-is-el-salvador-more-favored-then-costa-rica.28702/unread",
+      "reason_category": "unanswered_question",
+      "reason": "Member asks how to get passport without money; no Kruse answer or biological content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/all-things-panama.32851/",
+      "reason_category": "thin",
+      "reason": "Forum post is Twitter link only; no content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/we-are-being-carpet-bombed-in-aus.31553/",
+      "reason_category": "thin",
+      "reason": "Forum member discusses nosebleeds vs menstruation; no mechanism or protocol."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/i-stay-away-from-nnemf.30545/unread",
+      "reason_category": "thin",
+      "reason": "Forum member provides nnEMF detection tips; known baseline practice."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/all-things-el-salvador.26387/",
+      "reason_category": "thin",
+      "reason": "Forum member comments on Bitcoin spending in El Salvador; no biological content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/the-btc-thread-when-you-need-some-answers-love-advice-or-friendship-come-here.25436/unread",
+      "reason_category": "thin",
+      "reason": "Forum member posts Bitcoin ROI link; no biological content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/rustys-emf-thread.32381/unread",
+      "reason_category": "thin",
+      "reason": "Forum post is Twitter link only; no content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/alice-in-wonderland.32807/",
+      "reason_category": "thin",
+      "reason": "Forum member discusses humming/yoga for vagal stimulation; known baseline practice."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/wunsch-2026-is-getting-further-from-the-truth.32342/unread",
+      "reason_category": "thin",
+      "reason": "Forum post is long personal narrative about finding Kruse; no new mechanism or protocol."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/know-your-religious-history-to-get-the-sides-right.32466/unread",
+      "reason_category": "chatter",
+      "reason": "Kruse posts quote about religion as opium; no biological content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/gaia-what-are-you-doing.32637/",
+      "reason_category": "thin",
+      "reason": "Forum member discusses pole flip plausibility; no mechanism or protocol."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/sleeping-outside.32840/",
+      "reason_category": "thin",
+      "reason": "Forum member describes Yosemite hot springs; no mechanism or protocol."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/mastic-gum-option-or-deuterium-bomb.32669/",
+      "reason_category": "thin",
+      "reason": "Forum member asks about mastic gum product quality; no protocol or mechanism."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/the-biophysics-of-soviet-gazirovka-why-was-carbonated-water-a-state-mandated-utility.32605/",
+      "reason_category": "thin",
+      "reason": "Forum member expresses skepticism about DDW companies; no mechanism or protocol."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/declination-vs-nnemm-stress.32845/",
+      "reason_category": "thin",
+      "reason": "Forum post is single word 'Thermograms'; no content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/topical-ivermectin-and-fenbendazole-for-skin-cancers.32830/",
+      "reason_category": "thin",
+      "reason": "Forum member describes personal ivermectin use for skin lesion; no mechanism or protocol."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/barcode-of-fermented-foods.32310/",
+      "reason_category": "chatter",
+      "reason": "Forum post is thank-you message; no content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/carbonated-water.32847/",
+      "reason_category": "thin",
+      "reason": "Forum member describes positive experience with carbonated mineral water; no new mechanism."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/anyone-from-poland-cyprus-or-portugal.30377/",
+      "reason_category": "chatter",
+      "reason": "Forum member introduces self from Portugal; no biological content."
+    },
+    {
+      "source_type": "tweet",
+      "reason_category": "model_omitted",
+      "reason": "Curator omitted this source from the audit lists; keeping it audit-only rather than selecting it.",
+      "source_id": "2060132803216285718",
+      "title": "2. 5. The Computational Audit The first-principles Python script below models the instantaneous quantum collapse as the "
+    },
+    {
+      "source_type": "tweet",
+      "reason_category": "model_omitted",
+      "reason": "Curator omitted this source from the audit lists; keeping it audit-only rather than selecting it.",
+      "source_id": "2060045728169275830",
+      "title": "I use sulfur. If you want to use sulfur safely to battle these pests, keep it on the surface or on your body: Surface Du"
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060120056839774609",
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060038606308119002",
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/what-is-nad-in-biophysical-terms.32390/unread",
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060001194341171391",
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060118637919322479",
+      "reason_category": "podcast_deferred",
+      "reason": "Podcast URL captured in sidecar; transcript/extraction will be handled by a later pipeline."
+    }
+  ],
+  "dropped_items": [
+    {
+      "source_type": "tweet",
+      "source_id": "2060177318383890637",
+      "reason_category": "thin",
+      "reason": "Kruse quote 'tumor was SAA born' lacks mechanism or protocol detail."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060159743298044260",
+      "reason_category": "chatter",
+      "reason": "Retweet of vague ancient site video with no biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060158653609500982",
+      "reason_category": "chatter",
+      "reason": "One-word response '100%' to incandescent lighting comparison; no new signal."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060155322346381437",
+      "reason_category": "chatter",
+      "reason": "Social criticism of reader comprehension; no biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060153656666640855",
+      "reason_category": "unclear",
+      "reason": "Kruse asks 'You tell me?' about Argentina/North Pole; no answer or mechanism provided."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060151175261929575",
+      "reason_category": "chatter",
+      "reason": "One-line response 'A lot of wasted gym hours' to unrelated news story."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060149521615614076",
+      "reason_category": "chatter",
+      "reason": "One-line response 'So will their longevity' to French population decline; no mechanism."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060144512773615626",
+      "reason_category": "chatter",
+      "reason": "Political commentary on Thiel/Palantir/Argentina without biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060143110252797954",
+      "reason_category": "chatter",
+      "reason": "Vague reference to SDI/MKUTLRA/BlueBeam without mechanism or detail."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060142707037630785",
+      "reason_category": "chatter",
+      "reason": "Political commentary on Thiel/Vance/Epstein/Tether without biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060119883157815574",
+      "reason_category": "chatter",
+      "reason": "Kruse offers kittens to reader; no biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060119580077395984",
+      "reason_category": "chatter",
+      "reason": "Political commentary on Thiel/DJT/Tel Aviv without biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060119211444216160",
+      "reason_category": "thin",
+      "reason": "Kruse labels child 'lattice locked' without explanation or case detail."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060118709037899969",
+      "reason_category": "thin",
+      "reason": "Kruse says DDW is 'too expensive to do' without protocol or alternative."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060121186692911491",
+      "reason_category": "thin",
+      "reason": "Kruse says 'depends on your N=1' without explanation or guidance."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060090038566703296",
+      "reason_category": "chatter",
+      "reason": "Retweet of political commentary on prison surveillance contract; no biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060105148123246762",
+      "reason_category": "chatter",
+      "reason": "Retweet of pharma criticism without new mechanism or protocol."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060105645907415461",
+      "reason_category": "chatter",
+      "reason": "Retweet of Thiel/Argentina news without biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060113404149235811",
+      "reason_category": "chatter",
+      "reason": "Retweet of political commentary on Israeli foreign agent registration; no biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060040997854150952",
+      "reason_category": "chatter",
+      "reason": "Retweet of social praise; no biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060040919844610140",
+      "reason_category": "thin",
+      "reason": "Kruse mentions getting DDW 'for free' from unspecified store; no protocol detail."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060032638790848665",
+      "reason_category": "chatter",
+      "reason": "Kruse posts joke about employees sleeping on job; no biological content."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060007741607772585",
+      "reason_category": "baseline",
+      "reason": "Retweet of deuterium depletion via glucagon gene; known baseline mechanism."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060004277200793748",
+      "reason_category": "baseline",
+      "reason": "Retweet of blue light/flicker-free computer recommendation; known baseline."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060001629277995164",
+      "reason_category": "baseline",
+      "reason": "Retweet of Framingham cholesterol reanalysis; known baseline critique."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060119936190620097",
+      "reason_category": "chatter",
+      "reason": "Retweet of anecdote about eating match heads in Panama; no mechanism."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/owens-journal-cci-aai-pots-mcas-dysautonomia-possible-eds.32474/",
+      "reason_category": "thin",
+      "reason": "Forum post is link to another journal thread; no content or signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/f4-cirrhosis-of-the-liver.32853/",
+      "reason_category": "unanswered_question",
+      "reason": "Member asks if Kruse has treated cirrhosis patients; no answer provided."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/all-things-australia.26992/unread",
+      "reason_category": "thin",
+      "reason": "Forum post is Twitter link only; no content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/jack-kruse-podcast-curriculum-youtube-edition-v1.23331/unread",
+      "reason_category": "chatter",
+      "reason": "Forum post is social praise of podcast curriculum; no new signal."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/kathleen%E2%80%99s-optimal-journal.31612/",
+      "reason_category": "thin",
+      "reason": "Member journal entry on eye floaters and DDW drops; no new protocol or mechanism."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/jacks-journal-journey-2019-and-beyond.23037/unread",
+      "reason_category": "chatter",
+      "reason": "Kruse posts divorce wisdom quote; no biological content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/jumping-with-a-sailboat-wings.32073/unread",
+      "reason_category": "thin",
+      "reason": "Forum member discusses marijuana/tobacco cessation; no Kruse mechanism or protocol."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/nicks-optimal-journal.30575/unread",
+      "reason_category": "thin",
+      "reason": "Forum member cryptic comment about 'brains are +3'; no mechanism or detail."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/vagal-nerve-stimulation-tips.32826/",
+      "reason_category": "chatter",
+      "reason": "Forum post is thank-you message; no content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/all-things-glp-1-agonists.32852/",
+      "reason_category": "duplicate",
+      "reason": "Forum post duplicates tweet 2060116797911617831; already selected."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/chromosome-2.32281/unread",
+      "reason_category": "thin",
+      "reason": "Forum post is Twitter link only; no content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/why-is-el-salvador-more-favored-then-costa-rica.28702/unread",
+      "reason_category": "unanswered_question",
+      "reason": "Member asks how to get passport without money; no Kruse answer or biological content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/all-things-panama.32851/",
+      "reason_category": "thin",
+      "reason": "Forum post is Twitter link only; no content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/we-are-being-carpet-bombed-in-aus.31553/",
+      "reason_category": "thin",
+      "reason": "Forum member discusses nosebleeds vs menstruation; no mechanism or protocol."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/i-stay-away-from-nnemf.30545/unread",
+      "reason_category": "thin",
+      "reason": "Forum member provides nnEMF detection tips; known baseline practice."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/all-things-el-salvador.26387/",
+      "reason_category": "thin",
+      "reason": "Forum member comments on Bitcoin spending in El Salvador; no biological content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/the-btc-thread-when-you-need-some-answers-love-advice-or-friendship-come-here.25436/unread",
+      "reason_category": "thin",
+      "reason": "Forum member posts Bitcoin ROI link; no biological content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/rustys-emf-thread.32381/unread",
+      "reason_category": "thin",
+      "reason": "Forum post is Twitter link only; no content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/alice-in-wonderland.32807/",
+      "reason_category": "thin",
+      "reason": "Forum member discusses humming/yoga for vagal stimulation; known baseline practice."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/wunsch-2026-is-getting-further-from-the-truth.32342/unread",
+      "reason_category": "thin",
+      "reason": "Forum post is long personal narrative about finding Kruse; no new mechanism or protocol."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/know-your-religious-history-to-get-the-sides-right.32466/unread",
+      "reason_category": "chatter",
+      "reason": "Kruse posts quote about religion as opium; no biological content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/gaia-what-are-you-doing.32637/",
+      "reason_category": "thin",
+      "reason": "Forum member discusses pole flip plausibility; no mechanism or protocol."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/sleeping-outside.32840/",
+      "reason_category": "thin",
+      "reason": "Forum member describes Yosemite hot springs; no mechanism or protocol."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/mastic-gum-option-or-deuterium-bomb.32669/",
+      "reason_category": "thin",
+      "reason": "Forum member asks about mastic gum product quality; no protocol or mechanism."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/the-biophysics-of-soviet-gazirovka-why-was-carbonated-water-a-state-mandated-utility.32605/",
+      "reason_category": "thin",
+      "reason": "Forum member expresses skepticism about DDW companies; no mechanism or protocol."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/declination-vs-nnemm-stress.32845/",
+      "reason_category": "thin",
+      "reason": "Forum post is single word 'Thermograms'; no content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/topical-ivermectin-and-fenbendazole-for-skin-cancers.32830/",
+      "reason_category": "thin",
+      "reason": "Forum member describes personal ivermectin use for skin lesion; no mechanism or protocol."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/barcode-of-fermented-foods.32310/",
+      "reason_category": "chatter",
+      "reason": "Forum post is thank-you message; no content."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/carbonated-water.32847/",
+      "reason_category": "thin",
+      "reason": "Forum member describes positive experience with carbonated mineral water; no new mechanism."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/anyone-from-poland-cyprus-or-portugal.30377/",
+      "reason_category": "chatter",
+      "reason": "Forum member introduces self from Portugal; no biological content."
+    },
+    {
+      "source_type": "tweet",
+      "reason_category": "model_omitted",
+      "reason": "Curator omitted this source from the audit lists; keeping it audit-only rather than selecting it.",
+      "source_id": "2060132803216285718",
+      "title": "2. 5. The Computational Audit The first-principles Python script below models the instantaneous quantum collapse as the "
+    },
+    {
+      "source_type": "tweet",
+      "reason_category": "model_omitted",
+      "reason": "Curator omitted this source from the audit lists; keeping it audit-only rather than selecting it.",
+      "source_id": "2060045728169275830",
+      "title": "I use sulfur. If you want to use sulfur safely to battle these pests, keep it on the surface or on your body: Surface Du"
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060120056839774609",
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060038606308119002",
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
+    },
+    {
+      "source_type": "forum",
+      "source_id": "https://forum.jackkruse.com/threads/what-is-nad-in-biophysical-terms.32390/unread",
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060001194341171391",
+      "reason_category": "below_priority_gate",
+      "reason": "Selected priority 3, below KRUSE_AI_SELECTION_MIN_PRIORITY=4."
+    },
+    {
+      "source_type": "tweet",
+      "source_id": "2060118637919322479",
+      "reason_category": "podcast_deferred",
+      "reason": "Podcast URL captured in sidecar; transcript/extraction will be handled by a later pipeline."
+    }
+  ]
+}

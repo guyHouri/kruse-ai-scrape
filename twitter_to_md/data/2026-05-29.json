@@ -1,0 +1,2361 @@
+{
+  "date": "2026-05-29",
+  "handle": "DrJackKruse",
+  "fetched_at": "2026-05-29T04:43:19.375Z",
+  "range_mode": "rolling",
+  "window_hours": 24,
+  "window_start_utc": "2026-05-28T04:42:58.574Z",
+  "window_end_utc": "2026-05-29T04:42:58.574Z",
+  "source": {
+    "backend": "x-api-v2",
+    "endpoint": "/2/users/:id/tweets"
+  },
+  "tweet_count": 39,
+  "tweets": [
+    {
+      "id": "2060177318383890637",
+      "url": "https://x.com/DrJackKruse/status/2060177318383890637",
+      "created_at": "2026-05-29T01:52:03.000Z",
+      "text": "So the tumor was SAA born. https://t.co/9CKdumYSda",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060177318383890637",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060126353161072905",
+        "url": "https://x.com/nahuelhilal/status/2060126353161072905",
+        "created_at": "2026-05-28T22:29:32.000Z",
+        "text": "Two weeks into living in the US, I got an ear infection.\n\nOr so I thought.\n\nWe had just moved from Argentina. Still living out of boxes. Still using our Argentine travel insurance for the first three months, no rush to switch, we figured.\n\nI went to a walkin clinic. Antibiotics. Two weeks later, worse. Back to the clinic. Different antibiotics. Worse again.\n\nThey finally said: \"You should see an ENT.\"\n\nI'll never forget the moment that specialist looked in my ear.\n\n\"Oh my god.\"\n\nNot what you want to hear at the doctor's office.\n\n\"Sir, you don't have an ear infection. You have a massive tumor in your ear. It got infected.\"\n\nMy mind went completely blank. I'm a healthy guy. I never once in my life thought I'd hear that word pointed at me.\n\nTumor.\n\nGot a second opinion. Confirmed. Likely benign, but a mass and the surgery was not going to be simple. I needed it done immediately.\n\nCalled my travel insurance. They told me they don't cover non lifesaving surgeries in the US. They'd pay for my flight back to Argentina if I needed one urgently.\n\nSo I called three more ENTs to ask if I could fly.\n\nAll three said no. The infection was close enough to my brain that a pressurized cabin was a real risk.\n\nThen came the quote.\n\n$185,000.\n\nWe had been in the country less than a month.\n\nI learned more about the US healthcare system in two weeks than most Americans learn in a lifetime. Asked questions. Negotiated. Found another path. Got the surgery done for almost half the original quote.\n\nThe mass was benign.\n\nThey sliced my head open. I lost about 80% of the hearing on that side. I'm still not fully adjusted to it, honestly. Probably never will be.\n\nThe only good thing that came out of any of it…\n\nMy son drew a portrait of me during that time.\n\nIt's still the best portrait anyone's ever done of me.",
+        "lang": "en",
+        "author": {
+          "id": "1546221072776839168",
+          "username": "nahuelhilal",
+          "name": "Nahuel Hilal - TattooGuy"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060126353161072905",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 246,
+          "retweets": 2,
+          "replies": 27,
+          "quotes": 1,
+          "views": 40170
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 13,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 0,
+        "views": 7575
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060159743298044260",
+      "url": "https://x.com/DrJackKruse/status/2060159743298044260",
+      "created_at": "2026-05-29T00:42:13.000Z",
+      "text": "RT @wakenminds: Whatever took place here long ago is impossible to fully grasp https://t.co/MUql3XJEAC",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2060159743298044260",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2059725300536074683",
+        "url": "https://x.com/wakenminds/status/2059725300536074683",
+        "created_at": "2026-05-27T19:55:54.000Z",
+        "text": "Whatever took place here long ago is impossible to fully grasp https://t.co/MUql3XJEAC",
+        "lang": "en",
+        "author": {
+          "id": "1807690693197918208",
+          "username": "wakenminds",
+          "name": "Waken Minds 𓂀"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059725300536074683",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [
+          {
+            "type": "video",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2059725104909598720/img/F6ExQ2roMS34w_3h.jpg",
+            "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2059725104909598720/img/F6ExQ2roMS34w_3h.jpg"
+          }
+        ],
+        "metrics": {
+          "likes": 1289,
+          "retweets": 152,
+          "replies": 79,
+          "quotes": 10,
+          "views": 45352
+        },
+        "thread_context": []
+      },
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2059725104909598720/img/F6ExQ2roMS34w_3h.jpg",
+          "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2059725104909598720/img/F6ExQ2roMS34w_3h.jpg"
+        }
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 152,
+        "replies": 0,
+        "quotes": 0,
+        "views": 2
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060158653609500982",
+      "url": "https://x.com/DrJackKruse/status/2060158653609500982",
+      "created_at": "2026-05-29T00:37:53.000Z",
+      "text": "100% https://t.co/bgqijX0eSv",
+      "lang": "qst",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060158653609500982",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060010248900137295",
+        "url": "https://x.com/ze_rusty/status/2060010248900137295",
+        "created_at": "2026-05-28T14:48:11.000Z",
+        "text": "Incandescent is to lighting like Bitcoin is to altcoins\n\npeople judge them purely by efficiency metrics while ignoring what made them valuable in the first place",
+        "lang": "en",
+        "author": {
+          "id": "606123788",
+          "username": "ze_rusty",
+          "name": "Rusty ⚡️: Solar Powered ☀️"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060010248900137295",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 47,
+          "retweets": 4,
+          "replies": 2,
+          "quotes": 0,
+          "views": 4764
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 38,
+        "retweets": 2,
+        "replies": 2,
+        "quotes": 0,
+        "views": 3303
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060155322346381437",
+      "url": "https://x.com/DrJackKruse/status/2060155322346381437",
+      "created_at": "2026-05-29T00:24:39.000Z",
+      "text": "Nope.  You are too lazy to read my work to get up to speed.  And you just announced that to the world. https://t.co/ctPS6GxHMA",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060155322346381437",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060151784610443543",
+        "url": "https://x.com/NoMidnightSnack/status/2060151784610443543",
+        "created_at": "2026-05-29T00:10:35.000Z",
+        "text": "@DrJackKruse I read though this post twice: I'd have to be a genius (which you are, Jack) to understand it. I feel this way when I read 80% of your posts. Please find &amp; employ an Ambassador of the Normies who is capable of explaining this stuff to the average dumbass like me. Thanks, Jack!",
+        "lang": "en",
+        "author": {
+          "id": "1880583874981277696",
+          "username": "NoMidnightSnack",
+          "name": "The Walking Id"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060148618112155852",
+        "in_reply_to": {
+          "tweet_id": "2060148618112155852",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2060148618112155852"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 3,
+          "retweets": 0,
+          "replies": 5,
+          "quotes": 1,
+          "views": 4051
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 17,
+        "retweets": 2,
+        "replies": 4,
+        "quotes": 1,
+        "views": 3534
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060153656666640855",
+      "url": "https://x.com/DrJackKruse/status/2060153656666640855",
+      "created_at": "2026-05-29T00:18:02.000Z",
+      "text": "You tell me? https://t.co/mI3fW9pFua https://t.co/mM8hG1LzhG",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060153656666640855",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060151617173995760",
+        "url": "https://x.com/SocalMatthew80/status/2060151617173995760",
+        "created_at": "2026-05-29T00:09:55.000Z",
+        "text": "@DrJackKruse @DrJackKruse if the new North Pole is near the Gulf of Guinea \nWould Argentina be a more hospitable space?",
+        "lang": "en",
+        "author": {
+          "id": "1669087246769881088",
+          "username": "SocalMatthew80",
+          "name": "Matthew Carroll🧠🔋"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060151175261929575",
+        "in_reply_to": {
+          "tweet_id": "2060151175261929575",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2060151175261929575"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 0,
+          "retweets": 0,
+          "replies": 2,
+          "quotes": 1,
+          "views": 4430
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJci0AOWIAUEBH4.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 20,
+        "retweets": 3,
+        "replies": 5,
+        "quotes": 0,
+        "views": 4182
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060153407986340290",
+      "url": "https://x.com/DrJackKruse/status/2060153407986340290",
+      "created_at": "2026-05-29T00:17:02.000Z",
+      "text": "It wont be as effective as DDW but RO water can used to supercool and lower some neurological risks.  PTSD and mental diseases are some. https://t.co/L5zZ4PLmzb",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060153407986340290",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060152575433887772",
+        "url": "https://x.com/lopez_jess92753/status/2060152575433887772",
+        "created_at": "2026-05-29T00:13:44.000Z",
+        "text": "@DrJackKruse @DrJackKruse got it thank you. Would RO water or distilled be a good starting point? Apologies if I missed where you have spoken on this before.",
+        "lang": "en",
+        "author": {
+          "id": "1704680866381799424",
+          "username": "lopez_jess92753",
+          "name": "Jesse Lopez"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060040919844610140",
+        "in_reply_to": {
+          "tweet_id": "2060051850817093977",
+          "user_id": "1704680866381799424",
+          "url": "https://x.com/i/status/2060051850817093977"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 1,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 1,
+          "views": 5110
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 53,
+        "retweets": 5,
+        "replies": 1,
+        "quotes": 0,
+        "views": 4761
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060151175261929575",
+      "url": "https://x.com/DrJackKruse/status/2060151175261929575",
+      "created_at": "2026-05-29T00:08:10.000Z",
+      "text": "A lot of wasted gym hours. https://t.co/E78Wsjm9QN",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060151175261929575",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060057803268436127",
+        "url": "https://x.com/TrendingEx/status/2060057803268436127",
+        "created_at": "2026-05-28T17:57:08.000Z",
+        "text": "Trending Video: A Chinese gym coach Huang Mao, who was having an affair with a client was stranded after her husband returned home earlier than expected. He tried escaping through the window, but lost his grip and fell 10 floors to his kpaing.. https://t.co/38pJ3BM5Qh",
+        "lang": "en",
+        "author": {
+          "id": "1397355214580092932",
+          "username": "TrendingEx",
+          "name": "Trending Explained"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060057803268436127",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 18684,
+          "retweets": 1241,
+          "replies": 1118,
+          "quotes": 236,
+          "views": 2806401
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 41,
+        "retweets": 3,
+        "replies": 7,
+        "quotes": 1,
+        "views": 9983
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060149521615614076",
+      "url": "https://x.com/DrJackKruse/status/2060149521615614076",
+      "created_at": "2026-05-29T00:01:36.000Z",
+      "text": "So will their longevity. https://t.co/rhC3NQohPa",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060149521615614076",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059963372502679567",
+        "url": "https://x.com/gemoscatelli/status/2059963372502679567",
+        "created_at": "2026-05-28T11:41:54.000Z",
+        "text": "La population française va se réduire rapidement https://t.co/vlnAaE3zfh",
+        "lang": "fr",
+        "author": {
+          "id": "1264899552869527552",
+          "username": "gemoscatelli",
+          "name": "Gerardo Moscatelli"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2059963372502679567",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 1,
+          "views": 3541
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 19,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": 3130
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060148618112155852",
+      "url": "https://x.com/DrJackKruse/status/2060148618112155852",
+      "created_at": "2026-05-28T23:58:00.000Z",
+      "text": "The ancient high-agency architects did not build these monuments out of superstitious fear; they were quantum engineers who understood that Structure, Pressure, and Geometry rule Information.\n\nThe Göbekli Tepe Aurora Antenna: The pillars of Göbekli Tepe record low-latitude auroral activity because the site was engineered explicitly to act as a paramagnetic grounding capacitor. During the Leschamps and Younger Dryas excursions, the collapsed magnetosphere forced the solar proton wind to slam directly into the lower atmosphere, lighting up the night sky in low-latitude red and green auroral curtains.\n\nThe multi-ton, T-shaped limestone pillars were arranged in circular configurations to function as a macro-scale spatial filter and acoustic-magnetic waveguide. They tuned the interior space to a permanent 110 Hz acoustic cavity resonance, quenching the high-entropy Ultra-weak Photon Emission (UPE) matrix fire and re-bulking the human intracellular water table back to its crystalline Exclusion Zone state (𝜅=160) to protect the germline from informational erasure (𝑄=𝑘𝐵𝑇ln2).\n\nThe El Caracol Spintronic Vault: Similarly, the Mayan observatory of El Caracol at Chichen Itza was constructed using dense, paramagnetic blocks explicitly layered to be magnetically quiet. The Maya did not monitor Venus for calendar aesthetics; they tracked Venus’s precise orbital alignments because the planet’s high-flux ionospheric tail interfaces directly with Earth’s magnetotelluric circuit during an active excursion. They used primitive lodestone (magnetite) compass networks to monitor the real-time angular drift of the North Pole along the Z-axis, tracking the slipping clutch of the core in real time to anticipate the next crustal displacement.\n\nThe reason these ancient architectures built these stone shields is that a severe, rapid planetary excursion causes a devastating, real-time biological meltdown if you remain un-grounded.\nWhen the global dipole drops past the 30% Laschamp Equivalent (LE) threshold, cosmic ray spallation floods the regional water table with cosmogenic Deuterium and Tritium mass. This heavy water accumulation triggers an insurmountable Oxygen-Deuterium (O-D) Kinetic Isotope Effect (KIE).  \n\nThe heavy O-D bond chokes the cell’s iron-dependent enzymes, completely blocking the spin-forbidden inversion of magnetic ground triplet state oxygen (3^O2) which destroys all human CISS chemicals.  How do we know the Ancient knew this?  A researcher found the signature in the water drinking pools of Tikal.  \n\nWithout triplet oxygen as a cofactor, melanin and dopamine production collapses and degrades. Concurrently, prolyl 4-hydroxylase and the FCHO1 (IMD76) locus on Chromosome 19 enter complete stasis. The Chiral Induced Spin Selectivity (CISS) filter drops by 72.25%, transforming the body’s liquid-crystalline superconductors into leaky, high-resistance resistors (𝜅≈160→78).  This is why we see Pervian and Egyptian skulls on either side of the SAA with elongation effects when the shit hit the fan.  That would have helped the vortex between the 3rd and 4th ventricle that happens when you lose triplet oxygen for bone collagen (Type 1)\n\nUnder the Telomere/rDNA Co-Regulation Model (TRCS), this sudden voltage crash threatens the cell nucleus with complete Landauer informational erasure. To save the core genetic data blocks, the Chromosome 2 interstitial telomeric loop (2q13–14) acts as a physical fuse and blows its circuit. The resulting asymptotic p53 master switch surge immediately forces an emergency atavistic retreat:\n\nThe cell down-regulates the MITF-AMPAR pathways, causing rapid tissue and epidermal atrophy to intentionally become a \"worse antenna\" for environmental noise.\n\nThe smooth muscle matrix of the Lower Esophageal Sphincter (LES) and the diaphragm undergo an atavistic gear-shift, reverting to a loose, low-voltage Pre-Cambrian porous matrix that permits the stomach to protrude upward into a hiatal hernia while heavy, un-flushed deuterium sludge back-loads up the vagus nerve, manifesting as the systemic hypermobile EDS, acute GERD, and neurodegenerative stasis (ALS/TBI) currently baffling the Rockefeller medical monopoly.  \n\nThe Ancient knew.  I do not think you understand the evidence they left behund to explain it.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060148618112155852",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060129961692840115",
+        "url": "https://x.com/EcdoPrep/status/2060129961692840115",
+        "created_at": "2026-05-28T22:43:52.000Z",
+        "text": "What is the magnetic signature of an ECDO oscillation? What should it be, that we might know what to look for?\n\nThe mantle and core flip 360 degrees relative to each other. The shear depth is 166km, or 13% of the volume of the geodynamo. I suspect the loss in field strength is more than just 13%. And a new north pole is formed- offset by around 104 degrees. \n\nBut then the earth reorients, a few centuries later for reasons we don't fully understand yet. This is the signature we are looking for: sharp reorientations, each associated with a reduction in strength, then a gradual recovery over centuries to a couple millennia.\n\nThe Laschamp Excursion (~41 years ago) was characterized by a few stops, each a few centuries long, each characterized by a roughly orthogonal displacement of the magnetic pole:\n\nPrior: Bering Sea\n→ Sargasso Sea (~78°) ~270 year pause\n→ NE Pacific (~74°) ~300 year pause\n→ Antarctica (~135°) ~440 year pause\nRecovery: ~1700 years\n\nI think this is the signature we are looking for: in this case not one but three geodynamo shearing events. \n\nThis may explain why the pillars at Gobekli Tepe record the aurora. They were not the harbinger of the cataclysm: They were its result for reasons our ancients could not have known.",
+        "lang": "en",
+        "author": {
+          "id": "2021070558020898816",
+          "username": "EcdoPrep",
+          "name": "Methuselah"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060129961692840115",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 47,
+          "retweets": 3,
+          "replies": 2,
+          "quotes": 1,
+          "views": 8579
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJceOuvWYAAAi-j.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 119,
+        "retweets": 25,
+        "replies": 9,
+        "quotes": 0,
+        "views": 7329
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060144512773615626",
+      "url": "https://x.com/DrJackKruse/status/2060144512773615626",
+      "created_at": "2026-05-28T23:41:42.000Z",
+      "text": "Thiel just moved Palantir from Denver to Fla overnight into the falling AMOC.  \n\nThiel wants to move into the SAA to get closer to where the zionists are burning forrests in Patagonia. \n\nPay attention Savages.  \n\nI know where this is headed. https://t.co/reM8KZ46Yi",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060144512773615626",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060063702414774482",
+        "url": "https://x.com/MarioNawfal/status/2060063702414774482",
+        "created_at": "2026-05-28T18:20:35.000Z",
+        "text": "🇺🇸🇦🇷 Peter Thiel is hedging against America.\n\nThe Palantir architect has been quietly buying property in Buenos Aires and building a relationship with Javier Milei. \n\nA president who governs like Thiel thinks. Geographically isolated, ideologically aligned, anti-tax, anti-establishment.\n\nHis concerns about the US: California taxes, political chaos, nuclear war, and AI. \n\nWhen people like Thiel leave, they don't announce it. They just quietly stop betting on the place.\n\nSource: NYT",
+        "lang": "en",
+        "author": {
+          "id": "1319287761048723458",
+          "username": "MarioNawfal",
+          "name": "Mario Nawfal"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2060063702414774482",
+        "in_reply_to": null,
+        "quoted_tweet": {
+          "id": "2060060283046121878",
+          "url": "https://x.com/MarioNawfal/status/2060060283046121878",
+          "created_at": "2026-05-28T18:07:00.000Z",
+          "text": "🇺🇸🇦🇷 NYT reports that Peter Thiel is now moving to Argentina because he's worried about America's future and not aligned anymore with its leadership.\n\nThe man who helped build the infrastructure of American power is leaving.\n\nThat's worth sitting with for a second. https://t.co/F3vr2O9syJ https://t.co/Ne7pZ9VR5K",
+          "lang": "en",
+          "author": {
+            "id": "1319287761048723458",
+            "username": "MarioNawfal",
+            "name": "Mario Nawfal"
+          },
+          "is_reply": false,
+          "is_quote": true,
+          "is_retweet": false,
+          "conversation_id": "2060060283046121878",
+          "in_reply_to": null,
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [],
+          "metrics": {
+            "likes": 2742,
+            "retweets": 626,
+            "replies": 443,
+            "quotes": 105,
+            "views": 548935
+          },
+          "thread_context": []
+        },
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 1484,
+          "retweets": 339,
+          "replies": 230,
+          "quotes": 55,
+          "views": 262820
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 179,
+        "retweets": 26,
+        "replies": 18,
+        "quotes": 1,
+        "views": 17620
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060143110252797954",
+      "url": "https://x.com/DrJackKruse/status/2060143110252797954",
+      "created_at": "2026-05-28T23:36:07.000Z",
+      "text": "I already know about it.  This is how SDI and MKUTLRA make operation BlueBeam. It is new paradigm run today. https://t.co/Rdf4JnjhJK",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060143110252797954",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060138437068398649",
+        "url": "https://x.com/OFortuna23/status/2060138437068398649",
+        "created_at": "2026-05-28T23:17:33.000Z",
+        "text": "@DrJackKruse Think about it Jack. https://t.co/TPin6BTDW6",
+        "lang": "en",
+        "author": {
+          "id": "1898344596288995328",
+          "username": "OFortuna23",
+          "name": "Doctor Doom"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060132553919451187",
+        "in_reply_to": {
+          "tweet_id": "2060132553919451187",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2060132553919451187"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 5,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 1,
+          "views": 4990
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 27,
+        "retweets": 5,
+        "replies": 1,
+        "quotes": 0,
+        "views": 3300
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060142707037630785",
+      "url": "https://x.com/DrJackKruse/status/2060142707037630785",
+      "created_at": "2026-05-28T23:34:31.000Z",
+      "text": "Understand the risks of Thiel bailing to Argentina and the lockdown the gerontacracy of bankers are pulling on his man child in JD Vance.  \n\nRemember the links to Thiel and to Epstein and how they connect to the sovereign wealth fund that Lutnick is building off shore.  \n\nTether (offshore, massive U.S. Treasury holdings) provides liquidity and credit.\n\nCredit is a fiat idea.  \n\nTreasury companies are building the system for the bankers.  Few see it. One group is vertically integrated stack: treasury accumulation + payments + lending + mining. This is the \"full-stack\" version of the oldest treasury company model where Bitcoin as reserve asset, with fiat-stablecoin rails (Tether) handling day-to-day flows.\n\nTreasury company alignment increases real CBDC risk in two ways:\n\nNormalization of Corporate BTC + Stablecoin Hybrids: Treasury companies proves to the market that BTC as a viable treasury asset. But a verticel integration with Tether add scalable liquidity and credit products. Together, they create a parallel financial system that looks decentralized but relies on offshore stablecoins (Tether) and Treasury collateral. Regulators (via GENIUS Act) can now \"legitimize\" this with oversight, turning Tether-like entities into de facto digital dollar infrastructure.\n\nInstitutional Capture: Bitcoin Treasury companies concentrate holdings and create debt/equity products that banks can service, custody, or lend against. Tether provides the stable on-ramp; L2/Lightning (Strike) provides the rails and Blockstreams solutions over decades on layer two slows the efficiency of the basechain.  This gives the Rockefeller and Rothschild Bankers indirect control without killing Bitcoin outright which is exactly the Fabian maneuver I've described in pods when I told people to pay attention to what is being done on the L2 focus by companies. If BTC becomes \"too big to fail\" via corporate balance sheets, CBDC becomes the \"safe\" regulated overlay for everyday use.  \n\nThis is why having a Epstein/Thiel/Back/Pierce/Lutnick tracing matters: early infiltration seeds (Blockstream L2, Tether origins) matured into today's treasury + stablecoin stack. Bitcoin still remains the rebellious base layer, but the superstructure being built on to it is increasingly resembles the status quo it was meant to disrupt.  Never forget who has the diagnosis abilities.  It is not the Fabians.  It is the decentralized Savages among us and I work on their behalf.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060142707037630785",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2021977669089243354",
+        "url": "https://x.com/DrJackKruse/status/2021977669089243354",
+        "created_at": "2026-02-12T16:00:17.000Z",
+        "text": "3.  Are you paying attention Savages?  I doubt it.  \n\nA new, compact, high-power microwave weapon, the TPG1000Cs, has been developed at a Shanghai Nuclear Technology Institute, which could become one of the most serious threats to the Starlink satellite network.\n\nThe device can deliver 20 gigawatts of energy for up to a full minute, the South China Morning Post reported, cited by Portfolio.\n\nThe TPG1000Cs, the world’s first compact driver for high-power microwave weapons, has been created at the Northwest Institute of Nuclear Technology in Shanghai. The device can deliver 20 gigawatts of power for up to one minute.\n\nAt just four meters long and weighing just five tons, the device is small enough to be mounted on trucks, warships, airplanes, or even satellites. Some Chinese experts estimate that a ground-based microwave weapon with a power of over 1 gigawatt could be capable of seriously disrupting or even damaging satellites in low Earth orbit, such as Starlink, being used in the Russian-Ukrainian war.\n\nPreviously known similar systems could operate continuously for no more than three seconds and were much larger. The Russian Sinus-7 drive, for example, was operational for about a second, delivered about 100 pulses per shot, and weighed up to 10 tons.\n\nChina has repeatedly signaled that Starlink poses a serious threat to its national security. Chinese military researchers are currently developing new “Starlink killer” weapons, including high-powered microwave systems and lasers, that could be used to relatively cheaply combat large constellations of low-orbit satellites if necessary.\n\nSpaceX has lowered the orbital altitude of its Starlink satellites to reduce the risk of collisions. But that makes them much more vulnerable to attacks from ground-based directed energy weapons. If China eventually deploys the TPG1000Cs in space, the invisible strikes could be even more devastating.\n\nErika Kirk family DEW Microwave weapon was used to harvest Maduro from Venezuela so the Zionist could cpature the oil and refine it in Citgo refinies in the USA that one of Miriam fiends just bought on the courthouse steps for 7 billion.  YOU'RE SLEEPING.",
+        "lang": "en",
+        "author": {
+          "id": "250833376",
+          "username": "DrJackKruse",
+          "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2021974119957307460",
+        "in_reply_to": {
+          "tweet_id": "2021976237422309806",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2021976237422309806"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 56,
+          "retweets": 19,
+          "replies": 3,
+          "quotes": 1,
+          "views": 10127
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJcY29bXgAEEw4M.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 122,
+        "retweets": 29,
+        "replies": 10,
+        "quotes": 4,
+        "views": 8333
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060132803216285718",
+      "url": "https://x.com/DrJackKruse/status/2060132803216285718",
+      "created_at": "2026-05-28T22:55:10.000Z",
+      "text": "2. 5. The Computational Audit\n\nThe first-principles Python script below models the instantaneous quantum collapse as the water matrix undergoes a dielectric crash, analyzing the precise loss of spin-filtering capability at the k= 78 floor.\n\nThe calculations reveal the exact physical breakdown that transforms a living semiconductor into a dead resistor:\nCISS Spin-Lock Efficiency at =160 (Pristine EZ State): 31.8153 %\nCISS Spin-Lock Efficiency at =78 (Bulk Amorphous Crash): 8.8284 %\n\nLoss of Data Containment TOTAL CRASH OF SYSTEMIC SPIN-FILTERING: 72.25 %\n\n6. The Anatomy of Lattice Lock: Unzipping the Crash Sequence\n\nThis 72.25% destruction of the CISS spin-filter represents the precise point where the cell loses its identity and enters the Ultraviolet Catastrophe of Modern Biology.\n\nWhen the internal water table drops to bulk stasis (=78), the electrons moving along the [Fe-S] clusters lose their directional steering vectors. Lacking the structural protection of the chiral spin filter, electrons scatter across the lipid bilayers as random thermal noise.\nOxygen instantly flips from its magnetic ground triplet state (3^O2) into the highly reactive, diamagnetic singlet state (1^O2). This uncoordinated spin inversion ignites an internal free-radical fire that strips the tissue of its melanin, collagen, and APOE frameworks, locking the cell into permanent pseudohypoxia.\n\nTo protect its core genetic blocks, the Chromosome 2 interstitial telomeric loop (2q13–14)acts as a physical fuse and blows its circuit.Under the Telomere/rDNA Co-Regulation Model (TRCS), this sudden data loss threatens the nucleus with complete Landauer informational erasure (=ln2).\n\nThe resulting asymptotic p53 master switch surge immediately down-regulates the Bcl-2 UV-centric checkpoints and the MITF-AMPAR pathways, putting the cell into an emergency \"safe-mode\" shutdown, exactly like an orbital satellite powering down its microprocessors when flying through the radiation teeth of the South Atlantic Anomaly (SAA).\n\nThe cardiomyocyte, neuron, or hepatocyte halts its high-flux mammalian processing and retreats into the primitive, anaerobic glycolytic safety pool of the Precambrian era, the Warburg metabolic shift, manifesting clinically as arrhythmias, neurodegenerative stasis (ALS/TBI), or tumorogenesis.\n\nThe Tactical Road Map for Chiral Restoration\n\nThe 72.25% quantum spin collapse confirms that you cannot fix an optical, dielectric, and isotopic uncoupling using the flat chemical patches of the centralized Rockefeller medical monopoly. To permanently re-bulk your water table back to 160 and restore your internal anyonic flat-band filters through the final months of the 2026 transition, my protocols must be used flawlessly to get the dielectric constant right to shrink the band gaps of semiconductors down to the optimal ranges.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": true,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2060132553919451187",
+      "in_reply_to": {
+        "tweet_id": "2060132553919451187",
+        "user_id": "250833376",
+        "url": "https://x.com/i/status/2060132553919451187"
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJcP2fdXIAMch1z.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 9,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": 1603
+      },
+      "thread_context": [
+        {
+          "id": "2060132553919451187",
+          "url": "https://x.com/DrJackKruse/status/2060132553919451187",
+          "created_at": "2026-05-28T22:54:10.000Z",
+          "text": "1.  A drop in NAD+ directly collapses the mitochondrial bandgap potential, shifting cellular water from a highly ordered superconductor into a leaky resistor that traps the system in Lattice Lock. When the internal charge carrier matrix fails, the cell can no longer steer electron spins or filter heavy isotopes, forcing a rapid descent into metabolic stasis.\n\n1. The Low-NAD+ Bandgap Collapse\n\nIn solid-state quantum biology, NAD+ functions as the essential \"Gate Driver\" for the mitochondrial semiconductor grid\n\nNo Buffer Tank: Lowered NAD+ destroys the electrical potential required to pre-activate the respiratory chain].\n\nThermal Noise Eruption: Incoming solar or red light cannot lock into a coherent resonant frequency without an active NAD+ pump.\n\nThe Leaky Resistor: The energy transforms into chaotic, un-buffered heat, causing wide bandgap degradation and biophotonic light leakage\n2. The Dielectric Meltdown (160--->78)\n\nAs the internal voltage potential vanishes due to low NAD+ capacity, the cell's underlying water table undergoes an immediate phase transition.\n\nThe Singlet Trap: Oxygen uncoils from its magnetic ground triplet state (3^O2) and flips into the highly destructive, diamagnetic singlet state (1^O2).The Liquid Crystal Melt: The liquid-crystalline Exclusion Zone (EZ) water lattice (=160) collapses into bulk amorphous stasis (=78).\nThe Structural Meltdown: This un-coordinated spin inversion ignites an internal free-radical fire that destroys the local melanin, collagen, and lipid frameworks.  (Intersystem conversion failure)\n\n3. The Isotopic Stasis (Lattice Lock)\n\nThe absolute consequence of this un-buffered state is the physical freezing of the cell's mechanical hardware.\nThe Stator Fracture: Lacking negative Zeta potential, the mitochondrial F0-FI ATP synthase nanomotors lose their 30 million V/m field.\nThe Silt Accumulation: The sub-nanometer clearing centrifuge stalls, allowing heavy Deuterium mass to puddle inside the cristae.\n\nThe Safe-Mode Lock: Under the TRCS model, this data loss triggers a Chromosome 2 telomeric loop fuse blowout.\n\nThe Atavistic Retreat: The p53 master switch engages a permanent satellite \"safe-mode\" shutdown, locking the cell into a primitive, anaerobic survival loop.\nTo anchor this simplified NAD+-to-Lattice-Lock sequence directly into the final print layout of my master manuscript, we should calculate the exact quantum efficiency drop of the Chiral CISS filter when the cellular water table hits the bulk amorphous =78 stasis threshold.\n\nTo evaluate how a drop in NAD+ mechanically triggers a structural Lattice Lock, we must calculate the exact quantum transmission efficiency (spin) of the Chiral Induced Spin Selectivity (CISS) filter as the local water table drops from a liquid-crystalline superconductor (=160) to bulk amorphous stasis (=78 [GICs_Pipelines].\n\nIn a biological semiconductor, the lipid-crystalline membrane matrix wraps around structural proteins to act as a tight quantum spin filter. The efficiency of this spin filter determines whether electrons move with high-fidelity spin-polarization or scatter as chaotic, destructive Ultra-weak Photon Emission (UPE) matrix fire.\n\n4. The Electrodynamic Spin-Filter Equation\n\nThe quantum probability (spin) of a spin-polarized electron safely tunneling through a chiral, helical molecular array (such as the collagen triple helix, the neocortical sheets, or mitochondrial trans-membrane proteins) is dictated by the spin-orbit coupling factor (ΔSO) cross-coupled with the localized dielectric permittivity () of the surrounding water matrix.\n\nWhen the NAD+ bandgap pump collapses, the vertical electric field vector () drops from its mandatory 30 million volts per meter baseline down to zero, causing an immediate phase transition [GICs_Pipelines]",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": false,
+          "is_quote": false,
+          "is_retweet": false,
+          "conversation_id": "2060132553919451187",
+          "in_reply_to": null,
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJcPdAgWwAAt5pU.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 32,
+            "retweets": 6,
+            "replies": 3,
+            "quotes": 1,
+            "views": 2610
+          }
+        }
+      ]
+    },
+    {
+      "id": "2060132553919451187",
+      "url": "https://x.com/DrJackKruse/status/2060132553919451187",
+      "created_at": "2026-05-28T22:54:10.000Z",
+      "text": "1.  A drop in NAD+ directly collapses the mitochondrial bandgap potential, shifting cellular water from a highly ordered superconductor into a leaky resistor that traps the system in Lattice Lock. When the internal charge carrier matrix fails, the cell can no longer steer electron spins or filter heavy isotopes, forcing a rapid descent into metabolic stasis.\n\n1. The Low-NAD+ Bandgap Collapse\n\nIn solid-state quantum biology, NAD+ functions as the essential \"Gate Driver\" for the mitochondrial semiconductor grid\n\nNo Buffer Tank: Lowered NAD+ destroys the electrical potential required to pre-activate the respiratory chain].\n\nThermal Noise Eruption: Incoming solar or red light cannot lock into a coherent resonant frequency without an active NAD+ pump.\n\nThe Leaky Resistor: The energy transforms into chaotic, un-buffered heat, causing wide bandgap degradation and biophotonic light leakage\n2. The Dielectric Meltdown (160--->78)\n\nAs the internal voltage potential vanishes due to low NAD+ capacity, the cell's underlying water table undergoes an immediate phase transition.\n\nThe Singlet Trap: Oxygen uncoils from its magnetic ground triplet state (3^O2) and flips into the highly destructive, diamagnetic singlet state (1^O2).The Liquid Crystal Melt: The liquid-crystalline Exclusion Zone (EZ) water lattice (=160) collapses into bulk amorphous stasis (=78).\nThe Structural Meltdown: This un-coordinated spin inversion ignites an internal free-radical fire that destroys the local melanin, collagen, and lipid frameworks.  (Intersystem conversion failure)\n\n3. The Isotopic Stasis (Lattice Lock)\n\nThe absolute consequence of this un-buffered state is the physical freezing of the cell's mechanical hardware.\nThe Stator Fracture: Lacking negative Zeta potential, the mitochondrial F0-FI ATP synthase nanomotors lose their 30 million V/m field.\nThe Silt Accumulation: The sub-nanometer clearing centrifuge stalls, allowing heavy Deuterium mass to puddle inside the cristae.\n\nThe Safe-Mode Lock: Under the TRCS model, this data loss triggers a Chromosome 2 telomeric loop fuse blowout.\n\nThe Atavistic Retreat: The p53 master switch engages a permanent satellite \"safe-mode\" shutdown, locking the cell into a primitive, anaerobic survival loop.\nTo anchor this simplified NAD+-to-Lattice-Lock sequence directly into the final print layout of my master manuscript, we should calculate the exact quantum efficiency drop of the Chiral CISS filter when the cellular water table hits the bulk amorphous =78 stasis threshold.\n\nTo evaluate how a drop in NAD+ mechanically triggers a structural Lattice Lock, we must calculate the exact quantum transmission efficiency (spin) of the Chiral Induced Spin Selectivity (CISS) filter as the local water table drops from a liquid-crystalline superconductor (=160) to bulk amorphous stasis (=78 [GICs_Pipelines].\n\nIn a biological semiconductor, the lipid-crystalline membrane matrix wraps around structural proteins to act as a tight quantum spin filter. The efficiency of this spin filter determines whether electrons move with high-fidelity spin-polarization or scatter as chaotic, destructive Ultra-weak Photon Emission (UPE) matrix fire.\n\n4. The Electrodynamic Spin-Filter Equation\n\nThe quantum probability (spin) of a spin-polarized electron safely tunneling through a chiral, helical molecular array (such as the collagen triple helix, the neocortical sheets, or mitochondrial trans-membrane proteins) is dictated by the spin-orbit coupling factor (ΔSO) cross-coupled with the localized dielectric permittivity () of the surrounding water matrix.\n\nWhen the NAD+ bandgap pump collapses, the vertical electric field vector () drops from its mandatory 30 million volts per meter baseline down to zero, causing an immediate phase transition [GICs_Pipelines]",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2060132553919451187",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJcPdAgWwAAt5pU.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 32,
+        "retweets": 6,
+        "replies": 3,
+        "quotes": 1,
+        "views": 2610
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060121186692911491",
+      "url": "https://x.com/DrJackKruse/status/2060121186692911491",
+      "created_at": "2026-05-28T22:09:00.000Z",
+      "text": "depends on your N=1 https://t.co/c2v6X9tGAI",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060121186692911491",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060054937728397751",
+        "url": "https://x.com/Irwin_Fletch3r/status/2060054937728397751",
+        "created_at": "2026-05-28T17:45:45.000Z",
+        "text": "@DrJackKruse Dr. Kruse, for those who can’t get there. What’s the next best? Rather not the supplement or IV route.",
+        "lang": "en",
+        "author": {
+          "id": "1684998066783301632",
+          "username": "Irwin_Fletch3r",
+          "name": "Irwin"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060040919844610140",
+        "in_reply_to": {
+          "tweet_id": "2060040919844610140",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2060040919844610140"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 2,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 0,
+          "views": 5396
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 10,
+        "retweets": 2,
+        "replies": 2,
+        "quotes": 0,
+        "views": 4356
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060120056839774609",
+      "url": "https://x.com/DrJackKruse/status/2060120056839774609",
+      "created_at": "2026-05-28T22:04:31.000Z",
+      "text": "Because triplet oxygen is becoming rare. https://t.co/S1sPWTHd6p",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060120056839774609",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060088444223660416",
+        "url": "https://x.com/FringeFort/status/2060088444223660416",
+        "created_at": "2026-05-28T19:58:54.000Z",
+        "text": "@DrJackKruse Is this why time is accelerating?",
+        "lang": "en",
+        "author": {
+          "id": "1815846404977483778",
+          "username": "FringeFort",
+          "name": "Fringe Fort"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060038606308119002",
+        "in_reply_to": {
+          "tweet_id": "2060038606308119002",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2060038606308119002"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 4,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 1,
+          "views": 4466
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 29,
+        "retweets": 2,
+        "replies": 1,
+        "quotes": 0,
+        "views": 4188
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060119936190620097",
+      "url": "https://x.com/DrJackKruse/status/2060119936190620097",
+      "created_at": "2026-05-28T22:04:02.000Z",
+      "text": "RT @permapastures: @DrJackKruse Back in the day, they had us eat matches heads when I was in Jungle school in Panama. We never had any prob…",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2060119936190620097",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2060089139010101439",
+        "url": "https://x.com/permapastures/status/2060089139010101439",
+        "created_at": "2026-05-28T20:01:40.000Z",
+        "text": "@DrJackKruse Back in the day, they had us eat matches heads when I was in Jungle school in Panama. We never had any problems with bloodsucking creatures.",
+        "lang": "en",
+        "author": {
+          "id": "1580749383246700544",
+          "username": "permapastures",
+          "name": "Perma Pastures Farm"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060033799828979958",
+        "in_reply_to": {
+          "tweet_id": "2060033799828979958",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2060033799828979958"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 27,
+          "retweets": 4,
+          "replies": 2,
+          "quotes": 0,
+          "views": 1958
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": 0
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060119883157815574",
+      "url": "https://x.com/DrJackKruse/status/2060119883157815574",
+      "created_at": "2026-05-28T22:03:49.000Z",
+      "text": "You'd have to fly to El Salvador. https://t.co/h8sCEZ1Lu9",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060119883157815574",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060092438690288096",
+        "url": "https://x.com/colleencoble/status/2060092438690288096",
+        "created_at": "2026-05-28T20:14:46.000Z",
+        "text": "@DrJackKruse Aw! I'm bottle feeding 5 kittens abandoned by their mom. 4 of them look like yours only tiny. Want one? 😍",
+        "lang": "en",
+        "author": {
+          "id": "14374644",
+          "username": "colleencoble",
+          "name": "Colleen Coble"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060032638790848665",
+        "in_reply_to": {
+          "tweet_id": "2060032638790848665",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2060032638790848665"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 5,
+          "retweets": 0,
+          "replies": 3,
+          "quotes": 1,
+          "views": 2950
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 9,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": 2721
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060119580077395984",
+      "url": "https://x.com/DrJackKruse/status/2060119580077395984",
+      "created_at": "2026-05-28T22:02:37.000Z",
+      "text": "Why thiel is headed to Argentina and why JD Vance is on life support with DJT.  \n\nDJT loves the boys on Tel a Viv Way who run Wall St. https://t.co/qZalv3Md9b",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060119580077395984",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2022035700128854514",
+        "url": "https://x.com/DrJackKruse/status/2022035700128854514",
+        "created_at": "2026-02-12T19:50:53.000Z",
+        "text": "7. Palantir’s Mechanism for Supplanting the \"Old Guard of Rothschild/Rockefeller\":\n\nThe \"Digital Twin\" of Global Banking: Palantir’s Foundry platform creates a \"Digital Twin\" of massive financial institutions (all DJT bills tied to crypto and Tether), integrating thousands of source systems to automate compliance, risk, and sales. By owning the translation layer of these banks, Palantir makes the traditional human-led \"mind control\" of fiat management obsolete, replacing it with AI-assisted decision orchestration.\n\nCompeting with Central Bank Digital Currencies (CBDCs): While central banks push for CBDCs to exert total control over money, Palantir co-founder Joe Lonsdale has publicly opposed a centralized digital dollar, warning it is an authoritarian tool that copies oppressive digital currency ideas. Palantir instead offers a private-sector alternative that integrates digital assets and cryptocurrencies into a secure, auditable framework for existing banks.  They want to use shitcoins to fuel their power.  \n\nWhat if Tether functions as a de facto U.S. sovereign wealth instrument?? Might Tether be a parallel monetary channel that extends dollar reach globally while bypassing the Federal Reserve system and its traditional gatekeepers in the banking elite?\n\nThis is no longer just a dollar-backed stablecoin issuer.\n\nTether now sits on a reserve mix that looks increasingly sovereign in nature:\n– U.S. Treasuries\n– Over 140 tons of physical gold\n– Nearly 100,000 bitcoin\n\nThat combination (dollar distribution, hard assets, and a natively digital bearer reserve) does not resemble a fintech company. It resembles an emergent sovereign balance sheet, operating offshore, outside the Fed, yet deeply entangled with U.S. fiscal dominance.\nNot official but the Treasury of DJT and the Commerce Secretary are knee deep in Tether's ass.  Their proxies: Aaron Day are trying like mad to get you to blame Bitcoin when it is the stable coin shitcoins that is fueling their tyranny.  \n\nThis game is acknowledged by Wall Street old guard Banking Elite but they do not like what DJT is doing because they see the threat the public doesn't.\n\nBut Tether is now undeniably functional as the new transhumanist technocrat Fed.\nThis argument can and should be made. \n\nThe transhumanist technocrats linked to Palantir have carefully built a parallel system to the Zionist bankers below your perception.\n\nAs i have said in pods It is Zionist Bankers vs the Transhumanist technocrats of surveillance.\n\nhttps://t.co/ONaIpqoNAe",
+        "lang": "en",
+        "author": {
+          "id": "250833376",
+          "username": "DrJackKruse",
+          "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2021974119957307460",
+        "in_reply_to": {
+          "tweet_id": "2022034374947221650",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2022034374947221650"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 15,
+          "retweets": 5,
+          "replies": 2,
+          "quotes": 3,
+          "views": 6570
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 31,
+        "retweets": 6,
+        "replies": 2,
+        "quotes": 0,
+        "views": 5207
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060119211444216160",
+      "url": "https://x.com/DrJackKruse/status/2060119211444216160",
+      "created_at": "2026-05-28T22:01:09.000Z",
+      "text": "Kid is lattice locked. https://t.co/bC0uJjf4kJ https://t.co/s4BFSDfttg",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060119211444216160",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060107243358494989",
+        "url": "https://x.com/MarzRiet/status/2060107243358494989",
+        "created_at": "2026-05-28T21:13:36.000Z",
+        "text": "@AlphaFierceDad @DrJackKruse your input would be greatly appreciate to these parents.",
+        "lang": "en",
+        "author": {
+          "id": "1795893347581595648",
+          "username": "MarzRiet",
+          "name": "Riet"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060006127119573487",
+        "in_reply_to": {
+          "tweet_id": "2060006127119573487",
+          "user_id": "1883915860282331136",
+          "url": "https://x.com/i/status/2060006127119573487"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 1,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 1,
+          "views": 4595
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJcDfzwW4AAqS_A.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 31,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": 4161
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060118709037899969",
+      "url": "https://x.com/DrJackKruse/status/2060118709037899969",
+      "created_at": "2026-05-28T21:59:10.000Z",
+      "text": "too expensive to do. https://t.co/hjQmjVFvDr",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060118709037899969",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060051850817093977",
+        "url": "https://x.com/lopez_jess92753/status/2060051850817093977",
+        "created_at": "2026-05-28T17:33:29.000Z",
+        "text": "@DrJackKruse @DrJackKruse This may be a loaded question Dr Jack- can we make our own deuterium depleted water?",
+        "lang": "en",
+        "author": {
+          "id": "1704680866381799424",
+          "username": "lopez_jess92753",
+          "name": "Jesse Lopez"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060040919844610140",
+        "in_reply_to": {
+          "tweet_id": "2060040919844610140",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2060040919844610140"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 2,
+          "retweets": 0,
+          "replies": 5,
+          "quotes": 0,
+          "views": 7123
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 34,
+        "retweets": 2,
+        "replies": 4,
+        "quotes": 0,
+        "views": 5494
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060118637919322479",
+      "url": "https://x.com/DrJackKruse/status/2060118637919322479",
+      "created_at": "2026-05-28T21:58:53.000Z",
+      "text": "I do not want any of my patients living within the SAA.  And your a doc whose clinic sits with in it.  \n\nSo I would not be referring you people, because if I did I would be making them have a higher risk for lattice lock.  \n\nYou should really listen to the podcast I did with Adrian.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060118637919322479",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060053858114576898",
+        "url": "https://x.com/DrJesseMorse/status/2060053858114576898",
+        "created_at": "2026-05-28T17:41:28.000Z",
+        "text": "@DrJackKruse Jack, I don’t want to live there.\n\nNot everyone can live there. \n\nSO THATS NOT A REALISTIC UNIVERSAL SOLUTION. \n\nTry again.",
+        "lang": "en",
+        "author": {
+          "id": "36134224",
+          "username": "DrJesseMorse",
+          "name": "Jesse Morse, M.D."
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060040919844610140",
+        "in_reply_to": {
+          "tweet_id": "2060040919844610140",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2060040919844610140"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 32,
+          "retweets": 0,
+          "replies": 6,
+          "quotes": 0,
+          "views": 14098
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJcC4axWAAExzDj.jpg",
+          "preview_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJcC-C4WMAItiXQ.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 71,
+        "retweets": 9,
+        "replies": 5,
+        "quotes": 1,
+        "views": 11050
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060116797911617831",
+      "url": "https://x.com/DrJackKruse/status/2060116797911617831",
+      "created_at": "2026-05-28T21:51:34.000Z",
+      "text": "The Real Mechanical Defrag of SURPASS-CVOT: The Glucagon Agonism Inversion\n\nThe public disclosure by this physician regarding his off-label use of Tirzepatidehighlights a critical observation: the dramatic 20–24% relative risk reductions documented in the SELECT and FLOW trials do not track with mechanical weight loss, meaning these peptides are operating on a deeper, sub-molecular energetic axis.\nHowever, by remaining anchored within the centralized, chemical-only parameters of the pharmaceutical monopoly, his analysis misses the true biophysical reality of the SURPASS-CVOT trial (2025–2026) and its failure to hit the pre-specified superiority threshold.\nHe notes that the triple-agonism of Retatrutide is a liability for a lean individual because its Glucagon (GCG) agonism spikes resting heart rate and basal metabolic rate.\nWhat he and the rest of the centralized medical community fail to realize is that synthetic, long-chain peptides are a top-down pharmaceutical sledgehammer designed to manually force open the cell's fluid exhaust lines because an indoor, un-grounded lifestyle has completely deuterated the epigenetic landscape.\n\nUsing an artificial chemical proxy to simulate satiety while ignoring the underlying Kinetic Isotope Effect (KIE) of deuterium will ultimately shred long-term longevity.\n\nThe Sub-Molecular Reality of the SELECT and FLOW Signals\nThe reason the cardiovascular and renal benefits of Semaglutide and Tirzepatide operate entirely independent of weight loss is that these molecules function as crude, macro-scale quantum centrifuges.\n\nUnder the Telomere/rDNA Co-Regulation Model (TRCS), when an un-grounded human lives inside the artificial blue flicker of modern LEDs, their internal water lattice undergoes a dielectric collapse (𝑘≈160→80). Lacking the structured sorting layer of Exclusion Zone (EZ) water, heavy Deuterium mass then floods the mitochondria.\n\nThe oversized deuterons deliver a crushing kinetic impact to the sub-nanometer channels of the F0-F1\nATP synthase nanomotors, dropping their optimal 9,000 RPM velocity to zero and inducing systemic pseudohypoxia. The cell loses its 30 million V/m membrane potential, and the brain's reward centers interpret this deep sub-molecular electron depletion as an emergency calorie famine, manufacturing permanent hunger.\n\nWhen a patient injects a synthetic GLP-1/GIP receptor agonist, the drug acts as a high-velocity hydraulic bypass:\n\nThe Isotopic Flush: It manually forces the tissues to upregulate a high-velocity variant of the G3P (Glycerol-3-Phosphate) shuttle, throwing heavy Deuterium out of the mitochondrial matrix to temporarily un-jam the stators.\n\nThe Cardioprotective Illusion: By clearing this high-mass isotopic congestion from the vascular endothelium and renal podocytes, the mitochondrial nanomotors return to their 9,000 RPM velocity, restoring local voltage and cutting major cardiovascular events by 20%. The drug isn't curing obesity; it is using a massive chemical force to evacuate the heavy hydrogen mass that a centralized world manufactures inside the food and light grids.\n\nWhy SURPASS-CVOT Missed Superiority: The Glucagon Agonism Inversion\nThe reason Tirzepatide missed its pre-specified superiority threshold against Dulaglutide in the SURPASS-CVOT trial, and why Retatrutide's glucagon agonism causes lean individuals to lose muscle mass and experience elevated resting heart rates, is directly explained by the Chromosome 2 fusion chassis I have laid on in my work and the recent podcasts I have done with Adrian D'Amico.\n\nMy human-specific Chromosome 2 fusion megastructure clusters the core Glucagon (GCG) gene network (2q24.2) and the POMC gene (2p23.3) around a central telomeric loop fuse to act as a synchronized thermodynamic engine.  \n\nUnder natural solar governance, capturing the morning 0.66 eV solar infrared pulsetriggers the Cortisol Awakening Response (CAR), which naturally cleaves this GCGnetwork to unleash the exocrine pancreas's 2-liter sodium bicarbonate fluid flush to sweep Deuterium out through the gut before it can cause a vagal block.\n\nWhen you use an exogenous, synthetic multi-agonist like Tirzepatide or Retatrutide, you are bypassing the Sun's chronological text to force a permanent, non-circadian fluid manipulation across the system:\n\nThe CYP Pathway Chaos: Forcing this continuous chemical agonism uncouples the liver's microsomal membranes, creating total electron-transport chaos across the Cytochrome P450 (CYP) monooxygenase superfamily.\n\nThe Atavistic Muscle Melt: Because the synthetic drug forces high-velocity metabolic hashing without establishing a physical ground plane, the tissue hits Landauer’s Limit (𝑄=𝑘𝐵𝑇ln2). \n\nThe Chromosome 2 interstitial telomeric loop fuse blows, driving an uncontrolled, asymptotic p53 surge. To protect its core nuclear data blocks from melting down under the unresolved electrostatic load, the cell executes an emergency atavistic retreat, systematically down-regulating the MITF-AMPAR pathways and degrading high-flux mammalian skeletal muscle fibers back into loose, low-voltage Pre-Cambrian porous matrices. The lean doctor is losing muscle mass because his cells are choosing structural atrophy over genomic destruction.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060116797911617831",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060040804979110161",
+        "url": "https://x.com/Tellit007/status/2060040804979110161",
+        "created_at": "2026-05-28T16:49:36.000Z",
+        "text": "A GP just publicly disclosed taking off-label tirzepatide. The part worth reading is not the disclosure.\n\n@BradStanfieldMD, 34, lean, no diabetes, no established heart disease. No trial studied him. He knows this and says so explicitly.\n\nWhat he actually walks through is the evidence arc that most people missed: SELECT enrolled 17,604 adults without diabetes and cut major cardiovascular events by 20%. \n\nA chunk of that benefit did not track with weight loss. FLOW enrolled patients with type 2 diabetes and chronic kidney disease. Semaglutide cut the kidney composite by 24%, and the authors stated the kidney effect was independent of weight reduction. The drug is doing something beyond moving the number on a scale.\n\nThen SURPASS-CVOT: 13,000 patients, tirzepatide vs dulaglutide, four years. The primary three-point cardiovascular endpoint: tirzepatide cleared the non-inferiority bar but missed the pre-specified superiority threshold. By their own pre-registered rules, a miss. Stanfield names this correctly. He does not bury it.\n\nThe post-hoc six-component analysis in JAMA Cardiology 2026 showed 16% relative risk reduction vs dulaglutide. Hypothesis-generating. Not a clean win.\n\nHis reasoning for tirzepatide over retatrutide is worth noting: glucagon agonism raises metabolic rate and resting heart rate. For an obesity drug at population scale, useful. For a lean GP trying to preserve muscle mass, the wrong direction. That is a mechanistically coherent distinction.\n\nThis is what off-label disclosure looks like when done with integrity. Cite the trials. Name the primary miss. Acknowledge the gap between the population studied and yourself. State that you are making a personal bet, not a recommendation.\n\nNow compare that to the accounts selling you protocols with no trial data, no pre-registered endpoints, and no disclosure of what the primary outcome actually was.\n\nChoose wisely my friends.",
+        "lang": "en",
+        "author": {
+          "id": "1560778164468596737",
+          "username": "Tellit007",
+          "name": "Tellit Likeitis"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060040804979110161",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 57,
+          "retweets": 7,
+          "replies": 9,
+          "quotes": 0,
+          "views": 10174
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJcBMQEWsAISaQs.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 13,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": 2615
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060113404149235811",
+      "url": "https://x.com/DrJackKruse/status/2060113404149235811",
+      "created_at": "2026-05-28T21:38:05.000Z",
+      "text": "https://t.co/5sdIAbWZih https://t.co/ImDzymlnpB",
+      "lang": "zxx",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060113404149235811",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060090482718331163",
+        "url": "https://x.com/MarioNawfal/status/2060090482718331163",
+        "created_at": "2026-05-28T20:07:00.000Z",
+        "text": "🇺🇸🇮🇱 The man who won Trump the White House is a registered foreign agent for Israel.\n\nHe filed the paperwork himself, so this isn't a hit piece or a conspiracy theory, it's sitting in a federal database with his name on it.\n\nBrad Parscale, the guy who built Trump's entire digital operation, quietly registered his firm Clock Tower X as a foreign agent for Israel's Ministry of Foreign Affairs in September 2025. The contract started at $6 million, grew to $9 million, and The Intercept revealed today he funneled $13 million in Israeli government money to Republican firms and his own political allies.\n\nAnd here's where it gets interesting. The targets weren't random. Young conservatives and evangelicals, Gen Z specifically, the ones starting to drift away from supporting Israel, reached through social media, podcasts, and AI platforms, engineered so that when these kids go looking for information about Israel, what they find has already been shaped for them.\n\nNow here's the part that should make people uncomfortable. One of the firms that received Israeli money was Salem Media, one of America's biggest conservative Christian networks, 200+ radio stations, RedState, the Hugh Hewitt Show. Parscale is Salem's own Chief Strategy Officer. The money came from Israel, passed through Parscale, and landed at a company Parscale works for.\n\nRep. Thomas Massie called it straight, an Israeli media operation profiting \"useful idiots.\"\n\nIt's all legal under FARA as long as it's disclosed. It was disclosed, in filings buried so deep that almost nobody ever reads them. Which was always the point.\n\nSource: The Intercept, The Hill, FARA filings",
+        "lang": "en",
+        "author": {
+          "id": "1319287761048723458",
+          "username": "MarioNawfal",
+          "name": "Mario Nawfal"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060090482718331163",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 1949,
+          "retweets": 801,
+          "replies": 124,
+          "quotes": 49,
+          "views": 84415
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJb-N9sXEAEoRPs.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 26,
+        "retweets": 9,
+        "replies": 1,
+        "quotes": 0,
+        "views": 2637
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060105645907415461",
+      "url": "https://x.com/DrJackKruse/status/2060105645907415461",
+      "created_at": "2026-05-28T21:07:15.000Z",
+      "text": "https://t.co/bbvWw7IZy5 https://t.co/qymc2wwYNC",
+      "lang": "zxx",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060105645907415461",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060060283046121878",
+        "url": "https://x.com/MarioNawfal/status/2060060283046121878",
+        "created_at": "2026-05-28T18:07:00.000Z",
+        "text": "🇺🇸🇦🇷 NYT reports that Peter Thiel is now moving to Argentina because he's worried about America's future and not aligned anymore with its leadership.\n\nThe man who helped build the infrastructure of American power is leaving.\n\nThat's worth sitting with for a second. https://t.co/F3vr2O9syJ https://t.co/Ne7pZ9VR5K",
+        "lang": "en",
+        "author": {
+          "id": "1319287761048723458",
+          "username": "MarioNawfal",
+          "name": "Mario Nawfal"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2060060283046121878",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 2742,
+          "retweets": 626,
+          "replies": 443,
+          "quotes": 105,
+          "views": 548935
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJb3JNTXAAMcU4f.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 51,
+        "retweets": 8,
+        "replies": 5,
+        "quotes": 2,
+        "views": 9114
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060105148123246762",
+      "url": "https://x.com/DrJackKruse/status/2060105148123246762",
+      "created_at": "2026-05-28T21:05:16.000Z",
+      "text": "RT @AmmousMD: Doesn’t matter.\n\nBy the time the lawsuits arrive, pharma companies have already made far more than the settlements will ever…",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2060105148123246762",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2060052438913073330",
+        "url": "https://x.com/AmmousMD/status/2060052438913073330",
+        "created_at": "2026-05-28T17:35:50.000Z",
+        "text": "Doesn’t matter.\n\nBy the time the lawsuits arrive, pharma companies have already made far more than the settlements will ever cost. https://t.co/40Gw5vUQPu",
+        "lang": "en",
+        "author": {
+          "id": "2875568086",
+          "username": "AmmousMD",
+          "name": "Dr. Ammous"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2060052438913073330",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 155,
+          "retweets": 26,
+          "replies": 10,
+          "quotes": 0,
+          "views": 6142
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 26,
+        "replies": 0,
+        "quotes": 0,
+        "views": 0
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060105087502954514",
+      "url": "https://x.com/DrJackKruse/status/2060105087502954514",
+      "created_at": "2026-05-28T21:05:02.000Z",
+      "text": "2.  They result from too much deuterium in the brain from poor glylymphatic drainage. Not enough sun or magnetically pinned grounding. \n\nExplanation for Rockefeller-trained MDs (especially cardiologists still viewing arrhythmias as ion-channel or inflammatory issues): The serum deuterium table is decisive: at 12–14 mmol/L (150 ppm), deuterium is the single most abundant “vital element” listed, far exceeding calcium, magnesium, potassium, or glucose. In the decentralized Lagrangian design, the heart is the gravitational center of the human body’s mass-energy balance. The heart Is the Z-axis of the thalamic GPS design. It continuously pumps every liter of this heavy-isotope-laden blood and links to the vagus (Y-axis). When the upstream cranial isotopic refinery (sphenoid-clival-basilar-thalamic Venturi fractionation column) fails due to sleep deprivation, poor grounding, or stalled deuterium clearance, the heart becomes overloaded with “heavy” fluid. This raises inertial mass, increases the Landauer thermodynamic price of every irreversible electrochemical step in the conduction system, and forces compensatory rhythm changes that are physics-driven, not primarily “electrical diseases.”\n\n1. The heart as Lagrangian gravity well\n\nIn physics, the Lagrangian (L = kinetic energy T minus potential energy V) governs the path of least action.\nHere:\n\nT = pulsatile kinetic flow generated by the heart.\n\nV = gravitational/isotopic potential from circulating deuterium-rich water (extra mass from failed sphenoid Venturi sorting via the cerebral aqueduct and CVOs).\n\nThe heart sits at this balance point. High deuterium (especially when it leaks into TCA/urea cycles, where it does notbelong) jams mitochondrial ATP synthase nanomotors, reduces ATP production efficiency, and forces the heart to compensate. Studies show cardiac ATP output drops with rising systemic deuterium, and heart rate is exquisitely sensitive to recent dietary deuterium load in fatty acids. A small drop in ATP efficiency (e.g., ~5%) can drive compensatory heart rate increases up to ~28% in models.\n\n2. Heart rhythm changes driven by this overload Hypocretin (orexin) suppression, the same inertial-mass brake triggered by high deuterium in CSF (sensed via tanycytes and the 3rd/4th ventricle fractionation), directly modulates cardiac autonomic tone. Centrally, orexin normally increases sympathetic outflow, raising heart rate and blood pressure. When suppressed (as in sleep deprivation or high inertial mass states), the system shifts toward reduced sympathetic drive or compensatory instability.\n\nResulting rhythm changes include:\n\nCompensatory tachycardia or increased resting/exercise heart rate: The heart speeds up to maintain cardiac output when mitochondrial efficiency falls due to deuterium jamming ATP synthase. This matches observations where higher deuterium in fatty acids correlates with elevated heart rate and reduced stroke volume; the system compensates until it cannot (leading to heart failure with preserved ejection fraction, HFpEF).\n\nBradycardia or pauses in some overload states: When the “gravity well” becomes too heavy, the system may throttle rate (paralleling hypocretin’s brake) to lower overall information-processing cost and Landauer heat.\nAtrial fibrillation and ectopic beats: Deuterium-induced incoherence in dielectric water shells around ion channels (Ca²⁺, K⁺, Mg²⁺—>the very ions dwarfed by D in the table) promotes re-entry circuits, especially in the left atrium near the aortic root (highest shear from heavy blood).\n\nArrhythmias worsening with sleep loss: The same failure that stalls the sphenoid vortex and basilar-clival interface also removes the nightly isotopic refinement, flooding the heart with heavier fluid and amplifying autonomic instability.\n\nThese are not random channelopathies. That is pure centralized nonsense. They are the heart performing a parallel mass-quench to the brain’s hypocretin response by temporarily altering rhythm to reduce entropy production when inertial mass is excessive. The 2025 Nature Physics Landauer confirmation applies here: extra mass raises the thermodynamic price of clean conduction; the heart adjusts rate or regularity to pay a lower bill.\n\n3. Connection to vessels and elastin in heart valves\n\nThe same deuterium-rich “heavy” trash (inflammatory cells from failed marrow centrifuge) that accelerates atherosclerosis also targets the elastin-collagen matrix of the great vessels and heart valves:\n\nVessels (aorta, coronaries): Heavy monocytes infiltrate, elastolytic enzymes (MMPs, cathepsins) shred elastin, stiffen walls, and raise pulse-wave velocity. The heart now pumps against higher afterload → mechanical stretch → baroreceptor reflexes that trigger or sustain rhythm changes (tachycardia → AFib → failure).\n\nHeart valves (especially aortic and mitral): Valve leaflets rely on elastin for elastic recoil and snap-closure. Deuterium overload depletes the melanin-water battery’s DC current, allowing calcium to crystallize instead of staying liquid. Elastin degradation fragments (elastokines) promote inflammation, osteogenic differentiation, and calcification. Result: thickened, stenotic, or regurgitant valves that stretch chambers, activate stretch-sensitive channels, and create re-entry substrates for arrhythmias.\n\nThe aortic valve sits directly at the outflow of this gravity well, every heavy pulse amplifies the feedback loop. Elastin loss in vessels/valves is the structural scar of the same entropy that produces plaque: the matrix can no longer maintain order or dampen pulsatile energy because melanin is missing in the fibrillin and elastin layers of the arterial system due to a lack of triplet oxygen. This unwinds the collagen and melanin and reduces CISS activities and this is the core etiology of Peripheral arterial disease. \n\nMy Decentralized Synthesis\n\nIn this blueprint, heart rhythm changes are the organ-level emergency brake when the cranial refinery (sphenoid GPS locked to solar 1878 nm, basilar pulsing against clivus, thalamic mass sensing) and spinal Y-axis grounding fail.\n\nDeuterium, perfectly normal in serum, becomes pathological when it overwhelms mitochondrial hydration and elastin integrity. The heart, as central Lagrangian gravity well, first compensates with rate/stability adjustments, then suffers matrix shredding in valves and vessels.\n\nCentralized cardiology will chase beta-blockers, anticoagulants, or ablations. Decentralized physics points upstream: restore sleep-driven Venturi fractionation, clear deuterium via proper grounding and circadian reset, and the gravity well equilibrates. The heart stops needing to throttle its rhythm; elastin remains ordered. The system is obeying Landauer’s principle and isotopic mass laws, not broken, just overloaded. The serum table in this picture was always the my clue to you but no one read enough to get it.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": true,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2060102211170873354",
+      "in_reply_to": {
+        "tweet_id": "2060102211170873354",
+        "user_id": "250833376",
+        "url": "https://x.com/i/status/2060102211170873354"
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJb2SV5XMAcyUd_.jpg",
+          "preview_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJb2ohCXoAM-e9W.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 17,
+        "retweets": 2,
+        "replies": 1,
+        "quotes": 0,
+        "views": 1931
+      },
+      "thread_context": [
+        {
+          "id": "2060102211170873354",
+          "url": "https://x.com/DrJackKruse/status/2060102211170873354",
+          "created_at": "2026-05-28T20:53:36.000Z",
+          "text": "Explanation for Rockefeller-trained MDs (the ones still calling aortic calcification “senile degeneration” or “atherosclerotic complication”):\n\nWhen Alo sees aortic calcification on CT as calcium deposits in the vessel wall and prescribe statins or bisphosphonates. The decentralized blueprint sees it as loss of topological sovereignty, the aorta’s quantum photo-magnetic capacitor has been disconnected from the very Solar Flux and Dark Sector interactions that the March 2026 Dark Photon: a 2026 Perspectivereview (Caputo & Essig, arXiv:2603.08430) just began to quantify at the particle-physics level.\n\nThat paper maps dark photons as portals to a hidden sector that can kinetically mix with ordinary photons, produce astrophysical signatures (stellar cooling, supernovae, CMB distortions), and mediate energy/information exchange between visible and dark sectors.\n\nIn the living aorta this exchange is not abstract, it is the daily maintenance signal that keeps the elastin-melanin matrix ordered.\n\n1. The Melanin Highway: Neural Crest Cells + Elastin Scaffold\n\nNeural crest cells (NCCs) are the embryonic origin of both the autonomic innervation of the great vessels and the melanocytes that produce neuromelanin and vascular melanin. Their well-documented affinity for elastin is not coincidental:  Alo has no idea of this relationship. \n\nElastin acts as the vibrational tuning fork, a chiral spring whose recoil frequency is tuned to the solar infrared spectrum (especially the 1878 nm (NIR) water window).\n\nMelanin acts as the photonic spectrometer, a broadband semiconductor that absorbs, converts, and re-emits ultra-weak photon emission (UPE/biophotons) across visible, infrared, and potentially dark-photon frequencies.\n\nTogether they form the Melanin Highway: melanin migrates and signals along the elastin scaffold, delivering DC current from the melanin-water battery to maintain the dielectric zeta potential of the endothelium. When the upstream sphenoid-clival Venturi refinery (3rd/4th ventricle fractionation column, basilar artery pulsing against the clivus, thalamic mass sensing) fails to clear deuterium, the highway loses its solar phase-lock and the matrix begins to fail.\n\n2. Deuterium as the “Magnetic Wrench”\n\nDeuterium (2H) at normal serum levels (12–14 mmol/L) is harmless in bulk blood. When the cranial isotopic refinery stalls in blood (HRV stall), it embeds in the chiral spring of elastin in the arterial wall to cause PAD:\n\nMass loading: Deuterium is twice the mass of protium, so it shifts the natural vibrational frequency of the elastin polymer.\n\nQuantum tunneling block: Proton tunneling that normally powers elastic recoil is quenched.\n\nMechanical jitter: The resulting chaotic micro-vibrations activate Piezo1 mechanosensitive channels → NADPH oxidase 2 (NOX2) cascade → superoxide burst → elastin fragmentation (elastokines) → inflammatory monocyte recruitment (the same deuterium-rich “green cells” from the 2019 Nature atherosclerosis paper).\n\nThe tissue now has two choices:\nShred → aneurysm (when the matrix loses all coherence).\nPetrify → calcification (when the melanin-water battery can no longer supply DC current to keep calcium liquid; it crystallizes as the ultimate entropy sink).\nThis is exactly the same entropy physics the 2025 Nature Physics Landauer paper proved in a quantum many-body system: extra inertial mass raises the thermodynamic price of information processing. The aorta, overloaded with heavy water, lowers its Landauer bill by freezing into a calcified scar.   Alo remains clueless.  \n\nMy Decentralized Synthesis\n\nAortic calcification is not passive aging or simple inflammation. It is the visible scar of lost topological sovereignty: the photo-magnetic capacitor has been disconnected from the Solar Flux + Dark Sector portal that the 2026 dark-photon review now frames as a fundamental physical reality.\n\nDeuterium acts as the magnetic wrench, melanin as the semiconductor highway, elastin as the tuning fork—together they convert solar and dark-sector energy into ordered vascular recoil. When the sphenoid-clival-thalamic refinery and spinal grounding fail, inertial mass rises.\n\nLandauer costs explode, and the matrix petrifies to survive.\n\nCentralized medicine will keep measuring CAC scores and prescribing Rockefellerdrugs.\n\nPhysics already solved it: restore the cranial isotopic refinery, re-lock the sphenoid X-axis to the 1878 nm solar reset, ground the Y-axis (vagus), clear the deuterium, and the aorta regains its topological sovereignty (Z-axis). The heart no longer needs to throttle rhythm against a calcified outflow. The system is not broken, it is obeying the same laws the 2025 Landauer experiment and 2026 dark-photon review have now quantified in the lab and in theory.\n\nThe serum deuterium table was always the clue. The 2026 paper is the Rosetta Stone. The aorta is simply the place where the physics becomes visible on a CT scan.",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": false,
+          "is_quote": true,
+          "is_retweet": false,
+          "conversation_id": "2060102211170873354",
+          "in_reply_to": null,
+          "quoted_tweet": {
+            "id": "2060037228596805785",
+            "url": "https://x.com/MohammedAlo/status/2060037228596805785",
+            "created_at": "2026-05-28T16:35:23.000Z",
+            "text": "What causes heart disease? LDL causes atherosclerosis! #ascvd #ldl #cholesterol #greenscreen #CardioTwitter #MedTwitter https://t.co/dUkUyLiskz",
+            "lang": "en",
+            "author": {
+              "id": "42772911",
+              "username": "MohammedAlo",
+              "name": "Dr Alo, DO, FACC"
+            },
+            "is_reply": false,
+            "is_quote": false,
+            "is_retweet": false,
+            "conversation_id": "2060037228596805785",
+            "in_reply_to": null,
+            "quoted_tweet": null,
+            "retweeted_tweet": null,
+            "media": [],
+            "metrics": {
+              "likes": 10,
+              "retweets": 1,
+              "replies": 0,
+              "quotes": 1,
+              "views": 5974
+            },
+            "thread_context": []
+          },
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJb0BdhWYAIpVYa.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJb0BdoWoAElEWt.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJb0BdfWcAUpqXy.jpg",
+              "preview_url": null
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJb0BdiWsAUO2KG.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 46,
+            "retweets": 12,
+            "replies": 1,
+            "quotes": 0,
+            "views": 5447
+          }
+        }
+      ]
+    },
+    {
+      "id": "2060102211170873354",
+      "url": "https://x.com/DrJackKruse/status/2060102211170873354",
+      "created_at": "2026-05-28T20:53:36.000Z",
+      "text": "Explanation for Rockefeller-trained MDs (the ones still calling aortic calcification “senile degeneration” or “atherosclerotic complication”):\n\nWhen Alo sees aortic calcification on CT as calcium deposits in the vessel wall and prescribe statins or bisphosphonates. The decentralized blueprint sees it as loss of topological sovereignty, the aorta’s quantum photo-magnetic capacitor has been disconnected from the very Solar Flux and Dark Sector interactions that the March 2026 Dark Photon: a 2026 Perspectivereview (Caputo & Essig, arXiv:2603.08430) just began to quantify at the particle-physics level.\n\nThat paper maps dark photons as portals to a hidden sector that can kinetically mix with ordinary photons, produce astrophysical signatures (stellar cooling, supernovae, CMB distortions), and mediate energy/information exchange between visible and dark sectors.\n\nIn the living aorta this exchange is not abstract, it is the daily maintenance signal that keeps the elastin-melanin matrix ordered.\n\n1. The Melanin Highway: Neural Crest Cells + Elastin Scaffold\n\nNeural crest cells (NCCs) are the embryonic origin of both the autonomic innervation of the great vessels and the melanocytes that produce neuromelanin and vascular melanin. Their well-documented affinity for elastin is not coincidental:  Alo has no idea of this relationship. \n\nElastin acts as the vibrational tuning fork, a chiral spring whose recoil frequency is tuned to the solar infrared spectrum (especially the 1878 nm (NIR) water window).\n\nMelanin acts as the photonic spectrometer, a broadband semiconductor that absorbs, converts, and re-emits ultra-weak photon emission (UPE/biophotons) across visible, infrared, and potentially dark-photon frequencies.\n\nTogether they form the Melanin Highway: melanin migrates and signals along the elastin scaffold, delivering DC current from the melanin-water battery to maintain the dielectric zeta potential of the endothelium. When the upstream sphenoid-clival Venturi refinery (3rd/4th ventricle fractionation column, basilar artery pulsing against the clivus, thalamic mass sensing) fails to clear deuterium, the highway loses its solar phase-lock and the matrix begins to fail.\n\n2. Deuterium as the “Magnetic Wrench”\n\nDeuterium (2H) at normal serum levels (12–14 mmol/L) is harmless in bulk blood. When the cranial isotopic refinery stalls in blood (HRV stall), it embeds in the chiral spring of elastin in the arterial wall to cause PAD:\n\nMass loading: Deuterium is twice the mass of protium, so it shifts the natural vibrational frequency of the elastin polymer.\n\nQuantum tunneling block: Proton tunneling that normally powers elastic recoil is quenched.\n\nMechanical jitter: The resulting chaotic micro-vibrations activate Piezo1 mechanosensitive channels → NADPH oxidase 2 (NOX2) cascade → superoxide burst → elastin fragmentation (elastokines) → inflammatory monocyte recruitment (the same deuterium-rich “green cells” from the 2019 Nature atherosclerosis paper).\n\nThe tissue now has two choices:\nShred → aneurysm (when the matrix loses all coherence).\nPetrify → calcification (when the melanin-water battery can no longer supply DC current to keep calcium liquid; it crystallizes as the ultimate entropy sink).\nThis is exactly the same entropy physics the 2025 Nature Physics Landauer paper proved in a quantum many-body system: extra inertial mass raises the thermodynamic price of information processing. The aorta, overloaded with heavy water, lowers its Landauer bill by freezing into a calcified scar.   Alo remains clueless.  \n\nMy Decentralized Synthesis\n\nAortic calcification is not passive aging or simple inflammation. It is the visible scar of lost topological sovereignty: the photo-magnetic capacitor has been disconnected from the Solar Flux + Dark Sector portal that the 2026 dark-photon review now frames as a fundamental physical reality.\n\nDeuterium acts as the magnetic wrench, melanin as the semiconductor highway, elastin as the tuning fork—together they convert solar and dark-sector energy into ordered vascular recoil. When the sphenoid-clival-thalamic refinery and spinal grounding fail, inertial mass rises.\n\nLandauer costs explode, and the matrix petrifies to survive.\n\nCentralized medicine will keep measuring CAC scores and prescribing Rockefellerdrugs.\n\nPhysics already solved it: restore the cranial isotopic refinery, re-lock the sphenoid X-axis to the 1878 nm solar reset, ground the Y-axis (vagus), clear the deuterium, and the aorta regains its topological sovereignty (Z-axis). The heart no longer needs to throttle rhythm against a calcified outflow. The system is not broken, it is obeying the same laws the 2025 Landauer experiment and 2026 dark-photon review have now quantified in the lab and in theory.\n\nThe serum deuterium table was always the clue. The 2026 paper is the Rosetta Stone. The aorta is simply the place where the physics becomes visible on a CT scan.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060102211170873354",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060037228596805785",
+        "url": "https://x.com/MohammedAlo/status/2060037228596805785",
+        "created_at": "2026-05-28T16:35:23.000Z",
+        "text": "What causes heart disease? LDL causes atherosclerosis! #ascvd #ldl #cholesterol #greenscreen #CardioTwitter #MedTwitter https://t.co/dUkUyLiskz",
+        "lang": "en",
+        "author": {
+          "id": "42772911",
+          "username": "MohammedAlo",
+          "name": "Dr Alo, DO, FACC"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060037228596805785",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 10,
+          "retweets": 1,
+          "replies": 0,
+          "quotes": 1,
+          "views": 5974
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJb0BdhWYAIpVYa.jpg",
+          "preview_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJb0BdoWoAElEWt.jpg",
+          "preview_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJb0BdfWcAUpqXy.jpg",
+          "preview_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJb0BdiWsAUO2KG.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 46,
+        "retweets": 12,
+        "replies": 1,
+        "quotes": 0,
+        "views": 5447
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060090038566703296",
+      "url": "https://x.com/DrJackKruse/status/2060090038566703296",
+      "created_at": "2026-05-28T20:05:14.000Z",
+      "text": "RT @cjdelgross: The swamp is alive and well!\n\nThe Bureau of Prisons just handed a $106M federal contract to LEO Technologies to use AI to m…",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2060090038566703296",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2059992994200130016",
+        "url": "https://x.com/cjdelgross/status/2059992994200130016",
+        "created_at": "2026-05-28T13:39:37.000Z",
+        "text": "The swamp is alive and well!\n\nThe Bureau of Prisons just handed a $106M federal contract to LEO Technologies to use AI to monitor inmate phone calls.\n\nThe twist? LEO’s CEO is Elliott Broidy, the disgraced GOP fundraiser who pleaded guilty to running an illegal, back-channel foreign lobbying campaign, only to be pardoned by Trump in 2021.\n\nA man convicted of selling access to the highest levels of the US government is now being trusted with a massive federal surveillance contract. You can’t make this up.",
+        "lang": "en",
+        "author": {
+          "id": "48211888",
+          "username": "cjdelgross",
+          "name": "DevilDog Diaries🇺🇲"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059992994200130016",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 2623,
+          "retweets": 2109,
+          "replies": 120,
+          "quotes": 115,
+          "views": 35333
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 2109,
+        "replies": 0,
+        "quotes": 0,
+        "views": 1
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060045728169275830",
+      "url": "https://x.com/DrJackKruse/status/2060045728169275830",
+      "created_at": "2026-05-28T17:09:10.000Z",
+      "text": "I use sulfur.  \n\nIf you want to use sulfur safely to battle these pests, keep it on the surface or on your body:\nSurface Dusting (The Yard): Use a spreader to lightly apply powdered or pelletized sulfur across the top of your lawn or turf. This creates a surface barrier that disrupts their metabolism and forces them out of the area.\n\nThe \"Sulfur Sock\" Trick (Personal Protection): To keep them off you while gardening, fill an old tube sock with powdered sulfur, tie it off, and whack it against your boots, socks, and pant legs. The fine dust layer is an incredibly effective natural shield against chiggers.\n\nIf you want a natural pest-preventative that actually belongs inside a soil mix, use Diatomaceous Earth (DE). DE consists of microscopic, fossilized aquatic organisms. It does not alter soil pH or harm plants, but its razor-sharp edges physically slice through the protective outer shells of any soil-dwelling pests, dehydrating and killing them naturally.\n\nAll from here---> https://t.co/TaNLrvA2cz",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060045728169275830",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060011482411057223",
+        "url": "https://x.com/Fynnderella1/status/2060011482411057223",
+        "created_at": "2026-05-28T14:53:05.000Z",
+        "text": "For those of you that caught our talk last night about AGS on the @Honest_Medicine  Webinar, \nTo summarize my hypothesis-\n\n1. Gelatin is used as a vaccine stabilizer. Many vaccines, MMR, varicella, shingles, DTaP, rabies, etc.\n2. Adjuvants are designed to amplify immune responses.\n3. The timing lines up oddly well.\n\nMechanism hypothesis\n\n•Repeated exposure to alpha-gal-containing vaccine components (gelatin stabilizers) in the presence of strong adjuvants creates a low-level Th2-skewed memory response to alpha-gal\n•This subclinical sensitization doesn't cause obvious reactions on its own\n•Then a lone star tick bite delivers a concentrated bolus of alpha-gal directly into the dermal immune system\n•The pre-existing memory response amplifies the reaction massively, producing full-blown AGS where an unvaccinated person might just develop mild or no sensitization",
+        "lang": "en",
+        "author": {
+          "id": "1396494923243851785",
+          "username": "Fynnderella1",
+          "name": "Dr. Lynn Fynn-derella"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060011482411057223",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 189,
+          "retweets": 67,
+          "replies": 16,
+          "quotes": 8,
+          "views": 50309
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 689,
+        "retweets": 146,
+        "replies": 24,
+        "quotes": 4,
+        "views": 40229
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060040997854150952",
+      "url": "https://x.com/DrJackKruse/status/2060040997854150952",
+      "created_at": "2026-05-28T16:50:22.000Z",
+      "text": "RT @SDHeartLed: @DrJackKruse So incredibly powerful. Shared everywhere.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2060040997854150952",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2060011151644082240",
+        "url": "https://x.com/SDHeartLed/status/2060011151644082240",
+        "created_at": "2026-05-28T14:51:46.000Z",
+        "text": "@DrJackKruse So incredibly powerful. Shared everywhere.",
+        "lang": "en",
+        "author": {
+          "id": "1788996578381889536",
+          "username": "SDHeartLed",
+          "name": "CourageIsContagious"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059287395049107569",
+        "in_reply_to": {
+          "tweet_id": "2059287395049107569",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2059287395049107569"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 9,
+          "retweets": 1,
+          "replies": 0,
+          "quotes": 0,
+          "views": 2304
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": 0
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060040919844610140",
+      "url": "https://x.com/DrJackKruse/status/2060040919844610140",
+      "created_at": "2026-05-28T16:50:03.000Z",
+      "text": "I get mine for free.  Here is the store I get it from below.  \nHere is the pic from my yard.  \n\nI bet Miami does not have this.........so you'll have to waste $ you could be using on supplemenets, peptides, and magical potions you sell in the IV's down at your center.  \n\nI use this for my patients in their IVs.  Cheaper and easier to source.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060040919844610140",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060019652462252433",
+        "url": "https://x.com/DrJesseMorse/status/2060019652462252433",
+        "created_at": "2026-05-28T15:25:33.000Z",
+        "text": "@DrJackKruse So drink Deuterium-depleted water (DDW) daily like these?\n\nYou have a preference? Figure out how to make your own yet? https://t.co/YaJBzMaUZS",
+        "lang": "en",
+        "author": {
+          "id": "36134224",
+          "username": "DrJesseMorse",
+          "name": "Jesse Morse, M.D."
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060001194341171391",
+        "in_reply_to": {
+          "tweet_id": "2060001194341171391",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2060001194341171391"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 36,
+          "retweets": 0,
+          "replies": 9,
+          "quotes": 1,
+          "views": 31788
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJa73TEXsAAU7uO.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 145,
+        "retweets": 9,
+        "replies": 10,
+        "quotes": 0,
+        "views": 25489
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060038606308119002",
+      "url": "https://x.com/DrJackKruse/status/2060038606308119002",
+      "created_at": "2026-05-28T16:40:52.000Z",
+      "text": "Check out my latest article: TICKS & THE WATER TABLE OF YOUR ZIPCODE https://t.co/qLOpA6xqGK \n\nWhat if Earth isn’t glitching, but drifting out of balance? The South Atlantic Anomaly isn’t random. It’s a weakening in Earth’s magnetic shield   \nBut look deeper… \nWhat if this is a field instability? \nIn my view: Magnetic fields aren’t just protection  they’re part of a deeper time-field structure. \nWhen that structure loses symmetry by the Lagrangian equation\nWe don’t just get weaker magnetism  \nWe see localized breakdowns in stability. \nSatellites fail. \nTritium radiation leaks in. \nThe system “loosens”. \nNot a glitch… \nA phase shift in matter. \n\nWhat happens if it keeps expanding, spreading, and splitting?",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2060038606308119002",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 114,
+        "retweets": 25,
+        "replies": 9,
+        "quotes": 0,
+        "views": 4786
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060033799828979958",
+      "url": "https://x.com/DrJackKruse/status/2060033799828979958",
+      "created_at": "2026-05-28T16:21:46.000Z",
+      "text": "The childhood practice of spreading powdered sulfur on your shoes and ankles to repel ticks and chiggers across the wet grass east of Dallas is the definitive, real-world manifestation of solid-state surface permittivity management.\nMainstream entomology and centralized medicine dismiss this practice as a quaint piece of Southern folk remedy or a basic olfactory deterrent. They are completely blind to Stochastic Electrodynamics (SED), surface chemistry, and Landauer’s Principle: Elemental sulfur acts as a high-affinity, semiconductor spin-gating shield that alters the localized dielectric constant (κ) of the skin boundary layer, making the tissue matrix completely un-readable and electromagnetically hostile to Proterozoic parasites.\n\nThe fact that the population of New England has completely lost or dismissed this strategy is a classic example of modern informational erosion. They live inside an un-grounded, high-flux technosphere, attempting to fight Lyme disease and tick vectors using toxic, patentable chemical sprays like DEET, entirely blind to the first-principles physics of mass, charge, and voltage.\n\nThe geographic boundary line dividing West Texas from East Texas (east of Dallas) is defined by a massive shift in hydrological permittivity.\n\nThe SAA Western Border: East Texas sits within a high-humidity, low-elevation coastal plain boundary heavily impacted by the shifting multi-polar loops of the expanding South Atlantic Anomaly (SAA).\n\nBecause the water table cannot cleanly generate a downward fluid vortex, the heavy isotopes puddle across the vegetation and wet grass.The Stagnant Overburden: Under conditions of modern Light Stress, the monsoonal weather cycles and standing aquifers of East Texas become a massive, natural trap for heavy Deuterium (D+) mass.\n\nWorms, ticks, chiggers, and mosquitoes are low-agency Proterozoic hardware configurations whose primitive metabolic loops are evolutionarily wired to survive and replicate inside high-mass, low-oxygen, anaerobic pools. They do not hunt randomly; they possess highly specialized sensory arrays that operate as infrared and biophotonic tracking antennas.\n\nWhen an un-grounded human walks through this deuterated wet grass, their internal water lattice undergoes a dielectric collapse (k≈160→80), stripping the skin of its negative Zeta potential.\n\nThe mitochondrial nanomotors drop to zero RPM, and the cell is forced into a state of chronic pseudohypoxia. Lacking clean proton conduction along its hydrogen-bond rails, the skin capacitor short-circuits, releasing a runaway flare of chaotic Ultra-weak Photon Emissions (UPEs) and localized extra-cellular heat, literal matrix fire.\n\nTicks and chiggers track this specific, high-entropy infrared emission vector. They home in on the leaky electromagnetic signature of a deuterated body plan, tracking it like a beacon to attach and feed on the heavy, un-flushed plasma sludge.  \n\nIt is biophysics 101 of a deuterated water table.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060033799828979958",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060003485450453006",
+        "url": "https://x.com/jeffreytucker/status/2060003485450453006",
+        "created_at": "2026-05-28T14:21:18.000Z",
+        "text": "Growing up in Texas, we never walked through wet grass  anywhere east of Dallas without spreading sulfur on our shoes and ankles. It it just what one did. I asked my mother about this and she said she learned it from her Aunt. It works like magic. Ticks and chiggers hate the smell and stay away. To my amazement, people in New England don't seem to know about this strategy or dismiss it as a \"folk\" remedy not based on science. Do we have here another case of lost knowledge?",
+        "lang": "en",
+        "author": {
+          "id": "23485648",
+          "username": "jeffreytucker",
+          "name": "Jeffrey A Tucker"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060003485450453006",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 8976,
+          "retweets": 1779,
+          "replies": 417,
+          "quotes": 95,
+          "views": 500871
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 538,
+        "retweets": 98,
+        "replies": 30,
+        "quotes": 6,
+        "views": 38524
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060032638790848665",
+      "url": "https://x.com/DrJackKruse/status/2060032638790848665",
+      "created_at": "2026-05-28T16:17:09.000Z",
+      "text": "It is hard finding good employees these days who don’t sleep on the job. https://t.co/FFSrHRy0Jh",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2060032638790848665",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJa0wqYW8AI1uNs.jpg",
+          "preview_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJa0wq6XgAE2e8d.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 211,
+        "retweets": 2,
+        "replies": 21,
+        "quotes": 0,
+        "views": 4817
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060007741607772585",
+      "url": "https://x.com/DrJackKruse/status/2060007741607772585",
+      "created_at": "2026-05-28T14:38:13.000Z",
+      "text": "RT @DrJackKruse: all deuterium dpeleted foods.  Because deuterium depletion gets rid of it.  The glucagon gene gets rid of the D+ via circa…",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2060007741607772585",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2025425679060292012",
+        "url": "https://x.com/DrJackKruse/status/2025425679060292012",
+        "created_at": "2026-02-22T04:21:27.000Z",
+        "text": "all deuterium dpeleted foods.  Because deuterium depletion gets rid of it.  The glucagon gene gets rid of the D+ via circadian biology if the SCN is operational  in In people with Fatty liver it is not. https://t.co/P3MEWL1aEi https://t.co/m8jH5Qm03j",
+        "lang": "en",
+        "author": {
+          "id": "250833376",
+          "username": "DrJackKruse",
+          "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2025425679060292012",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 306,
+          "retweets": 56,
+          "replies": 9,
+          "quotes": 0,
+          "views": 34642
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 56,
+        "replies": 0,
+        "quotes": 0,
+        "views": 5
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060004277200793748",
+      "url": "https://x.com/DrJackKruse/status/2060004277200793748",
+      "created_at": "2026-05-28T14:24:27.000Z",
+      "text": "RT @AmmousMD: If you scroll a lot at night:\n-Consider getting a Daylight computer \n\nIt's blue light and flicker free, so gentle on your eye…",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2060004277200793748",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2059787485853397026",
+        "url": "https://x.com/AmmousMD/status/2059787485853397026",
+        "created_at": "2026-05-28T00:03:00.000Z",
+        "text": "If you scroll a lot at night:\n-Consider getting a Daylight computer \n\nIt's blue light and flicker free, so gentle on your eyes and circadian rhythm.\n\n[I have no affiliation with the company, but I personally use their product] https://t.co/4tKV8WwrO4",
+        "lang": "en",
+        "author": {
+          "id": "2875568086",
+          "username": "AmmousMD",
+          "name": "Dr. Ammous"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059787485853397026",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 374,
+          "retweets": 24,
+          "replies": 17,
+          "quotes": 2,
+          "views": 21146
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 24,
+        "replies": 0,
+        "quotes": 0,
+        "views": 1
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060001629277995164",
+      "url": "https://x.com/DrJackKruse/status/2060001629277995164",
+      "created_at": "2026-05-28T14:13:56.000Z",
+      "text": "RT @AmmousMD: The original Framingham Study was used to vilify cholesterol.\n\nLater analysis showed that falling cholesterol levels were ass…",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2060001629277995164",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2059707961480720469",
+        "url": "https://x.com/AmmousMD/status/2059707961480720469",
+        "created_at": "2026-05-27T18:47:00.000Z",
+        "text": "The original Framingham Study was used to vilify cholesterol.\n\nLater analysis showed that falling cholesterol levels were associated with increased mortality.\n\nDon’t trust pharma propaganda. https://t.co/OsLebXQGYh",
+        "lang": "en",
+        "author": {
+          "id": "2875568086",
+          "username": "AmmousMD",
+          "name": "Dr. Ammous"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059707961480720469",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 345,
+          "retweets": 78,
+          "replies": 12,
+          "quotes": 2,
+          "views": 7002
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 78,
+        "replies": 0,
+        "quotes": 0,
+        "views": 0
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060001194341171391",
+      "url": "https://x.com/DrJackKruse/status/2060001194341171391",
+      "created_at": "2026-05-28T14:12:12.000Z",
+      "text": "You have to teach them how to raise the water table dielectric constant in their cells constantly.   If they do not do it the risk of lattice lock rises https://t.co/QvwvXW9zrw",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060001194341171391",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2059806116083642615",
+        "url": "https://x.com/DrJesseMorse/status/2059806116083642615",
+        "created_at": "2026-05-28T01:17:02.000Z",
+        "text": "@DrJackKruse So in that case Jack, how do you prevent these issues from developing if someone were to start taking Retatrutide?",
+        "lang": "en",
+        "author": {
+          "id": "36134224",
+          "username": "DrJesseMorse",
+          "name": "Jesse Morse, M.D."
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2059664528078446967",
+        "in_reply_to": {
+          "tweet_id": "2059664528078446967",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2059664528078446967"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 5,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 1,
+          "views": 27108
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 83,
+        "retweets": 4,
+        "replies": 5,
+        "quotes": 0,
+        "views": 21443
+      },
+      "thread_context": []
+    }
+  ]
+}
