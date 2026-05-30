@@ -1,0 +1,825 @@
+{
+  "date": "2026-05-30",
+  "handle": "DrJackKruse",
+  "fetched_at": "2026-05-30T04:03:36.621Z",
+  "range_mode": "rolling",
+  "window_hours": 24,
+  "window_start_utc": "2026-05-29T04:03:16.016Z",
+  "window_end_utc": "2026-05-30T04:03:16.016Z",
+  "source": {
+    "backend": "x-api-v2",
+    "endpoint": "/2/users/:id/tweets"
+  },
+  "tweet_count": 14,
+  "tweets": [
+    {
+      "id": "2060543339150102600",
+      "url": "https://x.com/DrJackKruse/status/2060543339150102600",
+      "created_at": "2026-05-30T02:06:29.000Z",
+      "text": "RT @BitcoinconfIRL: One of the most talked-about presentations from Bitcoin Ireland Conference 2026 🇮🇪⚡\n\n🎥 @DrJackKruse — \"The Time Has Com…",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2060543339150102600",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2060470939876307411",
+        "url": "https://x.com/BitcoinconfIRL/status/2060470939876307411",
+        "created_at": "2026-05-29T21:18:48.000Z",
+        "text": "One of the most talked-about presentations from Bitcoin Ireland Conference 2026 🇮🇪⚡\n\n🎥 @DrJackKruse — \"The Time Has Come, Ireland\"\n\nNow available to watch.\n\n⚠️ Due to a technical issue, the final portion of the Q&amp;A was unfortunately not recorded. https://t.co/1tSIZDs8BV",
+        "lang": "en",
+        "author": {
+          "id": "1669827861019078657",
+          "username": "BitcoinconfIRL",
+          "name": "Bitcoin Conference Ireland"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060470939876307411",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 31,
+          "retweets": 8,
+          "replies": 3,
+          "quotes": 1,
+          "views": 1954
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": 1
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060500566355157022",
+      "url": "https://x.com/DrJackKruse/status/2060500566355157022",
+      "created_at": "2026-05-29T23:16:31.000Z",
+      "text": "https://t.co/DQOIA3QV2h https://t.co/kIo7UKVwyP",
+      "lang": "zxx",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060500566355157022",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060382988459012191",
+        "url": "https://x.com/TonySeruga/status/2060382988459012191",
+        "created_at": "2026-05-29T15:29:19.000Z",
+        "text": "🇺🇸💥🇮🇱 Congress Just Voted to Fuse the U.S. Military With Israel’s — and Buried It on Page 847 So You Wouldn’t Notice ☠️\n\nSection 224 of the $1.15 Trillion NDAA Doesn’t Fund Israel. It Makes Israel Part of the Pentagon. Forever. No Exit. No Debate. No Vote. 👇",
+        "lang": "en",
+        "author": {
+          "id": "59643287",
+          "username": "TonySeruga",
+          "name": "Tony Seruga"
+        },
+        "is_reply": false,
+        "is_quote": true,
+        "is_retweet": false,
+        "conversation_id": "2060382988459012191",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 11945,
+          "retweets": 5783,
+          "replies": 601,
+          "quotes": 577,
+          "views": 640501
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJhd_NjWwAAyUxW.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 82,
+        "retweets": 20,
+        "replies": 2,
+        "quotes": 0,
+        "views": 4662
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060430640932065335",
+      "url": "https://x.com/DrJackKruse/status/2060430640932065335",
+      "created_at": "2026-05-29T18:38:40.000Z",
+      "text": "RT @SabinehazanMD: @GutPathogens, it takes some guts to contact me requesting a review of your paper.\nI suggest you reinstate the paper ack…",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2060430640932065335",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2060353084908622129",
+        "url": "https://x.com/SabinehazanMD/status/2060353084908622129",
+        "created_at": "2026-05-29T13:30:29.000Z",
+        "text": "@GutPathogens, it takes some guts to contact me requesting a review of your paper.\nI suggest you reinstate the paper acknowledging that @Progenabiome was the first laboratory to detect SARS-CoV-2 in patient stool samples by whole genome sequencing. Once that is corrected, I will gladly dedicate my free time to reviewing your papers.\nUntil then, please stop emailing me. \nMy expertise STAYS in my brain. #WATCHME \nWe are at war.\n\nhttps://t.co/8shS1cRAGK\nTo my followers, \nThese journals make millions yet never pay peer reviewers and can retract papers for no good reason without even contacting the reviewers who spent their time approving them.\nFollow @SciGuardians for details on the corruption, along with @SenRonJohnson, @AaronSiriSG, and @maryhollandnyc who are exposing all this .\n\nTAKE NOTES DOCTORS  @DrJBhattacharya @drdrew @P_McCulloughMD @NicHulscher @RWMaloneMD @weldeiry @Jikkyleaks @Fynnderella1 @KMilhoanMDPhD @MaryBowdenMD @DrJackKruse @unbridledmd @molsjames @afshineemrani @LeahHoustonMD @houmanhemmati @AzadehKhatibiMD @RupaliChadhaMD @MartyMakary",
+        "lang": "en",
+        "author": {
+          "id": "3464917999",
+          "username": "SabinehazanMD",
+          "name": "sabine hazan md"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060353084908622129",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 120,
+          "retweets": 40,
+          "replies": 7,
+          "quotes": 2,
+          "views": 5104
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 40,
+        "replies": 0,
+        "quotes": 0,
+        "views": 2
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060430468420358224",
+      "url": "https://x.com/DrJackKruse/status/2060430468420358224",
+      "created_at": "2026-05-29T18:37:59.000Z",
+      "text": "Who is the other woman? https://t.co/NCQmIfKWgT",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060430468420358224",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060357697514438874",
+        "url": "https://x.com/AngieCordeiro57/status/2060357697514438874",
+        "created_at": "2026-05-29T13:48:49.000Z",
+        "text": "She and I were both born in 57, I’m four months older.\nThe difference in our appearance is more than the teeth. Mine aren’t capped. Or the wrinkles, I was and am a sun worshiper , not a fan of sunscreen. Our similarities are  about swimming and avoidance of Botox 🤫and our mothers both were excellent students at all girls Catholic schools .\n\nGood day💃🏻",
+        "lang": "en",
+        "author": {
+          "id": "4593899844",
+          "username": "AngieCordeiro57",
+          "name": "Angie Cordeiro57"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060347094464970924",
+        "in_reply_to": {
+          "tweet_id": "2060347094464970924",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2060347094464970924"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 15,
+          "retweets": 1,
+          "replies": 2,
+          "quotes": 4,
+          "views": 14968
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 23,
+        "retweets": 4,
+        "replies": 4,
+        "quotes": 0,
+        "views": 12858
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060401190840471746",
+      "url": "https://x.com/DrJackKruse/status/2060401190840471746",
+      "created_at": "2026-05-29T16:41:38.000Z",
+      "text": "yep https://t.co/9keTuop8My",
+      "lang": "qst",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060401190840471746",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060358243717615635",
+        "url": "https://x.com/jotaenthusiast7/status/2060358243717615635",
+        "created_at": "2026-05-29T13:50:59.000Z",
+        "text": "@DrJackKruse @DrJackKruse can we remove some of the D+ with mastic gum?",
+        "lang": "en",
+        "author": {
+          "id": "1151489806968524800",
+          "username": "jotaenthusiast7",
+          "name": "Poleshifter"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060347094464970924",
+        "in_reply_to": {
+          "tweet_id": "2060347094464970924",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2060347094464970924"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 20,
+          "retweets": 5,
+          "replies": 3,
+          "quotes": 3,
+          "views": 12721
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 121,
+        "retweets": 14,
+        "replies": 6,
+        "quotes": 1,
+        "views": 9809
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060401159584493760",
+      "url": "https://x.com/DrJackKruse/status/2060401159584493760",
+      "created_at": "2026-05-29T16:41:31.000Z",
+      "text": "RT @jotaenthusiast7: @DrJackKruse @DrJackKruse can we remove some of the D+ with mastic gum?",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2060401159584493760",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2060358243717615635",
+        "url": "https://x.com/jotaenthusiast7/status/2060358243717615635",
+        "created_at": "2026-05-29T13:50:59.000Z",
+        "text": "@DrJackKruse @DrJackKruse can we remove some of the D+ with mastic gum?",
+        "lang": "en",
+        "author": {
+          "id": "1151489806968524800",
+          "username": "jotaenthusiast7",
+          "name": "Poleshifter"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060347094464970924",
+        "in_reply_to": {
+          "tweet_id": "2060347094464970924",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/2060347094464970924"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 20,
+          "retweets": 5,
+          "replies": 3,
+          "quotes": 3,
+          "views": 12721
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": 0
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060400892264735039",
+      "url": "https://x.com/DrJackKruse/status/2060400892264735039",
+      "created_at": "2026-05-29T16:40:27.000Z",
+      "text": "The bitemporal wasting and the baldness on top of the head = BAD ENTROPY being created for the neurons below. All melanin derivatives. \n\nJoe's pic shows all the signs of neuroectodermal atrophy from singlet oxygen.  \n\nThe Shared Chassis of Ectodermal Atrophy: The O-D KIE Core\n\nThe reason this structural breakdown happens so rapidly in modern populations is that the oral water table was already deuterated pre-ingestion due to chronic Light Stress (living under the power of the ear pods and artificial blue flicker of modern LEDs and high-nnEMF fields while Earth’s dipole field undergoes its accelerating decline).  He also lives next to AMOC which has reduced 50% in his lifetime.  He has no idea what this means for his O-D bonds. \n\nThe inclusion of double-mass Deuterium into the hydroxyl channels creates a powerful Oxygen-Deuterium (O-D) bond that completely disrupts the cell's quantum spin-gating mechanics as the equatiobn below shows. \n\nBecause Deuterium doubles the reduced mass (), the O-D bond is exponentially stiffer (10X stronger) and harder to cleave, blocking the spin-forbidden inversion of magnetic ground triplet state oxygen. This is why it will take a long time. \n\nThe CISS Filter Demolition: This uncoordinated spin inversion destroys the Chiral Induced Spin Selectivity (CISS) filter by 72.25%, transforming the ectodermal liquid-crystalline superconductors into high-resistance resistors. This is why he has bitemporal muscle wasting and has lost the melanin hair on top of his head.  Electrons moving along the metabolic lines scatter into random thermal noise creating steam from the neurons once in his brain and now in the heat loss.  This is bioiphysics 101.  It is not just about a previous injury either.  \n\nHow did it happen?  He blew Chromosome 2 fuse long ago. \n\nThe MITF Safe-Mode Lock: Under the Telomere/rDNA Co-Regulation Model (TRCS), this sudden voltage crash threatens the cell nucleus with complete Landauer informational erasure (=ln2)\n\nTo protect its core genetic data blocks, the Chromosome 2 interstitial telomeric loop (2q13–14) blows its structural fuse. \n\nThe resulting asymptotic p53 master switch surge immediately forces an emergency atavistic retreat, down-regulating the MITF-AMPAR pathways. The cell intentionally shuts down high-voltage neuron/melanin/muscle use in the radiated area, choosing structural atrophy over genomic destruction, exactly like an orbital satellite entering software \"safe-mode\" shutdown when flying through the radiation teeth of the South Atlantic Anomaly (SAA).",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060400892264735039",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060368882401960426",
+        "url": "https://x.com/unhealthytruth/status/2060368882401960426",
+        "created_at": "2026-05-29T14:33:16.000Z",
+        "text": "@DrJackKruse Hi Doc. I can confirm that they are wired. Still bad? Or just less bad?",
+        "lang": "en",
+        "author": {
+          "id": "18093097",
+          "username": "unhealthytruth",
+          "name": "Erin Elizabeth Health Nut News🥜"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "1840404530057412664",
+        "in_reply_to": {
+          "tweet_id": "1840404530057412664",
+          "user_id": "250833376",
+          "url": "https://x.com/i/status/1840404530057412664"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 1,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 2,
+          "views": 8812
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJgA48OXoAQDE20.png",
+          "preview_url": null
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJgBc6oXUAACeSz.png",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 59,
+        "retweets": 14,
+        "replies": 3,
+        "quotes": 0,
+        "views": 7026
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060400481357205931",
+      "url": "https://x.com/DrJackKruse/status/2060400481357205931",
+      "created_at": "2026-05-29T16:38:49.000Z",
+      "text": "He forgot the most important part.........because it suits his bias. https://t.co/9QTd25z6aH https://t.co/LPrTbjOvmW",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060400481357205931",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060388922325356944",
+        "url": "https://x.com/robbwolf/status/2060388922325356944",
+        "created_at": "2026-05-29T15:52:53.000Z",
+        "text": "https://t.co/eDcRj3sF7D",
+        "lang": "zxx",
+        "author": {
+          "id": "21341094",
+          "username": "robbwolf",
+          "name": "Robb Wolf"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060388922325356944",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 25,
+          "retweets": 2,
+          "replies": 7,
+          "quotes": 3,
+          "views": 29035
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJgDRg6XYAgrq-w.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 136,
+        "retweets": 22,
+        "replies": 17,
+        "quotes": 1,
+        "views": 22630
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060400033791459814",
+      "url": "https://x.com/DrJackKruse/status/2060400033791459814",
+      "created_at": "2026-05-29T16:37:03.000Z",
+      "text": "RT @RolandoCastroSv: El Salvador está a punto de escribir una nueva página en su historia.\n\nSalir de la Lista Corta de la OIT. Significaría…",
+      "lang": "es",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": false,
+      "is_retweet": true,
+      "conversation_id": "2060400033791459814",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "id": "2060319825658798306",
+        "url": "https://x.com/RolandoCastroSv/status/2060319825658798306",
+        "created_at": "2026-05-29T11:18:19.000Z",
+        "text": "El Salvador está a punto de escribir una nueva página en su historia.\n\nSalir de la Lista Corta de la OIT. Significaría recuperar confianza, abrir puertas a la inversión y demostrarle al mundo que nuestro país tiene la capacidad de avanzar con esfuerzo y dignidad.\n\nSalir de la Lista, no solo sería un logro  del gobierno, sería un triunfo del pueblo salvadoreño, de quienes cada día trabajan, luchan y sueñan con un mejor futuro para sus familias, para quienes creen e invierten y generan empleos en nuestra nación.\n\nPodemos pensar distinto, pero hay algo que debe unirnos siempre: es el orgullo de ser salvadoreño y el deseo de ver a nuestra nación crecer.\n\nCuando El Salvador avanza, avanzamos todos.\n\nEste 1 de junio será trascendental.",
+        "lang": "es",
+        "author": {
+          "id": "859434887190851589",
+          "username": "RolandoCastroSv",
+          "name": "Rolando Castro"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060319825658798306",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 354,
+          "retweets": 164,
+          "replies": 41,
+          "quotes": 23,
+          "views": 105560
+        },
+        "thread_context": []
+      },
+      "media": [],
+      "metrics": {
+        "likes": 0,
+        "retweets": 164,
+        "replies": 0,
+        "quotes": 0,
+        "views": 0
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060397217219776528",
+      "url": "https://x.com/DrJackKruse/status/2060397217219776528",
+      "created_at": "2026-05-29T16:25:51.000Z",
+      "text": "yep https://t.co/5OqKbcPvlm",
+      "lang": "qst",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060397217219776528",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060378751561523487",
+        "url": "https://x.com/EyeCree8/status/2060378751561523487",
+        "created_at": "2026-05-29T15:12:29.000Z",
+        "text": "@DrJackKruse Is there any connection between what you talk about and what is commonly accepted as aging conditions such as posterior vitreous detachment (PVD)?",
+        "lang": "en",
+        "author": {
+          "id": "50572808",
+          "username": "EyeCree8",
+          "name": "Sara Nispel"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060378751561523487",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 2,
+          "views": 4470
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 22,
+        "retweets": 4,
+        "replies": 1,
+        "quotes": 0,
+        "views": 4250
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060397098231623860",
+      "url": "https://x.com/DrJackKruse/status/2060397098231623860",
+      "created_at": "2026-05-29T16:25:23.000Z",
+      "text": "I even pulled out a real human skull during the pod! https://t.co/2GhA9ATPbN",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060397098231623860",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060394784053686580",
+        "url": "https://x.com/movementandreas/status/2060394784053686580",
+        "created_at": "2026-05-29T16:16:11.000Z",
+        "text": "👉 Just finished a fantastic conversation with Uncle @DrJackKruse 🧠\n\nWe discussed all thing Melanin, Deuterium, Magnetism &amp; the connection between all 3!🧲💦☀️\n\n🌀 How the body is literally a Deuterium Depleting Machine 🤯\n\nStay Tuned for the release ⤵️⚡️\nhttps://t.co/CnqHHzLLlJ https://t.co/ooViDd5ZeR",
+        "lang": "en",
+        "author": {
+          "id": "2646699380",
+          "username": "movementandreas",
+          "name": "Circadian & Quantum Biology + Fitness | Andreas"
+        },
+        "is_reply": false,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060394784053686580",
+        "in_reply_to": null,
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 102,
+          "retweets": 11,
+          "replies": 0,
+          "quotes": 2,
+          "views": 21093
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 230,
+        "retweets": 34,
+        "replies": 8,
+        "quotes": 1,
+        "views": 17978
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060396894015074731",
+      "url": "https://x.com/DrJackKruse/status/2060396894015074731",
+      "created_at": "2026-05-29T16:24:34.000Z",
+      "text": "2.  Centralized dentistry and macro-nutrient influencers look at this severe structural breakdown and enter a flat, circular argument about generic chemical pH levels, citric acid ratios, or basic enamel demineralization. They claim a zero-sugar electrolyte mix like LMNT is biochemically identical to any other acidic drink, completely blind to the hard laws of solid-state physics, spin chemistry, and Landauer’s Principle: Oral electrolyte powders are dry, high-density, fractionated solute grids that act as massive isotopic sponges, dehydrating the oral mucosa and locking heavy Deuterium directly into the embryonic ectodermal architecture of the enamel.\nTeeth are not dead calcium sticks; they are highly specialized, solid-state crystalline light-pipes and mineral-dielectric capacitors derived directly from the embryonic ectoderm, the identical cellular lineage that wraps and forms the brain, the neural crest, and the retina.\nPure, dense enamel is an ordered crystal matrix composed of over 96% hydroxyapatite (Ca10(PO4)6(OH)2) Under a healthy baseline, this configuration establishes a sharp, high-density Refractive Index (enamel≈1.63) that enables the tooth to act as an optical waveguide, utilizing Total Internal Reflection to capture solar current and channel it downward to feed the vascular pulp.\n\nWhen a person floods their oral cavity with high-dose, dry, or minimally diluted salt concentrates like LMNT, they disrupt this quantum boundary layer:\n\nThe EZ Water Stripping: The hyper-concentrated mineral ions aggressively draw light protium (1H) protons out of the local saliva, forcing a localized dielectric collapse (≈160→78). The protective, structured Exclusion Zone (EZ) water layer melts.\n\nThe High-Mass Substitution: Without the sorting layer of EZ water, the heavy Deuterium (D+) mass native to un-grounded, industrial municipal water tables floods the oral cavity and replaces the light protium within the hydroxyapatite’s structural hydroxyl (-OH) channels .\n\nThe Optical Refraction Failure: Because Deuterium possesses twice the atomic mass of protium, its inclusion into the crystal bridges alters the localized electron-cloud density and permittivity (ε).\n\nAs documented in the \"After\" photo, the Refractive Index collapses. Light can no longer find a clean total internal reflection path; it scatters and leaks laterally through the enamel layer, making the outer crystalline shell appear translucent, gray, and glass-like, which physically exposes the darker, yellower mesodermal dentin core beneath.\n\nThe Shared Chassis of Ectodermal Atrophy: The O-D KIE Core\n\nThe reason this structural breakdown happens so rapidly in modern populations is that the oral water table was already deuterated pre-ingestiondue to chronic Light Stress(living under the artificial blue flicker of modern LEDs and high-nnEMF fields while Earth’s dipole field undergoes its accelerating decline).\n\nThe inclusion of double-mass Deuterium into the hydroxyl channels creates a powerful Oxygen-Deuterium (O-D) bond that completely disrupts the cell's quantum spin-gating mechanics equation below:\n\nBecause Deuterium doubles the reduced mass (), the O-D bond is exponentially stiffer (10X stronger) and harder to cleave, blocking the spin-forbidden inversion of magnetic ground triplet state oxygen. This is why it will take a long time. \n\nThe CISS Filter Demolition: This uncoordinated spin inversion destroys the Chiral Induced Spin Selectivity (CISS) filter by 72.25%, transforming the ectodermal liquid-crystalline superconductors into high-resistance resistors. Electrons moving along the metabolic lines scatter into random thermal noise.\n\nThe MITF Safe-Mode Lock: Under the Telomere/rDNA Co-Regulation Model (TRCS), this sudden voltage crash threatens the cell nucleus with complete Landauer informational erasure (=ln2)\n\nTo protect its core genetic data blocks, the Chromosome 2 interstitial telomeric loop (2q13–14) blows its structural fuse. \n\nThe resulting asymptotic p53 master switch surge immediately forces an emergency atavistic retreat, down-regulating the MITF-AMPAR pathways. The cell intentionally shuts down high-voltage enamel mineralization, choosing structural atrophy over genomic destruction, exactly like an orbital satellite entering software \"safe-mode\" shutdown when flying through the radiation teeth of the South Atlantic Anomaly (SAA).\n\nBiochemists do not know this stuff.",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": true,
+      "is_quote": false,
+      "is_retweet": false,
+      "conversation_id": "2060347094464970924",
+      "in_reply_to": {
+        "tweet_id": "2060347094464970924",
+        "user_id": "250833376",
+        "url": "https://x.com/i/status/2060347094464970924"
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJf__zgXkAEzLbj.png",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 31,
+        "retweets": 5,
+        "replies": 1,
+        "quotes": 0,
+        "views": 2189
+      },
+      "thread_context": [
+        {
+          "id": "2060347094464970924",
+          "url": "https://x.com/DrJackKruse/status/2060347094464970924",
+          "created_at": "2026-05-29T13:06:41.000Z",
+          "text": "This difference in a neuroectodermal derivative (enamel) is due to D+ content.  Atomic spectroscopy lays it out.  Likely exacerbated by blue light gym use https://t.co/Wcn0J5I9Jj https://t.co/p71nY59XB4",
+          "lang": "en",
+          "author": {
+            "id": "250833376",
+            "username": "DrJackKruse",
+            "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+          },
+          "is_reply": false,
+          "is_quote": true,
+          "is_retweet": false,
+          "conversation_id": "2060347094464970924",
+          "in_reply_to": null,
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJfSWk4WQAAIwQo.jpg",
+              "preview_url": null
+            }
+          ],
+          "metrics": {
+            "likes": 90,
+            "retweets": 14,
+            "replies": 6,
+            "quotes": 0,
+            "views": 15093
+          }
+        }
+      ]
+    },
+    {
+      "id": "2060348820555276406",
+      "url": "https://x.com/DrJackKruse/status/2060348820555276406",
+      "created_at": "2026-05-29T13:13:32.000Z",
+      "text": "I do it to stratify the audience into autodidacts and lazy fucks and you clearly are latter. https://t.co/HUiqFxUdIK",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060348820555276406",
+      "in_reply_to": null,
+      "quoted_tweet": {
+        "id": "2060318929952665725",
+        "url": "https://x.com/splucas22/status/2060318929952665725",
+        "created_at": "2026-05-29T11:14:46.000Z",
+        "text": "@GraziaD1202 @DrJackKruse I'm really not sure why he chooses to try and \"explain\" things this way...it's like he purposely tries to not be understood by the layman.",
+        "lang": "en",
+        "author": {
+          "id": "928623767613566979",
+          "username": "splucas22",
+          "name": "MSM is mind control"
+        },
+        "is_reply": true,
+        "is_quote": false,
+        "is_retweet": false,
+        "conversation_id": "2060033799828979958",
+        "in_reply_to": {
+          "tweet_id": "2060046352034218403",
+          "user_id": "987139788",
+          "url": "https://x.com/i/status/2060046352034218403"
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "media": [],
+        "metrics": {
+          "likes": 2,
+          "retweets": 0,
+          "replies": 2,
+          "quotes": 2,
+          "views": 5517
+        },
+        "thread_context": []
+      },
+      "retweeted_tweet": null,
+      "media": [],
+      "metrics": {
+        "likes": 59,
+        "retweets": 7,
+        "replies": 8,
+        "quotes": 0,
+        "views": 5224
+      },
+      "thread_context": []
+    },
+    {
+      "id": "2060347094464970924",
+      "url": "https://x.com/DrJackKruse/status/2060347094464970924",
+      "created_at": "2026-05-29T13:06:41.000Z",
+      "text": "This difference in a neuroectodermal derivative (enamel) is due to D+ content.  Atomic spectroscopy lays it out.  Likely exacerbated by blue light gym use https://t.co/Wcn0J5I9Jj https://t.co/p71nY59XB4",
+      "lang": "en",
+      "author": {
+        "id": "250833376",
+        "username": "DrJackKruse",
+        "name": "☣️ Pleb Kruse = BTC foundationalist in exile 🟩🔆"
+      },
+      "is_reply": false,
+      "is_quote": true,
+      "is_retweet": false,
+      "conversation_id": "2060347094464970924",
+      "in_reply_to": null,
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HJfSWk4WQAAIwQo.jpg",
+          "preview_url": null
+        }
+      ],
+      "metrics": {
+        "likes": 90,
+        "retweets": 14,
+        "replies": 6,
+        "quotes": 0,
+        "views": 15093
+      },
+      "thread_context": []
+    }
+  ]
+}
