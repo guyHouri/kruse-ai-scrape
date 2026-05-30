@@ -19,7 +19,7 @@ import { fileURLToPath } from 'node:url';
 import { initLogger, info, warn, error } from './code/logger.js';
 import { buildReportHtml } from './code/build-report.js';
 import { sendReportEmail } from './code/email.js';
-import { alreadySent, markSent } from './code/state.js';
+import { alreadySent, markSent, shouldMarkSentAfterEmail } from './code/state.js';
 import { summarizeDay } from './code/summarize.js';
 import { SETTINGS } from './settings.js';
 
@@ -115,7 +115,11 @@ async function main() {
     html,
     dateDisplay,
   });
-  markSent(reportDate);
+  if (shouldMarkSentAfterEmail()) {
+    markSent(reportDate);
+  } else {
+    warn('test send active: not updating last-sent state.');
+  }
   info('done.');
 }
 

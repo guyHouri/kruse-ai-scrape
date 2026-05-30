@@ -10,7 +10,7 @@ on:
     - cron: '0,10,20,30,40,50 1 * * *'
     - cron: '0,10,20 2 * * *'
   repository_dispatch:
-    types: [daily-kruse-summary]
+    types: [daily-kruse-summary, daily-kruse-summary-test]
   workflow_dispatch:
     inputs:
       mode:
@@ -25,6 +25,10 @@ on:
           - send-existing
       date:
         description: 'Report date (YYYY-MM-DD). Empty -> current report-timezone day.'
+        required: false
+        default: ''
+      test_recipients:
+        description: 'Optional comma/space separated test-recipient gate. When set, email sends only to these addresses.'
         required: false
         default: ''
 
@@ -67,6 +71,37 @@ jobs:
           echo "date=$TARGET" >> $GITHUB_OUTPUT
           echo "Target date: $TARGET ($REPORT_TIME_ZONE)"
 
+      - name: Pick run mode
+        id: run_mode
+        env:
+          INPUT_MODE: ${{ github.event.inputs.mode || github.event.client_payload.mode }}
+          TEST_RECIPIENTS: ${{ github.event.inputs.test_recipients || github.event.client_payload.test_recipients || github.event.client_payload.test_recipient }}
+          EVENT_ACTION: ${{ github.event.action }}
+        run: |
+          set -euo pipefail
+          MODE="$INPUT_MODE"
+          if [ -z "$MODE" ]; then
+            if [ "$EVENT_ACTION" = "daily-kruse-summary-test" ]; then
+              MODE="send-existing"
+            else
+              MODE="normal"
+            fi
+          fi
+          if [ "$EVENT_ACTION" = "daily-kruse-summary-test" ] && [ -z "$TEST_RECIPIENTS" ]; then
+            echo "::error::daily-kruse-summary-test requires test_recipients or test_recipient in the dispatch payload."
+            exit 1
+          fi
+          echo "mode=$MODE" >> "$GITHUB_OUTPUT"
+          {
+            echo "test_recipients<<EOF"
+            echo "$TEST_RECIPIENTS"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+          echo "Run mode: $MODE"
+          if [ -n "$TEST_RECIPIENTS" ]; then
+            echo "Test-recipient gate requested."
+          fi
+
       - name: Wait until 04:00 Israel time
         if: github.event_name == 'schedule'
         env:
@@ -93,7 +128,7 @@ jobs:
       - name: Skip if this report was already sent
         id: sent_guard
         env:
-          MODE: ${{ github.event.inputs.mode || github.event.client_payload.mode || 'normal' }}
+          MODE: ${{ steps.run_mode.outputs.mode }}
           TARGET: ${{ steps.target.outputs.date }}
         run: |
           set -euo pipefail
@@ -143,8 +178,7 @@ jobs:
         run: |
           set -euo pipefail
           TARGET="${{ steps.target.outputs.date }}"
-          MODE="${{ github.event.inputs.mode || github.event.client_payload.mode }}"
-          if [ -z "$MODE" ]; then MODE="normal"; fi
+          MODE="${{ steps.run_mode.outputs.mode }}"
           if [ "$MODE" = "send-existing" ]; then
             echo "send-existing mode: reusing committed report data; skipping X scrape."
             exit 0
@@ -168,8 +202,7 @@ jobs:
         run: |
           set -euo pipefail
           TARGET="${{ steps.target.outputs.date }}"
-          MODE="${{ github.event.inputs.mode || github.event.client_payload.mode }}"
-          if [ -z "$MODE" ]; then MODE="normal"; fi
+          MODE="${{ steps.run_mode.outputs.mode }}"
           if [ "$MODE" = "send-existing" ]; then
             echo "send-existing mode: reusing committed forum data; skipping forum scrape."
             exit 0
@@ -201,6 +234,7 @@ jobs:
           KRUSE_SITE_PUBLIC_BASE_URL: https://guyhouri.github.io/kruse-ai-scrape
           REPORT_TIME_ZONE: ${{ vars.REPORT_TIME_ZONE || 'Asia/Jerusalem' }}
           INCLUDE_FORUM: 'true'
+          KRUSE_EMAIL_TEST_RECIPIENTS: ${{ steps.run_mode.outputs.test_recipients }}
         run: |
           set -euo pipefail
           if [ -z "${SUPABASE_SERVICE_ROLE_KEY:-}" ]; then
@@ -213,8 +247,7 @@ jobs:
           echo "::group::Fetch mailing list from Supabase"
           npm run sync-mailing-list
           echo "::endgroup::"
-          MODE="${{ github.event.inputs.mode || github.event.client_payload.mode }}"
-          if [ -z "$MODE" ]; then MODE="normal"; fi
+          MODE="${{ steps.run_mode.outputs.mode }}"
           DATE="${{ steps.target.outputs.date }}"
           DATE_FLAG=""
           if [ -n "$DATE" ]; then DATE_FLAG="--date=$DATE"; fi

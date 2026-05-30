@@ -280,17 +280,18 @@ pushes to `main`, manual dispatch, and the daily workflow's
 `deploy-report-site` repository dispatch. It runs `twitter_to_md` and
 `kruse-summary` tests first, then deploys the public website from `docs/`.
 
-The daily workflow can also be triggered by an external Supabase watchdog using
-GitHub `repository_dispatch` with event type `daily-kruse-summary`. The repo
-side is already wired; Supabase still needs a server-side GitHub dispatch token
-and a scheduled Cron or Edge Function. See [`../DAILY_PIPELINE.md`](../DAILY_PIPELINE.md).
+The daily workflow can also be triggered by Supabase using GitHub
+`repository_dispatch`. Production watchdog dispatches use event type
+`daily-kruse-summary`; test mail dispatches use event type
+`daily-kruse-summary-test`. See [`../DAILY_PIPELINE.md`](../DAILY_PIPELINE.md).
 
 ### Failure And Explanation Policy
 
 The daily workflow stops before paid AI calls, email, or deploy when tests fail.
 It also stops when source scraping, Supabase sync, Anthropic generation, or
-validation fails. `last-sent.json` is updated only after a successful email, so
-failed sends remain retryable.
+validation fails. `last-sent.json` is updated only after a successful production
+email, so failed sends remain retryable and test-recipient sends cannot mark a
+day as sent.
 
 The explainer pass should not re-teach known Kruse basics such as blue light,
 nnEMF, deuterium, sunrise, cold, DHA, grounding, magnetism, redox, leptin,
@@ -303,8 +304,9 @@ water table collapse or lattice lock.
 ### Email Audience
 
 The daily GitHub workflow sends to the synced mailing list by default. For a
-temporary test-only run, set `KRUSE_EMAIL_TEST_RECIPIENTS` in the workflow env
-or shell; `code/email.js` will filter delivery to those addresses.
+temporary test-only run, pass `test_recipients` to the workflow or set
+`KRUSE_EMAIL_TEST_RECIPIENTS` in the workflow env or shell; `code/email.js` will
+filter delivery to those addresses.
 
 Use `mode=send-existing` when an already-approved report should be sent without
 scraping again or calling Anthropic again.
@@ -314,6 +316,7 @@ Manual GitHub run:
 ```bash
 gh workflow run "Daily Kruse Summary" --ref main -f mode=force -f date=2026-05-26
 gh workflow run "Daily Kruse Summary" --ref main -f mode=send-existing -f date=2026-05-26
+gh workflow run "Daily Kruse Summary" --ref main -f mode=send-existing -f date=2026-05-26 -f test_recipients=guy.houri2024@gmail.com
 ```
 
 If `gh` says it is not authenticated but normal `git push` works, Git
@@ -334,6 +337,16 @@ gh api repos/guyHouri/kruse-ai-scrape/dispatches `
   -f event_type=daily-kruse-summary `
   -F client_payload[mode]=force `
   -F client_payload[date]=2026-05-26
+```
+
+Test-mail dispatch through the real workflow:
+
+```powershell
+gh api repos/guyHouri/kruse-ai-scrape/dispatches `
+  -f event_type=daily-kruse-summary-test `
+  -F client_payload[mode]=send-existing `
+  -F client_payload[date]=2026-05-26 `
+  -F client_payload[test_recipients]=guy.houri2024@gmail.com
 ```
 
 If that still fails, use GitHub Actions in the browser: open the workflow, click

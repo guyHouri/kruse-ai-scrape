@@ -15,6 +15,8 @@ The active automation is `.github/workflows/daily-kruse-summary.yml`.
   and the local send time.
 - Accepts manual `workflow_dispatch`.
 - Accepts external `repository_dispatch` with event type `daily-kruse-summary`.
+- Accepts external test `repository_dispatch` with event type
+  `daily-kruse-summary-test`.
 - Sends email to the synced mailing list. A temporary test gate can still be
   enabled with `KRUSE_EMAIL_TEST_RECIPIENTS`, but it is not active by default.
 - Commits generated daily data, report HTML, mailing-list sync, and website
@@ -24,6 +26,12 @@ The active automation is `.github/workflows/daily-kruse-summary.yml`.
 Manual `send-existing` mode reuses the already-committed curated report for a
 date and sends it without scraping again or calling Anthropic again. Use it when
 an approved test report should now go to the full mailing list.
+
+Test dispatches use the same workflow and email code, but pass
+`KRUSE_EMAIL_TEST_RECIPIENTS` from the dispatch payload. When the test gate is
+active, the workflow sends only to those addresses and `kruse-summary/main.js`
+does not update `last-sent.json`. A test mail can therefore prove the real
+pipeline without marking the production day as sent.
 
 ## Date And Time Rules
 
@@ -118,8 +126,9 @@ The CI/CD workflow repeats the same tests before deploying the public website.
 
 Tests cover the X daily JSON behavior, summary validation repairs, report
 rendering behavior, source-link/concept-link behavior, site build behavior,
-email recipient filtering, Supabase form behavior, and unsubscribe logic. The
-practical rule is simple: if tests fail, the workflow must not send or deploy.
+email recipient filtering, test-send state safety, Supabase form behavior, and
+unsubscribe logic. The practical rule is simple: if tests fail, the workflow
+must not send or deploy.
 
 ## Failure Behavior
 
@@ -136,6 +145,7 @@ Failure should be boring and visible.
 | Validator rejects output | Stop before email | Prevents hallucinated, uncited, or unclear cards |
 | Anthropic omits a selected card source reference | Repair from the selected item, then validate | Keeps strict provenance without failing on recoverable JSON omissions |
 | Gmail send fails | Do not update `last-sent.json` | A retry should still be allowed |
+| Test-recipient send succeeds | Do not update `last-sent.json` | Test mail should not mark the production day as sent |
 | Commit or deploy fails after send | Email may be sent, site may lag | Re-run CI/CD or daily workflow to repair the site |
 | GitHub schedule does not start | Supabase watchdog dispatches a backup run | GitHub scheduled workflows are best-effort and can be dropped before any job exists |
 
@@ -255,6 +265,58 @@ Current repo status: the GitHub workflow can receive the Supabase dispatch now,
 and the Supabase-side scheduled watchdog is installed. A forced test dispatch
 returned HTTP `204` from GitHub and produced a `repository_dispatch` run that
 skipped safely because `last-sent.json` already had today's date.
+
+## Supabase Test Dispatch
+
+The test path is server-side too. It does not depend on Codex or this computer.
+
+Current installed test trigger:
+
+- Supabase table: `kruse_internal.daily_test_dispatches`.
+- Supabase function: `kruse_internal.dispatch_daily_kruse_test`.
+- GitHub event type: `daily-kruse-summary-test`.
+- Default mode: `send-existing`, so it reuses the committed report and does not
+  scrape X, scrape forum, or call Anthropic.
+- Default recipient: `guy.houri2024@gmail.com`.
+- Safety: the GitHub workflow passes the recipient into
+  `KRUSE_EMAIL_TEST_RECIPIENTS`, so `code/email.js` sends only to that address.
+  `main.js` sees the test gate and skips the `last-sent.json` update.
+
+Run a test mail from Supabase SQL:
+
+```sql
+select *
+from kruse_internal.dispatch_daily_kruse_test(
+  'guy.houri2024@gmail.com',
+  null
+);
+```
+
+Run a test mail for a specific already-generated report date:
+
+```sql
+select *
+from kruse_internal.dispatch_daily_kruse_test(
+  'guy.houri2024@gmail.com',
+  date '2026-05-30'
+);
+```
+
+Equivalent GitHub dispatch payload:
+
+```json
+{
+  "event_type": "daily-kruse-summary-test",
+  "client_payload": {
+    "mode": "send-existing",
+    "date": "2026-05-30",
+    "source": "supabase-test",
+    "test_recipients": "guy.houri2024@gmail.com"
+  }
+}
+```
+
+This is the recommended test before opening delivery to the full mailing list.
 
 ## Medical And Science Explanation Policy
 

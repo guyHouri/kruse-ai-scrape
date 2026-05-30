@@ -29,3 +29,11 @@ export function markSent(targetDate) {
     last_sent_at: new Date().toISOString(),
   });
 }
+
+export function shouldMarkSentAfterEmail({
+  testRecipientsValue = process.env.KRUSE_EMAIL_TEST_RECIPIENTS || '',
+  skipMarkValue = process.env.KRUSE_SKIP_LAST_SENT_MARK || '',
+} = {}) {
+  if (String(testRecipientsValue || '').trim()) return false;
+  return !['1', 'true', 'yes'].includes(String(skipMarkValue || '').trim().toLowerCase());
+}
