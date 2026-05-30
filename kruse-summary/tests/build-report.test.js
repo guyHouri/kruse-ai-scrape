@@ -106,3 +106,35 @@ test('forum cards render clickable source links and unique concept expanders', (
   assert.match(html, /data-card-id="card-1" data-concept-target="concept-1"[\s\S]*>shared term<\/span>/);
   assert.match(html, /id="concept-1" class="expanded-content" data-card-id="card-1"[\s\S]*Forum explanation\./);
 });
+
+test('renderer keeps known baseline concepts as plain text', () => {
+  const html = buildReportHtml('2026-05-30', {
+    headline_subtitle: 'One useful item.',
+    sections: [
+      {
+        title: 'Twitter Updates',
+        cards: [
+          {
+            tag: 'Gym lighting',
+            lead: 'Blue light context',
+            body: '{{concept:Blue light}} and {{concept:blue blockers}} stay plain, while {{concept:Atomic spectroscopy}} can open.',
+            source_ids: ['2060347094464970924'],
+            concepts: {
+              'Blue light': { level: 'noob', text: 'Known baseline term.' },
+              'blue blockers': { level: 'noob', text: 'Known baseline term.' },
+              'Atomic spectroscopy': { level: 'noob', text: 'A lab method that reads light absorption or emission.' },
+            },
+          },
+        ],
+      },
+      { title: 'Forum Updates', cards: [] },
+    ],
+    forum: { bullets: [] },
+  });
+
+  assert.match(html, /Blue light and blue blockers stay plain/);
+  assert.doesNotMatch(html, /<span class="expandable-concept"[^>]*>Blue light<\/span>/);
+  assert.doesNotMatch(html, /<span class="expandable-concept"[^>]*>blue blockers<\/span>/);
+  assert.match(html, /<span class="expandable-concept"[^>]*>Atomic spectroscopy<\/span>/);
+  assert.doesNotMatch(html, /Known baseline term\./);
+});

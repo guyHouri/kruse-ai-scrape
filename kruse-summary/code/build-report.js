@@ -117,6 +117,15 @@ function normalizeConceptKey(term) {
   return String(term || '').toLowerCase().replace(/[^a-z0-9+ ]/g, '').replace(/\s+/g, ' ').trim();
 }
 
+const PLAIN_CONCEPT_TERMS = new Set([
+  'blue light',
+  'blue blockers',
+]);
+
+function shouldRenderConceptPlain(term) {
+  return PLAIN_CONCEPT_TERMS.has(normalizeConceptKey(term));
+}
+
 function conceptInfoForTerm(concepts, term) {
   const direct = conceptInfo(concepts?.[term]);
   if (direct?.text) return direct;
@@ -149,6 +158,11 @@ function renderBodyWithConcepts(body, concepts, context, cardId) {
   while ((m = re.exec(safeBody))) {
     out += esc(safeBody.slice(last, m.index));
     const term = m[1].trim();
+    if (shouldRenderConceptPlain(term)) {
+      out += esc(term);
+      last = m.index + m[0].length;
+      continue;
+    }
     const id = context.nextConceptId();
     const info = conceptInfoForTerm(concepts, term);
     const level = info?.level || 'pro';

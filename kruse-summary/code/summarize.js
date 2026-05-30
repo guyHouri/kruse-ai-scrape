@@ -28,6 +28,7 @@ const REDUNDANT_CONCEPTS = new Set([
   'dha',
   'leptin rx',
   'sunrise',
+  'blue light',
   'blue blockers',
 ]);
 const BLOG_SERIES_NAMES = {
@@ -890,6 +891,34 @@ function validateNoQuestionFraming(summary) {
     }
   }
   if (errors.length) throw new Error(`question framing failed:\n- ${errors.join('\n- ')}`);
+}
+
+const TOPIC_HARD_TERM_RE = /\b(?:CISS|TRCS|KIE|DDW|CCO|rDNA|F0-F1|T-2|quantum|spin(?:-| )?(?:state|chemistry|coherence)?|singlet|triplet|deuteration|deuterated|piezoelectric|parabiosis|Kuramoto|phase-lock(?:ing)?|oscillator|centrifuge|refractive index|permittivity|dielectric|semiconductor|bandgap|lattice|Lagrangian|dark photon|anyons?|magnetospheric|core-mantle|neuroectodermal|bioenergetics|biophysics|geophysics|optical physics|hydroxyapatite|kinetic isotope|isotope effect|isotope tools|oxygen-state|oxygen spin)\b/gi;
+
+function topicHardTerms(text) {
+  return [...new Set(String(text || '').match(TOPIC_HARD_TERM_RE) || [])];
+}
+
+export function validatePlainTopicLanguage(summary) {
+  const errors = [];
+  for (const section of summary.sections || []) {
+    for (const card of section.cards || []) {
+      const tagTerms = topicHardTerms(card.tag);
+      const leadTerms = topicHardTerms(card.lead);
+      const label = card.lead || card.tag || `${section.title} card`;
+
+      if (tagTerms.length) {
+        errors.push(`card "${label}" tag "${card.tag}" starts with jargon: ${tagTerms.join(', ')}`);
+      }
+      if (leadTerms.length) {
+        errors.push(`card "${label}" lead starts with jargon: ${leadTerms.join(', ')}`);
+      }
+      if (/[;,/]/.test(String(card.tag || '')) && String(card.tag || '').split(/\s+/).length > 3) {
+        errors.push(`card "${label}" tag "${card.tag}" looks like a topic stack`);
+      }
+    }
+  }
+  if (errors.length) throw new Error(`plain topic language failed:\n- ${errors.join('\n- ')}`);
 }
 
 function validatePrivatePhraseExplanations(summary) {
@@ -1807,9 +1836,11 @@ export async function summarizeDay(date, { dryRun = false } = {}) {
   const gatedSelection = gateSelection(selection);
   writeJsonArtifact(date, 'selection-gated', gatedSelection);
   const writerSelection = selectionForWriting(gatedSelection);
-  const validateSummaryWithSourceRepair = (parsed) => validateSummary(
-    repairSummaryCardSources(parsed, writerSelection, { logRepairs: false }),
-  );
+  const validateSummaryWithSourceRepair = (parsed) => {
+    const sourceRepaired = repairSummaryCardSources(parsed, writerSelection, { logRepairs: false });
+    validateSummary(sourceRepaired);
+    validatePlainTopicLanguage(sourceRepaired);
+  };
 
   const writeUser = [
     'Original source JSON:',
@@ -1863,6 +1894,7 @@ export async function summarizeDay(date, { dryRun = false } = {}) {
   validateSummary(summary);
   validateReportVoice(summary);
   validateNoQuestionFraming(summary);
+  validatePlainTopicLanguage(summary);
   validateSummaryProvenance(summary, input, podcastQueue, gatedSelection);
   validateTranslationTermCoverage(summary, gatedSelection);
   validateConceptIntegrity(summary);
@@ -1879,6 +1911,7 @@ export async function summarizeDay(date, { dryRun = false } = {}) {
       'science_explanation_preserved_source_fields',
       'report_voice_no_ai_opinion_or_absence_language',
       'no_question_or_watchlist_framing',
+      'plain_topic_language',
       'source_id_membership',
       'forum_thread_membership',
       'source_quote_membership',

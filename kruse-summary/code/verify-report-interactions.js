@@ -66,6 +66,12 @@ async function applyLevel(page, level) {
 async function verifyStaticContract(page) {
   return page.evaluate(() => {
     const errors = [];
+    const plainConceptTerms = new Set(['blue light', 'blue blockers']);
+    const normalize = (term) => String(term || '')
+      .toLowerCase()
+      .replace(/[^a-z0-9+ ]/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
     const idCounts = new Map();
     document.querySelectorAll('[id]').forEach((node) => {
       const id = node.getAttribute('id');
@@ -81,6 +87,9 @@ async function verifyStaticContract(page) {
 
     chips.forEach((chip, index) => {
       const label = chip.textContent.trim() || `chip ${index + 1}`;
+      if (plainConceptTerms.has(normalize(label))) {
+        errors.push(`${label}: known baseline term should render as plain text, not a concept chip`);
+      }
       if (chip.hasAttribute('onclick')) errors.push(`${label}: inline onclick should not be used`);
       const target = chip.getAttribute('data-concept-target');
       if (!target) errors.push(`${label}: missing data-concept-target`);

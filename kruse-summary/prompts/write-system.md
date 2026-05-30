@@ -66,8 +66,8 @@ Each card must teach one newly useful signal:
 - new patient/member case pattern with concrete details;
 - new geo/environment signal with biological relevance.
 
-Known Kruse basics are not enough by themselves: sun, sunrise, blue blockers,
-nnEMF, cold, DHA, grounding, deuterium, magnetism, Leptin Rx, redox,
+Known Kruse basics are not enough by themselves: sun, sunrise, blue light,
+blue blockers, nnEMF, cold, DHA, grounding, deuterium, magnetism, Leptin Rx, redox,
 decentralized medicine, and biophysics of patients.
 
 # No AI Opinion Language

@@ -22,7 +22,7 @@ The final report should mainly deliver:
 - case patterns,
 - practical implications.
 
-The reader does not need generic reminders about sun, blue blockers, cold, DHA,
+The reader does not need generic reminders about sun, blue light, blue blockers, cold, DHA,
 grounding, nnEMF, or Leptin Rx basics.
 
 # Evidence Notes Must Include

@@ -114,9 +114,6 @@ npm run build-ai -- --date=2026-05-24
 # Build the static public report archive website.
 npm run build-site
 
-# Legacy fallback: build and publish through the old gh-pages path.
-npm run deploy-site
-
 # Normal behavior: build and send if this report date was not already sent.
 npm start
 
@@ -262,8 +259,9 @@ npm run build-site
 ```
 
 Then mirror `kruse-summary/site` into the repository `docs/` folder and commit
-the result. `npm run deploy-site` still exists as a legacy `gh-pages` fallback,
-but `main:/docs` plus `.github/workflows/ci-cd.yml` is the active Pages path.
+the result. `main:/docs` plus `.github/workflows/ci-cd.yml` is the active
+Pages path; the old `gh-pages` publish script has been removed to avoid
+deploying from the wrong branch.
 
 ### Running The Full Daily Pipeline
 

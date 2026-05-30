@@ -81,6 +81,7 @@ Do not explain ordinary words. Do not explain known Kruse baseline terms unless
 the card uses them in a new technical way:
 
 - sun and sunrise;
+- blue light;
 - blue blockers;
 - nnEMF;
 - cold;

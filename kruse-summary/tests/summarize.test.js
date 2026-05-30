@@ -15,6 +15,7 @@ import {
   repairSummarySourceQuotes,
   repairSelectionCoverage,
   validateReportVoice,
+  validatePlainTopicLanguage,
   shouldUseAnthropicStreaming,
 } from '../code/summarize.js';
 
@@ -314,6 +315,36 @@ test('repairReportVoice removes absence/opinion language before validation', () 
   assert.doesNotThrow(() => validateReportVoice(repaired));
   assert.equal(repaired.sections[0].cards[0].points.length, 1);
   assert.match(repaired.sections[0].cards[0].concepts['triplet oxygen'].text, /refers to/);
+});
+
+test('plain topic language gate rejects jargon-first card labels', () => {
+  assert.throws(() => validatePlainTopicLanguage({
+    sections: [
+      {
+        title: 'Forum Updates',
+        cards: [
+          {
+            tag: 'SSRI deuteration singlet trap',
+            lead: 'SSRI-induced suicidality involves deuteration, NAD+ depletion, and oxygen spin-state inversion',
+          },
+        ],
+      },
+    ],
+  }), /plain topic language failed/);
+
+  assert.doesNotThrow(() => validatePlainTopicLanguage({
+    sections: [
+      {
+        title: 'Forum Updates',
+        cards: [
+          {
+            tag: 'SSRI risk warning',
+            lead: 'A forum post links SSRI suicidality to a mitochondrial stress pattern',
+          },
+        ],
+      },
+    ],
+  }));
 });
 
 test('repairSelectionCoverage turns omitted sources into audit-only drops', () => {

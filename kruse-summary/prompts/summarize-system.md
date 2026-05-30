@@ -141,7 +141,7 @@ applications, clinical claims, or geophysical claims.
 
 Also skip evergreen Kruse basics unless today's input adds a genuinely new
 mechanism, quantitative protocol, cited paper, or clinical detail:
-blue blockers, nnEMF avoidance, sunrise viewing, eating within 30 minutes of
+blue light, blue blockers, nnEMF avoidance, sunrise viewing, eating within 30 minutes of
 waking/sunrise, cold thermogenesis, DHA, seafood, grounding, morning sun,
 "get outside", Leptin Rx basics, and generic sun/blue-light recommendations.
 Do not create cards like "Eating Within 30 Minutes of Sunrise Anchors Leptin

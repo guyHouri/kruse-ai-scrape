@@ -39,6 +39,7 @@ becomes a selected item with the same fields as a tweet, or it is unselected.
 The reader already knows these Kruse basics:
 
 - sun and sunrise;
+- blue light;
 - blue blockers;
 - nnEMF avoidance;
 - cold;
@@ -277,6 +278,7 @@ uses them in a new technical way:
 - DHA;
 - Leptin Rx;
 - sunrise;
+- blue light;
 - blue blockers.
 
 # Classification Coverage
