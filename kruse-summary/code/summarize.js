@@ -579,9 +579,17 @@ function selectedItemSourceValue(item) {
   return '';
 }
 
-function cardHasExpectedSource(card, sourceType) {
-  if (sourceType === 'tweet') return Array.isArray(card.source_ids) && card.source_ids.length;
-  if (sourceType === 'forum') return Array.isArray(card.source_urls) && card.source_urls.some(isForumUrl);
+function cardHasExpectedSource(card, sourceType, allowedValues = null) {
+  if (sourceType === 'tweet') {
+    const ids = Array.isArray(card.source_ids) ? card.source_ids.map(String) : [];
+    if (!ids.length) return false;
+    return !allowedValues || ids.some((id) => allowedValues.has(id));
+  }
+  if (sourceType === 'forum') {
+    const urls = Array.isArray(card.source_urls) ? card.source_urls.filter(isForumUrl).map(String) : [];
+    if (!urls.length) return false;
+    return !allowedValues || urls.some((url) => allowedValues.has(url));
+  }
   return true;
 }
 
@@ -638,6 +646,10 @@ export function repairSummaryCardSources(summary, selection, { logRepairs = true
     ['tweet', (selection?.selected_items || []).filter((item) => item.source_type === 'tweet')],
     ['forum', (selection?.selected_items || []).filter((item) => item.source_type === 'forum')],
   ]);
+  const allowedByType = new Map([
+    ['tweet', new Set((selectedByType.get('tweet') || []).map(selectedItemSourceValue).filter(Boolean))],
+    ['forum', new Set((selectedByType.get('forum') || []).map(selectedItemSourceValue).filter(Boolean))],
+  ]);
   const used = new Set();
 
   const repaired = {
@@ -653,7 +665,25 @@ export function repairSummaryCardSources(summary, selection, { logRepairs = true
     if (!sourceType) continue;
     for (let i = 0; i < (section.cards || []).length; i += 1) {
       let card = section.cards[i];
-      if (cardHasExpectedSource(card, sourceType)) {
+      const allowedValues = allowedByType.get(sourceType);
+      if (sourceType === 'tweet' && Array.isArray(card.source_ids)) {
+        const source_ids = card.source_ids.map(String).filter((id) => allowedValues.has(id));
+        if (source_ids.length !== card.source_ids.length) {
+          card = { ...card, source_ids };
+          section.cards[i] = card;
+          repairCount += 1;
+        }
+      }
+      if (sourceType === 'forum' && Array.isArray(card.source_urls)) {
+        const source_urls = card.source_urls.filter((url) => isForumUrl(url) && allowedValues.has(String(url)));
+        if (source_urls.length !== card.source_urls.length) {
+          card = { ...card, source_urls };
+          section.cards[i] = card;
+          repairCount += 1;
+        }
+      }
+
+      if (cardHasExpectedSource(card, sourceType, allowedValues)) {
         for (const value of sourceType === 'tweet' ? (card.source_ids || []) : (card.source_urls || [])) {
           used.add(`${sourceType}:${String(value)}`);
         }

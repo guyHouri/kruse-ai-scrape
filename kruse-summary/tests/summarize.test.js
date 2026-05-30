@@ -167,6 +167,45 @@ test('repairSummaryCardSources restores missing forum URLs from selected items',
   assert.deepEqual(repaired.sections[1].cards[0].source_urls, [forumUrl]);
 });
 
+test('repairSummaryCardSources replaces forum URLs not present in selected input', () => {
+  const validForumUrl = 'https://forum.jackkruse.com/threads/valid-thread.123/';
+  const invalidForumUrl = 'https://forum.jackkruse.com/threads/model-invented-thread.999/';
+  const summary = {
+    headline_subtitle: 'Daily source-bound update',
+    sections: [
+      { title: 'Twitter Updates', cards: [] },
+      {
+        title: 'Forum Updates',
+        cards: [
+          {
+            lead: 'NAD+ quantum oscillator note',
+            body: 'The card discusses NAD+ and oscillator synchronization.',
+            source_quote: 'NAD+ as oscillator synchronization',
+            source_urls: [invalidForumUrl],
+            points: [],
+          },
+        ],
+      },
+    ],
+  };
+  const selection = {
+    selected_items: [
+      {
+        source_type: 'forum',
+        source_id: validForumUrl,
+        source_url: validForumUrl,
+        title: 'NAD+ quantum oscillator note',
+        source_claim: 'NAD+ as oscillator synchronization',
+        support_quotes: ['NAD+ as oscillator synchronization'],
+      },
+    ],
+  };
+
+  const repaired = repairSummaryCardSources(summary, selection);
+
+  assert.deepEqual(repaired.sections[1].cards[0].source_urls, [validForumUrl]);
+});
+
 test('repairSummarySourceQuotes replaces hallucinated quotes with same-day source text', () => {
   const repaired = repairSummarySourceQuotes({
     sections: [
