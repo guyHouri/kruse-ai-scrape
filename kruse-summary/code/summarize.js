@@ -275,11 +275,17 @@ function omittedSelectionItem(input, key) {
 
 export function repairSelectionCoverage(input, selection) {
   const secondaryKey = Array.isArray(selection.unselected_items) ? 'unselected_items' : 'dropped_items';
+  const expected = inputSourceKeys(input);
   const seenKeys = new Set();
   let duplicateRepairCount = 0;
+  let extraRepairCount = 0;
   const keepUnique = (items = []) => items.filter((item) => {
     const key = selectionKey(item);
     if (!key || /^(tweet|forum):$/.test(key)) return true;
+    if (!expected.has(key)) {
+      extraRepairCount++;
+      return false;
+    }
     if (seenKeys.has(key)) {
       duplicateRepairCount++;
       return false;
@@ -295,8 +301,10 @@ export function repairSelectionCoverage(input, selection) {
   if (duplicateRepairCount) {
     info(`anthropic: removed ${duplicateRepairCount} duplicate source classification(s) from audit`);
   }
+  if (extraRepairCount) {
+    info(`anthropic: removed ${extraRepairCount} source classification(s) not present in input`);
+  }
 
-  const expected = inputSourceKeys(input);
   const seen = classificationKeys(repaired);
   const missing = [...expected].filter((key) => !seen.has(key));
   if (!missing.length) return repaired;

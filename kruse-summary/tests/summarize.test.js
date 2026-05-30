@@ -313,6 +313,24 @@ test('repairSelectionCoverage removes duplicate source classifications', () => {
   assert.equal(repaired.unselected_items.length, 0);
 });
 
+test('repairSelectionCoverage removes source classifications not present in input', () => {
+  const repaired = repairSelectionCoverage({
+    twitter: { tweets: [{ id: '12345', text: 'small note' }] },
+    forum: { posts: [] },
+  }, {
+    selected_items: [
+      { source_type: 'tweet', source_id: '12345', title: 'selected' },
+      { source_type: 'tweet', source_id: '1234599999', title: 'bogus model id' },
+    ],
+    unselected_items: [
+      { source_type: 'forum', source_id: 'https://forum.jackkruse.com/threads/missing.9999/' },
+    ],
+  });
+
+  assert.deepEqual(repaired.selected_items.map((item) => item.source_id), ['12345']);
+  assert.equal(repaired.unselected_items.length, 0);
+});
+
 
 test('repairRequiredTranslationConcepts explains slash-normalized science terms', () => {
   const summary = {

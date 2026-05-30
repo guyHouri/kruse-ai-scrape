@@ -137,11 +137,31 @@ Failure should be boring and visible.
 | Anthropic omits a selected card source reference | Repair from the selected item, then validate | Keeps strict provenance without failing on recoverable JSON omissions |
 | Gmail send fails | Do not update `last-sent.json` | A retry should still be allowed |
 | Commit or deploy fails after send | Email may be sent, site may lag | Re-run CI/CD or daily workflow to repair the site |
-| GitHub schedule does not start | Nothing runs | Supabase watchdog should dispatch a backup run |
+| GitHub schedule does not start | Codex watchdog dispatches a backup run | GitHub scheduled workflows are best-effort and can be dropped before any job exists |
 
 `last-sent.json` is the duplicate-send guard. It is updated only after a
 successful send, so a failed email attempt can be retried. Manual `force` mode
 can bypass normal safety gates and must be used carefully.
+
+## External Watchdog Dispatch
+
+GitHub scheduled workflows are not a strict cron service. The Daily Kruse
+Summary workflow stays scheduled on GitHub, but it must not be the only clock.
+
+Current installed fallback:
+
+- Codex app automation id: `kruse-daily-watchdog`
+- Schedule: daily at `04:30 Asia/Jerusalem`
+- Behavior: check `origin/main:kruse-summary/last-sent.json` and recent Daily
+  Kruse Summary runs. If today's report is already sent or running, do nothing.
+  If no run exists and today's date was not sent, dispatch
+  `Daily Kruse Summary` with `mode=normal` and `date=<today>`.
+- Duplicate safety: the GitHub workflow still has `concurrency` and
+  `last-sent.json`, so a backup dispatch should not double-send.
+
+This is the immediate operational safety net. Supabase remains the preferred
+long-term production watchdog because it can store run state in a database and
+does not depend on the Codex desktop app being available.
 
 ## Supabase Watchdog Dispatch
 
@@ -225,10 +245,9 @@ concurrency and `last-sent.json`, but the run-status table makes failures
 obvious from Supabase.
 
 Current repo status: the GitHub workflow can receive the Supabase dispatch now.
-The Supabase-side scheduled job still needs to be installed with a server-side
-GitHub dispatch token. This machine currently has no Supabase CLI, no `psql`,
-no Supabase access token, and no database URL configured, so the watchdog cannot
-be installed from here without adding one of those deployment paths.
+The Codex app watchdog is installed as the immediate fallback. The Supabase-side
+scheduled job still needs to be installed with a server-side GitHub dispatch
+token before Supabase becomes the primary external watchdog.
 
 ## Medical And Science Explanation Policy
 
