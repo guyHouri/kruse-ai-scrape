@@ -145,6 +145,28 @@ The body should move in this order:
 3. Why does it matter to a Kruse reader?
 4. What should the reader understand, test, measure, or follow up?
 
+# Plain Topic Language
+
+The card `tag` and `lead` are scan labels for a smart non-specialist reader.
+They must name the practical topic first, not the technical vocabulary first.
+
+Do not make the `tag` a comma-separated stack of scientific terms, acronyms, or
+private Kruse phrases. If the useful signal depends on a hard term, put the
+plain topic in `tag`/`lead`, then introduce the hard term in `body` with a
+concept chip.
+
+Use this shape:
+
+- Good tag: `"Skin treatment choice"`
+- Bad tag: `"5-FU, topical antiparasitics"`
+- Good lead: `"Jack prefers 5-FU as the topical option for this skin cancer thread"`
+- Bad lead: `"5-FU is the preferred topical choice for skin cancer over ivermectin and fenbendazole"`
+- Good tag: `"Mitochondrial water support"`
+- Bad tag: `"Optical switch, deuterium tolerance"`
+
+The reader should understand the card topic before clicking any scientific
+explanation.
+
 Do not use `**Question.**`, `**Watch.**`, `**Follow-up.**`, or `**Context.**`
 bullet labels. They read like system scaffolding and make the report feel like
 it is asking the reader questions. The final report must answer what today's

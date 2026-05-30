@@ -51,7 +51,11 @@ jobs:
 
       - name: Test
         working-directory: ${{ matrix.module }}
-        run: npm test
+        run: |
+          if [ "${{ matrix.module }}" = "kruse-summary" ]; then
+            npx playwright install --with-deps chromium
+          fi
+          npm test
 
   deploy-report-site:
     needs: tests
@@ -69,6 +73,16 @@ jobs:
           git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
           git fetch --depth=1 origin "${GITHUB_REF}"
           git checkout --force FETCH_HEAD
+
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+
+      - name: Verify report interactions
+        working-directory: kruse-summary
+        run: |
+          npm install
+          npx playwright install --with-deps chromium
+          npm run verify-report -- --all --dir=../docs/reports
 
       - name: Upload report site
         uses: actions/upload-pages-artifact@v3

@@ -1,78 +1,252 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Kruse Report 21/05/2026</title>
-    <style>
-      body { background-color: #0b0f19; color: #f3f4f6; padding: 40px 20px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 0; }
-      .container { max-width: 650px; margin: 0 auto; display: flex; flex-direction: column; gap: 20px; }
-      header { text-align: center; margin-bottom: 10px; }
-      h1 { font-size: 2.3rem; font-weight: 700; letter-spacing: -0.5px; background: linear-gradient(45deg, #3b82f6, #9333ea); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; margin: 0 0 4px 0; }
-      .subtitle { font-size: 1rem; color: #9ca3af; font-weight: 300; }
-      .section-title { font-size: 1.3rem; font-weight: 700; color: #60a5fa; border-bottom: 1px solid #24314b; padding-bottom: 6px; margin-top: 10px; }
-      .card { background-color: #151c2c; border: 1px solid #202b42; border-radius: 12px; padding: 16px 20px; display: flex; flex-direction: column; gap: 10px; }
-      .card-header { display: flex; justify-content: space-between; align-items: center; }
-      .tag { background-color: #1e293b; color: #3b82f6; padding: 2px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; }
-      .source-link { font-size: 0.8rem; color: #9ca3af; text-decoration: none; border-bottom: 1px dashed #9ca3af; }
-      .item-text { font-size: 1rem; line-height: 1.45; color: #e5e7eb; white-space: pre-wrap; }
-      .quoted { background: #0f1524; border-left: 3px solid #3b82f6; border-radius: 6px; padding: 10px 12px; font-size: 0.9rem; color: #cbd5e1; display: flex; flex-direction: column; gap: 4px; }
-      .quoted-author { font-weight: 600; color: #60a5fa; }
-      .thread { font-size: 0.85rem; color: #cbd5e1; }
-      .thread summary { cursor: pointer; color: #60a5fa; }
-      .thread-list { padding-left: 16px; margin-top: 6px; display: flex; flex-direction: column; gap: 6px; }
-      .reply-author { font-weight: 600; color: #60a5fa; }
-      .empty { background: #151c2c; border: 1px dashed #2d3748; border-radius: 12px; padding: 24px; text-align: center; color: #9ca3af; }
-      footer { text-align: center; color: #6b7280; font-size: 0.75rem; margin-top: 30px; }
-      footer a { color: #6b7280; }
-    </style>
-  </head>
-  <body>
-    <div class="container">
-      <header>
-        <h1>Kruse Daily 21/05/2026</h1>
-        <div class="subtitle">Cutting-edge biophysical vectors. No entry-level fluff.</div>
-      </header>
-
-      <div class="section-title">Field Updates (2 from @DrJackKruse)</div>
-      
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kruse Report 21/05/2026</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    /* Dark theme (default) */
+    :root {
+      --bg-color: #0b0f19;
+      --card-bg: #151c2c;
+      --card-border: #202b42;
+      --card-border-hover: #2e3e5f;
+      --section-rule: #24314b;
+      --text-color: #f3f4f6;
+      --text-soft: #cbd5e1;
+      --text-body: #e5e7eb;
+      --text-muted: #9ca3af;
+      --accent-color: #3b82f6;
+      --accent-hover: #60a5fa;
+      --locked-color: #4b5563;
+      --tag-bg: #1e293b;
+      --quote-bg: #0f1524;
+      --quote-rule: #4b5563;
+      --expanded-bg: #0f1524;
+      --locked-grad-start: #151c2c;
+      --locked-grad-end: #111622;
+      --locked-dash: #2d3748;
+      --locked-badge-bg: #27272a;
+      --locked-badge-fg: #a1a1aa;
+      --footer-color: #6b7280;
+      --toggle-bg: rgba(255,255,255,0.06);
+      --toggle-border: rgba(255,255,255,0.12);
+    }
+    /* Light theme — toggled by class on <body> */
+    body.light {
+      --bg-color: #f9fafb;
+      --card-bg: #ffffff;
+      --card-border: #e5e7eb;
+      --card-border-hover: #cbd5e1;
+      --section-rule: #e5e7eb;
+      --text-color: #0f172a;
+      --text-soft: #334155;
+      --text-body: #1f2937;
+      --text-muted: #6b7280;
+      --accent-color: #2563eb;
+      --accent-hover: #1d4ed8;
+      --locked-color: #94a3b8;
+      --tag-bg: #eff6ff;
+      --quote-bg: #f1f5f9;
+      --quote-rule: #cbd5e1;
+      --expanded-bg: #f1f5f9;
+      --locked-grad-start: #ffffff;
+      --locked-grad-end: #f3f4f6;
+      --locked-dash: #cbd5e1;
+      --locked-badge-bg: #e5e7eb;
+      --locked-badge-fg: #475569;
+      --footer-color: #94a3b8;
+      --toggle-bg: rgba(0,0,0,0.04);
+      --toggle-border: rgba(0,0,0,0.12);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', sans-serif; }
+    body { background-color: var(--bg-color); color: var(--text-color); padding: 40px 20px; display: flex; justify-content: center; align-items: flex-start; min-height: 100vh; transition: background-color 0.2s ease, color 0.2s ease; }
+    .container { width: 100%; max-width: 650px; display: flex; flex-direction: column; gap: 20px; }
+    header { text-align: center; margin-bottom: 10px; position: relative; padding-top: 48px; }
+    h1 { font-size: 2.3rem; font-weight: 700; letter-spacing: -0.5px; background: linear-gradient(45deg, #3b82f6, #9333ea); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; margin-bottom: 4px; }
+    .subtitle { font-size: 1rem; color: var(--text-muted); font-weight: 300; }
+    .theme-toggle { position: absolute; top: 0; right: 0; background: var(--toggle-bg); border: 1px solid var(--toggle-border); color: var(--text-color); cursor: pointer; padding: 6px 10px; border-radius: 20px; font-size: 0.85rem; line-height: 1; transition: background 0.2s ease; }
+    .theme-toggle:hover { background: var(--card-border); }
+    .level-toggle { position: absolute; top: 0; left: 0; display: flex; gap: 4px; background: var(--toggle-bg); border: 1px solid var(--toggle-border); border-radius: 20px; padding: 3px; }
+    .level-toggle button { background: transparent; color: var(--text-muted); border: none; cursor: pointer; padding: 4px 10px; border-radius: 16px; font-size: 0.8rem; font-weight: 600; transition: background 0.15s ease, color 0.15s ease; }
+    .level-toggle button.active { background: var(--accent-color); color: #fff; }
+    .level-toggle button:hover:not(.active) { color: var(--text-color); }
+    /* Concept-level gating: pro reader hides noob-only chips; hacker hides all. */
+    body.level-pro .expandable-concept[data-concept-level="noob"],
+    body.level-hacker .expandable-concept[data-concept-level] {
+      color: inherit; border-bottom: none; cursor: default; font-weight: inherit; pointer-events: none;
+    }
+    body.level-pro .expanded-content[data-concept-level="noob"],
+    body.level-hacker .expanded-content { display: none !important; }
+    .section-title { font-size: 1.3rem; font-weight: 700; color: var(--accent-hover); border-bottom: 1px solid var(--section-rule); padding-bottom: 6px; margin-top: 10px; }
+    .card { background-color: var(--card-bg); border: 1px solid var(--card-border); border-radius: 12px; padding: 14px 18px; display: flex; flex-direction: column; gap: 8px; transition: border-color 0.2s ease, background-color 0.2s ease; }
+    .card-body, .card-points { display: flex; flex-direction: column; gap: 4px; }
+    .card-points ul { margin: 0; }
+    .card:hover { border-color: var(--card-border-hover); }
+    .card-header { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .tag { background-color: var(--tag-bg); color: var(--accent-color); padding: 2px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; }
+    .source-link { font-size: 0.8rem; color: var(--text-muted); text-decoration: none; border-bottom: 1px dashed var(--text-muted); transition: all 0.2s ease; }
+    .source-link:hover { color: var(--accent-hover); border-bottom-color: var(--accent-hover); }
+    .item-text { font-size: 1rem; line-height: 1.45; color: var(--text-body); }
+    .source-quote { background: var(--quote-bg); border-left: 3px solid var(--quote-rule); border-radius: 4px 8px 8px 4px; padding: 10px 14px; font-style: italic; font-size: 0.92rem; color: var(--text-muted); }
+    .citations { padding: 8px 12px; background: var(--quote-bg); border-radius: 8px; }
+    .citations-label { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--accent-hover); letter-spacing: 0.04em; margin-bottom: 6px; }
+    .citations ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }
+    .citation-paper { font-size: 0.85rem; color: var(--text-body); font-weight: 600; }
+    .citation-claim { font-size: 0.82rem; color: var(--text-muted); line-height: 1.4; margin-top: 2px; }
+    .bullet-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px; }
+    .bullet-list li { position: relative; padding-left: 18px; line-height: 1.45; font-size: 1rem; }
+    .bullet-list li::before { content: "•"; color: var(--accent-color); font-weight: bold; position: absolute; left: 0; top: 0; }
+    .forum-item { display: flex; flex-direction: column; gap: 4px; }
+    .forum-meta { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+    .expandable-concept { color: var(--accent-hover); border-bottom: 1px dashed var(--accent-hover); cursor: pointer; font-weight: 600; }
+    .expanded-content { max-height: 0; overflow: hidden; background-color: var(--expanded-bg); border-radius: 6px; padding: 0 12px; margin: 0; transition: max-height 0.25s ease, padding 0.25s ease, margin 0.25s ease; font-size: 0.9rem; color: var(--text-soft); }
+    .expanded-content.open { max-height: 500px; padding: 10px 12px; margin-top: 4px; margin-bottom: 4px; border-left: 3px solid var(--accent-color); }
+    .locked-section { background: linear-gradient(180deg, var(--locked-grad-start) 0%, var(--locked-grad-end) 100%); border: 1px dashed var(--locked-dash); border-radius: 12px; padding: 24px; text-align: center; opacity: 0.85; }
+    .locked-title { font-size: 1.1rem; font-weight: 600; color: var(--locked-color); margin-bottom: 4px; }
+    .locked-badge { font-size: 0.7rem; background-color: var(--locked-badge-bg); color: var(--locked-badge-fg); padding: 1px 6px; border-radius: 4px; font-weight: 700; margin-left: 6px; }
+    footer { text-align: center; color: var(--footer-color); font-size: 0.75rem; margin-top: 12px; }
+    footer a { color: var(--footer-color); }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="level-toggle" role="tablist" aria-label="Reader knowledge level">
+        <button type="button" data-level="noob"   aria-pressed="false">Noob</button>
+        <button type="button" data-level="pro"    aria-pressed="true">Pro</button>
+        <button type="button" data-level="hacker" aria-pressed="false">Hacker</button>
+      </div>
+      <button type="button" class="theme-toggle" id="themeToggle" aria-label="Toggle dark/light mode">🌙 Dark</button>
+      <h1>Kruse Report 21/05/2026</h1>
+      <div class="subtitle">Cutting-edge biophysical vectors. No entry-level fluff.</div>
+    </header>
+      <div class="section-title">Twitter Updates (3 from @DrJackKruse)</div>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Post</span>
+          <a href="https://x.com/DrJackKruse/status/2057449884777582600" target="_blank" rel="noopener noreferrer" class="source-link">Read full source →</a>
+        </div>
+        <div class="item-text">8 years ago I did this with Scott.  Here is what has said a few days ago.  Scott said, &quot;Well, here&#39;s a little trip down memory lane, as some people have brought this video back to life that I recorded with Dr. Jack Kruse back in 2017. As many are aware, I&#39;ve been a follower of</div>
+        
+      </div>
       <div class="card">
         <div class="card-header">
           <span class="tag">Quote</span>
-          <a href="https://x.com/DrJackKruse/status/2057271433777078547" target="_blank" class="source-link">Read on X →</a>
+          <a href="https://x.com/DrJackKruse/status/2057271433777078547" target="_blank" rel="noopener noreferrer" class="source-link">Read full source →</a>
         </div>
         <div class="item-text">Few understand the biophysics of de-fragging the water lattice</div>
-        <div class="quoted">
-          <div class="quoted-author">@MidwesternDoc</div>
-          <div class="quoted-text">A lot of people have reported this to me</div>
-          <a href="https://x.com/MidwesternDoc/status/2057166468647686551" target="_blank" class="source-link">View quoted →</a>
-        </div>
+        <div class="source-quote">
+      <strong>@MidwesternDoc:</strong> A lot of people have reported this to me
+    </div>
       </div>
-
       <div class="card">
         <div class="card-header">
           <span class="tag">Quote</span>
-          <a href="https://x.com/DrJackKruse/status/2057266558649401351" target="_blank" class="source-link">Read on X →</a>
+          <a href="https://x.com/DrJackKruse/status/2057266558649401351" target="_blank" rel="noopener noreferrer" class="source-link">Read full source →</a>
         </div>
         <div class="item-text">The dyanmo failing.  Magnetic flux  turing to entropy.</div>
-        <div class="quoted">
-          <div class="quoted-author">@EthicalSkeptic</div>
-          <div class="quoted-text">Week 13 after the 2026 SST heat pulse commenced, and yet 
+        <div class="source-quote">
+      <strong>@EthicalSkeptic:</strong> Week 13 after the 2026 SST heat pulse commenced, and yet 
 
 1.  Still no Revenge of El Niño
 2. No Hunga-Tonga latitudinal water vapor banding
 3. No Sulfur dioxide clustering or banding
 4. No solar declination/seasonal effect
 
-Instead we see an upwelling convection difussion very</div>
-          <a href="https://x.com/EthicalSkeptic/status/2057236318388731933" target="_blank" class="source-link">View quoted →</a>
-        </div>
-      </div>
-
-      <footer>
-        Auto-generated by <a href="https://github.com/guyhouri/kruse-ai-scrape">kruse-ai-scrape</a>.
-        Source: <a href="https://x.com/DrJackKruse">@DrJackKruse</a>.
-      </footer>
+Instead we see an upwelling convection difussion very
     </div>
-  </body>
+      </div>
+    <div class="locked-section">
+      <div class="locked-title">
+        <span>Interact with Report (Ask AI)</span>
+        <span class="locked-badge">Soon</span>
+      </div>
+    </div>
+    <footer>
+      Auto-generated by <a href="https://github.com/guyHouri/kruse-ai-scrape">kruse-ai-scrape</a>.
+      Source: <a href="https://x.com/DrJackKruse">@DrJackKruse</a>.
+    </footer>
+  </div>
+  <script>
+    (function () {
+      function targetFor(chip) {
+        if (!chip || chip.getAttribute('aria-disabled') === 'true') return null;
+        var targetId = chip.getAttribute('data-concept-target');
+        if (!targetId) return null;
+        var panel = document.getElementById(targetId);
+        var card = chip.closest && chip.closest('.card');
+        if (!panel || !card || panel.closest('.card') !== card) return null;
+        if (chip.getAttribute('data-card-id') !== panel.getAttribute('data-card-id')) return null;
+        return panel;
+      }
+      function toggleChip(chip) {
+        var panel = targetFor(chip);
+        if (!panel) return;
+        var open = !panel.classList.contains('open');
+        panel.classList.toggle('open', open);
+        panel.setAttribute('aria-hidden', open ? 'false' : 'true');
+        chip.setAttribute('aria-expanded', open ? 'true' : 'false');
+      }
+      document.addEventListener('click', function (event) {
+        var chip = event.target.closest && event.target.closest('.expandable-concept[data-concept-target]');
+        if (!chip) return;
+        toggleChip(chip);
+      });
+      document.addEventListener('keydown', function (event) {
+        if (event.key !== 'Enter' && event.key !== ' ') return;
+        var chip = event.target.closest && event.target.closest('.expandable-concept[data-concept-target]');
+        if (!chip) return;
+        event.preventDefault();
+        toggleChip(chip);
+      });
+    })();
+    (function () {
+      var btn = document.getElementById('themeToggle');
+      var saved = null;
+      try { saved = localStorage.getItem('kruse-theme'); } catch (e) {}
+      if (saved === 'light') document.body.classList.add('light');
+      function syncLabel() {
+        if (!btn) return;
+        btn.textContent = document.body.classList.contains('light') ? '☀ Light' : '🌙 Dark';
+      }
+      syncLabel();
+      if (btn) btn.addEventListener('click', function () {
+        document.body.classList.toggle('light');
+        try { localStorage.setItem('kruse-theme', document.body.classList.contains('light') ? 'light' : 'dark'); } catch (e) {}
+        syncLabel();
+      });
+    })();
+    (function () {
+      var savedLevel = null;
+      try { savedLevel = localStorage.getItem('kruse-level'); } catch (e) {}
+      var initial = (savedLevel === 'noob' || savedLevel === 'pro' || savedLevel === 'hacker') ? savedLevel : 'pro';
+      function apply(level) {
+        document.body.classList.remove('level-noob', 'level-pro', 'level-hacker');
+        document.body.classList.add('level-' + level);
+        var btns = document.querySelectorAll('.level-toggle button');
+        for (var i = 0; i < btns.length; i++) {
+          var on = btns[i].getAttribute('data-level') === level;
+          btns[i].classList.toggle('active', on);
+          btns[i].setAttribute('aria-pressed', on ? 'true' : 'false');
+        }
+        var chips = document.querySelectorAll('.expandable-concept[data-concept-target]');
+        for (var j = 0; j < chips.length; j++) {
+          var disabled = level === 'hacker' || (level === 'pro' && chips[j].getAttribute('data-concept-level') === 'noob');
+          chips[j].setAttribute('aria-disabled', disabled ? 'true' : 'false');
+          chips[j].setAttribute('tabindex', disabled ? '-1' : '0');
+        }
+        try { localStorage.setItem('kruse-level', level); } catch (e) {}
+      }
+      apply(initial);
+      var btns = document.querySelectorAll('.level-toggle button');
+      for (var i = 0; i < btns.length; i++) {
+        (function (b) {
+          b.addEventListener('click', function () { apply(b.getAttribute('data-level')); });
+        })(btns[i]);
+      }
+    })();
+  </script>
+</body>
 </html>

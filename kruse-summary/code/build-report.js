@@ -35,17 +35,17 @@ function loadForumDay(date) {
   return JSON.parse(readFileSync(file, 'utf8'));
 }
 
-function renderForumSection(forumDay, summaryForum, hasCuratedSummary = false) {
+function renderForumSection(forumDay, summaryForum, context, hasCuratedSummary = false) {
   // Curated path (preferred): AI/hand summary supplied themed bullets.
   if (summaryForum?.bullets?.length) {
-    let conceptCursor = 1000; // separate id-namespace from twitter cards
     const items = summaryForum.bullets.map((b) => {
+      const cardId = context.nextCardId();
       const link = b.thread_url
         ? `<a href="${esc(b.thread_url)}" target="_blank" rel="noopener noreferrer" class="source-link">See full thread →</a>`
         : `<a href="https://forum.jackkruse.com" target="_blank" rel="noopener noreferrer" class="source-link">forum.jackkruse.com →</a>`;
-      const { html: bodyHtml, expanded } = renderBodyWithConcepts(b.summary || '', b.concepts || {}, conceptCursor++);
+      const { html: bodyHtml, expanded } = renderBodyWithConcepts(b.summary || '', b.concepts || {}, context, cardId);
       return `<li>
-        <div class="forum-item">
+        <div class="forum-item" data-card-id="${esc(cardId)}">
           <div class="forum-meta">
             <strong>${esc(b.title)}:</strong>
             ${link}
@@ -56,7 +56,7 @@ function renderForumSection(forumDay, summaryForum, hasCuratedSummary = false) {
       </li>`;
     }).join('');
     return `      <div class="section-title">Forum Updates</div>
-      <div class="card"><ul class="bullet-list">${items}</ul></div>`;
+      <div class="card" data-card-id="forum-bullets"><ul class="bullet-list">${items}</ul></div>`;
   }
   // Fallback: raw scraped posts only when no curated summary exists. Curated
   // reports must keep forum content under the same AI selection process as X.
@@ -113,25 +113,47 @@ function conceptInfo(entry) {
   return { level: entry.level || 'pro', text: entry.text || '' };
 }
 
+function normalizeConceptKey(term) {
+  return String(term || '').toLowerCase().replace(/[^a-z0-9+ ]/g, '').replace(/\s+/g, ' ').trim();
+}
+
+function conceptInfoForTerm(concepts, term) {
+  const direct = conceptInfo(concepts?.[term]);
+  if (direct?.text) return direct;
+  const wanted = normalizeConceptKey(term);
+  if (!wanted) return direct;
+  const match = Object.entries(concepts || {})
+    .find(([key]) => normalizeConceptKey(key) === wanted);
+  return match ? conceptInfo(match[1]) : direct;
+}
+
+function createRenderContext() {
+  let nextCard = 0;
+  let nextConcept = 0;
+  return {
+    nextCardId: () => `card-${nextCard++}`,
+    nextConceptId: () => `concept-${nextConcept++}`,
+  };
+}
+
 // Renders `body` text. Any token "{{concept:Some Term}}" becomes an
 // inline `<span class="expandable-concept" data-concept-level="...">`.
 // Reader-level CSS may visually downgrade the chip to plain text.
-function renderBodyWithConcepts(body, concepts, cardIdx) {
+function renderBodyWithConcepts(body, concepts, context, cardId) {
   const usedConceptIds = [];
   const safeBody = String(body || '');
   let out = '';
   const re = /\{\{concept:([^}]+?)\}\}/g;
   let last = 0;
   let m;
-  let n = 0;
   while ((m = re.exec(safeBody))) {
     out += esc(safeBody.slice(last, m.index));
     const term = m[1].trim();
-    const id = `c-${cardIdx}-${n++}`;
-    const info = conceptInfo(concepts?.[term]);
+    const id = context.nextConceptId();
+    const info = conceptInfoForTerm(concepts, term);
     const level = info?.level || 'pro';
     usedConceptIds.push({ id, term, level, info });
-    out += `<span class="expandable-concept" data-concept-level="${esc(level)}" onclick="toggleConcept('${id}')">${esc(term)}</span>`;
+    out += `<span class="expandable-concept" data-card-id="${esc(cardId)}" data-concept-target="${esc(id)}" data-concept-level="${esc(level)}" role="button" tabindex="0" aria-controls="${esc(id)}" aria-expanded="false">${esc(term)}</span>`;
     last = m.index + m[0].length;
   }
   out += esc(safeBody.slice(last));
@@ -139,15 +161,16 @@ function renderBodyWithConcepts(body, concepts, cardIdx) {
 
   const expanded = usedConceptIds.map(({ id, term, level, info }) => {
     if (!info?.text) return '';
-    return `<div id="${id}" class="expanded-content" data-concept-level="${esc(level)}">
+    return `<div id="${esc(id)}" class="expanded-content" data-card-id="${esc(cardId)}" data-concept-level="${esc(level)}" aria-hidden="true">
       <strong>${esc(term)}:</strong> ${esc(info.text)}
     </div>`;
   }).join('\n');
   return { html: out, expanded };
 }
 
-function renderCuratedCard(card, idx) {
-  const { html: bodyHtml, expanded } = renderBodyWithConcepts(card.body, card.concepts, idx);
+function renderCuratedCard(card, context) {
+  const cardId = context.nextCardId();
+  const { html: bodyHtml, expanded } = renderBodyWithConcepts(card.body, card.concepts, context, cardId);
   const sourceLink = (card.source_urls && card.source_urls[0])
     || (card.source_ids && card.source_ids[0] && `https://x.com/i/status/${card.source_ids[0]}`)
     || 'https://x.com/DrJackKruse';
@@ -160,8 +183,8 @@ function renderCuratedCard(card, idx) {
   let pointsBlock = '';
   if (Array.isArray(card.points) && card.points.length) {
     let pointsExpanded = '';
-    const items = card.points.map((p, i) => {
-      const { html, expanded: ex } = renderBodyWithConcepts(p, card.concepts, idx * 100 + i);
+    const items = card.points.map((p) => {
+      const { html, expanded: ex } = renderBodyWithConcepts(p, card.concepts, context, cardId);
       pointsExpanded += ex;
       return `<li>${html}</li>`;
     }).join('');
@@ -193,7 +216,7 @@ function renderCuratedCard(card, idx) {
     quote,
   ].filter(Boolean).join('');
 
-  return `      <div class="card">${sections}</div>`;
+  return `      <div class="card" data-card-id="${esc(cardId)}">${sections}</div>`;
 }
 
 function renderFallbackTweetCard(t, idx) {
@@ -239,10 +262,9 @@ function renderEmptySectionCard(sectionTitle, day, forumDay) {
       </div>`;
 }
 
-function renderSections(summary, day, forumDay) {
-  let cardCursor = 0;
+function renderSections(summary, day, forumDay, context) {
   return summary.sections.map((sec) => {
-    const cards = sec.cards.map((c) => renderCuratedCard(c, cardCursor++)).join('\n');
+    const cards = sec.cards.map((c) => renderCuratedCard(c, context)).join('\n');
     const body = cards || renderEmptySectionCard(sec.title, day, forumDay);
     return `      <div class="section-title">${esc(sec.title)}</div>
 ${body}`;
@@ -261,17 +283,18 @@ ${day.tweets?.length ? cards : empty}`;
 export function buildReportHtml(date, summary = null) {
   const day = loadDay(date);
   const forumDay = loadForumDay(date);
+  const renderContext = createRenderContext();
   const dateDisplay = formatDdMmYyyy(date);
   const hasCuratedCards = curatedCardCount(summary) > 0;
   const subtitle = summary
     ? (hasCuratedCards ? summary.headline_subtitle : `No high-signal updates passed the report gate for ${date}.`)
     : 'Cutting-edge biophysical vectors. No entry-level fluff.';
   const twitterHtml = summary?.sections?.length
-    ? renderSections(summary, day, forumDay)
+    ? renderSections(summary, day, forumDay, renderContext)
     : renderFallbackSections(day);
   // Forum is included by default; set INCLUDE_FORUM=false to hide it.
   const includeForum = process.env.INCLUDE_FORUM !== 'false';
-  const forumHtml = includeForum ? renderForumSection(forumDay, summary?.forum, Boolean(summary)) : '';
+  const forumHtml = includeForum ? renderForumSection(forumDay, summary?.forum, renderContext, Boolean(summary)) : '';
   const sectionsHtml = [twitterHtml, forumHtml].filter(Boolean).join('\n');
   info(`built report for ${date}: ${summary ? `${summary.sections.length} section(s) curated` : `${day.tweets?.length || 0} raw tweets`}${forumDay ? ` + ${forumDay.posts?.length || 0} forum posts` : ''}`);
 
@@ -412,10 +435,38 @@ ${sectionsHtml}
     </footer>
   </div>
   <script>
-    function toggleConcept(id) {
-      var el = document.getElementById(id);
-      if (el) el.classList.toggle('open');
-    }
+    (function () {
+      function targetFor(chip) {
+        if (!chip || chip.getAttribute('aria-disabled') === 'true') return null;
+        var targetId = chip.getAttribute('data-concept-target');
+        if (!targetId) return null;
+        var panel = document.getElementById(targetId);
+        var card = chip.closest && chip.closest('.card');
+        if (!panel || !card || panel.closest('.card') !== card) return null;
+        if (chip.getAttribute('data-card-id') !== panel.getAttribute('data-card-id')) return null;
+        return panel;
+      }
+      function toggleChip(chip) {
+        var panel = targetFor(chip);
+        if (!panel) return;
+        var open = !panel.classList.contains('open');
+        panel.classList.toggle('open', open);
+        panel.setAttribute('aria-hidden', open ? 'false' : 'true');
+        chip.setAttribute('aria-expanded', open ? 'true' : 'false');
+      }
+      document.addEventListener('click', function (event) {
+        var chip = event.target.closest && event.target.closest('.expandable-concept[data-concept-target]');
+        if (!chip) return;
+        toggleChip(chip);
+      });
+      document.addEventListener('keydown', function (event) {
+        if (event.key !== 'Enter' && event.key !== ' ') return;
+        var chip = event.target.closest && event.target.closest('.expandable-concept[data-concept-target]');
+        if (!chip) return;
+        event.preventDefault();
+        toggleChip(chip);
+      });
+    })();
     (function () {
       var btn = document.getElementById('themeToggle');
       var saved = null;
@@ -444,6 +495,12 @@ ${sectionsHtml}
           var on = btns[i].getAttribute('data-level') === level;
           btns[i].classList.toggle('active', on);
           btns[i].setAttribute('aria-pressed', on ? 'true' : 'false');
+        }
+        var chips = document.querySelectorAll('.expandable-concept[data-concept-target]');
+        for (var j = 0; j < chips.length; j++) {
+          var disabled = level === 'hacker' || (level === 'pro' && chips[j].getAttribute('data-concept-level') === 'noob');
+          chips[j].setAttribute('aria-disabled', disabled ? 'true' : 'false');
+          chips[j].setAttribute('tabindex', disabled ? '-1' : '0');
         }
         try { localStorage.setItem('kruse-level', level); } catch (e) {}
       }

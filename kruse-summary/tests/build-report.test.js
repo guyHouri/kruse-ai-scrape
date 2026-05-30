@@ -100,8 +100,9 @@ test('forum cards render clickable source links and unique concept expanders', (
     html,
     new RegExp(`<a href="${forumUrl}" target="_blank" rel="noopener noreferrer" class="source-link">Read full source`),
   );
-  assert.match(html, /onclick="toggleConcept\('c-0-0'\)">shared term<\/span>/);
-  assert.match(html, /id="c-0-0" class="expanded-content"[\s\S]*Twitter explanation\./);
-  assert.match(html, /onclick="toggleConcept\('c-1-0'\)">shared term<\/span>/);
-  assert.match(html, /id="c-1-0" class="expanded-content"[\s\S]*Forum explanation\./);
+  assert.doesNotMatch(html, /onclick="toggleConcept/);
+  assert.match(html, /data-card-id="card-0" data-concept-target="concept-0"[\s\S]*>shared term<\/span>/);
+  assert.match(html, /id="concept-0" class="expanded-content" data-card-id="card-0"[\s\S]*Twitter explanation\./);
+  assert.match(html, /data-card-id="card-1" data-concept-target="concept-1"[\s\S]*>shared term<\/span>/);
+  assert.match(html, /id="concept-1" class="expanded-content" data-card-id="card-1"[\s\S]*Forum explanation\./);
 });

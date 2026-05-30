@@ -19,6 +19,8 @@
     "build-input": "node code/build-input.js",
     "build-site": "node code/build-site.js",
     "test": "node --test tests/*.test.js",
+    "verify-report": "node code/verify-report-interactions.js",
+    "verify-report:all": "node code/verify-report-interactions.js --all",
     "sync-mailing-list": "node code/sync-mailing-list.js",
     "deploy-site": "npm run build-site && npx --yes gh-pages@latest -d site -b gh-pages -r https://github.com/guyHouri/kruse-ai-scrape.git --dotfiles -m \"Deploy Kruse report site\"",
     "force-send": "node main.js --force"
@@ -27,5 +29,8 @@
     "@anthropic-ai/sdk": "^0.98.0",
     "dotenv": "^16.4.5",
     "nodemailer": "^7.0.7"
+  },
+  "devDependencies": {
+    "playwright": "^1.60.0"
   }
 }

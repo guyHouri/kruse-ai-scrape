@@ -165,6 +165,7 @@ jobs:
           set -euo pipefail
           echo "::group::kruse-summary npm install"
           npm install
+          npx playwright install --with-deps chromium
           echo "::endgroup::"
           echo "::group::kruse-summary unit + website tests"
           npm test
@@ -260,10 +261,28 @@ jobs:
           fi
           echo "::group::Summarize with Anthropic and send email"
           case "$MODE" in
-            build-only) node main.js --build-only --use-ai $DATE_FLAG ;;
-            force)      node main.js --force --use-ai $DATE_FLAG ;;
-            send-existing) node main.js --force $DATE_FLAG ;;
-            *)          node main.js --use-ai $DATE_FLAG ;;
+            build-only)
+              node main.js --build-only --use-ai $DATE_FLAG
+              npm run verify-report -- --date=$DATE
+              ;;
+            force)
+              node main.js --build-only --use-ai $DATE_FLAG
+              npm run verify-report -- --date=$DATE
+              node main.js --force $DATE_FLAG
+              npm run verify-report -- --date=$DATE
+              ;;
+            send-existing)
+              node main.js --build-only $DATE_FLAG
+              npm run verify-report -- --date=$DATE
+              node main.js --force $DATE_FLAG
+              npm run verify-report -- --date=$DATE
+              ;;
+            *)
+              node main.js --build-only --use-ai $DATE_FLAG
+              npm run verify-report -- --date=$DATE
+              node main.js $DATE_FLAG
+              npm run verify-report -- --date=$DATE
+              ;;
           esac
           echo "::endgroup::"
 
@@ -290,6 +309,7 @@ jobs:
           set -euo pipefail
           echo "::group::Build static report site"
           npm run build-site
+          npm run verify-report -- --date=${{ steps.target.outputs.date }} --dir=site/reports
           echo "::endgroup::"
 
       - name: Mirror public report site into docs
